@@ -2,7 +2,7 @@
 po/skype.pot : lang/English.lang po/header.pot
 	(cat po/header.pot | sed "s/XXXX-XX-XX XX:XX-XXXX/`date '+%Y-%m-%d %H:%M:%S%z' | sed 's/00$$$$/:00/'`/"; cat lang/English.lang | iconv -f utf16 -t utf8 | tr -d "\015" | sed 's/["\\]/\\&/g' | sed 's/^\([^=]*\)=\(.*\)$$/msgctxt "\1"\nmsgid "\2"\nmsgstr ""\n/') > $@
 
-updatepos: FORCE
+updatepos: po/skype.pot FORCE
 	ls po/*.po | while read x; do echo "Updating $$x..."; msgmerge -q --backup=off -U $$x po/skype.pot > /dev/null 2>&1; done
 
 po2lang: FORCE
