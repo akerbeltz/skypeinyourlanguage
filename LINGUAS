@@ -1,7 +1,9 @@
 ady Adyghe.lang
 af Afrikaans.lang
+an Aragones.lang
 be Bielaruskaja.lang
 br Brezhoneg.lang
+bs Bosanski.lang
 cv Chuvash.lang
 cy Cymraeg.lang
 eo Esperanto.lang
@@ -11,6 +13,8 @@ fo Foroyskt.lang
 ga Gaeilge.lang
 gd Gaidhlig.lang
 hy Hayeren.lang
+ka Georgian.lang
+km Khmer.lang
 kw Kernewek.lang
 lij Ligure.lang
 mk Makedonski.lang
@@ -18,8 +22,10 @@ mwl Mirandese.lang
 myv Erzya.lang
 nia LiNiha.lang
 nn Nynorsk.lang
+pfl Paelzisch.lang
 sq Shqip.lang
 ta Tamil.lang
+te Telugu.lang
 tj Tajik.lang
 ug Uyghurche.lang
 ug-Latn Uyghurche-Latin.lang
