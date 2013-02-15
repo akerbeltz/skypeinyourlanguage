@@ -11,7 +11,7 @@ msgstr ""
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit\n" 
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
@@ -1467,22 +1467,6 @@ msgstr ""
 msgctxt "sSTATUSPAGE_SKYPEOUT_NO"
 msgid "Call mobile phones and landlines at great low rates"
 msgstr ""
-
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
-msgctxt "sF_OPTIONS_LB_FFC"
-msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PAUSED"
 msgid "Sending paused."
@@ -5594,18 +5578,6 @@ msgctxt "sZAPBUTTON_NONE"
 msgid "none"
 msgstr "هيج"
 
-msgctxt "sZAPBUTTON_DUMMYLEFT"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_DUMMYRIGHT"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_DUMMYMIDDLE"
-msgid ""
-msgstr ""
-
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
 msgstr "پذيرش"
@@ -5654,18 +5626,6 @@ msgstr "افزودن به كنفرانس"
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
 msgstr "افزودن به تماس ها"
-
-msgctxt "sZAPBUTTON_AF_PINNED"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_AF_UNPINNED"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_ALLCONTACTS"
-msgid ""
-msgstr ""
 
 msgctxt "sZAPBUTTON_ALLOW"
 msgid "Allow"
@@ -6513,14 +6473,6 @@ msgstr "انتخاب كشور"
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
 msgstr "بي صدا"
-
-msgctxt "sZAPBUTTON_MYSELFTOP"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_MYSELFBOTTOM"
-msgid ""
-msgstr ""
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -7707,8 +7659,6 @@ msgid ""
 "You need Skype Credit to send text messages (SMS). <a href=\"skype:?payments"
 "\">Buy Skype Credit now</a>"
 msgstr ""
-"You need Skype credit to send SMS. <a href=\"skype:?payments\">Buy Skype "
-"Credit now</a>"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_TOO_MANY"
 msgid "Sending too many files at once."
@@ -9285,7 +9235,7 @@ msgstr "Remove read conversations"
 
 msgctxt "sINBOX_CLEAR_CONVERSATIONS"
 msgid "Hide read conversations"
-msgstr "Remove read conversations"
+msgstr ""
 
 #, fuzzy
 msgctxt "sF_CONVERSATIONS_MANY"
@@ -9741,8 +9691,6 @@ msgid ""
 "Are you sure you want to block <b>%s</b>? They won't be able to contact you "
 "and won't appear in your Contact List."
 msgstr ""
-"Are you sure you want to block <b>%s</b>? They will be removed from your "
-"Contact list and they won't be able to contact you."
 
 msgctxt "sBLOCK_ABUSE_TEXT2"
 msgid ""
@@ -9790,8 +9738,6 @@ msgid ""
 "Are you sure you want to block these people? They won't be able to contact "
 "you and won't appear in your Contact List."
 msgstr ""
-"Are you sure you want to block these people? They will be removed from your "
-"Contact list and won't be able to contact you."
 
 msgctxt "sGSW_SEARCHING_WEBCAM"
 msgid "Searching for a webcam. Please wait..."
@@ -10682,7 +10628,6 @@ msgid ""
 "Your Skype Wi-Fi Access session is due to expire in {MINUTES_REMAINING} "
 "minutes."
 msgstr ""
-"Your Skype Access session is due to expire in {MINUTES_REMAINING} minutes."
 
 msgctxt "sSKYACCESS_TRAY_EXTENDSESSION"
 msgid "Extend your session"
@@ -10912,7 +10857,7 @@ msgstr ""
 
 msgctxt "sSKYACCESS_WARN_QUIT_SKYPE"
 msgid "Quitting Skype will end your Skype Wi-Fi Access session. Continue?"
-msgstr "Quitting Skype will end your Skype Access session. Continue?"
+msgstr ""
 
 msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype Wi-Fi Access…"
@@ -11332,7 +11277,7 @@ msgstr "دسترسي اسكايپ"
 
 msgctxt "sSKYACCESS_TRAYICON_HINT_CONNECTED"
 msgid "Skype Wi-Fi Access connected (%s / %s)"
-msgstr "Skype Access connected (%s / %s)"
+msgstr ""
 
 #, fuzzy
 msgctxt "sGROUP_CALL_REJECTED_IN"
@@ -11698,14 +11643,6 @@ msgctxt "sCQ_CAM_SEND_HIGH_ON_CALL_DESC"
 msgid ""
 "Not seeing each other's video? You should both turn your video off then on "
 "again, or plug your webcams into a different USB port and restart."
-msgstr ""
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
-msgid ""
-msgstr ""
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
-msgid ""
 msgstr ""
 
 #, fuzzy
@@ -12615,8 +12552,6 @@ msgid ""
 "Hi there! I've got group video calling - a great new feature that means you, "
 "me and at least one other person can get together on a video call."
 msgstr ""
-"Hi there! I've got group video calling - a great new feature that means you, "
-"me and and at least one other person can get together on a video call."
 
 msgctxt "sHOME_CAPTION"
 msgid "Skype Home"
@@ -13370,15 +13305,15 @@ msgstr "Send Contacts..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Show My Desktop"
-msgstr "Share Screens..."
+msgstr ""
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's mobile number to send them text messages (SMS)"
-msgstr "Add this person's phone number to send them text messages (SMS)"
+msgstr ""
 
 msgctxt "sSMSPOPUP_DESC_NOCREDIT"
 msgid "You need Skype Credit to send text messages (SMS)"
-msgstr "You need Skype Credit to send SMS"
+msgstr ""
 
 msgctxt "sSMSPOPUP_DESC_CLI"
 msgid ""
@@ -13480,8 +13415,6 @@ msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
 msgid ""
 "<a href=\"skype:?go#subscriptions?country=%s\">Get another subscription</a>"
 msgstr ""
-"<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get another "
-"subscription</a>"
 
 #, fuzzy
 msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
@@ -13528,7 +13461,7 @@ msgstr "از %s"
 
 msgctxt "sSMS_TO_BUTTON"
 msgid "To: %s"
-msgstr "To %s"
+msgstr ""
 
 #, fuzzy
 msgctxt "sSMS"
@@ -13586,7 +13519,7 @@ msgstr ""
 
 msgctxt "sCALL_POPUP_VOICEMAIL"
 msgid "Voicemail"
-msgstr "Voice message"
+msgstr ""
 
 #, fuzzy
 msgctxt "sPROFILE_STATUS_OFFLINE_CF"
@@ -13595,7 +13528,7 @@ msgstr "Offline. Calls will be received as a voice message."
 
 msgctxt "sPROFILE_STATUS_OFFLINE_VM"
 msgid "Offline. Calls will go to voicemail."
-msgstr "Offline. Calls will be received as a voice message."
+msgstr ""
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_FLAMINGO"
 msgid "You can't send files to Facebook friends."
@@ -13650,8 +13583,6 @@ msgid ""
 "%s • <a href=\"skype:?go#skype.manager.request-products\">Request more "
 "credit</a>"
 msgstr ""
-"%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">Request more "
-"credit</a>"
 
 msgctxt "sCALLPHONES_PRO_CREDIT_WARNING"
 msgid "Low on credit!"
@@ -13672,8 +13603,6 @@ msgid ""
 "<a href=\"skype:?go#skype.manager.request-products\">Request a subscription</"
 "a>"
 msgstr ""
-"<a href=\"skype:?go&sso=1#skype.manager.request-products\">Request a "
-"subscription</a>"
 
 msgctxt "sCALL_POPUP_EDIT_EXTENSION"
 msgid "Choose country code for this phone"
@@ -13707,7 +13636,7 @@ msgstr "افزودن تماس اسكايپي"
 
 msgctxt "sLIVE_CONV_VOICEMAIL_RECORDING"
 msgid "Recording voicemail %s"
-msgstr "Recording voice message %s"
+msgstr ""
 
 msgctxt "sFLAMINGO_EASY_TO_CONNECT"
 msgid "We've made it easy to message your Facebook friends."
@@ -13724,7 +13653,7 @@ msgstr ""
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add participants, send files and more"
-msgstr "Add, send and share..."
+msgstr ""
 
 #, fuzzy
 msgctxt "sLIVE_SCREEN_MENU_HINT"
@@ -13756,7 +13685,6 @@ msgstr ""
 msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
 msgid "<a href=\"skype:?go#subscriptions?country=%s\">Get a subscription</a>"
 msgstr ""
-"<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get a subscription</a>"
 
 #, fuzzy
 msgctxt "sCALLPHONES_COUNTRY_DROPDOWN_HINT"
@@ -13842,7 +13770,7 @@ msgstr ""
 
 msgctxt "sWTF_SMILEY"
 msgid "What the fuck"
-msgstr "What the...( wtf)"
+msgstr ""
 
 msgctxt "sWFH_SMILEY"
 msgid "Working from home"
@@ -13891,10 +13819,9 @@ msgctxt "sF_UPGRADE_BTN_NOTNOW"
 msgid "Not now"
 msgstr "تست شود"
 
-#, fuzzy
 msgctxt "sAVATAR_CAPTURE_CAPTION"
 msgid "Set your profile picture"
-msgstr "Take a video snapshot"
+msgstr ""
 
 #, fuzzy
 msgctxt "sAVATAR_CAPTURE_TAKE_SANAPSHOT_BUTTON"
@@ -13936,7 +13863,7 @@ msgstr ""
 
 msgctxt "sDELETE_VOICEMAIL_DLG_CAPTION"
 msgid "Voicemail not deleted"
-msgstr "Voice message not deleted"
+msgstr ""
 
 #, fuzzy
 msgctxt "sLIVE_CALLING"
@@ -13949,7 +13876,7 @@ msgstr ""
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Sure you don't want bigger picture? It will be easier for you to see."
-msgstr "Pick a bigger picture. It will be easier for people to see."
+msgstr ""
 
 #, fuzzy
 msgctxt "sAVATAR_CAPTURE_CHANGE_PICTURE"
@@ -13958,24 +13885,23 @@ msgstr "تغيير تصوير"
 
 msgctxt "sPLUS_MENU_ADD_PEOPLE"
 msgid "Add people to this conversation"
-msgstr "Add people..."
+msgstr ""
 
 msgctxt "sCHAT_PARTNER_FLAMINGO_OFFLINE_4"
 msgid "You are currently offline and unable to chat"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr "Add, send and share..."
+msgstr ""
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share your desktop"
-msgstr "You need to be on a call to share screens"
+msgstr ""
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_TITLE"
 msgid "Share Your Desktop"
-msgstr "Share Screens"
+msgstr ""
 
 #, fuzzy
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_OK"
@@ -13992,8 +13918,6 @@ msgid ""
 "Group calling, sending files, and other things are available only between "
 "Skype users"
 msgstr ""
-"When you're both using Skype, you can send files, share screens and invite "
-"others to group calls."
 
 #, fuzzy
 msgctxt "sMAINMENU_VIEW_FLAMINGO_CONTACTS"
@@ -14005,10 +13929,9 @@ msgctxt "sAVATAR_CAPTURE_DONT_SHOW_AGAIN"
 msgid "Don't show this again"
 msgstr "دوباره نمايش داده نشود"
 
-#, fuzzy
 msgctxt "sAVATAR_CAPTURE_SET_PUBLIC_CAPTION"
 msgid "Set your profile picture to public"
-msgstr "Take a video snapshot"
+msgstr ""
 
 msgctxt "sAVATAR_CAPTURE_SET_PUBLIC_TEXT"
 msgid ""
