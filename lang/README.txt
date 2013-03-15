@@ -49,8 +49,8 @@ Translator(s): sreamthedj
 Source: Transifex
 
 Breton (Brezhoneg)
-Translator(s): Ofis ar Brezhoneg (?)
-Source: http://www.ofis-bzh.org/bzh/actualite/zoom/index.php?actualite_id=289
+Translator(s): Fulup Jakez
+Source: Ofis ar Brezhoneg
 
 Chuvash (Чӑвашла)
 Translator(s): Unknown
