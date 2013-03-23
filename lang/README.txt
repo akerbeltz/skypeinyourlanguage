@@ -129,6 +129,9 @@ Source: Transifex
 Scottish Gaelic (Gàidhlig)
 Translator: Michael Bauer
 
+Serbian (Cyrillic; српски)
+Translator: DakSrbija
+
 Tajik (Тоҷикӣ, تاجیکی‎)
 Translator(s): Unknown
 Source: http://www.millat.tj/AFpersian%20cirillic.lang
