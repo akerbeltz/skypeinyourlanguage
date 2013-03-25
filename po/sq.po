@@ -1,17 +1,15 @@
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
 msgid ""
 msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ahmet Murati <ahmetmurati@gmail.com>\n"
+"Language-Team: Albanian (http://www.transifex.com/projects/p/skype-"
+"translation-project/language/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
@@ -45,8 +43,8 @@ msgctxt "sQUIT_PROMPT"
 msgid ""
 "You won't be able to send or receive instant messages and calls if you do."
 msgstr ""
-"Ju nuk do të jeni në gjendje të dërgoni ose të pranoni mesazhe të çastit si "
-"dhe thirrje nëse e bëni."
+"Nuk do të jesh në gjendje të dërgosh ose të pranosh mesazhe të çastit si dhe "
+"thirrje nëse e bëni."
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
@@ -104,10 +102,9 @@ msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
 msgstr "Duke u lidhur"
 
-#, fuzzy
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
@@ -230,7 +227,7 @@ msgstr "Përsërit fjalëkalimin"
 
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
-msgstr "Keni harruar fjalëkalimin tuaj?"
+msgstr "Ke harruar fjalëkalimin tuaj?"
 
 msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
 msgid "Yes, send me Skype news and promotions"
@@ -242,7 +239,7 @@ msgstr "Tanimë keni një llogari të Skype? <a href=\"x\">Lidhu</a>"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2003-2013 Skype and/or Microsoft"
-msgstr "© 2003-2012 Skype Technologies S.A."
+msgstr "© 2003-2013 Skype dhe/ose Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -282,7 +279,7 @@ msgstr "Telefon celular"
 
 msgctxt "sF_USERPROFILE_LB_EMAIL"
 msgid "Email"
-msgstr "E-posta"
+msgstr "Posta elektronike"
 
 msgctxt "sF_USERPROFILE_LB_HOMEPAGE"
 msgid "Website"
@@ -306,7 +303,7 @@ msgstr "Kur të klikoj dyherë në një kontakt nis një thirrje"
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
-msgstr "Nis Skype kur niset Windows"
+msgstr "Nis Skype kur të niset Windows"
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
@@ -342,7 +339,7 @@ msgstr "- Opsionet"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
 msgid "© 2003 - 2013 Skype and/or Microsoft"
-msgstr "E drejta e kopjes 2003 - 2012 Skype"
+msgstr "© 2003 - 2013 Skype dhe/ose Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -353,8 +350,8 @@ msgid ""
 "The Skype name, associated trademarks and logos and the \"S\" logo are "
 "trademarks of Skype or related entities."
 msgstr ""
-"Emri Syke, i shoqëruar me markat tregtare dhe stemat dhe stemën \"S\" janë "
-"marka tregtare të Skype."
+"Emri Skype, me markat tregtare dhe stemat dhe stemën \"S\" të shoqëruara  "
+"janë marka tregtare të Skype dhe palëve të ndërlidhura."
 
 msgctxt "sF_ABOUT_WARNING_1"
 msgid ""
@@ -654,7 +651,6 @@ msgstr ""
 "Numër i thirrjes së shpejtë&lt;%s&gt; është tashmë i përdorur për %s. Ju "
 "lutemi përzgjidhni një numër tjetër."
 
-#, fuzzy
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
 msgstr "Rreth Skype"
@@ -859,7 +855,7 @@ msgstr "Lidhu"
 
 msgctxt "sBUDDYMENU_INVITE_CONFERENCE"
 msgid "Invite to group call"
-msgstr "Fto në Konferencë"
+msgstr "Fto në thirrje grupore"
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
@@ -3113,7 +3109,7 @@ msgstr "Shkruani numrin tuaj celular"
 
 msgctxt "sOUTLOOK_GROUP_TITLE"
 msgid "Microsoft Office Outlook"
-msgstr ""
+msgstr "Microsoft Office Outlook"
 
 msgctxt "sF_TRANSLATE_SEARCH"
 msgid "Search"
@@ -3584,7 +3580,7 @@ msgstr "I/e brengosur"
 
 msgctxt "sMMM_SMILEY"
 msgid "mmmmm..."
-msgstr ""
+msgstr "mmmmm..."
 
 msgctxt "sNERDY_SMILEY"
 msgid "Nerdy"
@@ -3672,7 +3668,7 @@ msgstr "Godit"
 
 msgctxt "sEMO_SMILEY"
 msgid "Emo"
-msgstr ""
+msgstr "Emo"
 
 msgctxt "sYES_SMILEY"
 msgid "Yes"
@@ -3686,10 +3682,9 @@ msgctxt "sHANDSHAKE_SMILEY"
 msgid "Handshake"
 msgstr "Shtrëngim duarsh"
 
-#, fuzzy
 msgctxt "sSKYPE_SMILEY"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sHEART_SMILEY"
 msgid "Heart"
@@ -3781,7 +3776,7 @@ msgstr "Gisht"
 
 msgctxt "sBANDIT_SMILEY"
 msgid "Bandit"
-msgstr ""
+msgstr "Bandit"
 
 msgctxt "sDRUNK_SMILEY"
 msgid "Drunk"
@@ -3813,7 +3808,7 @@ msgstr "Insekt"
 
 msgctxt "sFUBAR_SMILEY"
 msgid "FUBAR"
-msgstr ""
+msgstr "FUBAR"
 
 msgctxt "sTMI_SMILEY"
 msgid "Too much information"
@@ -3831,7 +3826,7 @@ msgid ""
 "System Tray at the bottom of your screen and choose Open Skype."
 msgstr ""
 "Përderisa ky program është duke u ekzekutuar ti nuk do të shikosh ndonjë "
-"thirrje, MÇtë ose ngjarjet Skype, megjithëse ti ende do të fillosh të "
+"thirrje, MÇ të ose ngjarjet Skype, megjithëse ti ende do të fillosh të "
 "dëgjosh cingërimën kur dikush ju thirr juve. Për tu kthyer në normal, shtyp "
 "ikonën e Skype në Sirtarin e Sistemit në fund të ekranit tuaj dhe zgjedh Hap "
 "Skypen."
@@ -4267,10 +4262,9 @@ msgctxt "sCHAT_SETOPTIONS_UNMUTED_ALL"
 msgid "%s has allowed people in this conversation to write messages"
 msgstr "%s i lejoi njerëzit në këtë bisedë të shkruajnë mesazhe"
 
-#, fuzzy
 msgctxt "sPREMIUMCALL_WEBWINDOW_TITLE"
 msgid "Skype Prime"
-msgstr "Emri Skype"
+msgstr "Skype Prime"
 
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
@@ -4782,34 +4776,6 @@ msgctxt "sZAPBUTTON_NONE"
 msgid "none"
 msgstr "asnjë"
 
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
-msgctxt "sZAPBUTTON_DUMMYFULL"
-msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgctxt "sZAPBUTTON_DUMMYLEFT"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_DUMMYRIGHT"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_DUMMYMIDDLE"
-msgid ""
-msgstr ""
-
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
 msgstr "Prano"
@@ -4857,18 +4823,6 @@ msgstr "Shto në thirrje grupore"
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
 msgstr "Shto te kontaktet"
-
-msgctxt "sZAPBUTTON_AF_PINNED"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_AF_UNPINNED"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_ALLCONTACTS"
-msgid ""
-msgstr ""
 
 msgctxt "sZAPBUTTON_ALLOW"
 msgid "Allow"
@@ -5080,23 +5034,23 @@ msgstr "Gabim i kualitetit të thirrjes"
 
 msgctxt "sZAPBUTTON_CQ_5STAR"
 msgid "*****"
-msgstr ""
+msgstr "*****"
 
 msgctxt "sZAPBUTTON_CQ_4STAR"
 msgid "****"
-msgstr ""
+msgstr "****"
 
 msgctxt "sZAPBUTTON_CQ_3STAR"
 msgid "***"
-msgstr ""
+msgstr "***"
 
 msgctxt "sZAPBUTTON_CQ_2STAR"
 msgid "**"
-msgstr ""
+msgstr "**"
 
 msgctxt "sZAPBUTTON_CQ_1STAR"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "sZAPBUTTON_CALLPHONES"
 msgid "Call phones"
@@ -5106,7 +5060,6 @@ msgctxt "sZAPBUTTON_CANCEL"
 msgid "Cancel"
 msgstr "Anulo"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
 msgstr "Shto numër telefonik"
@@ -5159,10 +5112,9 @@ msgctxt "sZAPBUTTON_CONVERSATIONCLASSIC"
 msgid "Show the window containing the conversation"
 msgstr "Shfaq dritaren duke përmbajtur bisedimin"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sZAPBUTTON_CONVERSATIONSHOME"
 msgid "Home"
@@ -5334,7 +5286,7 @@ msgstr "Fshih"
 
 msgctxt "sZAPBUTTON_FIVE"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "sZAPBUTTON_FILE"
 msgid "File"
@@ -5354,16 +5306,15 @@ msgstr "Dil nga mënyra kërcyese"
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "TopUpHelp"
-msgstr ""
+msgstr "Ndihma në mbushjen elektronike"
 
 msgctxt "sZAPBUTTON_FILETRANSFER"
 msgid "File Transfer"
 msgstr "Transferimi i skedarit"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CHATBOOK"
 msgid "Facebook"
-msgstr "Përditësimet nga Facebook"
+msgstr "Facebook"
 
 msgctxt "sZAPBUTTON_TRANSFERCALL"
 msgid "Transfer this call"
@@ -5415,7 +5366,7 @@ msgstr "Të gjitha messazhet"
 
 msgctxt "sZAPBUTTON_FOUR"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "sZAPBUTTON_FINDFRIENDS"
 msgid "Find friends"
@@ -5435,7 +5386,7 @@ msgstr "<ks>P</ks>araprake"
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "FollowLink"
-msgstr ""
+msgstr "Ndjek vjegëza"
 
 msgctxt "sZAPBUTTON_FORWARD"
 msgid "Forward"
@@ -5477,10 +5428,9 @@ msgctxt "sZAPBUTTON_GETSTARTED"
 msgid "<b><font type=\"Arial\">Get started</font></b>"
 msgstr "<b><font type=\"Arial\">Fillo</font></b>"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_GROUPCALLSKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sZAPBUTTON_GROUPCALLHOME"
 msgid "Home"
@@ -5502,10 +5452,9 @@ msgctxt "sZAPBUTTON_CALLTRANSFER"
 msgid "Call transfer"
 msgstr "Transfero thirrjen"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLTRANSFERSKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sZAPBUTTON_CALLTRANSFERHOME"
 msgid "Home"
@@ -5523,10 +5472,9 @@ msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
 msgstr "Të tjerë"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sZAPBUTTON_ADDPEOPLEHOME"
 msgid "Home"
@@ -5598,17 +5546,15 @@ msgstr "Shtëpi"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "HomeOrange"
-msgstr ""
+msgstr "ShtëpiaOrange"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
 msgid "AddContactSemiActive"
-msgstr "Shto kontakt..."
+msgstr "AddContactSemiActive"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
-msgstr "Ndi&hma"
+msgstr "Ndihma"
 
 msgctxt "sZAPBUTTON_INFOALT"
 msgid "Info"
@@ -5656,19 +5602,19 @@ msgstr "Menyja"
 
 msgctxt "sZAPBUTTON_MPV_LEFT"
 msgid "MPV left"
-msgstr ""
+msgstr "MPV majtas"
 
 msgctxt "sZAPBUTTON_MPV_CENTER"
 msgid "MPV center"
-msgstr ""
+msgstr "MPV qendër"
 
 msgctxt "sZAPBUTTON_MPV_RIGHT"
 msgid "MPV right"
-msgstr ""
+msgstr "MPV djathtas"
 
 msgctxt "sZAPBUTTON_MPV_ALONE"
 msgid "MPV alone"
-msgstr ""
+msgstr "MPV veçmas"
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
@@ -5696,11 +5642,11 @@ msgstr "SMS grupor"
 
 msgctxt "sZAPBUTTON_MESSAGESMS_ON"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sZAPBUTTON_MESSAGESMSDROPDOWN"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sZAPBUTTON_MESSAGEIM"
 msgid "IM"
@@ -5710,10 +5656,9 @@ msgctxt "sZAPBUTTON_MESSAGEFROM"
 msgid "From"
 msgstr "Nga"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr "Ndërpre Skype"
+msgstr "përmes Skype"
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5734,14 +5679,6 @@ msgstr "Mbyll monitoruesin e thirrjes"
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
 msgstr "Hesht"
-
-msgctxt "sZAPBUTTON_MYSELFTOP"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_MYSELFBOTTOM"
-msgid ""
-msgstr ""
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -5797,7 +5734,7 @@ msgstr "Mirë"
 
 msgctxt "sZAPBUTTON_ONE"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
@@ -6133,7 +6070,7 @@ msgstr "Shfaq mesazhet"
 
 msgctxt "sZAPBUTTON_SIX"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "sZAPBUTTON_SKIPVERSION"
 msgid "Skip version"
@@ -6179,10 +6116,9 @@ msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
 msgstr "Dërgo mesazh me video"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr "Duke reproduktuar mesazhin zanor"
+msgstr "Reprodukto mesazh video"
 
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
@@ -6218,11 +6154,11 @@ msgstr "Ndal"
 
 msgctxt "sZAPBUTTON_THREE"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "sZAPBUTTON_TWO"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "sZAPBUTTON_UP"
 msgid "Up"
@@ -6264,10 +6200,9 @@ msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
 msgstr "Ndal videon"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr "Thirrje video"
+msgstr "Video"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
@@ -6281,10 +6216,9 @@ msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
 msgstr "Dërgo mesazh përditësimi"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MSNUPGRADESENDMESSAGE"
 msgid "Send download message"
-msgstr "Dërgo mesazh përditësimi"
+msgstr "Dërgo shkarko mesazhin"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREWINDOW"
 msgid "Show selected window"
@@ -6454,10 +6388,9 @@ msgctxt "sZAPBUTTON_DENYACCESS"
 msgid "Deny access"
 msgstr "Refuzo qasjen"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PARTNER"
 msgid "Partner"
-msgstr "Aheng"
+msgstr "Partner"
 
 msgctxt "sZAPBUTTON_FEEDBACK"
 msgid "Give feedback"
@@ -6497,11 +6430,11 @@ msgstr "Ç'heshti altoparlatët tuaj"
 
 msgctxt "sZAPBUTTON_INVITEADDCONTACT"
 msgid "Yes, please"
-msgstr "Po, please"
+msgstr "Po, të lutem"
 
 msgctxt "sZAPBUTTON_INVITEDONTADD"
 msgid "No, thanks"
-msgstr "Jo, thanks"
+msgstr "Jo, faleminderit"
 
 msgctxt "sZAPBUTTON_INVITEADDMORE"
 msgid "Add more contacts"
@@ -6547,7 +6480,6 @@ msgctxt "sZAPBUTTON_SKYPEWIFIDISCONNECT"
 msgid "Disconnect"
 msgstr "Shkëputu"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
 msgstr "Thirrje video"
@@ -6726,12 +6658,11 @@ msgstr "Mesazhet zanore"
 
 msgctxt "sCONVERSATIONSEARCH_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
-#, fuzzy
 msgctxt "sZAPCONTACT_SKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sCALL_VM_RERECORD"
 msgid "Re-record the voice message"
@@ -7003,7 +6934,7 @@ msgstr "Largo"
 
 msgctxt "sOPTIONS_MEGABYTES"
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgctxt "sOPTIONS_AUDIO_DEVICE_NONE"
 msgid "None"
@@ -7060,10 +6991,9 @@ msgctxt "sF_IMPORTCONTACTS_LB_TITLE"
 msgid "Find your friends"
 msgstr "Gjej miqtë tuaj"
 
-#, fuzzy
 msgctxt "sMAINMENU_SKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
@@ -7171,7 +7101,7 @@ msgstr "Mesazh i çastit (M)"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_FILE"
 msgid "File..."
@@ -7261,10 +7191,9 @@ msgctxt "sMAINMENU_CALL_AUDIO"
 msgid "Audio Settings..."
 msgstr "Cilësimet e zërimit..."
 
-#, fuzzy
 msgctxt "sMAINMENU_CALL_VIDEO"
 msgid "Video"
-msgstr "Thirrje video"
+msgstr "Video"
 
 msgctxt "sMAINMENU_CALL_VIDEO_SNAPSHOT"
 msgid "Video Snapshot"
@@ -7326,10 +7255,9 @@ msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
 msgstr "Opsionet..."
 
-#, fuzzy
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr "Ndi&hma"
+msgstr "Ndihma"
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
@@ -7862,7 +7790,7 @@ msgstr "%s dërgoi një mesazh zanor"
 
 msgctxt "sFILESIZE_UNIT"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgctxt "sCALL_LB2_FINISHED2"
 msgid "Call ended, duration %s"
@@ -7954,11 +7882,11 @@ msgstr "Thirr"
 
 msgctxt "sDIALPAD_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sFILESIZE_PREFIXES"
 msgid "\\k\\M\\G\\T"
-msgstr ""
+msgstr "\\k\\M\\G\\T"
 
 msgctxt "sBLOCK_TEXT2"
 msgid ""
@@ -8096,10 +8024,9 @@ msgctxt "sF_OPTIONS_LBL_VISUAL_STYLE"
 msgid "Visual style of the window"
 msgstr "Stili vizual i dritare"
 
-#, fuzzy
 msgctxt "sF_OPTIONS_RB_CHROME_SKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sF_OPTIONS_RB_CHROME_DEFAULT"
 msgid "Classic Windows"
@@ -8640,7 +8567,7 @@ msgstr "%d kontakte u dërguan te grupi"
 
 msgctxt "sF_OPTIONS_CF_ERROR6"
 msgid "You are not allowed to forward calls to Skype Test Call"
-msgstr "Ju nuk jeni të lejuar të përcillni thirrjet te Thirrja Testuese Skype"
+msgstr "Ju nuk i  lejuar të përcillësh thirrjet te Thirrja Testuese Skype"
 
 msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
 msgid "In call"
@@ -8805,10 +8732,9 @@ msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
 msgstr "Ndërprej"
 
-#, fuzzy
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
-msgstr "Ndërpreje Skype WiFi"
+msgstr "Skype WiFi"
 
 msgctxt "sF_OPTIONS_LBC_SKYACCESS"
 msgid "<b>Skype WiFi:</b> Use Skype Credit to pay for internet access"
@@ -8849,10 +8775,9 @@ msgctxt "sSKYACCESS_WARN_QUIT_SKYPE"
 msgid "Quitting Skype will end your Skype WiFi session. Continue?"
 msgstr "Mbyllja e Skypes do të përfundojë seancën tuaj të Skype WiFi. Vazhdo?"
 
-#, fuzzy
 msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr "Ndërpreje Skype WiFi"
+msgstr "Skype WiFi..."
 
 msgctxt "sALERTS_TITLE"
 msgid "Notifications"
@@ -9208,10 +9133,9 @@ msgctxt "sCALLALERT_TRANSFER_BY"
 msgid "Call transfer from <b>%s</b>"
 msgstr "Transfero thirrjen nga <b>%s</b>"
 
-#, fuzzy
 msgctxt "sSKYACCESS_TRAYICON_HINT"
 msgid "Skype WiFi"
-msgstr "Ndërpreje Skype WiFi"
+msgstr "Skype WiFi"
 
 msgctxt "sSKYACCESS_TRAYICON_HINT_CONNECTED"
 msgid "Skype WiFi connected (%s / %s)"
@@ -9238,10 +9162,9 @@ msgctxt "sTASKBAR_MENU_QUIT"
 msgid "Quit Skype"
 msgstr "Ndëprej Skype"
 
-#, fuzzy
 msgctxt "sTASKBAR_MENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr "Ndërpreje Skype WiFi"
+msgstr "Skype WiFi..."
 
 msgctxt "sTRAYALERT_AUTH_REQUEST"
 msgid "New contact request"
@@ -9632,14 +9555,6 @@ msgstr ""
 "rindizni, ose ta vendosni uebkamerën tuaj në një port USB tjetër dhe ta "
 "rinisni Skypen."
 
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
-msgid ""
-msgstr ""
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
-msgid ""
-msgstr ""
-
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_TITLE"
 msgid "Your computer speed is very slow"
 msgstr "Shpejtësia e llogaritësit tuaj është shumë e ngadalshme"
@@ -9968,10 +9883,9 @@ msgctxt "sCQ_INDICATOR_SPK_BUTTON_HINT"
 msgid "Speakers"
 msgstr "Altoparlantët"
 
-#, fuzzy
 msgctxt "sCQ_INDICATOR_CAM_BUTTON_HINT"
 msgid "Video"
-msgstr "Thirrje video"
+msgstr "Video"
 
 msgctxt "sCQ_INDICATOR_NET_BUTTON_HINT"
 msgid "Internet connection"
@@ -10323,16 +10237,15 @@ msgstr "Fotografia ime"
 
 msgctxt "sOPTIONS_SMS_STATUS_LB11"
 msgid "This number has already been verified"
-msgstr "Ky numrë tashmë është i vërtetuar"
+msgstr "Ky numër tashmë është i vërtetuar"
 
 msgctxt "sMAINMENU_FLAMINGO_OPEN"
 msgid "Facebook Updates"
 msgstr "Përditësimet nga Facebook"
 
-#, fuzzy
 msgctxt "sFLAMINGO_CAPTION"
 msgid "Facebook"
-msgstr "Përditësimet nga Facebook"
+msgstr "Facebook"
 
 msgctxt "sLIVE_ADD_NUMBER_SEARCH_TEXT"
 msgid "Add this number"
@@ -10426,15 +10339,13 @@ msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT"
 msgid "Add Contact"
 msgstr "Shto kontakt..."
 
-#, fuzzy
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
-msgstr "Kërko direktorinë e Skype"
+msgstr "Kërko direktorinë Skype..."
 
-#, fuzzy
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT_PANEL"
 msgid "Save a Phone Number..."
-msgstr "Shto numër telefonik..."
+msgstr "Ruaj një Numër telefonik..."
 
 msgctxt "sPREM_VIDEO_DONT_SHOW_AGAIN"
 msgid "Don't show again"
@@ -10466,12 +10377,11 @@ msgstr "Thirrje grupore me video"
 
 msgctxt "sPREM_VIDEO_DLG_CAPTION"
 msgid "Introducing group video calling"
-msgstr "Duke iu njoftuar thirrjen grupore me vidoe"
+msgstr "Duke iu njoftuar thirrjen grupore me video"
 
-#, fuzzy
 msgctxt "sCALLPHONES_RATES_PAYG_MINUTE"
 msgid "%s/min"
-msgstr "Nga %s/min"
+msgstr "%s/min"
 
 msgctxt "sPREM_VIDEO_CANCEL"
 msgid "Close"
@@ -10629,10 +10539,9 @@ msgctxt "sPROFILE_PRIVACY_BUDDIES_LONG"
 msgid "Contacts only - visible just to your contacts"
 msgstr "Vetëm kontaktet - e dukshme vetëm për kontaktet tuaj"
 
-#, fuzzy
 msgctxt "sPROFILE_PRIVACY_PRIVATE_SHORT"
 msgid "Private"
-msgstr "Privatësia"
+msgstr "Privat"
 
 msgctxt "sPROFILE_PRIVACY_PRIVATE_LONG"
 msgid "Private - visible only to you"
@@ -11032,10 +10941,9 @@ msgctxt "sMYSELF_PROFILE_ADD_CITY"
 msgid "Add city"
 msgstr "Shto qytet"
 
-#, fuzzy
 msgctxt "sLIVE_PRICE_FORMAT"
 msgid "%s/min"
-msgstr "Nga %s/min"
+msgstr "%s/min"
 
 msgctxt "sOPTIONS_DISPLAY_AVATARS"
 msgid "Show profile pictures in Contact List"
@@ -11215,10 +11123,9 @@ msgctxt "sF_CALL_FAILURE_TEXT2"
 msgid "Show rates to"
 msgstr "Shfaq tarifat te"
 
-#, fuzzy
 msgctxt "sF_CALL_FAILURE_CREDIT_TEXT"
 msgid "Pay As You Go"
-msgstr "Tarifat Pay As You Go nga"
+msgstr "Paguaj as sa përdor"
 
 msgctxt "sF_CALL_FAILURE_SUBSCRIPTION_TEXT"
 msgid "Pay monthly"
@@ -11314,7 +11221,7 @@ msgstr "Te: %s"
 
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
-msgstr "(%s/min përf. VAT)"
+msgstr "(%s/min përfsh. VAT)"
 
 msgctxt "sCALLPHONES_SUBSCR_INC_VAT"
 msgid "(%s incl. VAT)"
@@ -11358,7 +11265,7 @@ msgstr "Shkëputur. Thirrjet do të pranohen si një mesazh zanor."
 
 msgctxt "sCALLPHONES_AUTOCOMPLETE_ITEM"
 msgid "%s (%s: %s)"
-msgstr ""
+msgstr "%s (%s: %s)"
 
 msgctxt "sMENU_EDIT_COLUMN_ACCNAME"
 msgid "Edit"
@@ -11499,10 +11406,9 @@ msgstr ""
 "Ndonjë aplikacion tjetër mund të jetë duke përdorur Copëzadërrasën për këtë "
 "çast. Ju lutem provo përsëri"
 
-#, fuzzy
 msgctxt "sFLAMINGO_PRESENCE_HINT"
 msgid "(Facebook)"
-msgstr "Përditësimet nga Facebook"
+msgstr "(Facebook)"
 
 msgctxt "sF_OPTIONS_NOTIF_FLAMINGO_ONLINE"
 msgid "comes online (on Facebook)"
@@ -11522,7 +11428,7 @@ msgstr "Gishtat e kryqëzuar"
 
 msgctxt "sFACEPALM_SMILEY"
 msgid "Facepalm"
-msgstr ""
+msgstr "Marrojse"
 
 msgctxt "sWAITING_SMILEY"
 msgid "Waiting"
@@ -11534,15 +11440,15 @@ msgstr "Cakrroma"
 
 msgctxt "sLALALA_SMILEY"
 msgid "Lalala"
-msgstr ""
+msgstr "Lalala"
 
 msgctxt "sHEIDY_SMILEY"
 msgid "Heidy"
-msgstr ""
+msgstr "Lumturuar"
 
 msgctxt "sTUMBLEWEED_SMILEY"
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Kaçubë"
 
 msgctxt "sWTF_SMILEY"
 msgid "What the... (wtf)"
@@ -11554,7 +11460,7 @@ msgstr "Duke punuar nga shtëpia"
 
 msgctxt "sHOLLEST_SMILEY"
 msgid "Hollest"
-msgstr ""
+msgstr "Hollest"
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
@@ -11856,10 +11762,9 @@ msgctxt "sGETTING_STARTED_SAVE_BUTTON"
 msgid "Use this picture"
 msgstr "Përdor këtë fotografi"
 
-#, fuzzy
 msgctxt "sZAPCONTACT_XMPP"
 msgid "Facebook"
-msgstr "Përditësimet nga Facebook"
+msgstr "Facebook"
 
 msgctxt "sGETTING_STARTED_TRY_AGAIN"
 msgid "Try again"
@@ -11950,15 +11855,13 @@ msgctxt "sCALL_IN_PROGRESS_HANG_UP"
 msgid "Calling %s will end your current call"
 msgstr "Thirrja e %s do ta ndërpresë thirrjen e tanishme"
 
-#, fuzzy
 msgctxt "sCALL_FLAMINGO"
 msgid "Facebook"
-msgstr "Përditësimet nga Facebook"
+msgstr "Facebook"
 
-#, fuzzy
 msgctxt "sSTATUSMENU_FLAMINGO"
 msgid "Facebook"
-msgstr "Përditësimet nga Facebook"
+msgstr "Facebook"
 
 msgctxt "sSTATUSMENU_FLAMINGO_SAMEASSKYPE"
 msgid "Same as on Skype"
@@ -12024,10 +11927,9 @@ msgctxt "sSMS_FROM_MORE_OPTIONS"
 msgid "More options"
 msgstr "Më tepër opsione"
 
-#, fuzzy
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sSMS_FROM_MY_PHONE"
 msgid "My mobile"
@@ -12186,10 +12088,9 @@ msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
 msgstr "Në linjë"
 
-#, fuzzy
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
-msgstr "Përditësimet nga Facebook"
+msgstr "Facebook"
 
 msgctxt "sPREM_SCREENSHARING_WEB_WINDOW_CAPTION"
 msgid "Screen sharing"
@@ -12199,10 +12100,9 @@ msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
 msgstr "Të gjithë"
 
-#, fuzzy
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sSELECTED_LIST_HINT"
 msgid "Change Contact list"
@@ -12224,10 +12124,9 @@ msgstr ""
 "Ju duhet Skype Premium për ta ndarë ekranin në një thirrje me video ose "
 "thirrje grupore. <a href=\"%s\">Mëso më tepër</a>"
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_WINDOW_CAPTION"
 msgid "Skype WiFi"
-msgstr "Ndërpreje Skype WiFi"
+msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_INTRO_HEADER"
 msgid "Introducing Skype WiFi"
@@ -12389,7 +12288,7 @@ msgstr "Numri i kartelës"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_MONTH"
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_YEAR"
 msgid "yy"
@@ -12573,10 +12472,9 @@ msgctxt "sSKYPEWIFI_EXTEND_REMAINING_ONE"
 msgid "1 minute remaining"
 msgstr "1 minut i mbetur"
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_FLOATER_TITLE"
 msgid "Skype WiFi"
-msgstr "Ndërpreje Skype WiFi"
+msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_FLOATER_REMAINING"
 msgid "{MINUTES_REMAINING} minutes remaining"
@@ -12602,10 +12500,9 @@ msgctxt "sSKYPEWIFI_FLOATER_EXTEND"
 msgid "Click here to extend your session"
 msgstr "Kliko këto që ta zgjatni seancën tuaj"
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_FAQ_CAPTION"
 msgid "Skype WiFi"
-msgstr "Ndërpreje Skype WiFi"
+msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_FAQ_TITLE"
 msgid "FAQ"
@@ -12684,102 +12581,89 @@ msgstr ""
 "Kontaktet në këtë listë nuk do të fshihen. Ju ende mund ta gjeni nën \"Të "
 "gjithë\""
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
-msgstr "Vendos fotografinë tuaj të profilit"
+msgstr "Fotografitë tuaja paraprake"
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADING"
 msgid "Sending"
-msgstr "Dërgimi i skedarit"
+msgstr "Duke dërguar"
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
-msgstr "I dërguar"
+msgstr "E dërguar"
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_FAILED"
 msgid "Video message not sent"
-msgstr "Mesazhi zanor nuk u fshi"
+msgstr "Mesazhi video nuk u dërgua"
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_DELETED"
 msgid "Video message removed"
-msgstr "Mesazh u larguar"
+msgstr "Mesazhi video u largua"
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_EXPIRED"
 msgid "Video message expired"
-msgstr "Mesazh video"
+msgstr "Mesazhi video skadoi"
 
 msgctxt "sVIDEOMSG_LEGACY_MESSAGE"
 msgid ""
 "You've got a video message. To see it, simply copy this secret code %2 and "
 "<a href=\"%1\">watch your video message here</a>"
 msgstr ""
+"Ju keni një mesazh video. Për ta parë atë, thjeshtë kopjoni kodin sekret %2 "
+"dhe <a href=\"%1\">shiko mesazhin tuaj video këtu</a>"
 
-#, fuzzy
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
 msgstr "Mbyll"
 
-#, fuzzy
 msgctxt "sADD_CONTACT_PANEL_SEARCH_HINT"
 msgid "Name, Skype Name or email"
-msgstr "Emri Skype nuk është i gatshëm"
+msgstr "Emri, Emri Skype ose posta elektronike"
 
 msgctxt "sUPSELL_PANEL_MESSAGE"
 msgid "<a href=\"x\">Do even more</a> when you're both on Skype."
-msgstr ""
+msgstr "<a href=\"x\">Bë diç më tepër</a> kur ju të dy të jeni në Skype."
 
-#, fuzzy
 msgctxt "sUPSELL_PANEL_POPUP_SEARCHFRIEND"
 msgid "Search for <a href=\"x\">%s</a> on Skype."
-msgstr "Kërko për njerëz në Skype"
+msgstr "Kërko për <a href=\"x\">%s</a> në Skype."
 
-#, fuzzy
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr "Dërgo mesazh"
+msgstr "Dërgo një mesazh"
 
-#, fuzzy
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
 msgstr "Dërgo SMS"
 
 msgctxt "sSEND_SMS_TARGET_HINT"
 msgid "Change where you send SMS."
-msgstr ""
+msgstr "Ndërro ku ju dërgoni SMS."
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
-msgstr ""
+msgstr "Ndërro ju pranoni përgjigje SMS."
 
-#, fuzzy
 msgctxt "sSEND_SMS_TARGET_MENU_TITLE"
 msgid "Send SMS to"
-msgstr "Dërgo SMS"
+msgstr "Dërgo SMS te"
 
-#, fuzzy
 msgctxt "sSEND_SMS_REPLYTO_TITLE"
 msgid "Reply to %s"
-msgstr "Thirr te %s"
+msgstr "Përgjigju te %s"
 
-#, fuzzy
 msgctxt "sSEND_SMS_REPLYTO_PROPOSE_MOBILE_VERIFICATION"
 msgid "Receive replies on your mobile"
-msgstr "Për të pranuar përgjgje SMS në celularin tuaj"
+msgstr "Prano përgjigje në celularin tuaj"
 
-#, fuzzy
 msgctxt "sCONTACT_PROFILE_ADD_PHONE_TO"
 msgid "Add a number for %s"
-msgstr "Shto numër"
+msgstr "Shto një numër për %s"
 
 msgctxt "sCONTACT_GROUP_MESSENGER"
 msgid "Messenger"
-msgstr ""
+msgstr "Messenger"
 
 msgctxt "sOPTIONS_ALLOW_DATA_COLLECTION1"
 msgid ""
@@ -12787,6 +12671,10 @@ msgid ""
 "automatically sending us periodic reports about Skype’s performance on this "
 "device, including error reports."
 msgstr ""
+"Ndihmo përmirësimin e produkteve të Skype dhe produkte dhe shërbime tjera të "
+"Microsoftit duke na dërguar automatikisht raporte periodike rreth "
+"efikasitetit të Skype në këtë pajisje, duke përfshirë edhe raportet e "
+"gabimeve."
 
 msgctxt "sOPTIONS_ALLOW_DATA_COLLECTION2"
 msgid ""
@@ -12794,39 +12682,38 @@ msgid ""
 "will not use it to identify you or contact you. <a href=\"skype:?go#privacy"
 "\">Learn More</a>"
 msgstr ""
+"Raportet mund të përmbajnë ID-në tuaj të Skype dhe/ose ID-në e llogarisë së "
+"Microsfot-tit, por ne nuk do t'i përdorim ato për t'iu identifikuar ose "
+"kontaktuar juve. <a href=\"skype:?go#privacy\">Mëso më tepër</a>"
 
 msgctxt "sLIVE_LOGIN_BACK"
 msgid "Go back"
-msgstr ""
+msgstr "Shko mbrapa"
 
-#, fuzzy
 msgctxt "sLIVE_LOGIN_AUTO_SIGNIN"
 msgid "Sign me in when Skype starts"
-msgstr "Më lidh kur Skype të niset"
+msgstr "Më lidh kur të niset Skype "
 
-#, fuzzy
 msgctxt "sLIVE_LOGIN_DIFF_ACCOUNT"
 msgid "Sign in with a different account"
-msgstr "Përzgjedh një kontakt tjetër"
+msgstr "Kyçu me një llogari tjetër"
 
 msgctxt "sLIVE_LOGIN_SCRIPTERROR"
 msgid "This page contains errors."
-msgstr ""
+msgstr "Kjo faqe përmbanë gabime."
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE1"
 msgid "<b>Enter</b> will send your message."
-msgstr ""
+msgstr "<b>Enter</b> do të dërgojë mesazhin tuaj."
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE2"
 msgid "If you wanted a line break use CTRL+ENTER."
-msgstr ""
+msgstr "Nëse dëshiroje ta përdorje thyerjen e rreshtit përdor CTRL+ENTER."
 
-#, fuzzy
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_SENDNOW"
 msgid "Send"
 msgstr "Dërgo"
 
-#, fuzzy
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_NOTYET"
 msgid "Cancel"
 msgstr "Anulo"
@@ -12836,218 +12723,206 @@ msgid ""
 "To send SMS to this number, you need to <a href=\"skype:?options#sms"
 "\">verify your mobile number</a>."
 msgstr ""
+"Për të dërguar SMS te ky numër, ju duhet <a href=\"skype:?options#sms\">ta "
+"vërtetoni numrin tuaj mobil</a>."
 
-#, fuzzy
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
-msgstr "%s ju ka shtuar juve si një kontakt."
+msgstr "Përshëndetje %s, do të doja t'iu shtoja në Skype."
 
-#, fuzzy
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER"
 msgid "Add number"
 msgstr "Shto numër"
 
-#, fuzzy
 msgctxt "sADD_PHONES_FORM_ADD_NAME"
 msgid "Add name"
-msgstr "Shto numër"
+msgstr "Shto emër"
 
-#, fuzzy
 msgctxt "sADD_PHONES_FORM_NUMBER"
 msgid "Number"
-msgstr "Numrat"
+msgstr "Numri"
 
-#, fuzzy
 msgctxt "sADD_PHONES_FORM_NAME"
 msgid "Name"
 msgstr "Emri"
 
 msgctxt "sADD_PHONES_FORM_TYPE"
 msgid "Type"
-msgstr ""
+msgstr "Lloji"
 
-#, fuzzy
 msgctxt "sSMS_FAILED_BUY_CREDIT"
 msgid "<a href=\"skype:?payments\">Buy Skype Credit</a>"
-msgstr "<a href=\"skype:?payments#skypeout\">Blejë kredi Skype </a>"
+msgstr "<a href=\"skype:?payments\">Blejë Kredi Skype</a>"
 
 msgctxt "sMSN_UPSELL_PANEL_MESSAGE"
 msgid ""
 "%s isn’t using Skype. Help them download it now. <a href=\"x\">Learn more.</"
 "a>"
 msgstr ""
+"%s nuk është duke përdorur Skype. Ndihmoji atyre ta shkarkojnë atë. <a href="
+"\"x\">Mëso më tepër.</a>"
 
 msgctxt "sMSN_UPSELL_PANEL_POPUP_MESSAGE"
 msgid ""
 "<b>Do more Skype to Skype</b><br /><br />When you're both using Skype, you "
 "can send files, share screens and invite others to group calls."
 msgstr ""
+"<b>Bë më tepër nga Skype në Skype</b><br /><br />Ku ju të dy e përdorni "
+"Skype, ju mund të dërgoni skedarë, ndani ekranet dhe t'i ftoni të tjerët në "
+"thirrje grupore."
 
 msgctxt "sMSN_UPSELL_PANEL_CHAT_MESSAGE"
 msgid ""
 "Hey, we’re not contacts on Skype yet. Go to skype.com and you can download "
 "it now for free."
 msgstr ""
+"Hej, ne nuk jemi kontakte në Skype ende. Shko te skype.com dhe ju mund ta "
+"shkarkoni atë falas."
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_LOGINHELP_HEADER"
 msgid "You’re connected to supported WiFi"
-msgstr "Ju tani jeni i lidhur me WiFi"
+msgstr "Ju jeni lidhur me një WiFi të përkrahur"
 
 msgctxt "sSKYPEWIFI_LOGINHELP_DESC"
 msgid "Please enter your Skype Name and password to start using Skype WiFi"
 msgstr ""
+"Të lutem jep Emrin Skype dhe fjalëkalimin që të fillosh ta përdorësh Skype "
+"WiFi"
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_LOGINHELP_BUTTON"
 msgid "Learn more"
 msgstr "Mëso më tepër"
 
-#, fuzzy
 msgctxt "sOUTLOOK_CAPTION"
 msgid "Outlook"
-msgstr "Kontakt Outlook-u"
+msgstr "Outlook"
 
 msgctxt "sMESSENGER_CAPTION"
 msgid "Messenger"
-msgstr ""
+msgstr "Messenger"
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
 msgid ""
 "No results for %s<br/><a href=\"skype:?go#share\">Send an email invitation</"
 "a>"
 msgstr ""
+"Pa rezultate për %s<br/><a href=\"skype:?go#share\">Dërgoji një ftesë postë "
+"elektronike</a>"
 
-#, fuzzy
 msgctxt "sSTATUS_UNKNOWN2"
 msgid "This person isn't in your Contact list."
-msgstr "Ky përdorues tashmë është në listën tuaj të kontakteve"
+msgstr "Ky person nuk është në Listën e kontakteve tuaja."
 
-#, fuzzy
 msgctxt "sCHAT_CONTENT_ACC_TYPING"
 msgid "%s is typing"
-msgstr "%s është shkëputur"
+msgstr "%s është duke shkruar"
 
 msgctxt "sQUICK_FILTER_ADD_SKYPEOUT"
 msgid ""
 "<a href=\"skype:?show_add_phone&number=%s\">Save phone number</a> or<a href="
 "\"skype:%s?call\"> call phone number</a>"
 msgstr ""
+"<a href=\"skype:?show_add_phone&number=%s\">Ruaj numër telefonik</a> ose<a "
+"href=\"skype:%s?call\">thirr nummë telefonik</a>"
 
-#, fuzzy
 msgctxt "sQUICK_FILTER_ADD_SKYPE"
 msgid "Search all people on Skype"
-msgstr "Kërko për njerëz në Skype"
+msgstr "Kërko të gjithë njerëzit në Skype"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_SKYPE"
 msgid "Skype"
-msgstr "Thirrje Skype"
+msgstr "Skype"
 
 msgctxt "sCHANNEL_SWITCHER_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
-#, fuzzy
 msgctxt "sCHAT_MESSAGING_UNAVAILABLE"
 msgid "Messaging unavailable."
-msgstr "Mesazhimi zanor është i disponueshëm"
+msgstr "Mesazhimi nuk është i disponueshëm."
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_FACEBOOK"
 msgid "Facebook"
-msgstr "Përditësimet nga Facebook"
+msgstr "Facebook"
 
 msgctxt "sCHANNEL_SWITCHER_PASSPORT"
 msgid "Messenger"
-msgstr ""
+msgstr "Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
 msgid "via <a href=\"x\">Skype</a>"
-msgstr "• <a href=\"%s\">Rinovo</a>"
+msgstr "përmes <a href=\"x\">Skype</a>"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_VIA_SMS"
 msgid "via <a href=\"x\">SMS</a>"
-msgstr "• <a href=\"%s\">Rinovo</a>"
+msgstr "përmes <a href=\"x\">SMS</a>"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_VIA_FACEBOOK"
 msgid "via <a href=\"x\">Facebook</a>"
-msgstr "• <a href=\"%s\">Rinovo</a>"
+msgstr "përmes <a href=\"x\">Facebook</a>"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_VIA_PASSPORT"
 msgid "via <a href=\"x\">Messenger</a>"
-msgstr "• <a href=\"%s\">Rinovo</a>"
+msgstr "përmes <a href=\"x\">Messenger</a>"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
 msgid "via <a href=\"x\">Lync</a>"
-msgstr "• <a href=\"%s\">Rinovo</a>"
+msgstr "përmes <a href=\"x\">Lync</a>"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
-msgstr "Ndërpre Skype"
+msgstr "Kalo te Skype"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SMS"
 msgid "Switch to SMS"
-msgstr ""
+msgstr "Kalo te SMS"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_HINT_FACEBOOK"
 msgid "Switch to Facebook"
-msgstr "Lidhu me Facebook"
+msgstr "Kalo te Facebook"
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_HINT_PASSPORT"
 msgid "Switch to Messenger"
-msgstr "Kalo përdoruesin"
+msgstr "Kalo te Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_LYNC"
 msgid "Switch to Lync"
-msgstr ""
+msgstr "Kalo te Lync"
 
 msgctxt "sCHANNEL_SWITCHER_COST_HINT"
 msgid "Cost of SMS"
-msgstr ""
+msgstr "Çmimi i SMS"
 
-#, fuzzy
 msgctxt "sSEND_SMS_FROM_SKYPE_STATUS"
 msgid "Send SMS from Skype"
-msgstr "Njësoj si në Skype"
+msgstr "Dërgo SMS nga Skype"
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_INTRO_CAPTION2"
 msgid "Set your profile picture"
 msgstr "Vendos fotografinë tuaj të profilit"
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_INTRO_CONTENT4"
 msgid ""
 "Your profile picture is how people will see you on Skype. It's much easier "
 "for your friends to find you if they can see your picture.<br/><br/>Would "
 "you like to keep your current picture or set a new one?"
 msgstr ""
-"Fotografia e profilit tuaj është se si njerëzit do të shohin juve në Skype. "
-"Është shumë më e lehtë për familjen tuaj, miqtë dhe kolegët që t'iu gjejnë "
-"kur ata mund të shohin foton tuaj."
+"Fotografia juaj e profilit është se si njerëzit ju shohin juve në Skype. "
+"Është shumë më lehetë për miqtë tuaj t'iu gjejnë edhe nëse ata mund të "
+"shohin fotografinë tuaj.<br/><br/>Dëshiron ta mbaje fotografinë e tanishme "
+"ose ta vendosje një të re?"
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_INTRO_KEEP_PICTURE"
 msgid "Keep picture"
-msgstr "Largo fotografinë?"
+msgstr "Mbaj fotografinë"
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_INTRO_NEW_PICTURE"
 msgid "New picture"
-msgstr "Pa fotografi"
+msgstr "Fotografi e re"
 
 msgctxt "sF_PAYMENTS_FRM_CAPTION"
 msgid "Buy credit - %s"
@@ -13065,60 +12940,57 @@ msgctxt "sMIC_WEBWINDOW_TITLE"
 msgid "Account"
 msgstr "Llogaria"
 
-#, fuzzy
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
-msgstr "Mirësevini në Skype."
+msgstr "Bë më tepër Skype te Skype"
 
-#, fuzzy
 msgctxt "sCHAT_SEND_HINT"
 msgid "Send"
 msgstr "Dërgo"
 
 msgctxt "sPARTICIPANTS_HAVE_NO_NUMBER_STATUS"
 msgid "You can only send an SMS to people with saved numbers."
-msgstr ""
+msgstr "Mund t'i dërgoni SMS vetëm te njerëzit me numra të ruajtur."
 
 msgctxt "sSKYPEWIFI_TOU_CAPTION"
 msgid "Terms of Use"
-msgstr ""
+msgstr "Kushtet e përdorimit"
 
 msgctxt "sCONVERSATION_FLAMINGO_PARTNER_BLOCKED"
 msgid ""
 "%s is blocked and can't answer. If you want to chat, unblock them from "
 "Facebook."
 msgstr ""
+"%s është i/e bllokuar dhe nuk mund të përgjigjet. Nëse dëshiron të bisedosh, "
+"zhbllokoni ata nga Facebook-u."
 
-#, fuzzy
 msgctxt "sSEND_CONTACT_REQUEST"
 msgid "Send %s a contact request"
-msgstr "Ri-dërgo kërkesë kontakti"
+msgstr "Dërgoi %s një kërkesë kontakti"
 
-#, fuzzy
 msgctxt "sMYINFO_PREMIUM_ACCOUNT"
 msgid "Premium account"
-msgstr "Krijo llogari"
+msgstr "Llogari premium"
 
-#, fuzzy
 msgctxt "sMYINFO_MANAGE_PREMIUM_ACCOUNT"
 msgid "Manage Premium"
-msgstr "Administro listat"
+msgstr "Administro premiumin"
 
 msgctxt "sMYINFO_GET_PREMIUM"
 msgid ""
 "Upgrade and unlock more features<br/>• Unlimited calls<br/>• Group video "
 "calls<br/><a href=\"%s\">Get Premium</a>"
 msgstr ""
+"Mbindërto dhe çkyqi më tepër veçori<br/>• Thirrje të pakufizuara<br/>• "
+"Thirrje grupore me video<br/><a href=\"%s\">Merr Premium</a>"
 
-#, fuzzy
 msgctxt "sMYINFO_CREDIT"
 msgid "Credit"
-msgstr "Kredi Skype"
+msgstr "Kredi"
 
-#, fuzzy
 msgctxt "sMYINFO_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
-msgstr "Kredi Skype"
+msgstr "Shto Kredi Skype"
 
 msgctxt "sMYINFO_BUY_SKYPE_CREDIT"
 msgid ""
@@ -13126,212 +12998,209 @@ msgid ""
 "worldwide<br/>• Send text messages and access WiFi hotspots<br/><a href=\"%s"
 "\">Add Skype Credit</a>"
 msgstr ""
+"Thirrë këdo që do, kur do që do<br/>• Thirrë telefonat mobil dhe fiks në "
+"tërë botën<br/>• Dërgo mesazhe tekstuale dhe qasju pikave të ngrohta WiFi<br/"
+"><a href=\"%s\">Shto Kredi Skype</a>"
 
-#, fuzzy
 msgctxt "sMYINFO_SUBSCRIPTIONS"
 msgid "Subscriptions"
-msgstr "%d abonime"
+msgstr "Abonimet"
 
 msgctxt "sMYINFO_ONE_SUBSCRIPTION"
 msgid "1 subscription<br/><a href=\"%s\">Manage subscriptions</a>"
-msgstr ""
+msgstr "1 abonim<br/><a href=\"%s\">Administro abonimet</a>"
 
 msgctxt "sMYINFO_MANY_SUBSCRIPTIONS"
 msgid "%d subscriptions<br/><a href=\"%s\">Manage subscriptions</a>"
-msgstr ""
+msgstr "%d abonime<br/><a href=\"%s\">Administro abonimet</a>"
 
 msgctxt "sMYINFO_GET_SUBSCRIPTION"
 msgid ""
 "Call a lot? Save a lot...<br/>• Lowest calling rates<br/>• No long-term "
 "commitments<br/><a href=\"%s\">Get a subscription</a>"
 msgstr ""
+"Thirrje të shumta? Ruaj shumë...<br/>• Tarifa më të ulta të thirrjes<br/>• "
+"Pa përkushtime afatgjata<br/><a href=\"%s\">Merr një abonim</a>"
 
-#, fuzzy
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage account"
-msgstr "Krijo llogari"
+msgstr "Administro llogarinë"
 
-#, fuzzy
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
-msgstr "Ndërro vendin tënd"
+msgstr "Administro llogarinë tuaj në linjë"
 
 msgctxt "sAPP_TOOLBAR_HOME_TOOLTIP"
 msgid "See updates from your contacts in Skype Home."
-msgstr ""
+msgstr "Shih përditësimet nga kontaktet tuaja në Shtëpia Skype."
 
-#, fuzzy
 msgctxt "sAPP_TOOLBAR_CALL_TOOLTIP"
 msgid "Call mobiles and landlines from the dial pad."
-msgstr "Thërrisni telefonat celular dhe ata fiks me tarifa shumë të ulta"
+msgstr "Thirr celular dhe fiksa nga numratori."
 
 msgctxt "sAPP_TOOLBAR_CHAT_TOOLTIP"
 msgid "Start a new chat. Create a group, send instant messages and files."
 msgstr ""
+"Nis një bisedë të re. Krijo një grup, dhe dërgo mesazhe të çastit ose "
+"skedarë."
 
 msgctxt "sAPP_TOOLBAR_ADD_CONTACT_TOOLTIP"
 msgid ""
 "Add a contact. Search for people you know using their name, Skype Name or "
 "email."
 msgstr ""
+"Shto një kontakt. Kërko për njerëz që i njeh duke përdorur emrin e tyre, "
+"Emri Skype ose posta elektronike."
 
 msgctxt "sADD_CONTACT_PANEL_MESSAGE"
 msgid ""
 "Search by name, Skype Name, email or <a href=\"skype:?show_add_phone\">save "
 "a phone number</a>."
 msgstr ""
+"Kërko sipas emrit, Emrit Skype, postës elektronike ose <a href=\"skype:?"
+"show_add_phone\">ruaj një numër telefonik</a>."
 
 msgctxt "sACC_CHANNEL_SWITCHER_VIA_SKYPE_HINT"
 msgid "via Skype, use the channel switcher to change to via SMS and more"
-msgstr ""
+msgstr "përmes Skype, përdor ndërruesin e kanalit në përmes SMS dhe më tepër"
 
 msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_SKYPE_HINT"
 msgid "via SMS, use the channel switcher to change to via Skype and more"
-msgstr ""
+msgstr "përmes SMS, përdor ndërruesin e kanalit në përmes Skype dhe më tepër"
 
 msgctxt "sACC_CHANNEL_SWITCHER_VIA_FACEBOOK_HINT"
 msgid "via Facebook, use the channel switcher to change to via SMS and more"
 msgstr ""
+"përmes Facebook, përdor ndërruesin e kanalit në përmes SMS dhe më tepër"
 
 msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_FACEBOOK_HINT"
 msgid "via SMS, use the channel switcher to change to via Facebook and more"
 msgstr ""
+"përmes SMS, përdor ndërruesin e kanalit në përmes Facebook dhe më tepër"
 
 msgctxt "sACC_CHANNEL_SWITCHER_VIA_PASSPORT_HINT"
 msgid "via Messenger, use the channel switcher to change to via SMS and more"
 msgstr ""
+"përmes Messenger, përdor ndërruesin e kanalit në përmes SMS dhe më tepër"
 
 msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_PASSPORT_HINT"
 msgid "via SMS, use the channel switcher to change to via Messenger and more"
 msgstr ""
+"përmes SMS, përdor ndërruesin e kanalit në përmes Messenger dhe më tepër"
 
 msgctxt "sACC_CHANNEL_SWITCHER_VIA_LYNC_HINT"
 msgid "via Lync, use the channel switcher to change to via SMS and more"
-msgstr ""
+msgstr "përmes Lync, përdor ndërruesin e kanalit në përmes SMS dhe më tepër"
 
 msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_LYNC_HINT"
 msgid "via SMS, use the channel switcher to change to via Lync and more"
-msgstr ""
+msgstr "përmes SMS, përdor ndërruesin e kanalit në përmes Lync dhe më tepër"
 
-#, fuzzy
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
 msgid "select country"
-msgstr "Përgjedh një shtet"
+msgstr "përzgjedh shtetin"
 
-#, fuzzy
 msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
 msgid "select type of number"
-msgstr "Cakto numrin e thirrjes së shpejtë"
+msgstr "përgjedh llojin e numrit"
 
-#, fuzzy
 msgctxt "sACC_CONTACT_PHONE_EDIT_ENTER_NUMBER_HINT"
 msgid "enter number"
-msgstr "Shkruaj numrin"
+msgstr "jep numrin"
 
-#, fuzzy
 msgctxt "sCONVERSATION_PASSPORT_PARTNER_BLOCKED_LINK"
 msgid ""
 "%s is blocked and can't answer. If you want to chat, <a href=\"%s\">unblock "
 "them from the web profile</a>."
 msgstr ""
-"%s i zhbllokuar dhe nuk mund të përgjigjet. <a href=\"skype:%s?unblock"
-"\">Zhblloko %s</a> që të vazhdosh bisedimin."
+"%s është i bllokuar dhe nuk mund të përgjigjet. Nëse dëshiron të bisedosh, "
+"<a href=\"%s\">zhblloko ata nga profili në ueb</a>."
 
-#, fuzzy
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
-msgstr "Shfaqe profilin"
+msgstr "Shfaq profilin e plotë"
 
-#, fuzzy
 msgctxt "sHIDE_FULL_PROFILE"
 msgid "Hide full profile"
-msgstr "Fsheh profilin"
+msgstr "Fsheh profilin e plotë"
 
-#, fuzzy
 msgctxt "sPROFILE_ACCOUNTS"
 msgid "Accounts"
-msgstr "Llogaria"
+msgstr "Llogaritë"
 
-#, fuzzy
 msgctxt "sPROFILE_MANAGE"
 msgid "Manage"
-msgstr "Administro listat"
+msgstr "Administro"
 
-#, fuzzy
 msgctxt "sTOPUP_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
-msgstr "Kredi Skype"
+msgstr "Shto Kredi Skype"
 
 msgctxt "sTOPUP_INTRO_PARAGRAPH"
 msgid ""
 "You need more credit for this call or SMS. Use our quick top-up and enable "
 "Auto-recharge so you never run low again."
 msgstr ""
+"u duhen më tepër kredi për këtë thirrje ose SMS. Përdor mbushjen e shpejtë "
+"dhe aftëso rimbushjen automatike kështu që  asnjëherë nuk do të mbetesh me "
+"pak kredi përsëri."
 
-#, fuzzy
 msgctxt "sTOPUP_LOADING"
 msgid "Loading..."
 msgstr "Duke ngarkuar..."
 
 msgctxt "sTOPUP_PAYING"
 msgid "Paying with:"
-msgstr ""
+msgstr "Duke paguar me:"
 
-#, fuzzy
 msgctxt "sTOPUP_AUTO_RECHARGE"
 msgid "Enable Auto-recharge"
-msgstr "Aftëso auto-rimbushjen"
+msgstr "Aftëso Auto-rimbushjen"
 
-#, fuzzy
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
 msgid "Accept <a href=\"%s\">Terms of Use</a>"
-msgstr "• <a href=\"%s\">Rinovo</a>"
+msgstr "Prano <a href=\"%s\">Kushtet e përdorimit</a>"
 
-#, fuzzy
 msgctxt "sTOPUP_INC_VAT"
 msgid "%s incl. VAT"
-msgstr "(%s përfsh. VAT)"
+msgstr "%s përf. TVSH"
 
-#, fuzzy
 msgctxt "sTOPUP_ADD_CREDIT"
 msgid "Add credit"
-msgstr "Shto qytet"
+msgstr "Shto Kredi"
 
 msgctxt "sTOPUP_CONFIRMATION"
 msgid ""
 "Success! Your order has been placed. You'll receive an email notification "
 "shortly."
 msgstr ""
+"Sukses! Porosia juaj është vendosur. Do të pranoni një njoftim postë "
+"elektronike së shpejti."
 
-#, fuzzy
 msgctxt "sTOPUP_CONFIRMATION_CONT"
 msgid "Continue"
 msgstr "Vazhdo"
 
-#, fuzzy
 msgctxt "sTOPUP_GENERIC_ERROR"
 msgid ""
 "Sorry, we couldn't complete your payment. Please check your payment settings "
 "and try again."
 msgstr ""
-"Na vjen keq. ju mund t'i ruani cilësimet vetëm kur je të jeni në linjë. Ju "
-"lutemi provoni përsëri më vonë."
+"Na vjen keq, ne nuk mund ta përfundojmë pagesën tuaj.  Të lutem kontrollo "
+"cilësimet tuaja të pagesës dhe provo përsëri."
 
-#, fuzzy
 msgctxt "sTOPUP_GENERIC_ERROR_BUTTON"
 msgid "Close"
 msgstr "Mbyll"
 
-#, fuzzy
 msgctxt "sTOPUP_CONT_ERROR"
 msgid ""
 "Sorry, we couldn't complete your payment. Please continue to our online "
 "payments and try again."
 msgstr ""
-"Na vjen keq. ju mund t'i ruani cilësimet vetëm kur je të jeni në linjë. Ju "
-"lutemi provoni përsëri më vonë."
+"Na vjen keq, ne nuk mund ta përfundojmë pagesën. Të lutem vazho te pagesat "
+"tona në linjë dhe provo përsëri."
 
-#, fuzzy
 msgctxt "sTOPUP_CONT_ERROR_BUTTON"
 msgid "Continue"
 msgstr "Vazhdo"
@@ -13341,36 +13210,32 @@ msgid ""
 "Sorry, we couldn't complete your payment because there was a connection "
 "problem. Please try again."
 msgstr ""
+"Na vjen keq, ne nuk mund ta përfundojmë pagesën tuaj për shkak se kishte një "
+"problem të lidhjes. Të lutem provo përsëri."
 
-#, fuzzy
 msgctxt "sTOPUP_CONN_ERROR_BUTTON"
 msgid "Close"
 msgstr "Mbyll"
 
-#, fuzzy
 msgctxt "sMAINMENU_CONVERSATION_CLOSE"
 msgid "Close"
 msgstr "Mbyll"
 
 msgctxt "sLYNC_CAPTION"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sCONTACT_GROUP_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
-#, fuzzy
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
 msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr ""
-"%s është i/e shkëputur në Facebook. <a href=\"skype:%s?sms\">Dërgo mesazh të "
-"shkurtë SMS.</a>"
+msgstr "%s është i shkëputur në Lync. <a href=\"skype:%s?sms\">Dërgo SMS.</a>"
 
-#, fuzzy
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
-msgstr "Ju tashmë jeni i/e shkëputur"
+msgstr "Tani për tani ti je i/e shkëputur dhe e pamundur të bisedosh"
 
 msgctxt "sF_OPTIONS_RB_3"
 msgid "send message"
@@ -13384,64 +13249,65 @@ msgctxt "sF_OPTIONS_LB_6"
 msgid "Pressing Enter will..."
 msgstr "Duke shtypur Enter do të"
 
-#, fuzzy
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_HEADER"
 msgid "How Auto-recharge works"
-msgstr "Aftëso auto-rimbushjen"
+msgstr "Si punon Auto-rimbushja"
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
 msgid ""
 "Don't worry about running out of credit, we'll add more when you're running "
 "low."
 msgstr ""
+"Mos u brengos për shpenzimin e kredisë stuaj, ne do të shtojmë më tepër kur "
+"të mbetesh me pak kredi."
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
 msgid "Skype WiFi"
-msgstr "Ndërpreje Skype WiFi"
+msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
 msgid "Error: {ERROR_NO}"
-msgstr ""
+msgstr "Gabim: {ERROR_NO}"
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
 msgid ""
 "The WiFi network you're connected to is not responding correctly. Try "
 "connecting to a different network."
 msgstr ""
-"Ky rrjet WiFi nuk është duke u përgjigjur me përpikëri. Të lutem provo të "
-"lidhesh në një rrjet tjetër."
+"Rrjeti WiFi që je i/e kyqur nuk është duke u përgjigjur në mënyrë korrekte. "
+"Provo të lidhesh me një rrjet tjetër."
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_CONNECT"
 msgid ""
 "Unable to connect to the current WiFi network. Check your WiFi signal "
 "strength or try a different hotspot."
 msgstr ""
+"E pamundur të lidhet me rrjetin e tanishëm WiFi. Kontrollo fuqinë e sinjalit "
+"WiFi ose provo ndonjë pikë të nxehtë tjetër."
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_ERROR_DESC_CREDENTIALS"
 msgid "We were unable to recognize your Skype Name or password."
-msgstr "Dështim në kyqje. Kontrollo Emrin Skype ose fjalëkalimin"
+msgstr "Ne nuk mund ta njohim Emrin Skype ose fjalëkalimin tuaj."
 
 msgctxt "sOPTIONS_SHOW_ME_AWAY_WHEN_INACTIVE_1"
 msgid "Show me as Away when I've been inactive for"
-msgstr ""
+msgstr "Më shfaq Larg kur të kem qenë joaktiv për"
 
 msgctxt "sOPTIONS_SHOW_ME_AWAY_WHEN_INACTIVE_2"
 msgid "minutes"
-msgstr ""
+msgstr "minutë"
 
-#, fuzzy
 msgctxt "sTOPUP_NEW_PAYMENT_METHOD"
 msgid "<a href=\"%s\">New payment method</a>"
-msgstr "• <a href=\"%s\">Rinovo</a>"
+msgstr "<a href=\"%s\">Mënyrë e re e pagesës</a>"
 
 msgctxt "sBDCARD_NOTIFICATION"
 msgid ""
 "<b>It's %s's birthday today.</b><br />Forgot the card? Make it up with a <a "
 "href=\"%s\">Skype Gift Card</a>."
 msgstr ""
+"<b>Është ditëlindja e %s's sot.</b><br />Harrove kartolinën? Bëje një me<a "
+"href=\"%s\">Kartolinë dhuratë e Skype</a>."
 
 msgctxt "sERROR_HINT_VIDEO_SSE2_TEXT"
 msgid ""
@@ -13449,21 +13315,22 @@ msgid ""
 "support our latest version.<br/><br/>Don't worry, we have another version so "
 "you can still make video calls."
 msgstr ""
+"Ne kemi përmirësuar thirrjen me video, por fatkeqësisht llogaritësi juaj nuk "
+"e përkrah versionin tonë të fundëm.<br/><br/>Mos u brengos, ne kemi një "
+"version tjetër që ju ende mund të bëni thirrje video."
 
-#, fuzzy
 msgctxt "sERROR_HINT_VIDEO_SSE2_LINK"
 msgid "<a href=\"http://www.skype.com/go/novideo\">Learn more.</a>"
-msgstr "<a href=\"skype:?go#help.faq.alerts\">Mëso më tepër</a>"
+msgstr "<a href=\"http://www.skype.com/go/novideo\">Mëso më tepër.</a>"
 
-#, fuzzy
 msgctxt "sMAINMENU_HELP_L2SKYPE"
 msgid "Learn about Skype for Windows"
-msgstr "Nis Skype kur niset Windows"
+msgstr "Mëso rreth Skype për Windows"
 
 msgctxt "sMAINMENU_HELP_GO2SUPP"
 msgid "Go to Support"
-msgstr ""
+msgstr "Shko te Përkrahja"
 
 msgctxt "sMAINMENU_HELP_ASKCOMM"
 msgid "Ask the Skype Community"
-msgstr ""
+msgstr "Pyet Komunitetin Skype"
