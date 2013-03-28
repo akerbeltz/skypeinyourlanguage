@@ -25,7 +25,7 @@ Translator(s): ahmet_murati
 Source: Skype Forum
 
 Aragonese (Aragonés)
-Translator(s): Unknown
+Translator(s): Jorge Pérez & Juan Pablo Martinez (Softaragonés)
 Source: http://wiki.softaragones.org/index.php/Skype
 
 Armenian (Հայերէն)
