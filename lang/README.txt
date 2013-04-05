@@ -144,6 +144,10 @@ Telugu
 Translator(s): Unknown
 Source: http://wiki.etelugu.org
 
+Upper Sorbian (Hornjoserbšćina, Obersorbisch)
+Translator: Michał Wjelk
+Source: http://www.sorbzilla.de/skype/hsb.lang
+
 Uyghur (ئۇيغۇرچە‎)
 Translator: m_erdem
 Source: Skype Forum
