@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-04-20 09:16+0000\n"
+"PO-Revision-Date: 2013-05-05 11:02+0000\n"
 "Last-Translator: HrantOhanyan <hrantohanyan@mail.am>\n"
 "Language-Team: Armenian (http://www.transifex.com/projects/p/skype-translation-project/language/hy/)\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr "Առցանց"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr "Ոչ առցանց"
+msgstr "Անցանց"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
@@ -47,7 +47,7 @@ msgstr "Զբաղված"
 msgctxt "sQUIT_PROMPT"
 msgid ""
 "You won't be able to send or receive instant messages and calls if you do."
-msgstr "Այս դեպքում դուք չէք կարող ընդունել զանգ և զանգահարել ուրիշին"
+msgstr "Այս դեպքում դուք չէք կարող ընդունել հաղորդագրություններ և զանգահարել "
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
@@ -67,7 +67,7 @@ msgstr "Ստուգել թարմացումները"
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "Զանգել"
+msgstr "Զանգ"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
@@ -115,7 +115,7 @@ msgstr "Միացում"
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
-msgstr "Առցանց չէ"
+msgstr "Անցանց"
 
 msgctxt "sTRAYHINT_USER_ONLINE"
 msgid "Online"
@@ -378,11 +378,11 @@ msgstr "Տան հեռ."
 
 msgctxt "sCALL_LB2_MYHOLD"
 msgid "Call on hold"
-msgstr "Զանգը սպասման եղանակում է"
+msgstr "Զանգը սպասման վիճակում է"
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr "Զանգը դնել սպասման եղանակում"
+msgstr "Զանգը դնել սպասման վիճակում "
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
@@ -390,7 +390,7 @@ msgstr "Շարունակել խոսակցությունը"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
-msgstr "Պատասխանել մուտքային զանգին %s-ից և %s-ին տեղափոխե՞լ սպասման ռեժիմ"
+msgstr "Պատասխանել մուտքային զանգին %s-ից և %s-ին տեղափոխե՞լ սպասման վիճակ"
 
 msgctxt "sF_CONFIRM_DEFAULT_CAPTION"
 msgid "Confirm"
@@ -398,7 +398,7 @@ msgstr "Հաստատել"
 
 msgctxt "sF_OPTIONS_PAGE_SOUNDS2"
 msgid "Sounds"
-msgstr "Ձայներ"
+msgstr "Ձայնը"
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
@@ -430,7 +430,7 @@ msgstr "Քաղաքը"
 
 msgctxt "sF_OPTIONS_TCB2"
 msgid "Show timestamp next to instant messages"
-msgstr "Ցույց տալ հաղորդագրության գրման ժամը չատում."
+msgstr "Ցուցադրել հաղորդագրությունը գրելու ժամը չաթում"
 
 msgctxt "sF_RENAMEUSER_LABEL"
 msgid "Enter new name for %s"
@@ -470,7 +470,7 @@ msgstr "Տեղեկություն"
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
-msgstr "Այլևս չցուցադրել այս տեղեկատվությունը"
+msgstr "Այլևս չցուցադրել"
 
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
@@ -486,7 +486,7 @@ msgstr "Մուտքագրեք նոր գաղտնաբառը"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT3"
 msgid "Re-enter new password"
-msgstr "Մուտքագրեք նոր գաղտնաբառը կրկին"
+msgstr "Կրկնեք նոր գաղտնաբառը "
 
 msgctxt "sF_CHANGE_PASSWORD_BTN1_TEXT"
 msgid "Apply"
@@ -694,7 +694,7 @@ msgstr "Միացնել խոսափողը"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
-msgstr "Գործեք"
+msgstr "Գործողությունը"
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
@@ -706,13 +706,13 @@ msgstr "Համադրում"
 
 msgctxt "sF_OPTIONS_TNTB8"
 msgid "<b>Blocked contacts:</b> Stop someone contacting you"
-msgstr "<b>Արգելված կոնտակտներ.</b>Արգելեք ինչ-որ մեկին շփվել ձեր հետ:"
+msgstr "<b>Արգելափակված կոնտակտներ.</b> Արգելեք որևէ մեկին շփվել Ձեզ հետ:"
 
 msgctxt "sINFORM_DND"
 msgid ""
 "Your presence will be set to Do Not Disturb. You will not receive "
 "notifications about incoming calls or messages."
-msgstr "Ընտրված է 'Չանհանգստացնել' ռեժիմը: Այս կարգավիճակի դեպքում դուք չեք ստանա ծանուցում մուտքային զանգերի և չատի մասին:"
+msgstr "Ընտրված է 'Չանհանգստացնել' եղանակը: Այս կարգավիճակի դեպքում դուք չեք ստանա ծանուցում մուտքային զանգերի և չաթի մասին:"
 
 msgctxt "sSTATUS_PENDING"
 msgid "This person has not shared their details with you."
@@ -720,7 +720,7 @@ msgstr "Այս օգտվողը դեռ ձեզ չի փոխանցել իր անձն�
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr "Ցանցում չէ"
+msgstr "Անցանց"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
@@ -814,7 +814,7 @@ msgstr "Մուտք չի գործվել"
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr "Բոլոր ընթացիկ զանգերը ընդատվելու են: Դուք վստա՞հ եք, որ ցանկանում եք լինել ոչ առցանց։"
+msgstr "Բոլոր ընթացիկ զանգերը ընդատվելու են: Դուք վստա՞հ եք, որ ցանկանում եք լինել անցանց։"
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
@@ -846,7 +846,7 @@ msgstr "միայն իմ կոնտակտների ցանկի օգտվողներից
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
-msgstr "Ընդունել չատեր.."
+msgstr "Ընդունել հաղորդագրություններ..."
 
 msgctxt "sF_OPTIONS_RG2_1"
 msgid "anyone"
@@ -874,11 +874,11 @@ msgstr "Ջնջե՞լ կոնտակտը"
 
 msgctxt "sCONFIRM_OFFLINE_CAP"
 msgid "Go offline?"
-msgstr "Անցնե՞լ ցանցից դուրս"
+msgstr "Անցնե՞լ անցանցի"
 
 msgctxt "sCONFIRM_OFFLINE_TITLE"
 msgid "Go offline?"
-msgstr "Անցնե՞լ ցանցից դուրս"
+msgstr "Անցնե՞լ անցանցի"
 
 msgctxt "sCALLING_BLOCKED_CAP"
 msgid "Blocked"
@@ -940,15 +940,15 @@ msgstr "Մերժել խմբային խոսակցությունը"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_1"
 msgid "Answer group call from %s and put %s on hold?"
-msgstr "Պատասխանե՞լ %s-ի խմբային զանգին և տեղափոխե՞լ %s-ին սպասման եղանակ։"
+msgstr "Պատասխանե՞լ %s-ի խմբային զանգին և տեղափոխե՞լ %s-ին սպասման վիճակ։"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_2"
 msgid "Answer call from %s and put group call with %s on hold?"
-msgstr "Պատասխանե՞լ %s-ի զանգին և տեղափոխե՞լ %s-ի խմբային զանգը սպասման եղանակ։"
+msgstr "Պատասխանե՞լ %s-ի զանգին և տեղափոխե՞լ %s-ի խմբային զանգը սպասման վիճակ։"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_3"
 msgid "Answer group call from %s and put call with %s on hold?"
-msgstr "Պատասխանե՞լ %s-ի խմբային զանգին և տեղափոխե՞լ %s-ի խմբային զանգը սպասման եղանակ։"
+msgstr "Պատասխանե՞լ %s-ի խմբային զանգին և տեղափոխե՞լ %s-ի խմբային զանգը սպասման վիճակ։"
 
 msgctxt "sCONF_TOO_MUCH_PARTICIPANTS_TITLE"
 msgid "Error"
@@ -1176,7 +1176,7 @@ msgstr "Կապը վերահաստատվում է։ Դա նշանակում է, �
 
 msgctxt "sBUDDYMENU_SENDFILE"
 msgid "Send File..."
-msgstr "Ուղարկել ֆայլը..."
+msgstr "Ուղարկել ֆայլ..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
@@ -1661,11 +1661,11 @@ msgstr "Անջատել բոլոր ձայները"
 
 msgctxt "sF_OPTIONS_NOTIF_ONLINE"
 msgid "comes online"
-msgstr "մտա ցանց"
+msgstr "մտավ ցանց"
 
 msgctxt "sF_OPTIONS_NOTIF_OFFLINE"
 msgid "goes offline"
-msgstr "գնացի ցանցից"
+msgstr "գնաց անցանց"
 
 msgctxt "sF_OPTIONS_NOTIF_CHAT"
 msgid "starts an IM with me"
@@ -1677,11 +1677,11 @@ msgstr "ուղարկում է ինձ ֆայլ"
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
-msgstr "ինձնից պահանջում է իմ կոնտակտային տվյալները"
+msgstr "ինձանից պահանջում է իմ կոնտակտային տվյալները"
 
 msgctxt "sF_OPTIONS_NOTIF_VOICEMAIL"
 msgid "leaves me a voice message"
-msgstr "թողեք ինձ հաղորդագրություն՝ ինքնապատասխանիչի միջոցով"
+msgstr "թողել է ձայնային հաղորդագրություն"
 
 msgctxt "sF_OPTIONS_NOTIF_SENDCONTACTS"
 msgid "sends me contacts"
@@ -1721,7 +1721,7 @@ msgstr "Մանրամասն, թե ինչպես է Skype-ը աշխատում պր�
 
 msgctxt "sF_OPTIONS_LBC_CONNECTION"
 msgid "<b>Connection:</b> Set up how Skype connects to the internet"
-msgstr "<b>Միացումը.</b>Skype-ի համացանց մուտք գործելու կարգավորումները"
+msgstr "<b>Միացումը.</b> Skype-ի համացանց մուտք գործելու կարգավորումները"
 
 msgctxt "sF_OPTIONS_LBC_DEVICES"
 msgid "Volume"
@@ -1746,7 +1746,7 @@ msgstr "Այլ հնարավորություններ"
 
 msgctxt "sF_OPTIONS_LBC_PRIVACY"
 msgid "<b>Privacy settings:</b> Protect yourself from unwanted calls and IMs"
-msgstr "<b>Անվտանգության կարգավորումներ.</b>Պաշտպանեք ձեզ անցանկալի զանգերից և հաղորդագրություններից"
+msgstr "<b>Անվտանգության կարգավորումներ.</b> Պաշտպանեք ձեզ անցանկալի զանգերից և հաղորդագրություններից"
 
 msgctxt "sF_OPTIONS_LBC_SOUNDS"
 msgid "Choose which sound to play"
@@ -1975,7 +1975,7 @@ msgstr "Հեռախոսահամար"
 
 msgctxt "sF_OPTIONS_CB_SHOW_ANIMATED_EMOTS"
 msgid "Show animated emoticons"
-msgstr "Ցույց տալ մանրանշաների անիմացիան"
+msgstr "Ցուցադրել մանրանշաների անիմացիան"
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
@@ -2118,7 +2118,7 @@ msgstr "Զբաղված ազդ. (ժամանակակից)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT4"
 msgid "Skype call on hold (Modern)"
-msgstr "Զանգը սպասման ռեժիմում է (Ժամանակակից)"
+msgstr "Զանգը սպասման վիճակում է (Ժամանակակից)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT5"
 msgid "Skype resuming call (Modern)"
@@ -2126,7 +2126,7 @@ msgstr "Կրկնել զանգը (ժամանակակից)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT6"
 msgid "Skype hang up (Modern)"
-msgstr "Կախել լսափողը (ժամանակակից)"
+msgstr "Ավարտել զանգը (ժամանակակից)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT7"
 msgid "Skype IM received (Modern)"
@@ -2206,13 +2206,13 @@ msgstr "Պատճենել պրոֆիլը"
 
 msgctxt "sF_OPTIONS_PAGE_FORWARDINGANDVOICEMAIL"
 msgid "Call forwarding"
-msgstr "Զանգերի վերահասցեավորում"
+msgstr "Զանգերի փոխանցում"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_ADVAMCED"
 msgid ""
 "Let Skype take a message if you're offline or away from your computer when "
 "someone calls."
-msgstr "Ակտիվացրեք Skype-ի՝ ձայնային հաղորդագրություններ ընդունելու հնարավորությունը, եթե ցանցը հասանելի չէ, կամ Դուք համակարգչից հեռու եք։"
+msgstr "Ակտիվացրեք Skype-ի՝ ձայնային հաղորդագրություններ ընդունելու հնարավորությունը, եթե դուք անցանց  կամ համակարգչից հեռու եք։"
 
 msgctxt "sF_OPTIONS_LINK_CF_ADVANCED"
 msgid "Add more phone numbers"
@@ -2276,16 +2276,16 @@ msgstr "Հեռախոսահամարը կամ Skype-ի անունը սխալ են�
 
 msgctxt "sF_OPTIONS_CF_ERROR2"
 msgid "Error in call forwarding settings"
-msgstr "Զանգի վերահասցեավորման կարգավորումների սխալ"
+msgstr "Զանգի փոխանցման կարգավորումների սխալ"
 
 msgctxt "sF_OPTIONS_CF_ERROR3"
 msgid ""
 "You need to have some Skype Credit to forward calls to mobiles or landlines"
-msgstr "Որպեսզի վերահասցեավորեք զանգերը սովորական հեռախոսի, Ձեր Skype-ի հաշվին պետք է լինի գումար:"
+msgstr "Որպեսզի փոխանցեք զանգերը սովորական հեռախոսի, Ձեր Skype-ի հաշվին պետք է լինի գումար:"
 
 msgctxt "sF_OPTIONS_CF_ERROR4"
 msgid "Call forwarding information"
-msgstr "Զանգի վերահասցեավորման ինֆո"
+msgstr "Զանգի փոխանցման ինֆո"
 
 msgctxt "sF_OPTIONS_LB_MESSAGES"
 msgid "Show messages about..."
@@ -2391,13 +2391,13 @@ msgstr "Տեղեկություն"
 msgctxt "sF_OPTIONS_FORWARD_HINT9"
 msgid ""
 "Your call forwarding settings have been changed in another application."
-msgstr "Զանգերի վերահասցեավորումը փոխվել է այլ ծրագրի կողմից։"
+msgstr "Զանգերի փոխանցումը փոխվել է այլ ծրագրի կողմից։"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT10"
 msgid ""
 "If you want to change your call forwarding settings, click Reset and enter "
 "them here"
-msgstr "Եթե ցանկանում եք փոխել զանգերի վերահասցեավորման կարգավորումները, սեղմեք Ետարկել և նշեք դրանք այստեղ"
+msgstr "Եթե ցանկանում եք փոխել զանգերի փոխանցման կարգավորումները, սեղմեք Ետարկել և նշեք դրանք այստեղ"
 
 msgctxt "sF_OPTIONS_BTN_RESET"
 msgid "Reset to default"
@@ -2417,7 +2417,7 @@ msgstr "Ինքնավար միացնել տեսադիտումը զանգի ժամ
 
 msgctxt "sF_OPTIONS_LBC_VIDEO"
 msgid "<b>Video settings:</b> Set up your webcam"
-msgstr "<b>Դիտման կարգավորումները.</b>Կարգավորեք վեբ-խցիկը"
+msgstr "<b>Դիտման կարգավորումները.</b> Կարգավորեք վեբ-խցիկը"
 
 msgctxt "sCONTACT_GROUP_UNKNOWN"
 msgid "Requests to new contacts"
@@ -2437,7 +2437,7 @@ msgstr "Չխմբավորված"
 
 msgctxt "sF_USERPROFILE_DEF_TIMEZONE"
 msgid "My computer's"
-msgstr "Իմ համակարգչին"
+msgstr "Իմ համակարգչինը"
 
 msgctxt "sACL_REMOVABLE_WARNING"
 msgid ""
@@ -2459,11 +2459,11 @@ msgstr "Մուտքագրեք այստեղ այն տեքստը, որը կցուց
 
 msgctxt "sSTATUS_OFFLINE_VM"
 msgid "Offline with voice messaging"
-msgstr "Ցանցում չէ, աշխատում է ինքնապատասխանիչը"
+msgstr "Անցանց, աշխատում է ինքնապատասխանիչը"
 
 msgctxt "sSTATUS_OFFLINE_CF"
 msgid "Offline with call forwarding"
-msgstr "Ցանցում չէ, աշխատում է համարների վերահասցեավորումը"
+msgstr "Անցանց, աշխատում է զանգերի փոխանցումը"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_SHORT"
 msgid "Credit expires %s <a href=\"skype:?dialpad\"> Make a call</a>."
@@ -2483,7 +2483,7 @@ msgstr "Կոնտակտների ներմուծում..."
 
 msgctxt "sMAINMENU_TOOLS_TRANSLATE"
 msgid "Edit Skype Language File..."
-msgstr "Բացել լեզվական ֆայլերի խմբագիրը…"
+msgstr "Բացել լեզվի ֆայլերի խմբագիրը…"
 
 msgctxt "sF_USERENTRY_ERROR_1101"
 msgid "Skype can't connect."
@@ -2551,7 +2551,7 @@ msgstr "Սխալ2 զանգի ընթացքում"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT13"
 msgid "Skype incoming IM2"
-msgstr "Ստացվել է հաղորդագրություն չատ2-ում"
+msgstr "Ստացվել է հաղորդագրություն չաթ2-ում"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
@@ -2579,7 +2579,7 @@ msgstr "Ազդանշան \"դուրս գալ համակարգից\""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT20"
 msgid "Skype contact offline"
-msgstr "Կոնտակտն առցանց չէ"
+msgstr "Կոնտակտն անցանց է"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT21"
 msgid "Skype message sent"
@@ -2687,15 +2687,15 @@ msgstr "ցանկացածից"
 
 msgctxt "sF_OPTIONS_RC_AD_VIDEO1"
 msgid "no one"
-msgstr "ոչ ոքից"
+msgstr "ոչ ոքի"
 
 msgctxt "sF_OPTIONS_RC_AD_VIDEO2"
 msgid "people in my Contact list only"
-msgstr "իմ Կոնտակտներից"
+msgstr "իմ Կոնտակտներին"
 
 msgctxt "sF_OPTIONS_VIDEO_LB4"
 msgid "Show that I have video to..."
-msgstr "Ցուցադրել, որ ես ունեմ տեսանյութ՝"
+msgstr "Ցուցադրել իմ տեսապատկերը՝"
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
@@ -2720,7 +2720,7 @@ msgstr "Այս ձևաչափով ֆայլը չի ընդունվում"
 
 msgctxt "sF_USERINFO_LABEL_MOOD"
 msgid "Mood"
-msgstr "Տրամադրություն"
+msgstr "Կարգավիճակ"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT10"
 msgid "New password can't be the same as the old password."
@@ -2744,11 +2744,11 @@ msgstr "Սխալ գախտնաբա"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT27"
 msgid "Skype call forwarded."
-msgstr "Զանգը վերահասցեավորված է:"
+msgstr "Զանգը փոխանցված է:"
 
 msgctxt "sF_OPTIONS_SOUNDS_FORWARDED"
 msgid "Call is forwarded"
-msgstr "Զանգը վերահասցեավորված է:"
+msgstr "Զանգը փոխանցված է:"
 
 msgctxt "sF_AUTHQUERY_DEFAULT3"
 msgid "Enter a message to introduce yourself."
@@ -2853,7 +2853,7 @@ msgstr "Ազդանշան 'զբաղված' (դասական)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT4"
 msgid "Call on hold (Classic)"
-msgstr "Զանգը սպասման եղանակում է (դասական)"
+msgstr "Զանգը սպասման վիճակում է (դասական)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT5"
 msgid "Resuming call (Classic)"
@@ -2865,7 +2865,7 @@ msgstr "Զանգում է (դասական)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT7"
 msgid "Hang up (Classic)"
-msgstr "Կախել լսափողը (դասական)"
+msgstr "Ավարտել զանգը (դասական)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT8"
 msgid "Received IM (Classic)"
@@ -2897,7 +2897,7 @@ msgstr "SMS-ի կարգավորումները"
 
 msgctxt "sF_OPTIONS_LBC_SMS"
 msgid "<b>SMS settings:</b> Send text messages directly from Skype"
-msgstr "<b>SMS-ի կարգավորումները.</b>Տեքստային հաղորդագրության ուղարկում անմիջականորեն Skype-ից"
+msgstr "<b>SMS-ի կարգավորումներ.</b>SMS-ների ուղարկում անմիջականորեն Skype-ից"
 
 msgctxt "sF_OPTIONS_SMS_LB2"
 msgid "Send a verification code to your mobile number"
@@ -3077,7 +3077,7 @@ msgstr "Ընդլայնված կարգավորումներ"
 
 msgctxt "sF_OPTIONS_LBC_UPDATES"
 msgid "<b>Advanced settings:</b> Skype updates and external programs"
-msgstr "<b>Ընդլայնված կարգավորումներ.</b>Skype-ի թարմացումները և ներքին ծրագրերը"
+msgstr "<b>Լրացուցիչ արգավորումներ.</b> Skype-ի թարմացումները և ներքին ծրագրերը"
 
 msgctxt "sCALL_LB2_DROPPED"
 msgid "Call dropped"
@@ -3130,7 +3130,7 @@ msgstr "Ստուգել թարմացումները"
 msgctxt "sF_MULTICHAT_CLOSE_WARNING"
 msgid ""
 "There is an unsent message in this IM. Are you sure you want to close it?"
-msgstr "Այս չատում առկա է չուղարկված հաղորդագրություն: Դուք վստա՞հ եք, որ ցանկանում եք փակել տվյալ չատը։"
+msgstr "Այս չաթում առկա է չուղարկված հաղորդագրություն: Դուք վստա՞հ եք, որ ցանկանում եք փակել տվյալ չաթը։"
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_TITLE"
 msgid "Close conversation window"
@@ -3146,7 +3146,7 @@ msgstr "Օգտվողի սարքավորումները, ում հետ որ դու
 
 msgctxt "sF_PAYMENTS_ERROR2_TEXT"
 msgid "Due to technical issues, please"
-msgstr "Տեխնիկական խնդիրների դեպքում, խնդրում ենք"
+msgstr "Տեխնիկական խնդիրների դեպքում խնդրում ենք"
 
 msgctxt "sF_PAYMENTS_ERROR_LINK"
 msgid "continue your payment in the Skype webstore using your web browser."
@@ -3284,7 +3284,7 @@ msgstr "Փոփոխել երկրի կոդը այս զանգի համար:"
 
 msgctxt "sF_OPTIONS_NOTIF_BIRTHDAY"
 msgid "has a birthday"
-msgstr "ծննդյան օր"
+msgstr "ծննդյան օրն է"
 
 msgctxt "sCHAT_TOOLBAR_FIND"
 msgid "Find:"
@@ -3488,7 +3488,7 @@ msgstr "Մտածում եմ"
 
 msgctxt "sBOW_SMILEY"
 msgid "Bowing"
-msgstr "bowing"
+msgstr "Շնորհակալ եմ"
 
 msgctxt "sROFL_SMILEY"
 msgid "Rolling on the floor laughing"
@@ -3604,7 +3604,7 @@ msgstr "Գարեջուր"
 
 msgctxt "sDRINK_SMILEY"
 msgid "Drink"
-msgstr "Կոկտեիլ"
+msgstr "Կոկտեյլ"
 
 msgctxt "sDANCING_SMILEY"
 msgid "Dancing"
@@ -3668,7 +3668,7 @@ msgstr "Չափից շատ տեղեկատվություն"
 
 msgctxt "sSILENT_GUI_WARNING1"
 msgid "Another program is trying to put Skype in Silent Mode."
-msgstr "Այս ծրագիրը փորձում է տեղափոխել Skype-ը անխոս ռեժիմ:"
+msgstr "Այս ծրագիրը փորձում է տեղափոխել Skype-ը անխոս եղանակ:"
 
 msgctxt "sSILENT_GUI_WARNING2"
 msgid ""
@@ -3712,7 +3712,7 @@ msgstr "Ծանուցման կարգավորումներ"
 
 msgctxt "sF_CHAT_NOTIFY_CAPTION"
 msgid "IM notification settings"
-msgstr "Չատի ծանուցման կարգավորումներ"
+msgstr "Չաթի ծանուցման կարգավորումներ"
 
 msgctxt "sF_CHAT_NOTIFY_BTN_OK"
 msgid "OK"
@@ -3742,7 +3742,7 @@ msgctxt "sF_CHAT_NOTIFY_LB_HEADER2"
 msgid ""
 "The conversation window will blink in the taskbar or reopen if you have "
 "closed it."
-msgstr "Չատի պատուհանը կսկսի թարթել taskbar-ում կամ այն կբացվի, եթե նախկինում փակված է եղել:"
+msgstr "Չաթի պատուհանը կսկսի թարթել taskbar-ում կամ այն կբացվի՝ եթե նախկինում փակված է եղել:"
 
 msgctxt "sF_CHAT_NOTIFY_LB_FOOTER"
 msgid "Enter single words separated by spaces."
@@ -3760,7 +3760,7 @@ msgstr "Դուք դեռ չեք կարող ուղարկել հաղորդագրո�
 
 msgctxt "sCHAT_MENU_NOTIFICATIONS"
 msgid "IM Notification Settings"
-msgstr "Չատի ծանուցման կարգավորումներ"
+msgstr "Չաթի ծանուցման կարգավորումներ"
 
 msgctxt "sCHAT_MEMBER_KICKED"
 msgid "%s removed %s from this conversation."
@@ -3768,11 +3768,11 @@ msgstr "%s-ն ջնջել է %s-ին այս խոսակցությունից:"
 
 msgctxt "sF_CHAT_PIC_CAPTION"
 msgid "Conversation picture"
-msgstr "Չատի նկարը"
+msgstr "Չաթի նկարը"
 
 msgctxt "sF_CHAT_PIC_LB_CAPTION"
 msgid "Conversation picture"
-msgstr "Չատի նկարը"
+msgstr "Չաթի նկարը"
 
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
@@ -3907,7 +3907,7 @@ msgstr "Անհրաժեշտ է գաղտնաբառ"
 
 msgctxt "sCHAT_STATUSMESSAGE_QUEUED"
 msgid "This public IM is full. Please try joining again later."
-msgstr "Այս հանրային չատում չկա ազատ տեղ: Փորձեք մտնել ավելի ուշ:"
+msgstr "Այս հանրային չաթում չկա ազատ տեղ: Փորձեք մտնել ավելի ուշ:"
 
 msgctxt "sCHAT_STATUSMESSAGE_DENIED"
 msgid ""
@@ -3916,7 +3916,7 @@ msgstr "Ձեզ հեռացրել են այս խոսակցությունից և դ
 
 msgctxt "sCHAT_STATUSMESSAGE_KICKED"
 msgid "You have been removed from this IM."
-msgstr "Ձեզ հեռացրել են այս չատից:"
+msgstr "Ձեզ հեռացրել են այս չաթից:"
 
 msgctxt "sCHAT_SETOPTIONS"
 msgid "%s has updated the moderation rules of this conversation %s"
@@ -3924,11 +3924,11 @@ msgstr "%s-ը փոխել է այս խոսակցության օրենքները %
 
 msgctxt "sF_CHAT_INFO_CAPTION1"
 msgid "Profile for IM:"
-msgstr "Պրոֆիլ չատի համար."
+msgstr "Պրոֆիլ չաթի համար."
 
 msgctxt "sF_CHAT_INFO_CAPTION2"
 msgid "Profile for public IM:"
-msgstr "Պրոֆիլ հանրային չատի համար."
+msgstr "Պրոֆիլ հանրային չաթի համար."
 
 msgctxt "sF_CHAT_INFO_BTN_CLOSE"
 msgid "Close"
@@ -3952,20 +3952,20 @@ msgstr "Չաթի հղումը՝"
 
 msgctxt "sF_CHAT_INFO_LB_LINK2"
 msgid "Paste this link into emails or IMs so your friends can click to join."
-msgstr "Որպեսզի Ձեր ընկերները այս չատին, տեղադրեք տվյալ լինքը էլ. գրագրությունում և չատում"
+msgstr "Որպեսզի Ձեր ընկերները միանան այս չաթին, տեղադրեք տվյալ հղումը էլ. նամակներում և չաթում"
 
 msgctxt "sF_CHAT_INFO_RULES1"
 msgid "Everyone can read and post messages."
-msgstr "Այս չատում բոլորը կարող են կարդալ և գրել հաղորդագրություն."
+msgstr "Այս չաթում բոլորը կարող են կարդալ և գրել հաղորդագրություն."
 
 msgctxt "sF_CHAT_INFO_RULES2"
 msgid "Participants need host's permission to start posting messages."
-msgstr "Եթե ցանկանում եք գրել հաղորդագրություն չատում, ապա մասնակիցները պետք է ստանան թույլտվություն վարողից:"
+msgstr "Եթե ցանկանում եք գրել հաղորդագրություն չաթում, ապա մասնակիցները պետք է ստանան թույլտվություն այն վարողից:"
 
 msgctxt "sF_CHAT_INFO_RULES3"
 msgid ""
 "Participants need host's permission to start reading and posting messages."
-msgstr "Օգտվողները պետք է ստանան թույլատվություն, որպեսզի կարդան և գրեն հաղորդագրություն չատում:"
+msgstr "Օգտվողները պետք է ստանան թույլատվություն, որպեսզի կարդան և գրեն հաղորդագրություն չաթում:"
 
 msgctxt "sF_CHAT_INFO_LB_COUNT"
 msgid "Participant count:"
@@ -3975,7 +3975,7 @@ msgctxt "sCHAT_STATUSMESSAGE_RETRYING"
 msgid ""
 "The host of this conversation is currently offline. You can close this "
 "window and when the host is next online you will be added to the IM."
-msgstr "Այս չատի կազմակերպիչը ներկա պահին առցանցում չէ: Դուք կարող եք փակել այս պատուհանը: Երբ կազմակերպիչը լինի առցանց` Դուք ավտոմատ կերպով կներառվեք չատում :"
+msgstr "Այս չաթի կազմակերպիչը ներկա պահին անցանց է: Դուք կարող եք փակել այս պատուհանը: Երբ կազմակերպիչը լինի առցանց` Դուք միանգամից կներառվեք չաթում :"
 
 msgctxt "sCHAT_MENU_REMOVE_MESSAGE"
 msgid "Remove Message"
@@ -4081,11 +4081,11 @@ msgstr "Լսելու բարձրությունը"
 
 msgctxt "sCHAT_SETOPTIONS_MUTED_ALL"
 msgid "%s has made all participants in this conversation read-only"
-msgstr "%s-ը չի թույլատրում այս չատի մասնակիցներին գրել հաղորդագրություն"
+msgstr "%s-ը չի թույլատրում այս չաթի մասնակիցներին գրել հաղորդագրություն"
 
 msgctxt "sCHAT_SETOPTIONS_UNMUTED_ALL"
 msgid "%s has allowed people in this conversation to write messages"
-msgstr "%s-ը թույլատրում այս չատի մասնակիցներին գրել հաղորդագրություն"
+msgstr "%s-ը թույլատրում այս չաթի մասնակիցներին գրել հաղորդագրություն"
 
 msgctxt "sPREMIUMCALL_WEBWINDOW_TITLE"
 msgid "Skype Prime"
@@ -4097,7 +4097,7 @@ msgstr "Զգուշացումնր և Գրություններ"
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
-msgstr "<b>Զգուշացումնր և Գրություններ.</b>Օգտակար տեղեկություն և օգնություն Skype-ի օգտագործման համար"
+msgstr "<b>Զգուշացումնր և Գրություններ.</b> Օգտակար տեղեկություն և օգնություն Skype-ի համար"
 
 msgctxt "sF_OPTIONS_ALERTS_LEARNMORE"
 msgid "<a href=\"skype:?go#help.faq.alerts\">Learn more</a>"
@@ -4109,7 +4109,7 @@ msgstr "Skype-ի լեզվային ֆայլեր"
 
 msgctxt "sCALL_IS_FORWARDED"
 msgid "Your call is being forwarded free of charge. Please wait."
-msgstr "Ընթանում է Ձեր զանգի անվճար վերահասցեավորում։ Փոքր-ինչ սպասեք։"
+msgstr "Ընթանում է Ձեր զանգի անվճար փոխանցում։ Փոքր-ինչ սպասեք։"
 
 msgctxt "sCALL_QUALITY_DIAL_PAD"
 msgid "Problems sending dial pad (DTMF) tones."
@@ -4217,7 +4217,7 @@ msgstr "Չաթ և SMS"
 
 msgctxt "SF_OPTIONS_GENERAL_CAPTION"
 msgid "<b>General settings:</b> Set up all the basics you need to use Skype"
-msgstr "<b>Գլխավորը.</b>Skype-ի հիմնական կարգավորումները"
+msgstr "<b>Գլխավորը.</b> Skype-ի հիմնական կարգավորումները"
 
 msgctxt "sF_OPTIONS_AUDIO_CAPTION"
 msgid "<b>Audio settings:</b> Set up sound on your computer"
@@ -4230,11 +4230,11 @@ msgstr "<b>Ձայնը.</b> Ընտրեք զանգի ձայնը, չաթերը, ծ�
 
 msgctxt "sF_OPTIONS_NOTIFICATIONS_CAPTION"
 msgid "<b>Notification settings:</b> Choose what Skype alerts you to"
-msgstr "<b>Տեղեկացումներ.</b>Ընտրեք, թէ ինչի մասին Skype-ը պետք է տեղեկացնի ձեզ "
+msgstr "<b>Ծանուցումներ.</b> Ընտրեք, թէ ինչի մասին Skype-ը պետք է տեղեկացնի ձեզ "
 
 msgctxt "SF_OPTIONS_VOICEMAIL_CAPTION"
 msgid "<b>Voice messages:</b> Never miss a call again"
-msgstr "<b>Ձայնային հաղորդ.</b>Այլևս զանգ բաց չեք թողնի"
+msgstr "<b>Ձայնային փոստ.</b> Այլևս բաց չեք թողնի որևէ զանգ"
 
 msgctxt "sF_OPTIONS_LB_LANGUAGE"
 msgid "Set program language to"
@@ -4250,7 +4250,7 @@ msgstr "Բարձր"
 
 msgctxt "sF_OPTIONS_LINK_BUY_HEADSET"
 msgid "Buy a headset or Skype phone from the Skype shop"
-msgstr "Գնեք խոսափող, ականջակալ կամ հեռախոսներ՝ Skype-ի համացանց-խանութից"
+msgstr "Գնեք խոսափող, ականջակալ կամ հեռախոսներ՝ Skype-ի առցանց խանութից"
 
 msgctxt "sF_OPTIONS_DIDNOT_HEAR"
 msgid "Didn't hear anything?"
@@ -4335,7 +4335,7 @@ msgid ""
 "value – all you need is a little Skype Credit. You can even set your "
 "messages to look like they came from your mobile phone so friends can reply "
 "to your mobile."
-msgstr "Ուղարկել SMS-ներ համակարգչից շատ հեշտ է։ Դրա համար պետք է միայն Skype-ի մի փոքր Հաշիվ։ Նաև կարող եք այնպես անել, որ Ձեր գրությունները ցուցադրվեն այնպես, կարծես դրանք ուղարկվել են բջջայինից և այդ դեպքում Ձեր ընկերները կարող են պատասխանը ուղարկել Ձեր բջջայինին։"
+msgstr "Ուղարկել SMS-ներ համակարգչից շատ հեշտ է։ Դրա համար պետք է միայն Skype-ի մի փոքրիկ Հաշիվ։ Նաև կարող եք այնպես անել, որ Ձեր գրությունները ցուցադրվեն այնպես, կարծես դրանք ուղարկվել են բջջայինից և այդ դեպքում Ձեր ընկերները կարող են պատասխանը ուղարկել Ձեր բջջայինին։"
 
 msgctxt "sF_OPTIONS_BUY_CREDIT_SMS"
 msgid "Buy Skype Credit to send SMS to mobile phone"
@@ -4350,7 +4350,7 @@ msgid ""
 "You will need Skype Credit or a calling <a "
 "href=\"skype:?go&sso=1#subscriptions\">subscription</a> to forward calls "
 "from Skype."
-msgstr "Ձեզ պետք կլինի Skype-ի Հաշիվ կամ <a href=\"skype:?go#subscriptions\">բաժանորդագրություն</a>՝ Skype-ի զանգերը վերահասցեավորելու համար։"
+msgstr "Ձեզ պետք կլինի Skype-ի Հաշիվ կամ <a href=\"skype:?go#subscriptions\">բաժանորդագրություն</a>՝ Skype-ի զանգերը փոխանցելու համար։"
 
 msgctxt "sF_OPTIONS_CALL_FORWARD4"
 msgid "Rates for calling phones and mobiles"
@@ -4358,15 +4358,15 @@ msgstr "Բջջային և տեղային զանգերի գները"
 
 msgctxt "sF_OPTIONS_ABOUT_CALL_FORWARD"
 msgid "Learn more about call forwarding"
-msgstr "Զանգերի վերահասցեավորման լրացուցիչ տեղեկություն"
+msgstr "Զանգերի փոխանցման լրացուցիչ տեղեկություն"
 
 msgctxt "SF_OPTIONS_BUY_CREDIT_CALL_FRW"
 msgid "Buy Skype Credit to forward calls to phones and mobiles"
-msgstr "Գնեք Skype-ի Հաշիվ և վերահասցեավորեք զանգերը սովորական հեռախոսի"
+msgstr "Գնեք Skype-ի Հաշիվ և փոխանցեք զանգերը սովորական հեռախոսի"
 
 msgctxt "sF_OPTIONS_CALL_FRW_OPTIONS"
 msgid "Call forwarding options"
-msgstr "Զանգերի վերահասցեավորման կարգավորումներ"
+msgstr "Զանգերի փոխանցման կարգավորումներ"
 
 msgctxt "sF_OPTIONS_ABOUT_VOICEMAIL"
 msgid "Learn more about voice messages"
@@ -4376,7 +4376,7 @@ msgctxt "sF_OPTIONS_CALL_FORWARDING"
 msgid ""
 "When you're away from Skype, forward incoming calls to a phone or mobile, to"
 " another Skype account, or receive a voice message."
-msgstr "Երբ հեռու եք Skype-ից՝ բոլոր զանգերը կարող են վերահասցեավորվել որևէ հեռախոսահամարի, Skype-ի այլ հաշվեկշռի կամ ձայնային փոստի։"
+msgstr "Երբ հեռու եք Skype-ից՝ բոլոր զանգերը կարող են փոխանցումը որևէ հեռախոսահամարի, Skype-ի այլ հաշվի կամ ձայնային փոստի։"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8a"
 msgid "Skype Credit"
@@ -4384,7 +4384,7 @@ msgstr "Skype-ի Հաշիվ"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8b"
 msgid "or a subscription to forward calls"
-msgstr "կամ բաժանորդագրություն վերահասցեավորման համար"
+msgstr "կամ բաժանորդագրություն փոխանցման համար"
 
 msgctxt "sF_OPTIONS_FORWARD_AFTER"
 msgid "Forward calls if I do not answer within"
@@ -4394,13 +4394,13 @@ msgctxt "sF_OPTIONS_VOICEMAIL_LABEL"
 msgid ""
 "When you're away from Skype, callers can leave a voice message or be "
 "forwarded to a phone number or another Skype account."
-msgstr "Երբ հեռու եք համակարգչից՝ Skype-ը կարող է վերահասցեավորել զանգերը ձայնային փոստի կամ հեռախոսահամարի։"
+msgstr "Երբ հեռու եք համակարգչից՝ Skype-ը կարող է փոխանցել զանգերը ձայնային փոստի կամ հեռախոսահամարի։"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB5"
 msgid ""
 "Call forwarding is active. Calls will be sent first to the phone number(s) "
 "set."
-msgstr "Զանգի վերահասցեավորումը միացված է։ Զանգերը կուղղվեն այդ համարին։"
+msgstr "Զանգի փոխանցումը միացված է։ Զանգերը կուղղվեն այդ համարին։"
 
 msgctxt "sF_BLOCK_ALREADY_BLOCKED"
 msgid "This person is already blocked."
@@ -4408,7 +4408,7 @@ msgstr "Այս օգվողը արդեն արգելափակված է"
 
 msgctxt "sF_OPTIONS_LB_CHAT_SETTINGS"
 msgid "IM settings"
-msgstr "Չատի կարգավորումներ"
+msgstr "Չաթի կարգավորումներ"
 
 msgctxt "sF_OPTIONS_SETUP_CALLS"
 msgid "<b>Call settings:</b> Set up your call options"
@@ -4466,7 +4466,7 @@ msgstr "Գործնական կոնտակտ"
 
 msgctxt "sCALL_LB2_FAILED_COMMERCIAL_CONTACT"
 msgid "Contact can only receive IMs."
-msgstr "Այս օգվողը կարող է ընդունել հաղորդագրություն միայն չատի միջոցով:"
+msgstr "Այս օգվողը կարող է ընդունել հաղորդագրություն միայն չաթի միջոցով:"
 
 msgctxt "sCHAT_EDITED_BY_SELF_MESSAGE_TITLE"
 msgid "Edited %s"
@@ -4486,7 +4486,7 @@ msgstr "Սա Skype-ի զանգի օրինակի ցուցիչն է"
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr "Կախել լսափողը"
+msgstr "Ավարտել զանգը"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
@@ -4510,11 +4510,11 @@ msgstr "%d ֆայլ(եր)"
 
 msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS1"
 msgid "Call Forwarding Options"
-msgstr "Զանգերի վերահասցեվորման կարգավորումներ..."
+msgstr "Զանգերի փոխանցման կարգավորումներ..."
 
 msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS2"
 msgid "Set up Call Forwarding..."
-msgstr "Կարգավորել զանգերի վերահասցեավորումը…"
+msgstr "Կարգավորել զանգերի փոխանցումը…"
 
 msgctxt "sREDBUTTON_HINT_CANCEL_VOICEMAIL"
 msgid "Cancel voice message"
@@ -4804,7 +4804,7 @@ msgstr "Կապ"
 
 msgctxt "sZAPBUTTON_CQ_SHOW"
 msgid "Show problems"
-msgstr "Ցույց տալ անսարքությունները"
+msgstr "Ցուցադրել անսարքությունները"
 
 msgctxt "sZAPBUTTON_CQ_HIDE"
 msgid "Hide problems"
@@ -4920,11 +4920,11 @@ msgstr "Խոսակցություններ"
 
 msgctxt "sZAPBUTTON_CONVERSATION"
 msgid "Display the conversation here instead"
-msgstr "Ցուցադրել այս չատը այստեղ"
+msgstr "Ցուցադրել երկխոսությունը այստեղ"
 
 msgctxt "sZAPBUTTON_CONVERSATIONCLASSIC"
 msgid "Show the window containing the conversation"
-msgstr "Ցուցադրել պատուհանը այս չատով"
+msgstr "Ցուցադրել պատուհանը այս չաթով"
 
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
@@ -5884,11 +5884,11 @@ msgstr "Խանութ"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
-msgstr "Ցույց տալ որտեղ"
+msgstr "Ցուցադրել որտեղ"
 
 msgctxt "sZAPBUTTON_SHOWMESSAGES"
 msgid "Show messages"
-msgstr "Ցուցադրել հաղորդագրությունը"
+msgstr "Ցուցադրել՝"
 
 msgctxt "sZAPBUTTON_SIX"
 msgid "6"
@@ -6024,7 +6024,7 @@ msgstr "Անջատել տեսազանգը"
 
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr "Տեսա"
+msgstr "Տեսապատկերը"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
@@ -6064,7 +6064,7 @@ msgstr "Ընտրել պատուհանը"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTOPSHARING"
 msgid "Stop sharing"
-msgstr "Դադարեցնել ցուցադրությունը"
+msgstr "Դադարեցնել էկրանի ցուցադրությունը"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGMENUCANCEL"
 msgid "Cancel"
@@ -6404,7 +6404,7 @@ msgstr "Փոխել լեզուն"
 
 msgctxt "sVM_DEFAULT_MESSAGE"
 msgid "Sent voice message to people in this conversation."
-msgstr "Ուղարկել ձայնային հաղորդագրությունը այս չատի օգտվողներին:"
+msgstr "Ուղարկել ձայնային հաղորդագրությունը այս չաթի օգտվողներին:"
 
 msgctxt "sCOM_GOT_VIDEO_HEADER"
 msgid "Your video works!"
@@ -6434,15 +6434,15 @@ msgstr "Ավելացնել այլ մարդկանց"
 
 msgctxt "sCALL_IN_PROGRESS"
 msgid "If you call %s your current call will be put on hold."
-msgstr "Եթե դուք զանգեք %s-ին, ապա ձեր ընթացիկ զանգը կտեղափոխվի սպասման ռեժիմ:"
+msgstr "Եթե դուք զանգեք %s-ին, ապա ձեր ընթացիկ զանգը կտեղափոխվի սպասման վիճակ:"
 
 msgctxt "sCALL_CANNOT_HOLD"
 msgid "Cannot call - can't put current call on hold."
-msgstr "Հնարավոր չէ զանգել - տվյալ զանգը չի կարող տեղափոխվել եղանակ:"
+msgstr "Հնարավոր չէ զանգել - տվյալ զանգը չի կարող տեղափոխվել վիճակ:"
 
 msgctxt "sCALL_RESUME_OTHERS_LIVE"
 msgid "Resuming this call will put other calls on hold."
-msgstr "Այս զանգի վերականգնումը առկա զանգը կտեղափոխի սպասման եղանակ:"
+msgstr "Այս զանգի վերականգնումը առկա զանգը կտեղափոխի սպասման վիճակ:"
 
 msgctxt "sCALL_TOOLBAR_RESUME"
 msgid "Resume this call"
@@ -6470,7 +6470,7 @@ msgstr "Զանգեր"
 
 msgctxt "sCONVERSATIONSEARCH_VOICEMAILS"
 msgid "Voice messages"
-msgstr "Ձայնային հաղորդագրություններ"
+msgstr "Ձայնային փոստ"
 
 msgctxt "sCONVERSATIONSEARCH_SMS"
 msgid "SMS"
@@ -6758,7 +6758,7 @@ msgstr "Այս զանգի ընդունումը ներկա զանգը կտեղա�
 
 msgctxt "sCALLALERT_CALLEXISTS_NO_OR"
 msgid "Answering this call will put your active call on hold."
-msgstr "Այս զանգի ընդունումը ներկա զանգը կտեղափոխի սպասման կարգավիճակ:"
+msgstr "Այս զանգի ընդունումը ներկա զանգը կտեղափոխի սպասման վիճակ:"
 
 msgctxt "sCALLALERT_CANCEL_VOICEMAIL"
 msgid ""
@@ -6831,7 +6831,7 @@ msgstr "Ցուցադրել Outlook-ի կոնտակտներին"
 
 msgctxt "sMAINMENU_CONTACTS_SORT"
 msgid "Sort Contacts by"
-msgstr "Դասավորել կոնտակտներին ըստ"
+msgstr "Խմբավորել կոնտակտներն ըստ"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_NAME"
 msgid "Name"
@@ -6843,15 +6843,15 @@ msgstr "կարգավիճակի"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
-msgstr "Չցուցադրել նրանց, ովքեր"
+msgstr "Չցուցադրել նրանց, ովքեր՝"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE"
 msgid "Are Offline"
-msgstr "Առցանց չէ"
+msgstr "Անցանց է"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE_CF"
 msgid "Are Offline with Call Forwarding"
-msgstr "ցանցում չէ՝ զանի վերահասցեավորմամբ"
+msgstr "ցանցում չէ՝ զանգի փոխանցմամբ"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_NOT_AUTHORIZED"
 msgid "Haven't Shared Contact Details"
@@ -6883,7 +6883,7 @@ msgstr "Ուղարկել"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_MESSAGE"
 msgid "Instant Message (IM)"
-msgstr "Չաթ"
+msgstr "Հաղորդագրություն"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
@@ -6895,7 +6895,7 @@ msgstr "Ֆայլ…"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VOICEMAIL"
 msgid "Voice Message"
-msgstr "Ձայնային հաղորդագրություն"
+msgstr "Ձայնային փոստ"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_CONTACTS"
 msgid "Contacts..."
@@ -6927,7 +6927,7 @@ msgstr "Փնտրել…"
 
 msgctxt "sMAINMENU_CONVERSATION_MARK_AS_UNREAD"
 msgid "Mark as Unread"
-msgstr "Նշել ինչպես չկարդացված"
+msgstr "Նշել որպես չընթերցված"
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
@@ -6963,7 +6963,7 @@ msgstr "Վերահասցեավորել"
 
 msgctxt "sMAINMENU_CALL_HOLD"
 msgid "Hold"
-msgstr "Պահում"
+msgstr "Զանգի սպասում"
 
 msgctxt "sMAINMENU_CALL_RESUME"
 msgid "Resume"
@@ -6971,15 +6971,15 @@ msgstr "Շարունակել"
 
 msgctxt "sMAINMENU_CALL_HANG_UP"
 msgid "Hang up"
-msgstr "Կախել լսափողը"
+msgstr "Ավարտել զանգը"
 
 msgctxt "sMAINMENU_CALL_AUDIO"
 msgid "Audio Settings..."
-msgstr "Ձայնային կարգավորումներ…"
+msgstr "Ձայնի կարգավորումներ…"
 
 msgctxt "sMAINMENU_CALL_VIDEO"
 msgid "Video"
-msgstr "Տեսա"
+msgstr "Տեսապատկերը"
 
 msgctxt "sMAINMENU_CALL_VIDEO_SNAPSHOT"
 msgid "Video Snapshot"
@@ -7143,7 +7143,7 @@ msgstr "Ամենասկզբից"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr "Ցուցադրել %s-ի կողմից ուղարկված հաղորդագրությունը"
+msgstr "Ցուցադրել %s առաջ ուղարկված հաղորդագրությունները"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -7274,7 +7274,7 @@ msgstr "Կապակցված խոսակցություններ"
 
 msgctxt "sINBOX_CLEAR_CONVERSATIONS"
 msgid "Hide read conversations"
-msgstr "Թաքցնել կարդացած խոսակցությունները"
+msgstr "Թաքցնել ընթերցված խոսակցությունները"
 
 msgctxt "sF_CONVERSATIONS_MANY"
 msgid "%d conversations"
@@ -7317,7 +7317,7 @@ msgstr "%d նոր"
 
 msgctxt "sINBOX_MARK_ALL_READ"
 msgid "Mark all read"
-msgstr "Նշել բոլորը որպես չկարդացված"
+msgstr "Նշել բոլորը որպես չընթերցված"
 
 msgctxt "sTRAYALERT_ISONLINE"
 msgid "is online"
@@ -7325,7 +7325,7 @@ msgstr "առցանց է"
 
 msgctxt "sTRAYALERT_ISOFFLINE"
 msgid "went offline"
-msgstr "-ը դուրս եկավ ցանցից"
+msgstr "դուրս եկավ ցանցից"
 
 msgctxt "sTRAYALERT_EXAMPLE"
 msgid "Example"
@@ -7855,7 +7855,7 @@ msgstr "Անանուն կոնտակտ"
 
 msgctxt "sCONVERSATION_MARK_READ"
 msgid "Mark as Read"
-msgstr "Նշել որպես կարդացած"
+msgstr "Նշել որպես չընթերցված"
 
 msgctxt "sCHAT_POSTED_CONTACTS"
 msgid "%d contacts sent to %s"
@@ -7921,7 +7921,7 @@ msgstr "Ավելացնել մարդկանց..."
 
 msgctxt "sPUBLICCHAT_NOT_SUPPORTED"
 msgid "Public chats are not supported in this version"
-msgstr "Այս տարբերակը չի բավարարում հանրային չատը"
+msgstr "Այս տարբերակը չի բավարարում հանրային չաթը"
 
 msgctxt "sPROFILE_OUTLOOK_CONTACT"
 msgid "Outlook Contact"
@@ -8039,7 +8039,7 @@ msgctxt "sF_OPTIONS_CF_ERROR5"
 msgid ""
 "You can't forward calls to a person who hasn't accepted your contact "
 "request."
-msgstr "Չեք կարող վերահասցեավորել բաժանորդի, որը ձեզ չի տվել իր կոնտակտային տվյալները։"
+msgstr "Չեք կարող փոխանցել բաժանորդի, որը ձեզ չի տվել իր կոնտակտային տվյալները։"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_LONG"
 msgid ""
@@ -8133,7 +8133,7 @@ msgstr "Այսօր %s-ի ծնունդն է"
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Կոնտակտների ցանկի ուղարկում"
+msgstr "Ուղարկել Կոնտակտների ցանկը"
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -8266,7 +8266,7 @@ msgstr "%d կոնտակտներ ուղարկվել են խումբ"
 
 msgctxt "sF_OPTIONS_CF_ERROR6"
 msgid "You are not allowed to forward calls to Skype Test Call"
-msgstr "Չեք կարող վերահասցեավորել զանգերը՝ Skype Test Call-ին"
+msgstr "Չեք կարող փոխանցել զանգերը՝ Skype Test Call-ին"
 
 msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
 msgid "In call"
@@ -8274,7 +8274,7 @@ msgstr "Մուտքային զանգ"
 
 msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
 msgid "On hold"
-msgstr "Սպասման մեջ"
+msgstr "Սպասման վիճակում "
 
 msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
 msgid "Muted"
@@ -8298,7 +8298,7 @@ msgstr "Վերահասցեավորում"
 
 msgctxt "sPARTICIPANT_CALL_STATE_VMPLAYING"
 msgid "Playing voice message"
-msgstr "Ձայնային հաղորդագրության լսում"
+msgstr "Լսել Ձայնային փոստը"
 
 msgctxt "sPARTICIPANT_CALL_STATE_VMRECORDED"
 msgid "Recording voice message"
@@ -8367,7 +8367,7 @@ msgstr "Գործում են աշխարհագրական, ծրագրային և ա
 
 msgctxt "sBROWSER_OFFLINE_CAPTION"
 msgid "You are currently offline"
-msgstr "Ներկա պահին դուք առցանց չեք"
+msgstr "Ներկա պահին դուք անցանց եք"
 
 msgctxt "sBROWSER_OFFLINE_TEXT"
 msgid ""
@@ -8421,7 +8421,7 @@ msgstr "Բաց թողնել զանգը"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr "Կախել լսափողը"
+msgstr "Ավարտել զանգը"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -8429,7 +8429,7 @@ msgstr "Skype WiFi"
 
 msgctxt "sF_OPTIONS_LBC_SKYACCESS"
 msgid "<b>Skype WiFi:</b> Use Skype Credit to pay for internet access"
-msgstr "<b>Skype WiF.</b>Համացանց մուտքի համար վճարեք Skype-ի Հաշվից։"
+msgstr "<b>Skype WiF.</b> Համացանց մուտքի համար վճարեք Skype-ի Հաշվից։"
 
 msgctxt "sF_OPTIONS_SKYACCESS_ENABLE"
 msgid "Enable Skype WiFi"
@@ -8717,7 +8717,7 @@ msgstr "Եթե դուք մուտքագրեք ձեր ծննդյան օրը, ամ�
 msgctxt "sF_USERENTRY_PROFILE_HINT3"
 msgid ""
 "Enter your mobile number so your contacts can call you when you're offline."
-msgstr "Եթե դուք մուտքագրեք ձեր բջջայինի հեռախոսահամարը, ապա ձեր կոնտակտների ցանկում առկա օգտվողները կարող են զանգահարել ձեզ նույնիսկ այն դեպքում, երբ դուք լինեք Skype-ից դուրս:"
+msgstr "Մուտքագրեք ձեր բջջայինի հեռախոսահամարը, որպեսզի ձեր կոնտակտները կարողանան զանգահարել ձեզ, երբ դուք լինեք անցանց:"
 
 msgctxt "sF_USERENTRY_SUGGEST1"
 msgid "Skype Name not available"
@@ -9157,7 +9157,7 @@ msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_DESC"
 msgid ""
 "Your computer is running too slowly to make a call. You can improve your "
 "computer speed by closing any other applications you have running."
-msgstr "Ձայնային հաղորդագրության համար ձեր համակարգիչը շատ թույլ է: Դուք կարող եք բարձրացնել համակարգչի աշխատանքի արագությունը, եթե անջատեք բոլոր աշխատող ծրագրերը:"
+msgstr "Ձայնային փոստի համար ձեր համակարգիչը շատ թույլ է: Դուք կարող եք բարձրացնել համակարգչի աշխատանքի արագությունը, եթե անջատեք բոլոր աշխատող ծրագրերը:"
 
 msgctxt "sCQ_RUNNING_ON_BATTERY_TITLE"
 msgid "Running on battery? Switch to AC power"
@@ -9455,7 +9455,7 @@ msgctxt "sF_OPTIONS_CF_ERROR7"
 msgid ""
 "Calls can't be forwarded to the number you entered. Please enter a different"
 " number."
-msgstr "Զանգերի վերահասցեվորումը Ձեր նշած համարով անհնար է: Մուտքագրեք մեկ այլ համար:"
+msgstr "Զանգերի փոխանցումը Ձեր նշած համարով անհնար է: Մուտքագրեք մեկ այլ համար:"
 
 msgctxt "sHOTKEY_FLOATING"
 msgid "Switch view"
@@ -9554,7 +9554,7 @@ msgid ""
 "Calls forwarded to a phone number will be charged at <a "
 "href=\"skype:?go#rates\">our rates</a> for calling phones and mobiles or may"
 " be included as part of your subscription"
-msgstr "Զանգի վերահասցեավորման համար կգանձվի գումար ըստ քաղաքային և բջջայինզանգերի<a href=\"skype:?go#rates\">մեր սակագների</a>, եթե նման զանգերը չկան ձեր բաժանորդագրությունում։"
+msgstr "Զանգի փոխանցման համար կգանձվի գումար ըստ քաղաքային և բջջային զանգերի <a href=\"skype:?go#rates\">մեր սակագների</a>, եթե նման զանգերը չկան ձեր բաժանորդագրությունում։"
 
 msgctxt "sMAINMENU_VIEW_FULLSCREEN"
 msgid "Full Screen"
@@ -9815,7 +9815,7 @@ msgstr "Ավելացնել կոնտակտ…"
 
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
-msgstr "Որոնում է Skype-ի թղթապանակը..."
+msgstr "ՈրոնելSkype-ում..."
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT_PANEL"
 msgid "Save a Phone Number..."
@@ -9912,7 +9912,7 @@ msgstr "Կարգավորել զանգողի որոշիչը"
 
 msgctxt "sMYSELF_PROFILE_CALL_FORWARD_LINK"
 msgid "Set up call forwarding"
-msgstr "Կարգավորել զանգերի վերահասցեավորումը"
+msgstr "Կարգավորել զանգերի փոխանցումը"
 
 msgctxt "sMYSELF_PROFILE_CALL_TIME"
 msgid "Time"
@@ -9924,7 +9924,7 @@ msgstr "%s բաժանորդին պետք է Skype-ի նոր տարբերակը՝
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr "Վերջին"
+msgstr "Վերջրես"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
@@ -9936,7 +9936,7 @@ msgstr "Մուտքային զանգ"
 
 msgctxt "sCALL_TOOLBAR_ADD_TO_CONFERENCE_TEXT"
 msgid "Answering this call will put your current call on hold"
-msgstr "Այս զանգի ընդունումը առկա զանգին կտեղափոխի սպասման եղանակ"
+msgstr "Այս զանգի ընդունումը առկա զանգին կտեղափոխի սպասման վիճակ"
 
 msgctxt "sPREM_VIDEO_GENERAL_ERROR_MSG"
 msgid ""
@@ -10005,7 +10005,7 @@ msgstr "Նկար"
 
 msgctxt "sPROFILE_MOOD_LABEL"
 msgid "Mood"
-msgstr "Տրամադրություն"
+msgstr "Կարգավիճակ"
 
 msgctxt "sPROFILE_SKYPENAME_LABEL"
 msgid "Skype Name"
@@ -10021,11 +10021,11 @@ msgstr "Հաշիվ"
 
 msgctxt "sMAINMENU_SHOW_HIDDEN_CONV"
 msgid "Show Hidden Conversations"
-msgstr "Ցուցադրել թաքնված խոսակցությունները"
+msgstr "Ցուցադրել թաքցված խոսակցությունները"
 
 msgctxt "sMAINMENU_VIEW_VOICEMAILS"
 msgid "Voice Messages"
-msgstr "Ձայնային հաղորդագրություններ"
+msgstr "Ձայնային փոստ"
 
 msgctxt "sMAINMENU_VIEW_FILESSENT"
 msgid "Files Sent and Received"
@@ -10043,7 +10043,7 @@ msgctxt "sINFO_CONV_HIDE_TEXT"
 msgid ""
 "To add a hidden conversations back to the Recent list, select View » Show "
 "Hidden Conversations from the main menu."
-msgstr "Ցանկում թաքցված խոսակցությունները ցուցադրելու համար գլխավոր ընտրացանկում ընտրեք Տեսքը » Ցուցադրել թաքցված խոսակցություններ։"
+msgstr "Ցանկում թաքցված խոսակցությունները ցուցադրելու համար գլխավոր ընտրացանկում ընտրեք Տեսքը » Ցուցադրել թաքցված խոսակցությունները։"
 
 msgctxt "sINFO_CONV_HIDE_CAPTION"
 msgid "Show conversations"
@@ -10123,7 +10123,7 @@ msgstr "Սպասեք, փորձվում է վերականգնել զանգը։"
 
 msgctxt "sCQ_MSG_OFFLINE_TITLE"
 msgid "%s is offline"
-msgstr "%s-ը առցանց չէ"
+msgstr "%s-ը ցանցից դուրս է"
 
 msgctxt "sCQ_MSG_OFFLINE_TEXT"
 msgid "Hold on while we try to get the call back."
@@ -10131,7 +10131,7 @@ msgstr "Սպասեք, փորձվում է վերականգնել զանգը։"
 
 msgctxt "sCQ_MSG_LOST_NETWORK_TITLE"
 msgid "You've gone offline"
-msgstr "Դուք ցանցից դուրս եք"
+msgstr "Դուք դուրս եկաք ցանցից"
 
 msgctxt "sCQ_MSG_LOST_NETWORK_TEXT"
 msgid "Check you're still connected to the internet."
@@ -10258,7 +10258,7 @@ msgstr "Զանգել"
 
 msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_ASSISTED"
 msgid "Screen Reader Mode"
-msgstr "Էկրանը կարդալու եղանակը"
+msgstr "Էկրանը կարդալու եղանակով"
 
 msgctxt "sLIVE_MOBILE"
 msgid "(mobile)"
@@ -10509,7 +10509,7 @@ msgstr "SMS-ներ ուղարկելու համար Skype-ի Ձեր Հաշվին 
 
 msgctxt "sMYSELF_PANEL_PROF_ACCOUNT"
 msgid "Professional account"
-msgstr "Գործնական հաշվեկշիռ"
+msgstr "Գործնական հաշիվ"
 
 msgctxt "sF_CALL_FAILURE_TITLE"
 msgid "Call phones and mobiles"
@@ -10531,7 +10531,7 @@ msgstr "Ցուցադրել զանգի գները՝"
 
 msgctxt "sF_CALL_FAILURE_CREDIT_TEXT"
 msgid "Pay As You Go"
-msgstr "Վճարելմիայն կատարած զանգերի համար"
+msgstr "Վճարել միայն կատարած զանգերի համար"
 
 msgctxt "sF_CALL_FAILURE_SUBSCRIPTION_TEXT"
 msgid "Pay monthly"
@@ -10657,11 +10657,11 @@ msgstr "Ձայնային փոստ"
 
 msgctxt "sPROFILE_STATUS_OFFLINE_CF"
 msgid "Offline. Calls forwarded at no cost to you."
-msgstr "Առցանց չէ: Զանգը կվեահասցեագրվի անվճար ձեզ համար:"
+msgstr "Անցանց է: Զանգը կվեահասցեագրվի անվճար ձեզ համար:"
 
 msgctxt "sPROFILE_STATUS_OFFLINE_VM"
 msgid "Offline. Calls will be received as a voice message."
-msgstr "Ցանցում չէ։ Զանգը կվերահասցեավորվի ձայնային փոստ։"
+msgstr "Անցանց է։ Զանգը կփոխանցվի ձայնային փոստին։"
 
 msgctxt "sCALLPHONES_AUTOCOMPLETE_ITEM"
 msgid "%s (%s: %s)"
@@ -10689,7 +10689,7 @@ msgstr "Չցուցադրել Facebook-ի կոնտակտներին"
 
 msgctxt "sCALLPHONES_PRO_TITLE"
 msgid "Professional account"
-msgstr "Գործնական հաշվեկշիռ"
+msgstr "Գործնական հաշիվ"
 
 msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
 msgid ""
@@ -10703,11 +10703,11 @@ msgstr "Հաշվին քիչ մնացորդ կա"
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_SING"
 msgid "You have %d subscription"
-msgstr "Բաժանորդագրված եք %d պլանին"
+msgstr "Բաժանորդագրված եք %d պլանի"
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_PLUR"
 msgid "You have %d subscriptions"
-msgstr "Բաժանորդագրված եք %d պլանին"
+msgstr "Բաժանորդագրված եք %d պլանի"
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
 msgid ""
@@ -10725,7 +10725,7 @@ msgstr "<a href=\"skype:?go#skypecredit\">Ի՞նչ է Skype-ի Հաշիվը</a>"
 
 msgctxt "sLIVE_CONV_VOICEMAIL_RECORDING"
 msgid "Recording voice message %s"
-msgstr "Ձայնային գրության ձայնագրում %s"
+msgstr "Ձայնային փոստի ձայնագրում %s"
 
 msgctxt "sFLAMINGO_EASY_TO_CONNECT"
 msgid "We've made it easy to message your Facebook friends."
@@ -10901,7 +10901,7 @@ msgstr "Սպասեք մեկ րոպե և կրկին փորձեք ջնջել գր�
 
 msgctxt "sDELETE_VOICEMAIL_DLG_CAPTION"
 msgid "Voice message not deleted"
-msgstr "Ձայնային գրությւոնը չի ջնջվել"
+msgstr "Ձայնային փոստը չի ջնջվել"
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
@@ -10941,11 +10941,11 @@ msgstr "Թաքցնել համարի հավաքումը"
 
 msgctxt "sCHAT_FLAMINGO_CONTACT_OFFLINE"
 msgid "%s is offline on Facebook. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr "%s-ը առցանց չէ Facebook-ում։ <a href=\"skype:%s?sms\">Ուղարկել SMS։</a>"
+msgstr "%s-ը ցանցից դուրս է Facebook-ում։ <a href=\"skype:%s?sms\">Ուղարկել SMS։</a>"
 
 msgctxt "sMENU_EXTRAS_GET_APPS_CAPTION"
 msgid "Get Apps..."
-msgstr "Ստանալ ծրագրեր"
+msgstr "Ձեռք բերել ծրագրեր..."
 
 msgctxt "sLIVE_PLUS_MENU_ADD_PEOPLE"
 msgid "Add People to This Call..."
@@ -10961,7 +10961,7 @@ msgstr "Զանգել"
 
 msgctxt "sCALL_MONITOR_ON_HOLD"
 msgid "On hold"
-msgstr "Սպասման վիճակում"
+msgstr "Սպասման վիճակ"
 
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
@@ -10973,11 +10973,11 @@ msgstr "Զանգել"
 
 msgctxt "sNEW_ACCOUNT_NOTIFY"
 msgid "New account notification"
-msgstr "Նոր հաշվեկշռի տեղեկացում"
+msgstr "Նոր հաշվի տեղեկացում"
 
 msgctxt "sNEW_ACCOUNT_NOTIFY_MANY"
 msgid "New account notifications"
-msgstr "Նոր հաշվեկշռի տեղեկացումներ"
+msgstr "Նոր հաշվի տեղեկացումներ"
 
 msgctxt "sCHANGE_SHARING_OPTIONS_HINT"
 msgid "Change sharing options"
@@ -10985,7 +10985,7 @@ msgstr "Փոխել տարածման  կարգավորումները"
 
 msgctxt "sSCRSHARINGSEL_TITLE_SINGLE_DESKTOP"
 msgid "Start sharing your screen with %s"
-msgstr "Սկսեք տարածել էկրանները %s-ով"
+msgstr "Սկսեք տարածել էկրանները %s-ի հետ"
 
 msgctxt "sSCRSHARINGSEL_TITLE_WINDOWS"
 msgid "Select a window to share with %s"
@@ -11402,7 +11402,7 @@ msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
 "Sorry, you can't call %s right now because they're signed into more than one"
 " Skype account linked to Facebook."
-msgstr "Կներեք, բայց չեք կարող հիմա զանգել %s-ին, որովհետև նրանք մուտք են գործել Facebook-ին կցված մի քանի Skype հաշվեկշիռներով։"
+msgstr "Կներեք, բայց չեք կարող հիմա զանգել %s-ին, որովհետև նրանք մուտք են գործել Facebook-ին կցված Skype-ի մի քանի հաշիվներով։"
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
@@ -11906,7 +11906,7 @@ msgstr "Փնտրել <a href=\"x\">%s</a>-ը Skype-ում"
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr "ուղարկել գրությու"
+msgstr "Ուղարկել հաղորդագրություն"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -11952,7 +11952,7 @@ msgid ""
 "The reports may contain your Skype ID and/or Microsoft account ID, but we "
 "will not use it to identify you or contact you. <a "
 "href=\"skype:?go#privacy\">Learn More</a>"
-msgstr "Զեկույցը կարող է ներառել ձեր Skype ID-ին և/կամ Microsoft-ի հաշվեկշռի ID-ին, բայց մենք այն չենք օգտագործի ձեզ գտնելու կամ ձեզ հետ կապնվելու համար։ <a href=\"skype:?go#privacy\">Ավելի մանրամասն</a>"
+msgstr "Զեկույցը կարող է ներառել ձեր Skype ID-ին և/կամ Microsoft-ի հաշվի ID-ին, բայց մենք այն չենք օգտագործի ձեզ գտնելու կամ ձեզ հետ կապնվելու համար։ <a href=\"skype:?go#privacy\">Ավելի մանրամասն</a>"
 
 msgctxt "sLIVE_LOGIN_BACK"
 msgid "Go back"
@@ -11964,7 +11964,7 @@ msgstr "Skype-ը բացելիս միանգամից մուտք գործել"
 
 msgctxt "sLIVE_LOGIN_DIFF_ACCOUNT"
 msgid "Sign in with a different account"
-msgstr "Մուտք գործել այլ հաշվեկշռով"
+msgstr "Մուտք գործել այլ հաշվով"
 
 msgctxt "sLIVE_LOGIN_SCRIPTERROR"
 msgid "This page contains errors."
@@ -12182,7 +12182,7 @@ msgid ""
 "If you are connected to the internet, <a "
 "href=\"skype:?go&sso=1#myaccount\">click here</a> to connect to your "
 "account."
-msgstr "Եթե Ձեր համակարգիչը մուտք ունի համացանց՝ <a href=\"skype:?go#myaccount\">սեղմեք այստեղ</a>՝ Ձեր հաշվեկշիռ մուտք գործելու համար։"
+msgstr "Եթե Ձեր համակարգիչը մուտք ունի համացանց՝ <a href=\"skype:?go#myaccount\">սեղմեք այստեղ</a>՝ Ձեր հաշվով մուտք գործելու համար։"
 
 msgctxt "sMIC_WEBWINDOW_TITLE"
 msgid "Account"
@@ -12216,7 +12216,7 @@ msgstr "%s-ին ուղարկել կոնտակտի հարցում"
 
 msgctxt "sMYINFO_PREMIUM_ACCOUNT"
 msgid "Premium account"
-msgstr "Premium հաշվեկշիռ"
+msgstr "Premium հաշիվ"
 
 msgctxt "sMYINFO_MANAGE_PREMIUM_ACCOUNT"
 msgid "Manage Premium"
@@ -12226,7 +12226,7 @@ msgctxt "sMYINFO_GET_PREMIUM"
 msgid ""
 "Upgrade and unlock more features<br/>• Unlimited calls<br/>• Group video "
 "calls<br/><a href=\"%s\">Get Premium</a>"
-msgstr "Բացեք նոր հնարավորություններ Skype-ում՝ ակտիվացնելով Premium հաշվեկշիռ<br/>• Խմբային տեսազանգեր<br/>• Անսահմանափակ զանգեր<br/><a href=\"%s\">Ստացեք Premium-ը</a>"
+msgstr "Բացահայտեք նոր հնարավորություններ Skype-ում՝ ակտիվացնելով Premium հաշիվը<br/>• Խմբային տեսազանգեր<br/>• Անսահմանափակ զանգեր<br/><a href=\"%s\">Ստացեք Premium-ը</a>"
 
 msgctxt "sMYINFO_CREDIT"
 msgid "Credit"
@@ -12263,11 +12263,11 @@ msgstr "Շա՞տ եք զանգում, ուրեմն շատ խնայեք...<br/><a
 
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage account"
-msgstr "Իմ հաշվեկշիռը"
+msgstr "Իմ հաշիվը"
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
-msgstr "Կառավարեք ձեր հաշվեկշիռը առցանց"
+msgstr "Կառավարեք ձեր հաշիվը առցանց"
 
 msgctxt "sAPP_TOOLBAR_HOME_TOOLTIP"
 msgid "See updates from your contacts in Skype Home."
@@ -12447,15 +12447,15 @@ msgstr "Lync"
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
 msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr "%s-ը առցանց չէ Lync-ում։ <a href=\"skype:%s?sms\">Ուղարկել SMS։</a>"
+msgstr "%s-ը ցանցից դուրս է Lync-ում։ <a href=\"skype:%s?sms\">Ուղարկել SMS։</a>"
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
-msgstr "Այժմ դուք առցանց չեք և չեք կարող չաթ անել"
+msgstr "Այժմ դուք անցանց եք և չեք կարող չաթ անել"
 
 msgctxt "sF_OPTIONS_RB_3"
 msgid "send message"
-msgstr "ուղարկել գրություն"
+msgstr "ուղարկել հաղորդագրություն"
 
 msgctxt "sF_OPTIONS_RB_4"
 msgid "insert line break"
@@ -12501,7 +12501,7 @@ msgstr "Հնարավոր չէ վերականգնել Skype-ի ձեր անուն�
 
 msgctxt "sOPTIONS_SHOW_ME_AWAY_WHEN_INACTIVE_1"
 msgid "Show me as Away when I've been inactive for"
-msgstr "Ցույց տալ Տեղում չեմ, եթե ես ակտիվ չլինեմ՝ "
+msgstr "Ցուցադրել Տեղում չեմ, եթե ես ակտիվ չլինեմ՝ "
 
 msgctxt "sOPTIONS_SHOW_ME_AWAY_WHEN_INACTIVE_2"
 msgid "minutes"
@@ -12530,7 +12530,7 @@ msgstr "<a href=\"http://www.skype.com/go/novideo\">Կարդալ ավելին</a
 
 msgctxt "sMAINMENU_HELP_L2SKYPE"
 msgid "Learn about Skype for Windows"
-msgstr "Կարդալ Skype-ը Windows-ի համարի մասին"
+msgstr "Մանրամասներ՝ Skype-ը Windows-ի համար"
 
 msgctxt "sMAINMENU_HELP_GO2SUPP"
 msgid "Go to Support"
