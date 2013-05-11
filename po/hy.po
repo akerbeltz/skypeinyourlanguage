@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-05-05 11:02+0000\n"
+"PO-Revision-Date: 2013-05-10 16:46+0000\n"
 "Last-Translator: HrantOhanyan <hrantohanyan@mail.am>\n"
 "Language-Team: Armenian (http://www.transifex.com/projects/p/skype-translation-project/language/hy/)\n"
 "MIME-Version: 1.0\n"
@@ -530,7 +530,7 @@ msgstr "Ուղարկել"
 
 msgctxt "sYESTERDAY"
 msgid "Yesterday"
-msgstr "Երեկ"
+msgstr "1 օր"
 
 msgctxt "sTODAY"
 msgid "Today"
@@ -6612,7 +6612,7 @@ msgstr "Միաժամանակ ուղարկվում են շատ ֆայլեր։"
 msgctxt "sINTERVAL_TIME_UNITS"
 msgid ""
 "second\\seconds\\\\minute\\minutes\\\\hour\\hours\\\\day\\days\\\\week\\weeks\\\\month\\months\\\\year\\years"
-msgstr "վարկյան\\վարկյաններ\\րոպե\\րոպեներ\\ժամ\\ժամեր\\\\օր\\օրեր\\\\շաբաթ\\շաբաթներ\\\\ամիս\\ամիսներ\\տարի\\տարիներ"
+msgstr "վարկյան\\վարկյան\\րոպե\\րոպե\\ժամ\\ժամ\\\\օր\\օր\\\\շաբաթ\\շաբաթ\\\\ամիս\\ամիս\\տարի\\տարի"
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER"
 msgid "Show in folder"
@@ -7127,7 +7127,7 @@ msgstr "Skype-ը նախատեսված չէ որպես սովորական հեռ�
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr "Երեկ"
+msgstr "1 օր"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
@@ -12124,7 +12124,7 @@ msgstr "<a href=\"x\">Messenger</a>-ով"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
 msgid "via <a href=\"x\">Lync</a>"
-msgstr "a href=\"x\">Lync</a>-ով"
+msgstr "<a href=\"x\">Lync</a>-ով"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
@@ -12249,7 +12249,7 @@ msgstr "Բաժանորդագրություններ"
 
 msgctxt "sMYINFO_ONE_SUBSCRIPTION"
 msgid "1 subscription<br/><a href=\"%s\">Manage subscriptions</a>"
-msgstr "1 Բաժանորդագրություն<br/><a href=\"%s\">Կառավարել բաժանորդագրությւոնները</a"
+msgstr "1 Բաժանորդագրություն<br/><a href=\"%s\">Կառավարել բաժանորդագրությւոնները</a>"
 
 msgctxt "sMYINFO_MANY_SUBSCRIPTIONS"
 msgid "%d subscriptions<br/><a href=\"%s\">Manage subscriptions</a>"

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-04-20 13:42+0000\n"
+"PO-Revision-Date: 2013-05-11 04:06+0000\n"
 "Last-Translator: Uni Johannesen\n"
 "Language-Team: Faroese (http://www.transifex.com/projects/p/skype-translation-project/language/fo/)\n"
 "MIME-Version: 1.0\n"
@@ -83,11 +83,11 @@ msgstr "Umdoyp"
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr "Strika úr brúkaralistanum"
+msgstr "Strika sum vin"
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
-msgstr "Legg afturat brúkaralistanum"
+msgstr "Legg til vinalista"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
@@ -103,7 +103,7 @@ msgstr "Sløkk Skype"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Loggar á"
+msgstr "Innritar"
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
@@ -143,7 +143,7 @@ msgstr "Ikki loggaður á"
 
 msgctxt "sTRAYHINT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Loggar á"
+msgstr "Innritar"
 
 msgctxt "sINVALID_HANDLE"
 msgid ""
@@ -236,7 +236,7 @@ msgstr "Ja, eg vil fegin móttaka nýtt og serlig tilboð frá Skype"
 
 msgctxt "sF_USERENTRY_SIGNIN"
 msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
-msgstr "Hevur tú longu eina Skype-konto? <a href=\"x\">Logga á</a>"
+msgstr "Hevur tú longu eina Skype-konto? <a href=\"x\">Innrita</a>"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2003-2013 Skype and/or Microsoft"
@@ -300,7 +300,7 @@ msgstr "Víðkað"
 
 msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
-msgstr "Ring, tá eg dupultklikki á ein brúkara"
+msgstr "Ring tá eg dupultklikki á ein vin"
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
@@ -324,7 +324,7 @@ msgstr "Leggja hornið á"
 
 msgctxt "sF_OPTIONS_CB_25"
 msgid "contact online"
-msgstr "Brúkari verður íbundin"
+msgstr "Vinur er íbundin"
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
@@ -462,7 +462,7 @@ msgstr "&Angra"
 
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
-msgstr "Bið um góðkenning aftur"
+msgstr "Endursend vinaumbøn"
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
@@ -518,11 +518,11 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT8"
 msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
-msgstr "Loyniorðið er broytt. Brúka títt nýggja loyniorð næstu ferð, tú loggar á."
+msgstr "Loyniorðið er broytt. Brúka títt nýggja loyniorð næstu ferð, tú innritar."
 
 msgctxt "sF_SEND_CONTACTS_TEXT1"
 msgid "Send contacts to other people on Skype"
-msgstr "Send brúkarir til onnur á Skype"
+msgstr "Send vinir til onnur á Skype"
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -748,7 +748,7 @@ msgstr "Heinta eitt brúkaragjørt mál"
 
 msgctxt "sF_USERENTRY_CB_STOREPASSWORD"
 msgid "Sign me in when Skype starts"
-msgstr "Logga meg á, tá Skype verður tendrað"
+msgstr "Innrita meg næstu ferð Skype verður tendrað"
 
 msgctxt "sF_TRANSLATE_CAPTION"
 msgid "Language file editor"
@@ -810,19 +810,19 @@ msgstr "Vel snarkallsnummar..."
 
 msgctxt "sTRAYHINT_PROFILE_NOT_LOGGED_IN"
 msgid "Not signed in"
-msgstr "Ikki loggaður á"
+msgstr "Ikki innritað/ur"
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr "Allar verandi samrøður og gluggar verða endað. Vilt tú halda fram?"
+msgstr "Allar verandi samrøður verða endaðar. Vilt tú halda fram?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
-msgstr "Strika %s úr brúkaralistanum?"
+msgstr "Vilt tú strika %s sum vin?"
 
 msgctxt "sTRAYMENU_LOGIN"
 msgid "Sign in"
-msgstr "Logga á"
+msgstr "Innrita"
 
 msgctxt "sBUDDYMENU_INVITE_CONFERENCE"
 msgid "Invite to group call"
@@ -842,7 +842,7 @@ msgstr "øllum"
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
-msgstr "bert góðkendum brúkarum"
+msgstr "bert vinum"
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
@@ -854,7 +854,7 @@ msgstr "øllum"
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
-msgstr "bert góðkendum brúkarum"
+msgstr "bert vinum"
 
 msgctxt "sQUIT_PROMPT_CAP"
 msgid "Sure you want to quit Skype?"
@@ -866,19 +866,19 @@ msgstr "Sløkkja Skype?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT_CAP"
 msgid "Remove contact?"
-msgstr "Strika úr brúkaralistanum?"
+msgstr "Strika sum vin?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT_TITLE"
 msgid "Remove contact?"
-msgstr "Strika úr brúkaralistanum"
+msgstr "Strika vin?"
 
 msgctxt "sCONFIRM_OFFLINE_CAP"
 msgid "Go offline?"
-msgstr "Vera ikki íbundin?"
+msgstr "Gerst ikki íbundin?"
 
 msgctxt "sCONFIRM_OFFLINE_TITLE"
 msgid "Go offline?"
-msgstr "Vera ikki íbundin?"
+msgstr "Gerst ikki íbundin?"
 
 msgctxt "sCALLING_BLOCKED_CAP"
 msgid "Blocked"
@@ -964,7 +964,7 @@ msgstr "Byrja telefonfund"
 
 msgctxt "sF_STARTCONF_ALL_CONTACTS_LABEL"
 msgid "Choose contacts"
-msgstr "Vel brúkarir"
+msgstr "Vel vinir"
 
 msgctxt "sF_STARTCONF_SELECTED_CONTACTS_LABEL"
 msgid "Group call participants (max. %d)"
@@ -1107,7 +1107,7 @@ msgctxt "sF_BLOCKUSERS_LABEL_USERNAME"
 msgid ""
 "You can prevent a person from contacting you by selecting their name from "
 "the list below."
-msgstr "Tú kanst forða fyri, at ein brúkari setur seg í samband við teg við at velja navnið á brúkaranum á listanum niðanfyri ella við at skriva Skype-navnið ella telefonnummar."
+msgstr "Tú kanst forða einum brúkara at seta seg í samband við teg við at velja navn brúkarans á listanum niðanfyri ella við at skriva Skype-navnið ella telefonnummar."
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERS"
 msgid "Blocked people:"
@@ -1168,7 +1168,7 @@ msgstr "Steðga filuflutningi?"
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
-msgstr "Tú kanst bert senda fílur til brúkarir, ið hava góðkent teg"
+msgstr "Tú kanst bert senda fílur til vinir, og móttaka fílur frá teimum."
 
 msgctxt "sFILETRANSFER_HINT1_RELAYED"
 msgid "You have a relayed connection. This means that sending will be slow."
@@ -1264,13 +1264,13 @@ msgid ""
 "You recently changed your password. Sign in with the new password to call a "
 "phone or mobile. This is a security measure to prevent your Skype account "
 "being abused."
-msgstr "Títt loyniorð er broytt nýliga. Tú skalt logga á við nýggja loyniorðinum fyri at ringja til fastnet- ella fartelefonir. Hetta er av trygdarávum fyri at fyribyrgja, at tín Skype-konto ikki verður misnýtt."
+msgstr "Títt loyniorð er broytt nýliga. Tú skalt innrita við nýggja loyniorðinum fyri at ringja til fastnet- ella fartelefonir. Hetta er av trygdarávum fyri at fyribyrgja, at tín Skype-konto ikki verður misnýtt."
 
 msgctxt "sINFORM_UIC_FAILED_LOGOFF"
 msgid ""
 "You've been signed out of Skype. This is because of a connection error, or "
 "you've changed your password on another computer. Please sign in again."
-msgstr "Tú ert loggaður av Skype. Hetta hendir, antin av feili á netinum, ella tí tú hevur broytt loyniorðið á aðrari teldu. Logga á aftur."
+msgstr "Tú ert útritað/ur úr Skype. Hetta hendir, antin av feili á netinum, ella tí tú hevur broytt loyniorðið á aðrari teldu. Innrita aftur."
 
 msgctxt "sINVALID_NUMBER_CAPTION"
 msgid "Invalid Skype Name or phone number"
@@ -1316,7 +1316,7 @@ msgctxt "sF_STARTCHAT_TEXT"
 msgid ""
 "Choose a contact or enter a phone number and click Select. Do this for "
 "everyone you want to join, then click Add."
-msgstr "Vel ein brúkara ella skriva eitt telefonnummar og trýst á \"Vel\". Ger tað sama við øll hini, sum tú fegin vilt hava við í gruppuna og trýst síðan á \"Legg afturat\"."
+msgstr "Vel ein vin ella skriva eitt telefonnummar og trýst á \"Vel\". Ger tað sama við øll hini, sum tú fegin vilt hava við í bólkin, og trýst síðan á \"Legg afturat\""
 
 msgctxt "sF_STARTCHAT_INVITE_BUTTON"
 msgid "Add"
@@ -1400,7 +1400,7 @@ msgstr "Sendi fílu"
 
 msgctxt "sFILETRANSFERSEND_LB_CAPTION"
 msgid "Select Skype contact"
-msgstr "Vel ein brúkara"
+msgstr "Vel vin"
 
 msgctxt "sFILETRANSFERSEND_BTN_SEND"
 msgid "Send"
@@ -1502,7 +1502,7 @@ msgstr "%s og %s"
 
 msgctxt "sF_MULTICHAT_USERS_MANY"
 msgid "%d contacts"
-msgstr "%d brúkarir"
+msgstr "%d vinir"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_CAPTION"
 msgid "Send file to %s"
@@ -1661,11 +1661,11 @@ msgstr "Sløkk øll ljóð"
 
 msgctxt "sF_OPTIONS_NOTIF_ONLINE"
 msgid "comes online"
-msgstr "loggar á"
+msgstr "innritar"
 
 msgctxt "sF_OPTIONS_NOTIF_OFFLINE"
 msgid "goes offline"
-msgstr "loggar av"
+msgstr "avritar"
 
 msgctxt "sF_OPTIONS_NOTIF_CHAT"
 msgid "starts an IM with me"
@@ -1822,11 +1822,11 @@ msgstr "Spæli standard vælkomuheilsan"
 
 msgctxt "sMAINMENU_TOOLS_IMPORT_CONTACTS"
 msgid "Restore Contacts from File..."
-msgstr "Innflyt brúkarir frá vCard fílu"
+msgstr "Innflyt brúkarar frá fílu..."
 
 msgctxt "sMAINMENU_TOOLS_EXPORT_CONTACTS"
 msgid "Back up Contacts to File..."
-msgstr "Avrita brúkarir til vCard fílu"
+msgstr "Trygdaravrita vinir til fílu..."
 
 msgctxt "sF_OPTIONS_RADIOGROUP3"
 msgid "Allow calls to my Skype number(s) from..."
@@ -1842,7 +1842,7 @@ msgstr "banna uppkøllum við fjaldum nummari"
 
 msgctxt "sF_OPTIONS_RG3_3"
 msgid "phone numbers in my Contact list only"
-msgstr "bert nummur á mínum brúkaralista"
+msgstr "bert nummur hjá mínum vinum"
 
 msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
@@ -1901,7 +1901,7 @@ msgstr "Síðstu dagarnar %s"
 
 msgctxt "sCONTACT_GROUP_RECENT"
 msgid "Recently contacted"
-msgstr "Nýggjastu brúkarirnir"
+msgstr "Samskift við fyri stuttum"
 
 msgctxt "sF_OPTIONS_LINK_TEST_CALL"
 msgid "Make a free test call"
@@ -1963,7 +1963,7 @@ msgctxt "sFILETRANSFER_DISABLED"
 msgid ""
 "File sending is disabled. Contact your system administrator for more "
 "information."
-msgstr "Fíluflutningur er óvirkin. Set teg í samband við systemadministrator fyri at fáa meira at vita."
+msgstr "Fíluflutningur er óvirkin. Set teg í samband við skipanarumsitaran fyri at fáa meir at vita."
 
 msgctxt "sF_ADDFRIEND_LABEL3_1"
 msgid "Name"
@@ -2072,7 +2072,7 @@ msgstr "Myndin %s hoyrir til annan brúkara %s."
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_2"
 msgid "Please sign in as %s to select this picture."
-msgstr "Loga inn sum %s fyri at velja hesa mynd."
+msgstr "Innrita sum %s fyri at velja hesa mynd."
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_TITLE"
 msgid "Picture belongs to another person"
@@ -2134,7 +2134,7 @@ msgstr "Boð koma (nýmótans)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT8"
 msgid "Skype contact online (Modern)"
-msgstr "Brúkari verður íbundin (nýmótans)"
+msgstr "Vinur verður íbundin (nýmótans)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT9"
 msgid "Skype connecting call (Modern)"
@@ -2160,7 +2160,7 @@ msgstr "Ljóðið %s hoyrir til annan brúkara %s."
 
 msgctxt "sF_SOUNDS_MSG1_2"
 msgid "Please sign in as %s to select this sound."
-msgstr "Logga á sum %s fyri at velja hetta ljóð."
+msgstr "Innrita sum %s fyri at velja hetta ljóðið."
 
 msgctxt "sF_SOUNDS_MSG1_TITLE"
 msgid "Sound belongs to another person"
@@ -2421,7 +2421,7 @@ msgstr "Stilla títt vevmyndatól"
 
 msgctxt "sCONTACT_GROUP_UNKNOWN"
 msgid "Requests to new contacts"
-msgstr "Umbønir til nýggjar brúkarir"
+msgstr "Umbønir til nýggjar brúkarar"
 
 msgctxt "sCONTACT_GROUP_PENDINGAUTH"
 msgid "Requests from new contacts"
@@ -2429,7 +2429,7 @@ msgstr "Umbønir frá nýggjum brúkarum"
 
 msgctxt "sCONTACT_GROUP_AUTHORIZED"
 msgid "Authorized contacts"
-msgstr "Góðkendir brúkarir"
+msgstr "Heimilaðir brúkarir"
 
 msgctxt "sCONTACT_GROUP_UNGROUPED"
 msgid "Ungrouped"
@@ -2451,7 +2451,7 @@ msgstr "Banna"
 
 msgctxt "sF_AUTHQUERY_DEFAULT2"
 msgid "Hello! Please add me to your Contact list."
-msgstr "Hey! Vinarliga legg meg í brúkaralistan"
+msgstr "Halló! Vinarliga legg meg í vinalistan."
 
 msgctxt "sMOODMESSAGE_HINT"
 msgid "Enter mood message"
@@ -2479,7 +2479,7 @@ msgstr "<a href=\"skype:?go#help.faq.password\">Fá hjálp til at logga á Skype
 
 msgctxt "sMAINMENU_CONTACTS_IMPORT"
 msgid "Import Contacts..."
-msgstr "Innflyt brúkarir"
+msgstr "Innflyt vinir..."
 
 msgctxt "sMAINMENU_TOOLS_TRANSLATE"
 msgid "Edit Skype Language File..."
@@ -2571,15 +2571,15 @@ msgstr "Innkomandi bøn um góðkenning"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT18"
 msgid "Skype sign in sound"
-msgstr "Loggar á"
+msgstr "Skype innritar"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT19"
 msgid "Skype sign out sound"
-msgstr "Loggar av"
+msgstr "Útritar"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT20"
 msgid "Skype contact offline"
-msgstr "Brúkari ikki íbundin"
+msgstr "Vinur ikki íbundin"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT21"
 msgid "Skype message sent"
@@ -2599,11 +2599,11 @@ msgstr "Fíluflutningurin miseydnaðist"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT25"
 msgid "Contact added"
-msgstr "Brúkari lagdur afturat"
+msgstr "Vinur lagdur afturat"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT26"
 msgid "Contact left"
-msgstr "Brúkari aftur"
+msgstr "Brúkari fór"
 
 msgctxt "sF_OPTIONS_SOUNDS_KNOCKING"
 msgid "knocking"
@@ -2639,15 +2639,15 @@ msgstr "Innkomandi bøn um góðkenning"
 
 msgctxt "sF_OPTIONS_SOUNDS_LOGIN"
 msgid "I sign in"
-msgstr "Loggi á"
+msgstr "Innriti"
 
 msgctxt "sF_OPTIONS_SOUNDS_LOGOUT"
 msgid "I sign out"
-msgstr "Loggi av"
+msgstr "Útriti"
 
 msgctxt "sF_OPTIONS_SOUNDS_OFFLINE"
 msgid "my contact goes offline"
-msgstr "Brúkari verður ikki íbundin"
+msgstr "vinur verður ikki íbundin"
 
 msgctxt "sF_OPTIONS_SOUNDS_IM_SENT"
 msgid "I send a message"
@@ -2679,7 +2679,7 @@ msgstr "ongum"
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO2"
 msgid "people in my Contact list only"
-msgstr "bert góðkendum brúkarum"
+msgstr "bert vinum"
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO3"
 msgid "anyone"
@@ -2691,7 +2691,7 @@ msgstr "ongan"
 
 msgctxt "sF_OPTIONS_RC_AD_VIDEO2"
 msgid "people in my Contact list only"
-msgstr "bert góðkendar brúkarir"
+msgstr "bert vinir"
 
 msgctxt "sF_OPTIONS_VIDEO_LB4"
 msgid "Show that I have video to..."
@@ -2728,7 +2728,7 @@ msgstr "Loyniorðið skal vera ymiskt frá tí gamla."
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT11"
 msgid "You must be signed in to change your password."
-msgstr "Tú skalt vera loggaður á fyri at broyta loyniorðið."
+msgstr "Tú skalt vera innritað/ur fyri at broyta loyniorðið."
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT12"
 msgid "You should change your password to protect your security."
@@ -2760,15 +2760,15 @@ msgstr "vevmyndatól-stillingar"
 
 msgctxt "sREMOVE_CONTACTS_PROMPT"
 msgid "Remove %d selected contacts?"
-msgstr "Vilt tú strika %d brúkarir?"
+msgstr "Vilt tú strika %d vinir?"
 
 msgctxt "sREMOVE_CONTACTS_TITLE"
 msgid "Remove contacts"
-msgstr "Strika brúkarir"
+msgstr "Strika vinir"
 
 msgctxt "sREMOVE_CONTACTS_CAP"
 msgid "Remove contacts"
-msgstr "Strika brúkarir"
+msgstr "Strika vinir"
 
 msgctxt "sUNSAFE_FILE"
 msgid ""
@@ -3220,7 +3220,7 @@ msgstr "Broyta telefonnummar"
 
 msgctxt "sBUDDYMENU_EDIT"
 msgid "Edit Contact..."
-msgstr "Broyta brúkara ..."
+msgstr "Broyt vin..."
 
 msgctxt "sEDIT_MY_PROFILE"
 msgid "Edit Your Profile..."
@@ -3256,7 +3256,7 @@ msgstr "Fejl på telefonnetværket"
 
 msgctxt "sF_UPGRADE_FORCED_TEXT3"
 msgid "Please contact your system administrator for more information."
-msgstr "Kontakt systemadministratoren for yderligere oplysninger."
+msgstr "Vinarliga set teg í samband við skipanarumsitaran fyri at fáa meir at vita."
 
 msgctxt "sCALL_LB2_FAILED_GENERAL"
 msgid "Call failed"
@@ -3808,11 +3808,11 @@ msgstr "Loyv kjatt frá øllum"
 
 msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS1"
 msgid "Allow calls only from my contacts."
-msgstr "Tillad kun opkald fra mine kontaktpersoner"
+msgstr "Loyva einans køllum frá vinum."
 
 msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS2"
 msgid "Allow IM from my contacts only."
-msgstr "Loyv bert kjatt frá mínum kontaktpersónum"
+msgstr "Loyva einans vinum at kjatta við meg."
 
 msgctxt "sF_PRIVACY_CHANGE_LB_OPTIONS"
 msgid "<a href=\"skype:?options#privacy\">Advanced privacy options</a>"
@@ -3876,7 +3876,7 @@ msgstr "Lond og SMS-prísir"
 
 msgctxt "sF_STARTCONF_INFO_LABEL"
 msgid "Skype group calls can include both Skype contacts and phone numbers."
-msgstr "Skypes telefonmøder kan omfatte både Skype-kontaktpersoner og almindelige telefonnumre."
+msgstr "Bólkasamrøðurnar hjá Skype fevna bæði um brúkarar á Skype og vanlig telefonnummur."
 
 msgctxt "sF_STARTCONF_ENTER_PHONE_LABEL"
 msgid "or enter someone's phone number."
@@ -3899,7 +3899,7 @@ msgstr "Det nummer, du har prøvet at tilføje, er ikke korrekt. Du skal vælge 
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
-msgstr "Brúkarir:"
+msgstr "Vinir"
 
 msgctxt "sCHAT_STATUSMESSAGE_PWD_REQUIRED"
 msgid "Password required"
@@ -4266,7 +4266,7 @@ msgstr "Øll kunnu seta seg í samband við meg"
 
 msgctxt "sF_OPTIONS_ONLY_CONTACT_LIST"
 msgid "Only allow people in my Contact list to contact me"
-msgstr "Bert fólk á mínum brúkaralista kunnu seta seg í samband við meg"
+msgstr "Einans vinir kunnu seta seg í samband við meg"
 
 msgctxt "sF_OPTIONS_ABOUT_PRIVACY"
 msgid "Learn more about privacy and security in Skype"
@@ -4290,7 +4290,7 @@ msgstr "Øll hava loyvi at ringja til mín"
 
 msgctxt "sF_OPTIONS_CALL_BUDDY"
 msgid "Only allow people in my Contact list to call me"
-msgstr "Bert persónar á mínum brúkaralista kunnu ringja til mín"
+msgstr "Einans vinir kunnu ringja til mín"
 
 msgctxt "sF_OPTIONS_ANYONE_CAN_CHAT"
 msgid "Allow anyone to send IMs to me"
@@ -4298,7 +4298,7 @@ msgstr "Øll kunnu kjatta við meg"
 
 msgctxt "sF_OPTIONS_BUDDY_CAN_CHAT"
 msgid "Only allow people in my Contact list to send me instant messages"
-msgstr "Bert persónar á mínum brúkaralista kunnu kjatta við meg"
+msgstr "Einans vinir kunnu kjatta við meg"
 
 msgctxt "sF_OPTIONS_CHAT_LOOKS"
 msgid "<b>IM appearance:</b> Set up how IM looks"
@@ -4418,7 +4418,7 @@ msgctxt "sF_OPTIONS_VOICEMAIL_LABEL1"
 msgid ""
 "Personalize your voice message greeting, save messages to listen to again, "
 "and leave voice messages for your contacts if you can't get hold of them."
-msgstr "Ger vælkomuheilsanina á tínum \"Taluboðum\" persónliga, goym boð, og lurta eftir teimum aftur, og tú kanst leggja eini boð til onnur, tá tú ikki fært fatur á teimum."
+msgstr "Ger vælkomuheilsanina á tínum boðkliva persónliga, goym boð til at lurta eftir seinni, og legg vinum tínum eini boð á boðkliva teirra um tú ikki fært fatur á teimum."
 
 msgctxt "sF_OPTIONS_VOICEMAIL_LABEL2"
 msgid "Get voice messaging when you sign up for a subscription."
@@ -4442,11 +4442,11 @@ msgstr "Kildefilen er ugyldig eller findes ikke"
 
 msgctxt "sF_USERINFO_SERTIFIED_HINT"
 msgid "This is a business contact."
-msgstr "En af kontaktpersoner"
+msgstr "Hetta er ein starvsfelagi."
 
 msgctxt "sF_ADDFRIEND_SERTIFIED_HINT"
 msgid "This is a business contact."
-msgstr "En af kontaktpersoner"
+msgstr "Hetta er in starvsfelagi."
 
 msgctxt "sTOOLTIP_CHAT_THUMB"
 msgid "Play video %s"
@@ -4458,15 +4458,15 @@ msgstr "Tak eina videomynd"
 
 msgctxt "sF_USERINFO_IMG_SERTIFIED"
 msgid "Business contact"
-msgstr "Forretningsforbindelse"
+msgstr "Starvsfelagi"
 
 msgctxt "sF_ADDFRIEND_IMG_SERTIFIED"
 msgid "Business contact"
-msgstr "Forretningsforbindelse"
+msgstr "Starvsfelagi"
 
 msgctxt "sCALL_LB2_FAILED_COMMERCIAL_CONTACT"
 msgid "Contact can only receive IMs."
-msgstr "Kontaktpersonen kan kun modtage chatbeskeder"
+msgstr "Viðkomandi fær eittans móttikið kjattboð."
 
 msgctxt "sCHAT_EDITED_BY_SELF_MESSAGE_TITLE"
 msgid "Edited %s"
@@ -4494,7 +4494,7 @@ msgstr "Tilføj flere personer"
 
 msgctxt "sF_STARTSEND_SELECTED_CONTACTS_LABEL"
 msgid "Contacts to send"
-msgstr "Kontaktpersoner, der skal sendes"
+msgstr "Brúkarir, sum skulu sendast"
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
@@ -4528,11 +4528,11 @@ msgctxt "s_OPTIONS_UNDER_16_WARNING"
 msgid ""
 "If you are under 16 years of age Skype stops people you do not know from "
 "contacting you"
-msgstr "Hvis du er under 16 år forhindrer Skype at folk du ikke kender kan kontakte dig"
+msgstr "Um tú ert yngri enn 16 forðar Skype fólki, sum tú ikki kennir, at seta seg í samband við teg"
 
 msgctxt "sFILETRANSFER_INFORM_COM_CONTACT"
 msgid "This commercial contact can't receive files."
-msgstr "Denne forretningsforbindelse kan ikke modtage filer."
+msgstr "Hesin starvsfelagin fær ikki móttikið fílur."
 
 msgctxt "s_OPTIONS_ACCEPT_COOKIES"
 msgid "Accept Skype browser cookies"
@@ -4600,7 +4600,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
-msgstr "Goym nummarið sum kontaktpersón"
+msgstr "Legg til vinalista"
 
 msgctxt "sZAPBUTTON_ADDCONTACT"
 msgid "Add contact"
@@ -4608,15 +4608,15 @@ msgstr "Legg afturat"
 
 msgctxt "sZAPBUTTON_ADDCONTACTMENU"
 msgid "All contacts"
-msgstr ""
+msgstr "Allir vinir"
 
 msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
-msgstr "Føj alle til kontaktpersoner"
+msgstr "Legg øll til vinir"
 
 msgctxt "sZAPBUTTON_ADDSKYPEOUT"
 msgid "Save number in Contacts"
-msgstr "Gem nummer på listen over kontaktpersoner"
+msgstr "Goym nummarið á vinalistanum"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -4624,7 +4624,7 @@ msgstr "Føj til telefonmøde"
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
-msgstr "Legg í brúkaralistan"
+msgstr "Legg til vinir"
 
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
@@ -4948,19 +4948,19 @@ msgstr "Arbeiði"
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
-msgstr "Brúkarir"
+msgstr "Vinir"
 
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
-msgstr ""
+msgstr "Vinir"
 
 msgctxt "sZAPBUTTON_CONTACTSARROW"
 msgid "Contacts"
-msgstr "ContactsArrow"
+msgstr "Vinir"
 
 msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
 msgid "Selected contacts"
-msgstr "Markerede kontaktpersoner"
+msgstr "Valdir vinir"
 
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
@@ -5168,11 +5168,11 @@ msgstr "Fjal yvirlit"
 
 msgctxt "sZAPBUTTON_HIDECONTACTLIST"
 msgid "Hide Contacts"
-msgstr ""
+msgstr "Fjal vinir"
 
 msgctxt "sZAPBUTTON_SHOWCONTACTLIST"
 msgid "Show Contacts"
-msgstr ""
+msgstr "Vís vinir"
 
 msgctxt "sZAPBUTTON_HISTORYFILTER"
 msgid "All messages"
@@ -5308,23 +5308,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_ACTIVE"
 msgid "Show contacts"
-msgstr "Open"
+msgstr "Vís vinir"
 
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_INACTIVE"
 msgid "Show contacts"
-msgstr "Open"
+msgstr "Vís vinir"
 
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_ACTIVE"
 msgid "Hide contacts"
-msgstr "Close"
+msgstr "Fjal vinir"
 
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_INACTIVE"
 msgid "Hide contacts"
-msgstr "Close"
+msgstr "Fjal vinir"
 
 msgctxt "sZAPBUTTON_SAVEGROUP"
 msgid "Save group in Contacts"
-msgstr "Goym gruppuna á brúkaralistanum"
+msgstr "Goym bólkin í vinalistanum"
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
@@ -5608,7 +5608,7 @@ msgstr "Vangi"
 
 msgctxt "sZAPBUTTON_PROFILENOTAUTHORIZED"
 msgid "Contact not authorized"
-msgstr "Kontaktperson ikke godkendt"
+msgstr "Brúkari ikki góðkendur"
 
 msgctxt "sZAPBUTTON_PROFILEGENERAL"
 msgid "General info"
@@ -5664,7 +5664,7 @@ msgstr "Heilur vangi"
 
 msgctxt "sZAPBUTTON_PROFILECONTACTS"
 msgid "Contacts only"
-msgstr ""
+msgstr "Einans vinir"
 
 msgctxt "sZAPBUTTON_READ"
 msgid "Read"
@@ -5708,7 +5708,7 @@ msgstr "Påmind mig senere"
 
 msgctxt "sZAPBUTTON_RESENDREQUEST"
 msgid "Resend contact request"
-msgstr "Bið um góðkenning aftur"
+msgstr "Endursend vinaumbøn"
 
 msgctxt "sZAPBUTTON_RESET"
 msgid "Reset"
@@ -5768,7 +5768,7 @@ msgstr "Gem alle"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
-msgstr "Gem kontaktperson"
+msgstr "Goym sum vin"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
@@ -5792,7 +5792,7 @@ msgstr "Send fílu"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "Send vinir..."
 
 msgctxt "sZAPBUTTON_SENDMESSAGE"
 msgid "Send message"
@@ -5812,7 +5812,7 @@ msgstr "Søgehistorik"
 
 msgctxt "sZAPBUTTON_SEARCHEMAILCONTACTS"
 msgid "Search email contacts"
-msgstr "Leita eftir teldupost-brúkarum"
+msgstr "Leita eftir vinum umvegis teldupost"
 
 msgctxt "sZAPBUTTON_SEARCHSKYPEDIRECTORY"
 msgid "Search Skype directory"
@@ -5832,7 +5832,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SIGNIN"
 msgid "Sign in"
-msgstr "Logga á"
+msgstr "Innrita"
 
 msgctxt "sZAPBUTTON_STOPSEARCH"
 msgid "Stop search"
@@ -5840,7 +5840,7 @@ msgstr "Steðga leiting"
 
 msgctxt "sZAPBUTTON_ADDCONTACTS"
 msgid "Add to Contacts"
-msgstr "Legg afturat"
+msgstr "Legg til vinalista"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5848,7 +5848,7 @@ msgstr "Leyp um"
 
 msgctxt "sZAPBUTTON_SELECTCONTACTS"
 msgid "Select contacts"
-msgstr ""
+msgstr "Vel vinir"
 
 msgctxt "sZAPBUTTON_SELECTALL"
 msgid "Select all"
@@ -6260,11 +6260,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_INVITEADDMORE"
 msgid "Add more contacts"
-msgstr ""
+msgstr "Legg fleiri vinir til vinalistan"
 
 msgctxt "sZAPBUTTON_INVITENOTIFACCEPT"
 msgid "Add to contacts"
-msgstr ""
+msgstr "Legg til vinalistan"
 
 msgctxt "sZAPBUTTON_INVITENOTIFIGNORE"
 msgid "Ignore"
@@ -6368,11 +6368,11 @@ msgstr "Strika Skype Cookies?"
 
 msgctxt "sCONV_BOOKMARK"
 msgid "Save Group in Your Contacts"
-msgstr "Goym gruppuna á brúkaralistanum"
+msgstr "Goym bólkin á vinalistanum"
 
 msgctxt "sCONV_UNBOOKMARK"
 msgid "Remove From Your Contacts"
-msgstr "Strika úr brúkaralistanum"
+msgstr "Strika úr vinalistanum"
 
 msgctxt "sCALL_DROPPED"
 msgid "Call with %s dropped."
@@ -6547,7 +6547,7 @@ msgstr "Dit webcam er udstyret med en mikrofon."
 
 msgctxt "sCONTACTS_PSTN_INLIST"
 msgid "The phone number %s you entered is already in your Contacts"
-msgstr "Telefonnummeret %s er allerede på din liste over kontaktpersoner"
+msgstr "Nummarið %s er longu á tínum vinalista"
 
 msgctxt "sF_OPTIONS_WEBCAM_NOT_FOUND"
 msgid ""
@@ -6736,7 +6736,7 @@ msgstr "einki"
 
 msgctxt "sAUTHORIZE_REQUEST_CAPTION"
 msgid "%s has added you as a contact."
-msgstr "%s hevur lagt teg afturat sum kontaktpersón."
+msgstr "%s hevur lagt til til sín vinalista."
 
 msgctxt "sAUTHORIZE_COPY_REQUEST"
 msgid "Copy"
@@ -6807,7 +6807,7 @@ msgstr "Broyt loyniorð"
 
 msgctxt "sMAINMENU_SKYPE_SIGN_OUT"
 msgid "Sign Out"
-msgstr "Logga av"
+msgstr "Útrita"
 
 msgctxt "sMAINMENU_SKYPE_CLOSE"
 msgid "Close"
@@ -6815,7 +6815,7 @@ msgstr "Lat Skype aftur"
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
-msgstr "Brúkarir"
+msgstr "Vinir"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
@@ -6823,15 +6823,15 @@ msgstr "Ger nýggja gruppu"
 
 msgctxt "sMAINMENU_CONTACTS_GROUPS"
 msgid "Contact Lists"
-msgstr "Brúkarabólkar"
+msgstr "Vinalistar"
 
 msgctxt "sMAINMENU_CONTACTS_SHOW_OUTLOOK"
 msgid "Show Outlook Contacts"
-msgstr "Vís Outlook-brúkarir"
+msgstr "Vís Outlook-brúkarar"
 
 msgctxt "sMAINMENU_CONTACTS_SORT"
 msgid "Sort Contacts by"
-msgstr "Skipa brúkarir eftir"
+msgstr "Skipa vinir eftir"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_NAME"
 msgid "Name"
@@ -6843,7 +6843,7 @@ msgstr "støðu"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
-msgstr "Fjal brúkarir, ið"
+msgstr "Fjal vinir, ið"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE"
 msgid "Are Offline"
@@ -6863,15 +6863,15 @@ msgstr "Víðkað"
 
 msgctxt "sMAINMENU_CONTACTS_BACKUP"
 msgid "Backup Contacts to File..."
-msgstr "Avrita brúkarir til vCard fílu"
+msgstr "Trygdaravrita brúkarar til fílu..."
 
 msgctxt "sMAINMENU_CONTACTS_RESTORE"
 msgid "Restore Contacts from File..."
-msgstr "Innflyt brúkarir frá vCard fílu"
+msgstr "Innflyt brúkarar frá fílu..."
 
 msgctxt "sMAINMENU_CONTACTS_MANAGE_BLOCKED"
 msgid "Manage Blocked Contacts..."
-msgstr "Umsit bannaðar brúkarir"
+msgstr "Umsit bannaðar brúkarar"
 
 msgctxt "sMAINMENU_CONVERSATION"
 msgid "Conversation"
@@ -6899,7 +6899,7 @@ msgstr "Taluboð"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_CONTACTS"
 msgid "Contacts..."
-msgstr "Brúkarir"
+msgstr "Vinir..."
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_HIDE"
 msgid "Hide"
@@ -6907,7 +6907,7 @@ msgstr "Fjaldur"
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_TO_CONTACTS"
 msgid "Save Group to Contacts"
-msgstr "Legg í brúkaralistan"
+msgstr "Legg bólk til vinalistan"
 
 msgctxt "sMAINMENU_CONVERSATION_RENAME"
 msgid "Rename..."
@@ -6999,7 +6999,7 @@ msgstr "Vís"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
-msgstr "Brúkarir"
+msgstr "Vinir"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
@@ -7015,7 +7015,7 @@ msgstr "Ring til telefonir"
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr "Funktiónir"
+msgstr "Amboð"
 
 msgctxt "sMAINMENU_TOOLS_EXTRAS"
 msgid "Apps"
@@ -7226,7 +7226,7 @@ msgstr "Avvís fíluna"
 
 msgctxt "sMAINMENU_CONVERSATION_REMOVE_FROM_CONTACTS"
 msgid "Remove from Contacts"
-msgstr "Strika úr brúkaralistanum"
+msgstr "Strika úr vinalistanum"
 
 msgctxt "sCALL_LB2_UNAVAILABLE"
 msgid "The number is unavailable"
@@ -7293,7 +7293,7 @@ msgid ""
 "Disk I/O error. Right-click the Skype icon in the Windows taskbar at the "
 "bottom right of your screen and choose Quit. Then restart Skype. If you keep"
 " seeing this error, please contact Skype customer support."
-msgstr "Disk-I/O-fejl. Højreklik på Skype-ikonet på proceslinjen i Windows nederst til højre på skærmen, og vælg Afslut. Genstart nu Skype. Hvis denne fejl fortsat opstår, skal du kontakte Skypes kundesupport."
+msgstr "Disk-I/O-villa. Høgraklikk á Skype-búmerkið á prosessbjálkanum niðast í Windows, til høgru, og vel \"Enda\". Tendra so Skype aftur. Um villan kemur aftur, set teg tá í samband við kundahjálpina hjá Skype."
 
 msgctxt "sINFORM_DB_CORRUPT"
 msgid "Database error. Please close Skype and sign in again."
@@ -7412,11 +7412,11 @@ msgstr "Handil"
 
 msgctxt "sCONTACT_PROFILE_SAVE"
 msgid "Save this number as a contact"
-msgstr "Gem dette nummer som en kontaktperson"
+msgstr "Goym nummarið á vinalistanum"
 
 msgctxt "sCONTACT_PROFILE_ENTER_NAME"
 msgid "Enter a name for this contact"
-msgstr "Angiv et navn for denne kontaktperson"
+msgstr "Skriva navnið á vininum"
 
 msgctxt "sF_COM_CAPTION"
 msgid "Application access"
@@ -7490,11 +7490,11 @@ msgctxt "sAUTHORIZATION_PANEL_TIP"
 msgid ""
 "You can control who can contact you in your <a "
 "href=\"skype:?options#privacy\">privacy settings</a>."
-msgstr "Tú ræður, hvør kann seta seg í samband við teg í stillingunum undir <a href=\"skype:?options#privacy\">Privatlív</a>."
+msgstr "Tú ræður, hvør kann seta seg í samband við teg í <a href=\"skype:?options#privacy\">verndarstillingum</a>."
 
 msgctxt "sAUTHORIZATION_PANEL_COMMENT"
 msgid "Clicking Add to Contacts means this person can see when you are online"
-msgstr "Tá tú klikkir á \"Legg í brúkaralistan\", kann hesin brúkarin síggja, tá tú ert íbundin."
+msgstr "Tá tú trýstir á \"Legg til vinir\", kann hesin brúkarin síggja, nær tú ert íbundin."
 
 msgctxt "sAUTHORIZE_BLOCKED_CAPTION2"
 msgid "%s is on your blocked list"
@@ -7524,7 +7524,7 @@ msgstr "Du har ikke flere penge på din Skype-konto. Hvis du vil undgå, at det 
 
 msgctxt "sF_OUTLOOK_CAPTION"
 msgid "Import contacts"
-msgstr "Innflyt brúkarir"
+msgstr "Innflyt brúkarar"
 
 msgctxt "sTRAYALERT_CQ_MUTED_OUTPUT"
 msgid "Speakers are on mute."
@@ -7558,7 +7558,7 @@ msgstr "Samrøðan er endað. Longd: %s"
 
 msgctxt "sEMPTY_GROUP_LABEL2"
 msgid "Drag contacts that you want to add here"
-msgstr "Toga brúkaran, tú vilt leggja afturat, hertil"
+msgstr "Toga vinirnar, tú vilt leggja afturat, higar"
 
 msgctxt "sSAVE_GROUP_CAPTION"
 msgid "Save group"
@@ -7650,7 +7650,7 @@ msgctxt "sBLOCK_TEXT2"
 msgid ""
 "Are you sure you want to block <b>%s</b>? They won't be able to contact you "
 "and won't appear in your Contact List."
-msgstr "Vilt tú veruliga banna <b>%s</b>?<br/>Tá tú gert tað, verður persónurin strikaður úr brúkaralistanum og kann ikki longur seta seg í samband við teg."
+msgstr "Vilt tú veruliga banna <b>%s</b>? Tá tú gert tað, verður persónurin strikaður úr vinalistanum, og kann hann ikki longur seta seg í samband við teg."
 
 msgctxt "sBLOCK_ABUSE_TEXT2"
 msgid ""
@@ -7674,7 +7674,7 @@ msgstr "Fráboða misnýtslu frá hesum persónunum"
 
 msgctxt "sBLOCK_DISCLAIMER2"
 msgid "To unblock someone, go to your privacy settings under Tools » Options."
-msgstr "Um tú vilt strika banningina av einum brúkara, skalt tú velja <b>Funktiónir > Stillingar</b>."
+msgstr "Um tú vilt strika banningina av einum brúkara, skalt tú velja <b>Amboð > Stillingar</b>."
 
 msgctxt "sBLOCK_CAPTION"
 msgid "Block this person"
@@ -7690,13 +7690,13 @@ msgstr "%s persónar"
 
 msgctxt "sBLOCK_REMOVE"
 msgid "Remove from your Contact list"
-msgstr "Strika úr brúkaralistanum"
+msgstr "Strika sum vin"
 
 msgctxt "sBLOCK_TEXT_MULTI"
 msgid ""
 "Are you sure you want to block these people? They won't be able to contact "
 "you and won't appear in your Contact List."
-msgstr "Er du sikker på, at du vil blokere disse personer? Når du gør det, fjernes personerne fra listen over kontaktpersoner og vil ikke længere kunne kontakte dig."
+msgstr "Vilt tú veruliga banna hesi fólkini? Tá tú gert tað, verða tey strikað úr vinalistanum, og kunnu tey tá ikki longur seta seg í samband við teg."
 
 msgctxt "sBUDDYMENU_CALLGROUP"
 msgid "Call Group"
@@ -7859,7 +7859,7 @@ msgstr "Marka sum lisið"
 
 msgctxt "sCHAT_POSTED_CONTACTS"
 msgid "%d contacts sent to %s"
-msgstr "%s forsøgte at sende en kontaktperson til dig. Det er ikke muligt at dele kontaktpersoner i denne version af Skype."
+msgstr "%d brúkarar sendir til %s"
 
 msgctxt "sSMS_TARGET_INVALID_MESSAGE"
 msgid ""
@@ -7897,7 +7897,7 @@ msgstr "Filen blev ikke fundet"
 
 msgctxt "sSMS_TARGET_UNDISCLOSED"
 msgid "The contact must have a valid phone number for you to send SMS"
-msgstr "Kontaktpersonen skal have et gyldigt telefonnummer, for at du kan sende SMS'er"
+msgstr "Vinurin má hava eitt galdandi telefonnummar fyri at tú skalt kunna senda honum sms"
 
 msgctxt "sCHAT_MENU_COPY_MESSAGE"
 msgid "Copy Message"
@@ -7925,7 +7925,7 @@ msgstr "Offentlige chats understøttes ikke i denne version"
 
 msgctxt "sPROFILE_OUTLOOK_CONTACT"
 msgid "Outlook Contact"
-msgstr "Outlook-kontaktperson"
+msgstr "Outlook-brúkari"
 
 msgctxt "sCALL_LB2_BLOCKED_BY_US"
 msgid "Destination is temporarily blocked"
@@ -7999,7 +7999,7 @@ msgctxt "sACTION_ON_YOURSELF"
 msgid ""
 "You can't start a conversation with yourself or add yourself to your "
 "Contacts."
-msgstr "Du kan ikke udføre handlinger, der vedrører dig selv."
+msgstr "Á Skype kanst tú ikki tosa við teg sjálva/n ella vera vinur við teg sjálva/n. Fá tær vinir til tess :)"
 
 msgctxt "SGROUP_PROFILE_NEXT_BUTTON"
 msgid "Next"
@@ -8039,7 +8039,7 @@ msgctxt "sF_OPTIONS_CF_ERROR5"
 msgid ""
 "You can't forward calls to a person who hasn't accepted your contact "
 "request."
-msgstr "Du kan ikke viderestille opkald til personer, der ikke har godkendt dig."
+msgstr "Tú kanst ikki senda køll víðari til fólk, sum ikki hava góðtikið teg sum vin."
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_LONG"
 msgid ""
@@ -8133,7 +8133,7 @@ msgstr "%s hevur føðingardag í dag"
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Send brúkarir"
+msgstr "Send vinir..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -8157,44 +8157,44 @@ msgstr ""
 
 msgctxt "sINVITE_HEADING1"
 msgid "Add <b>%s</b> to your contacts"
-msgstr ""
+msgstr "Legg <b>%s</b> til vinir"
 
 msgctxt "sINVITE_HEADING2"
 msgid "1 new contact added"
-msgstr "1 brúkari lagdur afturat"
+msgstr "1 nýggjur vinur lagdur afturat"
 
 msgctxt "sINVITE_CONTACT_CAPTION"
 msgid ""
 "You received an email invitation from <b>%s</b>.<br />Would you like to add "
 "this person as a contact on Skype?"
-msgstr "You received an email invitation from <b>%s</b>.<br/>Would you like to add this person as a contact on Skype?"
+msgstr "Tú fekst eina teldupostainnbjóðing frá <b>%s</b>.<br/>Vilt tú leggja viðkomandi til tínar vinir á Skype?"
 
 msgctxt "sINVITE_REQUEST_TEXT"
 msgid ""
 "Your email contact %s is now on Skype. Please add them to your Contact list."
-msgstr ""
+msgstr "Tín teldupostavinue %s er nú á Skype. Vinarliga legg viðkomandi til tínar vinir."
 
 msgctxt "sINVITE_ADDED_CAPTION1"
 msgid "Find them in your Contact list and send them messages"
-msgstr ""
+msgstr "Finn tey á tínum vinalista og send teimum boð."
 
 msgctxt "sINVITE_ADDED_CAPTION2"
 msgid "Until they OK you as a contact, they look like this"
-msgstr ""
+msgstr "Tey síggja soleiðis út inntil tey hava goðtikið teg sum vin"
 
 msgctxt "sINVITE_ADDED_CAPTION3"
 msgid "When they OK you, see when they're online and call them for free"
-msgstr ""
+msgstr "Tá tey hava góðtikið teg, sært tú um tey eru íbundin, og tá kanst tú ringja ókeypis til tey"
 
 msgctxt "sINVITE_NOTIFICATION"
 msgid ""
 "%s has invited you to join them on Skype. Would you like to add this person "
 "as a contact?"
-msgstr ""
+msgstr "%s hevur bjóðað tær at vera á Skype saman við sær. Vilt tú leggja viðkomandi til vinir tínar?"
 
 msgctxt "sINVITE_CONTACT_HINT"
 msgid "When <b>%s</b> has accepted, you'll see when they come online"
-msgstr ""
+msgstr "Tá <b>%s</b> hevur góðtikið sært tú nær viðkomandi er íbundin"
 
 msgctxt "sACC_PROFILE_PARTICIPANT_LIST"
 msgid "Participants"
@@ -8214,19 +8214,19 @@ msgstr ""
 
 msgctxt "sCHAT_RECEIVED_SINGLE_CONTACT"
 msgid "Contact received from %s"
-msgstr ""
+msgstr "Brúkari móttikin frá %s"
 
 msgctxt "sCHAT_POSTED_SINGLE_CONTACT"
 msgid "Contact sent to %s"
-msgstr ""
+msgstr "Vinur sendur til %s"
 
 msgctxt "sCHAT_RECEIVED_CONTACTS"
 msgid "%d contacts received from %s"
-msgstr ""
+msgstr "%d brúkarir móttiknir frá %s"
 
 msgctxt "sHISTORY_FILTER_CONTACTTRANSFERS"
 msgid "Contacts sent and received"
-msgstr ""
+msgstr "Brúkarir sendir og móttiknir"
 
 msgctxt "sTRAYALERT_CQ_PLAYBACK_ERROR"
 msgid "No speakers detected."
@@ -8250,19 +8250,19 @@ msgstr ""
 
 msgctxt "sNOTIF_RECEIVED_SINGLE_CONTACT"
 msgid "New contact: %s"
-msgstr ""
+msgstr "Nýggjur vinur: %s"
 
 msgctxt "sNOTIF_RECEIVED_CONTACTS"
 msgid "%d new contacts"
-msgstr ""
+msgstr "%d nýggir vinir"
 
 msgctxt "sCHAT_POSTED_SINGLE_CONTACT_TO_GROUP"
 msgid "Contact sent to the group"
-msgstr ""
+msgstr "Vinur sendur bólkinum"
 
 msgctxt "sCHAT_POSTED_CONTACTS_TO_GROUP"
 msgid "%d contacts sent to the group"
-msgstr ""
+msgstr "%d vinir sendir bólkinum"
 
 msgctxt "sF_OPTIONS_CF_ERROR6"
 msgid "You are not allowed to forward calls to Skype Test Call"
@@ -8318,7 +8318,7 @@ msgstr ""
 
 msgctxt "sUSER_IN_CONTACTS"
 msgid "This user is already in your contact list"
-msgstr ""
+msgstr "Brúkarin er longu vinur tín"
 
 msgctxt "sCHATITEM_DESCRIPTION_FROM"
 msgid "From %s"
@@ -8373,7 +8373,7 @@ msgctxt "sBROWSER_OFFLINE_TEXT"
 msgid ""
 "To use this feature please change your Skype status back to online and try "
 "again."
-msgstr ""
+msgstr "Fyri at brúka hesa funkuna, broyt tá vinarliga Skypestøðuna aftur til \"íbundin\" og royn aftur."
 
 msgctxt "sMAINMENU_HELP_HEARTBEAT"
 msgid "Heartbeat (Skype Status)"
@@ -8385,11 +8385,11 @@ msgstr "Set smiley inn"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
-msgstr "Goym hetta gruppusamskiftið á brúkaralistanum"
+msgstr "Goym bólkasamrøðuna á vinalistanum"
 
 msgctxt "sSAVE_GROUP_TITLE"
 msgid "Save group in your Contact list"
-msgstr "Goym gruppuna á brúkaralistanum"
+msgstr "Goym bólkin á vinalistanum"
 
 msgctxt "sCALL_FAILED"
 msgid "Call failed"
@@ -8397,11 +8397,11 @@ msgstr ""
 
 msgctxt "sNOTIF_POSTED_SINGLE_CONTACT"
 msgid "Contact sent: %s"
-msgstr ""
+msgstr "Vinur sendur: %s"
 
 msgctxt "sNOTIF_POSTED_CONTACTS"
 msgid "%d contacts sent"
-msgstr ""
+msgstr "%d vinir sendir"
 
 msgctxt "sCALL_TOOLBAR_TECHNICAL_INFO"
 msgid "Call Technical Info"
@@ -8558,7 +8558,7 @@ msgstr "Transfer Call…"
 
 msgctxt "sBUDDYMENU_CALL_TRANSFER_OTHER"
 msgid "A different contact..."
-msgstr "A different contact…"
+msgstr "Ein annar vinur…"
 
 msgctxt "sCALL_TRANSFER_DLG_CAPTION"
 msgid "Transfer a call"
@@ -8592,7 +8592,7 @@ msgstr ""
 
 msgctxt "sCALL_TRANSFER_SELECT_CONTACT"
 msgid "Select a contact from your Contact list"
-msgstr ""
+msgstr "Vel onkran frá tínum vinalista"
 
 msgctxt "sCALL_TRANSFER_CALL_FROM_TO"
 msgid "Transferring call from <b>%s</b> to <b>%s</b>"
@@ -8600,7 +8600,7 @@ msgstr ""
 
 msgctxt "sCALL_TRANSFER_SELECT_DIFF_CONTACT"
 msgid "Select a different contact"
-msgstr ""
+msgstr "Vil ein annan vin"
 
 msgctxt "sCALL_TRANSFER_ENTER_MSG"
 msgid "Enter a message for %s"
@@ -8692,7 +8692,7 @@ msgctxt "sF_USERENTRY_HINT4"
 msgid ""
 "Note: only your contacts can see this information. Filling it in is "
 "optional."
-msgstr ""
+msgstr "Gev gætur: bert tínir vinir síggja hesar upplýsingarnar. Tú gert sjálv/ur av, um tú upplýsir tær."
 
 msgctxt "sF_USERENTRY_PHONE_HINT"
 msgid "Enter %s's phone number."
@@ -8717,7 +8717,7 @@ msgstr ""
 msgctxt "sF_USERENTRY_PROFILE_HINT3"
 msgid ""
 "Enter your mobile number so your contacts can call you when you're offline."
-msgstr ""
+msgstr "Skriva fartelefonnummarið fyri at tínir vinir skulu kunna ringja til tín tá tú ert óbundin."
 
 msgctxt "sF_USERENTRY_SUGGEST1"
 msgid "Skype Name not available"
@@ -8781,11 +8781,11 @@ msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_DLG_CAPTION"
 msgid "Send contacts"
-msgstr ""
+msgstr "Send vinir"
 
 msgctxt "sF_SEND_CONTACTS_TO"
 msgid "Send contacts to <b>%s</b>"
-msgstr ""
+msgstr "Send vinir til <b>%s</b>"
 
 msgctxt "sCALL_TOOLBAR_TRANSFERRING"
 msgid "Call is being transferred"
@@ -8825,7 +8825,7 @@ msgstr ""
 
 msgctxt "sSKYACCESS_TRAY_PROMPT_SIGNIN"
 msgid "Click here to sign into Skype"
-msgstr ""
+msgstr "Trýst á her fyri at innrita á Skype"
 
 msgctxt "sTASKBAR_MENU_QUIT"
 msgid "Quit Skype"
@@ -8837,7 +8837,7 @@ msgstr "Skype Atgongd…"
 
 msgctxt "sTRAYALERT_AUTH_REQUEST"
 msgid "New contact request"
-msgstr ""
+msgstr "Nýggj vinaumbøn"
 
 msgctxt "sLIVE_B_FULLSCREEN"
 msgid "Full screen"
@@ -9253,7 +9253,7 @@ msgid ""
 "Your security firewall might be affecting your calls. Use our <a "
 "href=\"skype:?go#help.guide.firewall\">guide to change your firewall "
 "settings</a> or if you're at work, contact your system administrator."
-msgstr ""
+msgstr "Tað kann vera at tín trygdarbrandveggur ávirkar tíni køll. Brúka okkara <a href=\"skype:?go#help.guide.firewall\">leiðbeining at broyta tínar brandveggjastillingar</a>, ella set teg í samband við tín skipanarumsitara, um tú ert til arbeiðis."
 
 msgctxt "sCQ_RESTRICTED_WEB_ACCESS_TITLE"
 msgid "Restricted web access"
@@ -9562,7 +9562,7 @@ msgstr "Fullan skerm"
 
 msgctxt "sUNBOOKMARK_PROMPT"
 msgid "Remove %s from contacts?"
-msgstr ""
+msgstr "Strika %s sum vin?"
 
 msgctxt "sUNBOOKMARK_TITLE"
 msgid "Remove Group"
@@ -9663,7 +9663,7 @@ msgstr ""
 
 msgctxt "sLIVE_ADD_PEOPLE_SEARCH_HINT_TEXT"
 msgid "Enter contact or phone number"
-msgstr "Search or phone number"
+msgstr "Skriva vinanavn ella telefonnummar"
 
 msgctxt "sNO_WEBCAM_BUTTON_HINT"
 msgid "Video call"
@@ -9707,7 +9707,7 @@ msgctxt "sCONVERSATION_PARTNER_NOT_BUDDY"
 msgid ""
 "Want to message this person? <a href=\"skype:%s?add\">Add them as a contact "
 "first</a>."
-msgstr ""
+msgstr "Vilt tú skriva til hendan persónin? <a href=\"skype:%s?add\">Legg tá viðkomandi til tín vinalista</a>."
 
 msgctxt "sSNAPSHOT_OF_ME"
 msgid "Picture of me"
@@ -9743,7 +9743,7 @@ msgstr ""
 
 msgctxt "sCHAT_MEMBER_CANT_ADD"
 msgid "%s can't be added until they accept your contact request."
-msgstr ""
+msgstr "Til ber ikki at leggja %s afturat fyrrenn viðkomandi hevur góðtikið tína vinaumbøn."
 
 msgctxt "sVIDEO_IMAGE_DELETE_MENUITEM"
 msgid "Delete"
@@ -9811,7 +9811,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT"
 msgid "Add Contact"
-msgstr ""
+msgstr "Legg afturat"
 
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
@@ -9862,7 +9862,7 @@ msgstr ""
 
 msgctxt "sSEND_MSG_DLG_TITLE"
 msgid "Invite contacts to get group video"
-msgstr ""
+msgstr "Bjóða brúkarum fyri at fáa bólkavideo"
 
 msgctxt "sSEND_MSG_DEFAULT_MSG"
 msgid ""
@@ -9900,7 +9900,7 @@ msgstr ""
 
 msgctxt "sMYSELF_PROFILE_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Vinir"
 
 msgctxt "sMYSELF_PROFILE_VOICEMAIL_LINK"
 msgid "Set up voice messaging"
@@ -9985,11 +9985,11 @@ msgstr ""
 
 msgctxt "sPROFILE_PRIVACY_BUDDIES_SHORT"
 msgid "Contacts"
-msgstr ""
+msgstr "Vinir"
 
 msgctxt "sPROFILE_PRIVACY_BUDDIES_LONG"
 msgid "Contacts only - visible just to your contacts"
-msgstr ""
+msgstr "Einans vinir - bert tínir vinir síggja tað"
 
 msgctxt "sPROFILE_PRIVACY_PRIVATE_SHORT"
 msgid "Private"
@@ -10075,7 +10075,7 @@ msgstr ""
 
 msgctxt "sQUICKFILTER_NOTFOUND_CONTACT"
 msgid "%s is not in your Contacts."
-msgstr ""
+msgstr "%s er ikki á tínum vinalista."
 
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
@@ -10083,11 +10083,11 @@ msgstr ""
 
 msgctxt "sCONTACT_NOTIFICATION"
 msgid "Contact request"
-msgstr ""
+msgstr "Vinaumbøn"
 
 msgctxt "sCONTACT_NOTIFICATION_MANY"
 msgid "Contact requests"
-msgstr ""
+msgstr "Vinaumbønir"
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_VIDEO_TITLE"
 msgid "The connection between you is too slow for good video."
@@ -10170,7 +10170,7 @@ msgstr ""
 
 msgctxt "sLIVE_ADD_TO_CONTACTS"
 msgid "Add to Contacts..."
-msgstr ""
+msgstr "Legg afturat vinalistanum..."
 
 msgctxt "sACCOUNT_PANEL_ONE_SUBSCRIPTION"
 msgid "1 subscription"
@@ -10457,11 +10457,11 @@ msgstr "Loyva miðaðum lýsingum hjá Microsoft, harvið eisini nýtslu av tín
 
 msgctxt "sADD_CONTACT_LONG"
 msgid "Add a contact"
-msgstr ""
+msgstr "Finn ein vin"
 
 msgctxt "sADD_CONTACT_SHORT"
 msgid "Contact"
-msgstr ""
+msgstr "Vinur"
 
 msgctxt "sCREATE_GROUP_LONG"
 msgid "Create a group"
@@ -10493,7 +10493,7 @@ msgstr ""
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "Send vinir..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share Screens..."
@@ -10802,7 +10802,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_FLAMINGO_ONLINE"
 msgid "comes online (on Facebook)"
-msgstr ""
+msgstr "innritar (á facebook)"
 
 msgctxt "sF_OPTIONS_NOTIF_FLAMINGO_OFFLINE"
 msgid "goes offline (on Facebook)"
@@ -10854,11 +10854,11 @@ msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr ""
+msgstr "Vís vinir"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr ""
+msgstr "Fjal vinir"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
@@ -11242,7 +11242,7 @@ msgstr "Filan %s hoyrir til annan brúkara %s."
 
 msgctxt "sF_CONTENT_BROWSER_MSG1_2"
 msgid "Please sign in as %s to select this file."
-msgstr "Logga á sum %s fyri at velja fíluna."
+msgstr "Innrita sum %s fyri at velja fíluna."
 
 msgctxt "sF_CONTENT_BROWSER_MSG1_TITLE"
 msgid "File belongs to another person"
@@ -11386,17 +11386,17 @@ msgctxt "sSEND_ONE_CONTACT_CONFIRMATION_TEXT"
 msgid ""
 "Do you want to send %s's contact details to the people in this "
 "conversation?<br /><br />This doesn't add %s to the conversation."
-msgstr ""
+msgstr "Vilt tú senda fólkunum í hesi samrøðuni vangaupplýsingarnar hjá %s? <br /><br />Hetta leggur ikki %s afturat samrøðuni."
 
 msgctxt "sSEND_MANY_CONTACT_CONFIRMATION_TEXT"
 msgid ""
 "Do you want to send these contact details to the people in this "
 "conversation?<br /><br />This doesn't add them to the conversation."
-msgstr ""
+msgstr "Vilt tú senda fólkunum í hesi samrøðuni hesar vangaupplýsingarnar ? <br /><br />Hetta leggur tey ikki afturat samrøðuni."
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
 msgid "&Send contact details"
-msgstr ""
+msgstr "&Send vinaupplýsingar"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
@@ -11410,7 +11410,7 @@ msgstr ""
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "Toga vinir higar"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
@@ -11434,7 +11434,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr ""
+msgstr "Íbundin"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -11454,7 +11454,7 @@ msgstr ""
 
 msgctxt "sSELECTED_LIST_HINT"
 msgid "Change Contact list"
-msgstr ""
+msgstr "Broyt vinalista"
 
 msgctxt "sPREM_VIDEO_UPSELL_MPV"
 msgid ""
@@ -11480,7 +11480,7 @@ msgctxt "sSKYPEWIFI_INTRO_DESC"
 msgid ""
 "Get online at public WiFi hotspots and pay only for the minutes you use with"
 " Skype Credit."
-msgstr ""
+msgstr "Kom á netið á almennum WiFi-netum og gjald bert fyri teir minuttirnar tú brúkar við Skype Kreditti."
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT1"
 msgid "Use Skype, check email and surf the web"
@@ -11512,7 +11512,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_HEADER"
 msgid "You're already online"
-msgstr ""
+msgstr "Tú ert longu íbundin"
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_DESC"
 msgid ""
@@ -11856,7 +11856,7 @@ msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
 "Contacts in this list will not be deleted. You can still find them under "
 "\"All\""
-msgstr ""
+msgstr "Vinir í hesum vinalistanum verða ikki strikaðir. Tú kanst enn finna teir undir \"Allir\""
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
@@ -11952,7 +11952,7 @@ msgid ""
 "The reports may contain your Skype ID and/or Microsoft account ID, but we "
 "will not use it to identify you or contact you. <a "
 "href=\"skype:?go#privacy\">Learn More</a>"
-msgstr ""
+msgstr "Frágreiðingarnar kunnu innihalda títt Skypenavn og/ella tín Microsoftsamleika, men vit brúka tað ikki til at eyðmerkja teg ella til at seta okkum í samband við teg. <a href=\"skype:?go#privacy\">Fá meir at vita</a>"
 
 msgctxt "sLIVE_LOGIN_BACK"
 msgid "Go back"
@@ -11994,7 +11994,7 @@ msgstr ""
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
-msgstr ""
+msgstr "Halló %s! Eg hevði fegin viljað fingið teg sum vin."
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER"
 msgid "Add number"
@@ -12036,7 +12036,7 @@ msgctxt "sMSN_UPSELL_PANEL_CHAT_MESSAGE"
 msgid ""
 "Hey, we’re not contacts on Skype yet. Go to skype.com and you can download "
 "it now for free."
-msgstr ""
+msgstr "Halló! Vit eru tíverri ikki vinir á Skype enn. Far inná skype.com, og tak Skype ókeypis niður."
 
 msgctxt "sSKYPEWIFI_LOGINHELP_HEADER"
 msgid "You’re connected to supported WiFi"
@@ -12066,7 +12066,7 @@ msgstr ""
 
 msgctxt "sSTATUS_UNKNOWN2"
 msgid "This person isn't in your Contact list."
-msgstr ""
+msgstr "Hesin persónurin er ikki á tínum vinalista."
 
 msgctxt "sCHAT_CONTENT_ACC_TYPING"
 msgid "%s is typing"
@@ -12212,7 +12212,7 @@ msgstr ""
 
 msgctxt "sSEND_CONTACT_REQUEST"
 msgid "Send %s a contact request"
-msgstr ""
+msgstr "Send %s eina vinaumbøn"
 
 msgctxt "sMYINFO_PREMIUM_ACCOUNT"
 msgid "Premium account"
@@ -12271,7 +12271,7 @@ msgstr ""
 
 msgctxt "sAPP_TOOLBAR_HOME_TOOLTIP"
 msgid "See updates from your contacts in Skype Home."
-msgstr ""
+msgstr "Síggj dagføringar frá tínum vinum í Skype Heim."
 
 msgctxt "sAPP_TOOLBAR_CALL_TOOLTIP"
 msgid "Call mobiles and landlines from the dial pad."
@@ -12285,7 +12285,7 @@ msgctxt "sAPP_TOOLBAR_ADD_CONTACT_TOOLTIP"
 msgid ""
 "Add a contact. Search for people you know using their name, Skype Name or "
 "email."
-msgstr ""
+msgstr "Legg til vinalistan. Leita eftir fólki, tú kennir, umvegis teirra navn, Skypenavn ella teldpost."
 
 msgctxt "sADD_CONTACT_PANEL_MESSAGE"
 msgid ""
