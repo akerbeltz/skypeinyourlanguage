@@ -36,6 +36,10 @@ Asturian (Asturianu)
 Translator(s): ivarela
 Source: Transifex
 
+Azeri (Azərbaycanca, Azərbaycan dili)
+Translator(s): Unknown
+Source:http://www.boxca.com/8slkcaewyjrm/Skype_Az%C9%99rbaycan_dilind%C9%99_5.9.rar.html
+
 Basque (Euskara)
 Translator(s): Unknown
 Source: http://librezale.org/pipermail/librezale/attachments/20080801/b9ecb6a7/attachment.obj
@@ -53,7 +57,7 @@ Translator(s): Fulup Jakez
 Source: Ofis ar Brezhoneg
 
 Chuvash (Чӑвашла)
-Translator(s): Unknown
+Translator(s): Unknown, haychikki
 Source: http://ru.chuvash.org/e/d0a1d0bad0b0d0b9d0bf20d0bdd0b020d18dd180d0b7d18fd0bdd181d0bad0bed0bc20283120d187d0b0d181d182d18c29
 
 Cornish (Kernewek)
