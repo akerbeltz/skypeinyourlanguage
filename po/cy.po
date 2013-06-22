@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-06-11 12:21+0000\n"
+"PO-Revision-Date: 2013-06-20 00:02+0000\n"
 "Last-Translator: Merlyn Cooper <merlyn.cooper@hotmail.co.uk>\n"
 "Language-Team: Welsh (United Kingdom) (http://www.transifex.com/projects/p/skype-translation-project/language/cy_GB/)\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr "I Ffwrdd"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "Rhowch Lonydd"
+msgstr "Gadewch Lonydd"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
@@ -59,7 +59,7 @@ msgstr "&Cymorth"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
-msgstr "Mofyn Cymorth: Atebion a Chynhaliaeth"
+msgstr "Cael Cymorth: Atebion a Chymorth"
 
 msgctxt "sMAINMENU_HELP_UPDATES"
 msgid "Check for Updates"
@@ -131,7 +131,7 @@ msgstr "Ddim Ar Gael"
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
-msgstr "Rhowch Lonydd"
+msgstr "Gadewch Lonydd"
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
@@ -462,7 +462,7 @@ msgstr "&Diddymu"
 
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
-msgstr "Anfonwch Ymholiad Cyswllt Eto"
+msgstr "Ailanfon Cais Cyswllt"
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
@@ -678,7 +678,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_BLOCK"
 msgid "Block This Person..."
-msgstr ""
+msgstr "Rhwystro'r Person Hwn..."
 
 msgctxt "sBUDDYMENU_UNBLOCK"
 msgid "Unblock This Person"
@@ -694,11 +694,11 @@ msgstr "Dad-dewi Meicroffon"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
-msgstr ""
+msgstr "Gweithred"
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
-msgstr ""
+msgstr "Gweithred"
 
 msgctxt "sF_OPTIONS_HK_HOTKEY"
 msgid "Hotkey"
@@ -732,7 +732,7 @@ msgstr "I Ffwrdd"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr "Rhowch Lonydd"
+msgstr "Gadewch Lonydd"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
@@ -834,7 +834,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
-msgstr "Caniatáu galwadau oddi wrth..."
+msgstr "Caniatáu galwadau gan..."
 
 msgctxt "sF_OPTIONS_RG1_1"
 msgid "anyone"
@@ -846,7 +846,7 @@ msgstr "y bobl yn fy rhestr Cyswllt yn unig"
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
-msgstr "Caniatáu IMs oddi wrth..."
+msgstr "Caniatáu IMs gan..."
 
 msgctxt "sF_OPTIONS_RG2_1"
 msgid "anyone"
@@ -928,7 +928,7 @@ msgstr "Cadw newidiadau?"
 
 msgctxt "sLAST_SEEN"
 msgid "last seen:"
-msgstr ""
+msgstr "gwelwyd diwethaf:"
 
 msgctxt "sAVATAR_MENUITEM_CONF_REMOTE_HANGUP"
 msgid "Leave group call"
@@ -988,11 +988,11 @@ msgstr "Diddymu"
 
 msgctxt "sDEFAULT_CONFERENCE_TOPIC"
 msgid "Enter a topic for the conversation"
-msgstr ""
+msgstr "Rhowch destun ar gyfer y sgwrs"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE"
 msgid "The Skype Name you entered is invalid."
-msgstr ""
+msgstr "Mae'r Enw Skype yno yn annilys."
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_TITLE"
 msgid "Error"
@@ -1018,7 +1018,7 @@ msgstr "Problem gyda'r ddyfais chwarae."
 
 msgctxt "sF_OPTIONS_TNTCB20"
 msgid "Automatically adjust microphone settings"
-msgstr "Ymaddasu gosodiadau meicroffon yn awtomatig"
+msgstr "Addasu gosodiadau meicroffon yn awtomatig"
 
 msgctxt "sINVALID_NUMBER"
 msgid ""
@@ -1037,7 +1037,7 @@ msgstr "Dim Credyd Skype."
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
-msgstr "Sori, galwad wedi methu."
+msgstr "Sori, methodd y galwad."
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
@@ -1045,7 +1045,7 @@ msgstr "Dim Credyd Skype."
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
-msgstr "Sori, galwad wedi methu."
+msgstr "Sori, methodd y galwad."
 
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
@@ -1111,7 +1111,7 @@ msgstr ""
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERS"
 msgid "Blocked people:"
-msgstr ""
+msgstr "Pobol wedi'u hatal:"
 
 msgctxt "sF_USERPROFILE_OPENDLG_CAPTION"
 msgid "Choose your picture"
@@ -1217,7 +1217,7 @@ msgstr "Ni allai ddim cysylltu"
 
 msgctxt "sPSTN_RES_10420"
 msgid "Bad extension"
-msgstr ""
+msgstr "Estyniad drwg"
 
 msgctxt "sPSTN_RES_10482"
 msgid "Phone network error"
@@ -1324,7 +1324,7 @@ msgstr "Ychwanegu"
 
 msgctxt "sPSTN_RES_1000"
 msgid "Sorry, call failed."
-msgstr "Sori, Galwad wedi methu."
+msgstr "Sori, methodd y galwad."
 
 msgctxt "sF_USERENTRY_CB_START_SKYPE"
 msgid "Start Skype when computer starts"
@@ -1466,7 +1466,7 @@ msgstr "Anfon Lleisbost"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this group?"
-msgstr "Ydych chi wit am adael y grŵp hwn?"
+msgstr "Ydych chi wir am adael y grŵp hwn?"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE_TITLE"
 msgid "Leave group"
@@ -1669,7 +1669,7 @@ msgstr "yn mynd all-lein"
 
 msgctxt "sF_OPTIONS_NOTIF_CHAT"
 msgid "starts an IM with me"
-msgstr "Yn ddechrau IM gyda fi."
+msgstr "yn ddechrau IM gyda fi."
 
 msgctxt "sF_OPTIONS_NOTIF_FILE"
 msgid "sends me a file"
@@ -1677,7 +1677,7 @@ msgstr "yn anfon ffeil i mi"
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
-msgstr ""
+msgstr "yn gwneud cais am fy manylion cyswllt"
 
 msgctxt "sF_OPTIONS_NOTIF_VOICEMAIL"
 msgid "leaves me a voice message"
@@ -1693,7 +1693,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_OUT"
 msgid "dial tone"
-msgstr ""
+msgstr "tôn deialu"
 
 msgctxt "sF_OPTIONS_SOUNDS_BUSY"
 msgid "busy signal"
@@ -1705,7 +1705,7 @@ msgstr "IM dod i mewn"
 
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS"
 msgid "Display a notification in the Windows tray when someone..."
-msgstr ""
+msgstr "Dangos nodyn ym mar tasgau Windows pan mae Skype yn..."
 
 msgctxt "sF_OPTIONS_LB_CHAT"
 msgid "<b>IM settings:</b> Set up your IM options"
@@ -1742,7 +1742,7 @@ msgstr "Gosodiadau hysbysiad"
 
 msgctxt "sF_OPTIONS_LBC_OTHER"
 msgid "Other things you can do"
-msgstr ""
+msgstr "Pethau eraill rwyt ti'n gallu wneud..."
 
 msgctxt "sF_OPTIONS_LBC_PRIVACY"
 msgid "<b>Privacy settings:</b> Protect yourself from unwanted calls and IMs"
@@ -1754,7 +1754,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VM_DURATION"
 msgid "Duration: %s sec"
-msgstr ""
+msgstr "Hyd: %s eil"
 
 msgctxt "sF_OPTIONS_VM_REMAIN"
 msgid "%s seconds remaining"
@@ -1786,7 +1786,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_UNMUTE"
 msgid "Enable all sounds"
-msgstr ""
+msgstr "Galluogi'r holl seiniau"
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
 msgid "Buy Skype voice messaging"
@@ -1814,7 +1814,7 @@ msgstr "Cofnodwyd:"
 
 msgctxt "sF_OPTIONS_VM_SET2"
 msgid "Default voice message greeting"
-msgstr ""
+msgstr "Neges llais cyfarch rhagosodedig"
 
 msgctxt "sF_OPTIONS_VM_PLAYING2"
 msgid "Playing default voice message greeting"
@@ -1822,15 +1822,15 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_IMPORT_CONTACTS"
 msgid "Restore Contacts from File..."
-msgstr ""
+msgstr "Adfer Cysylltiadau o Ffeil..."
 
 msgctxt "sMAINMENU_TOOLS_EXPORT_CONTACTS"
 msgid "Back up Contacts to File..."
-msgstr ""
+msgstr "Cadw Ffeil Copi wrth Gefn o'r Cysylltiadau..."
 
 msgctxt "sF_OPTIONS_RADIOGROUP3"
 msgid "Allow calls to my Skype number(s) from..."
-msgstr ""
+msgstr "Caniatáu galwadau i fy rhif(au) Skype gan..."
 
 msgctxt "sF_OPTIONS_RG3_1"
 msgid "anyone"
@@ -1889,7 +1889,7 @@ msgstr "Oed"
 
 msgctxt "sF_USERINFO_AGE_MORE"
 msgid "%s and a bit more"
-msgstr ""
+msgstr "%s ac ychydig mwy"
 
 msgctxt "sF_USERINFO_AGE_JUST_GOT"
 msgid "Just turned %s"
@@ -1949,11 +1949,11 @@ msgstr "Blwydd"
 
 msgctxt "sCONTACT_GROUP_BLOCKED"
 msgid "Blocked contacts"
-msgstr ""
+msgstr "Cysylltiadau wedi'u hatal"
 
 msgctxt "sF_USERPROFILE_PHONE_NOTE"
 msgid "Enter %s's phone number."
-msgstr "Rhowch rhif ffôn o %s"
+msgstr "Rhowch rhif ffôn %s"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT9"
 msgid "Choose another password."
@@ -2293,7 +2293,7 @@ msgstr "Dangos negeseous ynglyn â..."
 
 msgctxt "sF_OPTIONS_NOTIF_TIPS"
 msgid "Help and Skype tips"
-msgstr ""
+msgstr "Cymorth ac awgrymiadau Skype"
 
 msgctxt "sF_MULTICHAT_FT_NOTIFICATION_SINGLE"
 msgid "/me sent file %s"
@@ -2409,7 +2409,7 @@ msgstr "Dewis gwecam"
 
 msgctxt "sF_OPTIONS_VIDEO_ENABLE"
 msgid "Enable video"
-msgstr "Alluogi fideo"
+msgstr "Galluogi fideo"
 
 msgctxt "sF_OPTIONS_VIDEO_SEND_AUTOMATICALLY"
 msgid "Start my video automatically when I am in a call"
@@ -2475,7 +2475,7 @@ msgstr ""
 
 msgctxt "sF_USERENTRY_LOGGING_HELP"
 msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
-msgstr "<a href=\"skype:?go#help.password.faq1\">Cael help</a>"
+msgstr "<a href=\"skype:?go#help.password.faq1\">Cael cymorth</a>"
 
 msgctxt "sMAINMENU_CONTACTS_IMPORT"
 msgid "Import Contacts..."
@@ -3037,11 +3037,11 @@ msgstr "Ymgychwyn..."
 
 msgctxt "sF_UPGRADE_PAUSED"
 msgid "Download paused"
-msgstr "Lawrlwytho seibio"
+msgstr "Lawrlwythiad wedi'i oedi"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_CAPTION"
 msgid "Downloading..."
-msgstr "Lawrlwytho..."
+msgstr "Yn lawrlwytho..."
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TEXT"
 msgid "Please wait while an update for Skype is being downloaded."
@@ -3057,7 +3057,7 @@ msgstr "Maint y ffeil %d KB"
 
 msgctxt "sF_UPGRADE_BTN_DECIDELATER"
 msgid "Decide later"
-msgstr ""
+msgstr "Penderfyny'n hwyrach"
 
 msgctxt "sF_UPGRADE_BTN_CANCEL"
 msgid "Cancel"
@@ -3101,7 +3101,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FAILED_TEXT1"
 msgid "Download of the Skype update failed."
-msgstr "Lawrlwytho'r diweddariad Skype wedi methu."
+msgstr "Methodd lawrlwythiad diweddariad Skype."
 
 msgctxt "sF_UPGRADE_FAILED_TEXT2"
 msgid "to go online and download the upgrade manually."
@@ -3228,7 +3228,7 @@ msgstr "Golygu Eich Proffil..."
 
 msgctxt "sCHANGE_MY_PICTURE"
 msgid "Change Your Picture..."
-msgstr ""
+msgstr "Newid Eich Llun..."
 
 msgctxt "sCHANGE_SOUNDS"
 msgid "Change Sounds..."
@@ -3248,7 +3248,7 @@ msgstr ""
 
 msgctxt "sPSTN_RES_6519"
 msgid "Sorry, call failed."
-msgstr ""
+msgstr "Sori, methodd y galwad."
 
 msgctxt "sPSTN_RES_10480"
 msgid "Phone network error"
@@ -3388,7 +3388,7 @@ msgstr "Cysglyd"
 
 msgctxt "sDULL_SMILEY"
 msgid "Dull"
-msgstr ""
+msgstr "Diflas"
 
 msgctxt "sINLOVE_SMILEY"
 msgid "In love"
@@ -3628,7 +3628,7 @@ msgstr "Bys"
 
 msgctxt "sBANDIT_SMILEY"
 msgid "Bandit"
-msgstr ""
+msgstr "Bandit"
 
 msgctxt "sDRUNK_SMILEY"
 msgid "Drunk"
@@ -3728,7 +3728,7 @@ msgstr "Hysbyswch fi"
 
 msgctxt "sF_CHAT_NOTIFY_RB2"
 msgid "Do not notify me"
-msgstr ""
+msgstr "Pedio gadael i mi wybod"
 
 msgctxt "sF_CHAT_NOTIFY_RB3"
 msgid "Notify me only if these words are mentioned:"
@@ -3784,11 +3784,11 @@ msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_HEADER1"
 msgid "Do you receive unwanted calls?"
-msgstr ""
+msgstr "Ydych yn derbyn galwadau nad ydych eisiau?"
 
 msgctxt "sF_PRIVACY_CHANGE_HEADER2"
 msgid "Do you receive unwanted IM messages?"
-msgstr ""
+msgstr "Ydych yn derbyn negeseuon IM nad ydych eisiau?"
 
 msgctxt "sF_PRIVACY_CHANGE_BTN_OK"
 msgid "OK"
@@ -3800,19 +3800,19 @@ msgstr "Diddymu"
 
 msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE1"
 msgid "Allow calls from everyone."
-msgstr "Caniatáu galwadau o bawb."
+msgstr "Caniatáu galwadau gan bawb."
 
 msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE2"
 msgid "Allow IMs from everyone."
-msgstr "Caniatáu IMs o bawb."
+msgstr "Caniatáu IMs gan bawb."
 
 msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS1"
 msgid "Allow calls only from my contacts."
-msgstr "Caniatáu galwadau o ddim ond fy nghysylltiadau."
+msgstr "Caniatáu galwadau gan fy nghysylltiadau yn unig."
 
 msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS2"
 msgid "Allow IM from my contacts only."
-msgstr "Caniatáu IM o ddim ond fy nghysylltiadau."
+msgstr "Caniatáu IM gan fy nghysylltiadau yn unig."
 
 msgctxt "sF_PRIVACY_CHANGE_LB_OPTIONS"
 msgid "<a href=\"skype:?options#privacy\">Advanced privacy options</a>"
@@ -3880,7 +3880,7 @@ msgstr "Skype conference calls can include both Skype contacts and phone numbers
 
 msgctxt "sF_STARTCONF_ENTER_PHONE_LABEL"
 msgid "or enter someone's phone number."
-msgstr "neu rhowch y rhif ffôn o rhywun."
+msgstr "neu rhowch rhif ffôn rhywun."
 
 msgctxt "sF_STARTCONF_PHONE_HINT_TEXT"
 msgid "Enter the local number in %s."
@@ -4069,7 +4069,7 @@ msgstr "Tewi eich meicroffon"
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
-msgstr ""
+msgstr "Rhybydd Ansawdd Galwad"
 
 msgctxt "sSOUNDSETTINGS_RECLEVEL"
 msgid "Recording level"
@@ -4077,7 +4077,7 @@ msgstr "Lefel cofnodi"
 
 msgctxt "sSOUNDSETTINGS_PLAYLEVEL"
 msgid "Adjust call volume"
-msgstr ""
+msgstr "Newid lefel sain galwad"
 
 msgctxt "sCHAT_SETOPTIONS_MUTED_ALL"
 msgid "%s has made all participants in this conversation read-only"
@@ -4093,7 +4093,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
-msgstr ""
+msgstr "Rhybyddion a Negeseuon"
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
@@ -4169,7 +4169,7 @@ msgstr ""
 
 msgctxt "sSTATUS_DND_MOBILE"
 msgid "Do Not Disturb (on a mobile device)"
-msgstr ""
+msgstr "Gadewch Lonydd (ar dyfais symudol)"
 
 msgctxt "sCHAT_GAP_IN_CHAT"
 msgid ""
@@ -4205,7 +4205,7 @@ msgstr "Gosodiadau Preifatrwydd"
 
 msgctxt "sF_OPTIONS_BLOCKED_USERS"
 msgid "Blocked contacts"
-msgstr ""
+msgstr "Cysylltiadau wedi'u hatal"
 
 msgctxt "sF_OPTIONS_CHAT_APPEARANCE"
 msgid "IM appearance"
@@ -4217,7 +4217,7 @@ msgstr "IM a SMS"
 
 msgctxt "SF_OPTIONS_GENERAL_CAPTION"
 msgid "<b>General settings:</b> Set up all the basics you need to use Skype"
-msgstr ""
+msgstr "<b>Gosodiadau Cyffredinol</b> Gosod yr holl o'r elfennau sylfaenol wyt ti'n angen am defnyddio Skype"
 
 msgctxt "sF_OPTIONS_AUDIO_CAPTION"
 msgid "<b>Audio settings:</b> Set up sound on your computer"
@@ -4254,7 +4254,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_DIDNOT_HEAR"
 msgid "Didn't hear anything?"
-msgstr "Wnaethoch chi clywed unrhyw beth?"
+msgstr "Methoch chi glywed unrhyw beth?"
 
 msgctxt "sF_OPTIONS_SHOW_ADVANCED_OPTIONS"
 msgid "Show advanced options"
@@ -4317,7 +4317,7 @@ msgid ""
 "Need help? See the <a href=\"skype:?go#help.guide.callwithvideo\">guide to "
 "setting up a webcam</a> or the <a href=\"skype:?go#help.faq.video\">FAQ "
 "section</a>"
-msgstr "Angen help? Gwela'r <a href=\"skype:?go#help.guide.callwithvideo\">arweinlyfr am osod webcam</a> neu'r <a href=\"skype:?go#help.faq.video\"> adran FAQ</a>"
+msgstr "Angen cymorth? Gwelwch y <a href=\"skype:?go#help.guide.callwithvideo\">canllaw gosod we-gamera</a> neu'r <a href=\"skype:?go#help.faq.video\"> adran FAQ</a>"
 
 msgctxt "sF_OPTIONS_TAKE_SNAPSHOT"
 msgid "Change your profile picture"
@@ -4339,7 +4339,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BUY_CREDIT_SMS"
 msgid "Buy Skype Credit to send SMS to mobile phone"
-msgstr ""
+msgstr "Prynu Credyd Skype i anfon SMS i ffonau symudol"
 
 msgctxt "sF_OPTIONS_CALL_FORWARD1"
 msgid "Answer your Skype calls no matter where you are with call forwarding"
@@ -4362,7 +4362,7 @@ msgstr ""
 
 msgctxt "SF_OPTIONS_BUY_CREDIT_CALL_FRW"
 msgid "Buy Skype Credit to forward calls to phones and mobiles"
-msgstr ""
+msgstr "Prynu Credyd Skype i ailgyfeirio galwadau at ffonau"
 
 msgctxt "sF_OPTIONS_CALL_FRW_OPTIONS"
 msgid "Call forwarding options"
@@ -4486,7 +4486,7 @@ msgstr ""
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr "Diwedd Galwad"
+msgstr "Diweddu'r Galwad"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
@@ -4514,7 +4514,7 @@ msgstr ""
 
 msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS2"
 msgid "Set up Call Forwarding..."
-msgstr ""
+msgstr "Gosod Ailgyfeiriad Galwadau..."
 
 msgctxt "sREDBUTTON_HINT_CANCEL_VOICEMAIL"
 msgid "Cancel voice message"
@@ -4536,7 +4536,7 @@ msgstr ""
 
 msgctxt "s_OPTIONS_ACCEPT_COOKIES"
 msgid "Accept Skype browser cookies"
-msgstr ""
+msgstr "Derbyn cwcis porwr Skype"
 
 msgctxt "s_OPTIONS_CLEAR_COOKIES"
 msgid "Clear Skype cookies"
@@ -4824,7 +4824,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLQUALITY"
 msgid "Call Quality"
-msgstr ""
+msgstr "Ansawdd Galwad"
 
 msgctxt "sZAPBUTTON_CALLQUALITYAVERAGE"
 msgid "Call Quality Average"
@@ -4832,19 +4832,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLQUALITYBAD"
 msgid "Call Quality Bad"
-msgstr ""
+msgstr "Ansawdd Galwad Drwg"
 
 msgctxt "sZAPBUTTON_CALLQUALITYINFO"
 msgid "Call Quality"
-msgstr ""
+msgstr "Ansawdd Galwad"
 
 msgctxt "sZAPBUTTON_CALLQUALITYWARNING"
 msgid "Call Quality Warning"
-msgstr ""
+msgstr "Call Quality Warning"
 
 msgctxt "sZAPBUTTON_CALLQUALITYERROR"
 msgid "Call Quality Error"
-msgstr ""
+msgstr "Gwall Ansawdd Galwad"
 
 msgctxt "sZAPBUTTON_CQ_5STAR"
 msgid "*****"
@@ -4896,7 +4896,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
-msgstr "Change your country"
+msgstr "Newid eich gwlad/rhanbarth"
 
 msgctxt "sZAPBUTTON_CLEAR"
 msgid "Clear"
@@ -4920,7 +4920,7 @@ msgstr "Sgyrsiau"
 
 msgctxt "sZAPBUTTON_CONVERSATION"
 msgid "Display the conversation here instead"
-msgstr ""
+msgstr "Dangos y sgwrs yma yn lle"
 
 msgctxt "sZAPBUTTON_CONVERSATIONCLASSIC"
 msgid "Show the window containing the conversation"
@@ -4968,7 +4968,7 @@ msgstr "Creu Grŵp"
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
-msgstr ""
+msgstr "Gwrthod"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -4992,71 +4992,71 @@ msgstr "Manylion"
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
-msgstr ""
+msgstr "Pad deialu"
 
 msgctxt "sZAPBUTTON_DIALPAD_0"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_1"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_2"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_3"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_4"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_5"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_6"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_7"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_8"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_9"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_ASTERIX"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_HASH"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_ADDCONTACT"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_SMS"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_CALL"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALNUMBER"
 msgid "Dial this phone number"
-msgstr ""
+msgstr "Deialu'r rhif ffôn hwn"
 
 msgctxt "sZAPBUTTON_DIRECTORY"
 msgid "Find businesses"
@@ -5064,7 +5064,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DOLATER"
 msgid "Do it later"
-msgstr ""
+msgstr "Gwneud yn hwyrach"
 
 msgctxt "sZAPBUTTON_DOWN"
 msgid "Down"
@@ -5076,11 +5076,11 @@ msgstr "Lawrlwytho"
 
 msgctxt "sZAPBUTTON_DONT"
 msgid "Don't use for Skype"
-msgstr "Peidiwch defnyddio am Skype"
+msgstr "Peidio defnyddio ar gyfer Skype"
 
 msgctxt "sZAPBUTTON_DONTSHOW"
 msgid "Don't show again"
-msgstr ""
+msgstr "Peidio dangos eto"
 
 msgctxt "sZAPBUTTON_DIALADRECENT"
 msgid "Recent numbers"
@@ -5156,7 +5156,7 @@ msgstr "Dod o hyd y person hwn ar Skype"
 
 msgctxt "sZAPBUTTON_CALLNUMBER"
 msgid "Call this number"
-msgstr ""
+msgstr "Galw'r rhif hwn"
 
 msgctxt "sZAPBUTTON_SHOWHISTORY"
 msgid "Show history"
@@ -5328,7 +5328,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
-msgstr "Diwedd Galwad"
+msgstr "Diweddu'r galwad"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
@@ -5368,7 +5368,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
-msgstr "Help"
+msgstr "Cymorth"
 
 msgctxt "sZAPBUTTON_INFOALT"
 msgid "Info"
@@ -5412,7 +5412,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MENU"
 msgid "Menu"
-msgstr ""
+msgstr "Dewislen"
 
 msgctxt "sZAPBUTTON_MPV_LEFT"
 msgid "MPV left"
@@ -5708,7 +5708,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESENDREQUEST"
 msgid "Resend contact request"
-msgstr ""
+msgstr "Ailanfon cais cyswllt"
 
 msgctxt "sZAPBUTTON_RESET"
 msgid "Reset"
@@ -5864,7 +5864,7 @@ msgstr "Anfon"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "Wedi'i wneud"
 
 msgctxt "sZAPBUTTON_SEARCHAGAIN"
 msgid "Search again"
@@ -6108,7 +6108,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CT_DIALPAD"
 msgid "Dial pad"
-msgstr ""
+msgstr "Pad deialu"
 
 msgctxt "sZAPBUTTON_CT_MESSAGENEW"
 msgid "IM"
@@ -6360,11 +6360,11 @@ msgstr ""
 
 msgctxt "sOPTIONS_CLEAR_COKIES_TEXT"
 msgid "Delete all Skype cookies? (This will only delete Skype cookies)"
-msgstr "Dileu bob cookie Skype? (Mi fydd o dileu dim ond cookies Skype)"
+msgstr "Dileu bob cwci Skype? (Cwcis Skype yn unig caiff eu dileu)"
 
 msgctxt "sOPTIONS_CLEAR_COKIES_CAPTION"
 msgid "Delete Skype cookies?"
-msgstr "Dileu cookies Skype?"
+msgstr "Dileu cwcis Skype?"
 
 msgctxt "sCONV_BOOKMARK"
 msgid "Save Group in Your Contacts"
@@ -6517,7 +6517,7 @@ msgstr ""
 
 msgctxt "sCONVERSATION_MARK_UNREAD"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Nodi heb ei Ddarllen"
 
 msgctxt "sCONVERSATION_PICTURE_CHANGE"
 msgid "Change"
@@ -6577,7 +6577,7 @@ msgstr ""
 
 msgctxt "sSMS_STATUS_SENT_SINGLE"
 msgid "Delivered"
-msgstr ""
+msgstr "Anfonwyd"
 
 msgctxt "sSMS_STATUS_FAILED_SINGLE"
 msgid "Failed"
@@ -6589,7 +6589,7 @@ msgstr "%d wedi'u danfon"
 
 msgctxt "sSMS_STATUS_SENT_MULTIPLE"
 msgid "%d delivered"
-msgstr ""
+msgstr "%d wedi'i ddanfon"
 
 msgctxt "sSMS_STATUS_FAILED_MULTIPLE"
 msgid "%d failed"
@@ -6799,7 +6799,7 @@ msgstr "Cyfrif..."
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
-msgstr ""
+msgstr "Prynu Credyd Skype..."
 
 msgctxt "sMAINMENU_SKYPE_CHANGEPASSWORD"
 msgid "Change Password..."
@@ -6819,7 +6819,7 @@ msgstr "Cysylltiadau"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
-msgstr ""
+msgstr "Creu Grŵp Newydd..."
 
 msgctxt "sMAINMENU_CONTACTS_GROUPS"
 msgid "Contact Lists"
@@ -6827,11 +6827,11 @@ msgstr "Rhestrau Cyswllt"
 
 msgctxt "sMAINMENU_CONTACTS_SHOW_OUTLOOK"
 msgid "Show Outlook Contacts"
-msgstr ""
+msgstr "Dangos Cysylltiadau Outlook"
 
 msgctxt "sMAINMENU_CONTACTS_SORT"
 msgid "Sort Contacts by"
-msgstr ""
+msgstr "Trefnu Cysylltiadau yn ôl"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_NAME"
 msgid "Name"
@@ -6843,35 +6843,35 @@ msgstr "Statws Ar-lein"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
-msgstr "Cuddio Cysylltiadau Pwy"
+msgstr "Cuddio Cysylltiadau Sydd..."
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE"
 msgid "Are Offline"
-msgstr ""
+msgstr "All-lein"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE_CF"
 msgid "Are Offline with Call Forwarding"
-msgstr ""
+msgstr "All-lein gydag Ailgyfeiriad Galwadau"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_NOT_AUTHORIZED"
 msgid "Haven't Shared Contact Details"
-msgstr ""
+msgstr "Heb Rhannu Manylion Cyswllt"
 
 msgctxt "sMAINMENU_CONTACTS_ADVANCED"
 msgid "Advanced"
-msgstr ""
+msgstr "Uwch"
 
 msgctxt "sMAINMENU_CONTACTS_BACKUP"
 msgid "Backup Contacts to File..."
-msgstr ""
+msgstr "Cadw Ffeil Copi wrth Gefn o'r Cysylltiadau..."
 
 msgctxt "sMAINMENU_CONTACTS_RESTORE"
 msgid "Restore Contacts from File..."
-msgstr ""
+msgstr "Adfer Cysylltiadau o Ffeil..."
 
 msgctxt "sMAINMENU_CONTACTS_MANAGE_BLOCKED"
 msgid "Manage Blocked Contacts..."
-msgstr ""
+msgstr "Rheoli Cysylltiadau wedi'u Hatal..."
 
 msgctxt "sMAINMENU_CONVERSATION"
 msgid "Conversation"
@@ -6927,7 +6927,7 @@ msgstr "Dod o hyd..."
 
 msgctxt "sMAINMENU_CONVERSATION_MARK_AS_UNREAD"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Nodi heb ei Ddarllen"
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
@@ -7019,7 +7019,7 @@ msgstr "Offer"
 
 msgctxt "sMAINMENU_TOOLS_EXTRAS"
 msgid "Apps"
-msgstr ""
+msgstr "Aplenni"
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
@@ -7043,11 +7043,11 @@ msgstr "Gosodiadau..."
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr ""
+msgstr "Cymorth"
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
-msgstr ""
+msgstr "Canllaw Ansawdd Galwad"
 
 msgctxt "sMAINMENU_HELP_ABOUT"
 msgid "About Skype"
@@ -7113,7 +7113,7 @@ msgstr "Gwecam:"
 
 msgctxt "sCHAT_STATUSMESSAGE_DOWNLOADING_MESSAGES"
 msgid "Downloading messages"
-msgstr "Lawrlwytho negeseuon"
+msgstr "Yn lawrlwytho negeseuon"
 
 msgctxt "sCALL_PHONES_EMERGENCY1"
 msgid "No Emergency Calls"
@@ -7163,7 +7163,7 @@ msgstr ""
 
 msgctxt "sTRANSFERFAILURE_BAD_FILENAME"
 msgid "%s is not a valid filename"
-msgstr ""
+msgstr "Dydy %s ddim yn enw ffeil dilys."
 
 msgctxt "sTRANFERFAILURE_OPEN_FAILED"
 msgid ""
@@ -7177,7 +7177,7 @@ msgstr ""
 
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
-msgstr ""
+msgstr "Methwyd ei anfon"
 
 msgctxt "sCALL_LB2_BLOCKED"
 msgid "Call failed"
@@ -7214,7 +7214,7 @@ msgstr "Anfonodd %s %s"
 
 msgctxt "sCALL_LB2_PSTN_MISC"
 msgid "Sorry, call failed."
-msgstr ""
+msgstr "Sori, methodd y galwad."
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE_2"
 msgid "Cancelling"
@@ -7286,7 +7286,7 @@ msgstr "Gorffenedig"
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
-msgstr ""
+msgstr "Disg yn llawn"
 
 msgctxt "sINFORM_IO_ERROR"
 msgid ""
@@ -7297,7 +7297,7 @@ msgstr ""
 
 msgctxt "sINFORM_DB_CORRUPT"
 msgid "Database error. Please close Skype and sign in again."
-msgstr ""
+msgstr "Gwall cronf ddata. Caewch Skype a mewngofnodwch eto."
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
@@ -7317,7 +7317,7 @@ msgstr "%d newydd"
 
 msgctxt "sINBOX_MARK_ALL_READ"
 msgid "Mark all read"
-msgstr ""
+msgstr "Nodi'r cyfan wedi'u darllen"
 
 msgctxt "sTRAYALERT_ISONLINE"
 msgid "is online"
@@ -7377,7 +7377,7 @@ msgstr "Creu Rhestr Newydd..."
 
 msgctxt "sREMOVEGROUP_CAPTION"
 msgid "Delete List?"
-msgstr "Dileu rhestr?"
+msgstr "Dileu'r Rhestr?"
 
 msgctxt "sREMOVEGROUP_WARNING"
 msgid "Do you want to delete the list \"%s\"?"
@@ -7385,7 +7385,7 @@ msgstr "Ydych chi eisiau dileu'r rhestr \"%s\"?"
 
 msgctxt "sREMOVEGROUP_TITLE"
 msgid "Delete list"
-msgstr "Dileu rhestr"
+msgstr "Dileu'r rhestr"
 
 msgctxt "sCONTACT_PROFILE_EDIT_PHONE"
 msgid "Edit number"
@@ -7468,7 +7468,7 @@ msgstr ""
 
 msgctxt "sCONTACTGROUPS_DELETE_SELECTED"
 msgid "Delete List \"%s\"..."
-msgstr "Dileu'r rhestr \"%s\"..."
+msgstr "Dileu'r Rhestr \"%s\"..."
 
 msgctxt "sCONTACTGROUPS_RENAME_SELECTED"
 msgid "Rename List \"%s\"..."
@@ -7476,11 +7476,11 @@ msgstr "Ail-enwi Rhestr \"%s\"..."
 
 msgctxt "sF_CALLQUALITYGUIDE_WINDOW_TITLE"
 msgid "Call Quality Guide"
-msgstr ""
+msgstr "Canllaw Ansawdd Galwad"
 
 msgctxt "sF_CALLQUALITYGUIDE_BGR_CAPTION"
 msgid "Call Quality Guide"
-msgstr ""
+msgstr "Canllaw Ansawdd Galwad"
 
 msgctxt "sF_OPTIONS_RING_ALL_DEVICES"
 msgid "Ring on all devices"
@@ -7514,7 +7514,7 @@ msgstr ""
 
 msgctxt "sCALL_OUT_CREDIT1"
 msgid "Sorry, call with %s failed"
-msgstr ""
+msgstr "Sori, methodd y galwad gyda %s."
 
 msgctxt "sCALL_OUT_CREDIT2"
 msgid ""
@@ -7586,7 +7586,7 @@ msgstr "Bob digwyddiad"
 
 msgctxt "sHISTORY_FILTER_ALL_CALLS"
 msgid "All calls"
-msgstr ""
+msgstr "Holl galwadau"
 
 msgctxt "sHISTORY_FILTER_MISSED_CALLS"
 msgid "Missed calls"
@@ -7632,7 +7632,7 @@ msgstr ""
 
 msgctxt "sHISTORY_VM_DURATION"
 msgid "Duration %s"
-msgstr ""
+msgstr "Hyd %s"
 
 msgctxt "sDIALPAD_CALL"
 msgid "Call"
@@ -7678,7 +7678,7 @@ msgstr ""
 
 msgctxt "sBLOCK_CAPTION"
 msgid "Block this person"
-msgstr ""
+msgstr "Rhwystro'r person hwn"
 
 msgctxt "sBLOCK_CAPTION_MULTI"
 msgid "Block these people"
@@ -7800,19 +7800,19 @@ msgstr ""
 
 msgctxt "sF_CALL_QLT_BGR_THIS_CALL2"
 msgid "Did you have any of these problems on this call?"
-msgstr ""
+msgstr "Oedd gennych unrhyw un o'r problemau hyn ar yr alwad hon?"
 
 msgctxt "sF_CALL_QLT_BGR_THIS_VIDEOCALL2"
 msgid "Did you have any of these problems on this video call?"
-msgstr ""
+msgstr "Oedd gennych unrhyw un o'r problemau hyn ar yr alwad fideo hon?"
 
 msgctxt "sF_CALL_QLT_BGR_LAST_CALL2"
 msgid "Did you have any of these problems on last call?"
-msgstr ""
+msgstr "Oedd gennych unrhyw un o'r problemau hyn ar yr alwad ddiwethaf?"
 
 msgctxt "sF_CALL_QLT_BGR_LAST_VIDEOCALL2"
 msgid "Did you have any of these problems on last video call?"
-msgstr ""
+msgstr "Oedd gennych unrhyw un o'r problemau hyn ar yr alwad fideo ddiwethaf?"
 
 msgctxt "sCONVERSATION_BLOCKED"
 msgid "%s blocked %s"
@@ -7824,7 +7824,7 @@ msgstr "Galw"
 
 msgctxt "sOPTIONS_UPNP"
 msgid "Enable uPnP"
-msgstr ""
+msgstr "Galluogi uPnP"
 
 msgctxt "sCALL_FREE_OUT_CREDIT1"
 msgid "You've used your free trial minutes."
@@ -7855,7 +7855,7 @@ msgstr ""
 
 msgctxt "sCONVERSATION_MARK_READ"
 msgid "Mark as Read"
-msgstr ""
+msgstr "Nodi wedi'i Darllen"
 
 msgctxt "sCHAT_POSTED_CONTACTS"
 msgid "%d contacts sent to %s"
@@ -8083,7 +8083,7 @@ msgstr ""
 
 msgctxt "sPROFILE_CHANGE_COUNTRY_BUTTON"
 msgid "Change your country/region"
-msgstr "Newid eich gwlad"
+msgstr "Newid eich gwlad/rhanbarth"
 
 msgctxt "sPROFILE_DEFAULT_LOCATION_BUTTON"
 msgid "Set your country/region"
@@ -8109,15 +8109,15 @@ msgstr ""
 
 msgctxt "sPROFILE_HEADER_EMERGENCY_CALL"
 msgid "Emergency Call"
-msgstr ""
+msgstr "Galwad Brys"
 
 msgctxt "sCALL_LB2_EMERGENCY_DENIED"
 msgid "Emergency calls not supported"
-msgstr ""
+msgstr "Ni chaniateir galwadau brys"
 
 msgctxt "sVERSION"
 msgid "Version"
-msgstr ""
+msgstr "Fersiwn"
 
 msgctxt "sCALL_CONF_NO_EMERGENCY"
 msgid "Group calling with emergency services is not supported"
@@ -8137,7 +8137,7 @@ msgstr "Anfon Cysylltiadau..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
-msgstr ""
+msgstr "Dangos proffil y sgwrs"
 
 msgctxt "sACC_HIDE_CONVERSATION_PROFILE"
 msgid "Hide conversation profile"
@@ -8145,7 +8145,7 @@ msgstr "Cuddio broffil sgwrs"
 
 msgctxt "sACC_SHOW_CONTACT_PROFILE"
 msgid "Display contact profile"
-msgstr ""
+msgstr "Dangos proffil y cyswllt"
 
 msgctxt "sACC_HIDE_CONTACT_PROFILE"
 msgid "Hide contact profile"
@@ -8334,7 +8334,7 @@ msgstr ""
 
 msgctxt "sCHATITEM_DESCRIPTION_EDITED"
 msgid "Edited by %s at %s"
-msgstr ""
+msgstr "Golygwyd gan %s am %s"
 
 msgctxt "sCHATITEM_DESCRIPTION_SENDING"
 msgid "Not delivered"
@@ -8542,7 +8542,7 @@ msgstr ""
 
 msgctxt "sUSERENTRY_GETHELP"
 msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
-msgstr "<a href=\"skype:?go#help.password.faq1\">Cael help</a>"
+msgstr "<a href=\"skype:?go#help.password.faq1\">Cael cymorth</a>"
 
 msgctxt "sF_OPTIONS_NOTIF_ALERT"
 msgid "sends me a message"
@@ -8604,15 +8604,15 @@ msgstr ""
 
 msgctxt "sCALL_TRANSFER_ENTER_MSG"
 msgid "Enter a message for %s"
-msgstr "Rhowch neges am %s"
+msgstr "Rhowch neges i %s"
 
 msgctxt "sCQ_ADJUST_SPEAKERS"
 msgid "Adjust speaker settings"
-msgstr ""
+msgstr "Addasu gosodiadau'r seinydd"
 
 msgctxt "sCQ_ADJUST_MIC"
 msgid "Adjust microphone settings"
-msgstr "Ymaddasu gosodiadau meicroffon"
+msgstr "Addasu gosodiadau meicroffon"
 
 msgctxt "sCQ_ADJUST_VIDEO"
 msgid "Choose the camera you want to use"
@@ -8648,11 +8648,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS_1"
 msgid "Display a notification in the Windows tray when Skype..."
-msgstr ""
+msgstr "Danogs nodyn ym mar tasgau Windows pan mae Skype yn..."
 
 msgctxt "sF_USERENTRY_BUTTON_CREATE"
 msgid "Create account"
-msgstr ""
+msgstr "Creu cyfrif"
 
 msgctxt "sF_USERENTRY_BUTTON_AGREE"
 msgid "I agree - create account"
@@ -8696,7 +8696,7 @@ msgstr ""
 
 msgctxt "sF_USERENTRY_PHONE_HINT"
 msgid "Enter %s's phone number."
-msgstr "Rhowch rhif ffôn o %s."
+msgstr "Rhowch rhif ffôn %s."
 
 msgctxt "sF_USERENTRY_PHONE_HINT2"
 msgid "Enter the phone number with country or region code."
@@ -8737,7 +8737,7 @@ msgstr "Rhif ffôn annilys"
 
 msgctxt "sF_USERENTRY_EMAIL_OK"
 msgid "Email OK"
-msgstr ""
+msgstr "E-bost yn iawn"
 
 msgctxt "sF_USERENTRY_EMAIL_INVALID"
 msgid "Invalid email address"
@@ -8745,11 +8745,11 @@ msgstr "Cyfeiriad e-bost annilys"
 
 msgctxt "sF_USERENTRY_EMAIL_MATCH"
 msgid "Emails match"
-msgstr ""
+msgstr "Mae'r e-byst yr un fath"
 
 msgctxt "sF_USERENTRY_EMAIL_NO_MATCH"
 msgid "Emails don't match"
-msgstr ""
+msgstr "Nid yw'r e-byst yr un fath"
 
 msgctxt "sCHAT_HISTORY_3M"
 msgid "3 months"
@@ -8797,7 +8797,7 @@ msgstr ""
 
 msgctxt "sF_USERENTRY_INFO_PROFILE"
 msgid "Set up your Skype profile"
-msgstr ""
+msgstr "Gosod eich proffil Skype"
 
 msgctxt "sCALLALERT_TRANSFER_BY"
 msgid "Call transfer from <b>%s</b>"
@@ -8849,7 +8849,7 @@ msgstr "Exit full screen"
 
 msgctxt "sLIVE_B_ACTUALSIZE"
 msgid "Actual size"
-msgstr ""
+msgstr "Maint gwir"
 
 msgctxt "sLIVE_B_NONACTUALSIZE"
 msgid "Fit screen"
@@ -9029,7 +9029,7 @@ msgstr ""
 
 msgctxt "sCQ_BAD_LIGHTING_TITLE"
 msgid "Bad lighting"
-msgstr ""
+msgstr "Golau anaddas"
 
 msgctxt "sCQ_BAD_LIGHTING_DESC"
 msgid ""
@@ -9323,7 +9323,7 @@ msgstr ""
 
 msgctxt "sCQ_ADJUST_MIC_POS_TITLE"
 msgid "Adjust your microphone position"
-msgstr ""
+msgstr "Symudwch eich meicroffon"
 
 msgctxt "sCQ_ADJUST_MIC_POS_DESC"
 msgid ""
@@ -9534,7 +9534,7 @@ msgstr ""
 
 msgctxt "sCALL_TRANSFER_NO_FUNDS1"
 msgid "Sorry, call with %s failed."
-msgstr ""
+msgstr "Sori, methodd y galwad gyda %s."
 
 msgctxt "sCALL_TRANSFER_NO_FUNDS2"
 msgid ""
@@ -9695,7 +9695,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_MARK_AS_READ"
 msgid "Mark as Read"
-msgstr ""
+msgstr "Nodi wedi'i Darllen"
 
 msgctxt "sLIVE_CANTSEEYOU"
 msgid ""
@@ -9823,7 +9823,7 @@ msgstr "Cadw Rhif Ffôn..."
 
 msgctxt "sPREM_VIDEO_DONT_SHOW_AGAIN"
 msgid "Don't show again"
-msgstr ""
+msgstr "Peidio dangos eto"
 
 msgctxt "sPREM_VIDEO_MSG_SG"
 msgid ""
@@ -9908,11 +9908,11 @@ msgstr "Gosod llaisbostio"
 
 msgctxt "sMYSELF_PROFILE_CALLER_ID_LINK"
 msgid "Set up caller ID"
-msgstr ""
+msgstr "Gosod ID galwr"
 
 msgctxt "sMYSELF_PROFILE_CALL_FORWARD_LINK"
 msgid "Set up call forwarding"
-msgstr ""
+msgstr "Gosod ailgyfeiriad galwadau"
 
 msgctxt "sMYSELF_PROFILE_CALL_TIME"
 msgid "Time"
@@ -10055,7 +10055,7 @@ msgstr ""
 
 msgctxt "sINFO_CONV_HIDE_MSG"
 msgid "Don't show this message"
-msgstr ""
+msgstr "Peidio dangos y neges hon"
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_PANEL"
 msgid "Profile Panel"
@@ -10067,7 +10067,7 @@ msgstr "Cuddio sgwrs"
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr ""
+msgstr "Dangos negeseuon hŷn"
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -10075,7 +10075,7 @@ msgstr ""
 
 msgctxt "sQUICKFILTER_NOTFOUND_CONTACT"
 msgid "%s is not in your Contacts."
-msgstr "Mae %s is not in your Contacts."
+msgstr "Dydy %s ddim yn eich Cysylltiadau"
 
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
@@ -10571,11 +10571,11 @@ msgstr "Talu Wrth Alw taloedd o"
 
 msgctxt "sCALLPHONES_PAYG_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments#skypeout\">Prynu Credyd Skype</a>"
 
 msgctxt "sCALLPHONES_PAYG_MORE_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy more credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments#skypeout\">Prynu mwy o credyd</a>"
 
 msgctxt "sCALLPHONES_SUBSCR_CAPTION"
 msgid "Pay monthly from"
@@ -10681,7 +10681,7 @@ msgstr ""
 
 msgctxt "sCALL_POPUP_ADD_PHONE_NUMBER"
 msgid "Call this person on their mobile or landline number."
-msgstr ""
+msgstr "Galw'r person yma ar eu ffon symudol neu llinell dros dir."
 
 msgctxt "sMAINMENU_HIDE_FLAMINGO_CONTACTS"
 msgid "Hide Facebook Friends"
@@ -10713,7 +10713,7 @@ msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
 msgid ""
 "<a href=\"skype:?go&sso=1#skype.manager.request-products\">Request a "
 "subscription</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go&sso=1#skype.manager.request-products\">Gwneud cais am danysgrifiad</a>"
 
 msgctxt "sCALL_POPUP_EDIT_EXTENSION"
 msgid "Choose country code for this phone"
@@ -10949,7 +10949,7 @@ msgstr "Cael Apps..."
 
 msgctxt "sLIVE_PLUS_MENU_ADD_PEOPLE"
 msgid "Add People to This Call..."
-msgstr ""
+msgstr "Ychwanegu Pobl i'r Galwad Hon..."
 
 msgctxt "sOPTIONS_CALL_CONTROLS"
 msgid "Show call controls when Skype is in the background"
@@ -11075,7 +11075,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_MORE_HELP"
 msgid "More help"
-msgstr "Mwy help"
+msgstr "Mwy o gymorth"
 
 msgctxt "sGETTING_STARTED_PLAY_SOUND"
 msgid "Test sound"
@@ -11380,7 +11380,7 @@ msgctxt "sF_OPTIONS_UPGRADE_LABEL4"
 msgid ""
 "<a href=\"skype:?go#automaticupdate\">More about Skype and Microsoft "
 "Update</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#automaticupdate\">Mwy am Skype a Microsoft Update</a>"
 
 msgctxt "sSEND_ONE_CONTACT_CONFIRMATION_TEXT"
 msgid ""
@@ -11406,11 +11406,11 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr "Ffefrynau"
+msgstr "Ffefrynnau"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "Llusgwch cysylltiadau yma"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
@@ -11426,11 +11426,11 @@ msgstr "Dileu"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr "Ychwanegu i ffefrynau"
+msgstr "Ychwanegu i'r ffefrynnau"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "Tynnu o'r Ffefrynnau"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
@@ -11446,7 +11446,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "Pawb"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -11562,7 +11562,7 @@ msgstr "{PRICE_PER_MINUTE} y munud"
 
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
 msgid "Buy Skype Credit"
-msgstr ""
+msgstr "Prynu Credyd Skype"
 
 msgctxt "sSKYPEWIFI_PAYMENT_DESC"
 msgid ""
@@ -11677,7 +11677,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTFAIL_BUTTON"
 msgid "Back to payments"
-msgstr ""
+msgstr "Nôl at taliadau"
 
 msgctxt "sSKYPEWIFI_READY_HEADER"
 msgid "Skype WiFi is available here"
@@ -11850,7 +11850,7 @@ msgstr "Cau"
 
 msgctxt "sDELETE_THIS_VOICEMAIL_HINT"
 msgid "Delete this voice message"
-msgstr ""
+msgstr "Dileu'r neges llais hon"
 
 msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
@@ -12024,7 +12024,7 @@ msgctxt "sMSN_UPSELL_PANEL_MESSAGE"
 msgid ""
 "%s isn’t using Skype. Help them download it now. <a href=\"x\">Learn "
 "more.</a>"
-msgstr "Mae %s isn’t using Skype. Help them download it now. <a href=\"x\">Learn more.</a>"
+msgstr "Dyw %s ddim yn defnyddio Skype. Helpiwch nhw ei lawrlwytho nawr. <a href=\"x\">Dysgu mwy.</a>"
 
 msgctxt "sMSN_UPSELL_PANEL_POPUP_MESSAGE"
 msgid ""
@@ -12267,7 +12267,7 @@ msgstr "Fy nghyfrif"
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
-msgstr ""
+msgstr "Rheoli'ch cyfrif arlein"
 
 msgctxt "sAPP_TOOLBAR_HOME_TOOLTIP"
 msgid "See updates from your contacts in Skype Home."
@@ -12361,7 +12361,7 @@ msgstr "Rheoli"
 
 msgctxt "sTOPUP_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
-msgstr ""
+msgstr "Ychwanegu Credyd Skype"
 
 msgctxt "sTOPUP_INTRO_PARAGRAPH"
 msgid ""
@@ -12383,11 +12383,11 @@ msgstr ""
 
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
 msgid "Accept <a href=\"%s\">Terms of Use</a>"
-msgstr ""
+msgstr "Derbyn y <a href=\"%s\">Telerau Defnydd</a>"
 
 msgctxt "sTOPUP_INC_VAT"
 msgid "%s incl. VAT"
-msgstr ""
+msgstr "%s yn cynnwys TAW"
 
 msgctxt "sTOPUP_ADD_CREDIT"
 msgid "Add credit"
@@ -12447,7 +12447,7 @@ msgstr ""
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
 msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr ""
+msgstr "Mae %s all-lein ar Lync. <a href=\"skype:%s?sms\">Anfon neges destun.</a>"
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
@@ -12473,7 +12473,7 @@ msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
 msgid ""
 "Don't worry about running out of credit, we'll add more when you're running "
 "low."
-msgstr ""
+msgstr "Peidiwch â phoeni am redeg allan o gredyd. Byddwn yn ychwanegu mwy pan rydych yn rhedeg yn isel."
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
 msgid "Skype WiFi"
@@ -12509,7 +12509,7 @@ msgstr ""
 
 msgctxt "sTOPUP_NEW_PAYMENT_METHOD"
 msgid "<a href=\"%s\">New payment method</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Dull taliad newydd</a>"
 
 msgctxt "sBDCARD_NOTIFICATION"
 msgid ""
@@ -12526,7 +12526,7 @@ msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_SSE2_LINK"
 msgid "<a href=\"http://www.skype.com/go/novideo\">Learn more.</a>"
-msgstr ""
+msgstr "<a href=\"http://www.skype.com/go/novideo\">Dysgu mwy.</a>"
 
 msgctxt "sMAINMENU_HELP_L2SKYPE"
 msgid "Learn about Skype for Windows"
@@ -12538,4 +12538,4 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_ASKCOMM"
 msgid "Ask the Skype Community"
-msgstr ""
+msgstr "Gofyn i'r Gymuned Skype"
