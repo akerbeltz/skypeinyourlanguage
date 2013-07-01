@@ -145,7 +145,7 @@ Translator(s): Unknown
 Source: http://www.siruppiddy.net/?p=7092
 
 Telugu
-Translator(s): Unknown
+Translator(s): Unknown, pranava, naveenkumar_aremanda
 Source: http://wiki.etelugu.org
 
 Upper Sorbian (Hornjoserbšćina, Obersorbisch)
