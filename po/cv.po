@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-06-19 12:39+0000\n"
+"PO-Revision-Date: 2013-06-26 08:59+0000\n"
 "Last-Translator: Дима <rastamaf@gmail.com>\n"
 "Language-Team: Chuvash (http://www.transifex.com/projects/p/skype-translation-project/language/cv/)\n"
 "MIME-Version: 1.0\n"
@@ -557,7 +557,7 @@ msgstr "Явăçтару"
 
 msgctxt "sF_OPTIONS_LB15"
 msgid "Use port"
-msgstr ""
+msgstr "Портпа усă кур"
 
 msgctxt "sF_OPTIONS_LB19"
 msgid "for incoming connections"
@@ -581,7 +581,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_DEVICES"
 msgid "Audio settings"
-msgstr ""
+msgstr "Итлеме майлаштар"
 
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
@@ -611,7 +611,7 @@ msgstr "Палăртнине ăт"
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
-msgstr ""
+msgstr "Пурне те суйла"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
@@ -633,7 +633,7 @@ msgstr ""
 
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
-msgstr ""
+msgstr "Skype çинчен"
 
 msgctxt "sF_OPTIONS_PAGE_KEYBOARD"
 msgid "Hotkeys"
@@ -665,7 +665,7 @@ msgstr ""
 
 msgctxt "sHOTKEY_SEARCH"
 msgid "Search for people on Skype"
-msgstr ""
+msgstr "Скайпра халăха шыра"
 
 msgctxt "sF_HOTKEYEDIT_CAPTION"
 msgid "Set hotkey for %s"
@@ -683,7 +683,7 @@ msgstr "Çынна чарса ларт"
 
 msgctxt "sBUDDYMENU_UNBLOCK"
 msgid "Unblock This Person"
-msgstr ""
+msgstr "Çынна чарса ан ларт"
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
@@ -691,7 +691,7 @@ msgstr "Микрофона сассăрлат"
 
 msgctxt "sAVATAR_MENUITEM_UNMUTE"
 msgid "Unmute Microphone"
-msgstr ""
+msgstr "Микрофона ан сассăрлат"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
@@ -795,7 +795,7 @@ msgstr "Çынна чарса ларт"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_UNBLOCK"
 msgid "Unblock this person"
-msgstr ""
+msgstr "Çынна чарса ан ларт"
 
 msgctxt "sF_OPTIONS_TCB10"
 msgid "Automatically pause Winamp during calls"
@@ -819,7 +819,7 @@ msgstr ""
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
-msgstr ""
+msgstr "%s çыхăнусен йышĕнчен кăлар"
 
 msgctxt "sTRAYMENU_LOGIN"
 msgid "Sign in"
@@ -859,7 +859,7 @@ msgstr "ман çыхăнусем кăна"
 
 msgctxt "sQUIT_PROMPT_CAP"
 msgid "Sure you want to quit Skype?"
-msgstr ""
+msgstr "Эсĕ Скайпран хупасшăн-и?"
 
 msgctxt "sQUIT_PROMPT_TITLE"
 msgid "Quit Skype?"
@@ -1054,11 +1054,11 @@ msgstr "Юрăхсăр тел. нумерĕ"
 
 msgctxt "sPSTN_RES_10486"
 msgid "Phone number busy"
-msgstr ""
+msgstr "Тел.нумер хутшăнтарнă"
 
 msgctxt "sF_OPTIONS_GREETING_RECORD"
 msgid "Record"
-msgstr ""
+msgstr "Çыр"
 
 msgctxt "sF_OPTIONS_GREETING_PLAYBACK"
 msgid "Playback"
@@ -1165,7 +1165,7 @@ msgstr "Пăрахăçлатпăр"
 
 msgctxt "sFILETRANSFER_CLOSE_CAP"
 msgid "Stop sending file"
-msgstr ""
+msgstr "Чарăн файла яни"
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
@@ -1185,7 +1185,7 @@ msgstr "Пăрахăçланнă"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr ""
+msgstr "Ярасси ăнăçман"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1238,7 +1238,7 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10503"
 msgid "Service unavailable"
-msgstr ""
+msgstr "Хĕсмет unavailable"
 
 msgctxt "sPSTN_RES_10504"
 msgid "Could not connect"
@@ -1283,11 +1283,11 @@ msgstr "Скайпри ятлăх е тел. нумерĕ юрăхсăр"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_OK"
 msgid "%s %s Skype Credit <a href=\"skype:?payments#skypeout\">Buy more</a>"
-msgstr ""
+msgstr "%s %s Skype Кредит<a href=\"skype:?payments#skypeout\">Ил нумайрах</a>"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_LOW"
 msgid "%s %s Skype Credit <a href=\"skype:?payments#skypeout\">Buy more</a>"
-msgstr ""
+msgstr "%s %s Skype Кредит<a href=\"skype:?payments#skypeout\">Ил нумайрах</a>"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_NO"
 msgid "Call mobile phones and landlines at great low rates"
@@ -1401,7 +1401,7 @@ msgstr "Файл яни"
 
 msgctxt "sFILETRANSFERSEND_LB_CAPTION"
 msgid "Select Skype contact"
-msgstr ""
+msgstr "Суйла Skype çыхану"
 
 msgctxt "sFILETRANSFERSEND_BTN_SEND"
 msgid "Send"
@@ -1483,7 +1483,7 @@ msgstr "%s калаçу темине \"%s\"-па улăштарчĕ"
 
 msgctxt "sNUMBER_HIDDEN"
 msgid "Unknown phone number"
-msgstr ""
+msgstr "Паллă мар тел. нумерĕ"
 
 msgctxt "sF_APIACL_CERTIFICATE"
 msgid "Certificate"
@@ -1654,7 +1654,7 @@ msgstr "Систерни"
 
 msgctxt "sF_OPTIONS_PAGE_VIDEO"
 msgid "Video settings"
-msgstr ""
+msgstr "Курав ĕнерлевĕ"
 
 msgctxt "sF_OPTIONS_BTN_MUTE"
 msgid "Mute all sounds"
@@ -1811,7 +1811,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VM_DATETIME"
 msgid "Recorded:"
-msgstr ""
+msgstr "Çырнă:"
 
 msgctxt "sF_OPTIONS_VM_SET2"
 msgid "Default voice message greeting"
@@ -1843,7 +1843,7 @@ msgstr "телефон нумерне пытарнă чухне, шăнкăра�
 
 msgctxt "sF_OPTIONS_RG3_3"
 msgid "phone numbers in my Contact list only"
-msgstr ""
+msgstr "Тел.нумерсем манан çыхăнусем кăна"
 
 msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
@@ -1851,7 +1851,7 @@ msgstr "Аван"
 
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
-msgstr ""
+msgstr "Шăнкравла ĕнерлевĕ"
 
 msgctxt "sF_USERPROFILE_LB_GENDER"
 msgid "Gender"
@@ -1898,7 +1898,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_AGE_ALMOST"
 msgid "Last days %s"
-msgstr ""
+msgstr "%s Кайранхи кунсем"
 
 msgctxt "sCONTACT_GROUP_RECENT"
 msgid "Recently contacted"
@@ -2055,7 +2055,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_CONNECTING"
 msgid "connecting call"
-msgstr ""
+msgstr "Явăçатпăр шăнкăравласа"
 
 msgctxt "sF_USERINFO_LABEL_ADD"
 msgid "Add contact"
@@ -2135,7 +2135,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT8"
 msgid "Skype contact online (Modern)"
-msgstr ""
+msgstr "Скайпçыхăну тетелте(Хальхилле)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT9"
 msgid "Skype connecting call (Modern)"
@@ -2143,7 +2143,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_OPENDLG_CAPTION"
 msgid "Choose your sound"
-msgstr ""
+msgstr "Суйла санăн сасси"
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT"
 msgid ""
@@ -2153,7 +2153,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT_TITLE"
 msgid "Remove sound file?"
-msgstr ""
+msgstr "Сасси файл катертес-и?"
 
 msgctxt "sF_SOUNDS_MSG1_1"
 msgid "This sound \"%s\" belongs to %s."
@@ -2221,7 +2221,7 @@ msgstr "Тепĕр тел. нумерĕ хуш"
 
 msgctxt "sF_OPTIONS_LINK_CF_BASIC"
 msgid "One phone number only"
-msgstr ""
+msgstr "Пĕрре тел.нумере анчах"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
@@ -2247,7 +2247,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT"
 msgid "Enter phone number"
-msgstr ""
+msgstr "Тел.нумере кĕрт"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8"
 msgid "You'll need"
