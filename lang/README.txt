@@ -130,6 +130,10 @@ Rumantsch
 Translator(s): gioni
 Source: Transifex
 
+Samoan (Gagana Sāmoa)
+Translator(s): Chris Bickers
+Source: Transifex
+
 Scottish Gaelic (Gàidhlig)
 Translator: Michael Bauer
 
