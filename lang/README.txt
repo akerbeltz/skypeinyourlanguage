@@ -126,6 +126,10 @@ Persian (Farsi/فارسی)
 Translator(s): Ali Arash
 Source: http://ib.aliarash.com/elearning/pdf/persian.rar
 
+Punjabi (ਪੰਜਾਬੀ)
+Translator: aalam
+Source: Transifex
+
 Rumantsch
 Translator(s): gioni
 Source: Transifex
