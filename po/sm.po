@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-07-04 06:22+0000\n"
+"PO-Revision-Date: 2013-07-09 07:37+0000\n"
 "Last-Translator: ChrisBSamoa <chris@bickersc.com>\n"
 "Language-Team: Samoan (http://www.transifex.com/projects/p/skype-translation-project/language/sm/)\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +60,7 @@ msgstr "&Fesoasoani"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
-msgstr ""
+msgstr "Maua fesoasoani: Fesoasoani"
 
 msgctxt "sMAINMENU_HELP_UPDATES"
 msgid "Check for Updates"
@@ -233,7 +233,7 @@ msgstr "Ua galo lau 'upulilo?"
 
 msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
 msgid "Yes, send me Skype news and promotions"
-msgstr ""
+msgstr "'Ioe, lafo mai le talafou o le Skype ma le fa'asilasilaga"
 
 msgctxt "sF_USERENTRY_SIGNIN"
 msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
@@ -245,7 +245,7 @@ msgstr "© 2003-2013 Skype ma/po'o Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
-msgstr ""
+msgstr "Puipuiga mai le Tulāfono Atulaulau. E Fa'aleoleo Āiā 'Uma."
 
 msgctxt "sF_USERPROFILE_LB_FULLNAME"
 msgid "Full name"
@@ -301,23 +301,23 @@ msgstr "Poto"
 
 msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
-msgstr ""
+msgstr "'A 'ou 'o'omi fa'alua i le tagata feso'ota'i 'ia āmata ona vili"
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
-msgstr ""
+msgstr "'Āmata le Skype fa'atasi ma le Windows"
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr ""
+msgstr "Fa'aopoopo le tagata feso'ota'i i lou fōliga-fa'aaogā"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
-msgstr ""
+msgstr "'Otometiina le taliga o le vili mai"
 
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
-msgstr ""
+msgstr "toma le fono"
 
 msgctxt "sF_OPTIONS_CB_23"
 msgid "hang up"
@@ -345,7 +345,7 @@ msgstr "© 2003 - 2013 Skype ma/po'o Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
-msgstr ""
+msgstr "Fa'atalitali le Patents"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_3"
 msgid ""
@@ -357,7 +357,7 @@ msgctxt "sF_ABOUT_WARNING_1"
 msgid ""
 "Warning: This program is protected by copyright law and international "
 "treaties."
-msgstr ""
+msgstr "Lapata'iga: O le polokalame lea e puipuiga mai le tulāfono-lōmiga ma le māvaega atulaulau."
 
 msgctxt "sF_ABOUT_WARNING_2"
 msgid ""
@@ -379,11 +379,11 @@ msgstr "Telefoni"
 
 msgctxt "sCALL_LB2_MYHOLD"
 msgid "Call on hold"
-msgstr ""
+msgstr "Toma le fono"
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr ""
+msgstr "Fa'atoma le fono"
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
@@ -391,7 +391,7 @@ msgstr "Fa'aauau le fono"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
-msgstr ""
+msgstr "Tali le vili mai o %s 'ae fa'atoma %s?"
 
 msgctxt "sF_CONFIRM_DEFAULT_CAPTION"
 msgid "Confirm"
@@ -523,7 +523,7 @@ msgstr "Manuia! Lou 'upulilo e suiga. Fa'aaogā lou 'upulilo fou mo le isi taimi
 
 msgctxt "sF_SEND_CONTACTS_TEXT1"
 msgid "Send contacts to other people on Skype"
-msgstr ""
+msgstr "Lafo tagata feso'ota'i i le isi tagata o le Skype"
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -561,11 +561,11 @@ msgstr "Fa'aaogā le port"
 
 msgctxt "sF_OPTIONS_LB19"
 msgid "for incoming connections"
-msgstr ""
+msgstr "mo le vili mai"
 
 msgctxt "sF_OPTIONS_TCB8"
 msgid "Use port 80 and 443 as alternatives for incoming connections"
-msgstr ""
+msgstr "Fa'aogā le port 80 ma 443 mo le vili mai"
 
 msgctxt "sF_OPTIONS_CONNDATA_INVALIDPORT"
 msgid "Invalid port"
@@ -619,11 +619,11 @@ msgstr "Fa'aPeritānia"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
-msgstr ""
+msgstr "Seti nūmera speed dial"
 
 msgctxt "sF_SPEEDDIAL_LABEL"
 msgid "Enter new speed dial number for %s"
-msgstr ""
+msgstr "Seti nūmera speed dial mo %s"
 
 msgctxt "sF_SPEEDDIAL_DUPLICATE"
 msgid ""
@@ -661,7 +661,7 @@ msgstr "Fa'a'uma"
 
 msgctxt "sHOTKEY_FOCUS"
 msgid "Focus Skype"
-msgstr ""
+msgstr "Focus Skype"
 
 msgctxt "sHOTKEY_SEARCH"
 msgid "Search for people on Skype"
@@ -695,7 +695,7 @@ msgstr "Fa'aola le mea fa'aleotele leo"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
-msgstr ""
+msgstr "Faiga"
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
@@ -787,7 +787,7 @@ msgstr "Ulua'i"
 
 msgctxt "sF_TRANSLATE_CURRENT"
 msgid "Current"
-msgstr ""
+msgstr "I'inei"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_BLOCK"
 msgid "Block this person"
@@ -803,7 +803,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CB21"
 msgid "Ring PC speaker"
-msgstr ""
+msgstr "Tagitagi sipika"
 
 msgctxt "sBUDDYMENU_SPEEDDIAL"
 msgid "Set Speed Dial..."
@@ -3305,7 +3305,7 @@ msgstr ""
 
 msgctxt "sF_LOGIN_WELCOME"
 msgid "Welcome to Skype."
-msgstr ""
+msgstr "Afio mai le Skype"
 
 msgctxt "sF_STRING_EDIT_TITLE"
 msgid "String edit"
