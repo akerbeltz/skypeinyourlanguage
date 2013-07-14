@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SkypeInYourLang\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
+"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1730,7 +1730,7 @@ msgid "Enable all sounds"
 msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
-msgid "Buy Skype voice messaging"
+msgid "Set up voice messaging"
 msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
@@ -3122,7 +3122,7 @@ msgid "Change Sounds..."
 msgstr ""
 
 msgctxt "sF_USERENTRY_LB_EULA3"
-msgid "Yes, I have read and I accept the <a href=\"skype:?go#eula\">Skype End User License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of Service</a> and the <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>"
+msgid "Yes, I have read and I accept the <a href=\"skype:?go#eula\">Skype End User License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of Use</a> and the <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>"
 msgstr ""
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
@@ -4257,10 +4257,6 @@ msgctxt "sF_OPTIONS_VOICEMAIL_LABEL1"
 msgid "Personalize your voice message greeting, save messages to listen to again, and leave voice messages for your contacts if you can't get hold of them."
 msgstr ""
 
-msgctxt "sF_OPTIONS_VOICEMAIL_LABEL2"
-msgid "Get voice messaging when you sign up for a subscription."
-msgstr ""
-
 msgctxt "sF_OPTIONS_UPGRADE_SKYPPRO"
 msgid "Get a subscription"
 msgstr ""
@@ -4438,7 +4434,7 @@ msgid "Add to Contacts"
 msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACT"
-msgid "Add contact"
+msgid "Add a contact"
 msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTMENU"
@@ -4741,6 +4737,14 @@ msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
 msgstr ""
 
+msgctxt "sZAPBUTTON_CLOSEONWHITE"
+msgid "Close"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CLOSEONBLUE"
+msgid "Close"
+msgstr ""
+
 msgctxt "sZAPBUTTON_CLOSEEC"
 msgid "Close"
 msgstr ""
@@ -4917,6 +4921,10 @@ msgctxt "sZAPBUTTON_DONTSHOW"
 msgid "Don't show again"
 msgstr ""
 
+msgctxt "sZAPBUTTON_REPLY"
+msgid "Reply"
+msgstr ""
+
 msgctxt "sZAPBUTTON_DIALADRECENT"
 msgid "Recent numbers"
 msgstr ""
@@ -4954,7 +4962,7 @@ msgid "Exit popout mode"
 msgstr ""
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
-msgid "TopUpHelp"
+msgid "Help"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FILETRANSFER"
@@ -5034,7 +5042,7 @@ msgid "<ks>P</ks>revious"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
-msgid "FollowLink"
+msgid "My account"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FORWARD"
@@ -5194,11 +5202,11 @@ msgid "Home"
 msgstr ""
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
-msgid "HomeOrange"
+msgid "Skype Home, new updates"
 msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
-msgid "AddContactSemiActive"
+msgid "Add to contacts"
 msgstr ""
 
 msgctxt "sZAPBUTTON_HELP"
@@ -6141,6 +6149,18 @@ msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
 msgstr ""
 
+msgctxt "sZAPBUTTON_RERECORDVIDM"
+msgid "Re-record message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CANCELVIDM"
+msgid "Cancel message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_NOVIDM"
+msgid "No, thanks"
+msgstr ""
+
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid "Can't open Skype. You are already signed in on this computer. Please sign out and try again."
 msgstr ""
@@ -6693,6 +6713,10 @@ msgctxt "sMAINMENU_CONVERSATION_SEND_MESSAGE"
 msgid "Instant Message (IM)"
 msgstr ""
 
+msgctxt "sMAINMENU_CONVERSATION_SEND_VIDEOMESSAGE"
+msgid "Video Message"
+msgstr ""
+
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
 msgstr ""
@@ -6898,11 +6922,11 @@ msgid "%s is blocked and can't answer. <a href=\"skype:%s?unblock\">Unblock %s</
 msgstr ""
 
 msgctxt "sVOICEMAIL_NEW"
-msgid "New voice message, duration <span class=\"RegularDisabled\">%s</span>"
+msgid "<b>New voice message</b>, duration %s"
 msgstr ""
 
 msgctxt "sVOICEMAIL"
-msgid "Voice message, duration<span class=\"RegularDisabled\"> %s</span>"
+msgid "<b>Voice message</b>, duration %s"
 msgstr ""
 
 msgctxt "sCOMPLETED_GROUP_CALL"
@@ -6990,7 +7014,7 @@ msgid "New message"
 msgstr ""
 
 msgctxt "sCONVERSATION_STATUS_LEGACY"
-msgid "The call host is using an old version of Skype that can't combine calls and IM at the same time. <a href=\"%s\">Click here</a> to create a new group with same people."
+msgid "Instant messaging isn't currently available. This may be resolved shortly once the chat has updated, or the other person may be using an older version of Skype which doesn't support calling and IM at the same time."
 msgstr ""
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS2"
@@ -7478,19 +7502,19 @@ msgid "Call Group"
 msgstr ""
 
 msgctxt "sCALL_HOME"
-msgid "Call Home"
+msgid "Call home"
 msgstr ""
 
 msgctxt "sCALL_MOBILE"
-msgid "Call Mobile"
+msgid "Call mobile"
 msgstr ""
 
 msgctxt "sCALL_OFFICE"
-msgid "Call Office"
+msgid "Call office"
 msgstr ""
 
 msgctxt "sCALL_PHONE"
-msgid "Call Phone"
+msgid "Call phone"
 msgstr ""
 
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
@@ -9990,15 +10014,15 @@ msgid "Call from %s (%s)"
 msgstr ""
 
 msgctxt "sSHARE_MENU_SEND_FILE"
-msgid "Send File..."
+msgid "Send file..."
 msgstr ""
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
-msgid "Send Contacts..."
+msgid "Send contacts..."
 msgstr ""
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
-msgid "Share Screens..."
+msgid "Share screens..."
 msgstr ""
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
@@ -10326,7 +10350,7 @@ msgid "Tumbleweed"
 msgstr ""
 
 msgctxt "sWTF_SMILEY"
-msgid "What the... (wtf)"
+msgid "What the..."
 msgstr ""
 
 msgctxt "sWFH_SMILEY"
@@ -10998,7 +11022,7 @@ msgid "Get Skype Credit"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_NOCREDIT_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
@@ -11042,7 +11066,7 @@ msgid "Enable auto-recharge"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_TOS"
-msgid "I agree to Skype's <a href=\"{SKYPE_TOS_URL}\">Terms of Use</a>"
+msgid "I agree to Skype's <a href=\"%s\">Terms of Use</a>"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_NAME"
@@ -11078,7 +11102,7 @@ msgid "The card security code is the final three digits of the number printed on
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_AUTORECHARGE"
-msgid "If auto-recharge is enabled, your card will be automatically charged when your Skype Credit balance falls below {AUTORECHARGE_LEVEL}"
+msgid "If auto-recharge is enabled, your card will automatically be charged when your Skype Credit balance falls below %s"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
@@ -11118,7 +11142,7 @@ msgid "Connect"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_FREE"
@@ -11126,7 +11150,7 @@ msgid "FREE"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_TOS"
-msgid "By connecting, you agree to the provider's <a href=\"{PROVIDER_TOS_URL}\">Terms of Service</a>."
+msgid "By connecting, you agree to the provider's <a href=\"%s\">Terms of Service</a>."
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_TOS_NOTOS"
@@ -11146,7 +11170,7 @@ msgid "Connecting…"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
@@ -11275,6 +11299,30 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_LEGACY_MESSAGE"
 msgid "You've got a video message. To see it, simply copy this secret code %2 and <a href=\"%1\">watch your video message here</a>"
+msgstr ""
+
+msgctxt "sVIDEOMSG_DEFAULT_TITLE"
+msgid "You've got a video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
+msgid "You have %d video messages left this month. <a href=\"%s\">Upgrade to a Premium account</a> to enjoy unlimited video messages."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_WITH_DAYS_MESSAGE"
+msgid "Messages are automatically deleted if they haven't been watched in %d days."
+msgstr ""
+
+msgctxt "sVIDEOMSG_EXPIRED_TITLE"
+msgid "Sorry, this video message has expired."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
+msgid "Sorry, this video message is unavailable."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_TITLE"
+msgid "Video Message Unavailable"
 msgstr ""
 
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
@@ -11434,7 +11482,7 @@ msgid "Messenger"
 msgstr ""
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
-msgid "No results for %s<br/><a href=\"skype:?go#share\">Send an email invitation</a>"
+msgid "No results for %s"
 msgstr ""
 
 msgctxt "sSTATUS_UNKNOWN2"
@@ -11818,7 +11866,7 @@ msgid "Skype WiFi"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
-msgid "Error: {ERROR_NO}"
+msgid "Error: %d"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
@@ -11867,5 +11915,293 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_ASKCOMM"
 msgid "Ask the Skype Community"
+msgstr ""
+
+msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED"
+msgid "Auto-recharge (unavailable)"
+msgstr ""
+
+msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED_HELP_TEXT"
+msgid "Auto-recharge may be unavailable because you’ve reached a limit. When this resets, you’ll be able to use it again as normal."
+msgstr ""
+
+msgctxt "sTOPUP_INTRO_PARAGRAPH_ATU_SUSPENDED"
+msgid "Looks like you’re running low on credit. Auto-recharge is unavailable at this time, but you can still add credit manually."
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_IP_ADDRESS"
+msgid "Allow direct connections to your contacts only."
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_IP_ADDRESS_HINT"
+msgid "When you call someone who isn't a contact, we'll keep your IP address hidden.<br/><br/>This may delay your call setup time."
+msgstr ""
+
+msgctxt "sVIDEOMSG_DOWNLOAD_HINT"
+msgid "Download video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_BACK_HINT"
+msgid "Go back to chat"
+msgstr ""
+
+msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
+msgid "Close"
+msgstr ""
+
+msgctxt "sVIDEOMSG_SEND"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sCALL_LYNC"
+msgid "Lync"
+msgstr ""
+
+msgctxt "sCALL_POPUP_LYNC"
+msgid "Lync"
+msgstr ""
+
+msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
+msgid "Add number"
+msgstr ""
+
+msgctxt "sADD_PHONE_NUMBER_CAPTION"
+msgid "Save a phone number"
+msgstr ""
+
+msgctxt "sBUDDYMENU_UNPIN_ICON"
+msgid "Remove from favorites"
+msgstr ""
+
+msgctxt "sBUDDYMENU_PIN_ICON"
+msgid "Add to favorites"
+msgstr ""
+
+msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
+msgid "Send Video Message"
+msgstr ""
+
+msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
+msgid "Camera in use"
+msgstr ""
+
+msgctxt "sCQ_VIDEO_MESSAGE_DESC"
+msgid "To see your camera, close your video message first."
+msgstr ""
+
+msgctxt "sVIDEOMSG_REPLY_HINT"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sAC_SEND_REQ"
+msgid "%s is not in your Contacts"
+msgstr ""
+
+msgctxt "sAC_RESEND_REQ"
+msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
+msgstr ""
+
+msgctxt "sAC_ACCEPT_REQ"
+msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
+msgstr ""
+
+msgctxt "sAC_REQ_SENT"
+msgid "Contact request sent"
+msgstr ""
+
+msgctxt "sAC_UNBLOCK"
+msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_START_DEVICE"
+msgid "Your camera or microphone is already in use.<br/>Please close any app or Skype chat that might be using it, then try again."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_NO_CAM"
+msgid "You need a camera to record video messages.<br/>Please check your camera is connected and try again."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_UNKNOWN"
+msgid "Oops, something went wrong.<br/>Please try again, or get in touch if you need help."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_DEVICE_LOST"
+msgid "You've stopped recording a video message.<br/>Your camera or microphone was disconnected. Record your message again, or send it now if you're ready."
+msgstr ""
+
+msgctxt "sVIDEOMSG_PREMIUM_UPSELL_TITLE"
+msgid "You have no free video messages left"
+msgstr ""
+
+msgctxt "sVIDEOMSG_PREMIUM_UPSELL_MESSAGE"
+msgid "Upgrade to a Premium account to enjoy unlimited video messages."
+msgstr ""
+
+msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
+msgid "Looking good!"
+msgstr ""
+
+msgctxt "sVIDEOMSG_LOOKING_GOOD_DESC"
+msgid "Hit record when you're ready."
+msgstr ""
+
+msgctxt "DECLINE_POPUP_CAPTION"
+msgid "Decline contact request"
+msgstr ""
+
+msgctxt "DECLINE_POPUP_BLOCK_CAPTION"
+msgid "Block"
+msgstr ""
+
+msgctxt "DECLINE_POPUP_SPAM_CAPTION"
+msgid "Report as spam"
+msgstr ""
+
+msgctxt "sVIDEOMSG_SEND_CAPTION"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_CANCEL_CAPTION"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sVIDEOMSG_RECORD_CAPTION"
+msgid "Record"
+msgstr ""
+
+msgctxt "sECHO_DISPLAY_NAME"
+msgid "Echo/Sound Test Service"
+msgstr ""
+
+msgctxt "sTASKBAR_MENU_SIGN_OUT"
+msgid "Sign Out"
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
+msgid "recording a video message or sharing screens"
+msgstr ""
+
+msgctxt "sOPTIONS_RECORDING_VIDEO_MESSAGE"
+msgid "Do not show notifications when:"
+msgstr ""
+
+msgctxt "sVIDEOMSG_STOP_RECORD_CAPTION"
+msgid "Stop recording"
+msgstr ""
+
+msgctxt "sPREM_VIDEO_MESSAGE_WEB_WINDOW_CAPTION"
+msgid "Video messaging"
+msgstr ""
+
+msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
+msgid "sends me a video message"
+msgstr ""
+
+msgctxt "sTRAYALERT_VIDEO_MESSAGE"
+msgid "New video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_STATUS_TEXT_UNAVAILABLE"
+msgid "Video message is unavailable"
+msgstr ""
+
+msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
+msgid "Send video message..."
+msgstr ""
+
+msgctxt "sCONVERSATION_VIDEO_MESSAGE"
+msgid "New video message"
+msgstr ""
+
+msgctxt "sACC_NAME_MYSELF_HEADER"
+msgid "Me"
+msgstr ""
+
+msgctxt "sACC_NAME_QF"
+msgid "Search"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATIONS"
+msgid "Conversations"
+msgstr ""
+
+msgctxt "sACC_NAME_COMMUNICATOR"
+msgid "Application access"
+msgstr ""
+
+msgctxt "sACC_NAME_PARTNER_BUTTONS"
+msgid "Partner"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACTS_TAB"
+msgid "All contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_LIST"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATIONS_TAB"
+msgid "All recent messages"
+msgstr ""
+
+msgctxt "sACC_NAME_INBOX_LIST"
+msgid "Recent messages"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_FAVORITE"
+msgid "Favorite"
+msgstr ""
+
+msgctxt "sACC_NAME_ONLINE_STATUS"
+msgid "%0:s, select to change status"
+msgstr ""
+
+msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
+msgid "Hide message"
+msgstr ""
+
+msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
+msgid "All %0:s contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
+msgid "All %0:s"
+msgstr ""
+
+msgctxt "sVIDEOMSG_UPSELL"
+msgid "Would you like to leave a video message?"
+msgstr ""
+
+msgctxt "sVIDEOMSG_UPSELL_BUTTON"
+msgid "Video message"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
+msgid "Clear search input"
+msgstr ""
+
+msgctxt "sACC_NAME_SEARCH_ALL"
+msgid "Search all people on Skype"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
+msgid "You're online with Skype WiFi"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
+msgid "Connection expires soon"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_LESS_THAN_MINUTE"
+msgid "You've been online for less than a minute. You can disconnect at any time and you'll only be charged for the minutes used."
+msgstr ""
+
+msgctxt "sSKYPEWIFI_ABOUT_A_MINUTE"
+msgid "You've been online for about a minute. You can disconnect at any time and you'll only be charged for the minutes used."
+msgstr ""
+
+msgctxt "sSKYPEWIFI_MORE_THAN_MINUTE"
+msgid "You've been online for about %d minutes. You can disconnect at any time and you'll only be charged for the minutes used."
 msgstr ""
 
