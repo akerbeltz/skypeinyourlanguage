@@ -1,14 +1,15 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
+# Michael Bauer <fios@akerbeltz.org>, 2013
 # prash32 <prashant.prash32@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-08-01 11:04+0000\n"
-"Last-Translator: prash32 <prashant.prash32@gmail.com>\n"
+"PO-Revision-Date: 2013-08-01 11:22+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Marathi (http://www.transifex.com/projects/p/skype-translation-project/language/mr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1613,7 +1614,7 @@ msgstr "इतिहास खोडा।"
 
 msgctxt "sSKYPE_LANG_FILES"
 msgid "Skype language files (*.lang)\\|*.LANG"
-msgstr "स्काईप भाषा फाइल्स (*.lang)\\|*.LANG ।"
+msgstr "स्काईप भाषा फाइल्स (*.lang)\\|*.LANG"
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
@@ -2841,59 +2842,59 @@ msgstr "चलतीचित्र (व्हिडिओ) नियंत्�
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT1"
 msgid "Ringtone (Classic)"
-msgstr ""
+msgstr "घंटी (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT2"
 msgid "Dial tone (Classic)"
-msgstr ""
+msgstr "डायल घंटी (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT3"
 msgid "Busy signal (Classic)"
-msgstr ""
+msgstr "व्यस्तता खूण (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT4"
 msgid "Call on hold (Classic)"
-msgstr ""
+msgstr "कॉल होल्डवर (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT5"
 msgid "Resuming call (Classic)"
-msgstr ""
+msgstr "कॉल पुन्हा सुरू करत आहे (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT6"
 msgid "Connecting call (Classic)"
-msgstr ""
+msgstr "कॉल जोडत आहे (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT7"
 msgid "Hang up (Classic)"
-msgstr ""
+msgstr "ठेवा (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT8"
 msgid "Received IM (Classic)"
-msgstr ""
+msgstr "झटपट संदेश आला (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT9"
 msgid "Contact online (Classic)"
-msgstr ""
+msgstr "संपर्क उपलब्ध (उत्कृष्ठ) (क्लासीक)"
 
 msgctxt "sF_OPTIONS_SOUND_TOO_BIG_CAPTION"
 msgid "Sound import failed"
-msgstr ""
+msgstr "ध्वनी आयात (इम्पोर्ट) अयशस्वी"
 
 msgctxt "sDIALPAD"
 msgid "Call phones"
-msgstr ""
+msgstr "कॉल दुरध्वनी क्रमांक"
 
 msgctxt "sF_SMS_STATUS_CREDIT"
 msgid "Not enough Skype Credit."
-msgstr ""
+msgstr "अपुर्ण स्काईप क्रेडिट"
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr ""
+msgstr "एसएमएस पाठवा"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
-msgstr ""
+msgstr "एसएमएस नियंत्रण कक्ष"
 
 msgctxt "sF_OPTIONS_LBC_SMS"
 msgid "<b>SMS settings:</b> Send text messages directly from Skype"
@@ -2909,27 +2910,27 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_SEND_CODE"
 msgid "Send"
-msgstr ""
+msgstr "पाठवा"
 
 msgctxt "sF_OPTIONS_BTN_SUBMIT_CODE"
 msgid "Submit"
-msgstr ""
+msgstr "सबमिट"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB1"
 msgid "The verification code has been sent"
-msgstr ""
+msgstr "सत्यापन (वेरीफीकेशन) कोड पाठवले गेले"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB2"
 msgid "Sending failed."
-msgstr ""
+msgstr "पाठवने अयशस्वी"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB3"
 msgid "Try to resend confirmation code"
-msgstr ""
+msgstr "सत्यापन (वेरीफीकेशन) कोड पुन्हा पाठवा"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB4"
 msgid "The confirmation code is not valid"
-msgstr ""
+msgstr "सत्यापन (वेरीफीकेशन) कोड अवैध आहे"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB5"
 msgid "The code worked, your mobile number has been verified"
@@ -2949,11 +2950,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
-msgstr ""
+msgstr "एसएमएस बद्दल अधिक जाणा"
 
 msgctxt "sF_PAYMENTS_CAPTION"
 msgid "Skype Credit"
-msgstr ""
+msgstr "स्काईप क्रेडिट"
 
 msgctxt "sF_PAYMENTS_LOADING"
 msgid "Loading - %s"
@@ -2961,7 +2962,7 @@ msgstr ""
 
 msgctxt "sF_PAYMENTS_ERROR_CAPTION"
 msgid "Check your connection"
-msgstr ""
+msgstr "जोडणी तपासा"
 
 msgctxt "sF_PAYMENTS_ERROR_TEXT"
 msgid ""
@@ -2971,7 +2972,7 @@ msgstr ""
 
 msgctxt "sF_PAYMENTS_BTN_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sF_OPTIONS_SMS_HINT"
 msgid "Type in your mobile number"
@@ -2983,11 +2984,11 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SEARCH"
 msgid "Search"
-msgstr ""
+msgstr "शोध"
 
 msgctxt "sF_TRANSLATE_SEARCH_AGAIN"
 msgid "Search again"
-msgstr ""
+msgstr "पुनः शोध"
 
 msgctxt "sF_TRANSLATE_NOT_FOUND"
 msgid "Sorry, string not found."
@@ -2995,15 +2996,15 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FRM_CAPTION"
 msgid "Update"
-msgstr ""
+msgstr "अपडेट"
 
 msgctxt "sF_UPGRADE_FORCED_CAPTION"
 msgid "Skype update required."
-msgstr ""
+msgstr "स्काईप अद्यतनित (अपडेट) करणे आवश्यक।"
 
 msgctxt "sF_UPGRADE_NORMAL_CAPTION"
 msgid "Download a Skype update."
-msgstr ""
+msgstr "स्काईप अद्यायावत (अपडेट) डाऊनलोड करा।"
 
 msgctxt "sF_UPGRADE_LINK"
 msgid "View technical release notes for this update."
@@ -3033,15 +3034,15 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_INIT"
 msgid "Initializing..."
-msgstr ""
+msgstr "सुरू करणे।"
 
 msgctxt "sF_UPGRADE_PAUSED"
 msgid "Download paused"
-msgstr ""
+msgstr "डाऊनलोडला विराम।"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_CAPTION"
 msgid "Downloading..."
-msgstr ""
+msgstr "डाऊनलोड होतय।"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TEXT"
 msgid "Please wait while an update for Skype is being downloaded."
@@ -3061,19 +3062,19 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करा"
 
 msgctxt "sF_UPGRADE_BTN_DOWNLOAD"
 msgid "Download"
-msgstr ""
+msgstr "डाऊनलोड"
 
 msgctxt "sF_UPGRADE_BTN_HIDE"
 msgid "Hide"
-msgstr ""
+msgstr "लपवा"
 
 msgctxt "sF_OPTIONS_PAGE_UPDATES"
 msgid "Advanced settings"
-msgstr ""
+msgstr "प्रगत (एडवांस्ड) नियंत्रण कक्ष"
 
 msgctxt "sF_OPTIONS_LBC_UPDATES"
 msgid "<b>Advanced settings:</b> Skype updates and external programs"
@@ -3081,19 +3082,19 @@ msgstr ""
 
 msgctxt "sCALL_LB2_DROPPED"
 msgid "Call dropped"
-msgstr ""
+msgstr "कॉलची गळती (ड्रॉप्ड)"
 
 msgctxt "sF_UPGRADE_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "ठीक आहे"
 
 msgctxt "sF_UPGRADE_BTN_QUIT"
 msgid "Quit Skype"
-msgstr ""
+msgstr "स्काईप बंद करायचे?"
 
 msgctxt "sF_UPGRADE_BTN_RETRY"
 msgid "Retry"
-msgstr ""
+msgstr "पुनःप्रयत्न"
 
 msgctxt "sF_UPGRADE_FAILED_CAPTION"
 msgid "Problem during download"
@@ -3109,11 +3110,11 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FAILED_LINK"
 msgid "Click here"
-msgstr ""
+msgstr "ईथे दाबा"
 
 msgctxt "sF_SEARCH_RESULTS"
 msgid "Search results"
-msgstr ""
+msgstr "शोध पर्याय"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB10"
 msgid "You do not have enough Skype Credit to send a code"
