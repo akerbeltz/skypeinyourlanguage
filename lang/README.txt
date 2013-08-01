@@ -106,7 +106,7 @@ Macedonian (Македонски јазик)
 Translator(s): Samarakov Gjorgji, Karakabakov Gjorge, Patirova Marijana, Stojilkov Kristijan and Todorovski Nikola
 Source: http://www.eurm.edu.mk/news/news/skype-in-macedonian-language.html
 
-Marathi ()
+Marathi (मराठी)
 Translator(s): prash32
 Source: Transifex
 
