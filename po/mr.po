@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-08-02 13:47+0000\n"
+"PO-Revision-Date: 2013-08-06 08:51+0000\n"
 "Last-Translator: prash32 <prashant.prash32@gmail.com>\n"
 "Language-Team: Marathi (http://www.transifex.com/projects/p/skype-translation-project/language/mr/)\n"
 "MIME-Version: 1.0\n"
@@ -241,7 +241,7 @@ msgstr "आपले स्काईपचे खाते आधीच आह�
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2003-2013 Skype and/or Microsoft"
-msgstr ""
+msgstr "© २००३-२०१३ स्काईप आणि / किंवा मायक्रोसॉफ्ट"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -341,7 +341,7 @@ msgstr "- पर्याय"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
 msgid "© 2003 - 2013 Skype and/or Microsoft"
-msgstr ""
+msgstr "© २००३-२०१३ स्काईप आणि / किंवा मायक्रोसॉफ्ट"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -2946,7 +2946,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB9"
 msgid "Sorry, the number failed. Please try again."
-msgstr ""
+msgstr "दुरध्वनी क्रमांक चुकीचा आहे। पुन्हा प्रयत्न करा।"
 
 msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
@@ -2980,7 +2980,7 @@ msgstr "आपला दुरध्वनी क्रमांक टाका
 
 msgctxt "sOUTLOOK_GROUP_TITLE"
 msgid "Microsoft Office Outlook"
-msgstr ""
+msgstr "मायक्रोसॉफ्ट ऑफिस आउटलुक"
 
 msgctxt "sF_TRANSLATE_SEARCH"
 msgid "Search"
@@ -3106,7 +3106,7 @@ msgstr "स्काईप अद्यायावत (अपडेट) डा�
 
 msgctxt "sF_UPGRADE_FAILED_TEXT2"
 msgid "to go online and download the upgrade manually."
-msgstr ""
+msgstr "ऑनलाईन जा आणि स्वतः सुधारणा (अपग्रेड) डाऊनलोड करा।"
 
 msgctxt "sF_UPGRADE_FAILED_LINK"
 msgid "Click here"
@@ -4023,7 +4023,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_ALERTS_LB1"
 msgid "Show alerts from..."
-msgstr ""
+msgstr "ह्या पासून सतर्क करा।।।"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_WRITE"
 msgid "Error. Can't save the file."
@@ -4089,19 +4089,19 @@ msgstr ""
 
 msgctxt "sPREMIUMCALL_WEBWINDOW_TITLE"
 msgid "Skype Prime"
-msgstr ""
+msgstr "स्काईप प्राईम"
 
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
-msgstr ""
+msgstr "सतर्कता आणि संदेश"
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
-msgstr ""
+msgstr "<b>सतर्कता आणि संदेश:</b> स्काईपबद्दल उपयुक्त माहिती आणि मदत"
 
 msgctxt "sF_OPTIONS_ALERTS_LEARNMORE"
 msgid "<a href=\"skype:?go#help.faq.alerts\">Learn more</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#help.faq.alerts\">अधिक जाणा</a>"
 
 msgctxt "sF_TRANSLATE_SAVEAS_FILTER"
 msgid "Skype language files"
@@ -4161,7 +4161,7 @@ msgstr ""
 
 msgctxt "sSTATUS_ONLINE_MOBILE"
 msgid "Online (on a mobile device)"
-msgstr ""
+msgstr "उपलब्ध (दुरध्वनी यंत्रावरून)"
 
 msgctxt "sSTATUS_AWAY_MOBILE"
 msgid "Away (on a mobile device)"
@@ -4900,23 +4900,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sZAPBUTTON_CLOSEONWHITE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sZAPBUTTON_CLOSEONBLUE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sZAPBUTTON_CLOSEEC"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sZAPBUTTON_CLOSEGSW"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sZAPBUTTON_CONVERSATIONS"
 msgid "Conversations"
@@ -5492,11 +5492,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MONITORVIDEOCLOSE"
 msgid "Close call monitor"
-msgstr ""
+msgstr "कॉल मॉनिटर करणारे बंद करा"
 
 msgctxt "sZAPBUTTON_MONITORAUDIOCLOSE"
 msgid "Close call monitor"
-msgstr ""
+msgstr "कॉल मॉनिटर करणारे बंद करा"
 
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
@@ -5532,7 +5532,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSEWS"
 msgid "Close this welcome screen and start using Skype"
-msgstr ""
+msgstr "स्वागत पडदा बंद करा स्काईप वापरण्यास सुरू करा"
 
 msgctxt "sZAPBUTTON_PAGENEXT"
 msgid "Next page"
@@ -6060,7 +6060,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCHANGESELECTION"
 msgid "Change selection"
@@ -6232,7 +6232,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_WINDOWCLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sZAPBUTTON_WINDOWMINIMIZE"
 msgid "Minimize"
@@ -6831,7 +6831,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
@@ -7270,7 +7270,7 @@ msgstr ""
 
 msgctxt "sF_CALLQUALITY_BTN_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING"
 msgid "Waiting"
@@ -7321,7 +7321,7 @@ msgstr ""
 
 msgctxt "sINFORM_DB_CORRUPT"
 msgid "Database error. Please close Skype and sign in again."
-msgstr ""
+msgstr "डेटाबेस त्रुटी। स्काईप बंद करा आणि पुन्हा प्रवेश करा।"
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
@@ -7518,7 +7518,7 @@ msgstr ""
 
 msgctxt "sAUTHORIZATION_PANEL_COMMENT"
 msgid "Clicking Add to Contacts means this person can see when you are online"
-msgstr ""
+msgstr "संपर्क जोडा क्लिक करून ऑनलाइन असताना ही व्यक्ती आपणास पाहू शकते"
 
 msgctxt "sAUTHORIZE_BLOCKED_CAPTION2"
 msgid "%s is on your blocked list"
@@ -8009,7 +8009,7 @@ msgstr ""
 
 msgctxt "sPROFILE_AVATAR_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sPROFILE_AVATAR_MIN"
 msgid "Minimize"
@@ -8397,7 +8397,7 @@ msgctxt "sBROWSER_OFFLINE_TEXT"
 msgid ""
 "To use this feature please change your Skype status back to online and try "
 "again."
-msgstr ""
+msgstr "हे वैशिष्ट्य वापरण्यासाठी स्काईपवर दृश्यमान व्हा आणि पुन्हा प्रयत्न करा।"
 
 msgctxt "sMAINMENU_HELP_HEARTBEAT"
 msgid "Heartbeat (Skype Status)"
@@ -9683,7 +9683,7 @@ msgstr ""
 
 msgctxt "sNO_WEBCAM_FORM_BTN_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sLIVE_ADD_PEOPLE_SEARCH_HINT_TEXT"
 msgid "Enter contact or phone number"
@@ -9878,7 +9878,7 @@ msgstr ""
 
 msgctxt "sPREM_VIDEO_CANCEL"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sSEND_MSG_DLG_CAPTION"
 msgid "Send them an upgrade link"
@@ -10103,7 +10103,7 @@ msgstr ""
 
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
-msgstr ""
+msgstr "%s बंद करा"
 
 msgctxt "sCONTACT_NOTIFICATION"
 msgid "Contact request"
@@ -10908,7 +10908,7 @@ msgstr ""
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_CAPTION"
 msgid "Close this window"
-msgstr ""
+msgstr "हा पडदा बंद करा"
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_TEXT"
 msgid ""
@@ -11178,7 +11178,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sGETTING_STARTED_SET_PICTURE_TITLE"
 msgid "Set your profile picture"
@@ -11398,7 +11398,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL3"
 msgid "Running Microsoft Update may also install important Skype updates."
-msgstr ""
+msgstr "© २००३-२०१३ स्काईप आणि / किंवा Microsoft"
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL4"
 msgid ""
@@ -11438,7 +11438,7 @@ msgstr ""
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
@@ -11560,7 +11560,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sSKYPEWIFI_NOCREDIT_HEADER"
 msgid "Skype WiFi is available here"
@@ -11870,7 +11870,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_FAQ_BUTTON_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sDELETE_THIS_VOICEMAIL_HINT"
 msgid "Delete this voice message"
@@ -11941,7 +11941,7 @@ msgstr ""
 
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sADD_CONTACT_PANEL_SEARCH_HINT"
 msgid "Name, Skype Name or email"
@@ -12316,7 +12316,7 @@ msgstr ""
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
-msgstr ""
+msgstr "अपले खाते ऑनलाईन व्यवस्थापित करा"
 
 msgctxt "sAPP_TOOLBAR_HOME_TOOLTIP"
 msgid "See updates from your contacts in Skype Home."
@@ -12460,7 +12460,7 @@ msgstr ""
 
 msgctxt "sTOPUP_GENERIC_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sTOPUP_CONT_ERROR"
 msgid ""
@@ -12480,11 +12480,11 @@ msgstr ""
 
 msgctxt "sTOPUP_CONN_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sMAINMENU_CONVERSATION_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sLYNC_CAPTION"
 msgid "Lync"
@@ -12625,7 +12625,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgctxt "sVIDEOMSG_SEND"
 msgid "Send video message"
