@@ -175,4 +175,9 @@ Source: http://www.biliwal.com/yukler/uighur_2.5.0.113_20060614_sutt.lang
 Welsh (Cymraeg)
 Translator: Merlyn Cooper
 
+Yakut (Саха тыла)
+Translator: Halan, Dorghoon, bacr
+Source: Transifex
+
+
 Enjoy!
