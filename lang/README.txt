@@ -114,6 +114,10 @@ Mirandese (Mirandés)
 Translator(s): Unknown
 Source: http://student.dei.uc.pt/~crpires/skype/mwl.lang
 
+N'ko (ߒߞߏ)
+Translators: kairaba, Lasnei
+Source: Transifex
+
 Nias (Li Niha)
 Translator(s): Yustinus Waruwu
 Source: http://www.muenster.de/~yuswar/File_Skype_Li_Niha.doc
