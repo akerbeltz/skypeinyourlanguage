@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-01 11:07+0000\n"
+"PO-Revision-Date: 2013-09-01 20:32+0000\n"
 "Last-Translator: ahmadsaber <ahmad.24.8mile@hotmail.com>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
@@ -508,7 +508,7 @@ msgstr "گۆڕینى تێپەرەوشە"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid.  Please try again."
-msgstr ""
+msgstr "ئەو تێپەرەوشە کۆنەى کە تۆمارتکردوە دروست نیە. تکایە هەوڵ بدرەوە"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
@@ -580,7 +580,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_DEVICES"
 msgid "Audio settings"
-msgstr ""
+msgstr "رێکخستنەکانى دەنگ"
 
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
@@ -610,7 +610,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
-msgstr ""
+msgstr "هەمووی دیاری بکە"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
@@ -632,7 +632,7 @@ msgstr ""
 
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
-msgstr ""
+msgstr "دەربارەى سکایپ"
 
 msgctxt "sF_OPTIONS_PAGE_KEYBOARD"
 msgid "Hotkeys"
@@ -1360,7 +1360,7 @@ msgstr "ناو"
 
 msgctxt "sACL_PUBLISHER"
 msgid "Publisher"
-msgstr ""
+msgstr " بڵاوکەر"
 
 msgctxt "sACL_ALLOW_ASK"
 msgid "Allow this program to use Skype, but ask again in the future."
@@ -1538,11 +1538,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_USERNAME"
 msgid "Username"
-msgstr ""
+msgstr "ناوی بەکارهێنەر"
 
 msgctxt "sF_OPTIONS_SOCKS_PASSWORD"
 msgid "Password"
-msgstr ""
+msgstr "تێپەڕەوشە"
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
@@ -1562,7 +1562,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_1"
 msgid "2 weeks"
-msgstr ""
+msgstr "١ حەفتە"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_2"
 msgid "1 month"
@@ -1598,7 +1598,7 @@ msgstr ""
 
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
-msgstr ""
+msgstr "ژمارەی مۆبایل"
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TEXT"
 msgid ""
@@ -1621,7 +1621,7 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_UNDO"
 msgid "Undo"
-msgstr ""
+msgstr "پووچکردنه‌وه‌"
 
 msgctxt "sF_MULTICHAT_EDIT_CUT"
 msgid "Cut"
@@ -1633,7 +1633,7 @@ msgstr "لەبەرگرتنەوە"
 
 msgctxt "sF_MULTICHAT_EDIT_PASTE"
 msgid "Paste"
-msgstr ""
+msgstr " لکاندن"
 
 msgctxt "sF_MULTICHAT_EDIT_DELETE"
 msgid "Delete"
@@ -1921,7 +1921,7 @@ msgstr "ناوى تەواو"
 
 msgctxt "sF_USERENTRY_PROFILE_COUNTRY"
 msgid "Country/Region"
-msgstr ""
+msgstr "وڵات/هەرێم"
 
 msgctxt "sF_USERENTRY_PROFILE_CITY"
 msgid "City"
@@ -2821,7 +2821,7 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10502"
 msgid "Service unavailable"
-msgstr ""
+msgstr "خزمەتگوزارى بەردەست نییە"
 
 msgctxt "sVIDEOMENU_START_SENDING"
 msgid "Turn Your Video On"
@@ -2837,7 +2837,7 @@ msgstr ""
 
 msgctxt "sVIDEOMENU_SETTINGS"
 msgid "Video Settings"
-msgstr ""
+msgstr "رێکخستنەکانى ڤیدیۆ"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT1"
 msgid "Ringtone (Classic)"
@@ -2893,7 +2893,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
-msgstr ""
+msgstr "رێکخستنەکانى کورتەنامە"
 
 msgctxt "sF_OPTIONS_LBC_SMS"
 msgid "<b>SMS settings:</b> Send text messages directly from Skype"
@@ -2909,11 +2909,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_SEND_CODE"
 msgid "Send"
-msgstr ""
+msgstr "بینێرە"
 
 msgctxt "sF_OPTIONS_BTN_SUBMIT_CODE"
 msgid "Submit"
-msgstr ""
+msgstr "ناردن"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB1"
 msgid "The verification code has been sent"
@@ -2949,7 +2949,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
-msgstr ""
+msgstr " زیاتر بزانە دەربارەی کورتەنامە"
 
 msgctxt "sF_PAYMENTS_CAPTION"
 msgid "Skype Credit"
@@ -2971,7 +2971,7 @@ msgstr ""
 
 msgctxt "sF_PAYMENTS_BTN_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "داخستن"
 
 msgctxt "sF_OPTIONS_SMS_HINT"
 msgid "Type in your mobile number"
@@ -2995,7 +2995,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FRM_CAPTION"
 msgid "Update"
-msgstr ""
+msgstr "نوێکردنەوە"
 
 msgctxt "sF_UPGRADE_FORCED_CAPTION"
 msgid "Skype update required."
@@ -3061,7 +3061,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "لابردن"
 
 msgctxt "sF_UPGRADE_BTN_DOWNLOAD"
 msgid "Download"
@@ -3069,11 +3069,11 @@ msgstr "داگرتن"
 
 msgctxt "sF_UPGRADE_BTN_HIDE"
 msgid "Hide"
-msgstr ""
+msgstr "شاردنەوە"
 
 msgctxt "sF_OPTIONS_PAGE_UPDATES"
 msgid "Advanced settings"
-msgstr ""
+msgstr "رێکخستنى پێشکەوتوو"
 
 msgctxt "sF_OPTIONS_LBC_UPDATES"
 msgid "<b>Advanced settings:</b> Skype updates and external programs"
@@ -3085,7 +3085,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "باشە"
 
 msgctxt "sF_UPGRADE_BTN_QUIT"
 msgid "Quit Skype"
@@ -3097,7 +3097,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FAILED_CAPTION"
 msgid "Problem during download"
-msgstr ""
+msgstr "کێشە لە ماوەى داگرتن"
 
 msgctxt "sF_UPGRADE_FAILED_TEXT1"
 msgid "Download of the Skype update failed."
@@ -3113,7 +3113,7 @@ msgstr ""
 
 msgctxt "sF_SEARCH_RESULTS"
 msgid "Search results"
-msgstr ""
+msgstr "ئەنجامەکانی گەڕان"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB10"
 msgid "You do not have enough Skype Credit to send a code"
@@ -3125,7 +3125,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_UPTODATE_CAPTION"
 msgid "Check for update"
-msgstr ""
+msgstr "بپشکنە بۆ نوێکردنەوە"
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING"
 msgid ""
@@ -3134,11 +3134,11 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_TITLE"
 msgid "Close conversation window"
-msgstr ""
+msgstr "داخستنى پەنجەرەى گفتوگۆ"
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_CAPTION"
 msgid "Close conversation window"
-msgstr ""
+msgstr "داخستنى پەنجەرەى گفتوگۆ"
 
 msgctxt "sFILETRANSFER_STATUS_NO_CAPABILITY"
 msgid "The other person is on a device that doesn't let them receive files."
@@ -3154,7 +3154,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_DELETE"
 msgid "Delete"
-msgstr ""
+msgstr "بسڕەوە"
 
 msgctxt "sF_CONFIRM_RESET"
 msgid "Reset"
@@ -3184,7 +3184,7 @@ msgstr ""
 
 msgctxt "sF_INPUT_FORM_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "پاشەکەوتکردن"
 
 msgctxt "sF_INPUT_FORM_NOTE"
 msgid "Enter phone number in %s (with area code)."
