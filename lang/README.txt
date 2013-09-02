@@ -98,9 +98,13 @@ Ligurian (Lìgure)
 Translator(s): Unknown
 Source: http://genoves.com.ar/Archivos%20y%20fotos/Ligurian%20%28Zeneize%29_%205.10.0.116_20120927_.lang
 
-Kurdish (Kurmanji and Sorani)
-Translator(s): Unknown
-Source: http://en.bernamegeh.net/2011/06/27/first-of-all-download-skype-kurdish-language-file-kurmanci-or-sorani-skyp-ji-bi-kurdi-ye/
+Kurdish (Kurmanji)
+Translator(s): Temur777, zinduwa
+Source: Transifex
+
+Kurdish - Soranî (کوردیی ناوەندی)
+Translator: ahmadsaber
+Source: Transifex
 
 Macedonian (Македонски јазик)
 Translator(s): Samarakov Gjorgji, Karakabakov Gjorge, Patirova Marijana, Stojilkov Kristijan and Todorovski Nikola
@@ -115,7 +119,7 @@ Translator(s): Unknown
 Source: http://student.dei.uc.pt/~crpires/skype/mwl.lang
 
 N'ko (ߒߞߏ)
-Translators: kairaba, Lasnei
+Translators: kairaba, Lasnei, kantesoufi, DOUMBOU
 Source: Transifex
 
 Nias (Li Niha)
