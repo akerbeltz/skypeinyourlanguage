@@ -1,14 +1,14 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# ahmadsaber <ahmad.24.8mile@hotmail.com>, 2013
+# Ahmad Saber <ahmad.24.8mile@hotmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-01 20:32+0000\n"
-"Last-Translator: ahmadsaber <ahmad.24.8mile@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-02 18:11+0000\n"
+"Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -450,7 +450,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_CANCEL"
 msgid "&Cancel"
-msgstr "لابردن"
+msgstr "&لابردن"
 
 msgctxt "sF_RENAMEUSER_OK"
 msgid "OK"
@@ -470,7 +470,7 @@ msgstr "زانیاری"
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
-msgstr ""
+msgstr "ئەم زانیارە پیشانمەدە دووبارە"
 
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
@@ -500,7 +500,7 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
 "The passwords don't match. Please re-enter your new password and "
 "confirmation again"
-msgstr ""
+msgstr "تێپەڕەوشەکان لەیەک ناچێت. تکایە تێپەڕەوشەیەکى نوێ تۆماربکە و پشتراستى بکەرەوە دووبارە"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
@@ -508,7 +508,7 @@ msgstr "گۆڕینى تێپەرەوشە"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid.  Please try again."
-msgstr "ئەو تێپەرەوشە کۆنەى کە تۆمارتکردوە دروست نیە. تکایە هەوڵ بدرەوە"
+msgstr "ئەو تێپەرەوشە کۆنەى کە تۆمارتکردوە دروست نیە. تکایە  دووبارە هەوڵبدەوە"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
@@ -518,11 +518,11 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT8"
 msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
-msgstr ""
+msgstr ".سەرکەوت! تێپەڕەوشەکەت گۆڕدرا. بۆ جارى داهاتوو تێپەڕەوشە نوێیەکەت بەکاربێنە بۆ چوونەژورەوە"
 
 msgctxt "sF_SEND_CONTACTS_TEXT1"
 msgid "Send contacts to other people on Skype"
-msgstr ""
+msgstr "پەیوەندکاران بنێرە بۆ خەڵکى تر لە سکایپ"
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -894,7 +894,7 @@ msgstr ""
 
 msgctxt "sINFORM_DND_TITLE"
 msgid "Warning"
-msgstr ""
+msgstr "ئاگاداری"
 
 msgctxt "sLANGUAGE_ERROR"
 msgid ""
@@ -1380,11 +1380,11 @@ msgstr ""
 
 msgctxt "sACL_ALLOWED"
 msgid "Allowed to use Skype"
-msgstr ""
+msgstr "ڕێپێدراوە بۆ بەکارهێنانى سکایپ"
 
 msgctxt "sACL_NOT_ALLOWED"
 msgid "Not allowed to use Skype"
-msgstr ""
+msgstr "ڕێپنێدراوە بۆ بەکارهێنانى سکایپ"
 
 msgctxt "sACL_CANCEL"
 msgid "Cancel"
@@ -1396,7 +1396,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFERSEND_CAPTION"
 msgid "Sending file"
-msgstr ""
+msgstr "ناردنى فایل"
 
 msgctxt "sFILETRANSFERSEND_LB_CAPTION"
 msgid "Select Skype contact"
@@ -1416,11 +1416,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_1"
 msgid "I do not answer within"
-msgstr ""
+msgstr "وەڵام نادەمەوە لەحاڵەتی"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_LB_1"
 msgid "seconds"
-msgstr ""
+msgstr "دووەمەکان"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_RECORDING_ERROR"
 msgid "Voice message recording error"
@@ -1454,7 +1454,7 @@ msgstr ""
 
 msgctxt "sF_BLOCK_BLOCKING_YOURSELF"
 msgid "Can't block yourself"
-msgstr ""
+msgstr "ناتوانى خۆت بلۆک بکەیت"
 
 msgctxt "sVM_GREETING_PLAYBACK"
 msgid "Playing voice message greeting"
@@ -1466,15 +1466,15 @@ msgstr ""
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this group?"
-msgstr ""
+msgstr "دڵنیایت ئەتەوێ ئەم گرووپە بەجێبهێلیت؟"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE_TITLE"
 msgid "Leave group"
-msgstr ""
+msgstr "بەجێ هێشتنى گرووپ "
 
 msgctxt "sCHAT_MEMBER_ADDED"
 msgid "%s added %s"
-msgstr ""
+msgstr "%s زیادکرا %s"
 
 msgctxt "sF_MULTICHAT_TOPIC_CHANGED"
 msgid "%s has changed the conversation topic to \"%s\""
@@ -1482,23 +1482,23 @@ msgstr ""
 
 msgctxt "sNUMBER_HIDDEN"
 msgid "Unknown phone number"
-msgstr ""
+msgstr " ژمارە تەلەفۆن نەناسراوە"
 
 msgctxt "sF_APIACL_CERTIFICATE"
 msgid "Certificate"
-msgstr ""
+msgstr "بڕوانامە"
 
 msgctxt "sACL_FAQ_LINK"
 msgid "What does this mean?"
-msgstr ""
+msgstr "ئەمە یانى چى؟"
 
 msgctxt "sF_MULTICHAT_SEND_FILE"
 msgid "Send file"
-msgstr ""
+msgstr "ناردنى فایل"
 
 msgctxt "sF_MULTICHAT_USERS_FEW"
 msgid "%s and %s"
-msgstr ""
+msgstr "%s و %s"
 
 msgctxt "sF_MULTICHAT_USERS_MANY"
 msgid "%d contacts"
@@ -1506,19 +1506,19 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_CAPTION"
 msgid "Send file to %s"
-msgstr ""
+msgstr "%s ناردنى فایل بۆ"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING"
 msgid "Are you sure you want to send file \"%s\" to %s?"
-msgstr ""
+msgstr " ؟\"%s\"بۆ %s دڵنیایت ئەتەوێ فایل بنێریت"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING2"
 msgid "Are you sure you want to send %d files to %s?"
-msgstr ""
+msgstr "؟%d فایلەکان بۆ %s دڵنیایت ئەتەوێ بنێریت"
 
 msgctxt "sF_MULTICHAT_SENDFILE_LIMIT_ERROR"
 msgid "You can't send files to more than %d people at once."
-msgstr ""
+msgstr "خەڵک بەیەکجار %d تۆ ناتوانى فایل بێریت بۆ زیاتر لە "
 
 msgctxt "sREDBUTTON_HINT_SEND_VOICEMAIL"
 msgid "Press here if you have finished your voice message."
@@ -1526,15 +1526,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_HANGUP"
 msgid "End Call with This Person"
-msgstr ""
+msgstr "تەلەفون بپچرینە لەگەل ئەم کەسە"
 
 msgctxt "sF_OPTIONS_SOCKS_HOST"
 msgid "Host"
-msgstr ""
+msgstr "خانەخوێ"
 
 msgctxt "sF_OPTIONS_SOCKS_PORT"
 msgid "Port"
-msgstr ""
+msgstr "دەرەچە"
 
 msgctxt "sF_OPTIONS_SOCKS_USERNAME"
 msgid "Username"
@@ -1546,19 +1546,19 @@ msgstr "تێپەڕەوشە"
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
-msgstr ""
+msgstr "چالاککردنى بریکارى باوەرپێکراو"
 
 msgctxt "sF_OPTIONS_SOCKS_AUTOMATIC"
 msgid "Automatic proxy detection"
-msgstr ""
+msgstr "دۆزینەوە بریکار خوکارانە"
 
 msgctxt "sF_OPTIONS_DELETE_HISTORY"
 msgid "Clear history"
-msgstr ""
+msgstr "سڕینەوەى مێژوو"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_0"
 msgid "no history"
-msgstr ""
+msgstr "مێژوو نیە"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_1"
 msgid "2 weeks"
@@ -1566,11 +1566,11 @@ msgstr "١ حەفتە"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_2"
 msgid "1 month"
-msgstr ""
+msgstr "١ مانگ"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_3"
 msgid "3 months"
-msgstr ""
+msgstr "٣ مانگ"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_4"
 msgid "forever"
@@ -1578,7 +1578,7 @@ msgstr "هەتاهەتایە"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
-msgstr ""
+msgstr "مێژوو بپارێزە بۆ"
 
 msgctxt "sF_MULTICHAT_NEW_TITLE"
 msgid "Start IM with group"
@@ -1586,7 +1586,7 @@ msgstr ""
 
 msgctxt "sF_STARTCHAT_TOPIC_LABEL"
 msgid "Conversation title/topic"
-msgstr ""
+msgstr "ناونیشانى گفتوگۆ/بابەت"
 
 msgctxt "sF_STARTCHAT_START_BUTTON"
 msgid "Create"
@@ -1609,15 +1609,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TITLE"
 msgid "Delete history?"
-msgstr ""
+msgstr " مێژوو دەسڕیتەوە؟"
 
 msgctxt "sSKYPE_LANG_FILES"
 msgid "Skype language files (*.lang)\\|*.LANG"
-msgstr ""
+msgstr " فایلى زمانى سکایپ (*.lang)\\|*.LANG"
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
-msgstr ""
+msgstr "بەشداری کردنى گفتوگۆ"
 
 msgctxt "sF_MULTICHAT_EDIT_UNDO"
 msgid "Undo"
@@ -1893,23 +1893,23 @@ msgstr ""
 
 msgctxt "sF_USERINFO_AGE_JUST_GOT"
 msgid "Just turned %s"
-msgstr ""
+msgstr " %s تەنها خولاوە"
 
 msgctxt "sF_USERINFO_AGE_ALMOST"
 msgid "Last days %s"
-msgstr ""
+msgstr "%s رۆژى رابردوو"
 
 msgctxt "sCONTACT_GROUP_RECENT"
 msgid "Recently contacted"
-msgstr ""
+msgstr "لەم دواییەدا پەیوەندی بەست"
 
 msgctxt "sF_OPTIONS_LINK_TEST_CALL"
 msgid "Make a free test call"
-msgstr ""
+msgstr "تەلەفون بە خۆراى تاقیبکەرەوە"
 
 msgctxt "sF_OPTIONS_LINK_AUDIO_HELP"
 msgid "Learn more about setting up your audio equipment"
-msgstr ""
+msgstr "زیاتر بزانە دەربارەى دامەزراندنى کەرەستەى دەنگ"
 
 msgctxt "sF_USERPROFILE_LB_ABOUT2"
 msgid "About me"
@@ -2346,7 +2346,7 @@ msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_TITLE"
 msgid "File can't be used"
-msgstr ""
+msgstr "فایل نەتوانرا بەکاربهێنرێت"
 
 msgctxt "sF_SOUNDS_MSG3_1"
 msgid "The file %s can't be used as a sound."
@@ -2354,21 +2354,21 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_MSG3_2"
 msgid "Please select a new file and try again."
-msgstr ""
+msgstr "تکایە فایلێکى نوێ دیاریبکە و هەوڵبدەوە"
 
 msgctxt "sF_SOUNDS_MSG3_TITLE"
 msgid "File can't be used"
-msgstr ""
+msgstr "فایل نەتوانرا بەکاربهێنرێت"
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT2"
 msgid "Enter Skype Name"
-msgstr ""
+msgstr "ناوەى سکایپەکەت تۆمارکە"
 
 msgctxt "sDATAPATH_REMOVED"
 msgid ""
 "The files that Skype needs to work can't be found. <br />Please check your "
 "network connections and try again later."
-msgstr ""
+msgstr ".تکایە تۆى پەیوەندیەکەت بپشکینە و دواتر هەوڵبدەوە <br /> .ئەو فایلەى سکایپ پێویستیەتى نەتوانرا بدۆزرێتەوە "
 
 msgctxt "sDATAPATH_REMOVED_TITLE"
 msgid "Skype can't continue running and will close"
@@ -2825,15 +2825,15 @@ msgstr "خزمەتگوزارى بەردەست نییە"
 
 msgctxt "sVIDEOMENU_START_SENDING"
 msgid "Turn Your Video On"
-msgstr ""
+msgstr "ڤیدیۆکەت هەڵکە"
 
 msgctxt "sVIDEOMENU_STOP_SENDING"
 msgid "Stop My Video"
-msgstr ""
+msgstr "ڤیدیۆکەم ڕابگرە"
 
 msgctxt "sVIDEOMENU_HIDE_MYSELF"
 msgid "Hide My Video Automatically"
-msgstr ""
+msgstr "ڤیدیۆکەم بشارەوە خؤکارانە"
 
 msgctxt "sVIDEOMENU_SETTINGS"
 msgid "Video Settings"
