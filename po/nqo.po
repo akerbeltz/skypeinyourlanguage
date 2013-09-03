@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-02 16:58+0000\n"
+"PO-Revision-Date: 2013-09-03 10:42+0000\n"
 "Last-Translator: kairaba <ckairaba@gmail.com>\n"
 "Language-Team: N'ko (http://www.transifex.com/projects/p/skype-translation-project/language/nqo/)\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgstr "ߞߟߌߟߌ ߟߊߜߎ߲߬ߝߎ߲߬"
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "ߘߍ߬ߡߍ߲߬ߠߌ"
+msgstr "&ߘߍ߬ߡߍ߲߬ߠߌ"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
@@ -85,7 +85,7 @@ msgstr "ߊ߬ ߕߐ߮ ߦߟߍ߬ߡߊ߲߬..."
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr "ߟߊ߬ߛߐ߬ߘߐ߲߬ߕߊ ߟߎ߫ ߖߐ߬ߛߌ߬"
+msgstr "ߊ߬ ߖߐ߬ߛߌ߫ ߟߊ߬ߛߐ߬ߘߐ߲߬ߕߊ ߟߎ߬ ߘߐ߫"
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
@@ -218,7 +218,7 @@ msgstr "ߕߐ߯ߡߎߣߎ߲  ߘߏ߫ ߟߊߘߊ߲߫"
 
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
-msgstr "ߕߐ߯ߡߎߣߎ߲ "
+msgstr "ߕߐ߯ߡߎߣߎ߲"
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
@@ -230,15 +230,15 @@ msgstr "ߕߊ߬ߡߌ߲߬ߞߊ߲ ߡߊߛߊ߬ߦߌ߬"
 
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
-msgstr "ߌ ߓߘߊ߫ ߢߌ߬ߣߊ߬ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߘߐ߫ ߢߍ"
+msgstr "ߌ ߓߘߊ߫ ߢߌ߬ߣߊ߬ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߘߐ߫ ߢߍ؟"
 
 msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
 msgid "Yes, send me Skype news and promotions"
-msgstr "ߐ߲߬ߤߐ߲߬߸ ߊߟߎ߫ ߦߋ߫ ߛߑߞߊߦߔ ߞߌ߬ߓߊ߬ߙߏ ߟߎ߬ ߟߊߣߊ߬ ߒ ߡߊ߬߸ ߊ߬ ߣߴߊ߬ ߟߊ߫ ߘߊߛߎ ߟߎ߬. "
+msgstr "ߐ߲߬ߤߐ߲߬߸ ߊߟߎ߫ ߦߋ߫ ߛߑߞߊߦߔ ߞߌ߬ߓߊ߬ߙߏ ߟߎ߬ ߟߊߣߊ߬ ߒ ߡߊ߬߸ ߊ߬ ߣߴߊ߬ ߟߊ߫ ߘߊߛߎ ߟߎ߬."
 
 msgctxt "sF_USERENTRY_SIGNIN"
 msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
-msgstr "ߛߑߞߊߦߔ ߞߏ߲ߘߏ ߘߏ߫ ߌ ߓߟߏ߫ ߞߊ߬ߞߘߐ߬ ߓߊ߬. <a href=\"x\">ߜߊ߲߬ߞߎ߲߬ߠߌ</a>"
+msgstr "ߛߑߞߊߦߔ ߞߏ߲ߘߏ ߘߏ߫ ߌ ߓߟߏ߫ ߞߊ߬ߞߘߐ߬ ߓߊ߬؟ <a href=\"x\">ߜߊ߲߬ߞߎ߲߬ߠߌ</a>"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2003-2013 Skype and/or Microsoft"
@@ -314,7 +314,7 @@ msgstr "ߕߐ߬ߝߍ߬ߦߊ ߟߎ߫ ߝߙߊ߬ ߌ ߟߊ߫ ߢߞߙߍ ߟߊ߫"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
-msgstr "ߞߟߌߟߌ ߟߎ߫ ߖߋ߬ߓߌ߬ ߊ߬ߟߎ߫ ߖߘߍ߬ ߢߍ߬"
+msgstr "ߞߟߌߟߌ ߟߎ߫ ߖߋ߬ߓߌ߬ ߊ߬ߟߎ߫ ߖߘߍ߬ ߡߊ߬"
 
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
@@ -365,14 +365,14 @@ msgid ""
 "Unauthorized reproduction or distribution of this program, or any portions "
 "of it, may result in severe civil and criminal penalties, and will be "
 "prosecuted to the maximum extent possible under the law."
-msgstr "ߢߍߥߟߊ ߣߌ߲߬ ߡߎ߰ߡߍ ߥߟߊ߫ ߝߊ߲߭ ߘߏ߫ ߓߎߦߟߌ ߣߴߊ߬ ߘߐߕߟߊߟߌ ߟߊߘߌ߬ߢߍ߬ߓߊߟߌ ߘߌ߫ ߛߋ߫ ߞߍ߫ ߟߊ߫ ߓߌ߲߬ߓߊ߬ߥߏ ߖߍ߬ߘߍߖߍ߬ߘߍ ߘߌ߫. ߊ߬ ߞߍߓߊ߮ ߟߎ߫ ߣߐ߬ߝߍ߬ߜߍ߲ ߠߊߘߌ߬ߢߍ߬ߣߍ߲߫ ߠߋ߬ ߞߎ߬ߙߎ߲߬ߘߎ ߓߟߏ߫."
+msgstr "ߢߍߥߟߊ ߣߌ߲߬ ߡߎ߰ߡߍ ߥߟߊ߫ ߝߊ߲߭ ߘߏ߫ ߓߊߓߌߟߊ ߣߴߊ߬ ߘߐߕߟߊߟߌ߫ ߟߊߘߌ߬ߢߍ߬ߓߊߟߌ ߘߌ߫ ߛߋ߫ ߞߍ߫ ߟߊ߫ ߓߌ߲߬ߓߊ߬ߥߏ ߖߍ߬ߘߍߖߍ߬ߘߍ ߘߌ߫. ߊ߬ ߞߍߓߊ߮ ߟߎ߫ ߣߐ߬ߝߍ߬ߜߍ߲ ߠߊߘߌ߬ߢߍ߬ߣߍ߲߫ ߠߋ߬ ߞߎ߬ߙߎ߲߬ߘߎ ߓߟߏ߫."
 
 msgctxt "sF_ABOUT_VERSION"
 msgid ""
 "Unauthorized reproduction or distribution of this program, or any portions "
 "of it, may result in severe civil and criminal penalties, and will be "
 "prosecuted to the maximum extent possible under the law."
-msgstr "ߢߍߥߟߊ ߣߌ߲߬ ߡߎ߰ߡߍ ߥߟߊ߫ ߝߊ߲߭ ߘߏ߫ ߓߎߦߟߌ ߣߴߊ߬ ߘߐߕߟߊߟߌ ߟߊߘߌ߬ߢߍ߬ߓߊߟߌ ߘߌ߫ ߛߋ߫ ߞߍ߫ ߟߊ߫ ߓߌ߲߬ߓߊ߬ߥߏ ߖߍ߬ߘߍߖߍ߬ߘߍ ߘߌ߫. ߊ߬ ߞߍߓߊ߮ ߟߎ߫ ߣߐ߬ߝߍ߬ߜߍ߲ ߠߊߘߌ߬ߢߍ߬ߣߍ߲߫ ߠߋ߬ ߞߎ߬ߙߎ߲߬ߘߎ ߓߟߏ߫."
+msgstr "ߢߍߥߟߊ ߣߌ߲߬ ߡߎ߰ߡߍ ߥߟߊ߫ ߝߊ߲߭ ߘߏ߫ ߓߊߓߌߟߊ ߣߴߊ߬ ߘߐߕߟߊߟߌ ߟߊߘߌ߬ߢߍ߬ߓߊߟߌ ߘߌ߫ ߛߋ߫ ߞߍ߫ ߟߊ߫ ߓߌ߲߬ߓߊ߬ߥߏ ߖߍ߬ߘߍߖߍ߬ߘߍ ߘߌ߫. ߊ߬ ߞߍߓߊ߮ ߟߎ߫ ߣߐ߬ߝߍ߬ߜߍ߲ ߠߊߘߌ߬ߢߍ߬ߣߍ߲߫ ߠߋ߬ ߞߎ߬ߙߎ߲߬ߘߎ ߓߟߏ߫."
 
 msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
@@ -392,7 +392,7 @@ msgstr "ߞߟߌߟߌ ߡߊߛߊ߬ߦߌ߬"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
-msgstr "ߦߴߊ߬ ߝߍ߬ ߞߊ߬ %s ߟߊ߫ ߞߟߌߟߌ ߟߊߡߌ߬ߣߊ߬ ߞߊ߬ %s ߓߌ߬ߟߊ߬ ߘߐ߬ߞߐ߬ߣߐ߲߬ߠߌ߲ ߠߊ߫ ߟߋ߬ ߓߊ߬."
+msgstr "ߦߴߊ߬ ߝߍ߬ ߞߊ߬ %s ߟߊ߫ ߞߟߌߟߌ ߟߊߡߌ߬ߣߊ߬ ߞߊ߬ %s ߓߌ߬ߟߊ߬ ߘߐ߬ߞߐ߬ߣߐ߲߬ߠߌ߲ ߠߊ߫ ߟߋ߬ ߓߊ߬؟"
 
 msgctxt "sF_CONFIRM_DEFAULT_CAPTION"
 msgid "Confirm"
@@ -404,7 +404,7 @@ msgstr "ߞߊ߬ߛߌ߬ߞߊ߲ ߠߎ߬"
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
-msgstr "ߊ߬ ߘߊߕߎ߲߫"
+msgstr "ߊ߬ ߘߊߕߎ߲߯"
 
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
@@ -816,7 +816,7 @@ msgstr "ߜߊ߲߬ߞߎ߲߬ߓߐ߬ߣߍ߲"
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr "ߞߟߌߟߌ ߓߍ߯ ߘߌߣߊ߬ ߓߊ߲߫. ߌ ߦߴߊ߬ ߝߍ߬ ߞߵߌ ߜߊ߲߬ߞߎ߬ߣߍ߲߬ߓߐ߫ ߟߋ߬ ߝߋߎ߫"
+msgstr "ߞߟߌߟߌ ߓߍ߯ ߘߌߣߊ߬ ߓߊ߲߫. ߌ ߦߴߊ߬ ߝߍ߬ ߞߵߌ ߜߊ߲߬ߞߎ߬ߣߍ߲߬ߓߐ߫ ߟߋ߬ ߝߋߎ߫؟"
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
@@ -1016,7 +1016,7 @@ msgstr "ߝߙߋߞߋ ߘߏ߫ ߦߋ߫ ߕߐ߰ߘߐ߬ ߟߊ߬ߞߎ߲߬ߘߎ߬ߟߊ߲ ߘߐ߫"
 
 msgctxt "sCALL_LB2_FAILED_SOUND_PLAYBACK_ERROR"
 msgid "Problem with playback device."
-msgstr "ߝߙߋߞߋ ߦߋ߫ ߕߐ߰ߘߐ߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌߟߊ߲ ߘߐ߫"
+msgstr "ߝߙߋߞߋ ߦߋ߫ ߕߐ߰ߘߐ߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌߟߊ߲ ߘߐ߫."
 
 msgctxt "sF_OPTIONS_TNTCB20"
 msgid "Automatically adjust microphone settings"
@@ -1035,7 +1035,7 @@ msgstr "ߞߣߐߟߊ ߝߌ߬ߟߌ߸ ߊ߬ ߡߊ߬ߛߊ߬ߦߌ߬ ߖߊ߰ߣߌ߲߬ (#%s)"
 
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
-msgstr "ߖߌ߰ߛߌ߬ ߕߍ߫ ߦߋ߲߬"
+msgstr "ߖߌ߰ߛߌ߬ ߕߍ߫ ߦߋ߲߬."
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
@@ -1043,7 +1043,7 @@ msgstr "ߥߊߦߌߞߊ߬߸ ߞߟߌߟߌ ߓߘߊ߫ ߗߌߙߏ߲߫ ߹ "
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
-msgstr "ߖߌ߰ߛߌ߬ ߕߍ߫ ߦߋ߲߬"
+msgstr "ߖߌ߰ߛߌ߬ ߕߍ߫ ߦߋ߲߬."
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
@@ -1125,7 +1125,7 @@ msgstr "ߝߐߖߌߦߊ ߟߎ߬ ߟߊߟߐ߲߫"
 
 msgctxt "sF_AVATAR_BROWSER_WRONG_FILE"
 msgid "The file you chose was invalid."
-msgstr "ߞߐߕߐ߯ߘߐ߫ ߛߎߥߊ߲ߘߌߣߍ߲ ߡߊ߫ ߓߍ߲߬"
+msgstr "ߞߐߕߐ߯ߘߐ߫ ߛߎߥߊ߲ߘߌߣߍ߲ ߡߊ߫ ߓߍ߲߬."
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT_TITLE"
 msgid "Remove picture?"
@@ -1186,7 +1186,7 @@ msgstr "ߌ ߟߊ߫ ߜߊ߲߬ߞߎ߲߬ߠߌ ߕߋߟߋ߲ߣߍ߲߫ ߕߍ߫ : ߞߐߕߐ߯ߘ�
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr "ߞߐߕߐ߯ߘߐ ߘߏ߫ ߟߊߕߊ߯..."
+msgstr "ߞߐߕߐ߯ߘߐ ߘߏ߫ ߟߊߕߊ߯"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1199,7 +1199,7 @@ msgid ""
 "Files can contain viruses. We strongly recommend you use anti-virus software"
 " to scan files you receive, even if you know the sender. Are you sure you "
 "want to accept this file?"
-msgstr "ߓߊ߰ߙߋ߲ ߠߎ߬ ߘߌ߫ ߛߋ߫ ߞߍ߫ ߟߊ߫ ߞߐߕߐ߯ߘߐ ߟߎ߬ ߘߐ߫. ߊ߲ ߧߴߌ ߟߊߟߌ߫ ߟߊ߫ ߓߊ߰ߙߋ߲߬ߞߟߊ ߘߏ߫ ߟߊߓߊ߯ߙߊ ߘߐ߫ ߞߊ߬ ߞߐߕߐ߯ߘߐ߫ ߟߊߛߣߍߣߍ߲ ߠߎ߬ ߛߍ߲߬ߛߍ߲߬߸ ߤߊߟߴߌ ߓߊ߫ ߊ߬ ߟߊߘߌߓߊ߮ ߟߐ߲߫. ߊߟߎ߫ ߞߏ߬ߣߌ߲߫ ߦߴߊ߬ ߝߍ߬ ߞߊ߬ ߛߐ߲߬ ߞߐߕߐ߯ߘߐ ߟߎ߬ ߟߊߛߣߍ߫ ߡߊ߬ ߢߐ߲߮ ߞߎ߲߬ ߢߍ."
+msgstr "ߓߊ߰ߙߋ߲ ߠߎ߬ ߘߌ߫ ߛߋ߫ ߞߍ߫ ߟߊ߫ ߞߐߕߐ߯ߘߐ ߟߎ߬ ߘߐ߫. ߊ߲ ߧߴߌ ߟߊߟߌ߫ ߟߊ߫ ߓߊ߰ߙߋ߲߬ߞߟߊ ߘߏ߫ ߟߊߓߊ߯ߙߊ ߘߐ߫ ߞߊ߬ ߞߐߕߐ߯ߘߐ߫ ߟߊߛߣߍߣߍ߲ ߠߎ߬ ߛߍ߲߬ߛߍ߲߬߸ ߤߊߟߴߌ ߓߴߊ߬ ߟߊߘߌߓߊ߮ ߟߐ߲߫. ߣߴߊߟߎ߫ ߞߏ߬ߣߌ߲߫ ߦߴߊ߬ ߝߍ߬ ߞߊ߬ ߛߐ߲߬ ߞߐߕߐ߯ߘߐ ߟߎ߬ ߟߊߛߣߍ߫ ߡߊ߬ ߢߐ߲߮ ߞߎ߲߬ ߏ߬ ߕߍ߫ ߕߣߊ߬ ߘߌ߫. ߏ߬ ߘߐ߫ ߦߴߊ߬ ߝߍ߬ ߞߊ߬ ߞߐߕߐ߯ߘߐ ߣߌ߲߬ ߠߊߡߌ߬ߣߊ߬ ߢߍ؟"
 
 msgctxt "sFILETRANSFER_VIRUS_TITLE"
 msgid "Accept file"
@@ -1247,11 +1247,11 @@ msgstr "ߜߊ߲߬ߞߎ߬ߠߌ߬ ߕߍ߫ ߓߍ߲߬"
 
 msgctxt "sPSTN_RES_10600"
 msgid "Network busy"
-msgstr "ߞߙߏ߬ߝߏ ߛߏ߰ߟߊ߬ߣߍ߲"
+msgstr "ߞߙߏ߬ߝߏ߫ ߛߏ߰ߟߊ߬ߣߍ߲"
 
 msgctxt "sPSTN_RES_10603"
 msgid "Number busy"
-msgstr "ߝߙߍߕߍ ߛߏ߰ߟߊ߬ߣߍ߲"
+msgstr "ߝߙߍߕߍ߫ ߛߏ߰ߟߊ߬ߣߍ߲"
 
 msgctxt "sPSTN_RES_10604"
 msgid "Invalid phone number"
@@ -1259,20 +1259,20 @@ msgstr "ߜߋߟߋ߲ߜߋߟߋ߲߫ ߝߙߍߕߍ ߟߊ߲߬ߓߋ߬ߓߊߟߌ"
 
 msgctxt "sPSTN_RES_10686"
 msgid "Network busy"
-msgstr "ߞߙߏ߬ߝߏ ߛߏ߰ߟߊ߬ߣߍ߲"
+msgstr "ߞߙߏ߬ߝߏ߫ ߛߏ߰ߟߊ߬ߣߍ߲"
 
 msgctxt "sINFORM_PASSWORD_OUTDATED_LOGOFF"
 msgid ""
 "You recently changed your password. Sign in with the new password to call a "
 "phone or mobile. This is a security measure to prevent your Skype account "
 "being abused."
-msgstr "ߌ ߟߊ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߦߟߍ߬ߡߊ߲߬ ߛߊ߲ ߠߋ߫ ߣߌ߲߬. ߌ ߞߊ߫ ߞߊ߲߫ ߞߵߌ ߜߊ߲߬ߞߎ߲߫ ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ ߟߋ߬ ߟߊ߫ ߣߴߌ ߘߴߌ ߜߊ߲߬ߞߎ߲߬ ߛߑߞߊߦߔ ߟߊ߫. ߏ߬ ߦߋ߫ ߟߊ߬ߞߊ߲߬ߘߟߌ ߢߊ ߘߏ߫ ߟߋ߬ ߘߌ߫ ߛߊ߫ ߌ ߟߊ߫ ߞߏ߲߬ߘߏ ߞߣߊ߫ ߕߣߐ߬ߓߐ߬ ߌ ߢߌ߬ߣߊ ߡߊ߬."
+msgstr "ߌ ߟߊ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߦߟߍ߬ߡߊ߲߬ ߛߊ߲ ߠߋ߫ ߣߌ߲߬. ߌ ߞߊ߫ ߞߊ߲߫ ߞߵߌ ߜߊ߲߬ߞߎ߲߫ ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ ߟߋ߬ ߟߊ߫ ߣߴߌ ߘߴߌ ߜߊ߲߬ߞߎ߲߬ ߛߑߞߊߦߔ ߟߊ߫. ߏ߬ ߦߋ߫ ߟߊ߬ߞߊ߲߬ߘߊ߬ߟߌ ߢߊ ߘߏ߫ ߟߋ߬ ߘߌ߫ ߛߊ߫ ߌ ߟߊ߫ ߞߏ߲߬ߘߏ ߞߣߊ߫ ߕߣߐ߬ߓߐ߬ ߌ ߢߌ߬ߣߊ ߡߊ߬."
 
 msgctxt "sINFORM_UIC_FAILED_LOGOFF"
 msgid ""
 "You've been signed out of Skype. This is because of a connection error, or "
 "you've changed your password on another computer. Please sign in again."
-msgstr "ߌ ߓߘߊ߫ ߜߊ߲߬ߞߎ߲߬ߓߐ߬ ߛߑߞߊߦߔ ߟߊ߫. ߥߟߊ߫ ߌ ߟߊ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߓߘߊ߫ ߦߟߍ߬ߡߊ߲߬ ߡߐ߰ ߜߘߍ ߓߟߏ߫ ߞߐߛߊ߲ ߢߌ߲߬ ߠߊ߫ ߦߙߐ߫ ߜߘߍ߫߸ ߥߟߊ߫ ߜߊ߲߬ߞߎ߲߬ߠߌ ߝߌ߬ߟߌ ߘߏ߫ ߟߋ߫ ߣߐ߬ ߘߌߞߍ߫. ߌ ߜߊ߲߬ߞߎ߲߬ ߌߞߐ߫ ߖߊ߰ߣߌ߲߬."
+msgstr "ߌ ߓߘߊ߫ ߜߊ߲߬ߞߎ߲߬ߓߐ߬ ߛߑߞߊߦߔ ߟߊ߫. ߥߟߊ߫ ߌ ߟߊ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߓߘߊ߫ ߦߟߍ߬ߡߊ߲߬ ߡߐ߰ ߜߘߍ߫ ߓߟߏ߫ ߞߐߛߊ߲ ߢߌ߲߬ ߠߊ߫ ߦߙߐ߫ ߜߘߍ߫߸ ߥߟߊ߫ ߜߊ߲߬ߞߎ߲߬ߠߌ ߝߌ߬ߟߌ ߘߏ߫ ߟߋ߫ ߣߐ߬ ߘߌߞߍ߫. ߌ ߜߊ߲߬ߞߎ߲߬ ߌߞߐ߫ ߖߊ߰ߣߌ߲߬."
 
 msgctxt "sINVALID_NUMBER_CAPTION"
 msgid "Invalid Skype Name or phone number"
@@ -1318,7 +1318,7 @@ msgctxt "sF_STARTCHAT_TEXT"
 msgid ""
 "Choose a contact or enter a phone number and click Select. Do this for "
 "everyone you want to join, then click Add."
-msgstr "ߟߊ߬ߛߐ߬ߘߐ߲߬ߕߊ ߟߎ߬ ߓߊߕߐߡߊ߲߫ ߥߟߊ߫ ߌ ߦߋ߫ ߌ ߘߌߦߊߣߊ߲߫ ߝߙߍߕߍ ߘߏ߫ ߟߊߘߏ߲߬ ߡߍ߲ ߝߙߊ߬ ߟߐ ߌ ߟߊ߫ ߓߊ߬ߙߏ ߟߊ߫ ߌ ߦߋ߫ ߓߊ߲߫ ߞߊ߬ ߊ߬ ߛߐ߲߬ߞߌ߲߬ ‹‹ߊ߬ ߝߙߊ߬›› ߞߊ߲߬."
+msgstr "ߟߊ߬ߛߐ߬ߘߐ߲߬ߕߊ ߟߎ߬ ߓߊߕߐߡߊ߲߫ ߥߟߊ߫ ߌ ߦߋ߫ ߌ ߘߌߦߊߣߊ߲߫ ߝߙߍߕߍ ߘߏ߫ ߟߊߘߏ߲߬ ߡߍ߲ ߝߙߊ߬ ߟߐ߮ ߌ ߟߊ߫ ߓߊ߬ߙߏ ߟߊ߫ ߌ ߦߋ߫ ߓߊ߲߫ ߞߵߊ߬ ߛߐ߲߬ߞߌ߲߬ ‹‹ߊ߬ ߝߙߊ߬›› ߞߊ߲߬."
 
 msgctxt "sF_STARTCHAT_INVITE_BUTTON"
 msgid "Add"
@@ -1350,7 +1350,7 @@ msgstr "ߛߎ߲ߝߘߍ߫ ߜߘߍ߫ ߦߋ߫ ߛߑߞߊߦߔ ߟߊߓߊ߯ߙߊ߫ ߞߏ ߘߐ߫
 
 msgctxt "sACL_CHANGED_PROGRAM"
 msgid "** WARNING!** A changed program is trying to access Skype."
-msgstr "‹‹ ߌ ߖߊ߲߬ߕߏ߬ ߹ ›› ߢߍߥߟߊ ߡߊߦߟߍ߬ߡߊ߲߬ߣߍ߲ ߘߏ߫ ߦߴߊ߬ ߝߍ߬ ߞߊ߬ ߛߑߞߊߦߔ ߡߊߛߐ߬ߛߐ߲߬ ߹"
+msgstr "‹‹ ߌ ߖߊ߲߬ߕߏ߬ ߹ ›› ߢߍߥߟߊ ߡߊߦߟߍ߬ߡߊ߲߬ߣߍ߲ ߘߏ߫ ߦߴߊ߬ ߝߍ߬ ߞߊ߬ ߛߑߞߊߦߔ ߡߊߛߐ߬ߛߐ߲߬."
 
 msgctxt "sACL_WHAT_TO_DO"
 msgid "What would you like to do?"
@@ -1374,7 +1374,7 @@ msgstr "ߛߐ߲߬ ߢߍߥߟߊ ߣߌ߲߬ ߦߋ߫ ߛߑߞߊߦߔ ߕߣߐ߬ߓߐ߬"
 
 msgctxt "sACL_FORBID"
 msgid "Do not allow this program to use Skype."
-msgstr "ߌ ߞߊ߫ ߛߐ߲߬ ߢߍߥߟߊ ߣߌ߲߬ ߦߋ߫ ߛߑߞߊߦߔ ߕߣߐ߬ߓߐ߬ ߝߋߎ߫"
+msgstr "ߌ ߞߊ߫ ߛߐ߲߬ ߢߍߥߟߊ ߣߌ߲߬ ߦߋ߫ ߛߑߞߊߦߔ ߕߣߐ߬ߓߐ߬ ߝߋߎ߫."
 
 msgctxt "sACL_MANAGE"
 msgid "Manage API Access Control"
@@ -1394,7 +1394,7 @@ msgstr "ߊ߬ ߘߐߛߊ߬"
 
 msgctxt "sMAINMENU_TOOLS_APIACL"
 msgid "Manage other programs' access to Skype"
-msgstr "ߢߍߥߟߊ ߘߐ ߟߎ߬ ߟߊ߫ ߛߑߞߊߦߔ ߟߊߛߐߘߐ߲߫ ߢߊ ߞߎ߲߬ߠߊߛߌ߰"
+msgstr "ߢߍߥߟߊ ߜߘߍ߫ ߟߎ߬ ߟߊ߫ ߛߑߞߊߦߔ ߟߊߛߐߘߐ߲߫ ߢߊ ߞߎ߲߬ߠߊߛߌ߰"
 
 msgctxt "sFILETRANSFERSEND_CAPTION"
 msgid "Sending file"
@@ -1418,7 +1418,7 @@ msgstr " ߞߐߕߐ߯ߘߐ (%s) ߟߊߕߊ߯ߓߊ߯ߕߐ߮ ߓߊߕߐߡߐ߲߫ ߏ߬ ߞߐ߫
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_1"
 msgid "I do not answer within"
-msgstr "ߒ ߕߍ߫ ߟߊ߬ߡߌ߬ߣߊ߬ߟߌ߬ ߞߍ߫ ߟߊ߫"
+msgstr "ߒ ߕߍ߫ ߟߊ߬ߡߌ߬ߣߊ߬ߟߌ߬ ߛߌ߫ ߞߍ߫ ߟߊ߫"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_LB_1"
 msgid "seconds"
@@ -1468,7 +1468,7 @@ msgstr "ߛߙߊ߬ߞߊ߲߬ߕߏ ߘߏ߫ ߟߊߕߊ߯"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this group?"
-msgstr "ߓߐ߫ ߟߐ߮ ߟߵߌ ߟߊ߫ ߓߊ߬ߙߏ ߘߐ߫ ߓߊ߬."
+msgstr "ߓߐ߫ ߟߐ߮ ߟߵߌ ߟߊ߫ ߓߊ߬ߙߏ ߘߐ߫ ߓߊ߬؟"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE_TITLE"
 msgid "Leave group"
@@ -1496,7 +1496,7 @@ msgstr "ߏ߬ ߞߘߐ ߦߋ߫ ߡߎ߲߬ ߘߌ߫؟"
 
 msgctxt "sF_MULTICHAT_SEND_FILE"
 msgid "Send file"
-msgstr "ߞߐߕߐ߯ߘߐ"
+msgstr "ߞߐߕߐ߯ߘߐ ߟߊߕߊ߯"
 
 msgctxt "sF_MULTICHAT_USERS_FEW"
 msgid "%s and %s"
@@ -1504,7 +1504,7 @@ msgstr "%s ߣߌ߫ %s"
 
 msgctxt "sF_MULTICHAT_USERS_MANY"
 msgid "%d contacts"
-msgstr "%d ߟߊ߬ߛߐ߬ߘߐ߲߬ߕߊ߬"
+msgstr "ߟߊ߬ߛߐ߬ߘߐ߲߬ߕߊ߬ %d"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_CAPTION"
 msgid "Send file to %s"
@@ -1580,7 +1580,7 @@ msgstr "ߞߎߘߊߦߌߡߊ"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
-msgstr "ߓߊ߬ߙߏ ߟߊ߫ ߞߊ߬ߞߘߐ"
+msgstr "ߞߊ߬ߞߘߐ ߟߊߡߊ߲߬ߘߌ"
 
 msgctxt "sF_MULTICHAT_NEW_TITLE"
 msgid "Start IM with group"
@@ -1959,7 +1959,7 @@ msgstr "%s ߟߊ߫ ߝߙߍߕߍ ߟߊߘߏ߲߬."
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT9"
 msgid "Choose another password."
-msgstr "ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ ߘߏ߫ ߛߎߥߊ߲ߘߌ߫"
+msgstr "ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ ߘߏ߫ ߛߎߥߊ߲ߘߌ߫."
 
 msgctxt "sFILETRANSFER_DISABLED"
 msgid ""
