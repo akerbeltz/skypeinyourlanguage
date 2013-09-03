@@ -83,6 +83,10 @@ Georgian (ქართული)
 Translator(s): Unknown
 Source: http://zazuka80.ucoz.com/load/1-5-2
 
+Hindi (हिन्दी)
+Translators: Chandan Kumar, Pradeep Jha
+Source: Transifex
+
 Icelandic (Íslenska)
 Translator: Grétar Orri Kristinson
 
