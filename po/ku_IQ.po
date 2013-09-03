@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-03 11:52+0000\n"
+"PO-Revision-Date: 2013-09-03 14:59+0000\n"
 "Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
@@ -952,7 +952,7 @@ msgstr ""
 
 msgctxt "sCONF_TOO_MUCH_PARTICIPANTS_TITLE"
 msgid "Error"
-msgstr "هەڵه"
+msgstr " هەڵە ڕوویدا"
 
 msgctxt "sCALL_LB2_BUSY"
 msgid "Busy"
@@ -2090,7 +2090,7 @@ msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_TITLE"
 msgid "File not installed"
-msgstr ""
+msgstr "فایل دانەمەزرێنراوە"
 
 msgctxt "sF_SOUNDS_BTN_ADD"
 msgid "Browse..."
@@ -2098,11 +2098,11 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_BTN_SET"
 msgid "OK"
-msgstr ""
+msgstr "باشە"
 
 msgctxt "sF_SOUNDS_BTN_CLOSE"
 msgid "Cancel"
-msgstr ""
+msgstr "لابردن"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT1"
 msgid "Skype ringtone (Modern)"
@@ -2675,7 +2675,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO1"
 msgid "no one"
-msgstr ""
+msgstr "هیچ کەس"
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO2"
 msgid "people in my Contact list only"
@@ -2683,7 +2683,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO3"
 msgid "anyone"
-msgstr ""
+msgstr "هەرکەسێک"
 
 msgctxt "sF_OPTIONS_RC_AD_VIDEO1"
 msgid "no one"
@@ -2708,7 +2708,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_REMOVE"
 msgid "Remove"
-msgstr ""
+msgstr "سڕینەوە"
 
 msgctxt "sAUDIO_PLAYBACK_ERROR_REMOVE"
 msgid "Remove this sound file from your sounds library?"
@@ -2736,7 +2736,7 @@ msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_CAP1"
 msgid "Password changed"
-msgstr ""
+msgstr "تێپەڕەوشە گۆڕدرا"
 
 msgctxt "sF_CHANGE_PASSWORD_CAP2"
 msgid "Incorrect password"
@@ -2768,7 +2768,7 @@ msgstr ""
 
 msgctxt "sREMOVE_CONTACTS_CAP"
 msgid "Remove contacts"
-msgstr ""
+msgstr "سڕینەوە پەیوەندیکاران"
 
 msgctxt "sUNSAFE_FILE"
 msgid ""
@@ -2786,7 +2786,7 @@ msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_4"
 msgid "Unknown error"
-msgstr ""
+msgstr "هەڵە نەزانراوە"
 
 msgctxt "sERROR_HINT_VIDEO_5"
 msgid "Video engine not initialized."
@@ -2983,11 +2983,11 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SEARCH"
 msgid "Search"
-msgstr ""
+msgstr "گەڕان"
 
 msgctxt "sF_TRANSLATE_SEARCH_AGAIN"
 msgid "Search again"
-msgstr ""
+msgstr "دووبارە بگەڕێ"
 
 msgctxt "sF_TRANSLATE_NOT_FOUND"
 msgid "Sorry, string not found."
@@ -3037,11 +3037,11 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_PAUSED"
 msgid "Download paused"
-msgstr ""
+msgstr "داگرتن وەستا"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_CAPTION"
 msgid "Downloading..."
-msgstr ""
+msgstr "...داگرتن"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TEXT"
 msgid "Please wait while an update for Skype is being downloaded."
@@ -3563,15 +3563,15 @@ msgstr ""
 
 msgctxt "sTIME_SMILEY"
 msgid "Time"
-msgstr ""
+msgstr "کات"
 
 msgctxt "sMUSIC_SMILEY"
 msgid "Music"
-msgstr ""
+msgstr "موسیک"
 
 msgctxt "sMOVIE_SMILEY"
 msgid "Movie"
-msgstr ""
+msgstr "فیلم"
 
 msgctxt "sPHONE_SMILEY"
 msgid "Phone"
@@ -3978,7 +3978,7 @@ msgstr ""
 
 msgctxt "sCHAT_MENU_REMOVE_MESSAGE"
 msgid "Remove Message"
-msgstr ""
+msgstr "سڕینەوە پەیام"
 
 msgctxt "sERROR_HINT_VIDEO_11"
 msgid "Cannot show video. The camera may be in use."
@@ -4144,7 +4144,7 @@ msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_DELETE"
 msgid "Delete"
-msgstr ""
+msgstr "بسڕەوە"
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TITLE"
 msgid "Image file corrupted"
@@ -4241,11 +4241,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VOLUME_LOW"
 msgid "Low"
-msgstr ""
+msgstr "نزم"
 
 msgctxt "sF_OPTIONS_VOLUME_HIGH"
 msgid "High"
-msgstr ""
+msgstr "بەرز"
 
 msgctxt "sF_OPTIONS_LINK_BUY_HEADSET"
 msgid "Buy a headset or Skype phone from the Skype shop"
@@ -4305,7 +4305,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CALLS"
 msgid "Calls"
-msgstr ""
+msgstr "تەلەفونەکان"
 
 msgctxt "sF_OPTIONS_LINK_BUY_WEBCAM"
 msgid "Buy a webcam from the Skype shop"
@@ -4497,7 +4497,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_MULTI_FAILED"
 msgid "Failed"
-msgstr ""
+msgstr "سه‌رنه‌که‌وتوو"
 
 msgctxt "sFILETRANSFER_FILE_COUNT"
 msgid "%d files"
@@ -4543,15 +4543,15 @@ msgstr ""
 
 msgctxt "sZAPCONTACT_HOME_PHONE"
 msgid "Home"
-msgstr ""
+msgstr "ماڵەوە"
 
 msgctxt "sZAPCONTACT_OFFICE_PHONE"
 msgid "Office"
-msgstr ""
+msgstr "نووسینگە"
 
 msgctxt "sZAPCONTACT_MOBILE_PHONE"
 msgid "Mobile"
-msgstr ""
+msgstr "مۆبایل"
 
 msgctxt "sZAPBUTTON_NONE"
 msgid "none"
@@ -4579,7 +4579,7 @@ msgstr "قەبووڵ کردن"
 
 msgctxt "sZAPBUTTON_ADD"
 msgid "Add people"
-msgstr ""
+msgstr "خەڵک زیادکە"
 
 msgctxt "sZAPBUTTON_ADD2"
 msgid "Add"
@@ -12234,7 +12234,7 @@ msgstr ""
 
 msgctxt "sMIC_WEBWINDOW_TITLE"
 msgid "Account"
-msgstr ""
+msgstr "هەژمار"
 
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
