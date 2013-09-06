@@ -44,6 +44,10 @@ Basque (Euskara)
 Translator(s): Unknown
 Source: http://librezale.org/pipermail/librezale/attachments/20080801/b9ecb6a7/attachment.obj
 
+Belarusian ((Беларуская)
+Translator:
+Source: ﻿https://github.com/SpadarShut
+
 Belarusian (Беларуская мова, тарашкевіца)
 Translator(s): Unknown
 Source: https://github.com/klyok/Skype.OmegaT/tree/master/Skype.OmegaT
