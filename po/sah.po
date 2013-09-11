@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-04 09:28+0000\n"
+"PO-Revision-Date: 2013-09-11 05:01+0000\n"
 "Last-Translator: Halan <halan@ya.ru>\n"
 "Language-Team: Sakha (Yakut) (http://www.transifex.com/projects/p/skype-translation-project/language/sah/)\n"
 "MIME-Version: 1.0\n"
@@ -1763,23 +1763,23 @@ msgstr "%s сөкүүндэ хаалла"
 
 msgctxt "sF_OPTIONS_VM_DOWNLOADING"
 msgid "Loading my voice message greeting"
-msgstr ""
+msgstr "Саҥаран эҕэрдэлээһиммин хачайдааһын"
 
 msgctxt "sF_OPTIONS_VM_SET"
 msgid "My voice message greeting"
-msgstr ""
+msgstr "Саҥаран эҕэрдэлээһиним"
 
 msgctxt "sF_OPTIONS_VM_PLAYING"
 msgid "Playing my voice message greeting"
-msgstr ""
+msgstr "Эҕэрдэбин саҥарт"
 
 msgctxt "sF_OPTIONS_VM_RECORDING"
 msgid "Recording my voice message greeting"
-msgstr ""
+msgstr "Саҥалаах эҕэрдэбин уһулуу"
 
 msgctxt "sF_OPTIONS_VM_UPLOADING"
 msgid "Saving my voice message greeting"
-msgstr ""
+msgstr "Саҥаран эҕэрдэлээһиммин бигэргэтии"
 
 msgctxt "sF_OPTIONS_SOUNDS_PLAY_HINT"
 msgid "Play:"
@@ -1795,19 +1795,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
-msgstr ""
+msgstr "Атын саҥалаах эҕэрдэни хаһан да көтүтүмэ"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO"
 msgid "You have to be online to listen your voice message greeting"
-msgstr ""
+msgstr "Истэргэ интэриниэккэ холбонуохтаах эбиккин"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO2"
 msgid "You have to be online to record your voice message greeting"
-msgstr ""
+msgstr "Суруйарга интэриниэккэ холбоммут буолуохтааххын"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO3"
 msgid "You have to be online to reset your voice message greeting"
-msgstr ""
+msgstr "Эҕэрдэҕин уларытарга интэриниэккэ киирбит буолуохтааххын"
 
 msgctxt "sF_OPTIONS_VM_DATETIME"
 msgid "Recorded:"
@@ -1815,11 +1815,11 @@ msgstr "Суруллубут:"
 
 msgctxt "sF_OPTIONS_VM_SET2"
 msgid "Default voice message greeting"
-msgstr ""
+msgstr "Саҥаран эҕэрдэлээһин, туспа этиллибэтэҕинэ"
 
 msgctxt "sF_OPTIONS_VM_PLAYING2"
 msgid "Playing default voice message greeting"
-msgstr ""
+msgstr "Анаан этиллибэтэҕинэ тыаһыыр эҕэрдэбин тыаһат"
 
 msgctxt "sMAINMENU_TOOLS_IMPORT_CONTACTS"
 msgid "Restore Contacts from File..."
@@ -9088,7 +9088,7 @@ msgstr "Куһаҕаннык көстөрүҥ төрүөтэ камераҕыт�
 
 msgctxt "sCQ_CAM_SEND_LOW_ON_CALL_TITLE"
 msgid "Your video quality is low"
-msgstr ""
+msgstr "Куһаҕаннык көстөр"
 
 msgctxt "sCQ_CAM_SEND_LOW_ON_CALL_DESC"
 msgid ""
