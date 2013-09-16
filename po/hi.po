@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-07 10:20+0000\n"
+"PO-Revision-Date: 2013-09-14 08:56+0000\n"
 "Last-Translator: Pradeep Jha <pj.pradeepjha@gmail.com>\n"
 "Language-Team: Hindi (http://www.transifex.com/projects/p/skype-translation-project/language/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -806,7 +806,7 @@ msgstr "PC के स्पीकर बजाएं "
 
 msgctxt "sBUDDYMENU_SPEEDDIAL"
 msgid "Set Speed Dial..."
-msgstr ""
+msgstr "स्पीड डायल तय करें "
 
 msgctxt "sTRAYHINT_PROFILE_NOT_LOGGED_IN"
 msgid "Not signed in"
@@ -826,7 +826,7 @@ msgstr " साइन इन "
 
 msgctxt "sBUDDYMENU_INVITE_CONFERENCE"
 msgid "Invite to group call"
-msgstr ""
+msgstr "सामूहिक कॉल में आमंत्रित करें "
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
@@ -900,7 +900,7 @@ msgctxt "sLANGUAGE_ERROR"
 msgid ""
 "Error %s|Skype can't load custom language file. Please make sure it is a "
 "valid Skype language file, and try again."
-msgstr ""
+msgstr "त्रुटी %s | स्काइप कस्टम भाषा फाइल लोड नहीं कर पा रहा है | कृपया निश्चित कर लें की यह एक वैद्ध स्काइप भाषा फाइल है एवं पुनः प्रयास करें  "
 
 msgctxt "sLANGUAGE_ERROR_TITLE"
 msgid "Error"
@@ -940,15 +940,15 @@ msgstr "सामूहिक कॉल ठुकराएं "
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_1"
 msgid "Answer group call from %s and put %s on hold?"
-msgstr ""
+msgstr "%s के सामूहिक कॉल का उत्तर दें  एवं %s  के कॉल को होल्ड पर रखें ? "
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_2"
 msgid "Answer call from %s and put group call with %s on hold?"
-msgstr ""
+msgstr "%s के कॉल का उत्तर दें  एवं %s  के सामूहिक कॉल को होल्ड पर रखें?"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_3"
 msgid "Answer group call from %s and put call with %s on hold?"
-msgstr ""
+msgstr "%s के सामूहिक कॉल का उत्तर दें एवं %s  के कॉल को होल्ड पर रखें ?"
 
 msgctxt "sCONF_TOO_MUCH_PARTICIPANTS_TITLE"
 msgid "Error"
@@ -968,7 +968,7 @@ msgstr "संपर्क चयन करें "
 
 msgctxt "sF_STARTCONF_SELECTED_CONTACTS_LABEL"
 msgid "Group call participants (max. %d)"
-msgstr ""
+msgstr "सामूहिक कॉल के सहभागी । (अधिकतम %d) "
 
 msgctxt "sF_STARTCONF_ADD_BUTTON"
 msgid "Select"
@@ -1006,7 +1006,7 @@ msgctxt "sF_USERENTRY_ERROR_TOO_MANY_ATTEMPTS"
 msgid ""
 "There were too many failed sign-in attempts, please wait 1 minute before you"
 " retry."
-msgstr ""
+msgstr "असफल साइन इन के प्रयासों की संख्या बहुत अधिक. पुनः प्रयास करने के लिए कृपया 1 मिनट की प्रतीक्षा करें "
 
 msgctxt "sCALL_LB2_FAILED_SOUND_RECORDING_ERROR"
 msgid "Problem with recording device."
@@ -1168,7 +1168,7 @@ msgstr "फाइल भेजना रोकें "
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
-msgstr ""
+msgstr "फाइल्स भेजने एवं प्राप्त करने के लिए इस व्यक्ति को संपर्क की तरह जोडें "
 
 msgctxt "sFILETRANSFER_HINT1_RELAYED"
 msgid "You have a relayed connection. This means that sending will be slow."
@@ -1209,7 +1209,7 @@ msgstr "इन फाइल(s) को मंज़ूर करें "
 
 msgctxt "sPSTN_RES_10403"
 msgid "You can't call this number on Skype right now."
-msgstr ""
+msgstr "आप स्काइप पर इस वक़्त इस नंबर पर कॉल नहीं कर सकते  "
 
 msgctxt "sPSTN_RES_10408"
 msgid "Could not connect."
@@ -1316,7 +1316,7 @@ msgctxt "sF_STARTCHAT_TEXT"
 msgid ""
 "Choose a contact or enter a phone number and click Select. Do this for "
 "everyone you want to join, then click Add."
-msgstr ""
+msgstr "कोई संपर्क चुने या फ़ोन नंबर प्रविष्ट करें एवं चयन करें पर क्लिक करें। जिन जिन को आप जोड़ना चाहते हैं सभी के लिए ऐसा करें फिर \"जोड़े\" बटन पर क्लिक करें "
 
 msgctxt "sF_STARTCHAT_INVITE_BUTTON"
 msgid "Add"
@@ -1412,7 +1412,7 @@ msgstr "रद्द करें "
 
 msgctxt "sFILETRANSFERSEND_LB_SELECT"
 msgid "Select who you want to send the file (%s) to and press Send."
-msgstr ""
+msgstr "चयन करें की आप किसे यह फाइल (%s) भेजना चाहते हैं एवं \"भेजें\" पर क्लिक करें "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_1"
 msgid "I do not answer within"
@@ -1424,33 +1424,33 @@ msgstr "सेकंड्स "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_RECORDING_ERROR"
 msgid "Voice message recording error"
-msgstr ""
+msgstr "मौखिक सन्देश रिकॉर्ड करने में त्रुटी "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_PLAYBACK_ERROR"
 msgid "Voice message playback error"
-msgstr ""
+msgstr "मौखिक सन्देश चलाने में त्रुटी "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_UPLOAD_ERROR"
 msgid "Voice message upload error"
-msgstr ""
+msgstr "मौखिक सन्देश अपलोड करने में त्रुटी "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CREATING_ERROR"
 msgid "Error creating voice message greeting"
-msgstr ""
+msgstr "मौखिक सन्देश अभिवादन बनाने में त्रुटी "
 
 msgctxt "sGREETING_DELETE_TEXT"
 msgid ""
 "Are you sure you want to reset your voice message greeting to the default "
 "message?"
-msgstr ""
+msgstr "क्या आप निश्चित तौर पर अपने मौखिक सन्देश अभिवादन को डिफ़ॉल्ट सन्देश रखना चाहते हैं "
 
 msgctxt "sGREETING_DELETE_TITLE"
 msgid "Reset voice message greeting"
-msgstr ""
+msgstr "मौखिक सन्देश अभिवादन को रिसेट करें "
 
 msgctxt "sGREETING_DELETE_CAP"
 msgid "Reset voice message greeting"
-msgstr ""
+msgstr "मौखिक सन्देश अभिवादन को रिसेट करें "
 
 msgctxt "sF_BLOCK_BLOCKING_YOURSELF"
 msgid "Can't block yourself"
@@ -1458,11 +1458,11 @@ msgstr "खुद को अवरुद्ध नहीं कर सकते 
 
 msgctxt "sVM_GREETING_PLAYBACK"
 msgid "Playing voice message greeting"
-msgstr ""
+msgstr "मौखिक सन्देश अभिवादन चला रहा है "
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr ""
+msgstr "मौखिक संदेश भेजें "
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this group?"
@@ -1510,19 +1510,19 @@ msgstr "%s ko फाइल भेजें"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING"
 msgid "Are you sure you want to send file \"%s\" to %s?"
-msgstr ""
+msgstr "क्या आप निःसंदेह यह फाइल %s, %s को भेजना चाहते हैं?"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING2"
 msgid "Are you sure you want to send %d files to %s?"
-msgstr ""
+msgstr "क्या आप निःसंदेह यह फाइल %d, %s को भेजना चाहते हैं?"
 
 msgctxt "sF_MULTICHAT_SENDFILE_LIMIT_ERROR"
 msgid "You can't send files to more than %d people at once."
-msgstr ""
+msgstr "आप %d से ज्यादा लोगों को एकसाथ फाइल नहीं भेज सकते "
 
 msgctxt "sREDBUTTON_HINT_SEND_VOICEMAIL"
 msgid "Press here if you have finished your voice message."
-msgstr ""
+msgstr "अगर आपने अपना मौखिक सन्देश समाप्त कर लिया है तो यहाँ दबाएँ "
 
 msgctxt "sBUDDYMENU_HANGUP"
 msgid "End Call with This Person"
@@ -1546,11 +1546,11 @@ msgstr "पासवर्ड "
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
-msgstr ""
+msgstr "प्रॉक्सी सत्यापन चालू करें "
 
 msgctxt "sF_OPTIONS_SOCKS_AUTOMATIC"
 msgid "Automatic proxy detection"
-msgstr ""
+msgstr "स्वतः प्रॉक्सी खोज "
 
 msgctxt "sF_OPTIONS_DELETE_HISTORY"
 msgid "Clear history"
@@ -1594,7 +1594,7 @@ msgstr "बनाएं "
 
 msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
-msgstr ""
+msgstr "चयन करें की कौन वार्तालाप जोड़ना चाहेंगे फिर \"बनाएं\" पर क्लिक करें "
 
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
@@ -1605,7 +1605,7 @@ msgid ""
 "All traces of previous conversations including Instant Messages, SMS, calls,"
 " voice messages and file transfers, will be deleted from your recorded "
 "history. (This will also close all open conversations)"
-msgstr ""
+msgstr "आपके पिछले वार्तालापों के सारे चिन्ह छनिक सन्देश, sms, कॉल्स, मौखिक कॉल एवं फाइल स्थान्तरण सहित आपके रिकार्डेड इतिहास से मिटा दिए जायेंगे। (ये आपके सारे चालू कॉल्स भी बंद कर देगा। )"
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TITLE"
 msgid "Delete history?"
@@ -1613,7 +1613,7 @@ msgstr "इतिहास मिटायें?"
 
 msgctxt "sSKYPE_LANG_FILES"
 msgid "Skype language files (*.lang)\\|*.LANG"
-msgstr ""
+msgstr "स्काइप भाषा फाइल  (*.lang)\\|*.LANG"
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
@@ -1681,7 +1681,7 @@ msgstr "मेरे विवरण के लिए अनुरोध कर�
 
 msgctxt "sF_OPTIONS_NOTIF_VOICEMAIL"
 msgid "leaves me a voice message"
-msgstr ""
+msgstr "मुझे मौखिक सन्देश भेजता है "
 
 msgctxt "sF_OPTIONS_NOTIF_SENDCONTACTS"
 msgid "sends me contacts"
@@ -1709,7 +1709,7 @@ msgstr "विंडोज ट्रे में सुचना दिखा�
 
 msgctxt "sF_OPTIONS_LB_CHAT"
 msgid "<b>IM settings:</b> Set up your IM options"
-msgstr ""
+msgstr " <b>छनिक सन्देश सेटिंग्स :</b> अपने छनिक सन्देश विकल्प तय करें "
 
 msgctxt "sF_OPTIONS_LINK_CONNECTION"
 msgid "Change your picture"
@@ -1717,11 +1717,11 @@ msgstr "अपनी चित्र बदलें "
 
 msgctxt "sF_OPTIONS_LINK_LEARN_MORE"
 msgid "Learn more about how Skype deals with proxies and firewalls"
-msgstr ""
+msgstr "स्काइप प्रॉक्सी एवं फ़ायरवॉल से कैसे बर्ताव करता है इस बारे में और जानें "
 
 msgctxt "sF_OPTIONS_LBC_CONNECTION"
 msgid "<b>Connection:</b> Set up how Skype connects to the internet"
-msgstr ""
+msgstr "<b>कनेक्शन: </b>तय करें की स्काइप इन्टरनेट से कैसे जुड़ेगा "
 
 msgctxt "sF_OPTIONS_LBC_DEVICES"
 msgid "Volume"
@@ -1734,7 +1734,7 @@ msgstr "सामान्य सेटिंग "
 msgctxt "sF_OPTIONS_LBC_HOTKEYS"
 msgid ""
 "<b>Hotkeys:</b> Set up keyboard shortcuts for frequently used functions"
-msgstr ""
+msgstr "<b>हॉट की :</b>  ज्यादा इस्तेमाल होने वाले कार्यों के लिए कीबोर्ड शॉर्टकट तय करें  "
 
 msgctxt "sF_OPTIONS_LBC_NOTIFICATIONS"
 msgid "Notification settings"
@@ -1746,7 +1746,7 @@ msgstr "अन्य चीजें जो आप कर सकते हैं
 
 msgctxt "sF_OPTIONS_LBC_PRIVACY"
 msgid "<b>Privacy settings:</b> Protect yourself from unwanted calls and IMs"
-msgstr ""
+msgstr "<b>गोपनीयता सेटिंग: </b>  खुद को अनचाहे IM एवं कॉल से बचाएँ "
 
 msgctxt "sF_OPTIONS_LBC_SOUNDS"
 msgid "Choose which sound to play"
@@ -1758,27 +1758,27 @@ msgstr "अवधी: %s sec"
 
 msgctxt "sF_OPTIONS_VM_REMAIN"
 msgid "%s seconds remaining"
-msgstr ""
+msgstr "%s सेकंड शेष "
 
 msgctxt "sF_OPTIONS_VM_DOWNLOADING"
 msgid "Loading my voice message greeting"
-msgstr ""
+msgstr "आपका मौखिक सन्देश अभिवादन लोड कर रहा है "
 
 msgctxt "sF_OPTIONS_VM_SET"
 msgid "My voice message greeting"
-msgstr ""
+msgstr "मेरा मौखिक सन्देश अभिवादन "
 
 msgctxt "sF_OPTIONS_VM_PLAYING"
 msgid "Playing my voice message greeting"
-msgstr ""
+msgstr "मेरा मौखिक सन्देश अभिवादन चला रहा है "
 
 msgctxt "sF_OPTIONS_VM_RECORDING"
 msgid "Recording my voice message greeting"
-msgstr ""
+msgstr "मेरा मौखिक सन्देश अभिवादन रिकॉर्ड कर रहा है "
 
 msgctxt "sF_OPTIONS_VM_UPLOADING"
 msgid "Saving my voice message greeting"
-msgstr ""
+msgstr "मेरा मौखिक सन्देश अभिवादन सहेज रहा है "
 
 msgctxt "sF_OPTIONS_SOUNDS_PLAY_HINT"
 msgid "Play:"
@@ -1794,19 +1794,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
-msgstr ""
+msgstr "मौखिक संदेशो के साथ अब कभी भी कोई कॉल मिस न करें "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO"
 msgid "You have to be online to listen your voice message greeting"
-msgstr ""
+msgstr "आपको अपना मौखिक सन्देश अभिवादन सुनने के लिए ऑनलाइन होने की आवश्यकता है "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO2"
 msgid "You have to be online to record your voice message greeting"
-msgstr ""
+msgstr "आपको अपना मौखिक सन्देश अभिवादन रिकॉर्ड करने के लिए ऑनलाइन होने की आवश्यकता है "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO3"
 msgid "You have to be online to reset your voice message greeting"
-msgstr ""
+msgstr "आपको अपना मौखिक सन्देश अभिवादन रिसेट करने के लिए ऑनलाइन होने की आवश्यकता है "
 
 msgctxt "sF_OPTIONS_VM_DATETIME"
 msgid "Recorded:"
@@ -1814,19 +1814,19 @@ msgstr "रिकार्डेड "
 
 msgctxt "sF_OPTIONS_VM_SET2"
 msgid "Default voice message greeting"
-msgstr ""
+msgstr "डिफ़ॉल्ट मौखिक सन्देश अभिवादन"
 
 msgctxt "sF_OPTIONS_VM_PLAYING2"
 msgid "Playing default voice message greeting"
-msgstr ""
+msgstr "डिफ़ॉल्ट मौखिक सन्देश अभिवादन चला रहा है "
 
 msgctxt "sMAINMENU_TOOLS_IMPORT_CONTACTS"
 msgid "Restore Contacts from File..."
-msgstr ""
+msgstr "फाइल से सारे संपर्क वापस लायें "
 
 msgctxt "sMAINMENU_TOOLS_EXPORT_CONTACTS"
 msgid "Back up Contacts to File..."
-msgstr ""
+msgstr "संपर्को को फाइल में बैक अप करें "
 
 msgctxt "sF_OPTIONS_RADIOGROUP3"
 msgid "Allow calls to my Skype number(s) from..."
@@ -2036,13 +2036,13 @@ msgstr "इस कॉल को इन्हें फॉरवर्ड कर�
 
 msgctxt "sF_OPTIONS_FORWARD_HINT5"
 msgid "Calls will be forwarded to all phone numbers at the same time"
-msgstr ""
+msgstr "कॉल सभी फ़ोन नंबरों पर एक साथ फॉरवर्ड कर दिया जायेगा "
 
 msgctxt "sERROR_HINT_9401"
 msgid ""
 "You need Skype Credit to call phones.<a href=\"skype:?payments#skypeout\"> "
 "Click here to get Skype Credit now</a>."
-msgstr ""
+msgstr "फ़ोन पर कॉल करने के लिए आपको स्काइप क्रेडिट की आवश्यकता है <a href=\"skype:?payments#skypeout\">  अभी स्काइप क्रेडिट पाने के लिए यहाँ क्लिक करें </a>"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_3"
 msgid "Receive unanswered calls as a voice message"
@@ -2050,7 +2050,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_VOICEMAIL"
 msgid "Voice messages"
-msgstr ""
+msgstr "मौखिक संदेश "
 
 msgctxt "sF_OPTIONS_SOUNDS_CONNECTING"
 msgid "connecting call"
@@ -2068,11 +2068,11 @@ msgstr "हम आपको इस संपर्क की जानकार�
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_1"
 msgid "This picture \"%s\" belongs to %s."
-msgstr ""
+msgstr "यह चित्र \"%s\" %s की है "
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_2"
 msgid "Please sign in as %s to select this picture."
-msgstr ""
+msgstr "इस चित्र को चुनने के लिए कृपया %s की तरह साइन इन करें "
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_TITLE"
 msgid "Picture belongs to another person"
@@ -2082,7 +2082,7 @@ msgctxt "sF_AVATAR_BROWSER_MSG2_1"
 msgid ""
 "Sorry, the file could not be installed. The file may not have downloaded "
 "properly or the file size is too large."
-msgstr ""
+msgstr "क्षमा । यह फाइल इनस्टॉल नहीं किया जा सका। फाइल शायद ठीक तरह से डाउनलोड नहीं हुआ या फिर अत्यधिक बड़ा है "
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_2"
 msgid "Please try downloading this file again."
@@ -2094,7 +2094,7 @@ msgstr "फाइल इनस्टॉल नहीं हो सका "
 
 msgctxt "sF_SOUNDS_BTN_ADD"
 msgid "Browse..."
-msgstr ""
+msgstr "ढूंढ़े..."
 
 msgctxt "sF_SOUNDS_BTN_SET"
 msgid "OK"
@@ -2148,7 +2148,7 @@ msgctxt "sF_SOUNDS_DELETE_PROMPT"
 msgid ""
 "Remove %s from your sound library? This file will also be deleted from My "
 "Skype Content folder."
-msgstr ""
+msgstr "%s को अपने आवाज़ लाइब्रेरी से हटायें? यह फाइल \"मेरी स्काइप सामग्री\" फोल्डर से भी हटा दी जाएगी "
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT_TITLE"
 msgid "Remove sound file?"
@@ -2206,13 +2206,13 @@ msgstr "कॉपी प्रोफाइल"
 
 msgctxt "sF_OPTIONS_PAGE_FORWARDINGANDVOICEMAIL"
 msgid "Call forwarding"
-msgstr ""
+msgstr "कॉल फॉरवार्डिंग "
 
 msgctxt "sF_OPTIONS_VOICEMAIL_ADVAMCED"
 msgid ""
 "Let Skype take a message if you're offline or away from your computer when "
 "someone calls."
-msgstr ""
+msgstr "अगर कोई आपको कॉल करता है जब आप ऑफलाइन हैं या कंप्यूटर से दूर हैं तो स्काइप को सन्देश ले लेने दें "
 
 msgctxt "sF_OPTIONS_LINK_CF_ADVANCED"
 msgid "Add more phone numbers"
@@ -2224,21 +2224,21 @@ msgstr "केवल एक फ़ोन नंबर "
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
-msgstr ""
+msgstr "मौखिक संदेश रिकॉर्ड करना प्रारंभ करें अगर ..."
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB3"
 msgid ""
 "Note: If call forwarding is on, calls will be sent first to the phone "
 "number(s) you entered"
-msgstr ""
+msgstr "नोट: अगर कॉल फॉरवार्डिंग की सुविधा चालू है तो कॉल्स पहले आपके द्वारा प्रविष्ट किये गए नंबर(s) पर भेजा जायेगा "
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB4"
 msgid "If there is no answer, calls will be recorded as a voice message"
-msgstr ""
+msgstr "अगर कोई उत्तर प्राप्त नहीं होता तो कॉल को मौखिक सन्देश की तरह रिकॉर्ड किया जायेगा "
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_REJECT"
 msgid "I reject an incoming call"
-msgstr ""
+msgstr "मैं इनकमिंग कॉल्स ठुकराता हूँ "
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_INCALL"
 msgid "I am already in a call"
@@ -2264,11 +2264,11 @@ msgctxt "sF_OPTIONS_SAVING_FAILED1"
 msgid ""
 "Sorry, you can only save settings when you're online. Please change your "
 "status and try again."
-msgstr ""
+msgstr "क्षमा। आप अपने सेटिंग तभी सहेज सकते हैं जब आप ऑनलाइन होंगे। अपनी स्थिति बदलें एवं पुनः प्रयास करें "
 
 msgctxt "sF_OPTIONS_SAVING_FAILED2"
 msgid "Settings not saved"
-msgstr ""
+msgstr "सेटिंग्स नहीं सहेजी गयी "
 
 msgctxt "sF_OPTIONS_CF_ERROR1"
 msgid "Phone number or Skype Name is invalid. Please check and try again."
@@ -2368,21 +2368,21 @@ msgctxt "sDATAPATH_REMOVED"
 msgid ""
 "The files that Skype needs to work can't be found. <br />Please check your "
 "network connections and try again later."
-msgstr ""
+msgstr "जिस फाइल पर स्काइप को काम करने की ज़रुरत है वह नहीं मिल रहा। <br />कृपया अपने नेटवर्क कनेक्शन की जांच करें एवं पुनः प्रयास करें "
 
 msgctxt "sDATAPATH_REMOVED_TITLE"
 msgid "Skype can't continue running and will close"
-msgstr ""
+msgstr "स्काइप अब चालू नहीं रह सकता अतः बंद हो रहा है "
 
 msgctxt "sDATAPATH_MISSING"
 msgid ""
 "The files that Skype needs to work can't be found. <br /> Please download "
 "and reinstall Skype to fix this problem."
-msgstr ""
+msgstr "जिस फाइल पर स्काइप को काम करने की ज़रुरत है वह नहीं मिल रहा। <br />इस समस्या के समाधान के लिए कृपया स्काइप डाउनलोड कर के पुनः इनस्टॉल करें "
 
 msgctxt "sDATAPATH_MISSING_TITLE"
 msgid "Skype can't continue running and will close"
-msgstr ""
+msgstr "स्काइप अब चालू नहीं रह सकता अतः बंद हो रहा है "
 
 msgctxt "sDATAPATH_MISSING_CAPTION"
 msgid "Information"
@@ -2397,7 +2397,7 @@ msgctxt "sF_OPTIONS_FORWARD_HINT10"
 msgid ""
 "If you want to change your call forwarding settings, click Reset and enter "
 "them here"
-msgstr ""
+msgstr "अगर आप अपने कॉल फॉरवार्डिंग की सेटिंग्स बदलना चाहते हैं तो तो रिसेट पर क्लिक करें और फिर उन्हें यहाँ प्रविष्ट करें "
 
 msgctxt "sF_OPTIONS_BTN_RESET"
 msgid "Reset to default"
@@ -2417,7 +2417,7 @@ msgstr "मैं कॉल करूँ तो विडियो स्वत�
 
 msgctxt "sF_OPTIONS_LBC_VIDEO"
 msgid "<b>Video settings:</b> Set up your webcam"
-msgstr ""
+msgstr "<b>विडियो सेटिंग: </b> अपना वेबकैम तय करें "
 
 msgctxt "sCONTACT_GROUP_UNKNOWN"
 msgid "Requests to new contacts"
@@ -2443,7 +2443,7 @@ msgctxt "sACL_REMOVABLE_WARNING"
 msgid ""
 "You are running Skype from a USB flash drive. Any data stored by %s may not "
 "be available on other computers where this devices is used."
-msgstr ""
+msgstr "आप स्काइप एक usb फ़्लैश ड्राइव से चला रहे हैं। %s  द्वारा सहेजा गया कोई भी डाटा उन सभी अन्य कंप्यूटर जिसपर यह यन्त्र इस्तेमाल होता है में मौजूद नहीं हो सकता है "
 
 msgctxt "sF_AUTH_BTN_BLOCK"
 msgid "Block"
@@ -2455,11 +2455,11 @@ msgstr "नमस्ते ! मुझे अपने संपर्क मे
 
 msgctxt "sMOODMESSAGE_HINT"
 msgid "Enter mood message"
-msgstr ""
+msgstr "अपना मिजाज़ सन्देश प्रविष्ट करें "
 
 msgctxt "sSTATUS_OFFLINE_VM"
 msgid "Offline with voice messaging"
-msgstr ""
+msgstr "मौखिक संदेशों में साथ ऑफलाइन "
 
 msgctxt "sSTATUS_OFFLINE_CF"
 msgid "Offline with call forwarding"
@@ -2467,7 +2467,7 @@ msgstr "कॉल फॉरवार्डिंग के साथ ऑफल�
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_SHORT"
 msgid "Credit expires %s <a href=\"skype:?dialpad\"> Make a call</a>."
-msgstr ""
+msgstr "%s को आपका क्रेडिट समाप्त होगा <a href=\"skype:?dialpad\">  कॉल करें </a>."
 
 msgctxt "sF_USERENTRY_LINK_REGISTER"
 msgid "Don't have a Skype Name?"
@@ -2475,19 +2475,19 @@ msgstr "स्काइप नाम नहीं है?"
 
 msgctxt "sF_USERENTRY_LOGGING_HELP"
 msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#help.password.faq1\"> सहायता लें </a> "
 
 msgctxt "sMAINMENU_CONTACTS_IMPORT"
 msgid "Import Contacts..."
-msgstr ""
+msgstr "संपर्क आयात करें..."
 
 msgctxt "sMAINMENU_TOOLS_TRANSLATE"
 msgid "Edit Skype Language File..."
-msgstr ""
+msgstr "स्काइप भाषा फाइल संपादित करें "
 
 msgctxt "sF_USERENTRY_ERROR_1101"
 msgid "Skype can't connect."
-msgstr ""
+msgstr "स्काइप जुड़ नहीं सकता "
 
 msgctxt "sF_USERENTRY_ERROR_1104"
 msgid ""
@@ -2507,7 +2507,7 @@ msgctxt "sF_USERENTRY_LB_EXPLAIN"
 msgid ""
 "Sorry - the Skype Name you've entered is already taken. Enter a new Skype "
 "Name or choose one of these suggestions:"
-msgstr ""
+msgstr "क्षमा। आपने जो सस्काइप नाम डाला है वो पहले से किसी नें ले रखा है। कोई नया स्काइप नाम प्रविष्ट करें या इनमें से कोई राय चुनें "
 
 msgctxt "sF_OPTIONS_CB_WEBPRESENCE"
 msgid "Allow my online status to be shown on the web"
@@ -2539,7 +2539,7 @@ msgstr "और भी रिंगटोन एवं कस्टम आवा�
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT10"
 msgid "Skype knocking sound"
-msgstr ""
+msgstr "स्काइप खटखटाने की आवाज़ "
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT11"
 msgid "Skype call error1"
@@ -2559,7 +2559,7 @@ msgstr "स्काइप इनकमिंग संपर्क"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT15"
 msgid "Skype incoming voice message"
-msgstr ""
+msgstr "स्काइप इनकमिंग मौखिक संदेश "
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT16"
 msgid "Skype incoming file"
@@ -2587,7 +2587,7 @@ msgstr "स्काइप सन्देश भेजे गए "
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT22"
 msgid "Skype voice message sent"
-msgstr ""
+msgstr "स्काइप मौखिक सन्देश भेजा गया "
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT23"
 msgid "Skype file sending complete"
@@ -2627,7 +2627,7 @@ msgstr "इनकमिंग संपर्क"
 
 msgctxt "sF_OPTIONS_SOUNDS_VOICEMAIL"
 msgid "incoming voice message"
-msgstr ""
+msgstr "इनकमिंग मौखिक संदेश "
 
 msgctxt "sF_OPTIONS_SOUNDS_FILE"
 msgid "incoming file"
@@ -2655,7 +2655,7 @@ msgstr "मैं सन्देश भेजता हूँ "
 
 msgctxt "sF_OPTIONS_SOUNDS_SEND_VM"
 msgid "I send a voice message"
-msgstr ""
+msgstr "मैं एक मौखिक सन्देश भेजता हूँ "
 
 msgctxt "sF_OPTIONS_SOUNDS_FT_COMPLETED"
 msgid "file has been sent"
@@ -2667,11 +2667,11 @@ msgstr "फाइल भेजना असफल"
 
 msgctxt "sF_OPTIONS_SOUNDS_USER_ADDED"
 msgid "person was added to the group call"
-msgstr ""
+msgstr "व्यक्ति को सामूहिक कॉल में जोड़ा गया "
 
 msgctxt "sF_OPTIONS_SOUNDS_USER_LEFT"
 msgid "person left the group call"
-msgstr ""
+msgstr "व्यक्ति ने सामूहिक कॉल छोरा "
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO1"
 msgid "no one"
@@ -2774,7 +2774,7 @@ msgctxt "sUNSAFE_FILE"
 msgid ""
 "%s is an executable file. It may contain viruses or code that could harm "
 "your computer.<br /><br />Are you sure you want to open it?"
-msgstr ""
+msgstr "%s एक एग्ज़िक्यूटेबल फाइल है। इसमें वायरस या कोई ऐसा कोड हो सकता है जो आपके कंप्यूटर को नुक्सान पहुचाये। आप निश्चित तौर पर इसे खोलना चाहते हैं?"
 
 msgctxt "sUNSAFE_FILE_TITLE"
 msgid "File warning"
@@ -3220,19 +3220,19 @@ msgstr "फ़ोन नंबर सम्पादित करें "
 
 msgctxt "sBUDDYMENU_EDIT"
 msgid "Edit Contact..."
-msgstr ""
+msgstr "संपर्क सम्पादित करें ..."
 
 msgctxt "sEDIT_MY_PROFILE"
 msgid "Edit Your Profile..."
-msgstr ""
+msgstr "प्रोफाइल सम्पादित करें..."
 
 msgctxt "sCHANGE_MY_PICTURE"
 msgid "Change Your Picture..."
-msgstr ""
+msgstr "अपनी चित्र बदलें ..."
 
 msgctxt "sCHANGE_SOUNDS"
 msgid "Change Sounds..."
-msgstr ""
+msgstr "आवाजें बदलें ..."
 
 msgctxt "sF_USERENTRY_LB_EULA3"
 msgid ""
@@ -4369,7 +4369,7 @@ msgstr "कॉल फॉरवर्ड करने के विकल्प "
 
 msgctxt "sF_OPTIONS_ABOUT_VOICEMAIL"
 msgid "Learn more about voice messages"
-msgstr ""
+msgstr "मौखिक संदेशों के बारे में और जानें "
 
 msgctxt "sF_OPTIONS_CALL_FORWARDING"
 msgid ""
@@ -4509,11 +4509,11 @@ msgstr "कॉल फॉरवर्ड करने के विकल्प "
 
 msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS2"
 msgid "Set up Call Forwarding..."
-msgstr ""
+msgstr "कॉल फॉरवार्डिंग सेट करें ..."
 
 msgctxt "sREDBUTTON_HINT_CANCEL_VOICEMAIL"
 msgid "Cancel voice message"
-msgstr ""
+msgstr "मौखिक संदेश रद्द करें "
 
 msgctxt "sTEXT_ILLFORMED_XML"
 msgid "The language string %s is invalid. Cannot load the language file."
@@ -4615,7 +4615,7 @@ msgstr "नंबर को संपर्क में सहेजें "
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
-msgstr ""
+msgstr "सामूहिक कॉल में जोडें  "
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
@@ -4871,7 +4871,7 @@ msgstr "रद्द करें "
 
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
-msgstr ""
+msgstr "फ़ोन नंबर जोडें "
 
 msgctxt "sZAPBUTTON_SUBMITPASSWORD"
 msgid "Submit"
@@ -4879,7 +4879,7 @@ msgstr "जमा करें "
 
 msgctxt "sZAPBUTTON_CANCELVOICEMAIL"
 msgid "Cancel voice message"
-msgstr ""
+msgstr "मौखिक संदेश रद्द करें "
 
 msgctxt "sZAPBUTTON_CHAT"
 msgid "Send message"
@@ -4891,7 +4891,7 @@ msgstr "दर "
 
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
-msgstr ""
+msgstr "देश/छेत्र बदलें "
 
 msgctxt "sZAPBUTTON_CLEAR"
 msgid "Clear"
@@ -5087,7 +5087,7 @@ msgstr "दोबारा न दिखाएं "
 
 msgctxt "sZAPBUTTON_REPLY"
 msgid "Reply"
-msgstr ""
+msgstr "उत्तर दें "
 
 msgctxt "sZAPBUTTON_DIALADRECENT"
 msgid "Recent numbers"
@@ -5099,7 +5099,7 @@ msgstr "डायल पैड दिखाएं "
 
 msgctxt "sZAPBUTTON_COUNTRYSELECTOR"
 msgid "Choose country/region"
-msgstr ""
+msgstr "देश/छेत्र  चुनें "
 
 msgctxt "sZAPBUTTON_HIDE"
 msgid "Hide"
@@ -5127,7 +5127,7 @@ msgstr "पॉप आउट मोड से बहार निकलें "
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "Help"
-msgstr ""
+msgstr "सहायता "
 
 msgctxt "sZAPBUTTON_FILETRANSFER"
 msgid "File Transfer"
@@ -5207,7 +5207,7 @@ msgstr "<ks>P</ks>revious"
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "My account"
-msgstr ""
+msgstr "मेरा अकाउंट "
 
 msgctxt "sZAPBUTTON_FORWARD"
 msgid "Forward"
@@ -5339,7 +5339,7 @@ msgstr "कॉल समाप्त करें "
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr ""
+msgstr "कॉल "
 
 msgctxt "sZAPBUTTON_INSTANTMESSAGE"
 msgid "Instant Message"
@@ -5367,15 +5367,15 @@ msgstr "घर"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
-msgstr ""
+msgstr "स्काइप घर, नए अपडेट "
 
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
 msgid "Add to contacts"
-msgstr ""
+msgstr "संपर्कों में जोडें "
 
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
-msgstr ""
+msgstr "सहायता "
 
 msgctxt "sZAPBUTTON_INFOALT"
 msgid "Info"
@@ -5479,7 +5479,7 @@ msgstr "से "
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr ""
+msgstr "स्काइप द्वारा "
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5695,7 +5695,7 @@ msgstr "चला रहा है "
 
 msgctxt "sZAPBUTTON_RECORDVOICEMAIL"
 msgid "Re-record voice message"
-msgstr ""
+msgstr "आवाज़ संदेश पुनः रिकॉर्ड करें "
 
 msgctxt "sZAPBUTTON_STOPVOICEMAIL"
 msgid "Stop recording"
@@ -5799,7 +5799,7 @@ msgstr "फाइल भेजें"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "संपर्क भेजे  "
 
 msgctxt "sZAPBUTTON_SENDMESSAGE"
 msgid "Send message"
@@ -6315,15 +6315,15 @@ msgstr "विडियो कॉल "
 
 msgctxt "sZAPBUTTON_RERECORDVIDM"
 msgid "Re-record message"
-msgstr ""
+msgstr "संदेश पुनः रिकॉर्ड करें "
 
 msgctxt "sZAPBUTTON_CANCELVIDM"
 msgid "Cancel message"
-msgstr ""
+msgstr " संदेश रद्द करें "
 
 msgctxt "sZAPBUTTON_NOVIDM"
 msgid "No, thanks"
-msgstr ""
+msgstr "नहीं, धन्यवाद "
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -6906,7 +6906,7 @@ msgstr "क्षणिक संदेश (IM)"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VIDEOMESSAGE"
 msgid "Video Message"
-msgstr ""
+msgstr "विडियो संदेश "
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
@@ -7443,7 +7443,7 @@ msgstr "इस संपर्क के लिए नाम प्रविष�
 
 msgctxt "sF_COM_CAPTION"
 msgid "Application access"
-msgstr ""
+msgstr "एप्लीकेशन एक्सेस "
 
 msgctxt "sF_COM_MULTIPLE"
 msgid "%s messages"
@@ -7727,19 +7727,19 @@ msgstr "समूह को कॉल करें "
 
 msgctxt "sCALL_HOME"
 msgid "Call home"
-msgstr ""
+msgstr "घर पर कॉल करें "
 
 msgctxt "sCALL_MOBILE"
 msgid "Call mobile"
-msgstr ""
+msgstr "मोबाइल पर कॉल करें "
 
 msgctxt "sCALL_OFFICE"
 msgid "Call office"
-msgstr ""
+msgstr "ऑफिस में फ़ोन करें "
 
 msgctxt "sCALL_PHONE"
 msgid "Call phone"
-msgstr ""
+msgstr "फ़ोन पर कॉल करें "
 
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
 msgid "Add phone number..."
@@ -7960,11 +7960,11 @@ msgstr "Ctrl+V दबाने से ..."
 
 msgctxt "sPASTE_AS_QUOTE"
 msgid "quote copied message"
-msgstr ""
+msgstr "कॉपी की गयी सन्देश को कोट्स में डालें "
 
 msgctxt "sPASTE_AS_QUOTE_NOT"
 msgid "paste message as plain text"
-msgstr ""
+msgstr "सदेश को सामान्य अक्षरों की तरह चिपकाएं "
 
 msgctxt "sHISTORY_FILTER_EMPTY"
 msgid "No events matching \"%s\""
@@ -8052,11 +8052,11 @@ msgstr "%s को कॉल, कोई जवाब नहीं "
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
-msgstr ""
+msgstr "मिस्ड सामूहिक कॉल "
 
 msgctxt "sGROUP_CALL_UNANSWERED_OUT"
 msgid "Group call, no answer."
-msgstr ""
+msgstr "सामूहिक कॉल, कोई जवाब नहीं  "
 
 msgctxt "sF_OPTIONS_CF_ERROR5"
 msgid ""
@@ -8257,7 +8257,7 @@ msgstr "कोई स्पीकर नहीं पाया गया "
 
 msgctxt "sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3"
 msgid "Automatically receive video and share screens with..."
-msgstr ""
+msgstr "के साथ स्वतः विडियो एवं स्क्रीन साझा प्राप्त करें "
 
 msgctxt "sVIDEO_BTN_SHOW_HERE"
 msgid "Show here"
@@ -8321,11 +8321,11 @@ msgstr "फॉरवर्ड कर रहा है "
 
 msgctxt "sPARTICIPANT_CALL_STATE_VMPLAYING"
 msgid "Playing voice message"
-msgstr ""
+msgstr "मौखिक सन्देश चला रहा है  "
 
 msgctxt "sPARTICIPANT_CALL_STATE_VMRECORDED"
 msgid "Recording voice message"
-msgstr ""
+msgstr "मौखिक संदेश रिकॉर्ड कर रहा है  "
 
 msgctxt "sHOTKEY_ANSWER_WITH_VIDEO"
 msgid "Answer call with video"
@@ -8404,7 +8404,7 @@ msgstr "धड़कन (स्काइप स्थिति)"
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr ""
+msgstr "emoticon डालें  "
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8448,7 +8448,7 @@ msgstr "वार्तालाप समाप्त करें "
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई "
 
 msgctxt "sF_OPTIONS_LBC_SKYACCESS"
 msgid "<b>Skype WiFi:</b> Use Skype Credit to pay for internet access"
@@ -8456,7 +8456,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SKYACCESS_ENABLE"
 msgid "Enable Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई चालू करें "
 
 msgctxt "sSKYACCESS_TRAY_SESSIONEXPIRE"
 msgid ""
@@ -8469,7 +8469,7 @@ msgstr "सत्र विस्तार करें "
 
 msgctxt "sSKYACCESS_TRAYMENU_STATUS"
 msgid "View Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई देखें "
 
 msgctxt "sSKYACCESS_TRAYMENU_CONNECT"
 msgid "Connect"
@@ -8481,15 +8481,15 @@ msgstr "संपर्क तोड़े "
 
 msgctxt "sSKYACCESS_TRAYMENU_QUIT"
 msgid "Quit Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई "
 
 msgctxt "sSKYACCESS_WARN_QUIT_SKYPE"
 msgid "Quitting Skype will end your Skype WiFi session. Continue?"
-msgstr ""
+msgstr "स्काइप बंद करने पर आपका स्काइप वाई फाई  सत्र भी समाप्त हो जायेगा? करें?"
 
 msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr ""
+msgstr "स्काइप वाई-फाई ..."
 
 msgctxt "sALERTS_TITLE"
 msgid "Notifications"
@@ -8577,11 +8577,11 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_CALL_TRANSFER"
 msgid "Transfer Call..."
-msgstr ""
+msgstr "कॉल स्थान्तरित करें ..."
 
 msgctxt "sBUDDYMENU_CALL_TRANSFER_OTHER"
 msgid "A different contact..."
-msgstr ""
+msgstr "एक अन्य संपर्क ..."
 
 msgctxt "sCALL_TRANSFER_DLG_CAPTION"
 msgid "Transfer a call"
@@ -8828,15 +8828,15 @@ msgstr "<b>%s</b> से कॉल स्थान्तरण  "
 
 msgctxt "sSKYACCESS_TRAYICON_HINT"
 msgid "Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई "
 
 msgctxt "sSKYACCESS_TRAYICON_HINT_CONNECTED"
 msgid "Skype WiFi connected (%s / %s)"
-msgstr ""
+msgstr "स्काइप वाई फाई  जुडा (%s / %s) "
 
 msgctxt "sGROUP_CALL_REJECTED_IN"
 msgid "Group call declined."
-msgstr ""
+msgstr "सामूहिक कॉल "
 
 msgctxt "sAUTH_REQUEST_MSG_HEADER"
 msgid "This person would like to connect with you"
@@ -8856,7 +8856,7 @@ msgstr "स्काइप बंद करें "
 
 msgctxt "sTASKBAR_MENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr ""
+msgstr "स्काइप वाई-फाई "
 
 msgctxt "sTRAYALERT_AUTH_REQUEST"
 msgid "New contact request"
@@ -9376,77 +9376,77 @@ msgstr ""
 
 msgctxt "sCALL_LB2_TRANSFER_FAILED"
 msgid "Transfering call failed"
-msgstr ""
+msgstr "कॉल स्थान्तरण असफल "
 
 msgctxt "sCALL_TRANSFER_FAILED1"
 msgid "Sorry, transfering the call to %s failed"
-msgstr ""
+msgstr "क्षमा । %s को कॉल स्थान्तरण असफल "
 
 msgctxt "sCALL_TRANSFER_FAILED2"
 msgid "You need Skype Credit to call this number"
-msgstr ""
+msgstr "इस नंबर पर कॉल करने के लिए आपको स्काइप क्रेडिट की आवश्यकता है "
 
 msgctxt "sCQ_NON_VIDEO_CALL_TITLE"
 msgid "Video not available"
-msgstr ""
+msgstr "विडियो उपलब्ध नहीं "
 
 msgctxt "sCQ_NON_VIDEO_CALL_GEN_DESC"
 msgid "Video isn't supported by this call."
-msgstr ""
+msgstr "इस कॉल में विडियो संभव नहीं है "
 
 msgctxt "sCQ_NON_VIDEO_CALL_SO_DESC"
 msgid "You're not able to make video calls to phones and mobiles."
-msgstr ""
+msgstr "आप फ़ोन एवं मोबाइल पर विडियो कॉल करने में सक्षम नहीं हैं "
 
 msgctxt "sCQ_SO_CALL_NET_STATUS_TITLE"
 msgid "Your connection speed is good"
-msgstr ""
+msgstr "आपके कनेक्शन की गती अच्छी है "
 
 msgctxt "sCQ_SO_CALL_NET_STATUS_DESC"
 msgid ""
 "Your internet connection is fast enough to call and receive calls from a "
 "phone or mobile."
-msgstr ""
+msgstr "आपके कनेक्शन की गती फ़ोन अथवा मोबाइल पर कॉल करने अथवा प्राप्त करने के लिहाज़ से अच्छी है "
 
 msgctxt "sFLOW_CALLTRANSFER_INCOMING"
 msgid "Call transferred by %s"
-msgstr ""
+msgstr "%s द्वारा कॉल हस्तांतरित "
 
 msgctxt "sFLOW_CALLTRANSFER_WITH_IN"
 msgid "Call transferred by %s, duration %s."
-msgstr ""
+msgstr "%s द्वारा कॉल हस्तांतरित, अवधी %s "
 
 msgctxt "sFLOW_CALLTRANSFER_REJECTED_IN"
 msgid "Call transferred by %s declined."
-msgstr ""
+msgstr "%s द्वारा स्थान्तरित कॉल ठुकराया गया "
 
 msgctxt "sF_USERENTRY_LB_PROGRESS"
 msgid "Checking your Skype Name is available"
-msgstr ""
+msgstr "स्काइप नाम की उपलब्धि जांच रहा है "
 
 msgctxt "sTRANSFER_THIS_CALL"
 msgid "Transfer this call"
-msgstr ""
+msgstr "इस कॉल को स्थान्तरित करें "
 
 msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
 msgid "Failed to log in. Check your Skype Name or password"
-msgstr ""
+msgstr "लौग इन करने में असफल। अपना स्काइप नाम एवं पासवर्ड जांचे  "
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
-msgstr ""
+msgstr "माइक्रोफोन "
 
 msgctxt "sCQ_INDICATOR_SPK_BUTTON_HINT"
 msgid "Speakers"
-msgstr ""
+msgstr "स्पीकर्स "
 
 msgctxt "sCQ_INDICATOR_CAM_BUTTON_HINT"
 msgid "Video"
-msgstr ""
+msgstr "विडियो"
 
 msgctxt "sCQ_INDICATOR_NET_BUTTON_HINT"
 msgid "Internet connection"
-msgstr ""
+msgstr "इन्टरनेट कनेक्शन "
 
 msgctxt "sCQ_INDICATOR_CPU_BUTTON_HINT"
 msgid "Computer speed"
@@ -9782,7 +9782,7 @@ msgstr "मेरे चित्र"
 
 msgctxt "sVIDEO_IMAGE_SEND_TO_MANY"
 msgid "Send to..."
-msgstr ""
+msgstr "को भेजें"
 
 msgctxt "sVIDEO_IMAGE_SEND_TO_ONE"
 msgid "Send to %s"
@@ -9806,7 +9806,7 @@ msgstr "छिपाएं "
 
 msgctxt "sLIVE_SS_SEPARATE_CAPTION"
 msgid "Share screens"
-msgstr ""
+msgstr "स्क्रीन साझा करें  "
 
 msgctxt "sLIVE_INVALID_PHONE_NO"
 msgid "%s is not a valid phone number."
@@ -9814,7 +9814,7 @@ msgstr "%s एक वैध फ़ोन नंबर नहीं है  "
 
 msgctxt "sLIVE_ADD_TO_CONFERENCE"
 msgid "Add to group call"
-msgstr ""
+msgstr "सामूहिक कॉल में जोडें  "
 
 msgctxt "sLIVE_CALL_IS_IN_SEPARATE_WINDOW"
 msgid "Call is in a separate window"
@@ -9834,15 +9834,15 @@ msgstr "%d सब्सक्रिप्शन "
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT"
 msgid "Add Contact"
-msgstr ""
+msgstr "संपर्क जोडें "
 
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
-msgstr ""
+msgstr "स्काइप निर्देशिका ढूंढे "
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT_PANEL"
 msgid "Save a Phone Number..."
-msgstr ""
+msgstr "फ़ोन नंबर जोडें "
 
 msgctxt "sPREM_VIDEO_DONT_SHOW_AGAIN"
 msgid "Don't show again"
@@ -9869,7 +9869,7 @@ msgstr "सामूहिक विडियो कॉल  "
 
 msgctxt "sPREM_VIDEO_DLG_CAPTION"
 msgid "Introducing group video calling"
-msgstr ""
+msgstr "शुरुआत है सामूहिक विडियो कॉल की "
 
 msgctxt "sCALLPHONES_RATES_PAYG_MINUTE"
 msgid "%s/min"
@@ -9885,7 +9885,7 @@ msgstr "उन्हें अपग्रेड लिंक भेजें "
 
 msgctxt "sSEND_MSG_DLG_TITLE"
 msgid "Invite contacts to get group video"
-msgstr ""
+msgstr "संपर्को को सामूहिक विडियो कॉल प्राप्त करने के लिए आमंत्रित करें "
 
 msgctxt "sSEND_MSG_DEFAULT_MSG"
 msgid ""
@@ -9927,7 +9927,7 @@ msgstr "संपर्क"
 
 msgctxt "sMYSELF_PROFILE_VOICEMAIL_LINK"
 msgid "Set up voice messaging"
-msgstr ""
+msgstr "मौखिक संदेश सेट अप करें "
 
 msgctxt "sMYSELF_PROFILE_CALLER_ID_LINK"
 msgid "Set up caller ID"
@@ -9959,7 +9959,7 @@ msgstr "इनकमिंग कॉल  "
 
 msgctxt "sCALL_TOOLBAR_ADD_TO_CONFERENCE_TEXT"
 msgid "Answering this call will put your current call on hold"
-msgstr ""
+msgstr "इस कॉल का उत्तर देने से आपके चालू कॉल होल्ड पर चली जाएगी "
 
 msgctxt "sPREM_VIDEO_GENERAL_ERROR_MSG"
 msgid ""
@@ -10008,7 +10008,7 @@ msgstr "सार्वजनिक - सभी को दृश्य "
 
 msgctxt "sPROFILE_PRIVACY_BUDDIES_SHORT"
 msgid "Contacts"
-msgstr ""
+msgstr "संपर्क"
 
 msgctxt "sPROFILE_PRIVACY_BUDDIES_LONG"
 msgid "Contacts only - visible just to your contacts"
@@ -10048,7 +10048,7 @@ msgstr "अद्रिष्य वार्तालाप दिखाएं 
 
 msgctxt "sMAINMENU_VIEW_VOICEMAILS"
 msgid "Voice Messages"
-msgstr ""
+msgstr "मौखिक संदेश "
 
 msgctxt "sMAINMENU_VIEW_FILESSENT"
 msgid "Files Sent and Received"
@@ -10098,7 +10098,7 @@ msgstr "पहले के "
 
 msgctxt "sQUICKFILTER_NOTFOUND_CONTACT"
 msgid "%s is not in your Contacts."
-msgstr ""
+msgstr "%s आपके संपर्क सूचि में नहीं है "
 
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
@@ -10122,19 +10122,19 @@ msgstr "बेहतर आवाज़ गुणवत्ता के लिए �
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_SS_TITLE"
 msgid "The connection between you is too slow to share screens"
-msgstr ""
+msgstr "आप दोनों के बीच का संपर्क स्क्रीन साझा करने के लिए अत्यधिक धीमा है"
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_SS_TEXT"
 msgid "Stop sharing screens for better audio quality."
-msgstr ""
+msgstr "अच्छे आवाज़ की गुणवत्ता के लिए स्क्रीन साझा करना बंद करें "
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_SS_B1"
 msgid "Stop sharing screens"
-msgstr ""
+msgstr "साँझा करना रोकें "
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_SS_B2"
 msgid "Continue sharing screens"
-msgstr ""
+msgstr "साँझा करना चालु रखे "
 
 msgctxt "sCQ_MSG_CALL_PROBLEM_TITLE"
 msgid "There's a problem with this call"
@@ -10193,7 +10193,7 @@ msgstr "(आपको ढूंढना सहज बनता है) "
 
 msgctxt "sLIVE_ADD_TO_CONTACTS"
 msgid "Add to Contacts..."
-msgstr ""
+msgstr "संपर्कों में जोडें "
 
 msgctxt "sACCOUNT_PANEL_ONE_SUBSCRIPTION"
 msgid "1 subscription"
@@ -10201,7 +10201,7 @@ msgstr "1 सब्सक्रिप्शन "
 
 msgctxt "sMYSELFPROFILE_SKYPEIN_LINK"
 msgid "Get a Skype Number"
-msgstr ""
+msgstr "स्काइप नंबर प्राप्त करें "
 
 msgctxt "sMYSELF_PROFILE_CREDIT_LINK"
 msgid "Buy Skype Credit"
@@ -10213,7 +10213,7 @@ msgstr "सब्सक्रिप्शन लें "
 
 msgctxt "sMYSELF_PROFILE_HAS_VOICEMAIL_LINK"
 msgid "Voice messaging is available"
-msgstr ""
+msgstr "मौखिक सन्देश भेजना मौजूद है "
 
 msgctxt "sPREM_VIDEO_NO_SUBS_2"
 msgid "Want to make a group video call?"
@@ -10227,7 +10227,7 @@ msgstr ""
 
 msgctxt "sCALL_PRICE_PACKAGE"
 msgid "Covered by subscription"
-msgstr ""
+msgstr "सब्सक्रिप्शन में शामिल "
 
 msgctxt "sCALL_PRICE_FREE"
 msgid "Free"
@@ -10239,7 +10239,7 @@ msgstr "बाहर निकालें "
 
 msgctxt "sAUTOFOCUS"
 msgid "Dynamic view"
-msgstr ""
+msgstr "सक्रिय दृश्य"
 
 msgctxt "sMANUAL_FOCUS"
 msgid "Normal view"
@@ -10277,11 +10277,11 @@ msgstr "फोटो गैलरी "
 
 msgctxt "sMAINMENU_CALL_CALL_A_PHONE_NUMBER"
 msgid "Call Phones"
-msgstr ""
+msgstr "फ़ोन पर कॉल करें "
 
 msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_ASSISTED"
 msgid "Screen Reader Mode"
-msgstr ""
+msgstr "स्क्रीन पाठक मोड "
 
 msgctxt "sLIVE_MOBILE"
 msgid "(mobile)"
@@ -10301,7 +10301,7 @@ msgstr "(फ़ोन )"
 
 msgctxt "s_OPTIONS_WATERMARK"
 msgid "Show Skype watermark during calls"
-msgstr ""
+msgstr "कॉल के दौरान स्काइप की जलचिंह दिखाएं "
 
 msgctxt "sMAINMENU_VIEW_INSTANT_MESSAGES"
 msgid "Instant Messages"
@@ -10309,11 +10309,11 @@ msgstr "क्षणिक संदेश "
 
 msgctxt "sCALLPHONES_RATES_SUBSCR_PER"
 msgid "%s for %s"
-msgstr ""
+msgstr "%s के लिए %s"
 
 msgctxt "sMYSELF_PROFILE_NOT_SPECIFIED"
 msgid "Not specified"
-msgstr ""
+msgstr "स्पष्ट नहीं "
 
 msgctxt "sSEND_MSG_FOOTER_MSG_3"
 msgid ""
@@ -10384,7 +10384,7 @@ msgstr "होम पेज जोडें "
 
 msgctxt "sMYSELF_PROFILE_ADD_ABOUTME"
 msgid "Write a few words..."
-msgstr ""
+msgstr "कुछ शब्दों में ..."
 
 msgctxt "sMYSELF_PROFILE_ADD_STATE"
 msgid "Add state or province"
@@ -10416,7 +10416,7 @@ msgstr ""
 
 msgctxt "sCQ_MESH_PROBLEM_LOCAL_CPU_TITLE"
 msgid "Your computer speed is affecting the call"
-msgstr ""
+msgstr "आपके कंप्यूटर की गती से कॉल पर असर हो रहा है "
 
 msgctxt "sCQ_MESH_PROBLEM_LOCAL_CPU_DESC"
 msgid ""
@@ -10427,7 +10427,7 @@ msgstr ""
 
 msgctxt "sCQ_MESH_PROBLEM_REMOTE_CPU_TITLE"
 msgid "Someone's computer speed is affecting the call"
-msgstr ""
+msgstr "किसी के कंप्यूटर की गती से कॉल पर असर हो रहा है "
 
 msgctxt "sCQ_MESH_PROBLEM_REMOTE_CPU_DESC"
 msgid ""
@@ -10438,7 +10438,7 @@ msgstr ""
 
 msgctxt "sCQ_MESH_PROBLEM_LOCAL_NET_TITLE"
 msgid "Your internet connection is affecting the call"
-msgstr ""
+msgstr "इन्टरनेट कनेक्शन से कॉल पर असर हो रहा है "
 
 msgctxt "sCQ_MESH_PROBLEM_LOCAL_NET_DESC"
 msgid ""
@@ -10448,7 +10448,7 @@ msgstr ""
 
 msgctxt "sCQ_MESH_PROBLEM_REMOTE_NET_TITLE"
 msgid "Someone's internet connection is affecting the call"
-msgstr ""
+msgstr "किसी के इन्टरनेट कनेक्शन से कॉल पर असर हो रहा है "
 
 msgctxt "sCQ_MESH_PROBLEM_REMOTE_NET_DESC"
 msgid ""
@@ -10466,11 +10466,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr ""
+msgstr "%s (%s) द्वारा , अवधी %s."
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
-msgstr ""
+msgstr "%d से अधिक सहभागी न चुने जिससे की आप कॉल करने मे समर्थ रहे "
 
 msgctxt "sOPTIONS_AD_POLICY"
 msgid ""
@@ -10496,7 +10496,7 @@ msgstr "समूह"
 
 msgctxt "sFEATURE_DISABLED"
 msgid "This feature is disabled by your administrator"
-msgstr ""
+msgstr "यह विशेषता आपके प्रभंधक द्वारा निःशक्त कर दी गयी है "
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
@@ -10504,7 +10504,7 @@ msgstr "%s (%s) से मिस्ड कॉल "
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr ""
+msgstr "%s(%s) से कॉल ठुकराया गया "
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
@@ -10512,15 +10512,15 @@ msgstr "%s (%s) से कॉल "
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr ""
+msgstr "फाइल भेजें ..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
-msgstr ""
+msgstr "संपर्क भेजे ..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "स्क्रीन साझा करें ..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -10528,7 +10528,7 @@ msgstr ""
 
 msgctxt "sSMSPOPUP_DESC_NOCREDIT"
 msgid "You need Skype Credit to send SMS"
-msgstr ""
+msgstr " sms भेजने के लिए आपको स्काइप क्रेडिट की आवश्यकता है"
 
 msgctxt "sMYSELF_PANEL_PROF_ACCOUNT"
 msgid "Professional account"
@@ -10586,23 +10586,23 @@ msgstr "%d लोग"
 
 msgctxt "sF_OPTIONS_VIDEO_DISABLED"
 msgid "This feature is disabled by your administrator."
-msgstr ""
+msgstr "यह विशेषता आपके प्रभंधक द्वारा निःशक्त कर दी गयी है "
 
 msgctxt "sCALLPHONES_PAYG_CAPTION"
 msgid "Pay As You Go rates from"
-msgstr ""
+msgstr "\"इस्तेमाल पर पैसे देते जायें\" से दर "
 
 msgctxt "sCALLPHONES_PAYG_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments#skypeout\"> स्काइप क्रेडिट खरीदें  </a>"
 
 msgctxt "sCALLPHONES_PAYG_MORE_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy more credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments#skypeout\"> और क्रेडिट खरीदें  </a>"
 
 msgctxt "sCALLPHONES_SUBSCR_CAPTION"
 msgid "Pay monthly from"
-msgstr ""
+msgstr "से मासिक भुगतान करें "
 
 msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
 msgid ""
@@ -10612,19 +10612,19 @@ msgstr ""
 
 msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
 msgid "<a href=\"skype:?mic\">View your subscription(s)</a>"
-msgstr ""
+msgstr "<a href=\"skype:?mic\">अपनी सब्सक्रिप्शन(s) देखे "
 
 msgctxt "sCALLPHONES_RATES_LNK"
 msgid "<a href=\"skype:?go#prices\">See all rates</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#prices\"> सारे दर देखें </a> "
 
 msgctxt "sCALLPHONES_CREDIT_CAPTION"
 msgid "Your Skype Credit"
-msgstr ""
+msgstr "आपका स्काइप क्रेडिट"
 
 msgctxt "sCALLPHONES_TBYB_TITLE"
 msgid "Free trial call to a mobile or landline"
-msgstr ""
+msgstr "मुफ्त ट्रायल कॉल मोबाइल या लैंडलाइन पर "
 
 msgctxt "sCALLPHONES_TBYB_INFO"
 msgid ""
@@ -10640,11 +10640,11 @@ msgstr ""
 
 msgctxt "sSMS_TO_BUTTON"
 msgid "To %s"
-msgstr ""
+msgstr "%s को "
 
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
-msgstr ""
+msgstr "(%s/मिनट वैट सम्मिलित)"
 
 msgctxt "sCALLPHONES_SUBSCR_INC_VAT"
 msgid "(%s incl. VAT)"
@@ -10652,7 +10652,7 @@ msgstr "(%s वैट सम्मिलित)"
 
 msgctxt "sCALLPHONES_SUBSCR_EXPIRED"
 msgid "Subscription expired"
-msgstr ""
+msgstr "सब्सक्रिप्शन समाप्त "
 
 msgctxt "sCALLPHONES_SUBSCR_EXPIRING"
 msgid "Expiring soon"
@@ -10660,7 +10660,7 @@ msgstr "जल्द ही समाप्त होने वाली है 
 
 msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
 msgid "• <a href=\"%s\">Renew</a>"
-msgstr ""
+msgstr "• <a href=\"%s\"> नवीनीकृत करें </a> "
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
@@ -10676,7 +10676,7 @@ msgstr "आपका पहला कॉल फ्री है "
 
 msgctxt "sCALL_POPUP_VOICEMAIL"
 msgid "Voice message"
-msgstr ""
+msgstr "मौखिक संदेश "
 
 msgctxt "sPROFILE_STATUS_OFFLINE_CF"
 msgid "Offline. Calls forwarded at no cost to you."
@@ -10704,7 +10704,7 @@ msgstr "आप इस कॉल के मेजबान हैं "
 
 msgctxt "sCALL_POPUP_ADD_PHONE_NUMBER"
 msgid "Call this person on their mobile or landline number."
-msgstr ""
+msgstr "इस व्यक्ति को उनके मोबाइल या लैंडलाइन पर कॉल करें "
 
 msgctxt "sMAINMENU_HIDE_FLAMINGO_CONTACTS"
 msgid "Hide Facebook Friends"
@@ -10726,11 +10726,11 @@ msgstr "क्रेडिट की कमी "
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_SING"
 msgid "You have %d subscription"
-msgstr ""
+msgstr "आपके पास %d सब्सक्रिप्शन है "
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_PLUR"
 msgid "You have %d subscriptions"
-msgstr ""
+msgstr "आपके पास %d सब्सक्रिप्शन है "
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
 msgid ""
@@ -10744,7 +10744,7 @@ msgstr "इस कॉल के लिए देश कोड चुनें "
 
 msgctxt "sF_CALL_FAILURE_CREDIT_INFO_LNK"
 msgid "<a href=\"skype:?go#skypecredit\">What's Skype Credit?</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#skypecredit\"> स्काइप क्रेडिट क्या है ? </a>"
 
 msgctxt "sLIVE_CONV_VOICEMAIL_RECORDING"
 msgid "Recording voice message %s"
@@ -10752,7 +10752,7 @@ msgstr ""
 
 msgctxt "sFLAMINGO_EASY_TO_CONNECT"
 msgid "We've made it easy to message your Facebook friends."
-msgstr ""
+msgstr "हमने आपके फेसबुक मित्रो को सन्देश भेजना असान बना दिया है "
 
 msgctxt "sFLAMINGO_PROBLEM_CONNECTTING"
 msgid "There's a problem connecting you to Facebook."
@@ -10782,7 +10782,7 @@ msgctxt "sFLAMINGO_OTHER_ERROR"
 msgid ""
 "Your list of friends isn't available right now. Try reconnecting to "
 "Facebook."
-msgstr ""
+msgstr "आपके मित्रों की सूचि अभी मौजूद नहीं है । कृपया फेसबुक से पुनः जुड़ने का प्रयास करें "
 
 msgctxt "sFLAMINGO_DISABLED"
 msgid "You're not able to see Facebook friends in Skype at the moment."
@@ -10849,7 +10849,7 @@ msgstr "प्रतीक्षा कर रहा है "
 
 msgctxt "sHIGHFIVE_SMILEY"
 msgid "High five"
-msgstr ""
+msgstr "दे ताली "
 
 msgctxt "sLALALA_SMILEY"
 msgid "Lalala"
@@ -10865,7 +10865,7 @@ msgstr ""
 
 msgctxt "sWTF_SMILEY"
 msgid "What the..."
-msgstr ""
+msgstr "ये क्या ..."
 
 msgctxt "sWFH_SMILEY"
 msgid "Working from home"
@@ -10889,7 +10889,7 @@ msgstr "अपडेट इनस्टॉल करने को तैया�
 
 msgctxt "sF_UPGRADE_READY_TEXT"
 msgid "The latest version of %s is ready to install now."
-msgstr ""
+msgstr "%s का नवीनतम संस्करण इनस्टॉल होने के लिए तैयार है "
 
 msgctxt "sF_UPGRADE_READY_TEXT2"
 msgid ""
@@ -10944,7 +10944,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr ""
+msgstr "सहभागी जोड़े, फाईल भेजें और भी बहुत कुछ "
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -10988,31 +10988,31 @@ msgstr ""
 
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
-msgstr ""
+msgstr "पहला कॉल फ्री है "
 
 msgctxt "sCALL_PHONES"
 msgid "Call phones"
-msgstr ""
+msgstr "फ़ोन पर कॉल करें "
 
 msgctxt "sNEW_ACCOUNT_NOTIFY"
 msgid "New account notification"
-msgstr ""
+msgstr "नया अकाउंट नोटीफीकेसन "
 
 msgctxt "sNEW_ACCOUNT_NOTIFY_MANY"
 msgid "New account notifications"
-msgstr ""
+msgstr "नया अकाउंट नोटीफीकेसन "
 
 msgctxt "sCHANGE_SHARING_OPTIONS_HINT"
 msgid "Change sharing options"
-msgstr ""
+msgstr "साँझा करने के विकल्प बदलें  "
 
 msgctxt "sSCRSHARINGSEL_TITLE_SINGLE_DESKTOP"
 msgid "Start sharing your screen with %s"
-msgstr ""
+msgstr "%s के साथ अपना स्क्रीन साझा करना प्रारंभ करें "
 
 msgctxt "sSCRSHARINGSEL_TITLE_WINDOWS"
 msgid "Select a window to share with %s"
-msgstr ""
+msgstr "%s के साथ साझा करने के लिए एक विंडो चयनित करें "
 
 msgctxt "sSCRSHARINGSEL_INFO"
 msgid ""
@@ -11022,7 +11022,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SETUP_LABEL1"
 msgid "Nearly done, just a couple of things"
-msgstr ""
+msgstr "लगभग पूर्ण। एकाध चीजे और "
 
 msgctxt "sGETTING_STARTED_SETUP_LABEL2"
 msgid ""
@@ -11038,230 +11038,230 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SETUP_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "चालू रखे "
 
 msgctxt "sGETTING_STARTED_TITLE"
 msgid "<b>Setting up Skype</b>"
-msgstr ""
+msgstr "<b> स्काइप सेटअप कर रहा है </b>"
 
 msgctxt "sGETTING_STARTED_SOUND_CAPTION"
 msgid "Check your sound and video"
-msgstr ""
+msgstr "अपनी आवाज़ और विडियो जांचें "
 
 msgctxt "sGETTING_STARTED_SPEAKERS_LABEL"
 msgid "<b>Speakers</b> - can you hear the test sound?"
-msgstr ""
+msgstr "<b>स्पीकर: </b> क्या आप यह जांच आवाज़ सुन पा रहे हैं ?"
 
 msgctxt "sGETTING_STARTED_MIC_LABEL"
 msgid "<b>Microphone</b> - can your voice be heard?"
-msgstr ""
+msgstr "<b> माइक्रोफोन:</b>  क्या हम आपकी आवाज़ सुन पा रहे हैं ?"
 
 msgctxt "sGETTING_STARTED_VIDEO_LABEL"
 msgid "<b>Video</b> - can you see yourself?"
-msgstr ""
+msgstr "<b>विडियो: </b> क्या आप खुद को देख पा रहे हैं ?"
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEMS"
 msgid "<b>Problems with your sound?</b>"
-msgstr ""
+msgstr "<b> आपके आवाज़ के साथ दिक्कतें हैं </b>"
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_1"
 msgid "Check your speakers are plugged in."
-msgstr ""
+msgstr "जांचें की आपके स्पीकर्स जुडें हुए हैं "
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_2"
 msgid "Check your speakers are switched on."
-msgstr ""
+msgstr "जांचें की आपके स्पीकर्स ऑन हैं "
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_3"
 msgid "Check your volume is turned up."
-msgstr ""
+msgstr "जांचें की आपके स्पीकर्स में आवाज़ दी हुई है "
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEMS"
 msgid "<b>Problems with your microphone?</b>"
-msgstr ""
+msgstr "<b>आपके माइक्रोफोन के साथ दिक्कतें </b>"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_1"
 msgid "Check your microphone is switched on."
-msgstr ""
+msgstr "जांचें आपका माइक्रोफोन ऑन है?"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_2"
 msgid "Check mute isn’t on."
-msgstr ""
+msgstr "जांचें म्यूट ऑन तो नहीं "
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_3"
 msgid "Try adjusting the input level."
-msgstr ""
+msgstr "इनपुट स्तर ठीक कर के देखें "
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_4"
 msgid "Select a different microphone."
-msgstr ""
+msgstr "अन्य माइक्रोफोन चुनें "
 
 msgctxt "sGETTING_STARTED_MORE_HELP"
 msgid "More help"
-msgstr ""
+msgstr "और सहायता "
 
 msgctxt "sGETTING_STARTED_PLAY_SOUND"
 msgid "Test sound"
-msgstr ""
+msgstr "जांच आवाज़ "
 
 msgctxt "sGETTING_STARTED_INTRO_CAPTION"
 msgid "Add a profile picture"
-msgstr ""
+msgstr "प्रोफाइल चित्र जोड़े "
 
 msgctxt "sGETTING_STARTED_INTRO_CONTENT1"
 msgid ""
 "Your profile picture is how people will see you on Skype. It’s much easier "
 "for your friends, family and colleagues to find you when they can see your "
 "picture."
-msgstr ""
+msgstr "स्काइप पर लोग आपको आपके प्रोफाइल चित्र की तरह देखेंगे। अगर वो आपके चित्र देख सकेंगे तो आपके मित्र, परिवार एवं सहकर्मियों के लिए आपको ढूँढना आसान होगा "
 
 msgctxt "sGETTING_STARTED_INTRO_CONTENT2"
 msgid "Add a profile picture so people find the right %s."
-msgstr ""
+msgstr "प्रोफाइल चित्र जोड़े ताकी लोग सही %s  को ढूंढ़ सकें "
 
 msgctxt "sGETTING_STARTED_INTRO_CONTENT3"
 msgid "You can easily update your picture later."
-msgstr ""
+msgstr "आप बाद में आसानी से अपनी चित्र बदल सकते हैं "
 
 msgctxt "sGETTING_STARTED_INTRO_ADD_LATER"
 msgid "Add later"
-msgstr ""
+msgstr "बाद में जोडें "
 
 msgctxt "sGETTING_STARTED_SET_PICTURE_LABEL"
 msgid ""
 "Take a picture of yourself with your webcam, or browse for a picture on your"
 " computer."
-msgstr ""
+msgstr "वेबकैम से अपनी तस्वीर लें या अपने कंप्यूटर पर ढूंढ़े "
 
 msgctxt "sGETTING_STARTED_TAKE_SNAPSHOT_BUTTON"
 msgid "Take a picture"
-msgstr ""
+msgstr "चित्र लें "
 
 msgctxt "sGETTING_STARTED_CHOOSE_FILE_BUTTON"
 msgid "Browse..."
-msgstr ""
+msgstr "ढूंढ़े..."
 
 msgctxt "sGETTING_STARTED_CHOOSE_WEBCAM_LABEL"
 msgid "Choose a different webcam"
-msgstr ""
+msgstr "अन्य वेबकैम चयनीत करें "
 
 msgctxt "sSHARE_DESKTOP"
 msgid "Share desktop"
-msgstr ""
+msgstr "डेस्कटॉप साझा करें "
 
 msgctxt "sSHARE_WINDOW"
 msgid "Share window"
-msgstr ""
+msgstr "विंडो साझा करें "
 
 msgctxt "sGETTING_STARTED_SAVE_BUTTON"
 msgid "Use this picture"
-msgstr ""
+msgstr "इस चित्र का इस्तेमाल करें "
 
 msgctxt "sZAPCONTACT_XMPP"
 msgid "Facebook"
-msgstr ""
+msgstr "फेसबुक "
 
 msgctxt "sGETTING_STARTED_TRY_AGAIN"
 msgid "Try again"
-msgstr ""
+msgstr "पुनः प्रयास करें "
 
 msgctxt "sGETTING_STARTED_TRY_DONE_LABEL"
 msgid ""
 "You're all set up and ready to add your friends, family and colleagues and "
 "start making voice and video calls."
-msgstr ""
+msgstr "आप अपने मित्र, परिवार एवं सहकर्मियों को जोड़ने एवं मौखिक या विडियो कॉल करने के लिए पूरी तरह तैयार हैं "
 
 msgctxt "sGETTING_STARTED_TRY_START_SKYPE"
 msgid "Start using Skype"
-msgstr ""
+msgstr "स्काइप इस्तेमाल करना प्रारंभ करें "
 
 msgctxt "sGETTING_STARTED_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sGETTING_STARTED_SET_PICTURE_TITLE"
 msgid "Set your profile picture"
-msgstr ""
+msgstr "अपनी प्रोफाइल चित्र तय करें "
 
 msgctxt "sSCREEN_SHARING_CHANGE_SETTINGS"
 msgid "Change screen sharing settings"
-msgstr ""
+msgstr "स्क्रीन साझा करने की सेटिंग्स बदलें  "
 
 msgctxt "sFLOW_CALL_REJECTED_OUT"
 msgid "Call to %s, busy."
-msgstr ""
+msgstr "%s  को कॉल व्यस्त "
 
 msgctxt "sHOTKEY_PUSHTOTALK"
 msgid "Toggle mute (Push-to-talk)"
-msgstr ""
+msgstr "टॉगल म्यूट (पुश-टू-टॉक)"
 
 msgctxt "sCALLALERT_HANG_UP"
 msgid "Answering this call will hang up your active call."
-msgstr ""
+msgstr "इस कॉल का उत्तर देने से आपके चालू कॉल कट जाएगी "
 
 msgctxt "sF_OPTIONS_SAVING_FAILED3"
 msgid ""
 "Sorry. Your new settings could not be saved at this time. Please try again "
 "later."
-msgstr ""
+msgstr "क्षमा।  आपकी नई सेटिंग इस वक़्त नहीं सहेज पा रहे हैं। कृपया कुछ देर बाद पुनः प्रयास करें  "
 
 msgctxt "sF_OPTIONS_SAVING_FAILED4"
 msgid "Settings not saved"
-msgstr ""
+msgstr "सेटिंग्स नहीं सहेजी गयी "
 
 msgctxt "sFLOW_CALL_UNANSW_OUT_FBPLUGIN_INST"
 msgid "Call to %s, failed. Plugin required"
-msgstr ""
+msgstr "%s को कल असफल । प्लग-इन की आवश्यकता  "
 
 msgctxt "sFBPLUGIN_INSTALL_WARNING"
 msgid ""
 "Your friend needs to install a plugin before you can chat.  Please wait for "
 "their return call or try again later."
-msgstr ""
+msgstr "आपके चैट करने पाने के लिए आपके मित्र को एक प्लग इन इनस्टॉल करना आवश्यक है । कृपया उनके वापस कॉल का इंतज़ार करें या पुनः प्रयास करें "
 
 msgctxt "sFBPLUGIN_INSTALL_FORM_CAPTION"
 msgid "Calling %s"
-msgstr ""
+msgstr "%s को कॉल कर रहा है "
 
 msgctxt "sFBPLUGIN_INSTALL_BGR_CAPTION"
 msgid "Facebook needs a plugin"
-msgstr ""
+msgstr "फेसबुक को एक प्लग इन की आवश्यकता है "
 
 msgctxt "sSCRSHARINGSEL_TITLE_CHECKING_SUBS"
 msgid "Checking subscription"
-msgstr ""
+msgstr "सब्सक्रिप्शन जांच रहा है "
 
 msgctxt "sSCREENSHARING_SUBS_CHECK_FAILED"
 msgid "<center>Could not check subscription, try again ... </center>"
-msgstr ""
+msgstr "<center>सब्सक्रिप्शन जांच नहीं पाया । पुनः प्रयास करें ... </center>"
 
 msgctxt "sCALL_RESUME_OTHERS_HANG_UP"
 msgid "To resume a call you need to end your current call"
-msgstr ""
+msgstr "एक कॉल को पुनः आरम्भ करने के लिए आपको मौजूदा कॉल समाप्त करना होगा "
 
 msgctxt "sCALL_IN_PROGRESS_HANG_UP"
 msgid "Calling %s will end your current call"
-msgstr ""
+msgstr "%s को कॉल करने से आपकी मौजूदा कॉल समाप्त हो जाएगी "
 
 msgctxt "sCALL_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "फेसबुक "
 
 msgctxt "sSTATUSMENU_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "फेसबुक "
 
 msgctxt "sSTATUSMENU_FLAMINGO_SAMEASSKYPE"
 msgid "Same as on Skype"
-msgstr ""
+msgstr "जैसा स्काइप पर है वैसा ही "
 
 msgctxt "sUNNAMED_GROUP"
 msgid "Unnamed group"
-msgstr ""
+msgstr "अनाम समूह "
 
 msgctxt "sF_CONTENT_BROWSER_MSG1_1"
 msgid "This file \"%0:s\" belongs to %1:s."
-msgstr ""
+msgstr " \"%0:s\" फाइल %1:s का है "
 
 msgctxt "sF_CONTENT_BROWSER_MSG1_2"
 msgid "Please sign in as %s to select this file."
@@ -11273,103 +11273,103 @@ msgstr "यह फाइल किसी दुसरे व्यक्ति �
 
 msgctxt "sMAINMENU_HELP_PRIVACY"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "गोपनीयता नीति "
 
 msgctxt "sTEST_SOUND_PLAY_ACC_DESC"
 msgid "Click to start playing test sound"
-msgstr ""
+msgstr "जांच आवाज़ चलाने के लिए क्लिक करें "
 
 msgctxt "sTEST_SOUND_STOP_ACC_DESC"
 msgid "Click to stop playing test sound"
-msgstr ""
+msgstr "जांच आवाज़ रोकने के लिए क्लिक करें "
 
 msgctxt "sSMS_REPLY_TO_CHAT"
 msgid "Replies will be shown here"
-msgstr ""
+msgstr "उत्तर यहाँ दिखाए जायेंगे "
 
 msgctxt "sSMS_REPLY_TO_NUM"
 msgid "Replies will be sent to %s"
-msgstr ""
+msgstr "उत्तर %s को भेजे जायेंगे "
 
 msgctxt "sSMS_REPLY_TO_NONE"
 msgid "To receive replies, add a From number"
-msgstr ""
+msgstr "उत्तर पाने के लिए, \"से\" नंबर जोड़े "
 
 msgctxt "sLIVE_SO_PLUS_BUTTON_HINT"
 msgid "Add participants"
-msgstr ""
+msgstr "सहभागी जोड़े "
 
 msgctxt "sSO_PLUS_MENU_HINT"
 msgid "Add participants"
-msgstr ""
+msgstr "सहभागी जोड़े "
 
 msgctxt "sLIVE_CALLING_FLAMINGO"
 msgid "calling on Facebook (Beta)"
-msgstr ""
+msgstr "फेसबुक पर कॉल कर रहा है (बीटा)"
 
 msgctxt "sHOTKEY_SNAPSHOT"
 msgid "Take a snapshot during video calls"
-msgstr ""
+msgstr "विडियो कॉल के दौरान एक चित्र लें "
 
 msgctxt "sSMS_FROM_MORE_OPTIONS"
 msgid "More options"
-msgstr ""
+msgstr "अन्य विकल्प  "
 
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "स्काइप "
 
 msgctxt "sSMS_FROM_MY_PHONE"
 msgid "My mobile"
-msgstr ""
+msgstr "मेरा मोबाइल "
 
 msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
-msgstr ""
+msgstr "नंबर जोडें "
 
 msgctxt "sSMS_FROM_SKYPE_DISABLED"
 msgid "Skype (not available)"
-msgstr ""
+msgstr "स्काइप (उपलब्ध नहीं )"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION1"
 msgid "To receive SMS replies directly in Skype"
-msgstr ""
+msgstr "SMS उत्तर सीधा स्काइप पर पाने के लिए "
 
 msgctxt "sF_OPTIONS_SMS_CAPTION2"
 msgid "Below the chat box, select <b>Reply to</b> and choose <b>Skype</b>."
-msgstr ""
+msgstr "चैट बॉक्स के नीचे, चुनें <b> को उत्तर</b > और चुनें <b> स्काइप </b >"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION3"
 msgid "(Not available with some mobile numbers.)"
-msgstr ""
+msgstr "(कुछ मोबाइल नम्बरों के साथ मौजूद नहीं)"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION4"
 msgid "To receive SMS replies on your mobile"
-msgstr ""
+msgstr "SMS उत्तर अपने मोबाइल पर पाने के लिए "
 
 msgctxt "sF_OPTIONS_SMS_CAPTION5"
 msgid "Below the chat box, select <b>Reply to</b> and choose <b>Mobile</b>."
-msgstr ""
+msgstr "चैट बॉक्स के नीचे, चुनें <b> को उत्तर</b > और चुनें <b> मोबाइल </b >"
 
 msgctxt "sF_OPTIONS_SMS_VER_NUMBERS"
 msgid "Your verified numbers:"
-msgstr ""
+msgstr "आपके सत्यापित नंबर"
 
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
-msgstr ""
+msgstr "ठीक "
 
 msgctxt "sF_OPTIONS_SMS_VER_CAPTION"
 msgid "Please verify your mobile number below:"
-msgstr ""
+msgstr "अपना मोबाइल नंबर नीचे  प्रमाणित करें"
 
 msgctxt "sF_USERINFO_AGE_JUST_GOT_NOYEAR"
 msgid "It's %s's birthday today"
-msgstr ""
+msgstr "आज %s का जन्मदिन है "
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
-msgstr ""
+msgstr "स्वतः अपडेट "
 
 msgctxt "sF_OPTIONS_LBC_UPGRADES"
 msgid "<b>Automatic updates:</b> ensure you always have the latest version"
@@ -11389,11 +11389,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_UPGRADE_TURN_ON"
 msgid "Turn on automatic updates"
-msgstr ""
+msgstr "स्वतः अपडेट चालू करें "
 
 msgctxt "sF_OPTIONS_UPGRADE_TURN_OFF"
 msgid "Turn off automatic updates"
-msgstr ""
+msgstr "स्वतः अपडेट बंद करें "
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL3"
 msgid "Running Microsoft Update may also install important Skype updates."
@@ -11429,55 +11429,55 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "पसंदीदा "
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "संपर्को को यहाँ खीच कर लायें "
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr ""
+msgstr "पुनः नामांकरण करें "
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr ""
+msgstr "मिटायें "
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "पसंदीदा में जोडें "
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "पसंदीदा से हटायें "
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr ""
+msgstr "ऑनलाइन "
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "फेसबुक "
 
 msgctxt "sPREM_SCREENSHARING_WEB_WINDOW_CAPTION"
 msgid "Screen sharing"
-msgstr ""
+msgstr "स्क्रीन साँझा "
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "सभी "
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
-msgstr ""
+msgstr "स्काइप "
 
 msgctxt "sSELECTED_LIST_HINT"
 msgid "Change Contact list"
-msgstr ""
+msgstr "संपर्क सूची बदलें "
 
 msgctxt "sPREM_VIDEO_UPSELL_MPV"
 msgid ""
@@ -11493,11 +11493,11 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_WINDOW_CAPTION"
 msgid "Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई "
 
 msgctxt "sSKYPEWIFI_INTRO_HEADER"
 msgid "Introducing Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई शामिल "
 
 msgctxt "sSKYPEWIFI_INTRO_DESC"
 msgid ""
@@ -11507,7 +11507,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT1"
 msgid "Use Skype, check email and surf the web"
-msgstr ""
+msgstr "स्काइप का इस्तेमाल करें, मेल जांचें एवं वेब पर घूमें "
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT2"
 msgid "Skype WiFi is available at over one million locations worldwide"
@@ -11515,27 +11515,27 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT3"
 msgid "Only pay for the minutes you use"
-msgstr ""
+msgstr "जितने मिनट इस्तेमाल करें केवल उसका भुगतान करें "
 
 msgctxt "sSKYPEWIFI_INTRO_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "चालू रखे "
 
 msgctxt "sSKYPEWIFI_NOTCONNECTED_HEADER"
 msgid "You're not connected to WiFi"
-msgstr ""
+msgstr "आप स्काइप वाई फाई से जुड़े हुए नहीं हैं "
 
 msgctxt "sSKYPEWIFI_NOTCONNECTED_DESC"
 msgid "Please join a public WiFi network that supports Skype WiFi"
-msgstr ""
+msgstr "कृपया एक सार्वजनिक वाई फाई  से जुड़े जो स्काइप वाई फाई सपोर्ट करता हो "
 
 msgctxt "sSKYPEWIFI_NOTCONNECTED_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "और जाने "
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_HEADER"
 msgid "You're already online"
-msgstr ""
+msgstr "आप पहले से ऑनलाइन हैं "
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_DESC"
 msgid ""
@@ -11545,11 +11545,11 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "और जाने "
 
 msgctxt "sSKYPEWIFI_ERROR_HEADER"
 msgid "Unable to connect"
-msgstr ""
+msgstr "संपर्क स्थापित नहीं हो रहा "
 
 msgctxt "sSKYPEWIFI_ERROR_DESC"
 msgid ""
@@ -11559,11 +11559,11 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sSKYPEWIFI_NOCREDIT_HEADER"
 msgid "Skype WiFi is available here"
-msgstr ""
+msgstr "स्काइप वाई फाई यहाँ उपलब्ध है "
 
 msgctxt "sSKYPEWIFI_NOCREDIT_DESC"
 msgid ""
@@ -11573,19 +11573,19 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_NOCREDIT_BUTTON"
 msgid "Connect"
-msgstr ""
+msgstr "संपर्क स्थापित करें "
 
 msgctxt "sSKYPEWIFI_NOCREDIT_BUTTON2"
 msgid "Get Skype Credit"
-msgstr ""
+msgstr "स्काइप क्रेडिट खरीदें  "
 
 msgctxt "sSKYPEWIFI_NOCREDIT_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s प्रति मिनट "
 
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
 msgid "Buy Skype Credit"
-msgstr ""
+msgstr "स्काइप क्रेडिट खरीदें "
 
 msgctxt "sSKYPEWIFI_PAYMENT_DESC"
 msgid ""
@@ -11596,77 +11596,77 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_BUTTON"
 msgid "Buy Now"
-msgstr ""
+msgstr "अभी खरीदें "
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_ORDER"
 msgid "Your order"
-msgstr ""
+msgstr "आपका आर्डर "
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_COUNTRY"
 msgid "Select your billing country/region:"
-msgstr ""
+msgstr "आपके बिल करने का देश/छेत्र चुनें "
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_NAME"
 msgid "Cardholder name:"
-msgstr ""
+msgstr "कार्ड पर अंकित नाम :"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_CARDNUMBER"
 msgid "Card number:"
-msgstr ""
+msgstr "कार्ड संख्या :"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_EXPIRY"
 msgid "Expiry date:"
-msgstr ""
+msgstr "कब तक वैद्ध :"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_SECURITYNUMBER"
 msgid "Security number:"
-msgstr ""
+msgstr "सुरक्षा संख्या :"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_AUTORECHARGE"
 msgid "Enable auto-recharge"
-msgstr ""
+msgstr "स्वतः रिचार्ज चालू करें"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_TOS"
 msgid "I agree to Skype's <a href=\"%s\">Terms of Use</a>"
-msgstr ""
+msgstr "मुझे स्काइप के <a href=\"%s\"> इस्तेमाल की शर्तें </a> मंज़ूर हैं "
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_NAME"
 msgid "Cardholder name"
-msgstr ""
+msgstr "कार्ड पर अंकित नाम :"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_CARDNUMBER"
 msgid "Card number"
-msgstr ""
+msgstr "कार्ड संख्या :"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_MONTH"
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_YEAR"
 msgid "yy"
-msgstr ""
+msgstr "yy"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_SECURITYNUMBER"
 msgid "Security"
-msgstr ""
+msgstr "सुरक्षा "
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_VAT"
 msgid ""
 "VAT (value added taxes) is applicable to residents of the EU and calculated "
 "at the Luxembourg VAT rate. If you live outside the EU, you will not be "
 "charged the VAT."
-msgstr ""
+msgstr "VAT (वैल्यू एडेड टैक्स) EU के रहने वालों पर लागु होगा एवं उसका हिसाब लक्सेम्बर्ग के दरों से किया जायेगा। अगर आप EU के बहार रहते हैं तो आप पर VAT नहीं लगेगा।  "
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_CARD"
 msgid ""
 "We accept Visa and MasterCard. Visa Electron and Maestro are not accepted."
-msgstr ""
+msgstr "हम वीसा एवं मास्टर कार्ड कबूल करते हैं । वीसा इलेक्ट्रान एवं मेस्ट्रो कार्ड कबूल नहीं किया जायेगा । "
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_SECURITY"
 msgid ""
 "The card security code is the final three digits of the number printed on "
 "the signature strip on the reverse of the card."
-msgstr ""
+msgstr "कार्ड की सुरक्षा संख्या आपके कार्ड के पिछले हिस्से पर हस्ताक्षर पट्टी के अंत में लिखी हुई अंतिम तीन संख्या है   "
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_AUTORECHARGE"
 msgid ""
@@ -11676,35 +11676,35 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
 msgid "Thank you"
-msgstr ""
+msgstr "धन्यवाद "
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_DESC"
 msgid ""
 "Your Skype Credit purchase was successful. You're now ready to connect with "
 "Skype WiFi."
-msgstr ""
+msgstr "आपका स्काइप क्रेडिट खरीदना सफल रहा । अब आप स्काइप वाई फाई  से जुड़ने के लिए तैयार हैं | "
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "चालू रखे "
 
 msgctxt "sSKYPEWIFI_PAYMENTFAIL_HEADER"
 msgid "Payment error"
-msgstr ""
+msgstr "भुगतान में त्रुटी "
 
 msgctxt "sSKYPEWIFI_PAYMENTFAIL_DESC"
 msgid ""
 "Unfortunately we were not able to process your payment. Please try a "
 "different card."
-msgstr ""
+msgstr "दुर्भाग्य से हम आपका भगतान नहीं कर पा रहे हैं । कृपया कोई अन्य कार्ड से प्रयास करें "
 
 msgctxt "sSKYPEWIFI_PAYMENTFAIL_BUTTON"
 msgid "Back to payments"
-msgstr ""
+msgstr "भुगतान पर वापस जायें "
 
 msgctxt "sSKYPEWIFI_READY_HEADER"
 msgid "Skype WiFi is available here"
-msgstr ""
+msgstr "स्काइप वाई फाई यहाँ उपलब्ध है "
 
 msgctxt "sSKYPEWIFI_READY_DESC"
 msgid ""
@@ -11714,15 +11714,15 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_BUTTON"
 msgid "Connect"
-msgstr ""
+msgstr "संपर्क स्थापित करें "
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s प्रति मिनट "
 
 msgctxt "sSKYPEWIFI_READY_FREE"
 msgid "FREE"
-msgstr ""
+msgstr "मुफ्त "
 
 msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
@@ -11736,7 +11736,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_HEADER"
 msgid "Connecting…"
-msgstr ""
+msgstr "जोड़ रहा है ..."
 
 msgctxt "sSKYPEWIFI_CONNECTING_DESC"
 msgid "Please wait, your connection will start momentarily"
@@ -11744,19 +11744,19 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_BUTTON"
 msgid "Connecting…"
-msgstr ""
+msgstr "जोड़ रहा है ..."
 
 msgctxt "sSKYPEWIFI_CONNECTING_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s प्रति मिनट "
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
 msgid "FREE"
-msgstr ""
+msgstr "मुफ्त "
 
 msgctxt "sSKYPEWIFI_ONLINE_HEADER"
 msgid "You're online with Skype WiFi"
-msgstr ""
+msgstr "आप स्काइप वाई फाई से ऑनलाइन हैं "
 
 msgctxt "sSKYPEWIFI_ONLINE_DESC"
 msgid ""
@@ -11766,7 +11766,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ONLINE_BUTTON"
 msgid "Disconnect"
-msgstr ""
+msgstr "संपर्क तोड़े "
 
 msgctxt "sSKYPEWIFI_ONLINE_REMAINING"
 msgid "{MINUTES_REMAINING} minutes remaining"
@@ -11774,7 +11774,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ONLINE_REMAINING_ONE"
 msgid "1 minute remaining"
-msgstr ""
+msgstr "1 मिनट बांकी "
 
 msgctxt "sSKYPEWIFI_EXTEND_HEADER"
 msgid "Your connection is about to time out"
@@ -11792,7 +11792,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_EXTEND_BUTTON_DISCONNECT"
 msgid "Disconnect"
-msgstr ""
+msgstr "संपर्क तोड़े "
 
 msgctxt "sSKYPEWIFI_EXTEND_REMAINING"
 msgid "{MINUTES_REMAINING} minutes remaining"
@@ -11804,7 +11804,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_FLOATER_TITLE"
 msgid "Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई "
 
 msgctxt "sSKYPEWIFI_FLOATER_REMAINING"
 msgid "{MINUTES_REMAINING} minutes remaining"
@@ -11812,19 +11812,19 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_FLOATER_REMAINING_ONE"
 msgid "1 minute remaining"
-msgstr ""
+msgstr "1 मिनट बांकी "
 
 msgctxt "sSKYPEWIFI_FLOATER_NOTIME"
 msgid "Connected"
-msgstr ""
+msgstr "जुड़ा हुआ है "
 
 msgctxt "sSKYPEWIFI_FLOATER_AVAILABLE"
 msgid "Available"
-msgstr ""
+msgstr "मौजूद है "
 
 msgctxt "sSKYPEWIFI_FLOATER_CONNECTING"
 msgid "Connecting..."
-msgstr ""
+msgstr "जोड़ रहा है... "
 
 msgctxt "sSKYPEWIFI_FLOATER_EXTEND"
 msgid "Click here to extend your session"
@@ -11832,11 +11832,11 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_FAQ_CAPTION"
 msgid "Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई "
 
 msgctxt "sSKYPEWIFI_FAQ_TITLE"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgctxt "sSKYPEWIFI_FAQ"
 msgid ""
@@ -11869,7 +11869,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_FAQ_BUTTON_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sDELETE_THIS_VOICEMAIL_HINT"
 msgid "Delete this voice message"
@@ -11887,11 +11887,11 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADING"
 msgid "Sending"
-msgstr ""
+msgstr "भेज रहा है "
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
-msgstr ""
+msgstr "भेजा गया "
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_FAILED"
 msgid "Video message not sent"
@@ -11899,7 +11899,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_DELETED"
 msgid "Video message removed"
-msgstr ""
+msgstr "विडियो संदेश हटा दिया गया है  "
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_EXPIRED"
 msgid "Video message expired"
@@ -11913,7 +11913,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_DEFAULT_TITLE"
 msgid "You've got a video message"
-msgstr ""
+msgstr "आपको एक विडियो संदेश आया है "
 
 msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
 msgid ""
@@ -11928,19 +11928,19 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_EXPIRED_TITLE"
 msgid "Sorry, this video message has expired."
-msgstr ""
+msgstr "क्षमा। यह विडियो संदेश समाप्त हो चूका है "
 
 msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
 msgid "Sorry, this video message is unavailable."
-msgstr ""
+msgstr "क्षमा। यह विडियो संदेश उपलब्ध नहीं "
 
 msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_TITLE"
 msgid "Video Message Unavailable"
-msgstr ""
+msgstr " विडियो संदेश उपलब्ध नहीं "
 
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sADD_CONTACT_PANEL_SEARCH_HINT"
 msgid "Name, Skype Name or email"
@@ -11956,11 +11956,11 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr ""
+msgstr "संदेश भेजें "
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "संदेश भेजें "
 
 msgctxt "sSEND_SMS_TARGET_HINT"
 msgid "Change where you send SMS."
@@ -11972,7 +11972,7 @@ msgstr ""
 
 msgctxt "sSEND_SMS_TARGET_MENU_TITLE"
 msgid "Send SMS to"
-msgstr ""
+msgstr "को SMS भेजें"
 
 msgctxt "sSEND_SMS_REPLYTO_TITLE"
 msgid "Reply to %s"
@@ -12006,35 +12006,35 @@ msgstr ""
 
 msgctxt "sLIVE_LOGIN_BACK"
 msgid "Go back"
-msgstr ""
+msgstr "« पीछे "
 
 msgctxt "sLIVE_LOGIN_AUTO_SIGNIN"
 msgid "Sign me in when Skype starts"
-msgstr ""
+msgstr "स्काइप प्रारंभ होने पर मुझे साइन इन करें "
 
 msgctxt "sLIVE_LOGIN_DIFF_ACCOUNT"
 msgid "Sign in with a different account"
-msgstr ""
+msgstr "दुसरे अकाउंट से साइन इन करें "
 
 msgctxt "sLIVE_LOGIN_SCRIPTERROR"
 msgid "This page contains errors."
-msgstr ""
+msgstr "इस पृष्ट में त्रुटियाँ हैं "
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE1"
 msgid "<b>Enter</b> will send your message."
-msgstr ""
+msgstr "<b>इंटर</b> आपके संदेश भेज देगा "
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE2"
 msgid "If you wanted a line break use CTRL+ENTER."
-msgstr ""
+msgstr "अगले लाइन में लिखने के लिए ctrl+enter का प्रयोग करें "
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_SENDNOW"
 msgid "Send"
-msgstr ""
+msgstr "भेजें "
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_NOTYET"
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करें "
 
 msgctxt "sSMS_VERIFY_NUMBER_PROMPT"
 msgid ""
@@ -12044,31 +12044,31 @@ msgstr ""
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
-msgstr ""
+msgstr "हाई %s, मैं आपको संपर्क की तरह जोड़ना चाहता हूँ "
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER"
 msgid "Add number"
-msgstr ""
+msgstr "नंबर जोडें "
 
 msgctxt "sADD_PHONES_FORM_ADD_NAME"
 msgid "Add name"
-msgstr ""
+msgstr "नाम जोडें "
 
 msgctxt "sADD_PHONES_FORM_NUMBER"
 msgid "Number"
-msgstr ""
+msgstr "नंबर "
 
 msgctxt "sADD_PHONES_FORM_NAME"
 msgid "Name"
-msgstr ""
+msgstr "नाम "
 
 msgctxt "sADD_PHONES_FORM_TYPE"
 msgid "Type"
-msgstr ""
+msgstr "प्रकार "
 
 msgctxt "sSMS_FAILED_BUY_CREDIT"
 msgid "<a href=\"skype:?payments\">Buy Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments\"> स्काइप क्रेडिट खरीदें  </a>"
 
 msgctxt "sMSN_UPSELL_PANEL_MESSAGE"
 msgid ""
@@ -12098,113 +12098,113 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_LOGINHELP_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "और जाने "
 
 msgctxt "sOUTLOOK_CAPTION"
 msgid "Outlook"
-msgstr ""
+msgstr "आउटलुक"
 
 msgctxt "sMESSENGER_CAPTION"
 msgid "Messenger"
-msgstr ""
+msgstr "मैसेंजर "
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
 msgid "No results for %s"
-msgstr ""
+msgstr "%s के लिए कोई परिणाम नहीं "
 
 msgctxt "sSTATUS_UNKNOWN2"
 msgid "This person isn't in your Contact list."
-msgstr ""
+msgstr "यह व्यक्ति आपके संपर्क सूची में नहीं है "
 
 msgctxt "sCHAT_CONTENT_ACC_TYPING"
 msgid "%s is typing"
-msgstr ""
+msgstr "%s टाइप कर रहे हैं "
 
 msgctxt "sQUICK_FILTER_ADD_SKYPEOUT"
 msgid ""
 "<a href=\"skype:?show_add_phone&number=%s\">Save phone number</a> or<a "
 "href=\"skype:%s?call\"> call phone number</a>"
-msgstr ""
+msgstr "<a href=\"skype:?show_add_phone&number=%s\"> फ़ोन नंबर सहेजें</a> या <a href=\"skype:%s?call\">  फ़ोन नंबर पर कॉल करें </a>"
 
 msgctxt "sQUICK_FILTER_ADD_SKYPE"
 msgid "Search all people on Skype"
-msgstr ""
+msgstr "स्काइप पर सभी लोगों में ढूंढे "
 
 msgctxt "sCHANNEL_SWITCHER_SKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "स्काइप "
 
 msgctxt "sCHANNEL_SWITCHER_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sCHAT_MESSAGING_UNAVAILABLE"
 msgid "Messaging unavailable."
-msgstr ""
+msgstr "सन्देश सेवा उपलब्ध नहीं "
 
 msgctxt "sCHANNEL_SWITCHER_FACEBOOK"
 msgid "Facebook"
-msgstr ""
+msgstr "फेसबुक "
 
 msgctxt "sCHANNEL_SWITCHER_PASSPORT"
 msgid "Messenger"
-msgstr ""
+msgstr "मैसेंजर "
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "लींक "
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
 msgid "via <a href=\"x\">Skype</a>"
-msgstr ""
+msgstr "<a href=\"x\">स्काइप </a> द्वारा "
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SMS"
 msgid "via <a href=\"x\">SMS</a>"
-msgstr ""
+msgstr "<a href=\"x\"> sms</a> द्वारा "
 
 msgctxt "sCHANNEL_SWITCHER_VIA_FACEBOOK"
 msgid "via <a href=\"x\">Facebook</a>"
-msgstr ""
+msgstr "<a href=\"x\">फेसबुक</a> द्वारा "
 
 msgctxt "sCHANNEL_SWITCHER_VIA_PASSPORT"
 msgid "via <a href=\"x\">Messenger</a>"
-msgstr ""
+msgstr "<a href=\"x\"> मैसेंजर</a>  द्वारा "
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
 msgid "via <a href=\"x\">Lync</a>"
-msgstr ""
+msgstr "<a href=\"x\"> लींक </a> द्वारा "
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
-msgstr ""
+msgstr "स्काइप पर वापस जायें "
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SMS"
 msgid "Switch to SMS"
-msgstr ""
+msgstr "SMS पर वापस जायें "
 
 msgctxt "sCHANNEL_SWITCHER_HINT_FACEBOOK"
 msgid "Switch to Facebook"
-msgstr ""
+msgstr "फेसबुक पर वापस जायें  "
 
 msgctxt "sCHANNEL_SWITCHER_HINT_PASSPORT"
 msgid "Switch to Messenger"
-msgstr ""
+msgstr "मैसेंजर पर वापस जायें "
 
 msgctxt "sCHANNEL_SWITCHER_HINT_LYNC"
 msgid "Switch to Lync"
-msgstr ""
+msgstr "लींक पर वापस जायें "
 
 msgctxt "sCHANNEL_SWITCHER_COST_HINT"
 msgid "Cost of SMS"
-msgstr ""
+msgstr "SMS का दाम "
 
 msgctxt "sSEND_SMS_FROM_SKYPE_STATUS"
 msgid "Send SMS from Skype"
-msgstr ""
+msgstr "स्काइप से sms भेजें "
 
 msgctxt "sGETTING_STARTED_INTRO_CAPTION2"
 msgid "Set your profile picture"
-msgstr ""
+msgstr "अपनी प्रोफाइल चित्र तय करें "
 
 msgctxt "sGETTING_STARTED_INTRO_CONTENT4"
 msgid ""
@@ -12215,11 +12215,11 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_INTRO_KEEP_PICTURE"
 msgid "Keep picture"
-msgstr ""
+msgstr "चित्र रखें "
 
 msgctxt "sGETTING_STARTED_INTRO_NEW_PICTURE"
 msgid "New picture"
-msgstr ""
+msgstr "नया चित्र "
 
 msgctxt "sF_PAYMENTS_FRM_CAPTION"
 msgid "Buy credit - %s"
@@ -12238,19 +12238,19 @@ msgstr "अकाउंट"
 
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
-msgstr ""
+msgstr "स्काइप से स्काइप और ज्यादा करें "
 
 msgctxt "sCHAT_SEND_HINT"
 msgid "Send"
-msgstr ""
+msgstr "भेजें "
 
 msgctxt "sPARTICIPANTS_HAVE_NO_NUMBER_STATUS"
 msgid "You can only send an SMS to people with saved numbers."
-msgstr ""
+msgstr "आप सिर्फ उन लोगों को sms भेज सकते हैं जिनका नंबर सहेजा हुआ है "
 
 msgctxt "sSKYPEWIFI_TOU_CAPTION"
 msgid "Terms of Use"
-msgstr ""
+msgstr "इस्तेमाल की शर्तें "
 
 msgctxt "sCONVERSATION_FLAMINGO_PARTNER_BLOCKED"
 msgid ""
@@ -12260,15 +12260,15 @@ msgstr ""
 
 msgctxt "sSEND_CONTACT_REQUEST"
 msgid "Send %s a contact request"
-msgstr ""
+msgstr "%s  को संपर्क अनुरोध भेजें "
 
 msgctxt "sMYINFO_PREMIUM_ACCOUNT"
 msgid "Premium account"
-msgstr ""
+msgstr "प्रीमियम अकाउंट "
 
 msgctxt "sMYINFO_MANAGE_PREMIUM_ACCOUNT"
 msgid "Manage Premium"
-msgstr ""
+msgstr "प्रीमियम प्रबंध करें "
 
 msgctxt "sMYINFO_GET_PREMIUM"
 msgid ""
@@ -12278,11 +12278,11 @@ msgstr ""
 
 msgctxt "sMYINFO_CREDIT"
 msgid "Credit"
-msgstr ""
+msgstr "क्रेडिट "
 
 msgctxt "sMYINFO_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
-msgstr ""
+msgstr "स्काइप क्रेडिट जोड़े "
 
 msgctxt "sMYINFO_BUY_SKYPE_CREDIT"
 msgid ""
@@ -12293,7 +12293,7 @@ msgstr ""
 
 msgctxt "sMYINFO_SUBSCRIPTIONS"
 msgid "Subscriptions"
-msgstr ""
+msgstr "सब्सक्रिप्शन  "
 
 msgctxt "sMYINFO_ONE_SUBSCRIPTION"
 msgid "1 subscription<br/><a href=\"%s\">Manage subscriptions</a>"
@@ -12393,143 +12393,143 @@ msgstr ""
 
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
-msgstr ""
+msgstr "पूरी प्रोफाइल दिखाएं "
 
 msgctxt "sHIDE_FULL_PROFILE"
 msgid "Hide full profile"
-msgstr ""
+msgstr "पूरी प्रोफाइल छिपाएं "
 
 msgctxt "sPROFILE_ACCOUNTS"
 msgid "Accounts"
-msgstr ""
+msgstr "अकाउंट"
 
 msgctxt "sPROFILE_MANAGE"
 msgid "Manage"
-msgstr ""
+msgstr "प्रबंधन करें  "
 
 msgctxt "sTOPUP_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
-msgstr ""
+msgstr "स्काइप क्रेडिट जोड़े "
 
 msgctxt "sTOPUP_INTRO_PARAGRAPH"
 msgid ""
 "You need more credit for this call or SMS. Use our quick top-up and enable "
 "Auto-recharge so you never run low again."
-msgstr ""
+msgstr "इस कॉल या sms  के लिए आपको और अधिक क्रेडिट की अवश्यकता है। हमारे क्विक टॉप-अप एवं स्वतः रिचार्ज चालू करें ताकी आपका क्रेडिट कभी कम न हो  "
 
 msgctxt "sTOPUP_LOADING"
 msgid "Loading..."
-msgstr ""
+msgstr "लोड कर रहा है..."
 
 msgctxt "sTOPUP_PAYING"
 msgid "Paying with:"
-msgstr ""
+msgstr "से भुगतान कर रहा है… "
 
 msgctxt "sTOPUP_AUTO_RECHARGE"
 msgid "Enable Auto-recharge"
-msgstr ""
+msgstr "स्वतः रिचार्ज चालू करें"
 
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
 msgid "Accept <a href=\"%s\">Terms of Use</a>"
-msgstr ""
+msgstr "<a href=\"%s\">इस्तेमाल की शर्तें </a> मानें "
 
 msgctxt "sTOPUP_INC_VAT"
 msgid "%s incl. VAT"
-msgstr ""
+msgstr "%s वैट सम्मिलित"
 
 msgctxt "sTOPUP_ADD_CREDIT"
 msgid "Add credit"
-msgstr ""
+msgstr "क्रेडिट जोड़े "
 
 msgctxt "sTOPUP_CONFIRMATION"
 msgid ""
 "Success! Your order has been placed. You'll receive an email notification "
 "shortly."
-msgstr ""
+msgstr "सफल। आपका आर्डर सफलतापूर्वक ले लिया गया है । आपको जल्द ही ई मेल द्वारा जानकारी भेज दी जाएगी "
 
 msgctxt "sTOPUP_CONFIRMATION_CONT"
 msgid "Continue"
-msgstr ""
+msgstr "चालू रखे "
 
 msgctxt "sTOPUP_GENERIC_ERROR"
 msgid ""
 "Sorry, we couldn't complete your payment. Please check your payment settings"
 " and try again."
-msgstr ""
+msgstr "क्षमा। हम आपकी भुगतान पूरी नहीं कर पाए। अपने भुगतान की सेटिंग जांच लें एवं पुनः प्रयास करें "
 
 msgctxt "sTOPUP_GENERIC_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sTOPUP_CONT_ERROR"
 msgid ""
 "Sorry, we couldn't complete your payment. Please continue to our online "
 "payments and try again."
-msgstr ""
+msgstr "क्षमा। हम आपकी भुगतान पूरी नहीं कर पाए। कृपया हमारे ऑनलाइन भुगतान को चालू रखे एवं पुनः प्रयास करें "
 
 msgctxt "sTOPUP_CONT_ERROR_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "चालू रखे "
 
 msgctxt "sTOPUP_CONN_ERROR"
 msgid ""
 "Sorry, we couldn't complete your payment because there was a connection "
 "problem. Please try again."
-msgstr ""
+msgstr "क्षमा, हम आपकी भुगतान पूरी नहीं कर सके क्यूंकि आपके कनेक्शन में कुछ त्रुटी है। पुनः प्रयास करें "
 
 msgctxt "sTOPUP_CONN_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sMAINMENU_CONVERSATION_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sLYNC_CAPTION"
 msgid "Lync"
-msgstr ""
+msgstr "लींक "
 
 msgctxt "sCONTACT_GROUP_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "लींक "
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
 msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr ""
+msgstr "%s लींक पर ऑफलाइन हैं. <a href=\"skype:%s?sms\"> sms भेजें </a>"
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
-msgstr ""
+msgstr "आप इस वक़्त ऑफलाइन हैं एवं चैट नहीं कर सकते "
 
 msgctxt "sF_OPTIONS_RB_3"
 msgid "send message"
-msgstr ""
+msgstr "संदेश भेजें "
 
 msgctxt "sF_OPTIONS_RB_4"
 msgid "insert line break"
-msgstr ""
+msgstr "अगली लाइन में लिखें "
 
 msgctxt "sF_OPTIONS_LB_6"
 msgid "Pressing Enter will..."
-msgstr ""
+msgstr "इंटर दबाने से..."
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_HEADER"
 msgid "How Auto-recharge works"
-msgstr ""
+msgstr "स्वतः रिचार्ज कैसे कार्य करता है "
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
 msgid ""
 "Don't worry about running out of credit, we'll add more when you're running "
 "low."
-msgstr ""
+msgstr "आप क्रेडिट ख़त्म होने की चिंता ना करें। आपकी क्रेडिट कम होने पर हम स्वतः और क्रेडिट जोड़ देंगे "
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
 msgid "Skype WiFi"
-msgstr ""
+msgstr "स्काइप वाई-फाई "
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
 msgid "Error: %d"
-msgstr ""
+msgstr "त्रुटी:  %d"
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
 msgid ""
@@ -12616,63 +12616,63 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_DOWNLOAD_HINT"
 msgid "Download video message"
-msgstr ""
+msgstr "विडियो संदेश डाउनलोड करें "
 
 msgctxt "sVIDEOMSG_BACK_HINT"
 msgid "Go back to chat"
-msgstr ""
+msgstr "चैट में वापस जायें "
 
 msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
 msgid "Close"
-msgstr ""
+msgstr "बंद करें "
 
 msgctxt "sVIDEOMSG_SEND"
 msgid "Send video message"
-msgstr ""
+msgstr "विडियो संदेश भेजें "
 
 msgctxt "sCALL_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "लींक "
 
 msgctxt "sCALL_POPUP_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "लींक "
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
-msgstr ""
+msgstr "नंबर जोडें "
 
 msgctxt "sADD_PHONE_NUMBER_CAPTION"
 msgid "Save a phone number"
-msgstr ""
+msgstr "फ़ोन नंबर सहेजें "
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr ""
+msgstr "पसंदीदा से हटायें "
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr ""
+msgstr "पसंदीदा में जोडें "
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "विडियो संदेश भेजें "
 
 msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
 msgid "Camera in use"
-msgstr ""
+msgstr "कैमरा इस्तेमाल में है "
 
 msgctxt "sCQ_VIDEO_MESSAGE_DESC"
 msgid "To see your camera, close your video message first."
-msgstr ""
+msgstr "कैमरा देखने के लिए पहले विडियो सन्देश बंद करें "
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
-msgstr ""
+msgstr "विडियो संदेश भेजें "
 
 msgctxt "sAC_SEND_REQ"
 msgid "%s is not in your Contacts"
-msgstr ""
+msgstr "%s आपके संपर्क सूचि में नहीं है "
 
 msgctxt "sAC_RESEND_REQ"
 msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
@@ -12684,7 +12684,7 @@ msgstr ""
 
 msgctxt "sAC_REQ_SENT"
 msgid "Contact request sent"
-msgstr ""
+msgstr "संपर्क अनुरोध भेजा"
 
 msgctxt "sAC_UNBLOCK"
 msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
@@ -12724,11 +12724,11 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
 msgid "Looking good!"
-msgstr ""
+msgstr "अच्छे लग रहे हैं "
 
 msgctxt "sVIDEOMSG_LOOKING_GOOD_DESC"
 msgid "Hit record when you're ready."
-msgstr ""
+msgstr "जब तैयार हो जायें तो रिकॉर्ड पर क्लिक करें "
 
 msgctxt "DECLINE_POPUP_CAPTION"
 msgid "Decline contact request"
