@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-14 08:56+0000\n"
+"PO-Revision-Date: 2013-09-19 17:11+0000\n"
 "Last-Translator: Pradeep Jha <pj.pradeepjha@gmail.com>\n"
 "Language-Team: Hindi (http://www.transifex.com/projects/p/skype-translation-project/language/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -2794,7 +2794,7 @@ msgstr "विडियो इंजन आरम्भ नहीं "
 
 msgctxt "sERROR_HINT_VIDEO_6"
 msgid "Video source isn't delivering the stream in the correct format."
-msgstr ""
+msgstr "विडियो स्रोत स्ट्रीम को सही फॉर्मेट मैं नहीं भेज रहा है "
 
 msgctxt "sERROR_HINT_VIDEO_7"
 msgid ""
@@ -2809,11 +2809,11 @@ msgstr "स्काइप आपके वेबकैम तक नहीं �
 
 msgctxt "sERROR_HINT_VIDEO_9"
 msgid "Internal error (Control packet unknown)."
-msgstr ""
+msgstr "आतंरिक त्रुटी (कंट्रोल पैकेट अज्ञात)"
 
 msgctxt "sERROR_HINT_VIDEO_10"
 msgid "Failed to render the stream to a video picture."
-msgstr ""
+msgstr "स्ट्रीम को विडियो चित्र में रूपांतरित करने में विफल "
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_READ"
 msgid "File sending failed. Unable to read file."
@@ -2991,7 +2991,7 @@ msgstr "पुनः खोजें "
 
 msgctxt "sF_TRANSLATE_NOT_FOUND"
 msgid "Sorry, string not found."
-msgstr ""
+msgstr "क्षमा। स्ट्रिंग नहीं पाया गया  "
 
 msgctxt "sF_UPGRADE_FRM_CAPTION"
 msgid "Update"
@@ -3007,7 +3007,7 @@ msgstr "स्काइप की अपडेट डाउनलोड कर�
 
 msgctxt "sF_UPGRADE_LINK"
 msgid "View technical release notes for this update."
-msgstr ""
+msgstr "इस अपडेट के लिए तकनीकी रिलीज़ नोट्स देखे "
 
 msgctxt "sF_UPGRADE_FORCED_TEXT1"
 msgid ""
@@ -3029,7 +3029,7 @@ msgctxt "sF_UPGRADE_NORMAL_TEXT2"
 msgid ""
 "This is a <b>major release</b>, which means it is a significant update which"
 " has several new features and offers dramatic improvements."
-msgstr ""
+msgstr "यह एक <b>मेजर रिलीज़</b> है जिसका अर्थ है की यह एक महत्वपूर्ण रिलीज़ है जिसमे अनेक नयी विशेषताएं हैं एवं नाटकीय सुधार है "
 
 msgctxt "sF_UPGRADE_INIT"
 msgid "Initializing..."
@@ -3105,7 +3105,7 @@ msgstr "स्काइप का अपडेट डाउनलोड अस�
 
 msgctxt "sF_UPGRADE_FAILED_TEXT2"
 msgid "to go online and download the upgrade manually."
-msgstr ""
+msgstr "ऑनलाइन जा कर खुद से अपग्रेड डाउनलोड करने के लिए "
 
 msgctxt "sF_UPGRADE_FAILED_LINK"
 msgid "Click here"
@@ -3130,7 +3130,7 @@ msgstr "अपडेट जांचे "
 msgctxt "sF_MULTICHAT_CLOSE_WARNING"
 msgid ""
 "There is an unsent message in this IM. Are you sure you want to close it?"
-msgstr ""
+msgstr "इस im में एक अत्यावश्यक संदेश है। आप निश्चित रूप से इसे बंद करना चाहते हैं?"
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_TITLE"
 msgid "Close conversation window"
@@ -3150,7 +3150,7 @@ msgstr "तकनीकी कारणों की वजह से, कृप
 
 msgctxt "sF_PAYMENTS_ERROR_LINK"
 msgid "continue your payment in the Skype webstore using your web browser."
-msgstr ""
+msgstr "स्काइप वेब स्टोर पर अपनी भुगतान वेब ब्राउज़र पर चालू रखें "
 
 msgctxt "sF_CONFIRM_DELETE"
 msgid "Delete"
@@ -3176,7 +3176,7 @@ msgstr "आपने जो फ़ोन नंबर डायल करने क
 
 msgctxt "sLOGIN_PROGRESS_LABEL"
 msgid "Skype is updating files. This may take some time."
-msgstr ""
+msgstr "स्काइप फाइल्स अपडेट कर रहा है । इसमें कुछ समय लग सकता है "
 
 msgctxt "sF_USERPROFILE_PHONE_NOTE2"
 msgid "Enter the phone number with country or region code."
@@ -3196,7 +3196,7 @@ msgstr "देश अथवा क्षेत्र कोड के साथ 
 
 msgctxt "sF_OPTIONS_SMS_LB5"
 msgid "When I send an SMS message, identify me by:"
-msgstr ""
+msgstr "मैं जब sms भेजूं तो मुझे ऐसे पहचानें :"
 
 msgctxt "sF_OPTIONS_SMS_LB6"
 msgid "To choose this option, you must"
@@ -3212,7 +3212,7 @@ msgstr "कोई अन्य मोबाइल नंबर प्रमा�
 
 msgctxt "sF_OPTIONS_SMS_RB1"
 msgid "My Skype Name %s. Recipients can't send SMS replies"
-msgstr ""
+msgstr "मेरा स्काइप नाम %s है। प्राप्तकर्ता मुझे sms उत्तर नहीं भेज सकते हैं "
 
 msgctxt "sF_EDITSKYPEOUT_CAPTION"
 msgid "Edit phone number"
@@ -3271,7 +3271,7 @@ msgstr "आप एक फ़ोन या मोबाइल नंबर पर �
 
 msgctxt "sF_CONFIRM_COUNTRY_LBL1"
 msgid "The link you clicked will call %s phone number %s."
-msgstr ""
+msgstr "आपने जिस लिंक पर क्लिक किया वह %s के फ़ोन नंबर %s पर कॉल करेगा "
 
 msgctxt "sF_CONFIRM_COUNTRY_LBL2"
 msgid "Are you sure you want to continue?"
@@ -3307,11 +3307,11 @@ msgstr "स्काइप में आपका स्वागत है "
 
 msgctxt "sF_STRING_EDIT_TITLE"
 msgid "String edit"
-msgstr ""
+msgstr "स्ट्रिंग संपादन "
 
 msgctxt "sF_STRING_EDIT_CAPTION"
 msgid "String edit"
-msgstr ""
+msgstr "स्ट्रिंग संपादन "
 
 msgctxt "sF_STRING_EDIT_BTN_OK"
 msgid "OK"
@@ -3675,7 +3675,7 @@ msgid ""
 "IMs or other Skype events, although you will still hear your ringtone when "
 "someone calls you. To return to normal, click on the Skype icon in the "
 "System Tray at the bottom of your screen and choose Open Skype."
-msgstr ""
+msgstr "जब तक यह एप्प चल रहा है तब तक आपको कॉल, IM या अन्य स्काइप घटनाओं के लिए सूचित नहीं किया जायेगा, हालाँकि अगर कोई आपको कॉल करेगा तो रिंगटोन ज़रूर सुनाई देगा। सामान्य पर वापस आने के लिए सिस्टम ट्रे में स्काइप के चिन्ह पर क्लिक करें और \"स्काइप खोलें\" चुनें "
 
 msgctxt "sSILENT_GUI_WARNING3"
 msgid "Click OK to accept or Cancel to deny this request."
@@ -3731,11 +3731,11 @@ msgstr "मुझे सूचित ना करें "
 
 msgctxt "sF_CHAT_NOTIFY_RB3"
 msgid "Notify me only if these words are mentioned:"
-msgstr ""
+msgstr "मुझे तभी आगाह करें अगर ये शब्द मौजूद हों "
 
 msgctxt "sF_CHAT_NOTIFY_LB_HEADER1"
 msgid "IM notifications will alert you when something new happens in this IM."
-msgstr ""
+msgstr "इस IM में अगर कुछ नया होगा तो आपको IM नोटीफीकेसन भेज दिया जायेगा "
 
 msgctxt "sF_CHAT_NOTIFY_LB_HEADER2"
 msgid ""
@@ -3755,7 +3755,7 @@ msgstr ""
 
 msgctxt "sCHAT_STATUSMESSAGE_LISTENER"
 msgid "You are currently not allowed to post messages."
-msgstr ""
+msgstr "आपको फिलहाल संदेश पोस्ट करने की अनुमति नहीं है "
 
 msgctxt "sCHAT_MENU_NOTIFICATIONS"
 msgid "IM Notification Settings"
@@ -3763,7 +3763,7 @@ msgstr "IM नोटीफीकेसन सेटिंग "
 
 msgctxt "sCHAT_MEMBER_KICKED"
 msgid "%s removed %s from this conversation."
-msgstr ""
+msgstr "%s ने %s को वार्तालाप से हटाया "
 
 msgctxt "sF_CHAT_PIC_CAPTION"
 msgid "Conversation picture"
@@ -4060,7 +4060,7 @@ msgstr "क्षमा । आपका इन्टरनेट कनेक�
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
-msgstr ""
+msgstr "%s कॉल कर रहा है "
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
@@ -4072,19 +4072,19 @@ msgstr "कॉल गुणवत्ता "
 
 msgctxt "sSOUNDSETTINGS_RECLEVEL"
 msgid "Recording level"
-msgstr ""
+msgstr "रिकॉर्डिंग स्तर "
 
 msgctxt "sSOUNDSETTINGS_PLAYLEVEL"
 msgid "Adjust call volume"
-msgstr ""
+msgstr "कॉल की आवाज़ ठीक करें "
 
 msgctxt "sCHAT_SETOPTIONS_MUTED_ALL"
 msgid "%s has made all participants in this conversation read-only"
-msgstr ""
+msgstr "%s ने इस कॉल के सभी सहभागियों को \"रीड ओनली\" बना दिया है "
 
 msgctxt "sCHAT_SETOPTIONS_UNMUTED_ALL"
 msgid "%s has allowed people in this conversation to write messages"
-msgstr ""
+msgstr "%s ने इस कॉल के सभी सहभागियों को संदेश लिखने की अनुमति दी है  "
 
 msgctxt "sPREMIUMCALL_WEBWINDOW_TITLE"
 msgid "Skype Prime"
@@ -4108,11 +4108,11 @@ msgstr "स्काइप "
 
 msgctxt "sCALL_IS_FORWARDED"
 msgid "Your call is being forwarded free of charge. Please wait."
-msgstr ""
+msgstr "आपका कॉल मुफ्त में फॉरवर्ड किया जा रहा है। कृपया प्रतीक्षा करें "
 
 msgctxt "sCALL_QUALITY_DIAL_PAD"
 msgid "Problems sending dial pad (DTMF) tones."
-msgstr ""
+msgstr "डायल पैड टोन (DTMF) भेजने में दिक्कतें  "
 
 msgctxt "sCALL_QUALITY_CALL_DROPPED"
 msgid "Call dropped."
@@ -4132,7 +4132,7 @@ msgstr "गूँज का अनुभव "
 
 msgctxt "sCALL_QUALITY_NOISE"
 msgid "Experienced background noise."
-msgstr ""
+msgstr "पीछे की कोलाहल का अनुभव किया "
 
 msgctxt "sCALL_QUALITY_SOUND_DELAY"
 msgid "Sound was delayed."
@@ -4140,7 +4140,7 @@ msgstr "आवाज़ देर से आ रही थी "
 
 msgctxt "sCALL_QUALITY_BAD_SOUND"
 msgid "Sound quality was inconsistent."
-msgstr ""
+msgstr "आवाज़ की गुणवत्ता अस्थिर थी "
 
 msgctxt "sF_IMAGE_CONTENT_DELETE"
 msgid "Delete"
@@ -4174,13 +4174,13 @@ msgctxt "sCHAT_GAP_IN_CHAT"
 msgid ""
 "You have been offline for too long. Some messages have been lost from that "
 "period."
-msgstr ""
+msgstr "आप बहुत लम्बे समय से ऑफलाइन थे । उस समय के कुछ ऑफलाइन संदेश खो गए हैं "
 
 msgctxt "sERROR_HINT_VIDEO_13"
 msgid ""
 "You need newer version of <a "
 "href=\"http://www.microsoft.com/directx/\">DirectX</a> to use video."
-msgstr ""
+msgstr "विडियो इस्तेमाल करने के लिए आपको <a href=\"http://www.microsoft.com/directx/\">DirectX</a> का नया संस्करण चाहिए "
 
 msgctxt "sERROR_HINT_VIDEO_14"
 msgid ""
@@ -4208,7 +4208,7 @@ msgstr "अवरोधित संपर्क "
 
 msgctxt "sF_OPTIONS_CHAT_APPEARANCE"
 msgid "IM appearance"
-msgstr ""
+msgstr "IM दिखावत "
 
 msgctxt "sF_OPTIONS_CHATS_SMS"
 msgid "IM & SMS"
@@ -4273,11 +4273,11 @@ msgstr "स्काइप में गोपनीयता एवं सु�
 
 msgctxt "sF_OPTIONS_SHOW_BASIC_OPTIONS"
 msgid "Show basic options"
-msgstr ""
+msgstr "मूलभूत विकल्प दिखाएं "
 
 msgctxt "sF_OPTIONS_RESET_DEFAULT"
 msgid "Reset to defaults"
-msgstr ""
+msgstr "पुनः डिफ़ॉल्ट पर सेट करें "
 
 msgctxt "sF_OPTIONS_SHOW_EXAMPLE"
 msgid "Show an example"
@@ -4342,7 +4342,7 @@ msgstr "मोबाइल पर sms भेजने के लिए स्क
 
 msgctxt "sF_OPTIONS_CALL_FORWARD1"
 msgid "Answer your Skype calls no matter where you are with call forwarding"
-msgstr ""
+msgstr "इस IM में अगर कुछ नया होगा तो आपको IM नोटीफीकेसन भेज दिया जायेगा "
 
 msgctxt "sF_OPTIONS_CALL_FORWARD3"
 msgid ""
@@ -4383,7 +4383,7 @@ msgstr "स्काइप क्रेडिट"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8b"
 msgid "or a subscription to forward calls"
-msgstr ""
+msgstr "या फिर कॉल फॉरवर्ड करने के लिए एक सब्सक्रिप्शन "
 
 msgctxt "sF_OPTIONS_FORWARD_AFTER"
 msgid "Forward calls if I do not answer within"
@@ -4433,7 +4433,7 @@ msgstr "ऐसे सहेजें "
 
 msgctxt "sF_IMAGE_CONTENT_SAVE_ERROR"
 msgid "Source file is invalid or does not exist"
-msgstr ""
+msgstr "श्रोत फाइल अवैध है या मौजूद नहीं है "
 
 msgctxt "sF_USERINFO_SERTIFIED_HINT"
 msgid "This is a business contact."
@@ -7791,7 +7791,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBL_VISUAL_STYLE"
 msgid "Visual style of the window"
-msgstr ""
+msgstr "विंडो की दृश्य स्टाइल "
 
 msgctxt "sF_OPTIONS_RB_CHROME_SKYPE"
 msgid "Skype"
@@ -7851,76 +7851,76 @@ msgstr "uPnP सक्षम करें"
 
 msgctxt "sCALL_FREE_OUT_CREDIT1"
 msgid "You've used your free trial minutes."
-msgstr ""
+msgstr "आपने अपना मुफ्त ट्राइल मिनट्स इस्तेमाल कर लिया "
 
 msgctxt "sCALL_FREE_OUT_CREDIT2"
 msgid ""
 "Thanks for calling. If you want to call phones and mobiles again, you'll "
 "need some Skype Credit."
-msgstr ""
+msgstr "कॉल करने के लिए धन्यवाद। अगर आप फिर से फ़ोन या मोबाइल पर कॉल करना चाहते हैं तो आपको कुछ स्काइप क्रेडिट की आवश्यकता  पड़ेगी "
 
 msgctxt "sCALL_FREE_END1"
 msgid "How was that?"
-msgstr ""
+msgstr "यह कैसा था ?"
 
 msgctxt "sCALL_FREE_END2"
 msgid ""
 "If you want to call a phone number again, you'll need some Skype Credit."
-msgstr ""
+msgstr "अगर आप फिर से फ़ोन या मोबाइल पर कॉल करना चाहते हैं तो आपको कुछ स्काइप क्रेडिट की आवश्यकता पड़ेगी "
 
 msgctxt "sPLUGIN_MANAGER_NOT_AVAILABLE"
 msgid "You need the Skype Extras Manager installed to run this extra."
-msgstr ""
+msgstr "आपको इस अतिरिक्त सुविधा को चलने के लिए स्काइप अतिरिक्त प्रबंधक की आवश्यकता है "
 
 msgctxt "sUNNAMED_SKYPEOUT_CONTACT"
 msgid "Unnamed contact"
-msgstr ""
+msgstr "अनाम संपर्क "
 
 msgctxt "sCONVERSATION_MARK_READ"
 msgid "Mark as Read"
-msgstr ""
+msgstr "पठित घोषित किया गया "
 
 msgctxt "sCHAT_POSTED_CONTACTS"
 msgid "%d contacts sent to %s"
-msgstr ""
+msgstr "%s को %d संपर्क भेजा गया "
 
 msgctxt "sSMS_TARGET_INVALID_MESSAGE"
 msgid ""
 "Number not recognised. Go to the Call Phones tab to enter the number and "
 "send the SMS."
-msgstr ""
+msgstr "नंबर पहचान नहीं सके। कॉल फ़ोन टैब में जाकर नंबर पप्रविष्ट करें और sms भेजें "
 
 msgctxt "sPFOFILE_HEADER_INFO_BUTTON"
 msgid "Show group avatar and topic"
-msgstr ""
+msgstr "ग्रुप की अवतार एवं विषय दिखाएं "
 
 msgctxt "sFILETRANSFER_TRANSFER_INCOMPLETE"
 msgid ""
 "The file transfer is still in progress. You can open the file once the "
 "transfer is complete."
-msgstr ""
+msgstr "फाइल स्थान्तरण अभी भी चालू है। जब स्थान्तरण पूर्ण हो जाये तब आप उसे खोल सकते हैं "
 
 msgctxt "sFILETRANSFER_TRANSFER_CANCELLED"
 msgid "The file can not be opened as the transfer has been cancelled"
-msgstr ""
+msgstr "फाइल खोल नहीं सकते क्यूंकि फाइल स्थान्तरण विफल हो गया है "
 
 msgctxt "sFILETRANSFER_FILE_MISSING"
 msgid ""
 "The file \"%s\" cannot be found. Probably it has been renamed or moved to a "
 "different location"
-msgstr ""
+msgstr "फाइल %s नहीं पाया जा सका। शायद उसका स्थान बदल दिया गया है या उसकी नाम बदल दी गयी है "
 
 msgctxt "sFILETRANSFER_FILE_MISSING_TITLE"
 msgid "File not found"
-msgstr ""
+msgstr "फाइल नहीं पाया गया "
 
 msgctxt "sFILETRANSFER_FILE_MISSING_CAPTION"
 msgid "File not found"
-msgstr ""
+msgstr "फाइल नहीं पाया गया "
 
 msgctxt "sSMS_TARGET_UNDISCLOSED"
 msgid "The contact must have a valid phone number for you to send SMS"
-msgstr ""
+msgstr "संपर्क का फ़ोन नंबर वैध होना ज़रूरी है तभी आप sms भेज सकते हैं "
 
 msgctxt "sCHAT_MENU_COPY_MESSAGE"
 msgid "Copy Message"
@@ -8036,7 +8036,7 @@ msgctxt "sUSERINFO_LABEL_EXTERNAL_NOT_FOUND"
 msgid ""
 "Profile not available. You can only see this person's details when you have "
 "MS Outlook open."
-msgstr ""
+msgstr "प्रोफाइल उपलब्ध नहीं है। आप इस व्यक्ति की प्रोफाइल तभी देख सकते हैं जब आपने MS ऑफिस खोल रखा है "
 
 msgctxt "sOPTIONS_USE_SPEAKER_DEVICE"
 msgid "Use selected speaker"
@@ -8062,19 +8062,19 @@ msgctxt "sF_OPTIONS_CF_ERROR5"
 msgid ""
 "You can't forward calls to a person who hasn't accepted your contact "
 "request."
-msgstr ""
+msgstr "जिस व्यक्ति ने आपका संपर्क अनुरोध मंज़ूर नहीं किया है उन्हें आप कॉल फॉरवर्ड नहीं कर सकते "
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_LONG"
 msgid ""
 "Your password is too long. It needs to be 6-20 characters long. Try a new "
 "password."
-msgstr ""
+msgstr "आपका पासवर्ड बहुत लम्बा है । इसे 6-20 अंकों का होना चाहिए । नया पासवर्ड कोशिश करें  "
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID_CHAR"
 msgid ""
 "This password contains an invalid character eg Σ, ñ, à, ß. Try another "
 "password."
-msgstr ""
+msgstr "आपके पासवर्ड में अवैध चिन्ह हैं। उदहारण के लिए: Σ, ñ, à, ß । कृपया अन्य पासवर्ड चुने "
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_CONTAINS_SPACE"
 msgid "Your password can't contain a space. Try a new password."
@@ -8607,39 +8607,39 @@ msgctxt "sCALL_TRANSFER_INFO"
 msgid ""
 "For calls transferred to landlines or mobile phones, Skype rates to phones "
 "apply."
-msgstr ""
+msgstr "लैंडलाइन एवं मोबाइल पर स्थान्तरित कॉल्स के लिए फ़ोन पर स्काइप के दर लगेंगे "
 
 msgctxt "sCALL_TRANSFER_ENTER_PHONE_NO"
 msgid "Enter the phone number"
-msgstr ""
+msgstr "फ़ोन नंबर प्रविष्ट करें "
 
 msgctxt "sCALL_TRANSFER_SELECT_CONTACT"
 msgid "Select a contact from your Contact list"
-msgstr ""
+msgstr "अपने संपर्क सूचि में से सम्पर्क चुनें "
 
 msgctxt "sCALL_TRANSFER_CALL_FROM_TO"
 msgid "Transferring call from <b>%s</b> to <b>%s</b>"
-msgstr ""
+msgstr "<b>%s</b> से <b>%s</b> को कॉल स्थान्तरित कर रहा है "
 
 msgctxt "sCALL_TRANSFER_SELECT_DIFF_CONTACT"
 msgid "Select a different contact"
-msgstr ""
+msgstr "अन्य संपर्क चुनें "
 
 msgctxt "sCALL_TRANSFER_ENTER_MSG"
 msgid "Enter a message for %s"
-msgstr ""
+msgstr "%s के लिए एक संदेश प्रविष्ट करें "
 
 msgctxt "sCQ_ADJUST_SPEAKERS"
 msgid "Adjust speaker settings"
-msgstr ""
+msgstr "स्पीकर की सेटिंग ठीक करें "
 
 msgctxt "sCQ_ADJUST_MIC"
 msgid "Adjust microphone settings"
-msgstr ""
+msgstr "माइक्रोफोन की सेटिंग ठीक करें "
 
 msgctxt "sCQ_ADJUST_VIDEO"
 msgid "Choose the camera you want to use"
-msgstr ""
+msgstr "चयनित करें की कौन सा कैमरा इस्तेमाल करना चाहते हैं "
 
 msgctxt "sCQ_QUALITY_LEVEL_BAD"
 msgid "Bad"
@@ -8729,13 +8729,13 @@ msgctxt "sF_USERENTRY_PROFILE_HINT1"
 msgid ""
 "When your friends search for you on Skype, this information helps you stand "
 "out from other people who share your name."
-msgstr ""
+msgstr "जब आपके मित्र आपको स्काइप पर ढूंढेंगे तो यह जानकारी आपको अन्य ऐसे लोगो से अलग करेगी जिनका नाम आपसे सामान है "
 
 msgctxt "sF_USERENTRY_PROFILE_HINT2"
 msgid ""
 "If you enter your birth date, Skype sends your friends a reminder when it's "
 "your birthday."
-msgstr ""
+msgstr "अगर आप अपना जन्मदिन यहाँ प्रविष्ट करेंगे तो स्काइप आपके मित्रो को एक अनुस्मारक भेजेगा जब आपका जन्मदिन होगा "
 
 msgctxt "sF_USERENTRY_PROFILE_HINT3"
 msgid ""
@@ -10612,7 +10612,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
 msgid "<a href=\"skype:?mic\">View your subscription(s)</a>"
-msgstr "<a href=\"skype:?mic\">अपनी सब्सक्रिप्शन(s) देखे "
+msgstr "<a href=\"skype:?mic\">अपनी सब्सक्रिप्शन(s) देखे </a>"
 
 msgctxt "sCALLPHONES_RATES_LNK"
 msgid "<a href=\"skype:?go#prices\">See all rates</a>"

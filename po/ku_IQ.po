@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-14 15:54+0000\n"
+"PO-Revision-Date: 2013-09-20 15:27+0000\n"
 "Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
@@ -69,7 +69,7 @@ msgstr "پشکنین بۆ نوێکردنەوەکان"
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "تەلەفۆن"
+msgstr "پەیوەندى"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
@@ -314,7 +314,7 @@ msgstr "زیادکرنى وردەکاریەکانى پەیوەندیکار بۆ 
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
-msgstr "خۆکارانە وەڵامدانەوە تەلەفەونە هاتووەکان "
+msgstr "خۆکارانە وەڵامدانەوە پەیوەندى هاتووەکان "
 
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
@@ -384,11 +384,11 @@ msgstr "تەلەفۆن لەسەر ڕاگرتن"
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr "تەلەفۆن هەڵگرتن لەسەر ڕاگرتن"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr "دەستپێکردنەوەى تەلەفۆن"
+msgstr "دەستپێکردنەوەى پەیوەندى"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
@@ -650,7 +650,7 @@ msgstr "گۆڕینى قەدبڕە نیشانکراوەکان"
 
 msgctxt "sHOTKEY_ANSWER"
 msgid "Answer call"
-msgstr "وەڵامدانەوەى تەلەفۆن"
+msgstr "وەڵامدانەوەى پەیوەندى"
 
 msgctxt "sHOTKEY_IGNORE"
 msgid "Ignore call"
@@ -708,7 +708,7 @@ msgstr "داغەکلیل"
 
 msgctxt "sF_OPTIONS_TNTB8"
 msgid "<b>Blocked contacts:</b> Stop someone contacting you"
-msgstr ">b<"
+msgstr ""
 
 msgctxt "sINFORM_DND"
 msgid ""
@@ -816,7 +816,7 @@ msgstr "نە چوویتە ژوورەوە"
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr "هەموو تەلەفۆنەکان دەپچڕێت. دڵنیابت ئەتەوێت بچیتە دەرەوە؟"
+msgstr "هەموو پەیوەندى دەپچڕێت. دڵنیابت ئەتەوێت بچیتە دەرەوە؟"
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
@@ -1528,7 +1528,7 @@ msgstr "ئێرە داگرە ئەگەر پەیامە دنگیەکەت کۆتای�
 
 msgctxt "sBUDDYMENU_HANGUP"
 msgid "End Call with This Person"
-msgstr "تەلەفۆن بپچرینە لەگەل ئەم کەسە"
+msgstr "پەیوەندى پچراندن لەگەل ئەم کەسە"
 
 msgctxt "sF_OPTIONS_SOCKS_HOST"
 msgid "Host"
@@ -1840,7 +1840,7 @@ msgstr "هەرکەسێک"
 
 msgctxt "sF_OPTIONS_RG3_2"
 msgid "block calls when phone number is hidden"
-msgstr "بلۆکردنى ئەو تەلەفۆنەى کە ژمارەى تەلەفونى شاراوەیە"
+msgstr "بلۆکردنى ئەو پەیوەندییە کە ژمارەى تەلەفونى شاراوەیە"
 
 msgctxt "sF_OPTIONS_RG3_3"
 msgid "phone numbers in my Contact list only"
@@ -1852,7 +1852,7 @@ msgstr "باشە"
 
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
-msgstr "ڕێکخستنەکانی تەلەفۆن"
+msgstr "ڕێکخستنەکانی پەیوەندى"
 
 msgctxt "sF_USERPROFILE_LB_GENDER"
 msgid "Gender"
@@ -2034,7 +2034,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CB_FORWARDING"
 msgid "Forward my calls to:"
-msgstr ""
+msgstr "پەیوەندییەکەم بگوازەوە بۆ:"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT5"
 msgid "Calls will be forwarded to all phone numbers at the same time"
@@ -2208,7 +2208,7 @@ msgstr "پڕۆفایل لەبەربگرەوە"
 
 msgctxt "sF_OPTIONS_PAGE_FORWARDINGANDVOICEMAIL"
 msgid "Call forwarding"
-msgstr "گواستنەوەی تەلەفۆن"
+msgstr "گواستنەوەی پەیوەندى"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_ADVAMCED"
 msgid ""
@@ -2240,7 +2240,7 @@ msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_REJECT"
 msgid "I reject an incoming call"
-msgstr "تەلەفۆنى هاتوو ڕەتدەکەمەوە"
+msgstr "پەیوەندى هاتوو ڕەتدەکەمەوە"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_INCALL"
 msgid "I am already in a call"
@@ -2613,11 +2613,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR1"
 msgid "call error1"
-msgstr ""
+msgstr "1هەڵەى پەیوەندى"
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR2"
 msgid "call error2"
-msgstr ""
+msgstr "2هەڵەى پەیوەندى"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
 msgid "incoming message"
@@ -3345,7 +3345,7 @@ msgstr "پێکەنین"
 
 msgctxt "sSUNGLASSES_SMILEY"
 msgid "Cool"
-msgstr ""
+msgstr "دڵ خۆش"
 
 msgctxt "sSURPRISED_SMILEY"
 msgid "Surprised"
@@ -3397,7 +3397,7 @@ msgstr "لە خۆشەویستیدا"
 
 msgctxt "sEVILGRIN_SMILEY"
 msgid "Evil grin"
-msgstr ""
+msgstr "شەیتان"
 
 msgctxt "sTALKING_SMILEY"
 msgid "Talking"
@@ -3409,11 +3409,11 @@ msgstr "باوێشک دان"
 
 msgctxt "sPUKING_SMILEY"
 msgid "Puking"
-msgstr ""
+msgstr "رشانەوە"
 
 msgctxt "sDOH_SMILEY"
 msgid "Doh!"
-msgstr ""
+msgstr "ئۆ!"
 
 msgctxt "sANGRY_SMILEY"
 msgid "Angry"
@@ -3441,7 +3441,7 @@ msgstr "نیردى"
 
 msgctxt "sLIPSSEALED_SMILEY"
 msgid "My lips are sealed"
-msgstr ""
+msgstr "ڵێوەکانم سوورن"
 
 msgctxt "sHI_SMILEY"
 msgid "Hi"
@@ -3453,7 +3453,7 @@ msgstr "تەلەفۆن"
 
 msgctxt "sDEVIL_SMILEY"
 msgid "Devil"
-msgstr ""
+msgstr "شەیتان"
 
 msgctxt "sANGEL_SMILEY"
 msgid "Angel"
@@ -3649,7 +3649,7 @@ msgstr ""
 
 msgctxt "sPOOLPARTY_SMILEY"
 msgid "Pool party"
-msgstr ""
+msgstr "Pool party"
 
 msgctxt "sSWEAR_SMILEY"
 msgid "Swearing"
@@ -3709,11 +3709,11 @@ msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_TITLE"
 msgid "Notification settings"
-msgstr ""
+msgstr "ڕێکخستنەکان ئاگادارکردنەوە"
 
 msgctxt "sF_CHAT_NOTIFY_CAPTION"
 msgid "IM notification settings"
-msgstr ""
+msgstr "ڕێکخستنەکان ئاگادارکردنەوەى پەیامى خێرا"
 
 msgctxt "sF_CHAT_NOTIFY_BTN_OK"
 msgid "OK"
@@ -3761,7 +3761,7 @@ msgstr ""
 
 msgctxt "sCHAT_MENU_NOTIFICATIONS"
 msgid "IM Notification Settings"
-msgstr ""
+msgstr "ڕێکخستنەکان ئاگادارکردنەوەى پەیامى خێرا"
 
 msgctxt "sCHAT_MEMBER_KICKED"
 msgid "%s removed %s from this conversation."
