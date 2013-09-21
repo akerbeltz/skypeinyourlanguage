@@ -17,8 +17,8 @@ Translator(s): Unknown
 Source: http://vk.com/pages?oid=-47071&p=%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4_Skype_%D0%BD%D0%B0_%D0%B0%D0%B4%D1%8B%D0%B3%D1%8D%D0%B1%D0%B7%D1%8D
 
 Afrikaans
-Translator(s): Unknown
-Source: http://sariemarais.com/SkypeAfrikaans.lang
+Translator(s): Unknown, OomDaan
+Source: http://sariemarais.com/SkypeAfrikaans.lang & Transifex
 
 Albanian (Shqip)
 Translator(s): ahmet_murati
@@ -60,6 +60,10 @@ Breton (Brezhoneg)
 Translator(s): Fulup Jakez
 Source: Ofis ar Brezhoneg
 
+British English
+Translator: readmanr
+Source: Transifex
+
 Chuvash (Чӑвашла)
 Translator(s): Unknown, haychikki
 Source: http://ru.chuvash.org/e/d0a1d0bad0b0d0b9d0bf20d0bdd0b020d18dd180d0b7d18fd0bdd181d0bad0bed0bc20283120d187d0b0d181d182d18c29
@@ -99,8 +103,8 @@ Translator(s): Kevin Scannell
 Source: http://borel.slu.edu/gnu/skype/
 
 Khmer (ភាសាខ្មែរ)
-Translator(s): Unknown
-Source: http://www.khmercity.net/profiles/blogs/skype-100
+Translator(s): Unknown, khoemsokhem
+Source: http://www.khmercity.net/profiles/blogs/skype-100 & Transifex
 
 Ligurian (Lìgure)
 Translator(s): Unknown
@@ -179,6 +183,10 @@ Source: http://wiki.etelugu.org
 Upper Sorbian (Hornjoserbšćina, Obersorbisch)
 Translator: Michał Wjelk
 Source: http://www.sorbzilla.de/skype/hsb.lang
+
+Urdu (اُردُو‎)
+Translator: Contrib2012
+Source: Transifex
 
 Uyghur (ئۇيغۇرچە‎)
 Translator: m_erdem
