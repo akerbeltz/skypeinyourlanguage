@@ -1,14 +1,15 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
+# macsnp <macsnp@gmail.com>, 2013
 # Pradeep Jha <pj.pradeepjha@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-19 17:11+0000\n"
-"Last-Translator: Pradeep Jha <pj.pradeepjha@gmail.com>\n"
+"PO-Revision-Date: 2013-09-25 10:52+0000\n"
+"Last-Translator: macsnp <macsnp@gmail.com>\n"
 "Language-Team: Hindi (http://www.transifex.com/projects/p/skype-translation-project/language/hi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3751,7 +3752,7 @@ msgctxt "sCHAT_STATUSMESSAGE_APPLICANT"
 msgid ""
 "Waiting to join.<br />You can't post messages in this conversation until the"
 " host has accepted you."
-msgstr ""
+msgstr "जुड़ने के लिए प्रतिक्षा में  है… <br/> जब तक मेजबान आपको स्वीकार नहीं कर लेता तब तक आप इस वार्तालाप में संदेश पोस्ट नहीं कर सकते हैं."
 
 msgctxt "sCHAT_STATUSMESSAGE_LISTENER"
 msgid "You are currently not allowed to post messages."
@@ -3951,7 +3952,7 @@ msgstr "IM लिंक "
 
 msgctxt "sF_CHAT_INFO_LB_LINK2"
 msgid "Paste this link into emails or IMs so your friends can click to join."
-msgstr ""
+msgstr "अपने दोस्तों को शामिल करने के लिए इस लिंक को ईमेल या सन्देश से भेजिए"
 
 msgctxt "sF_CHAT_INFO_RULES1"
 msgid "Everyone can read and post messages."
@@ -3974,7 +3975,7 @@ msgctxt "sCHAT_STATUSMESSAGE_RETRYING"
 msgid ""
 "The host of this conversation is currently offline. You can close this "
 "window and when the host is next online you will be added to the IM."
-msgstr ""
+msgstr "इस वार्तालाप के मेजबान वर्तमान में ऑफ़लाइन है. आप यह विंडो बंद कर सकते हैं और जब मेजबान ऑनलाइन होंगे तब आपको फिर से इस वार्तालाप में जोड़ दिया जाएगा."
 
 msgctxt "sCHAT_MENU_REMOVE_MESSAGE"
 msgid "Remove Message"
@@ -4186,13 +4187,13 @@ msgctxt "sERROR_HINT_VIDEO_14"
 msgid ""
 "Can't start video. Try closing other programs that might be using your "
 "webcam."
-msgstr ""
+msgstr "अभी वीडियो शुरू नहीं कर सकते. अन्य कार्यक्रम जो आपके वेब कैमरा का उपयोग कर रहे हो सकते है उन्हें बंद करने का प्रयास करें."
 
 msgctxt "sERROR_HINT_9502"
 msgid ""
 "You must <a href=\"skype:?payments\">purchase Skype Credit</a> to call "
 "landlines or mobiles."
-msgstr ""
+msgstr "लैंडलाइन फोन या मोबाइल पर फोन करने के लिए आपको <a href=\"skype:?payments\"> स्काइप क्रेडिट </a> खरीदना होगा"
 
 msgctxt "sPSTN_RES_9502"
 msgid "You need Skype Credit."
