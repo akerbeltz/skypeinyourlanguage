@@ -41,8 +41,8 @@ Translator(s): Unknown
 Source:http://www.boxca.com/8slkcaewyjrm/Skype_Az%C9%99rbaycan_dilind%C9%99_5.9.rar.html
 
 Basque (Euskara)
-Translator(s): Unknown
-Source: http://librezale.org/pipermail/librezale/attachments/20080801/b9ecb6a7/attachment.obj
+Translator(s): Unknown, urruyurre
+Source: http://librezale.org/pipermail/librezale/attachments/20080801/b9ecb6a7/attachment.obj & https://sourceforge.net/projects/skypeeuskarazkoitzulpena/?source=directory
 
 Belarusian ((Беларуская)
 Translator:
@@ -51,6 +51,10 @@ Source: ﻿https://github.com/SpadarShut
 Belarusian (Беларуская мова, тарашкевіца)
 Translator(s): Unknown
 Source: https://github.com/klyok/Skype.OmegaT/tree/master/Skype.OmegaT
+
+Bengali (বাংলা)
+Translator: leemon2010
+Source: Transifex
 
 Bosnian (Bosanski)
 Translator(s): sreamthedj
