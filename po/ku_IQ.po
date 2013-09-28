@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-20 15:27+0000\n"
+"PO-Revision-Date: 2013-09-23 11:08+0000\n"
 "Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
@@ -1792,7 +1792,7 @@ msgstr "چالاککردنى هەموو دەنگەکان"
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
 msgid "Set up voice messaging"
-msgstr ""
+msgstr "دامەزراندنى پەیامى دەنگى"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
@@ -6325,7 +6325,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_NOVIDM"
 msgid "No, thanks"
-msgstr ""
+msgstr "نا, سووپاس"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -6908,7 +6908,7 @@ msgstr "پەیامى خێرا (IM)"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VIDEOMESSAGE"
 msgid "Video Message"
-msgstr ""
+msgstr "پەیامى فیدیۆیی"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
@@ -7729,19 +7729,19 @@ msgstr ""
 
 msgctxt "sCALL_HOME"
 msgid "Call home"
-msgstr ""
+msgstr "تەلەفونى ماڵەوە"
 
 msgctxt "sCALL_MOBILE"
 msgid "Call mobile"
-msgstr ""
+msgstr "پەیوەندى مۆبایلى"
 
 msgctxt "sCALL_OFFICE"
 msgid "Call office"
-msgstr ""
+msgstr "تەلەفونى نوسینگە"
 
 msgctxt "sCALL_PHONE"
 msgid "Call phone"
-msgstr ""
+msgstr "پەیوەندى تەلەفونى"
 
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
 msgid "Add phone number..."
@@ -10514,15 +10514,15 @@ msgstr "تەلەفۆن لە لایەن %s (%s)"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr ""
+msgstr "ناردنى پەڕگە..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
-msgstr ""
+msgstr "هاوەڵى بنێرە..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "هاوبەشکردنى شاشە"
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -11583,7 +11583,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_NOCREDIT_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s بۆ هەر خولەکێک"
 
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
 msgid "Buy Skype Credit"
@@ -11630,7 +11630,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_TOS"
 msgid "I agree to Skype's <a href=\"%s\">Terms of Use</a>"
-msgstr ""
+msgstr "ڕازیم <a href=\"%s\">مەرجەکانى ئێمە</a>"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_NAME"
 msgid "Cardholder name"
@@ -11720,7 +11720,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s بۆ هەر خولەکێک"
 
 msgctxt "sSKYPEWIFI_READY_FREE"
 msgid "FREE"
@@ -11750,7 +11750,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s بۆ هەر خولەکێک"
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
 msgid "FREE"
@@ -11915,7 +11915,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_DEFAULT_TITLE"
 msgid "You've got a video message"
-msgstr ""
+msgstr "پەیامێکى ڤیدیۆیت هەیە"
 
 msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
 msgid ""
@@ -11930,15 +11930,15 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_EXPIRED_TITLE"
 msgid "Sorry, this video message has expired."
-msgstr ""
+msgstr "ببورە, ئەم پەیامە ڤیدیۆیە بە سەرچووە."
 
 msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
 msgid "Sorry, this video message is unavailable."
-msgstr ""
+msgstr "ببورە, ئەم پەیامە ڤیدیۆیە بەردەست نیە."
 
 msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_TITLE"
 msgid "Video Message Unavailable"
-msgstr ""
+msgstr "پەیامى ڤیدیۆیى بەردەست نیە"
 
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
@@ -12112,7 +12112,7 @@ msgstr ""
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
 msgid "No results for %s"
-msgstr ""
+msgstr "وەڵام نیە بۆ %s"
 
 msgctxt "sSTATUS_UNKNOWN2"
 msgid "This person isn't in your Contact list."
@@ -12471,13 +12471,13 @@ msgstr ""
 
 msgctxt "sTOPUP_CONT_ERROR_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "بەردەوام بە"
 
 msgctxt "sTOPUP_CONN_ERROR"
 msgid ""
 "Sorry, we couldn't complete your payment because there was a connection "
 "problem. Please try again."
-msgstr ""
+msgstr "ببوورە, ناتوانین پارەدانەکەت تەواو بکەین چونکە هەڵەیەک لە هێڵى پەیوەنى هەیە. تکایە دووبارە هەوڵبدەوە."
 
 msgctxt "sTOPUP_CONN_ERROR_BUTTON"
 msgid "Close"
@@ -12489,11 +12489,11 @@ msgstr "داخستن"
 
 msgctxt "sLYNC_CAPTION"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sCONTACT_GROUP_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
 msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
@@ -12531,7 +12531,7 @@ msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
 msgid "Error: %d"
-msgstr ""
+msgstr "هەڵە ڕوویدا: %d"
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
 msgid ""
@@ -12555,7 +12555,7 @@ msgstr ""
 
 msgctxt "sOPTIONS_SHOW_ME_AWAY_WHEN_INACTIVE_2"
 msgid "minutes"
-msgstr ""
+msgstr "تۆمار"
 
 msgctxt "sTOPUP_NEW_PAYMENT_METHOD"
 msgid "<a href=\"%s\">New payment method</a>"
@@ -12580,7 +12580,7 @@ msgstr "<a href=\"http://www.skype.com/go/novideo\">زیاتر بزانە.</a>"
 
 msgctxt "sMAINMENU_HELP_L2SKYPE"
 msgid "Learn about Skype for Windows"
-msgstr ""
+msgstr "بزانە دەربارەى سکایپ بۆ ویندۆز"
 
 msgctxt "sMAINMENU_HELP_GO2SUPP"
 msgid "Go to Support"
@@ -12618,11 +12618,11 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_DOWNLOAD_HINT"
 msgid "Download video message"
-msgstr ""
+msgstr "داگرتنى پەیامى ڤیدیۆى"
 
 msgctxt "sVIDEOMSG_BACK_HINT"
 msgid "Go back to chat"
-msgstr ""
+msgstr "بگەڕێوە بۆ چات"
 
 msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
 msgid "Close"
@@ -12630,67 +12630,67 @@ msgstr "داخستن"
 
 msgctxt "sVIDEOMSG_SEND"
 msgid "Send video message"
-msgstr ""
+msgstr "ناردنى پەیامى ڤیدیۆى"
 
 msgctxt "sCALL_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sCALL_POPUP_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
-msgstr ""
+msgstr "زیادکردنی ژمارە"
 
 msgctxt "sADD_PHONE_NUMBER_CAPTION"
 msgid "Save a phone number"
-msgstr ""
+msgstr "پاشکەوتکردنى ژمارە تەلەفون"
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr ""
+msgstr "سڕینەوە لە دڵخوازان"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr ""
+msgstr "زیادکردن بۆ دڵخوازان"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "ناردنى پەیامى ڤیدیۆى"
 
 msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
 msgid "Camera in use"
-msgstr ""
+msgstr "کامیرا لە بەکارهێنان"
 
 msgctxt "sCQ_VIDEO_MESSAGE_DESC"
 msgid "To see your camera, close your video message first."
-msgstr ""
+msgstr "بۆ بەکارهێنانى کامێراکەت , سەرەتا پەیامە ڤیدیۆیەکەت دابخە."
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
-msgstr ""
+msgstr "ناردنى پەیامى ڤیدیۆى"
 
 msgctxt "sAC_SEND_REQ"
 msgid "%s is not in your Contacts"
-msgstr ""
+msgstr "%s لە ناو هاوەڵانت نیە"
 
 msgctxt "sAC_RESEND_REQ"
 msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
-msgstr ""
+msgstr "ناردنى داواکارى هاوەڵى - <a href=\"%s\">دووبارە ناردنى داواکارى هاوەڵى</a>"
 
 msgctxt "sAC_ACCEPT_REQ"
 msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
-msgstr ""
+msgstr "%s لە ناو هاوەڵانت نیە - <a href=\"%s\">زیادى بکە بۆ هاوەڵان</a>"
 
 msgctxt "sAC_REQ_SENT"
 msgid "Contact request sent"
-msgstr ""
+msgstr "دووبارە ناردنى داواکارى هاوەڵى"
 
 msgctxt "sAC_UNBLOCK"
 msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
-msgstr ""
+msgstr "تۆ ئەم هاوەڵەت بلۆک کردووە - <a href=\"%s\">بلۆک لابەرە</a>"
 
 msgctxt "sVIDEOMSG_ERROR_START_DEVICE"
 msgid ""
@@ -12742,11 +12742,11 @@ msgstr "بلۆک"
 
 msgctxt "DECLINE_POPUP_SPAM_CAPTION"
 msgid "Report as spam"
-msgstr ""
+msgstr "ڕاپۆرت وەک سپام"
 
 msgctxt "sVIDEOMSG_SEND_CAPTION"
 msgid "Send video message"
-msgstr ""
+msgstr "ناردنى پەیامى ڤیدیۆى"
 
 msgctxt "sVIDEOMSG_CANCEL_CAPTION"
 msgid "Cancel"
@@ -12758,7 +12758,7 @@ msgstr "تۆمارکردن"
 
 msgctxt "sECHO_DISPLAY_NAME"
 msgid "Echo/Sound Test Service"
-msgstr ""
+msgstr "زایەڵە/خزمەتگوزارى تاقیکردنەوەى دەنگ"
 
 msgctxt "sTASKBAR_MENU_SIGN_OUT"
 msgid "Sign Out"
@@ -12766,39 +12766,39 @@ msgstr "چونە دەرەوە"
 
 msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
 msgid "recording a video message or sharing screens"
-msgstr ""
+msgstr "تۆمارکردنى پەیامى ڤیدیۆیى یان هاوبەشکردنى شاشە"
 
 msgctxt "sOPTIONS_RECORDING_VIDEO_MESSAGE"
 msgid "Do not show notifications when:"
-msgstr ""
+msgstr "وریاکردنەوەکان پیشانمەدە کاتێک:"
 
 msgctxt "sVIDEOMSG_STOP_RECORD_CAPTION"
 msgid "Stop recording"
-msgstr ""
+msgstr "وەستاندنى تۆمارکردن"
 
 msgctxt "sPREM_VIDEO_MESSAGE_WEB_WINDOW_CAPTION"
 msgid "Video messaging"
-msgstr ""
+msgstr "پەیامى ڤیدیۆیی"
 
 msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
 msgid "sends me a video message"
-msgstr ""
+msgstr "پەیامێکى ڤیدیۆیم بۆ بنێرە"
 
 msgctxt "sTRAYALERT_VIDEO_MESSAGE"
 msgid "New video message"
-msgstr ""
+msgstr " پەیامێکى ڤیدیۆى نوێ"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UNAVAILABLE"
 msgid "Video message is unavailable"
-msgstr ""
+msgstr "پەیامى ڤیدیۆیى بەردەست نیە"
 
 msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
 msgid "Send video message..."
-msgstr ""
+msgstr "ناردنى پەیامى ڤیدیۆى..."
 
 msgctxt "sCONVERSATION_VIDEO_MESSAGE"
 msgid "New video message"
-msgstr ""
+msgstr " پەیامێکى ڤیدیۆى نوێ"
 
 msgctxt "sACC_NAME_MYSELF_HEADER"
 msgid "Me"
@@ -12810,7 +12810,7 @@ msgstr "گەڕان"
 
 msgctxt "sACC_NAME_CONVERSATIONS"
 msgid "Conversations"
-msgstr ""
+msgstr "گفتوگۆكان"
 
 msgctxt "sACC_NAME_COMMUNICATOR"
 msgid "Application access"
@@ -12818,7 +12818,7 @@ msgstr ""
 
 msgctxt "sACC_NAME_PARTNER_BUTTONS"
 msgid "Partner"
-msgstr ""
+msgstr "هاوکار"
 
 msgctxt "sACC_NAME_CONTACTS_TAB"
 msgid "All contacts"
@@ -12846,23 +12846,23 @@ msgstr ""
 
 msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
 msgid "Hide message"
-msgstr ""
+msgstr "شاردنەوە پەیام"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
 msgid "All %0:s contacts"
-msgstr ""
+msgstr "هەموو %0:هاوەڵانى"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
 msgid "All %0:s"
-msgstr ""
+msgstr "هەمووى %0:"
 
 msgctxt "sVIDEOMSG_UPSELL"
 msgid "Would you like to leave a video message?"
-msgstr ""
+msgstr "دەتەوێت پەیامى ڤیدیۆى بە جێبهێڵیت?"
 
 msgctxt "sVIDEOMSG_UPSELL_BUTTON"
 msgid "Video message"
-msgstr ""
+msgstr "پەیامى فیدیۆیی"
 
 msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
 msgid "Clear search input"
@@ -12870,11 +12870,11 @@ msgstr ""
 
 msgctxt "sACC_NAME_SEARCH_ALL"
 msgid "Search all people on Skype"
-msgstr ""
+msgstr "گەڕان بە دواى هەموو خەڵک لە سکایپ"
 
 msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
 msgid "You're online with Skype WiFi"
-msgstr ""
+msgstr "تۆ سەرهێڵى بە  Skype WiFi"
 
 msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
 msgid "Connection expires soon"
