@@ -35,6 +35,7 @@ mk Makedonski.lang
 mr Marathi.lang
 mwl Mirandese.lang
 mvy Erzya.lang
+nap Nnapulitano.lang
 nia LiNiha.lang
 nn Nynorsk.lang
 nqo Nko.lang
@@ -52,3 +53,4 @@ tl Tagalog.lang
 ug Uyghurche.lang
 ug@latin Uyghurche-Latin.lang
 ur Urdu.lang
+zh-yue Cantonese.lang
