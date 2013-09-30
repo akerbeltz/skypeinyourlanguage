@@ -130,6 +130,10 @@ Lombard (Lombardo)
 Translator: Unknown
 Source: Skype Mini Marathon
 
+Lower Sorbian (Dolnoserbski, Niedersorbisch)
+Translator: Michał Wjelk
+Source: Skype Mini Marathon
+
 Kurdish (Kurmanji)
 Translator(s): Temur777, zinduwa
 Source: Transifex
