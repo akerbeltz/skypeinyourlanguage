@@ -1,14 +1,14 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# Iñigo Varela <ivarela@softastur.org>, 2013.
+# Iñigo Varela <ivarela@softastur.org>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-03-11 18:26+0000\n"
-"Last-Translator: Iñigo Varela <ivarela@softastur.org>\n"
+"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
+"PO-Revision-Date: 2013-09-30 10:59+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Asturian (http://www.transifex.com/projects/p/skype-translation-project/language/ast/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,11 +18,11 @@ msgstr ""
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr "Coneutáu"
+msgstr "Conectáu"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr "Desconeutáu"
+msgstr "Desconectáu"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
@@ -30,7 +30,7 @@ msgstr "Ausente"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "Nun molestar"
+msgstr "Nun amolestar"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
@@ -38,7 +38,7 @@ msgstr "Invisible"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr "Nun contesta"
+msgstr "Ensin rempuesta"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
@@ -55,7 +55,7 @@ msgstr "Refugar"
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "&Ayuda"
+msgstr "&Aida"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
@@ -67,39 +67,39 @@ msgstr "Comprobar si hai anovamientos"
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "Llamar"
+msgstr "Llamada"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
-msgstr "Unviar MI"
+msgstr "Unviar Mensaxe Instantáneu"
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Ver perfil"
+msgstr "Ver Perfil"
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
-msgstr ""
+msgstr "Renomar..."
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr "Desaniciar de los contautos"
+msgstr "Quitar de Contautos"
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
-msgstr "Amestar a contautos"
+msgstr "Amestar a Contautos"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "Estatus Coneutáu"
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
-msgstr "Abrir Skype"
+msgstr "Entamar Skype"
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr "Zarrar"
+msgstr "Quitar"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
@@ -526,19 +526,19 @@ msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
-msgstr ""
+msgstr "Unviar"
 
 msgctxt "sYESTERDAY"
 msgid "Yesterday"
-msgstr ""
+msgstr "Ayeri"
 
 msgctxt "sTODAY"
 msgid "Today"
-msgstr ""
+msgstr "Güei"
 
 msgctxt "sDURATION"
 msgid "Duration"
-msgstr ""
+msgstr "Duración"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
@@ -614,7 +614,7 @@ msgstr ""
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr ""
+msgstr "Asturianu"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -720,23 +720,23 @@ msgstr ""
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr ""
+msgstr "Desconeutáu"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
-msgstr ""
+msgstr "Coneutáu"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
-msgstr ""
+msgstr "Ausente"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr ""
+msgstr "Nun Amolestar"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
-msgstr ""
+msgstr "Bloquiáu"
 
 msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
@@ -1093,7 +1093,7 @@ msgstr ""
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr ""
+msgstr "Llamada Skype"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1176,15 +1176,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDFILE"
 msgid "Send File..."
-msgstr ""
+msgstr "Unviar Archivu..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
-msgstr ""
+msgstr "Canceláu"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr ""
+msgstr "Falló l'unvíu"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1462,7 +1462,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr ""
+msgstr "Unviar Mensaxe de Voz"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this group?"
@@ -1789,7 +1789,7 @@ msgid "Enable all sounds"
 msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
-msgid "Buy Skype voice messaging"
+msgid "Set up voice messaging"
 msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
@@ -1979,51 +1979,51 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
-msgstr ""
+msgstr "Xineru"
 
 msgctxt "sF_USERPROFILE_MONTHNAME2"
 msgid "February"
-msgstr ""
+msgstr "Febreru"
 
 msgctxt "sF_USERPROFILE_MONTHNAME3"
 msgid "March"
-msgstr ""
+msgstr "Marzu"
 
 msgctxt "sF_USERPROFILE_MONTHNAME4"
 msgid "April"
-msgstr ""
+msgstr "Abril"
 
 msgctxt "sF_USERPROFILE_MONTHNAME5"
 msgid "May"
-msgstr ""
+msgstr "Mayu"
 
 msgctxt "sF_USERPROFILE_MONTHNAME6"
 msgid "June"
-msgstr ""
+msgstr "Xunu"
 
 msgctxt "sF_USERPROFILE_MONTHNAME7"
 msgid "July"
-msgstr ""
+msgstr "Xunetu"
 
 msgctxt "sF_USERPROFILE_MONTHNAME8"
 msgid "August"
-msgstr ""
+msgstr "Agostu"
 
 msgctxt "sF_USERPROFILE_MONTHNAME9"
 msgid "September"
-msgstr ""
+msgstr "Setiembre"
 
 msgctxt "sF_USERPROFILE_MONTHNAME10"
 msgid "October"
-msgstr ""
+msgstr "Ochobre"
 
 msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
-msgstr ""
+msgstr "Payares"
 
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr ""
+msgstr "Avientu"
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -2889,7 +2889,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr ""
+msgstr "Unviar Mensaxe SMS"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
@@ -3237,9 +3237,8 @@ msgstr ""
 msgctxt "sF_USERENTRY_LB_EULA3"
 msgid ""
 "Yes, I have read and I accept the <a href=\"skype:?go#eula\">Skype End User "
-"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of "
-"Service</a> and the <a href=\"skype:?go#privacy\">Skype Privacy "
-"Statement</a>"
+"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of Use</a> "
+"and the <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>"
 msgstr ""
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
@@ -4061,11 +4060,11 @@ msgstr ""
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
-msgstr ""
+msgstr "%s llamando"
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
-msgstr ""
+msgstr "Micrófonu en silenciu"
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
@@ -4420,10 +4419,6 @@ msgid ""
 "and leave voice messages for your contacts if you can't get hold of them."
 msgstr ""
 
-msgctxt "sF_OPTIONS_VOICEMAIL_LABEL2"
-msgid "Get voice messaging when you sign up for a subscription."
-msgstr ""
-
 msgctxt "sF_OPTIONS_UPGRADE_SKYPPRO"
 msgid "Get a subscription"
 msgstr ""
@@ -4486,7 +4481,7 @@ msgstr ""
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr ""
+msgstr "Despachar Llamada"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
@@ -4603,7 +4598,7 @@ msgid "Add to Contacts"
 msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACT"
-msgid "Add contact"
+msgid "Add a contact"
 msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTMENU"
@@ -4648,15 +4643,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
-msgstr ""
+msgstr "Coyer"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
-msgstr ""
+msgstr "Contestar con videu"
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr ""
+msgstr "Aceutar"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
@@ -4684,7 +4679,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
@@ -4692,7 +4687,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLWHICH"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
@@ -4906,6 +4901,14 @@ msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
 msgstr ""
 
+msgctxt "sZAPBUTTON_CLOSEONWHITE"
+msgid "Close"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CLOSEONBLUE"
+msgid "Close"
+msgstr ""
+
 msgctxt "sZAPBUTTON_CLOSEEC"
 msgid "Close"
 msgstr ""
@@ -4948,15 +4951,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Contautos"
 
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
-msgstr ""
+msgstr "Contautos"
 
 msgctxt "sZAPBUTTON_CONTACTSARROW"
 msgid "Contacts"
-msgstr ""
+msgstr "Contautos"
 
 msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
 msgid "Selected contacts"
@@ -4968,7 +4971,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
-msgstr ""
+msgstr "Refugar"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -5082,6 +5085,10 @@ msgctxt "sZAPBUTTON_DONTSHOW"
 msgid "Don't show again"
 msgstr ""
 
+msgctxt "sZAPBUTTON_REPLY"
+msgid "Reply"
+msgstr ""
+
 msgctxt "sZAPBUTTON_DIALADRECENT"
 msgid "Recent numbers"
 msgstr ""
@@ -5119,7 +5126,7 @@ msgid "Exit popout mode"
 msgstr ""
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
-msgid "TopUpHelp"
+msgid "Help"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FILETRANSFER"
@@ -5199,7 +5206,7 @@ msgid "<ks>P</ks>revious"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
-msgid "FollowLink"
+msgid "My account"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FORWARD"
@@ -5328,11 +5335,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
-msgstr ""
+msgstr "Despachar llamada"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 msgctxt "sZAPBUTTON_INSTANTMESSAGE"
 msgid "Instant Message"
@@ -5359,11 +5366,11 @@ msgid "Home"
 msgstr ""
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
-msgid "HomeOrange"
+msgid "Skype Home, new updates"
 msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
-msgid "AddContactSemiActive"
+msgid "Add to contacts"
 msgstr ""
 
 msgctxt "sZAPBUTTON_HELP"
@@ -5472,7 +5479,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr ""
+msgstr "vía Skype"
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5576,7 +5583,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_PHONES"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
@@ -5700,7 +5707,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REJECT"
 msgid "Reject"
-msgstr ""
+msgstr "Refugar"
 
 msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
@@ -5716,11 +5723,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "Despachar llamada"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr ""
+msgstr "Despachar descarga"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -5764,47 +5771,47 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
-msgstr ""
+msgstr "Guardar tóos"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
-msgstr ""
+msgstr "Guardar Contautu"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "Cancelar tóos"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
-msgstr ""
+msgstr "Guardar como"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
-msgstr ""
+msgstr "Ver el mio videu"
 
 msgctxt "sZAPBUTTON_HIDEVIDEO"
 msgid "Hide my video"
-msgstr ""
+msgstr "Tapecer el mio videu"
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr ""
+msgstr "Unviar archivu"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "Unviar Contautos..."
 
 msgctxt "sZAPBUTTON_SENDMESSAGE"
 msgid "Send message"
-msgstr ""
+msgstr "Unviar mensaxe"
 
 msgctxt "sZAPBUTTON_SENDSMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "unviar SMS"
 
 msgctxt "sZAPBUTTON_SEARCH"
 msgid "Search"
-msgstr ""
+msgstr "Guetar"
 
 msgctxt "sZAPBUTTON_SEARCHHISTORY"
 msgid "Search History"
@@ -5840,7 +5847,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTS"
 msgid "Add to Contacts"
-msgstr ""
+msgstr "Amestar contautos"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5860,11 +5867,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Unviar"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "Fechu"
 
 msgctxt "sZAPBUTTON_SEARCHAGAIN"
 msgid "Search again"
@@ -5916,7 +5923,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "Unviar SMS"
 
 msgctxt "sZAPBUTTON_SOUNDOUT"
 msgid "<center>Press Me</center>"
@@ -5924,23 +5931,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr ""
+msgstr "Videullamada"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr ""
+msgstr "Videullamada"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr ""
+msgstr "Videumensaxe"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "Unviar Videumensaxe"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr ""
+msgstr "Entamar videumensaxe"
 
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
@@ -5996,11 +6003,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIEWMESSAGES"
 msgid "View older messages"
-msgstr ""
+msgstr "Ver mensaxes vieyos"
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
-msgstr ""
+msgstr "Ver Perfil"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View account"
@@ -6016,23 +6023,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr ""
+msgstr "Activar videu"
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr ""
+msgstr "Quitar videu"
 
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr ""
+msgstr "Quitar videu"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr ""
+msgstr "Caltener videu"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -6048,7 +6055,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "Compartir pantalles..."
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
 msgid "Close"
@@ -6306,6 +6313,18 @@ msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
 msgstr ""
 
+msgctxt "sZAPBUTTON_RERECORDVIDM"
+msgid "Re-record message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CANCELVIDM"
+msgid "Cancel message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_NOVIDM"
+msgid "No, thanks"
+msgstr ""
+
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
 "Can't open Skype. You are already signed in on this computer. Please sign "
@@ -6334,11 +6353,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_INCOMING"
 msgid "Call from %s"
-msgstr ""
+msgstr "Llamada de %s"
 
 msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
-msgstr ""
+msgstr "Llamar a %s"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
@@ -6696,15 +6715,15 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr ""
+msgstr "Llamada perdida de %s."
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
-msgstr ""
+msgstr "Llamada de %s, duración %s."
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr ""
+msgstr "Llamada a %s, duración %s."
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -6783,7 +6802,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "Estatus Coneutáu"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -6815,7 +6834,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Contautos"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
@@ -6839,7 +6858,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "Estatus Coneutáu"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -6883,6 +6902,10 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_MESSAGE"
 msgid "Instant Message (IM)"
+msgstr ""
+
+msgctxt "sMAINMENU_CONVERSATION_SEND_VIDEOMESSAGE"
+msgid "Video Message"
 msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
@@ -6931,23 +6954,23 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 msgctxt "sMAINMENU_CALL_START"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr ""
+msgstr "Videullamada"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
-msgstr ""
+msgstr "Coyer"
 
 msgctxt "sMAINMENU_CALL_IGNORE"
 msgid "Ignore"
-msgstr ""
+msgstr "Inorar"
 
 msgctxt "sMAINMENU_CALL_MUTE"
 msgid "Mute Microphone"
@@ -6995,19 +7018,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
-msgstr ""
+msgstr "Vista"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Contautos"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr ""
+msgstr "Recién"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -7015,7 +7038,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr ""
+msgstr "Aperios"
 
 msgctxt "sMAINMENU_TOOLS_EXTRAS"
 msgid "Apps"
@@ -7023,7 +7046,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
-msgstr ""
+msgstr "Camudar Llingua"
 
 msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY"
 msgid "Accessibility"
@@ -7043,7 +7066,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr ""
+msgstr "Aida"
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
@@ -7092,11 +7115,11 @@ msgid ""
 msgstr ""
 
 msgctxt "sVOICEMAIL_NEW"
-msgid "New voice message, duration <span class=\"RegularDisabled\">%s</span>"
+msgid "<b>New voice message</b>, duration %s"
 msgstr ""
 
 msgctxt "sVOICEMAIL"
-msgid "Voice message, duration<span class=\"RegularDisabled\"> %s</span>"
+msgid "<b>Voice message</b>, duration %s"
 msgstr ""
 
 msgctxt "sCOMPLETED_GROUP_CALL"
@@ -7127,23 +7150,23 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr ""
+msgstr "Ayeri"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr ""
+msgstr "7 díes"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr ""
+msgstr "30 díes"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr ""
+msgstr "Dende l'Entamu"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr ""
+msgstr "Amuesa mensaxes de: %s"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -7189,9 +7212,9 @@ msgstr ""
 
 msgctxt "sCONVERSATION_STATUS_LEGACY"
 msgid ""
-"The call host is using an old version of Skype that can't combine calls and "
-"IM at the same time. <a href=\"%s\">Click here</a> to create a new group "
-"with same people."
+"Instant messaging isn't currently available. This may be resolved shortly "
+"once the chat has updated, or the other person may be using an older version"
+" of Skype which doesn't support calling and IM at the same time."
 msgstr ""
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS2"
@@ -7301,7 +7324,7 @@ msgstr ""
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
-msgstr ""
+msgstr "Unviar archivu a %s"
 
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
@@ -7703,19 +7726,19 @@ msgid "Call Group"
 msgstr ""
 
 msgctxt "sCALL_HOME"
-msgid "Call Home"
+msgid "Call home"
 msgstr ""
 
 msgctxt "sCALL_MOBILE"
-msgid "Call Mobile"
+msgid "Call mobile"
 msgstr ""
 
 msgctxt "sCALL_OFFICE"
-msgid "Call Office"
+msgid "Call office"
 msgstr ""
 
 msgctxt "sCALL_PHONE"
-msgid "Call Phone"
+msgid "Call phone"
 msgstr ""
 
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
@@ -8021,11 +8044,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_REJECTED_IN"
 msgid "Call from %s declined."
-msgstr ""
+msgstr "Llamada dende %s refugada."
 
 msgctxt "sFLOW_CALL_UNANSWERED_OUT"
 msgid "Call to %s, no answer."
-msgstr ""
+msgstr "Llamada a %s, ensin rempuesta."
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
@@ -8129,11 +8152,11 @@ msgstr ""
 
 msgctxt "sBIRTHDAY_TODAY"
 msgid "%s has a birthday today"
-msgstr ""
+msgstr "Güei ye'l cumpleaños de %s"
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "Unviar Contautos..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -8270,27 +8293,27 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
 msgid "In call"
-msgstr ""
+msgstr "En llamada"
 
 msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
 msgid "On hold"
-msgstr ""
+msgstr "A la espera"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
 msgid "Muted"
-msgstr ""
+msgstr "En silenciu"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
 msgid "Missed call"
-msgstr ""
+msgstr "Llamada perdida"
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
-msgstr ""
+msgstr "Llamando"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr ""
+msgstr "Llamada despachada"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -8381,7 +8404,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr ""
+msgstr "Enxerta emoticonu"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8413,15 +8436,15 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr ""
+msgstr "Contestar la Llamada"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr ""
+msgstr "Inorar la Llamada"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr ""
+msgstr "Colgar"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -9924,11 +9947,11 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr ""
+msgstr "Recién"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
-msgstr ""
+msgstr "Guetar"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
@@ -10067,7 +10090,7 @@ msgstr ""
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr ""
+msgstr "Amosar caberos mensaxes"
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -10443,7 +10466,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr ""
+msgstr "Llamada de %s (%s), duración %s."
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
@@ -10477,27 +10500,27 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr ""
+msgstr "Llamada perdida de %s (%s)"
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr ""
+msgstr "Llamada de %s (%s) refugada."
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
-msgstr ""
+msgstr "Llamada de %s (%s)"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
-msgid "Send File..."
-msgstr ""
+msgid "Send file..."
+msgstr "Unviar archivu..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
-msgid "Send Contacts..."
-msgstr ""
+msgid "Send contacts..."
+msgstr "Unviar contautos..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
-msgid "Share Screens..."
-msgstr ""
+msgid "Share screens..."
+msgstr "Compartir pantalles..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -10641,11 +10664,11 @@ msgstr ""
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
-msgstr ""
+msgstr "Llamada a teléfonu"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr ""
+msgstr "Amesta númberu de teléfonu"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -10741,7 +10764,7 @@ msgstr ""
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add, send and share..."
-msgstr ""
+msgstr "Amesta, unvía y comparte..."
 
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
@@ -10841,7 +10864,7 @@ msgid "Tumbleweed"
 msgstr ""
 
 msgctxt "sWTF_SMILEY"
-msgid "What the... (wtf)"
+msgid "What the..."
 msgstr ""
 
 msgctxt "sWFH_SMILEY"
@@ -10854,11 +10877,11 @@ msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr ""
+msgstr "Amosar contautos"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr ""
+msgstr "Tapecer contautos"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
@@ -10905,7 +10928,7 @@ msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr ""
+msgstr "llamando"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
@@ -10921,7 +10944,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr ""
+msgstr "Amesta participantes, unvía archivos y más"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -11406,35 +11429,35 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "Preferíos"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "Trayer los contautos equí"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr ""
+msgstr "Zarrar"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr ""
+msgstr "Renomar"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "Amestar a Preferíos"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "Quitar de Preferíos"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr ""
+msgstr "Coneutáu"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -11446,7 +11469,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "Tóos"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -11557,7 +11580,7 @@ msgid "Get Skype Credit"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_NOCREDIT_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
@@ -11604,7 +11627,7 @@ msgid "Enable auto-recharge"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_TOS"
-msgid "I agree to Skype's <a href=\"{SKYPE_TOS_URL}\">Terms of Use</a>"
+msgid "I agree to Skype's <a href=\"%s\">Terms of Use</a>"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_NAME"
@@ -11647,8 +11670,8 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_AUTORECHARGE"
 msgid ""
-"If auto-recharge is enabled, your card will be automatically charged when "
-"your Skype Credit balance falls below {AUTORECHARGE_LEVEL}"
+"If auto-recharge is enabled, your card will automatically be charged when "
+"your Skype Credit balance falls below %s"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
@@ -11694,7 +11717,7 @@ msgid "Connect"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_FREE"
@@ -11703,8 +11726,8 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
-"By connecting, you agree to the provider's <a "
-"href=\"{PROVIDER_TOS_URL}\">Terms of Service</a>."
+"By connecting, you agree to the provider's <a href=\"%s\">Terms of "
+"Service</a>."
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_TOS_NOTOS"
@@ -11724,7 +11747,7 @@ msgid "Connecting…"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
@@ -11888,6 +11911,33 @@ msgid ""
 "<a href=\"%1\">watch your video message here</a>"
 msgstr ""
 
+msgctxt "sVIDEOMSG_DEFAULT_TITLE"
+msgid "You've got a video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
+msgid ""
+"You have %d video messages left this month. <a href=\"%s\">Upgrade to a "
+"Premium account</a> to enjoy unlimited video messages."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_WITH_DAYS_MESSAGE"
+msgid ""
+"Messages are automatically deleted if they haven't been watched in %d days."
+msgstr ""
+
+msgctxt "sVIDEOMSG_EXPIRED_TITLE"
+msgid "Sorry, this video message has expired."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
+msgid "Sorry, this video message is unavailable."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_TITLE"
+msgid "Video Message Unavailable"
+msgstr ""
+
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
 msgstr ""
@@ -11906,11 +11956,11 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr ""
+msgstr "Unvía un mensaxe"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "Unvía un SMS"
 
 msgctxt "sSEND_SMS_TARGET_HINT"
 msgid "Change where you send SMS."
@@ -12059,9 +12109,7 @@ msgid "Messenger"
 msgstr ""
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
-msgid ""
-"No results for %s<br/><a href=\"skype:?go#share\">Send an email "
-"invitation</a>"
+msgid "No results for %s"
 msgstr ""
 
 msgctxt "sSTATUS_UNKNOWN2"
@@ -12480,7 +12528,7 @@ msgid "Skype WiFi"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
-msgid "Error: {ERROR_NO}"
+msgid "Error: %d"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
@@ -12538,4 +12586,312 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_ASKCOMM"
 msgid "Ask the Skype Community"
+msgstr ""
+
+msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED"
+msgid "Auto-recharge (unavailable)"
+msgstr ""
+
+msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED_HELP_TEXT"
+msgid ""
+"Auto-recharge may be unavailable because you’ve reached a limit. When this "
+"resets, you’ll be able to use it again as normal."
+msgstr ""
+
+msgctxt "sTOPUP_INTRO_PARAGRAPH_ATU_SUSPENDED"
+msgid ""
+"Looks like you’re running low on credit. Auto-recharge is unavailable at "
+"this time, but you can still add credit manually."
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_IP_ADDRESS"
+msgid "Allow direct connections to your contacts only."
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_IP_ADDRESS_HINT"
+msgid ""
+"When you call someone who isn't a contact, we'll keep your IP address "
+"hidden.<br/><br/>This may delay your call setup time."
+msgstr ""
+
+msgctxt "sVIDEOMSG_DOWNLOAD_HINT"
+msgid "Download video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_BACK_HINT"
+msgid "Go back to chat"
+msgstr ""
+
+msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
+msgid "Close"
+msgstr ""
+
+msgctxt "sVIDEOMSG_SEND"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sCALL_LYNC"
+msgid "Lync"
+msgstr ""
+
+msgctxt "sCALL_POPUP_LYNC"
+msgid "Lync"
+msgstr ""
+
+msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
+msgid "Add number"
+msgstr ""
+
+msgctxt "sADD_PHONE_NUMBER_CAPTION"
+msgid "Save a phone number"
+msgstr ""
+
+msgctxt "sBUDDYMENU_UNPIN_ICON"
+msgid "Remove from favorites"
+msgstr "Quitar de preferíos"
+
+msgctxt "sBUDDYMENU_PIN_ICON"
+msgid "Add to favorites"
+msgstr "Amestar a preferíos"
+
+msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
+msgid "Send Video Message"
+msgstr "Unviar Videumensaxe"
+
+msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
+msgid "Camera in use"
+msgstr ""
+
+msgctxt "sCQ_VIDEO_MESSAGE_DESC"
+msgid "To see your camera, close your video message first."
+msgstr ""
+
+msgctxt "sVIDEOMSG_REPLY_HINT"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sAC_SEND_REQ"
+msgid "%s is not in your Contacts"
+msgstr ""
+
+msgctxt "sAC_RESEND_REQ"
+msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
+msgstr ""
+
+msgctxt "sAC_ACCEPT_REQ"
+msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
+msgstr ""
+
+msgctxt "sAC_REQ_SENT"
+msgid "Contact request sent"
+msgstr ""
+
+msgctxt "sAC_UNBLOCK"
+msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_START_DEVICE"
+msgid ""
+"Your camera or microphone is already in use.<br/>Please close any app or "
+"Skype chat that might be using it, then try again."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_NO_CAM"
+msgid ""
+"You need a camera to record video messages.<br/>Please check your camera is "
+"connected and try again."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_UNKNOWN"
+msgid ""
+"Oops, something went wrong.<br/>Please try again, or get in touch if you "
+"need help."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_DEVICE_LOST"
+msgid ""
+"You've stopped recording a video message.<br/>Your camera or microphone was "
+"disconnected. Record your message again, or send it now if you're ready."
+msgstr ""
+
+msgctxt "sVIDEOMSG_PREMIUM_UPSELL_TITLE"
+msgid "You have no free video messages left"
+msgstr ""
+
+msgctxt "sVIDEOMSG_PREMIUM_UPSELL_MESSAGE"
+msgid "Upgrade to a Premium account to enjoy unlimited video messages."
+msgstr ""
+
+msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
+msgid "Looking good!"
+msgstr ""
+
+msgctxt "sVIDEOMSG_LOOKING_GOOD_DESC"
+msgid "Hit record when you're ready."
+msgstr ""
+
+msgctxt "DECLINE_POPUP_CAPTION"
+msgid "Decline contact request"
+msgstr ""
+
+msgctxt "DECLINE_POPUP_BLOCK_CAPTION"
+msgid "Block"
+msgstr ""
+
+msgctxt "DECLINE_POPUP_SPAM_CAPTION"
+msgid "Report as spam"
+msgstr ""
+
+msgctxt "sVIDEOMSG_SEND_CAPTION"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_CANCEL_CAPTION"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sVIDEOMSG_RECORD_CAPTION"
+msgid "Record"
+msgstr ""
+
+msgctxt "sECHO_DISPLAY_NAME"
+msgid "Echo/Sound Test Service"
+msgstr ""
+
+msgctxt "sTASKBAR_MENU_SIGN_OUT"
+msgid "Sign Out"
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
+msgid "recording a video message or sharing screens"
+msgstr ""
+
+msgctxt "sOPTIONS_RECORDING_VIDEO_MESSAGE"
+msgid "Do not show notifications when:"
+msgstr ""
+
+msgctxt "sVIDEOMSG_STOP_RECORD_CAPTION"
+msgid "Stop recording"
+msgstr ""
+
+msgctxt "sPREM_VIDEO_MESSAGE_WEB_WINDOW_CAPTION"
+msgid "Video messaging"
+msgstr ""
+
+msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
+msgid "sends me a video message"
+msgstr ""
+
+msgctxt "sTRAYALERT_VIDEO_MESSAGE"
+msgid "New video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_STATUS_TEXT_UNAVAILABLE"
+msgid "Video message is unavailable"
+msgstr ""
+
+msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
+msgid "Send video message..."
+msgstr ""
+
+msgctxt "sCONVERSATION_VIDEO_MESSAGE"
+msgid "New video message"
+msgstr ""
+
+msgctxt "sACC_NAME_MYSELF_HEADER"
+msgid "Me"
+msgstr ""
+
+msgctxt "sACC_NAME_QF"
+msgid "Search"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATIONS"
+msgid "Conversations"
+msgstr ""
+
+msgctxt "sACC_NAME_COMMUNICATOR"
+msgid "Application access"
+msgstr ""
+
+msgctxt "sACC_NAME_PARTNER_BUTTONS"
+msgid "Partner"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACTS_TAB"
+msgid "All contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_LIST"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATIONS_TAB"
+msgid "All recent messages"
+msgstr ""
+
+msgctxt "sACC_NAME_INBOX_LIST"
+msgid "Recent messages"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_FAVORITE"
+msgid "Favorite"
+msgstr ""
+
+msgctxt "sACC_NAME_ONLINE_STATUS"
+msgid "%0:s, select to change status"
+msgstr ""
+
+msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
+msgid "Hide message"
+msgstr ""
+
+msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
+msgid "All %0:s contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
+msgid "All %0:s"
+msgstr ""
+
+msgctxt "sVIDEOMSG_UPSELL"
+msgid "Would you like to leave a video message?"
+msgstr ""
+
+msgctxt "sVIDEOMSG_UPSELL_BUTTON"
+msgid "Video message"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
+msgid "Clear search input"
+msgstr ""
+
+msgctxt "sACC_NAME_SEARCH_ALL"
+msgid "Search all people on Skype"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
+msgid "You're online with Skype WiFi"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
+msgid "Connection expires soon"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_LESS_THAN_MINUTE"
+msgid ""
+"You've been online for less than a minute. You can disconnect at any time "
+"and you'll only be charged for the minutes used."
+msgstr ""
+
+msgctxt "sSKYPEWIFI_ABOUT_A_MINUTE"
+msgid ""
+"You've been online for about a minute. You can disconnect at any time and "
+"you'll only be charged for the minutes used."
+msgstr ""
+
+msgctxt "sSKYPEWIFI_MORE_THAN_MINUTE"
+msgid ""
+"You've been online for about %d minutes. You can disconnect at any time and "
+"you'll only be charged for the minutes used."
 msgstr ""
