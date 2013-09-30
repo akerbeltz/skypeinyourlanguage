@@ -33,8 +33,8 @@ Translator(s): Unknown, HrantOhanyan
 Source: https://www.dropbox.com/s/zbx8ebrmztgpws4/Armenian.lang
 
 Asturian (Asturianu)
-Translator(s): ivarela
-Source: Transifex
+Translator(s): ivarela, Xose Álvarez
+Source: Transifex, Skype Mini Marathion
 
 Azeri (Azərbaycanca, Azərbaycan dili)
 Translator(s): Unknown
@@ -68,9 +68,17 @@ British English
 Translator: readmanr
 Source: Transifex
 
+Cantonese (廣東話/粵語)
+Translator: Michael Bauer
+Source: Transifex
+
 Chuvash (Чӑвашла)
 Translator(s): Unknown, haychikki
 Source: http://ru.chuvash.org/e/d0a1d0bad0b0d0b9d0bf20d0bdd0b020d18dd180d0b7d18fd0bdd181d0bad0bed0bc20283120d187d0b0d181d182d18c29
+
+Colognian (Kölsch)
+Translator: Purodha Blissenbach
+Source: Skype Mini Marathon
 
 Cornish (Kernewek)
 Translator: Adhyskonydh
@@ -87,6 +95,10 @@ Source: http://www.uea.org/vikio/index.php?title=SKYPEesperanto.Lang&oldid=3720
 Faroese (Føroyskt)
 Translator(s): Unknown
 Source: http://www.gluggin.net/teldutilfar/Faroese_4.2.32.158_20100410_torsim.lang
+
+Franconian (Frängisch)
+Translator: Sabine Cretella
+Source: Skype Mini Marathon
 
 Fula/Fulani (Fulfulde/Pulaar/Pular)
 Translator: Ibraahiima Saar
@@ -114,6 +126,10 @@ Ligurian (Lìgure)
 Translator(s): Unknown
 Source: http://genoves.com.ar/Archivos%20y%20fotos/Ligurian%20%28Zeneize%29_%205.10.0.116_20120927_.lang
 
+Lombard (Lombardo)
+Translator: Unknown
+Source: Skype Mini Marathon
+
 Kurdish (Kurmanji)
 Translator(s): Temur777, zinduwa
 Source: Transifex
@@ -137,6 +153,10 @@ Source: http://student.dei.uc.pt/~crpires/skype/mwl.lang
 N'ko (ߒߞߏ)
 Translators: kairaba, Lasnei, kantesoufi, DOUMBOU
 Source: Transifex
+
+Neapolitan (Nnapulitano)
+Translator(s): Unknown
+Source: Skype Mini Marathon
 
 Nias (Li Niha)
 Translator(s): Yustinus Waruwu
