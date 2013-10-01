@@ -126,8 +126,8 @@ Ligurian (Lìgure)
 Translator(s): Unknown
 Source: http://genoves.com.ar/Archivos%20y%20fotos/Ligurian%20%28Zeneize%29_%205.10.0.116_20120927_.lang
 
-Lombard (Lombardo)
-Translator: Unknown
+Lombard
+Translator: Marc Tamburell
 Source: Skype Mini Marathon
 
 Lower Sorbian (Dolnoserbski, Niedersorbisch)
@@ -177,6 +177,10 @@ Source: http://www.peschke.eu/D/
 Persian (Farsi/فارسی)
 Translator(s): Ali Arash
 Source: http://ib.aliarash.com/elearning/pdf/persian.rar
+
+Piedmontese (Piemontèis)
+Translator: Giuseppe Sanero
+Source: Skype Mini Marathon
 
 Punjabi (ਪੰਜਾਬੀ)
 Translator: aalam
