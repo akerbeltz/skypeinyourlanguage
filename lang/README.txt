@@ -84,6 +84,10 @@ Cornish (Kernewek)
 Translator: Adhyskonydh
 Source: Skype Forum
 
+Eastern Lombard (Üròbech)
+Translator: Matteo Tignonsini
+Source: Skype Mini Marathon
+
 Erzya (Зрзянь кель)
 Translator(s): Unknown
 Source: http://wap.erzianj.borda.ru/?1-18-0-00000052-000-40-0
