@@ -198,6 +198,10 @@ Samoan (Gagana Sāmoa)
 Translator(s): Chris Bickers
 Source: Transifex
 
+Sardinian (Sardu)
+Translator: utalabi
+Source: Transifex
+
 Scottish Gaelic (Gàidhlig)
 Translator: Michael Bauer
 
