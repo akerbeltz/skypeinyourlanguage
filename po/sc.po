@@ -1,81 +1,82 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# Gion-Andri Cantieni <gion-andri@gmx.ch>, 2013
+# Michael Bauer <fios@akerbeltz.org>, 2013
+# utalabi <utalabi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-10-02 19:19+0000\n"
+"PO-Revision-Date: 2013-10-02 19:17+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
-"Language-Team: Romansh (http://www.transifex.com/projects/p/skype-translation-project/language/rm/)\n"
+"Language-Team: Sardinian (http://www.transifex.com/projects/p/skype-translation-project/language/sc/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: rm\n"
+"Language: sc\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr "Collià"
+msgstr "In lìnia"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr "Betg collià"
+msgstr "No in lìnia"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
-msgstr "Absent"
+msgstr "A largu"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "Na betg disturbar"
+msgstr "Non istrobbes"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
-msgstr "Nunvisibel"
+msgstr "Chi non si podet bìdere"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr "Nagina resposta"
+msgstr "Sena risposta"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
-msgstr "Occupà"
+msgstr "Afainadu"
 
 msgctxt "sQUIT_PROMPT"
 msgid ""
 "You won't be able to send or receive instant messages and calls if you do."
-msgstr "Ti na vegns betg ad esser abels da trametter u retschaiver messadis directs u cloms sche ti fas quai."
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
-msgstr "Revocar"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "&Agid"
+msgstr "&Agiudu"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
-msgstr "Retschaiver Agid: Respostas ed agid"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_UPDATES"
 msgid "Check for Updates"
-msgstr "Tschertgar actualisaziuns"
+msgstr ""
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "Clom"
+msgstr ""
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
-msgstr "Trametter IM"
+msgstr ""
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Mussar il profil"
+msgstr ""
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
@@ -83,11 +84,11 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr "Allontanar dals contacts"
+msgstr ""
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
-msgstr "Agiuntar als contacts"
+msgstr ""
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
@@ -95,31 +96,31 @@ msgstr ""
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
-msgstr "Avrir Skype"
+msgstr ""
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr "Terminar"
+msgstr ""
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "S'annunziar"
+msgstr ""
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
-msgstr "Skype"
+msgstr ""
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
-msgstr "Connectar"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
-msgstr "Offline"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_ONLINE"
 msgid "Online"
-msgstr "Online"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_AWAY"
 msgid "Away"
@@ -410,31 +411,31 @@ msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_USERNAME"
 msgid "Skype Name"
-msgstr "Num da Skype"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_FULLNAME"
 msgid "Full name"
-msgstr "Num cumplett"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_COUNTRY"
 msgid "Country/Region"
-msgstr "Terra/regiun"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_LANGUAGE"
 msgid "Language"
-msgstr "Lingua"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_CITY"
 msgid "City"
-msgstr "Citad"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TCB2"
 msgid "Show timestamp next to instant messages"
-msgstr "Mussar il temps sper ils messadis directs"
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_LABEL"
 msgid "Enter new name for %s"
-msgstr "Endatar in nov num per %s"
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_CAPTION"
 msgid "Rename"
@@ -442,73 +443,73 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_CBNOMORE"
 msgid "Do not ask me again"
-msgstr "Na betg pli ma dumandar"
+msgstr ""
 
 msgctxt "sF_CONFIRM_YES"
 msgid "Yes"
-msgstr "Gea"
+msgstr ""
 
 msgctxt "sF_CONFIRM_CANCEL"
 msgid "&Cancel"
-msgstr "&Interrumper"
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_OK"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_CANCEL"
 msgid "&Cancel"
-msgstr "&Interrumper"
+msgstr ""
 
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
-msgstr "Trametter danovamain la dumonda da contact"
+msgstr ""
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
-msgstr "Infurmaziun"
+msgstr ""
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
-msgstr "Na betg pli mussar questa infurmaziun"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
-msgstr "Midar il pled-clav"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT1"
 msgid "Enter current password"
-msgstr "Endatar il pled-clav actual"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT2"
 msgid "Enter new password"
-msgstr "Endatar in nov pled-clav"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT3"
 msgid "Re-enter new password"
-msgstr "Endatar danovamain il nov pled-clav"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_BTN1_TEXT"
 msgid "Apply"
-msgstr "Applitgar"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_BTN2_TEXT"
 msgid "Cancel"
-msgstr "Interrumper"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
 "The passwords don't match. Please re-enter your new password and "
 "confirmation again"
-msgstr "Ils pleds-clav na correspundan betg. Endatescha danovamain il nov pled-clav e confermescha anc ina giada."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
-msgstr "Midar il pled-clav"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid.  Please try again."
-msgstr "Il pled-clav vegl che ti has endatà n'è betg valida. Emprova anc ina gidada."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
@@ -526,19 +527,19 @@ msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
-msgstr "Trametter"
+msgstr ""
 
 msgctxt "sYESTERDAY"
 msgid "Yesterday"
-msgstr "Ier"
+msgstr ""
 
 msgctxt "sTODAY"
 msgid "Today"
-msgstr "Oz"
+msgstr ""
 
 msgctxt "sDURATION"
 msgid "Duration"
-msgstr "Durada"
+msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
@@ -614,7 +615,7 @@ msgstr ""
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr ""
+msgstr "Sardu"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -5707,7 +5708,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REJECT"
 msgid "Reject"
-msgstr ""
+msgstr "Refuda"
 
 msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
@@ -5723,11 +5724,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "Recùbera sa cramada"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr ""
+msgstr "Recùbera s'iscarrigamentu"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -5847,7 +5848,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTS"
 msgid "Add to Contacts"
-msgstr ""
+msgstr "Agiunghe a sos Cuntatos"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5867,11 +5868,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Imbia"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "Fatu"
 
 msgctxt "sZAPBUTTON_SEARCHAGAIN"
 msgid "Search again"
@@ -5931,7 +5932,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr ""
+msgstr "Vìdeocramada"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
@@ -6802,7 +6803,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "Istadu In Lìnia"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -6858,7 +6859,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "Istadu In Lìnia"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -7018,19 +7019,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
-msgstr ""
+msgstr "Bista"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Cuntatos"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr ""
+msgstr "De pagu ora"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr ""
+msgstr "Perfilu"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -7038,7 +7039,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr ""
+msgstr "Ainas"
 
 msgctxt "sMAINMENU_TOOLS_EXTRAS"
 msgid "Apps"
@@ -7046,7 +7047,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
-msgstr ""
+msgstr "Muda sa limba"
 
 msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY"
 msgid "Accessibility"
@@ -7166,7 +7167,7 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr ""
+msgstr "Mustra sos messàgios dae: %s"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -9947,11 +9948,11 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr ""
+msgstr "De pagu ora"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
-msgstr ""
+msgstr "Chirca"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
@@ -10944,7 +10945,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr ""
+msgstr "Agiunghe partitzipantes, imbia files e àteru"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -11469,7 +11470,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "Totu"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"

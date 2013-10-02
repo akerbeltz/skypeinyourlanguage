@@ -3,14 +3,15 @@
 # Translators:
 # Ahmad Saber <ahmad.24.8mile@hotmail.com>, 2013
 # daniel42 <d.danial42@yahoo.com>, 2013
+# daniel42 <d.danial42@yahoo.com>, 2013
 # Rivan Abdulla <revin.computer@yahoo.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-23 11:08+0000\n"
-"Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
+"PO-Revision-Date: 2013-10-02 19:15+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -616,7 +617,7 @@ msgstr "هەمووی دیاری بکە"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr "ئنگلیزی"
+msgstr "ئينگلیزی"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -1121,7 +1122,7 @@ msgstr "وێنەکەت هەڵبژێرە"
 
 msgctxt "sF_OPTIONS_TCB18"
 msgid "Show emoticons"
-msgstr ""
+msgstr "بینینى خەندەکان"
 
 msgctxt "sF_AVATAR_BROWSER_WRONG_FILE"
 msgid "The file you chose was invalid."
@@ -2891,7 +2892,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr ""
+msgstr "ناردنى کورتە پەیام"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
@@ -4973,7 +4974,7 @@ msgstr "دروستکردنی گروپ"
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
-msgstr ""
+msgstr "ڕەتکردنەوە"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -5341,7 +5342,7 @@ msgstr "کۆتایی هێنان"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr ""
+msgstr "تەلەفۆن"
 
 msgctxt "sZAPBUTTON_INSTANTMESSAGE"
 msgid "Instant Message"
@@ -5725,11 +5726,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "دەستپێکردنەوەى تەلەفون"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr ""
+msgstr "دەستپێکردنەوەى داگرتن"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -5773,15 +5774,15 @@ msgstr "خواروو"
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
-msgstr ""
+msgstr "پاشەکەوتکردنى هەموو"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
-msgstr ""
+msgstr "پاشەکەوتکردنى هاوەڵ"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "هەموو لاببە"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
@@ -5789,19 +5790,19 @@ msgstr "پاشەکەوتکردن بە"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
-msgstr ""
+msgstr "بینینى ڤیدیۆکەم"
 
 msgctxt "sZAPBUTTON_HIDEVIDEO"
 msgid "Hide my video"
-msgstr ""
+msgstr "شاردنەوەى ڤیدیۆکەم"
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr ""
+msgstr "ناردنى فایل"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "هاوەڵى بنێرە..."
 
 msgctxt "sZAPBUTTON_SENDMESSAGE"
 msgid "Send message"
@@ -5849,7 +5850,7 @@ msgstr "وەستاندنى گەڕان"
 
 msgctxt "sZAPBUTTON_ADDCONTACTS"
 msgid "Add to Contacts"
-msgstr "زیادکردن بۆ پەیوەندیکاران"
+msgstr "زیادکردن بۆ هاوەڵان"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5933,7 +5934,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr "تەلەفۆنى ڤیدیۆیی"
+msgstr "پەیوەندى ڤیدیۆیی"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
@@ -5941,15 +5942,15 @@ msgstr "تەلەفۆنى ڤیدیۆیی"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr ""
+msgstr "پەیامى فیدیۆیی"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "ناردنى پەیامى ڤیدیۆى"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr ""
+msgstr "لێدانى پەیامى ڤیدیۆى"
 
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
@@ -6057,7 +6058,7 @@ msgstr "پیشاندانى پەنجەرە دیاریکراوەکان"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "هاوبەشکردنى شاشە"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
 msgid "Close"
@@ -6717,15 +6718,15 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr ""
+msgstr "پەیوەندى پچڕا لە لایەن %s."
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
-msgstr ""
+msgstr "پەیوەندى لە لایەن %s, وادە %s."
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr ""
+msgstr "پەیوەندى بۆ %s, وادە %s."
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -6816,7 +6817,7 @@ msgstr "تایبەتێتی..."
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
 msgid "Account..."
-msgstr ""
+msgstr "هەژمار..."
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -6844,7 +6845,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_GROUPS"
 msgid "Contact Lists"
-msgstr ""
+msgstr "لیستەکانى هاوەڵ"
 
 msgctxt "sMAINMENU_CONTACTS_SHOW_OUTLOOK"
 msgid "Show Outlook Contacts"
@@ -6916,11 +6917,11 @@ msgstr "کورتە نامە"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_FILE"
 msgid "File..."
-msgstr ""
+msgstr "پەڕگە..."
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VOICEMAIL"
 msgid "Voice Message"
-msgstr ""
+msgstr "پەیامى دەنگی"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_CONTACTS"
 msgid "Contacts..."
@@ -6936,7 +6937,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_RENAME"
 msgid "Rename..."
-msgstr ""
+msgstr "دووبارە ناوگۆڕین..."
 
 msgctxt "sMAINMENU_CONVERSATION_BLOCK"
 msgid "Block..."
@@ -6964,7 +6965,7 @@ msgstr "تەلەفۆن"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr ""
+msgstr "پەیوەندى ڤیدیۆیی"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
@@ -7028,11 +7029,11 @@ msgstr "هاوەڵان"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr "تازە"
+msgstr "تازەترين"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr "زانیاریی تایبەتی"
+msgstr "پڕۆفیل"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -7164,11 +7165,11 @@ msgstr "30 رۆژ"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr ""
+msgstr "سەرەتاى"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr ""
+msgstr "پیشاندانى یەیامەکانى: %s"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -7326,7 +7327,7 @@ msgstr ""
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
-msgstr ""
+msgstr "%s ناردنى فایل بۆ"
 
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
@@ -7394,23 +7395,23 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_NEW"
 msgid "New List"
-msgstr ""
+msgstr "لیستى نوێ"
 
 msgctxt "sCONTACTGROUPS_NEW"
 msgid "Create New List..."
-msgstr ""
+msgstr "لیستێکى نوێ دروستبکە..."
 
 msgctxt "sREMOVEGROUP_CAPTION"
 msgid "Delete List?"
-msgstr ""
+msgstr "لیست دەسڕیتەوە؟"
 
 msgctxt "sREMOVEGROUP_WARNING"
 msgid "Do you want to delete the list \"%s\"?"
-msgstr ""
+msgstr "ئەتەوێت ئەم لیستە بسڕیتەوە \"%s\"?"
 
 msgctxt "sREMOVEGROUP_TITLE"
 msgid "Delete list"
-msgstr ""
+msgstr "سڕینەوەى لیست"
 
 msgctxt "sCONTACT_PROFILE_EDIT_PHONE"
 msgid "Edit number"
@@ -7453,11 +7454,11 @@ msgstr "%s پەیامەکان"
 
 msgctxt "sCONTACT_ADD_TO_GROUP"
 msgid "Add to List"
-msgstr ""
+msgstr "زیادکردن بۆ لیست"
 
 msgctxt "sCONTACT_MANAGE_GROUP"
 msgid "Manage Lists"
-msgstr ""
+msgstr "بەڕێوبردنى لیست"
 
 msgctxt "sPFOFILE_HEADER_GROUP_SAVED"
 msgid "Group saved"
@@ -7493,11 +7494,11 @@ msgstr ""
 
 msgctxt "sCONTACTGROUPS_DELETE_SELECTED"
 msgid "Delete List \"%s\"..."
-msgstr ""
+msgstr "سڕینەوەى لیست \"%s\"..."
 
 msgctxt "sCONTACTGROUPS_RENAME_SELECTED"
 msgid "Rename List \"%s\"..."
-msgstr ""
+msgstr "دووبارە ناویلێنانەوەى لیست \"%s\"..."
 
 msgctxt "sF_CALLQUALITYGUIDE_WINDOW_TITLE"
 msgid "Call Quality Guide"
@@ -7531,7 +7532,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_BLOCK_MULTIPLE"
 msgid "Block These People..."
-msgstr ""
+msgstr "ئەم خەڵکە بلۆک بکە..."
 
 msgctxt "sBUDDYMENU_UNBLOCK_MULTIPLE"
 msgid "Unblock These People"
@@ -7567,11 +7568,11 @@ msgstr ""
 
 msgctxt "sCONVERSATION_RECEIVED_VM"
 msgid "Sent a voice message"
-msgstr ""
+msgstr "پەیامێکى دەنگى بنێرە"
 
 msgctxt "sCONVERSATION_RECEIVED_VM_CONF"
 msgid "%s sent a voice message"
-msgstr ""
+msgstr "%s پەیامێکى دەنگى بنێرە"
 
 msgctxt "sFILESIZE_UNIT"
 msgid "B"
@@ -7627,7 +7628,7 @@ msgstr ""
 
 msgctxt "sHISTORY_FILTER_VOICEMAILS"
 msgid "Voice messages"
-msgstr ""
+msgstr "پەیامە دەنگیەکان"
 
 msgctxt "sHISTORY_FILTER_FILETRANSFERS"
 msgid "Files sent and received"
@@ -7745,7 +7746,7 @@ msgstr "پەیوەندى تەلەفونى"
 
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
 msgid "Add phone number..."
-msgstr ""
+msgstr "زیادکردنی ژمارەی تەلەفون..."
 
 msgctxt "sOPTIONS_CHANGE_FONT"
 msgid "Change font"
@@ -7942,7 +7943,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_PEOPLE"
 msgid "Add People..."
-msgstr ""
+msgstr "خەڵک زیادکردن..."
 
 msgctxt "sPUBLICCHAT_NOT_SUPPORTED"
 msgid "Public chats are not supported in this version"
@@ -8046,11 +8047,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_REJECTED_IN"
 msgid "Call from %s declined."
-msgstr ""
+msgstr " تەلەفۆن لەلاین %s رەتکرایەوە."
 
 msgctxt "sFLOW_CALL_UNANSWERED_OUT"
 msgid "Call to %s, no answer."
-msgstr ""
+msgstr "تەلەفۆن بۆ %s, وەڵامى نیە."
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
@@ -8158,7 +8159,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "هاوەڵى بنێرە..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -8227,7 +8228,7 @@ msgstr ""
 
 msgctxt "sVIDEOMENU_START_SCREEN_SHARING"
 msgid "Share Screens..."
-msgstr ""
+msgstr "هاوبەشکردنى شاشەکان..."
 
 msgctxt "sVIDEOMENU_STOP_SCREEN_SHARING"
 msgid "Stop Sharing Screen"
@@ -8295,11 +8296,11 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
 msgid "In call"
-msgstr ""
+msgstr "لە پەیوەندیدا"
 
 msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
 msgid "On hold"
-msgstr ""
+msgstr "لەسەر ڕاگرتن"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
 msgid "Muted"
@@ -8307,15 +8308,15 @@ msgstr "بێدەنگ کردن"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
 msgid "Missed call"
-msgstr ""
+msgstr "پەیوەندى پچڕان"
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
-msgstr ""
+msgstr "زرنگانەوە"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr ""
+msgstr "تەلەفون کۆتاىپێهات"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -8406,7 +8407,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr ""
+msgstr "Insert emoticon"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8438,15 +8439,15 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr ""
+msgstr "وەڵامدانەوەى تەلەفۆن"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr ""
+msgstr "پشتگوێ خستنى تەلەفۆن"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr ""
+msgstr "تەلەفون داخستن"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -8483,7 +8484,7 @@ msgstr ""
 
 msgctxt "sSKYACCESS_TRAYMENU_QUIT"
 msgid "Quit Skype WiFi"
-msgstr ""
+msgstr "دەرچوون لە سکایپ WiFi"
 
 msgctxt "sSKYACCESS_WARN_QUIT_SKYPE"
 msgid "Quitting Skype will end your Skype WiFi session. Continue?"
@@ -8579,7 +8580,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_CALL_TRANSFER"
 msgid "Transfer Call..."
-msgstr ""
+msgstr "گواستنەوەى تەلەفۆن..."
 
 msgctxt "sBUDDYMENU_CALL_TRANSFER_OTHER"
 msgid "A different contact..."
@@ -9808,7 +9809,7 @@ msgstr "بیشارەوە"
 
 msgctxt "sLIVE_SS_SEPARATE_CAPTION"
 msgid "Share screens"
-msgstr ""
+msgstr "هاوبەشکردنى شاشە"
 
 msgctxt "sLIVE_INVALID_PHONE_NO"
 msgid "%s is not a valid phone number."
@@ -9836,7 +9837,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT"
 msgid "Add Contact"
-msgstr ""
+msgstr "هاوەڵ زیاد بکە"
 
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
@@ -9844,7 +9845,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT_PANEL"
 msgid "Save a Phone Number..."
-msgstr ""
+msgstr "پاشکەوتکردنى ژمارە تەلەفون..."
 
 msgctxt "sPREM_VIDEO_DONT_SHOW_AGAIN"
 msgid "Don't show again"
@@ -9949,7 +9950,7 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr "تازە"
+msgstr "تازەترین"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
@@ -10050,7 +10051,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW_VOICEMAILS"
 msgid "Voice Messages"
-msgstr ""
+msgstr "پەیامە دەنگیەکان"
 
 msgctxt "sMAINMENU_VIEW_FILESSENT"
 msgid "Files Sent and Received"
@@ -10092,7 +10093,7 @@ msgstr ""
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr ""
+msgstr "پبشاندانى دواین پەیامەکان"
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -10195,7 +10196,7 @@ msgstr ""
 
 msgctxt "sLIVE_ADD_TO_CONTACTS"
 msgid "Add to Contacts..."
-msgstr ""
+msgstr "زیادکردن بۆ هاوەڵان..."
 
 msgctxt "sACCOUNT_PANEL_ONE_SUBSCRIPTION"
 msgid "1 subscription"
@@ -10279,7 +10280,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL_CALL_A_PHONE_NUMBER"
 msgid "Call Phones"
-msgstr ""
+msgstr "پەیوەندیە تەلەفۆنیەکان"
 
 msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_ASSISTED"
 msgid "Screen Reader Mode"
@@ -10468,7 +10469,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr ""
+msgstr " تەلەفۆن لەلاین %s (%s) رەتکرایەوە %s."
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
@@ -10502,11 +10503,11 @@ msgstr "ئەم تایبەتمەندیە ناچالاککراو لە لایەن �
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr ""
+msgstr "پەیوەندى پچڕا لە لایەن  %s (%s)"
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr ""
+msgstr " تەلەفۆن لەلاین %s (%s) رەتکرایەوە."
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
@@ -10666,11 +10667,11 @@ msgstr ""
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
-msgstr ""
+msgstr "پەیوەندى تەلەفۆنی"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr ""
+msgstr "زیادکردنی ژمارەی تەلەفون"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -10678,7 +10679,7 @@ msgstr ""
 
 msgctxt "sCALL_POPUP_VOICEMAIL"
 msgid "Voice message"
-msgstr ""
+msgstr "پەیامى دەنگی"
 
 msgctxt "sPROFILE_STATUS_OFFLINE_CF"
 msgid "Offline. Calls forwarded at no cost to you."
@@ -10766,7 +10767,7 @@ msgstr ""
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add, send and share..."
-msgstr ""
+msgstr "زیادکردن, ناردن و هاوبەشپێکردن..."
 
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
@@ -10879,11 +10880,11 @@ msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr ""
+msgstr "هاوەڵەکان ببینە"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr ""
+msgstr "هاوەڵەکان بشارەوە"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
@@ -10942,7 +10943,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_ADD_PEOPLE"
 msgid "Add people..."
-msgstr ""
+msgstr "خەڵک زیادکردن..."
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
@@ -10954,7 +10955,7 @@ msgstr ""
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_TITLE"
 msgid "Share Screens"
-msgstr ""
+msgstr "هاوبەشکردنى شاشەکان"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_OK"
 msgid "Call"
@@ -10990,11 +10991,11 @@ msgstr ""
 
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
-msgstr ""
+msgstr "یەکەم پەیوەندى بە خۆراییە"
 
 msgctxt "sCALL_PHONES"
 msgid "Call phones"
-msgstr ""
+msgstr "پەیوەندیە تەلەفۆنیەکان"
 
 msgctxt "sNEW_ACCOUNT_NOTIFY"
 msgid "New account notification"
@@ -11040,11 +11041,11 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SETUP_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "بەردەوام بە"
 
 msgctxt "sGETTING_STARTED_TITLE"
 msgid "<b>Setting up Skype</b>"
-msgstr ""
+msgstr "<b>دامەزراندى سکایپ</b>"
 
 msgctxt "sGETTING_STARTED_SOUND_CAPTION"
 msgid "Check your sound and video"
@@ -11100,11 +11101,11 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_MORE_HELP"
 msgid "More help"
-msgstr ""
+msgstr "یارمەتى زیاتر"
 
 msgctxt "sGETTING_STARTED_PLAY_SOUND"
 msgid "Test sound"
-msgstr ""
+msgstr "تاقیکردنەوەى دەنگ"
 
 msgctxt "sGETTING_STARTED_INTRO_CAPTION"
 msgid "Add a profile picture"
@@ -11137,11 +11138,11 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_TAKE_SNAPSHOT_BUTTON"
 msgid "Take a picture"
-msgstr ""
+msgstr "وێنەیەک بگرە"
 
 msgctxt "sGETTING_STARTED_CHOOSE_FILE_BUTTON"
 msgid "Browse..."
-msgstr ""
+msgstr "...گەڕان"
 
 msgctxt "sGETTING_STARTED_CHOOSE_WEBCAM_LABEL"
 msgid "Choose a different webcam"
@@ -11165,7 +11166,7 @@ msgstr "Facebook"
 
 msgctxt "sGETTING_STARTED_TRY_AGAIN"
 msgid "Try again"
-msgstr ""
+msgstr "دووبارە هەوڵبدەوە"
 
 msgctxt "sGETTING_STARTED_TRY_DONE_LABEL"
 msgid ""
@@ -11327,7 +11328,7 @@ msgstr ""
 
 msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
-msgstr ""
+msgstr "زیادکردنی ژمارە"
 
 msgctxt "sSMS_FROM_SKYPE_DISABLED"
 msgid "Skype (not available)"
@@ -11359,7 +11360,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
-msgstr ""
+msgstr "باشە"
 
 msgctxt "sF_OPTIONS_SMS_VER_CAPTION"
 msgid "Please verify your mobile number below:"
@@ -11435,7 +11436,7 @@ msgstr "دڵخوازەکان"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "هاوەڵ راکێشە بۆ ئێرە"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
@@ -11451,11 +11452,11 @@ msgstr "بسڕەوە"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "زیادکردن بۆ دڵخوازان"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "سڕینەوە لە دڵخوازان"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
@@ -11471,7 +11472,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "هەموو"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -11958,11 +11959,11 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr ""
+msgstr "ناردنی پەیامێک"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "ناردنى کورتە نامە"
 
 msgctxt "sSEND_SMS_TARGET_HINT"
 msgid "Change where you send SMS."

@@ -2,6 +2,8 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # pentile <pentile@ya.ru>, 2013
+# pentile <pentile@ya.ru>, 2013
+# Дима <rastamaf@gmail.com>, 2013
 # Дима <rastamaf@gmail.com>, 2013
 # Дима <rastamaf@gmail.com>, 2013
 msgid ""
@@ -9,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-08-15 12:55+0000\n"
-"Last-Translator: pentile <pentile@ya.ru>\n"
+"PO-Revision-Date: 2013-10-02 19:19+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Chuvash (http://www.transifex.com/projects/p/skype-translation-project/language/cv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2252,7 +2254,7 @@ msgstr "Тел.нумере кĕрт"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8"
 msgid "You'll need"
-msgstr ""
+msgstr "Сана кирлĕ пулать"
 
 msgctxt "sF_OPTIONS_SAVING_HINT1"
 msgid "Saving new settings"
@@ -2340,7 +2342,7 @@ msgstr "Ятлăха чарса лартнă."
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_1"
 msgid "The file %s can't be used as a picture."
-msgstr ""
+msgstr "%s файлпа ÿкерчеркпе усă курма май çук"
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_2"
 msgid "Please select a new file and try again."
@@ -2352,7 +2354,7 @@ msgstr "Файлпа усă курма май çук"
 
 msgctxt "sF_SOUNDS_MSG3_1"
 msgid "The file %s can't be used as a sound."
-msgstr ""
+msgstr "%s файлпа сассипе усă курма май çук"
 
 msgctxt "sF_SOUNDS_MSG3_2"
 msgid "Please select a new file and try again."
@@ -2701,7 +2703,7 @@ msgstr "Манăн курма хатĕр пур тесе..."
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
-msgstr ""
+msgstr "Пур сассисем теприн пек пулмалла?"
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_TEXT"
 msgid ""
@@ -5081,7 +5083,7 @@ msgstr "Тиесе ил"
 
 msgctxt "sZAPBUTTON_DONT"
 msgid "Don't use for Skype"
-msgstr ""
+msgstr "Скайппа усă курма юрăмаç"
 
 msgctxt "sZAPBUTTON_DONTSHOW"
 msgid "Don't show again"
@@ -5945,11 +5947,11 @@ msgstr "Курав çыру"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "Курав çыру ярса пар"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr ""
+msgstr "Курав çыру пăх"
 
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
@@ -6057,7 +6059,7 @@ msgstr "Суйланă чÿрече кăтарт"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "Пар экран ÿкерчексене..."
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
 msgid "Close"
@@ -7080,7 +7082,7 @@ msgstr "Скайп пирки"
 
 msgctxt "sCHAT_MENU_MOVE_BOOKMARK"
 msgid "Move Bookmark Here"
-msgstr ""
+msgstr "Кăсăклăсĕне кунта хур"
 
 msgctxt "sCHAT_GRANTED_AUTH"
 msgid "%s has shared contact details with %s."
@@ -7255,7 +7257,7 @@ msgstr "Çыхăнусен йышĕнчен кăлар"
 
 msgctxt "sCALL_LB2_UNAVAILABLE"
 msgid "The number is unavailable"
-msgstr ""
+msgstr "Нумере пултарайман"
 
 msgctxt "sGROUP_AVATAR_BROWSER_DEFAULT_PIC"
 msgid "No picture"
@@ -7283,11 +7285,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PLACEHOLDER"
 msgid "The file isn't available"
-msgstr ""
+msgstr "Файл пултарайманшĕн"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PLACEHOLDER_TIMEOUT"
 msgid "The file isn't available"
-msgstr ""
+msgstr "Файл пултарайманшĕн"
 
 msgctxt "sFILETRANSFER_GROUP_STATUS"
 msgid "%d recipients: %s"
@@ -8414,7 +8416,7 @@ msgstr ""
 
 msgctxt "sSAVE_GROUP_TITLE"
 msgid "Save group in your Contact list"
-msgstr ""
+msgstr "Çак Сирĕн Ушкăнсене Çыхăнувра упра"
 
 msgctxt "sCALL_FAILED"
 msgid "Call failed"
@@ -8746,7 +8748,7 @@ msgstr ""
 
 msgctxt "sF_USERENTRY_SUGGEST1"
 msgid "Skype Name not available"
-msgstr ""
+msgstr "Скайп яту пултараймасть"
 
 msgctxt "sF_USERENTRY_BIRTHDAY"
 msgid "Birthday"
@@ -9260,7 +9262,7 @@ msgstr ""
 
 msgctxt "sCQ_YOUR_CONNECTION_VERY_SLOW_TITLE"
 msgid "Connection is very slow"
-msgstr ""
+msgstr "Çыхăнăву чи вăрах"
 
 msgctxt "sCQ_YOUR_CONNECTION_VERY_SLOW_DESC"
 msgid ""
@@ -10108,11 +10110,11 @@ msgstr "%s хуп"
 
 msgctxt "sCONTACT_NOTIFICATION"
 msgid "Contact request"
-msgstr ""
+msgstr "Çыхăну пирки ыйту"
 
 msgctxt "sCONTACT_NOTIFICATION_MANY"
 msgid "Contact requests"
-msgstr ""
+msgstr "Çыхăну пирки ыйтусем"
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_VIDEO_TITLE"
 msgid "The connection between you is too slow for good video."
@@ -10522,7 +10524,7 @@ msgstr "Çыхăнăва пайлаш"
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "Пар экран ÿкерчексене..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -10766,7 +10768,7 @@ msgstr "Санăн videona сÿнтернĕ"
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add, send and share..."
-msgstr ""
+msgstr "Хуш, яр е пар..."
 
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
@@ -10946,7 +10948,7 @@ msgstr "Халăх хуш..."
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr ""
+msgstr "Çынсене хуш, файлсене яр е тата ту"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -11431,11 +11433,11 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "Юратакансем"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "Çыхунусене кунта ил"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
@@ -11451,11 +11453,11 @@ msgstr "Катерт"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "Юратаканнисĕне хуш"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "Юратаканнисинчĕн катĕрт"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
@@ -12650,11 +12652,11 @@ msgstr "Тел. нумерĕ упра"
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr ""
+msgstr "Юратаканнисинчĕн катĕрт"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr ""
+msgstr "Юратаканнисĕне хуш"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"

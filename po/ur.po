@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-30 13:35+0000\n"
-"Last-Translator: mrfix900 <mrfix900@gmail.com>\n"
+"PO-Revision-Date: 2013-10-02 19:16+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Urdu (http://www.transifex.com/projects/p/skype-translation-project/language/ur/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -372,7 +372,7 @@ msgid ""
 "Unauthorized reproduction or distribution of this program, or any portions "
 "of it, may result in severe civil and criminal penalties, and will be "
 "prosecuted to the maximum extent possible under the law."
-msgstr ""
+msgstr "اس پورگرام کی یا کسی حصّے کی بلّا اجازت پیداوار یا تقسیم کا نتیجہ شدید دیوانی اور مجرمانہ سزائیں ہو سکتا ہے, اور ایسی حرکت کا مواخذہ بد ترین حد تک کیا جایے گا"
 
 msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
@@ -620,11 +620,11 @@ msgstr "اردو"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
-msgstr "تیز گھماؤ نمبرمقرر کریں"
+msgstr "تیز ملاؤ نمبرمقرر کریں"
 
 msgctxt "sF_SPEEDDIAL_LABEL"
 msgid "Enter new speed dial number for %s"
-msgstr "%s کیلئے تیز گھماؤ نمبرمقرر کریں"
+msgstr "%s کیلئے تیز ملاؤ نمبرمقرر کریں"
 
 msgctxt "sF_SPEEDDIAL_DUPLICATE"
 msgid ""
@@ -746,7 +746,7 @@ msgstr "(وضع کردہ)"
 
 msgctxt "s_MAINMENU_TOOLS_LOADLANG"
 msgid "Load Skype Language File..."
-msgstr ""
+msgstr "اسکائپ کی لسانی فائل چڑھائیں..."
 
 msgctxt "sF_USERENTRY_CB_STOREPASSWORD"
 msgid "Sign me in when Skype starts"
@@ -808,7 +808,7 @@ msgstr "اپنے بلندگو کو بجائیں"
 
 msgctxt "sBUDDYMENU_SPEEDDIAL"
 msgid "Set Speed Dial..."
-msgstr ""
+msgstr "تیز ملاؤ ترتیب دیں..."
 
 msgctxt "sTRAYHINT_PROFILE_NOT_LOGGED_IN"
 msgid "Not signed in"
@@ -1723,7 +1723,7 @@ msgstr "مزید جانیں کہ سکائپ، پراکسیوں اور فائر �
 
 msgctxt "sF_OPTIONS_LBC_CONNECTION"
 msgid "<b>Connection:</b> Set up how Skype connects to the internet"
-msgstr ""
+msgstr "<b>رابطہ:</b> ترتیب دیں کہ سکائپ انٹرنیٹ سے کیسے جڑتا ہے"
 
 msgctxt "sF_OPTIONS_LBC_DEVICES"
 msgid "Volume"
@@ -1800,7 +1800,7 @@ msgstr "صوتی پیغامات سے کبھی کال کوئی اور کال خط
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO"
 msgid "You have to be online to listen your voice message greeting"
-msgstr ""
+msgstr "اس استقبالیہ صوتی پیغام کو سننے کے لیے آپ کا آن لائن ہونا ضروری ہے-"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO2"
 msgid "You have to be online to record your voice message greeting"
@@ -1832,7 +1832,7 @@ msgstr "رابطے فائل میں محفوظ کریں..."
 
 msgctxt "sF_OPTIONS_RADIOGROUP3"
 msgid "Allow calls to my Skype number(s) from..."
-msgstr ""
+msgstr "کی طرف سے میرے سکائپ نمبر(وں) پر کال کی اجازت دیں..."
 
 msgctxt "sF_OPTIONS_RG3_1"
 msgid "anyone"
@@ -4336,7 +4336,7 @@ msgid ""
 "value – all you need is a little Skype Credit. You can even set your "
 "messages to look like they came from your mobile phone so friends can reply "
 "to your mobile."
-msgstr ""
+msgstr "اپنے آرام دہ کلیدی تختے سے ایس ام ایس  بھیجنا بہت آسان ہے، مزید بیش قیمت بھی ہے- بس آپ کو سکائپ اعزازیہ کی ضرورت ہے- آپ اپنے پیغامات ایسے سیٹ کر سکتے ہیں جیسے آپ کا موبائل سے بھیجے گیے ہوں تاکہ دوست آپ کو موبائل پر جواب بھیج سکیں-"
 
 msgctxt "sF_OPTIONS_BUY_CREDIT_SMS"
 msgid "Buy Skype Credit to send SMS to mobile phone"
@@ -4483,7 +4483,7 @@ msgstr "یہ ایک کال کی آگاہی کی مثال ہے"
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr ""
+msgstr "کال ختم کریں"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
@@ -4653,7 +4653,7 @@ msgstr "رواں تصویر سے جواب دیں"
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr ""
+msgstr "قبول"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
@@ -4689,7 +4689,7 @@ msgstr "کال میں شامل کریں"
 
 msgctxt "sZAPBUTTON_CALLWHICH"
 msgid "Call"
-msgstr ""
+msgstr "کال"
 
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
@@ -4973,7 +4973,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
-msgstr ""
+msgstr "انکار"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -5709,7 +5709,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REJECT"
 msgid "Reject"
-msgstr ""
+msgstr "منع کریں"
 
 msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
@@ -5725,11 +5725,11 @@ msgstr "ترتیب رد کریں"
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "کال جاری کریں"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr ""
+msgstr "ڈاؤن لوڈ جاری کریں"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -5773,7 +5773,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
-msgstr ""
+msgstr "تمام محفوظ کریں"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
@@ -5785,15 +5785,15 @@ msgstr "تمام مسترد کریں"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
-msgstr ""
+msgstr "کے طور پر محفوظ کریں"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
-msgstr ""
+msgstr "میری رواں تصویر دیکھیں"
 
 msgctxt "sZAPBUTTON_HIDEVIDEO"
 msgid "Hide my video"
-msgstr ""
+msgstr "میری رواں تصویر چھپائیں"
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
@@ -5813,7 +5813,7 @@ msgstr "ایس ام ایس بھیجیں"
 
 msgctxt "sZAPBUTTON_SEARCH"
 msgid "Search"
-msgstr ""
+msgstr "تلاش کریں"
 
 msgctxt "sZAPBUTTON_SEARCHHISTORY"
 msgid "Search History"
@@ -5873,7 +5873,7 @@ msgstr "بھیجیں"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "مکمل ہو گیا"
 
 msgctxt "sZAPBUTTON_SEARCHAGAIN"
 msgid "Search again"
@@ -6025,23 +6025,23 @@ msgstr "تصویر کھینچیں"
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr ""
+msgstr "رواں تصویر شروع کریں"
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr ""
+msgstr "رواں تصویر بند کریں"
 
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr ""
+msgstr "رواں تصویر"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr ""
+msgstr "رواں تصویر بند کریں"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr ""
+msgstr "رواں تصویر جاری رکھیں"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -6359,7 +6359,7 @@ msgstr "%s کی طرف سے کال"
 
 msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
-msgstr ""
+msgstr "%s کو کال"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
@@ -6417,7 +6417,7 @@ msgstr ""
 
 msgctxt "sLOGIN_CONNECTION_OPTIONS"
 msgid "Connection options..."
-msgstr ""
+msgstr "رابطے کے اختیارات..."
 
 msgctxt "sLOGIN_CHANGE_LANGUAGE"
 msgid "Change language"
@@ -6679,7 +6679,7 @@ msgstr ""
 
 msgctxt "sTRANSFER_CHOOSE_FOLDER"
 msgid "Choose destination folder."
-msgstr ""
+msgstr "منزل فولڈر چنیں-"
 
 msgctxt "sSMS_NO_TARGET_MESSAGE"
 msgid ""
@@ -6689,19 +6689,19 @@ msgstr ""
 
 msgctxt "sOPTIONS_RECEIVED_FILE"
 msgid "When I receive a file..."
-msgstr ""
+msgstr "جب می فائل وصول کریں..."
 
 msgctxt "sOPTIONS_SAVE_FILE_TO_DIR"
 msgid "choose a folder to save the file in every time"
-msgstr ""
+msgstr "ہر دفعہ فائل محفوظ کرنے کے لیے فولڈر چنیں"
 
 msgctxt "sOPTIONS_AUTO_SAVE_FILE"
 msgid "save all files to:"
-msgstr ""
+msgstr "تمام فائل محفوظ کریں ..."
 
 msgctxt "sOPTIONS_CHANGE_DIR"
 msgid "Change folder"
-msgstr ""
+msgstr "فولڈر تبدیل کریں"
 
 msgctxt "sCALL_LB2_NO_FUNDS"
 msgid "No Skype Credit"
@@ -6725,7 +6725,7 @@ msgstr "%s کی طرف سے کال، دورانیہ %s-"
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr ""
+msgstr "%s کو کال، دورانیہ %s."
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -7100,7 +7100,7 @@ msgstr "کھاتا بے اثرکر دیا گیا ہے"
 
 msgctxt "sVOICEMAIL_NOTDOWNLOADED"
 msgid "You have to be online to listen to this voice message."
-msgstr ""
+msgstr "اس صوتی پیغام کو سننے کے لیے آپ کا آن لائن ہونا ضروری ہے-"
 
 msgctxt "sEMPTY_GROUP"
 msgid "Empty group"
@@ -7152,23 +7152,23 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr ""
+msgstr "بیتا کل"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr ""
+msgstr "7 دن"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr ""
+msgstr "30 دن"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr ""
+msgstr "ابتدا سے"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr ""
+msgstr "کی طرف سے پیغامات دیکھائیں: %s"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -7227,7 +7227,7 @@ msgctxt "sCALL_TOO_MUCH_PARTICIPANTS3"
 msgid ""
 "You can have up to %s people in a call. To start a call, hold the CTRL key "
 "and click up to %s people in the list below."
-msgstr ""
+msgstr "اب زیادہ سے زیادہ %s لوگ ایک کال میں رکھ سکتے ہیں- کال شروع کرنے کے لیے، کنٹرول کی چابی دبائیں اور نیچے فہرست میں %s تک لوگوں کو ٹک کریں-"
 
 msgctxt "sINBOX_DIALOG_FILE_TRANSFER"
 msgid "New file transfer: %s"
@@ -7406,7 +7406,7 @@ msgstr "فہرست حذف کریں؟"
 
 msgctxt "sREMOVEGROUP_WARNING"
 msgid "Do you want to delete the list \"%s\"?"
-msgstr ""
+msgstr "کیا آپ \"%s\" فہرست حذف کرنا چاہتے ہیں؟"
 
 msgctxt "sREMOVEGROUP_TITLE"
 msgid "Delete list"
@@ -7453,11 +7453,11 @@ msgstr "%s پیغامات"
 
 msgctxt "sCONTACT_ADD_TO_GROUP"
 msgid "Add to List"
-msgstr ""
+msgstr "فہرست میں شامل کریں"
 
 msgctxt "sCONTACT_MANAGE_GROUP"
 msgid "Manage Lists"
-msgstr ""
+msgstr "فہرستوں کا انضمام کریں"
 
 msgctxt "sPFOFILE_HEADER_GROUP_SAVED"
 msgid "Group saved"
@@ -7958,15 +7958,15 @@ msgstr "منزل مطلوب عارضی طور بے اثر کر دی گئی ہے"
 
 msgctxt "sPASTE_AS_QUOTE_LBL"
 msgid "Pressing Ctrl+V will..."
-msgstr ""
+msgstr "کنٹرول + V دبانے سے..."
 
 msgctxt "sPASTE_AS_QUOTE"
 msgid "quote copied message"
-msgstr ""
+msgstr "نقل کیا ہوا پیغام حوالہ بنائیں"
 
 msgctxt "sPASTE_AS_QUOTE_NOT"
 msgid "paste message as plain text"
-msgstr ""
+msgstr "پیغام سادہ لکھائی میں چسپاں کریں"
 
 msgctxt "sHISTORY_FILTER_EMPTY"
 msgid "No events matching \"%s\""
@@ -8050,7 +8050,7 @@ msgstr "%s کی طرف سے رد کی گئی کال-"
 
 msgctxt "sFLOW_CALL_UNANSWERED_OUT"
 msgid "Call to %s, no answer."
-msgstr ""
+msgstr "%s کو کال، کوئی جواب نہیں-"
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
@@ -8197,7 +8197,7 @@ msgstr ""
 msgctxt "sINVITE_REQUEST_TEXT"
 msgid ""
 "Your email contact %s is now on Skype. Please add them to your Contact list."
-msgstr ""
+msgstr "آپ کا ای میل رابطہ %s اب سکائپ پر ہے- برائے مہربانی ان کو اپنے رابطے کی فہرست میں شامل کریں- "
 
 msgctxt "sINVITE_ADDED_CAPTION1"
 msgid "Find them in your Contact list and send them messages"
@@ -8295,7 +8295,7 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
 msgid "In call"
-msgstr ""
+msgstr "کال میں مصروف"
 
 msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
 msgid "On hold"
@@ -8303,7 +8303,7 @@ msgstr "رکی ہوئی ہے"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
 msgid "Muted"
-msgstr ""
+msgstr "خاموش کیا گیا"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
 msgid "Missed call"
@@ -8311,11 +8311,11 @@ msgstr "خطا کال"
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
-msgstr ""
+msgstr "گھنٹی بج رہی ہے"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr ""
+msgstr "کال ختم ہو گئی"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -8406,7 +8406,7 @@ msgstr "دھڑکن (سکائپ کی صورت حال)"
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr ""
+msgstr "اشکال ڈالیں"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8818,7 +8818,7 @@ msgstr ""
 
 msgctxt "sACC_CQGUIDE_LIST_BOX_DESC"
 msgid "Use Up or Down arrows to navigate through list items"
-msgstr ""
+msgstr "فہرست کی اشیاء میں گھومنے کے لیےاوپر یا نیچے کے تیر استعمال کریں"
 
 msgctxt "sF_USERENTRY_INFO_PROFILE"
 msgid "Set up your Skype profile"
@@ -9121,7 +9121,7 @@ msgid ""
 " high quality webcam. Can't see your video? Make sure you've installed the "
 "latest drivers, or plug your webcam into a different USB port and restart "
 "Skype."
-msgstr ""
+msgstr "اپنی رواں تصویر بہتر کرنے کے لیے اپنا کمپیوٹر یا انٹر نیٹ رابطہ تیز بنائیں- یا اچھے میعار کا کیمرہ استعمال کر کے دیکھیں- ایک دوسرے کی رواں تصویر نہیں دیکھ پا رہے؟ ممکن بنانیں کے آپ نے تازہ ترین ڈرائیور کی تنصیب کی ہوئی ہے، یا اپنا کیمرہ کسی دوسری یو ایس بی پورٹ میں لگا کر دوبارہ چلانا چاہئیے-"
 
 msgctxt "sCQ_CAM_SEND_MEDIUM_ON_CALL_TITLE"
 msgid "Your video quality is medium"
@@ -9133,7 +9133,7 @@ msgid ""
 "quality webcam. Not seeing each other's video? You should both turn your "
 "video off then on again, or plug your webcams into a different USB port and "
 "restart."
-msgstr ""
+msgstr "بہتر کرنے کے لیے اپنا کمپیوٹر یا انٹر نیٹ رابطہ تیز بنائیں- یا اچھے میعار کا کیمرہ استعمال کر کے دیکھیں- ایک دوسرے کی رواں تصویر نہیں دیکھ پا رہے؟ آپ دونوں کو اپنی رواں تصویر بند کر کے دوبارہ شروع کرنی چاہئیے، یا اپنا کیمرہ کسی دوسری یو ایس بی پورٹ میں لگا کر دوبارہ چلانا چاہئیے-"
 
 msgctxt "sCQ_CAM_RECV_HIGH_TITLE"
 msgid "You're receiving high quality video"
@@ -9176,13 +9176,13 @@ msgstr ""
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_TITLE"
 msgid "Your computer speed is very slow"
-msgstr ""
+msgstr "آپ کے کمپیوٹر کی رفتار بہت سست ہے"
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_DESC"
 msgid ""
 "Your computer is running too slowly to make a call. You can improve your "
 "computer speed by closing any other applications you have running."
-msgstr ""
+msgstr "آپ کے کمپیوٹر کی رفتار کال ملانے کے لیے بہت سست ہے- آپ چلتے ہووے دوسرے پروگرام بند کر کے اپنے کمپیوٹر کی رفتار بڑھا سکتے ہیں-"
 
 msgctxt "sCQ_RUNNING_ON_BATTERY_TITLE"
 msgid "Running on battery? Switch to AC power"
@@ -9218,29 +9218,29 @@ msgstr ""
 
 msgctxt "sCQ_YOUR_COMP_SPEED_SLOW_TITLE"
 msgid "Your computer speed is slow"
-msgstr ""
+msgstr "آپ کے کمپیوٹر کی رفتار سست ہے"
 
 msgctxt "sCQ_YOUR_COMP_SPEED_SLOW_DESC"
 msgid ""
 "Your computer is fast enough to make audio calls and low quality video "
 "calls. You can improve your computer speed by closing any other applications"
 " you have running."
-msgstr ""
+msgstr "آپ کے کمپیوٹر کی رفتار صوتی کال اور درمیانی میعار کی رواں تصویری کال ملانے کے لیے مناسب ہے- آپ چلتے ہووے دوسرے پروگرام بند کر کے اپنے کمپیوٹر کی رفتار بڑھا سکتے ہیں-"
 
 msgctxt "sCQ_YOUR_COMP_SPEED_MEDIUM_TITLE"
 msgid "Your computer speed is good"
-msgstr ""
+msgstr "آپ کے کمپیوٹر کی رفتار بہتر ہے"
 
 msgctxt "sCQ_YOUR_COMP_SPEED_MEDIUM_DESC"
 msgid ""
 "Your computer is fast enough to make audio calls and medium quality video "
 "calls. You can improve your computer speed by closing any other applications"
 " you have running."
-msgstr ""
+msgstr "آپ کے کمپیوٹر کی رفتار صوتی کال اور درمیانی میعار کی رواں تصویری کال ملانے کے لیے مناسب ہے- آپ چلتے ہووے دوسرے پروگرام بند کر کے اپنے کمپیوٹر کی رفتار بڑھا سکتے ہیں-"
 
 msgctxt "sCQ_YOUR_COMP_SPEED_FAST_TITLE"
 msgid "Your computer speed is fast"
-msgstr ""
+msgstr "آپ کے کمپیوٹر کی رفتار تیز ہے"
 
 msgctxt "sCQ_YOUR_COMP_SPEED_FAST_DESC"
 msgid ""
@@ -9250,13 +9250,13 @@ msgstr ""
 
 msgctxt "sCQ_CONNECTION_SPEED_UNKNOW_TITLE"
 msgid "The connection speed between you is unknown"
-msgstr ""
+msgstr "آپ کے درمیان رابطے کی رفتار نامعلوم ہے"
 
 msgctxt "sCQ_CONNECTION_SPEED_UNKNOW_DESC"
 msgid ""
 "Skype is unable to measure the speed of the internet connection between you "
 "at this time."
-msgstr ""
+msgstr "سکایپ اس وقت آپ کے درمیان انٹر نیٹ کے رابطے کی رفتار کا تعین نہیں کر سکتا-"
 
 msgctxt "sCQ_YOUR_CONNECTION_VERY_SLOW_TITLE"
 msgid "Connection is very slow"
@@ -9293,14 +9293,14 @@ msgstr ""
 
 msgctxt "sCQ_CONNECTION_SPEED_SLOW_TITLE"
 msgid "The connection speed between you is slow"
-msgstr ""
+msgstr "آپ کے درمیان رابطے کی رفتار سست ہے"
 
 msgctxt "sCQ_CONNECTION_SPEED_SLOW_DESC"
 msgid ""
 "Your connection is fast enough for audio calls and low quality video. Both "
 "of you should stop file sharing programs, downloads and uploads to speed up "
 "your connection."
-msgstr ""
+msgstr "آپ کا رابطہ صوتی کال اور کم میعار کی رواں تصویر کے لیے مناسب ہے- آپ دونوں کو اپ لوڈ کی رفتار بڑھانے کے لیے فائل بانٹنے والے پروگرام اور ڈاؤن لوڈ بند کرنا ہوں گے-"
 
 msgctxt "sCQ_WEB_CONNECTION_SLOW_TITLE"
 msgid "Your internet connection is slow"
@@ -9311,11 +9311,11 @@ msgid ""
 "Close any file sharing programs you've got open and stop any downloads or "
 "uploads to speed up your connection. This should improve your call quality. "
 "Note: Skype works best with a broadband connection."
-msgstr ""
+msgstr "رابطے کی رفتار بڑھانے کے لیے کھلے ہوے فائل بانٹنے کے پروگرام اور تمام ڈاؤن لوڈ یا اپ لوڈ بند کرنا ہوں گے- یہ آپ کی کال کے میعار کو بہتر کرے گا- نوٹ: سکایپ براڈ بینڈ رابطے کے ساتھ بہترین کام کرتا ہے-"
 
 msgctxt "sCQ_CONNECTION_SPEED_MEDIUM_TITLE"
 msgid "The connection speed between you is medium"
-msgstr ""
+msgstr "آپ کے درمیان رابطے کی رفتار درمیانے درجے کی ہے"
 
 msgctxt "sCQ_CONNECTION_SPEED_MEDIUM_DESC"
 msgid ""
@@ -9323,11 +9323,11 @@ msgid ""
 "medium quality video calls. Each one of you should close file sharing "
 "programs you have open and stop any downloads or uploads to speed up your "
 "connection."
-msgstr ""
+msgstr "آپ کے درمیان انٹر نیٹ کا رابطہ درمیانی میعار کی صوتی کال کے لیے مناسب ہے- آپ دونوں کو رابطے کی رفتار بڑھانے کے لیے کھلے ہوے فائل بانٹنے کے پروگرام اور تمام ڈاؤن لوڈ یا اپ لوڈ بند کرنا ہوں گے-"
 
 msgctxt "sCQ_CONNECTION_SPEED_FAST_TITLE"
 msgid "The connection speed between you is fast"
-msgstr ""
+msgstr "آپ کے رابطے کی رفتار بہترین ہے"
 
 msgctxt "sCQ_CONNECTION_SPEED_FAST_DESC"
 msgid ""
@@ -9402,7 +9402,7 @@ msgstr ""
 
 msgctxt "sCQ_SO_CALL_NET_STATUS_TITLE"
 msgid "Your connection speed is good"
-msgstr ""
+msgstr "آپ کے رابطے کی رفتار بہتر ہے"
 
 msgctxt "sCQ_SO_CALL_NET_STATUS_DESC"
 msgid ""
@@ -9452,7 +9452,7 @@ msgstr ""
 
 msgctxt "sCQ_INDICATOR_CPU_BUTTON_HINT"
 msgid "Computer speed"
-msgstr ""
+msgstr "کمپیوٹر کی رفتار"
 
 msgctxt "sFLOW_CALLTRANSFER_OUTGOING"
 msgid "Call transferred by %s"
@@ -9506,7 +9506,7 @@ msgstr ""
 
 msgctxt "sCQ_NETWORK_TEST_IN_PROGRESS_TITLE"
 msgid "Checking your connection speed"
-msgstr ""
+msgstr "رابطے کی رفتار کا معائنہ کرتے ہوے"
 
 msgctxt "sCQ_MANUAL_NET_TEST_START"
 msgid "Test now"
@@ -9538,14 +9538,14 @@ msgstr ""
 
 msgctxt "sCQ_MUTLICHATS_DESC"
 msgid "We can't check connection speed on group calls."
-msgstr ""
+msgstr "ہم گروہی کال پر رابطے کی رفتار کا معائنہ نہیں کر سکتے"
 
 msgctxt "sCQ_CON_SPEED_MEDIUM_AUDIO_DECS"
 msgid ""
 "The internet connection between you is fast enough for medium quality audio "
 "calls. Each one of you should close file sharing programs you have open and "
 "stop any downloads or uploads to speed up your connection."
-msgstr ""
+msgstr "آپ کے درمیان انٹر نیٹ کا رابطہ درمیانی میعار کی صوتی کال کے لیے مناسب ہے- آپ دونوں کو رابطے کی رفتار بڑھانے کے لیے کھلے ہوے فائل بانٹنے کے پروگرام اور تمام ڈاؤن لوڈ یا اپ لوڈ بند کرنا ہوں گے-"
 
 msgctxt "sCQ_CON_SPEED_FAST_AUDIO_DESC"
 msgid ""
@@ -9867,7 +9867,7 @@ msgstr ""
 
 msgctxt "sPREM_VIDEO_WEB_WINDOW_CAPTION"
 msgid "Group video calling"
-msgstr ""
+msgstr "گروہی تصویری کال مل رہی ہے"
 
 msgctxt "sPREM_VIDEO_DLG_CAPTION"
 msgid "Introducing group video calling"
@@ -9953,7 +9953,7 @@ msgstr "حالیہ"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
-msgstr ""
+msgstr "تلاش کریں"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
@@ -10418,7 +10418,7 @@ msgstr ""
 
 msgctxt "sCQ_MESH_PROBLEM_LOCAL_CPU_TITLE"
 msgid "Your computer speed is affecting the call"
-msgstr ""
+msgstr "آپ کے کمپیوٹر کی رفتار کال کو متاثر کر رہی ہے"
 
 msgctxt "sCQ_MESH_PROBLEM_LOCAL_CPU_DESC"
 msgid ""
@@ -10429,7 +10429,7 @@ msgstr ""
 
 msgctxt "sCQ_MESH_PROBLEM_REMOTE_CPU_TITLE"
 msgid "Someone's computer speed is affecting the call"
-msgstr ""
+msgstr "کسی کے کمپیوٹر کی رفتار کال کو متاثر کر رہی ہے"
 
 msgctxt "sCQ_MESH_PROBLEM_REMOTE_CPU_DESC"
 msgid ""
@@ -10666,7 +10666,7 @@ msgstr ""
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
-msgstr ""
+msgstr "فون پر کال کریں"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
@@ -10766,7 +10766,7 @@ msgstr ""
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add, send and share..."
-msgstr ""
+msgstr "شامل کریں، بھجیں اور بانٹیں..."
 
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
@@ -11375,19 +11375,19 @@ msgstr "خود کار جدتیں"
 
 msgctxt "sF_OPTIONS_LBC_UPGRADES"
 msgid "<b>Automatic updates:</b> ensure you always have the latest version"
-msgstr ""
+msgstr "<b>خود کار جدتیں:</b> اپنے پاس تازہ ترین نسخہ یقینی بنائیں"
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL1"
 msgid ""
 "With automatic updates, Skype will upgrade itself, so you'll always have the"
 " latest version without needing to do anything."
-msgstr ""
+msgstr "خود کار جدّت سکائپ کو خود سے بہتر بناے گی، بغیر کچھ کیے آپ کے پاس ہمیشہ تازہ ترین نسخہ ہو گا-"
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL2"
 msgid ""
 "You need administrator access to change this setting, which affects everyone"
 " using Skype on this machine."
-msgstr ""
+msgstr "اس ترتیب کو تبدیل کرنے کے لیے آپ کو ناظم کی اجازت کی ضرورت ہے، جو اس مشین پر سکائپ استعمال کرنے والے ہر کسی کو اثر انداز کرے گی-"
 
 msgctxt "sF_OPTIONS_UPGRADE_TURN_ON"
 msgid "Turn on automatic updates"
@@ -11431,11 +11431,11 @@ msgstr "معاف کیجئے گا- آپ %s کو ابھی کال نہیں کر س�
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "پسندیدہ"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "رابطے ادھر گھسیٹیں"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
@@ -11447,15 +11447,15 @@ msgstr "نام تبدیل کریں"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr ""
+msgstr "حذف کریں"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "پسندیدہ میں شامل کریں"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "پسندیدہ میں سے نکال دیں"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
@@ -11997,14 +11997,14 @@ msgid ""
 "Help improve Skype and other Microsoft products and services by "
 "automatically sending us periodic reports about Skype’s performance on this "
 "device, including error reports."
-msgstr ""
+msgstr "سکائپ، دوسری مائیکرو سافٹ کی مصنوعات اور خدمات بہتر بنانے میں مدد کے لیے اس الے کی کارکردگی کے بارے میں بشمول خرابی کے، با قاعدہ بیان خود بخود ہمیں بھجیں-"
 
 msgctxt "sOPTIONS_ALLOW_DATA_COLLECTION2"
 msgid ""
 "The reports may contain your Skype ID and/or Microsoft account ID, but we "
 "will not use it to identify you or contact you. <a "
 "href=\"skype:?go#privacy\">Learn More</a>"
-msgstr ""
+msgstr "بیان میں آپ کا سکائپ پر نام یا/اور مائیکرو سافٹ کھاتے کا نام شامل ہو سکتا ہے، پر ہم اس کو آپ کی نشاندہی کے لیے استعمال نہیں کریں گے- <a href=\"skype:?go#privacy\">مزید جانیں</a>"
 
 msgctxt "sLIVE_LOGIN_BACK"
 msgid "Go back"
@@ -12509,11 +12509,11 @@ msgstr "پیغام بھیجیں"
 
 msgctxt "sF_OPTIONS_RB_4"
 msgid "insert line break"
-msgstr ""
+msgstr "نئی لائن شروع کریں"
 
 msgctxt "sF_OPTIONS_LB_6"
 msgid "Pressing Enter will..."
-msgstr ""
+msgstr "داخل دبانے سے..."
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_HEADER"
 msgid "How Auto-recharge works"
@@ -12634,11 +12634,11 @@ msgstr "تصویری پیغام بھیجیں"
 
 msgctxt "sCALL_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "لینک"
 
 msgctxt "sCALL_POPUP_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "لینک"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
@@ -12650,11 +12650,11 @@ msgstr "ایک فون نمبر محفوظ کریں"
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr ""
+msgstr "پسندیدہ میں سے نکال دیں"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr ""
+msgstr "پسندیدہ میں شامل کریں"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
