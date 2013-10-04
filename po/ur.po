@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-10-04 14:25+0000\n"
+"PO-Revision-Date: 2013-10-04 15:30+0000\n"
 "Last-Translator: mrfix900 <mrfix900@gmail.com>\n"
 "Language-Team: Urdu (http://www.transifex.com/projects/p/skype-translation-project/language/ur/)\n"
 "MIME-Version: 1.0\n"
@@ -4541,7 +4541,7 @@ msgstr "سکائپ کوکیز صاف کریں"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TOO_LONG"
 msgid "> 24 hours"
-msgstr "24 گھنٹے <"
+msgstr "24 گھنٹے &gt;"
 
 msgctxt "sZAPCONTACT_HOME_PHONE"
 msgid "Home"
@@ -7773,23 +7773,23 @@ msgstr "تصویری مسلے"
 
 msgctxt "sF_CALL_QLT_LBL2_VERY_GOOD"
 msgid "<b>Excellent</b><br />Perfect, clear, no problems"
-msgstr ""
+msgstr "<b>بہترین</b><br />بالکل ٹھیک، صاف، کوئی مسلہ نہیں"
 
 msgctxt "sF_CALL_QLT_LBL2_GOOD"
 msgid "<b>Good</b><br />Minor problems, hardly noticed them"
-msgstr ""
+msgstr "<b>بہتر</b><br />تھوڑے سے مسائل، نہ ہونے کے برابر"
 
 msgctxt "sF_CALL_QLT_LBL2_AVERAGE"
 msgid "<b>Fair</b><br />Had some problems that affected the call"
-msgstr ""
+msgstr "<b>بس ٹھیک</b><br />کچھ مسائل ہونے جس نے کال پر اثر ڈالا"
 
 msgctxt "sF_CALL_QLT_LBL2_BAD"
 msgid "<b>Poor</b><br />Had several problems; really affected the call"
-msgstr ""
+msgstr "<b>برا</b><br />کچھ سنگین مسائل ہوۓ، کال کو بہت متاثر کیا"
 
 msgctxt "sF_CALL_QLT_LBL2_VERY_BAD"
 msgid "<b>Very bad</b><br />Problems so bad the call was impossible"
-msgstr ""
+msgstr "<b>بہت برا</b><br />اتنے مسائل ہووے کہ کال نا ممکن تھی"
 
 msgctxt "sF_OPTIONS_LBL_VISUAL_STYLE"
 msgid "Visual style of the window"
@@ -8495,15 +8495,15 @@ msgstr "سکائپ وائی فائی..."
 
 msgctxt "sALERTS_TITLE"
 msgid "Notifications"
-msgstr ""
+msgstr "اعلانات"
 
 msgctxt "sUSERCREATE_NAME_HINT"
 msgid "6-32 characters needed"
-msgstr ""
+msgstr "6-32 حروف کی ضرورت ہے"
 
 msgctxt "sUSERCREATE_PWD_HINT"
 msgid "6-20 characters needed"
-msgstr ""
+msgstr "20- حروف کی ضرورت ہے"
 
 msgctxt "sUSERCREATE_FULLNAME_HINT"
 msgid "Enter your name"
@@ -8511,7 +8511,7 @@ msgstr "اپنا نام درج کریں"
 
 msgctxt "sUSERCREATE_ERROR_NAMETOOSHORT"
 msgid "Too short: 6 characters min."
-msgstr ""
+msgstr "بہت چھوٹا: 6 حروف کم از کم-"
 
 msgctxt "sUSERCREATE_ERROR_NAMETOOLONG"
 msgid "Too long: 32 characters max."
@@ -8519,11 +8519,11 @@ msgstr "بہت لمبا: ٣٢ حروف زیادہ سے زیادہ-"
 
 msgctxt "sUSERCREATE_ERROR_NAMEINVALIDCHAR"
 msgid "Can only contain A-z 0-9 - _ ."
-msgstr ""
+msgstr "صرف یہ حروف استعمال ہو سکتے ہیں: A-z 0-9 - _ ."
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid "Too short: 6 characters min."
-msgstr ""
+msgstr "بہت چھوٹا: 6 حروف کم از کم-"
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_TOO_LONG"
 msgid "Too long: 20 characters max."
@@ -8531,11 +8531,11 @@ msgstr "بہت لمبا: ٢٠ حروف زیادہ سے زیادہ-"
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_INVALID_CHAR"
 msgid "Invalid character eg Σ, à, ß"
-msgstr ""
+msgstr "غیرمعتبر حروف مثال کے طور پر Σ, à, ß"
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_CONTAINS_SPACE"
 msgid "Can't contain a space"
-msgstr ""
+msgstr "حرف مسافت شامل نہیں ہو سکتا"
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_SAMEASUSERNAME"
 msgid "Too similar to Skype Name"
@@ -8645,31 +8645,31 @@ msgstr "چنیں جو کیمرہ آپ استعمال کرنا چاہتے ہیں"
 
 msgctxt "sCQ_QUALITY_LEVEL_BAD"
 msgid "Bad"
-msgstr ""
+msgstr "برا"
 
 msgctxt "sCQ_QUALITY_LEVEL_AVERAGE"
 msgid "Medium"
-msgstr ""
+msgstr "درمیانہ"
 
 msgctxt "sCQ_QUALITY_LEVEL_GOOD"
 msgid "Good"
-msgstr ""
+msgstr "اچھا"
 
 msgctxt "sCQGUIDE_BACK_BUTTON"
 msgid "« Back"
-msgstr ""
+msgstr "« پیچھے"
 
 msgctxt "SCQGUIDE_BACK_TO_MAINSCREEN"
 msgid "Return to main screen"
-msgstr ""
+msgstr "مرکزی پردے پر واپس ہوں"
 
 msgctxt "sCQGUIDE_ACC_EXPAND"
 msgid "Use spacebar to expand"
-msgstr ""
+msgstr "پھیلانے کے لیے فاصلی پٹی استعمال کریں"
 
 msgctxt "sCQGUIDE_ACC_COLLAPSE"
 msgid "Use spacebar to collapse"
-msgstr ""
+msgstr "سکیڑنے کے لیے فاصلی پٹی استعمال کریں"
 
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS_1"
 msgid "Display a notification in the Windows tray when Skype..."
@@ -8697,7 +8697,7 @@ msgstr "درست ای میل پته درج کریں"
 
 msgctxt "sF_USERENTRY_REPEAT_EMAIL"
 msgid "Repeat email"
-msgstr ""
+msgstr "ای میل دوہرائیں"
 
 msgctxt "sF_USERENTRY_HINT1"
 msgid "Note: anyone can see this information. Please fill in all fields."
@@ -8721,11 +8721,11 @@ msgstr "نوٹ: صرف آپ کے رابطے یہ معلومات دیکھ سکت�
 
 msgctxt "sF_USERENTRY_PHONE_HINT"
 msgid "Enter %s's phone number."
-msgstr ""
+msgstr "%s کا فون نمبر درج کریں-"
 
 msgctxt "sF_USERENTRY_PHONE_HINT2"
 msgid "Enter the phone number with country or region code."
-msgstr ""
+msgstr "فون نمبر ملک یا علاقہ کے کوڈ کے ساتھ درج کریں-"
 
 msgctxt "sF_USERENTRY_PROFILE_HINT1"
 msgid ""
@@ -8758,11 +8758,11 @@ msgstr "موبائل فون نمبر"
 
 msgctxt "sF_USERENTRY_PHONE_ERROR"
 msgid "Invalid phone number"
-msgstr ""
+msgstr "غیرمعتبر فون نمبر"
 
 msgctxt "sF_USERENTRY_EMAIL_OK"
 msgid "Email OK"
-msgstr ""
+msgstr "ای میل ٹھیک ہے"
 
 msgctxt "sF_USERENTRY_EMAIL_INVALID"
 msgid "Invalid email address"
@@ -8770,11 +8770,11 @@ msgstr "کالعدم ای میل پته"
 
 msgctxt "sF_USERENTRY_EMAIL_MATCH"
 msgid "Emails match"
-msgstr ""
+msgstr "ای میل مسابقت رکھتی ہیں"
 
 msgctxt "sF_USERENTRY_EMAIL_NO_MATCH"
 msgid "Emails don't match"
-msgstr ""
+msgstr "ای میل مسمقت نہیں رکھتی"
 
 msgctxt "sCHAT_HISTORY_3M"
 msgid "3 months"
@@ -8786,7 +8786,7 @@ msgstr "٦ مہینے"
 
 msgctxt "sCHAT_HISTORY_12M"
 msgid "1 year"
-msgstr ""
+msgstr "1 سال"
 
 msgctxt "sCQ_SENDING_VIDEO"
 msgid "Sending video"
@@ -8806,11 +8806,11 @@ msgstr "مسترد"
 
 msgctxt "sF_SEND_CONTACTS_DLG_CAPTION"
 msgid "Send contacts"
-msgstr ""
+msgstr "رابطہ بھجیں"
 
 msgctxt "sF_SEND_CONTACTS_TO"
 msgid "Send contacts to <b>%s</b>"
-msgstr ""
+msgstr "<b>%s</b> کو رابطے بھیجیں"
 
 msgctxt "sCALL_TOOLBAR_TRANSFERRING"
 msgid "Call is being transferred"
@@ -8842,7 +8842,7 @@ msgstr "گروہی کال رد کر دی گئی-"
 
 msgctxt "sAUTH_REQUEST_MSG_HEADER"
 msgid "This person would like to connect with you"
-msgstr ""
+msgstr "یہ شخص آپ سے رابطے کا خواہشمند ہے"
 
 msgctxt "sSKYACCESS_TRAY_HOTSPOT_DETECTED"
 msgid "You can use Skype Credit to pay for internet access."
@@ -8862,7 +8862,7 @@ msgstr "سکائپ وائی فائی..."
 
 msgctxt "sTRAYALERT_AUTH_REQUEST"
 msgid "New contact request"
-msgstr ""
+msgstr "نئی رابطے کی درخواست"
 
 msgctxt "sLIVE_B_FULLSCREEN"
 msgid "Full screen"
@@ -8874,15 +8874,15 @@ msgstr "مکمل پردے سے نکلیں"
 
 msgctxt "sLIVE_B_ACTUALSIZE"
 msgid "Actual size"
-msgstr ""
+msgstr "اصل حجم"
 
 msgctxt "sLIVE_B_NONACTUALSIZE"
 msgid "Fit screen"
-msgstr ""
+msgstr "پردہ کے متناسب"
 
 msgctxt "sLIVE_B_SEPARATE"
 msgid "Separate Window"
-msgstr ""
+msgstr "کھڑکی علیحدہ کریں"
 
 msgctxt "sCQ_CANT_DETECT_SOUNDCARD_TITLE"
 msgid "Can't detect your sound card"
