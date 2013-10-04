@@ -2,14 +2,18 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # akshayr <akshay.regulagedda@gmail.com>, 2013
+# akshayr <akshay.regulagedda@gmail.com>, 2013
 # naveenkumar_aremanda <naveenkumararemanda@gmail.com>, 2013
+# naveenkumar_aremanda <naveenkumararemanda@gmail.com>, 2013
+# ravichandrae <ravichandra.enaganti@gmail.com>, 2013
+# ravichandrae <ravichandra.enaganti@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-07-09 15:35+0000\n"
-"Last-Translator: naveenkumar_aremanda <naveenkumararemanda@gmail.com>\n"
+"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
+"PO-Revision-Date: 2013-10-04 14:36+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Telugu (http://www.transifex.com/projects/p/skype-translation-project/language/te/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -589,7 +593,7 @@ msgstr "శ్యబ్ధగ్రహిణి"
 
 msgctxt "sF_OPTIONS_LB21"
 msgid "Speakers"
-msgstr ""
+msgstr "స్పీకర్లు"
 
 msgctxt "sF_OPTIONS_LB22"
 msgid "Ringing"
@@ -657,7 +661,7 @@ msgstr "కాల్ ను విస్మరించు"
 
 msgctxt "sHOTKEY_HANGUP"
 msgid "Hang up"
-msgstr ""
+msgstr "కాల్‌ను ముగించు"
 
 msgctxt "sHOTKEY_FOCUS"
 msgid "Focus Skype"
@@ -683,7 +687,7 @@ msgstr "Block This Person…"
 
 msgctxt "sBUDDYMENU_UNBLOCK"
 msgid "Unblock This Person"
-msgstr ""
+msgstr "ఈ వ్యక్తి ని అనుమతించు"
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
@@ -1325,7 +1329,7 @@ msgstr "చేర్చు"
 
 msgctxt "sPSTN_RES_1000"
 msgid "Sorry, call failed."
-msgstr ""
+msgstr "క్షమించండి, కాల్ విఫలమైయింది"
 
 msgctxt "sF_USERENTRY_CB_START_SKYPE"
 msgid "Start Skype when computer starts"
@@ -1475,7 +1479,7 @@ msgstr "సమూహాన్ని వదిలేయ్యి"
 
 msgctxt "sCHAT_MEMBER_ADDED"
 msgid "%s added %s"
-msgstr ""
+msgstr "%s  %s ని చేర్చారు"
 
 msgctxt "sF_MULTICHAT_TOPIC_CHANGED"
 msgid "%s has changed the conversation topic to \"%s\""
@@ -1654,7 +1658,7 @@ msgstr "నోటిఫికేషనులు"
 
 msgctxt "sF_OPTIONS_PAGE_VIDEO"
 msgid "Video settings"
-msgstr ""
+msgstr "దృశ్యపు అమరికలు"
 
 msgctxt "sF_OPTIONS_BTN_MUTE"
 msgid "Mute all sounds"
@@ -1730,7 +1734,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_GENERAL"
 msgid "General settings"
-msgstr ""
+msgstr "సాధారణ అమరికలు"
 
 msgctxt "sF_OPTIONS_LBC_HOTKEYS"
 msgid ""
@@ -1790,8 +1794,8 @@ msgid "Enable all sounds"
 msgstr "అన్ని ధ్వనులను సచేతనం చెయ్యి"
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
-msgid "Buy Skype voice messaging"
-msgstr "Buy Skype voicemail"
+msgid "Set up voice messaging"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
@@ -3238,9 +3242,8 @@ msgstr "Change Sounds…"
 msgctxt "sF_USERENTRY_LB_EULA3"
 msgid ""
 "Yes, I have read and I accept the <a href=\"skype:?go#eula\">Skype End User "
-"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of "
-"Service</a> and the <a href=\"skype:?go#privacy\">Skype Privacy "
-"Statement</a>"
+"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of Use</a> "
+"and the <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>"
 msgstr ""
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
@@ -4062,11 +4065,11 @@ msgstr "మీకు చురుకైన ఇంటర్నెట్ కనె
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
-msgstr ""
+msgstr "%s కాల్ చేస్తున్నారు"
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
-msgstr ""
+msgstr "మీ మైక్రో ఫోన్ ని మ్యూట్ చెయ్యండి "
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
@@ -4421,10 +4424,6 @@ msgid ""
 "and leave voice messages for your contacts if you can't get hold of them."
 msgstr "Personalize your voicemail greeting, save messages to listen to again, and leave voice messages for your contacts if you can't get hold of them."
 
-msgctxt "sF_OPTIONS_VOICEMAIL_LABEL2"
-msgid "Get voice messaging when you sign up for a subscription."
-msgstr "Get voicemail when you sign up for a subscription."
-
 msgctxt "sF_OPTIONS_UPGRADE_SKYPPRO"
 msgid "Get a subscription"
 msgstr ""
@@ -4604,8 +4603,8 @@ msgid "Add to Contacts"
 msgstr "పరిచయాలకు చేర్చు"
 
 msgctxt "sZAPBUTTON_ADDCONTACT"
-msgid "Add contact"
-msgstr "Add a contact"
+msgid "Add a contact"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTMENU"
 msgid "All contacts"
@@ -4653,7 +4652,7 @@ msgstr "జవాబు"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
-msgstr ""
+msgstr "వీడియో తో సమాధానమివ్వండి"
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
@@ -4907,6 +4906,14 @@ msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
 msgstr "మూసెయ్యి"
 
+msgctxt "sZAPBUTTON_CLOSEONWHITE"
+msgid "Close"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CLOSEONBLUE"
+msgid "Close"
+msgstr ""
+
 msgctxt "sZAPBUTTON_CLOSEEC"
 msgid "Close"
 msgstr "మూసెయ్యి"
@@ -5083,6 +5090,10 @@ msgctxt "sZAPBUTTON_DONTSHOW"
 msgid "Don't show again"
 msgstr "మళ్ళీ చూపించవద్దు"
 
+msgctxt "sZAPBUTTON_REPLY"
+msgid "Reply"
+msgstr ""
+
 msgctxt "sZAPBUTTON_DIALADRECENT"
 msgid "Recent numbers"
 msgstr "ఇటీవల నెంబర్లు"
@@ -5120,7 +5131,7 @@ msgid "Exit popout mode"
 msgstr "పాప్ఔట్ మోడ్ నుండి నిష్క్రమించు"
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
-msgid "TopUpHelp"
+msgid "Help"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FILETRANSFER"
@@ -5200,7 +5211,7 @@ msgid "<ks>P</ks>revious"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
-msgid "FollowLink"
+msgid "My account"
 msgstr ""
 
 msgctxt "sZAPBUTTON_FORWARD"
@@ -5333,7 +5344,7 @@ msgstr "కాల్ ముగించు"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr ""
+msgstr "పిలుపు"
 
 msgctxt "sZAPBUTTON_INSTANTMESSAGE"
 msgid "Instant Message"
@@ -5360,11 +5371,11 @@ msgid "Home"
 msgstr ""
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
-msgid "HomeOrange"
+msgid "Skype Home, new updates"
 msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
-msgid "AddContactSemiActive"
+msgid "Add to contacts"
 msgstr ""
 
 msgctxt "sZAPBUTTON_HELP"
@@ -5473,7 +5484,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr ""
+msgstr "స్కైప్ ద్వారా"
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5717,7 +5728,7 @@ msgstr "రీసెట్ చెయ్యండి"
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "కాల్ కొనసాగించు"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
@@ -5785,7 +5796,7 @@ msgstr "నా వీడియో చూడండి"
 
 msgctxt "sZAPBUTTON_HIDEVIDEO"
 msgid "Hide my video"
-msgstr ""
+msgstr "నా వీడియో దాచు"
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
@@ -5925,23 +5936,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr ""
+msgstr "దృశ్య ప్రసారం"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr ""
+msgstr "దృశ్య ప్రసారం"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr ""
+msgstr "దృశ్య సందేశం"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "దృశ్య సందేశం పంపించు"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr ""
+msgstr "దృశ్య సందేశం చూపించు"
 
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
@@ -6307,6 +6318,18 @@ msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
 msgstr ""
 
+msgctxt "sZAPBUTTON_RERECORDVIDM"
+msgid "Re-record message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CANCELVIDM"
+msgid "Cancel message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_NOVIDM"
+msgid "No, thanks"
+msgstr ""
+
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
 "Can't open Skype. You are already signed in on this computer. Please sign "
@@ -6548,7 +6571,7 @@ msgstr ""
 
 msgctxt "sCONTACTS_PSTN_INLIST"
 msgid "The phone number %s you entered is already in your Contacts"
-msgstr ""
+msgstr "మీరు నమోదు చేసిన %s ఫోన్ నెంబర్ ఇంతకు ముందే మీ పరిచయాలలో వుంది"
 
 msgctxt "sF_OPTIONS_WEBCAM_NOT_FOUND"
 msgid ""
@@ -6613,7 +6636,7 @@ msgstr ""
 msgctxt "sINTERVAL_TIME_UNITS"
 msgid ""
 "second\\seconds\\\\minute\\minutes\\\\hour\\hours\\\\day\\days\\\\week\\weeks\\\\month\\months\\\\year\\years"
-msgstr ""
+msgstr "సెకను\\సెకన్లు\\\\నిముషము\\నిముషములు\\\\గంట\\గంటలు\\\\రోజు\\రోజులు\\\\వారము\\వారములు\\\\నెల\\నెలలు\\\\సంవత్సరము\\సంవత్సరములు"
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER"
 msgid "Show in folder"
@@ -6635,7 +6658,7 @@ msgctxt "sFILETRANSFER_CANCEL_MULTIPLE"
 msgid ""
 "Are you sure you want to stop sending this file? If you cancel now then no "
 "one will receive it."
-msgstr ""
+msgstr "మీరు కత్చతంగా ఫైల్ ను పంపించడం ఆపి వెయ్యదలచుకున్నారా? మీరు ఇప్పుడు రద్దు చేస్తే ఇక ఎవరు దాన్ని అందుకోలేరు."
 
 msgctxt "sFILETRANSFER_SUMMARY_WAITING"
 msgid "%d waiting"
@@ -6697,15 +6720,15 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr ""
+msgstr "%s నుంచి తప్పిన కాల్"
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
-msgstr ""
+msgstr "%s నుంచి కాల్, వ్యవధి %s."
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr ""
+msgstr "%s కి కాల్, వ్యవధి %s."
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -6717,11 +6740,11 @@ msgstr ""
 
 msgctxt "sOPTIONS_AUDIO_MOVEUP"
 msgid "Move up"
-msgstr ""
+msgstr "పైకి జరుపు"
 
 msgctxt "sOPTIONS_AUDIO_MOVEDOWN"
 msgid "Move down"
-msgstr ""
+msgstr "కిందకు జరుపు"
 
 msgctxt "sOPTIONS_AUDIO_REMOVE"
 msgid "Remove"
@@ -6729,7 +6752,7 @@ msgstr "తొలగించు"
 
 msgctxt "sOPTIONS_MEGABYTES"
 msgid "MB"
-msgstr ""
+msgstr "ఎం‌బి"
 
 msgctxt "sOPTIONS_AUDIO_DEVICE_NONE"
 msgid "None"
@@ -6737,7 +6760,7 @@ msgstr ""
 
 msgctxt "sAUTHORIZE_REQUEST_CAPTION"
 msgid "%s has added you as a contact."
-msgstr ""
+msgstr "%s మిమ్మల్ని పరిచయస్తునిగా జోడించారు."
 
 msgctxt "sAUTHORIZE_COPY_REQUEST"
 msgid "Copy"
@@ -6776,7 +6799,7 @@ msgstr "Add to conference"
 
 msgctxt "sF_IMPORTCONTACTS_LB_TITLE"
 msgid "Find your friends"
-msgstr ""
+msgstr "మీ స్నేహితులను కనుగొనండి"
 
 msgctxt "sMAINMENU_SKYPE"
 msgid "Skype"
@@ -6784,7 +6807,7 @@ msgstr "స్కైప్"
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "ఆన్‌లైన్ స్థితి"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -6840,7 +6863,7 @@ msgstr "పేరు"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "ఆన్‌లైన్ స్థితి"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -6876,7 +6899,7 @@ msgstr "Manage Blocked Contacts…"
 
 msgctxt "sMAINMENU_CONVERSATION"
 msgid "Conversation"
-msgstr ""
+msgstr "చర్చ"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND"
 msgid "Send"
@@ -6884,6 +6907,10 @@ msgstr "పంపించు"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_MESSAGE"
 msgid "Instant Message (IM)"
+msgstr ""
+
+msgctxt "sMAINMENU_CONVERSATION_SEND_VIDEOMESSAGE"
+msgid "Video Message"
 msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
@@ -6940,7 +6967,7 @@ msgstr "పిలుపు"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr ""
+msgstr "దృశ్యపు కాల్"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
@@ -7004,7 +7031,7 @@ msgstr "పరిచయాలు"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr ""
+msgstr "ఇటీవలి"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
@@ -7016,7 +7043,7 @@ msgstr "కాల్ ఫోనులు"
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr ""
+msgstr "పరికరాలు"
 
 msgctxt "sMAINMENU_TOOLS_EXTRAS"
 msgid "Apps"
@@ -7093,12 +7120,12 @@ msgid ""
 msgstr ""
 
 msgctxt "sVOICEMAIL_NEW"
-msgid "New voice message, duration <span class=\"RegularDisabled\">%s</span>"
-msgstr "New voicemail, duration <span class=\"RegularDisabled\">%s</span>"
+msgid "<b>New voice message</b>, duration %s"
+msgstr ""
 
 msgctxt "sVOICEMAIL"
-msgid "Voice message, duration<span class=\"RegularDisabled\"> %s</span>"
-msgstr "Voicemail, duration<span class=\"RegularDisabled\"> %s</span>"
+msgid "<b>Voice message</b>, duration %s"
+msgstr ""
 
 msgctxt "sCOMPLETED_GROUP_CALL"
 msgid "Group call, duration %s"
@@ -7132,23 +7159,23 @@ msgstr "నిన్న"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr ""
+msgstr "7 రోజులు"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr ""
+msgstr "30 రోజులు"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr ""
+msgstr "మొదటి నుంచి"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr ""
+msgstr "వీరి నుంచి సందేశములను చూపించు: %s"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
-msgstr ""
+msgstr "పాత సందేశములను వీక్షించు"
 
 msgctxt "sCONVERSATION_MENU_NOTIFICATIONS"
 msgid "Notification Settings..."
@@ -7186,13 +7213,13 @@ msgstr "కాల్ విఫలమైంది"
 
 msgctxt "sZAPBUTTON_UNREADMESSAGE"
 msgid "New message"
-msgstr ""
+msgstr "కొత్త సందేశము"
 
 msgctxt "sCONVERSATION_STATUS_LEGACY"
 msgid ""
-"The call host is using an old version of Skype that can't combine calls and "
-"IM at the same time. <a href=\"%s\">Click here</a> to create a new group "
-"with same people."
+"Instant messaging isn't currently available. This may be resolved shortly "
+"once the chat has updated, or the other person may be using an older version"
+" of Skype which doesn't support calling and IM at the same time."
 msgstr ""
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS2"
@@ -7215,7 +7242,7 @@ msgstr ""
 
 msgctxt "sCALL_LB2_PSTN_MISC"
 msgid "Sorry, call failed."
-msgstr ""
+msgstr "క్షమించండి, కాల్ విఫలమైయింది"
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE_2"
 msgid "Cancelling"
@@ -7235,7 +7262,7 @@ msgstr ""
 
 msgctxt "sGROUP_AVATAR_BROWSER_DEFAULT_PIC"
 msgid "No picture"
-msgstr ""
+msgstr "చిత్రం లేదు"
 
 msgctxt "sFEEDBACK_TITLE"
 msgid "Leave feedback about Skype™"
@@ -7255,7 +7282,7 @@ msgstr "వేచియున్నారు"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PLACEHOLDER_ME"
 msgid "The file isn't available on this computer"
-msgstr ""
+msgstr "ఫైల్ ఈ కంప్యూటర్ లో అందుబాటులో లేదు"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PLACEHOLDER"
 msgid "The file isn't available"
@@ -7704,19 +7731,19 @@ msgid "Call Group"
 msgstr ""
 
 msgctxt "sCALL_HOME"
-msgid "Call Home"
+msgid "Call home"
 msgstr ""
 
 msgctxt "sCALL_MOBILE"
-msgid "Call Mobile"
+msgid "Call mobile"
 msgstr ""
 
 msgctxt "sCALL_OFFICE"
-msgid "Call Office"
+msgid "Call office"
 msgstr ""
 
 msgctxt "sCALL_PHONE"
-msgid "Call Phone"
+msgid "Call phone"
 msgstr ""
 
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
@@ -7880,33 +7907,33 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_TRANSFER_CANCELLED"
 msgid "The file can not be opened as the transfer has been cancelled"
-msgstr ""
+msgstr "బదిలీ చేయుట రద్దు చేయటం వలన ఈ ఫైల్ తెరవడానికి కుదరదు"
 
 msgctxt "sFILETRANSFER_FILE_MISSING"
 msgid ""
 "The file \"%s\" cannot be found. Probably it has been renamed or moved to a "
 "different location"
-msgstr ""
+msgstr "\"%s\" ఫైల్ కనుగొనబడలేదు. బహుశా దాని పేరు మార్చబదిండి లేదా వేరే ప్రదేశానికి జరపబడింది"
 
 msgctxt "sFILETRANSFER_FILE_MISSING_TITLE"
 msgid "File not found"
-msgstr ""
+msgstr "ఫైల్ కనుగొనబడలేదు"
 
 msgctxt "sFILETRANSFER_FILE_MISSING_CAPTION"
 msgid "File not found"
-msgstr ""
+msgstr "ఫైల్ కనుగొనబడలేదు"
 
 msgctxt "sSMS_TARGET_UNDISCLOSED"
 msgid "The contact must have a valid phone number for you to send SMS"
-msgstr ""
+msgstr "మీరు ఎస్‌ఎం‌ఎస్ పంపడానికి ఈ పరిచయస్తునికి చెల్లుబాటు అయ్యే ఫోన్ నెంబర్ ఉండాలి"
 
 msgctxt "sCHAT_MENU_COPY_MESSAGE"
 msgid "Copy Message"
-msgstr ""
+msgstr "సందేశాన్ని కాపీ చెయ్యి"
 
 msgctxt "sMAINMENU_CONVERSATION_TOPIC"
 msgid "Topic"
-msgstr ""
+msgstr "విషయము"
 
 msgctxt "sMAINMENU_CONVERSATION_SETTOPIC"
 msgid "Set Topic..."
@@ -7922,7 +7949,7 @@ msgstr "Add People…"
 
 msgctxt "sPUBLICCHAT_NOT_SUPPORTED"
 msgid "Public chats are not supported in this version"
-msgstr ""
+msgstr "బహిరంగ ముచ్చట్లకు ఈ వర్షన్ లో మద్దతు లేదు"
 
 msgctxt "sPROFILE_OUTLOOK_CONTACT"
 msgid "Outlook Contact"
@@ -7930,7 +7957,7 @@ msgstr ""
 
 msgctxt "sCALL_LB2_BLOCKED_BY_US"
 msgid "Destination is temporarily blocked"
-msgstr ""
+msgstr "గమ్యం తాత్కాలికంగా నిరోధించబడింది"
 
 msgctxt "sPASTE_AS_QUOTE_LBL"
 msgid "Pressing Ctrl+V will..."
@@ -7950,7 +7977,7 @@ msgstr "\"%s\" కి సరిపోయే ఘటనలు లేవు"
 
 msgctxt "sF_MULTICHAT_EDIT_PASTEASTEXT"
 msgid "Paste As Text"
-msgstr ""
+msgstr "వచనం వలె పేస్ట్ చెయ్యి"
 
 msgctxt "sF_MULTICHAT_EDIT_PASTEASQUOTE"
 msgid "Paste Quote"
@@ -8000,7 +8027,7 @@ msgctxt "sACTION_ON_YOURSELF"
 msgid ""
 "You can't start a conversation with yourself or add yourself to your "
 "Contacts."
-msgstr ""
+msgstr "మీకు మీరే సంభాషణను ప్రారంభించలేరు లేదా మీ పరిచయాలకు మిమ్మల్ని మీరు జోడించుకోలేరు."
 
 msgctxt "SGROUP_PROFILE_NEXT_BUTTON"
 msgid "Next"
@@ -8022,11 +8049,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_REJECTED_IN"
 msgid "Call from %s declined."
-msgstr ""
+msgstr "%s నుంచి వచ్చిన కాల్ తిరస్కరించారు"
 
 msgctxt "sFLOW_CALL_UNANSWERED_OUT"
 msgid "Call to %s, no answer."
-msgstr ""
+msgstr "%s కు కాల్, సమాధానం లేదు"
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
@@ -8046,7 +8073,7 @@ msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_LONG"
 msgid ""
 "Your password is too long. It needs to be 6-20 characters long. Try a new "
 "password."
-msgstr ""
+msgstr "మీ సంకేతపదం చాలా పెద్దదిగా వుంది. అది 6-20 అక్షరముల పొడుగు ఉండవలెను. కొత్త సంకేతపదాన్ని ప్రయత్నించండి"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID_CHAR"
 msgid ""
@@ -8060,13 +8087,13 @@ msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_SAMEASUSERNAME"
 msgid "Your password and Skype Name are too similar. Try a new password."
-msgstr ""
+msgstr "మీ సంకేతపదం మరియు స్కైప్ పేరు చాలా పోలిక కలిగినివిగా ఉన్నాయి. కొత్త సంకేతపదాన్ని ప్రయత్నించండి"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID_WORD"
 msgid ""
 "This password contains an easy-to-guess word or sequence eg Skype, 1234, "
 "ABCD. Choose another password."
-msgstr ""
+msgstr "ఈ సంకేతపదం తేలికగా అంచనా వేయగల పదాలలు లేదా క్రమాన్ని కలిగి వుంది ఉదా స్కైప్, 1234, ABCD. వేరే సంకేతపదాన్ని ఎంచుకోండి."
 
 msgctxt "sF_OPTIONS_DEFAULT_LOCATION"
 msgid "For emergency calls, my default location is:"
@@ -8074,7 +8101,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NO_ENERGENCY_CALLS"
 msgid "No Emergency Calls"
-msgstr ""
+msgstr "అత్యవసర కాల్స్ లేవు"
 
 msgctxt "sF_OPTIONS_NO_EMERGENCY_CALLS_FROM"
 msgid ""
@@ -8110,11 +8137,11 @@ msgstr ""
 
 msgctxt "sPROFILE_HEADER_EMERGENCY_CALL"
 msgid "Emergency Call"
-msgstr ""
+msgstr "అత్యవసర కాల్"
 
 msgctxt "sCALL_LB2_EMERGENCY_DENIED"
 msgid "Emergency calls not supported"
-msgstr ""
+msgstr "అత్యవసర కాల్స్ కు మద్దతు లేదు"
 
 msgctxt "sVERSION"
 msgid "Version"
@@ -8130,7 +8157,7 @@ msgstr "Adding emergency services to conference is not supported"
 
 msgctxt "sBIRTHDAY_TODAY"
 msgid "%s has a birthday today"
-msgstr ""
+msgstr "%s పుట్టినరోజు ఉంది ఇవాళ"
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
@@ -8158,48 +8185,48 @@ msgstr ""
 
 msgctxt "sINVITE_HEADING1"
 msgid "Add <b>%s</b> to your contacts"
-msgstr ""
+msgstr "<b>%s</b>ను మీ పరిచయాలలో జోడించండి"
 
 msgctxt "sINVITE_HEADING2"
 msgid "1 new contact added"
-msgstr ""
+msgstr "1 కొత్త పరిచయం జోడించబడింది"
 
 msgctxt "sINVITE_CONTACT_CAPTION"
 msgid ""
 "You received an email invitation from <b>%s</b>.<br />Would you like to add "
 "this person as a contact on Skype?"
-msgstr ""
+msgstr "మీకు <b>%s</b> నుంచి ఒక ఈ మెయిల్ ఆహ్వానం వచ్చింది. మీరు ఈ వ్యక్తి ని మీ పరిచయస్తునిగా జోడించాలనుకుంటున్నారా?"
 
 msgctxt "sINVITE_REQUEST_TEXT"
 msgid ""
 "Your email contact %s is now on Skype. Please add them to your Contact list."
-msgstr ""
+msgstr "మీ ఈ మెయిల్ పరిచయస్తులు %s ఇప్పుడు స్కైప్ లో ఉన్నారు. దయచేసి వారిని మీ పరిచయాల జాబితా లో జోడించండి."
 
 msgctxt "sINVITE_ADDED_CAPTION1"
 msgid "Find them in your Contact list and send them messages"
-msgstr ""
+msgstr "మీ పరిచయస్తుల జాబితా లో వారిని కొనుగొనండి మరియు వారికి సందేశములను పంపించండి"
 
 msgctxt "sINVITE_ADDED_CAPTION2"
 msgid "Until they OK you as a contact, they look like this"
-msgstr ""
+msgstr "వారు మిమ్మల్ని పరిచయస్తునిగా ఓ‌కే చేసే వరకు, వారు మీకు ఇలా కనబడుతారు"
 
 msgctxt "sINVITE_ADDED_CAPTION3"
 msgid "When they OK you, see when they're online and call them for free"
-msgstr ""
+msgstr "వారు మిమ్మల్ని ఓ‌కే చేశాక, ఆన్ లైన్ లో ఎప్పుడు వున్నారో చూడండి మరియు వారికి కాల్ చేయండి ఉచితంగా"
 
 msgctxt "sINVITE_NOTIFICATION"
 msgid ""
 "%s has invited you to join them on Skype. Would you like to add this person "
 "as a contact?"
-msgstr ""
+msgstr "%s మిమ్మల్ని ఆహ్వానించారు వారితో స్కైప్ లో చేరేందుకు. ఈ వ్యక్తి ని మీ పరిచయస్తునిగా జోడించదలచుకున్నారా?"
 
 msgctxt "sINVITE_CONTACT_HINT"
 msgid "When <b>%s</b> has accepted, you'll see when they come online"
-msgstr ""
+msgstr "<b>%s</b> అంగీకరించినాక, వారు ఆన్ లైన్ లో కి వచ్చిన్నపుడు మీరు చూడగలరు"
 
 msgctxt "sACC_PROFILE_PARTICIPANT_LIST"
 msgid "Participants"
-msgstr ""
+msgstr "పాల్గొనేవారు"
 
 msgctxt "sVIDEOMENU_START_SCREEN_SHARING"
 msgid "Share Screens..."
@@ -8211,23 +8238,23 @@ msgstr "Stop Sending Screen"
 
 msgctxt "sACC_MYSELFPANEL_CHANGE_STATUS"
 msgid "Change your status"
-msgstr ""
+msgstr "మీ స్తితిని మార్చండి"
 
 msgctxt "sCHAT_RECEIVED_SINGLE_CONTACT"
 msgid "Contact received from %s"
-msgstr ""
+msgstr "%s నుంచి పరిచయం అందుకోబడింది"
 
 msgctxt "sCHAT_POSTED_SINGLE_CONTACT"
 msgid "Contact sent to %s"
-msgstr ""
+msgstr "%s కు పరిచయం పంపబడింది"
 
 msgctxt "sCHAT_RECEIVED_CONTACTS"
 msgid "%d contacts received from %s"
-msgstr ""
+msgstr "%d పరిచయాలు %s నుంచి అందుకున్నారు"
 
 msgctxt "sHISTORY_FILTER_CONTACTTRANSFERS"
 msgid "Contacts sent and received"
-msgstr ""
+msgstr "పరిచయాలు పంపబడినవి మరియు అందుకోబడినవి"
 
 msgctxt "sTRAYALERT_CQ_PLAYBACK_ERROR"
 msgid "No speakers detected."
@@ -8239,7 +8266,7 @@ msgstr "Automatically receive video and screen sharing from..."
 
 msgctxt "sVIDEO_BTN_SHOW_HERE"
 msgid "Show here"
-msgstr ""
+msgstr "ఇక్కడ చూపించు"
 
 msgctxt "sACC_DROPDOWBUTTON_DESCIPTION"
 msgid "To press use spacebar"
@@ -8251,19 +8278,19 @@ msgstr ""
 
 msgctxt "sNOTIF_RECEIVED_SINGLE_CONTACT"
 msgid "New contact: %s"
-msgstr ""
+msgstr "కొత్త పరిచయం: %s"
 
 msgctxt "sNOTIF_RECEIVED_CONTACTS"
 msgid "%d new contacts"
-msgstr ""
+msgstr "%d కొత్త పరిచయాలు"
 
 msgctxt "sCHAT_POSTED_SINGLE_CONTACT_TO_GROUP"
 msgid "Contact sent to the group"
-msgstr ""
+msgstr "పరిచయం సమూహమునకు పంపబడింది"
 
 msgctxt "sCHAT_POSTED_CONTACTS_TO_GROUP"
 msgid "%d contacts sent to the group"
-msgstr ""
+msgstr "%d పరిచయాలు సమూహమునకు పంపబడినాయి"
 
 msgctxt "sF_OPTIONS_CF_ERROR6"
 msgid "You are not allowed to forward calls to Skype Test Call"
@@ -8271,15 +8298,15 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
 msgid "In call"
-msgstr ""
+msgstr "కాల్ లో ఉన్నారు"
 
 msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
 msgid "On hold"
-msgstr ""
+msgstr "ఆగి ఉన్నారు"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
 msgid "Muted"
-msgstr ""
+msgstr "మౌనంగా ఉన్నారు"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
 msgid "Missed call"
@@ -8307,7 +8334,7 @@ msgstr "వాయిస్‌మెయిలు రికార్డు చే�
 
 msgctxt "sHOTKEY_ANSWER_WITH_VIDEO"
 msgid "Answer call with video"
-msgstr ""
+msgstr "వీడియొ తో కాల్ కు జవాబు ఇవ్వండి"
 
 msgctxt "INVALID_HOTKEY_TITLE"
 msgid "Invalid hotkeys detected"
@@ -8319,27 +8346,27 @@ msgstr ""
 
 msgctxt "sUSER_IN_CONTACTS"
 msgid "This user is already in your contact list"
-msgstr ""
+msgstr "ఈ వినియోగదారు ఇంతకు మునుపే మీ పరిచయాల జాబితా లో ఉన్నారు"
 
 msgctxt "sCHATITEM_DESCRIPTION_FROM"
 msgid "From %s"
-msgstr ""
+msgstr "%s నుంచి"
 
 msgctxt "sCHATITEM_DESCRIPTION_TIMESTAMP"
 msgid "at %s"
-msgstr ""
+msgstr "%s వద్ద"
 
 msgctxt "sCHATITEM_DESCRIPTION_REMOVED"
 msgid "Removed by %s at %s"
-msgstr ""
+msgstr "%s చే తొలిగించబడినారు %s వద్ద"
 
 msgctxt "sCHATITEM_DESCRIPTION_EDITED"
 msgid "Edited by %s at %s"
-msgstr ""
+msgstr "%s చే సవరించబడినారు %s వద్ద"
 
 msgctxt "sCHATITEM_DESCRIPTION_SENDING"
 msgid "Not delivered"
-msgstr ""
+msgstr "బట్వాడా కాలేదు"
 
 msgctxt "sCHATITEM_DESCRIPTION_FAILED"
 msgid "Failed to deliver"
@@ -8347,7 +8374,7 @@ msgstr ""
 
 msgctxt "sCHATITEM_DESCRIPTION_UNCONSUMED"
 msgid "New"
-msgstr ""
+msgstr "కొత్త"
 
 msgctxt "sMYSELF_CAPTURE_HINT_SLIDER"
 msgid "Slider"
@@ -8368,7 +8395,7 @@ msgstr ""
 
 msgctxt "sBROWSER_OFFLINE_CAPTION"
 msgid "You are currently offline"
-msgstr ""
+msgstr "మీరు ప్రస్తుతం ఆఫ్ లైన్ లో వున్నారు"
 
 msgctxt "sBROWSER_OFFLINE_TEXT"
 msgid ""
@@ -8378,7 +8405,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_HEARTBEAT"
 msgid "Heartbeat (Skype Status)"
-msgstr ""
+msgstr "గుండె చప్పుడు (స్కైప్ స్థితి)"
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
@@ -8414,7 +8441,7 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr ""
+msgstr "కాల్ కు సమాధానమివ్వండి"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
@@ -9077,7 +9104,7 @@ msgstr "దాన్ని మెరుగుపరచాలంటే మీ క
 
 msgctxt "sCQ_CAM_RECV_MEDIUM_TITLE"
 msgid "You're receiving medium quality video"
-msgstr ""
+msgstr "మీరు మద్యస్త నాణ్యత గల వీడియొ ని అందుకుంటున్నారు"
 
 msgctxt "sCQ_CAM_RECV_MEDIUM_DESC"
 msgid ""
@@ -9089,7 +9116,7 @@ msgstr ""
 
 msgctxt "sCQ_CAM_SEND_MEDIUM_OFF_CALL_TITLE"
 msgid "Your video quality is medium"
-msgstr ""
+msgstr "మీ వీడియొ నాణ్యత మద్యస్తంగా ఉంది"
 
 msgctxt "sCQ_CAM_SEND_MEDIUM_OFF_CALL_DESC"
 msgid ""
@@ -9101,7 +9128,7 @@ msgstr "మీ వీడియొను మెరుగుపరచాలంట�
 
 msgctxt "sCQ_CAM_SEND_MEDIUM_ON_CALL_TITLE"
 msgid "Your video quality is medium"
-msgstr ""
+msgstr "మీ వీడియొ నాణ్యత మద్యస్తంగా ఉంది"
 
 msgctxt "sCQ_CAM_SEND_MEDIUM_ON_CALL_DESC"
 msgid ""
@@ -9113,7 +9140,7 @@ msgstr "దాన్ని మెరుగుపరచాలంటే మీ క
 
 msgctxt "sCQ_CAM_RECV_HIGH_TITLE"
 msgid "You're receiving high quality video"
-msgstr ""
+msgstr "మీరు అధిక నాణ్యత గల వీడియొ ని అందుకుంటున్నారు"
 
 msgctxt "sCQ_CAM_RECV_HIGH_DESC"
 msgid ""
@@ -9123,24 +9150,24 @@ msgstr ""
 
 msgctxt "sCQ_CAM_SEND_HIGH_OFF_CALL_TITLE"
 msgid "Your video quality is high"
-msgstr ""
+msgstr "మీ వీడియొ నాణ్యత అధికంగా ఉంది"
 
 msgctxt "sCQ_CAM_SEND_HIGH_OFF_CALL_DESC"
 msgid ""
 "You're set up to make audio calls and high quality video calls. Can't see "
 "your video? Make sure you've installed the latest drivers, or plug your "
 "webcam into a different USB port and restart Skype."
-msgstr ""
+msgstr "మీరు ఆడియో కాల్స్ మరియు అధిక నాణ్యత వీడియొ కాల్స్ చేయుటకు ఏర్పాటు చేసుకున్నారు. మీ వీడియొ ను చూడలేకపోతున్నారా? మీరు తాజా డ్రైవర్లు ఇన్స్టాల్ చేశారారో లేదో నిర్ధారించుకోండి, లేదా మీ వెబ్ క్యామ్ ను వేరే యూ‌ఎస్‌బి పోర్ట్ లో పెట్టి స్కైప్ ను పునఃప్రారంభించండి."
 
 msgctxt "sCQ_CAM_SEND_HIGH_ON_CALL_TITLE"
 msgid "Your video quality is high"
-msgstr ""
+msgstr "మీ వీడియొ నాణ్యత అధికంగా ఉంది"
 
 msgctxt "sCQ_CAM_SEND_HIGH_ON_CALL_DESC"
 msgid ""
 "Not seeing each other's video? You should both turn your video off then on "
 "again, or plug your webcams into a different USB port and restart."
-msgstr ""
+msgstr "మీరు ఒకరినొకరు వీడియొలో చూసుకోలేకపోతున్నారా? మీరు ఇరువురు మీ వీడియొను ఆఫ్ చేసి తిరిగి ఆన్ చేయాలి, లేదా మీ వెబ్ క్యాములను వేరే యూ‌ఎస్‌బి పోర్ట్ లో పెట్టి పునఃప్రారంబించండి."
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
 msgid ""
@@ -9152,7 +9179,7 @@ msgstr ""
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_TITLE"
 msgid "Your computer speed is very slow"
-msgstr ""
+msgstr "మీ కంప్యూటర్ వేగం చాలా నెమ్మదిగా ఉంది"
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_DESC"
 msgid ""
@@ -9173,7 +9200,7 @@ msgstr ""
 
 msgctxt "sCQ_SKYPE_IS_RUNNING_SLOWLY_TITLE"
 msgid "Skype is running slowly"
-msgstr ""
+msgstr "స్కైప్ నెమ్మదిగా నడుస్తుంది"
 
 msgctxt "sCQ_SKYPE_IS_RUNNING_SLOWLY_DESC"
 msgid ""
@@ -9183,7 +9210,7 @@ msgstr ""
 
 msgctxt "sCQ_YOUR_COMP_RUNNING_SLOWLY_TITLE"
 msgid "Your computer is running slowly"
-msgstr ""
+msgstr "మీ కంప్యూటర్ నెమ్మదిగా నడుస్తుంది"
 
 msgctxt "sCQ_YOUR_COMP_RUNNING_SLOWLY_DESC"
 msgid ""
@@ -9194,7 +9221,7 @@ msgstr ""
 
 msgctxt "sCQ_YOUR_COMP_SPEED_SLOW_TITLE"
 msgid "Your computer speed is slow"
-msgstr ""
+msgstr "మీ కంప్యూటర్ వేగం నెమ్మదిగా ఉంది"
 
 msgctxt "sCQ_YOUR_COMP_SPEED_SLOW_DESC"
 msgid ""
@@ -9205,7 +9232,7 @@ msgstr ""
 
 msgctxt "sCQ_YOUR_COMP_SPEED_MEDIUM_TITLE"
 msgid "Your computer speed is good"
-msgstr ""
+msgstr "మీ కంప్యూటర్ వేగం బాగుంది"
 
 msgctxt "sCQ_YOUR_COMP_SPEED_MEDIUM_DESC"
 msgid ""
@@ -9222,7 +9249,7 @@ msgctxt "sCQ_YOUR_COMP_SPEED_FAST_DESC"
 msgid ""
 "Your computer is fast enough to make audio calls and high quality video "
 "calls."
-msgstr ""
+msgstr "మీ కంప్యూటర్ ఆడియో కాల్స్ మరియు అధిక నాణ్యత వీడియొ కాల్స్ చేయుటకు సరిపడా వేగవంతమై వుంది."
 
 msgctxt "sCQ_CONNECTION_SPEED_UNKNOW_TITLE"
 msgid "The connection speed between you is unknown"
@@ -9366,15 +9393,15 @@ msgstr ""
 
 msgctxt "sCQ_NON_VIDEO_CALL_TITLE"
 msgid "Video not available"
-msgstr ""
+msgstr "వీడియొ అందుబాటులో లేదు"
 
 msgctxt "sCQ_NON_VIDEO_CALL_GEN_DESC"
 msgid "Video isn't supported by this call."
-msgstr ""
+msgstr "వీడియోకు ఈ కాల్ ద్వారా మద్దతు లేదు."
 
 msgctxt "sCQ_NON_VIDEO_CALL_SO_DESC"
 msgid "You're not able to make video calls to phones and mobiles."
-msgstr ""
+msgstr "మీరు ఫోన్లు మరియు మొబైల్ లకు వీడియొ కాల్స్ చేయలేకపోతున్నారు."
 
 msgctxt "sCQ_SO_CALL_NET_STATUS_TITLE"
 msgid "Your connection speed is good"
@@ -9897,7 +9924,7 @@ msgstr ""
 
 msgctxt "sMYSELF_PROFILE_LOCATION"
 msgid "Location"
-msgstr ""
+msgstr "ప్రాంతం"
 
 msgctxt "sMYSELF_PROFILE_CONTACTS"
 msgid "Contacts"
@@ -9917,7 +9944,7 @@ msgstr ""
 
 msgctxt "sMYSELF_PROFILE_CALL_TIME"
 msgid "Time"
-msgstr ""
+msgstr "సమయం"
 
 msgctxt "sLIVE_PARTICIPANT_NO_MPV_SUPPORT"
 msgid "%s needs to get the latest Skype to use group video."
@@ -9925,7 +9952,7 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr ""
+msgstr "ఇటీవలి"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
@@ -9933,7 +9960,7 @@ msgstr "వెతుకు"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
-msgstr ""
+msgstr "వస్తున్న కాల్"
 
 msgctxt "sCALL_TOOLBAR_ADD_TO_CONFERENCE_TEXT"
 msgid "Answering this call will put your current call on hold"
@@ -9978,7 +10005,7 @@ msgstr ""
 
 msgctxt "sPROFILE_PRIVACY_PUBLIC_SHORT"
 msgid "Public"
-msgstr ""
+msgstr "బహిరంగం"
 
 msgctxt "sPROFILE_PRIVACY_PUBLIC_LONG"
 msgid "Public - visible to everyone on Skype"
@@ -9994,7 +10021,7 @@ msgstr ""
 
 msgctxt "sPROFILE_PRIVACY_PRIVATE_SHORT"
 msgid "Private"
-msgstr ""
+msgstr "అంతర్గతం"
 
 msgctxt "sPROFILE_PRIVACY_PRIVATE_LONG"
 msgid "Private - visible only to you"
@@ -10018,7 +10045,7 @@ msgstr ""
 
 msgctxt "sPROFILE_ACCOUNT_LABEL"
 msgid "Account"
-msgstr ""
+msgstr "ఖాతా"
 
 msgctxt "sMAINMENU_SHOW_HIDDEN_CONV"
 msgid "Show Hidden Conversations"
@@ -10038,7 +10065,7 @@ msgstr "SMS సందేశాలు"
 
 msgctxt "sMAINMENU_CONVERSATION_HIDE"
 msgid "Hide Conversation"
-msgstr ""
+msgstr "చర్చను దాచు"
 
 msgctxt "sINFO_CONV_HIDE_TEXT"
 msgid ""
@@ -10068,7 +10095,7 @@ msgstr ""
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr ""
+msgstr "మునుపటి సందేశములను చూపించు"
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -10080,7 +10107,7 @@ msgstr "%s మీ పరిచయాలలో లేరు."
 
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
-msgstr ""
+msgstr " %s ను మూసెయ్యి"
 
 msgctxt "sCONTACT_NOTIFICATION"
 msgid "Contact request"
@@ -10444,7 +10471,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr ""
+msgstr "%s (%s) నుంచి కాల్, వ్యవధి %s."
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
@@ -10478,27 +10505,27 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr ""
+msgstr "%s(%s) నుంచి తప్పిన కాల్"
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr ""
+msgstr "%s (%s) నుంచి వచ్చిన కాల్ తిరస్కరించారు"
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
-msgstr ""
+msgstr "%s (%s) నుండి పిలుపు"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
-msgid "Send File..."
+msgid "Send file..."
 msgstr "ఫైలును పంపు..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
-msgid "Send Contacts..."
-msgstr "పరిచయాల జాబితాను పంపు..."
+msgid "Send contacts..."
+msgstr "పరిచయాలను పంపించు"
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
-msgid "Share Screens..."
-msgstr "Show My Desktop"
+msgid "Share screens..."
+msgstr "తెరలను పంచుకో..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -10642,11 +10669,11 @@ msgstr ""
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
-msgstr ""
+msgstr "ఫోను చెయ్యండి"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr ""
+msgstr "ఫోన్ నంబరు చేర్చు"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -10842,8 +10869,8 @@ msgid "Tumbleweed"
 msgstr ""
 
 msgctxt "sWTF_SMILEY"
-msgid "What the... (wtf)"
-msgstr "What the fuck"
+msgid "What the..."
+msgstr ""
 
 msgctxt "sWFH_SMILEY"
 msgid "Working from home"
@@ -10855,11 +10882,11 @@ msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr ""
+msgstr "పరిచయాలను చూపించు"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr ""
+msgstr "పరిచయాలను దాచి వుంచు"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
@@ -10906,7 +10933,7 @@ msgstr "Voicemail not deleted"
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr ""
+msgstr "కాల్ చేస్తున్నారు"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
@@ -10922,7 +10949,7 @@ msgstr "వక్తులని జోడించు"
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr ""
+msgstr "పాల్గొనే వారిని చేర్చు, దస్త్రాల్ని పంపించు, ఇంకా..."
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -11407,35 +11434,35 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "ఇష్టాలు"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "పరిచయాలను ఇక్కడికి లాగు"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr ""
+msgstr "మూసెయ్యి"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr ""
+msgstr "పేరు మార్చు"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr ""
+msgstr "తొలగించు"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "ఇష్టమైన వాటిలో చేర్చు"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "ఇష్టమైన వాటినుంచి తీసెయ్యి"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr ""
+msgstr " సంధానితం"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -11447,7 +11474,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "అన్నీ"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -11558,7 +11585,7 @@ msgid "Get Skype Credit"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_NOCREDIT_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
@@ -11605,7 +11632,7 @@ msgid "Enable auto-recharge"
 msgstr "ఆటొ-రీఛార్జి ను సచేతనం చేయి"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_TOS"
-msgid "I agree to Skype's <a href=\"{SKYPE_TOS_URL}\">Terms of Use</a>"
+msgid "I agree to Skype's <a href=\"%s\">Terms of Use</a>"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_NAME"
@@ -11648,9 +11675,9 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_AUTORECHARGE"
 msgid ""
-"If auto-recharge is enabled, your card will be automatically charged when "
-"your Skype Credit balance falls below {AUTORECHARGE_LEVEL}"
-msgstr "ఒక వేళ ఆటొ-రీఛార్జి సచేతనం చేయబడి వుండి, {ఆటొ రీఛార్జి_స్థాయి} కంటే మీ స్కైప్ క్రెడిట్ బాలన్స్ తగ్గినట్లైతే మీ కార్డ్ నుంచి తనంతకుతానే చెల్లింపు జరుగుతుంది"
+"If auto-recharge is enabled, your card will automatically be charged when "
+"your Skype Credit balance falls below %s"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
 msgid "Thank you"
@@ -11695,7 +11722,7 @@ msgid "Connect"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_FREE"
@@ -11704,8 +11731,8 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
-"By connecting, you agree to the provider's <a "
-"href=\"{PROVIDER_TOS_URL}\">Terms of Service</a>."
+"By connecting, you agree to the provider's <a href=\"%s\">Terms of "
+"Service</a>."
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_TOS_NOTOS"
@@ -11725,7 +11752,7 @@ msgid "Connecting…"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
+msgid "%s per minute"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
@@ -11889,6 +11916,33 @@ msgid ""
 "<a href=\"%1\">watch your video message here</a>"
 msgstr ""
 
+msgctxt "sVIDEOMSG_DEFAULT_TITLE"
+msgid "You've got a video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
+msgid ""
+"You have %d video messages left this month. <a href=\"%s\">Upgrade to a "
+"Premium account</a> to enjoy unlimited video messages."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_WITH_DAYS_MESSAGE"
+msgid ""
+"Messages are automatically deleted if they haven't been watched in %d days."
+msgstr ""
+
+msgctxt "sVIDEOMSG_EXPIRED_TITLE"
+msgid "Sorry, this video message has expired."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
+msgid "Sorry, this video message is unavailable."
+msgstr ""
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_TITLE"
+msgid "Video Message Unavailable"
+msgstr ""
+
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
 msgstr ""
@@ -11907,11 +11961,11 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr ""
+msgstr "ఓ సందేశం పంపించు"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "SMS పంపించు"
 
 msgctxt "sSEND_SMS_TARGET_HINT"
 msgid "Change where you send SMS."
@@ -12060,9 +12114,7 @@ msgid "Messenger"
 msgstr ""
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
-msgid ""
-"No results for %s<br/><a href=\"skype:?go#share\">Send an email "
-"invitation</a>"
+msgid "No results for %s"
 msgstr ""
 
 msgctxt "sSTATUS_UNKNOWN2"
@@ -12481,8 +12533,8 @@ msgid "Skype WiFi"
 msgstr "స్కైప్ వైఫై"
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
-msgid "Error: {ERROR_NO}"
-msgstr "లోపం:{లోపం_సం}"
+msgid "Error: %d"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
 msgid ""
@@ -12540,3 +12592,311 @@ msgstr "మద్దత్తు కోసం"
 msgctxt "sMAINMENU_HELP_ASKCOMM"
 msgid "Ask the Skype Community"
 msgstr "స్కైప్ సముదాయాన్ని అడగండి"
+
+msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED"
+msgid "Auto-recharge (unavailable)"
+msgstr ""
+
+msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED_HELP_TEXT"
+msgid ""
+"Auto-recharge may be unavailable because you’ve reached a limit. When this "
+"resets, you’ll be able to use it again as normal."
+msgstr ""
+
+msgctxt "sTOPUP_INTRO_PARAGRAPH_ATU_SUSPENDED"
+msgid ""
+"Looks like you’re running low on credit. Auto-recharge is unavailable at "
+"this time, but you can still add credit manually."
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_IP_ADDRESS"
+msgid "Allow direct connections to your contacts only."
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_IP_ADDRESS_HINT"
+msgid ""
+"When you call someone who isn't a contact, we'll keep your IP address "
+"hidden.<br/><br/>This may delay your call setup time."
+msgstr ""
+
+msgctxt "sVIDEOMSG_DOWNLOAD_HINT"
+msgid "Download video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_BACK_HINT"
+msgid "Go back to chat"
+msgstr ""
+
+msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
+msgid "Close"
+msgstr ""
+
+msgctxt "sVIDEOMSG_SEND"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sCALL_LYNC"
+msgid "Lync"
+msgstr ""
+
+msgctxt "sCALL_POPUP_LYNC"
+msgid "Lync"
+msgstr ""
+
+msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
+msgid "Add number"
+msgstr ""
+
+msgctxt "sADD_PHONE_NUMBER_CAPTION"
+msgid "Save a phone number"
+msgstr ""
+
+msgctxt "sBUDDYMENU_UNPIN_ICON"
+msgid "Remove from favorites"
+msgstr "ఇష్టమైన వాటినుంచి తీసెయ్యి"
+
+msgctxt "sBUDDYMENU_PIN_ICON"
+msgid "Add to favorites"
+msgstr "ఇష్టమైన వాటిలో చేర్చు"
+
+msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
+msgid "Send Video Message"
+msgstr "దృశ్య సందేశం పంపించు"
+
+msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
+msgid "Camera in use"
+msgstr ""
+
+msgctxt "sCQ_VIDEO_MESSAGE_DESC"
+msgid "To see your camera, close your video message first."
+msgstr ""
+
+msgctxt "sVIDEOMSG_REPLY_HINT"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sAC_SEND_REQ"
+msgid "%s is not in your Contacts"
+msgstr ""
+
+msgctxt "sAC_RESEND_REQ"
+msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
+msgstr ""
+
+msgctxt "sAC_ACCEPT_REQ"
+msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
+msgstr ""
+
+msgctxt "sAC_REQ_SENT"
+msgid "Contact request sent"
+msgstr ""
+
+msgctxt "sAC_UNBLOCK"
+msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_START_DEVICE"
+msgid ""
+"Your camera or microphone is already in use.<br/>Please close any app or "
+"Skype chat that might be using it, then try again."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_NO_CAM"
+msgid ""
+"You need a camera to record video messages.<br/>Please check your camera is "
+"connected and try again."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_UNKNOWN"
+msgid ""
+"Oops, something went wrong.<br/>Please try again, or get in touch if you "
+"need help."
+msgstr ""
+
+msgctxt "sVIDEOMSG_ERROR_DEVICE_LOST"
+msgid ""
+"You've stopped recording a video message.<br/>Your camera or microphone was "
+"disconnected. Record your message again, or send it now if you're ready."
+msgstr ""
+
+msgctxt "sVIDEOMSG_PREMIUM_UPSELL_TITLE"
+msgid "You have no free video messages left"
+msgstr ""
+
+msgctxt "sVIDEOMSG_PREMIUM_UPSELL_MESSAGE"
+msgid "Upgrade to a Premium account to enjoy unlimited video messages."
+msgstr ""
+
+msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
+msgid "Looking good!"
+msgstr ""
+
+msgctxt "sVIDEOMSG_LOOKING_GOOD_DESC"
+msgid "Hit record when you're ready."
+msgstr ""
+
+msgctxt "DECLINE_POPUP_CAPTION"
+msgid "Decline contact request"
+msgstr ""
+
+msgctxt "DECLINE_POPUP_BLOCK_CAPTION"
+msgid "Block"
+msgstr ""
+
+msgctxt "DECLINE_POPUP_SPAM_CAPTION"
+msgid "Report as spam"
+msgstr ""
+
+msgctxt "sVIDEOMSG_SEND_CAPTION"
+msgid "Send video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_CANCEL_CAPTION"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sVIDEOMSG_RECORD_CAPTION"
+msgid "Record"
+msgstr ""
+
+msgctxt "sECHO_DISPLAY_NAME"
+msgid "Echo/Sound Test Service"
+msgstr ""
+
+msgctxt "sTASKBAR_MENU_SIGN_OUT"
+msgid "Sign Out"
+msgstr ""
+
+msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
+msgid "recording a video message or sharing screens"
+msgstr ""
+
+msgctxt "sOPTIONS_RECORDING_VIDEO_MESSAGE"
+msgid "Do not show notifications when:"
+msgstr ""
+
+msgctxt "sVIDEOMSG_STOP_RECORD_CAPTION"
+msgid "Stop recording"
+msgstr ""
+
+msgctxt "sPREM_VIDEO_MESSAGE_WEB_WINDOW_CAPTION"
+msgid "Video messaging"
+msgstr ""
+
+msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
+msgid "sends me a video message"
+msgstr ""
+
+msgctxt "sTRAYALERT_VIDEO_MESSAGE"
+msgid "New video message"
+msgstr ""
+
+msgctxt "sVIDEOMSG_STATUS_TEXT_UNAVAILABLE"
+msgid "Video message is unavailable"
+msgstr ""
+
+msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
+msgid "Send video message..."
+msgstr ""
+
+msgctxt "sCONVERSATION_VIDEO_MESSAGE"
+msgid "New video message"
+msgstr ""
+
+msgctxt "sACC_NAME_MYSELF_HEADER"
+msgid "Me"
+msgstr ""
+
+msgctxt "sACC_NAME_QF"
+msgid "Search"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATIONS"
+msgid "Conversations"
+msgstr ""
+
+msgctxt "sACC_NAME_COMMUNICATOR"
+msgid "Application access"
+msgstr ""
+
+msgctxt "sACC_NAME_PARTNER_BUTTONS"
+msgid "Partner"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACTS_TAB"
+msgid "All contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_LIST"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATIONS_TAB"
+msgid "All recent messages"
+msgstr ""
+
+msgctxt "sACC_NAME_INBOX_LIST"
+msgid "Recent messages"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_FAVORITE"
+msgid "Favorite"
+msgstr ""
+
+msgctxt "sACC_NAME_ONLINE_STATUS"
+msgid "%0:s, select to change status"
+msgstr ""
+
+msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
+msgid "Hide message"
+msgstr ""
+
+msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
+msgid "All %0:s contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
+msgid "All %0:s"
+msgstr ""
+
+msgctxt "sVIDEOMSG_UPSELL"
+msgid "Would you like to leave a video message?"
+msgstr ""
+
+msgctxt "sVIDEOMSG_UPSELL_BUTTON"
+msgid "Video message"
+msgstr ""
+
+msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
+msgid "Clear search input"
+msgstr ""
+
+msgctxt "sACC_NAME_SEARCH_ALL"
+msgid "Search all people on Skype"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
+msgid "You're online with Skype WiFi"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
+msgid "Connection expires soon"
+msgstr ""
+
+msgctxt "sSKYPEWIFI_LESS_THAN_MINUTE"
+msgid ""
+"You've been online for less than a minute. You can disconnect at any time "
+"and you'll only be charged for the minutes used."
+msgstr ""
+
+msgctxt "sSKYPEWIFI_ABOUT_A_MINUTE"
+msgid ""
+"You've been online for about a minute. You can disconnect at any time and "
+"you'll only be charged for the minutes used."
+msgstr ""
+
+msgctxt "sSKYPEWIFI_MORE_THAN_MINUTE"
+msgid ""
+"You've been online for about %d minutes. You can disconnect at any time and "
+"you'll only be charged for the minutes used."
+msgstr ""
