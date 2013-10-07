@@ -33,7 +33,7 @@ Translator(s): Unknown, HrantOhanyan
 Source: https://www.dropbox.com/s/zbx8ebrmztgpws4/Armenian.lang
 
 Asturian (Asturianu)
-Translator(s): ivarela, Xose Álvarez
+Translator(s): ivarela, Xose Álvarez, lasturianu06
 Source: Transifex, Skype Mini Marathion
 
 Azeri (Azərbaycanca, Azərbaycan dili)
@@ -225,7 +225,7 @@ Translator: Michał Wjelk
 Source: http://www.sorbzilla.de/skype/hsb.lang
 
 Urdu (اُردُو‎)
-Translator: Contrib2012
+Translator: Contrib2012, mrfix900
 Source: Transifex
 
 Uyghur (ئۇيغۇرچە‎)
@@ -235,6 +235,10 @@ Source: Skype Forum
 Uyghur (Uyghurche)
 Translator(s): Unknown
 Source: http://www.biliwal.com/yukler/uighur_2.5.0.113_20060614_sutt.lang
+
+Uzbek (O'zbekcha)
+Translator: ualmasov
+Source: Transifex
 
 Welsh (Cymraeg)
 Translator: Merlyn Cooper

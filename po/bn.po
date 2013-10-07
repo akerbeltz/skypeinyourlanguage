@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-28 17:05+0000\n"
+"PO-Revision-Date: 2013-10-07 15:09+0000\n"
 "Last-Translator: leemon2010 <Leemon432@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/projects/p/skype-translation-project/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -67,7 +67,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr ""
+msgstr "কল"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
@@ -75,7 +75,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr ""
+msgstr "প্রোফাইল দেখুন"
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
@@ -115,15 +115,15 @@ msgstr ""
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
-msgstr ""
+msgstr "অফলাইন"
 
 msgctxt "sTRAYHINT_USER_ONLINE"
 msgid "Online"
-msgstr ""
+msgstr "অনলাইন"
 
 msgctxt "sTRAYHINT_USER_AWAY"
 msgid "Away"
-msgstr ""
+msgstr "দূরে"
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
-msgstr ""
+msgstr "অদৃশ্য"
 
 msgctxt "sTRAYHINT_PROFILE_LOGGED_OUT"
 msgid "Not Connected"
@@ -164,7 +164,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_LANGUAGE"
 msgid "Language"
-msgstr ""
+msgstr "ভাষা"
 
 msgctxt "sF_USERINFO_LABEL_HOMEPHONE"
 msgid "Home phone"
@@ -180,27 +180,27 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPAGE"
 msgid "Website"
-msgstr ""
+msgstr "ওয়েবসাইট"
 
 msgctxt "sF_USERINFO_LABEL_ABOUT"
 msgid "About me"
-msgstr ""
+msgstr "আমার সম্পর্কে"
 
 msgctxt "sF_USERINFO_LABEL_BIRTHDATE"
 msgid "Birth date"
-msgstr ""
+msgstr "জন্ম তারিখ"
 
 msgctxt "sSEX_MALE"
 msgid "Male"
-msgstr ""
+msgstr "পুরুষ"
 
 msgctxt "sSEX_FEMALE"
 msgid "Female"
-msgstr ""
+msgstr "মহিলা"
 
 msgctxt "sF_USERENTRY_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 msgctxt "sF_USERENTRY_CAPTION_CREATE_ACCOUNT"
 msgid "Create account"
@@ -252,15 +252,15 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
-msgstr ""
+msgstr "জন্ম তারিখ"
 
 msgctxt "sF_USERPROFILE_LB_LANGUAGE"
 msgid "Language"
-msgstr ""
+msgstr "ভাষা"
 
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
-msgstr ""
+msgstr "দেশ/অঞ্চল"
 
 msgctxt "sF_USERPROFILE_LB_PROVINCE"
 msgid "State/Province"
@@ -284,7 +284,7 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_HOMEPAGE"
 msgid "Website"
-msgstr ""
+msgstr "ওয়েবসাইট"
 
 msgctxt "sF_OPTIONS_PAGE_GENERAL"
 msgid "General"
@@ -328,11 +328,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "সংরক্ষণ"
 
 msgctxt "sF_OPTIONS_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 msgctxt "sF_OPTIONS_CAPTION"
 msgid "- Options"
@@ -774,7 +774,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
-msgstr ""
+msgstr "না"
 
 msgctxt "sF_TRANSLATE_COMMENT"
 msgid "Comment"
@@ -1077,7 +1077,7 @@ msgstr ""
 
 msgctxt "sF_HOTKEY_EDITOR_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
@@ -1971,7 +1971,7 @@ msgstr ""
 
 msgctxt "sF_ADDFRIEND_LABEL3_2"
 msgid "Phone number"
-msgstr ""
+msgstr "ফোন নম্বর"
 
 msgctxt "sF_OPTIONS_CB_SHOW_ANIMATED_EMOTS"
 msgid "Show animated emoticons"
@@ -1979,51 +1979,51 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
-msgstr ""
+msgstr "জানুয়ারী"
 
 msgctxt "sF_USERPROFILE_MONTHNAME2"
 msgid "February"
-msgstr ""
+msgstr "ফেব্রুয়ারী"
 
 msgctxt "sF_USERPROFILE_MONTHNAME3"
 msgid "March"
-msgstr ""
+msgstr "মার্চ"
 
 msgctxt "sF_USERPROFILE_MONTHNAME4"
 msgid "April"
-msgstr ""
+msgstr "এপ্রিল"
 
 msgctxt "sF_USERPROFILE_MONTHNAME5"
 msgid "May"
-msgstr ""
+msgstr "মে"
 
 msgctxt "sF_USERPROFILE_MONTHNAME6"
 msgid "June"
-msgstr ""
+msgstr "জুন"
 
 msgctxt "sF_USERPROFILE_MONTHNAME7"
 msgid "July"
-msgstr ""
+msgstr "জুলাই"
 
 msgctxt "sF_USERPROFILE_MONTHNAME8"
 msgid "August"
-msgstr ""
+msgstr "আগস্ট"
 
 msgctxt "sF_USERPROFILE_MONTHNAME9"
 msgid "September"
-msgstr ""
+msgstr "সেপ্টেম্বর"
 
 msgctxt "sF_USERPROFILE_MONTHNAME10"
 msgid "October"
-msgstr ""
+msgstr "অক্টোবর"
 
 msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
-msgstr ""
+msgstr "নভেম্বর"
 
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr ""
+msgstr "ডিসেম্বর"
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -2708,7 +2708,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_REMOVE"
 msgid "Remove"
-msgstr ""
+msgstr "সরান"
 
 msgctxt "sAUDIO_PLAYBACK_ERROR_REMOVE"
 msgid "Remove this sound file from your sounds library?"
@@ -3998,7 +3998,7 @@ msgstr ""
 
 msgctxt "sF_CALL_QLT_BTN_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 msgctxt "sF_CALL_QLT_BTN_FINISH"
 msgid "Finish"
@@ -4038,7 +4038,7 @@ msgstr ""
 
 msgctxt "sCHAT_PASSWORD_LABEL"
 msgid "Password:"
-msgstr ""
+msgstr "পাসওয়ার্ড:"
 
 msgctxt "sACL_DISCONNECT"
 msgid "Disconnect"
@@ -4855,11 +4855,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_2STAR"
 msgid "**"
-msgstr ""
+msgstr "**"
 
 msgctxt "sZAPBUTTON_CQ_1STAR"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "sZAPBUTTON_CALLPHONES"
 msgid "Call phones"
@@ -4867,7 +4867,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
@@ -4899,7 +4899,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "বন্ধ"
 
 msgctxt "sZAPBUTTON_CLOSEONWHITE"
 msgid "Close"
@@ -4911,11 +4911,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSEEC"
 msgid "Close"
-msgstr ""
+msgstr "বন্ধ"
 
 msgctxt "sZAPBUTTON_CLOSEGSW"
 msgid "Close"
-msgstr ""
+msgstr "বন্ধ"
 
 msgctxt "sZAPBUTTON_CONVERSATIONS"
 msgid "Conversations"
@@ -4939,15 +4939,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONSMOBILE"
 msgid "Mobile"
-msgstr ""
+msgstr "মোবাইল"
 
 msgctxt "sZAPBUTTON_CONVERSATIONSPHONE"
 msgid "Phone"
-msgstr ""
+msgstr "ফোন"
 
 msgctxt "sZAPBUTTON_CONVERSATIONSOFFICE"
 msgid "Office"
-msgstr ""
+msgstr "অফিস"
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
@@ -4975,23 +4975,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
-msgstr ""
+msgstr "মুছুন"
 
 msgctxt "sZAPBUTTON_DELETEALERTMESSAGE"
 msgid "Delete"
-msgstr ""
+msgstr "মুছুন"
 
 msgctxt "sZAPBUTTON_DELETEHIDDEN"
 msgid "Delete"
-msgstr ""
+msgstr "মুছুন"
 
 msgctxt "sZAPBUTTON_DELETEINVERT"
 msgid "Delete"
-msgstr ""
+msgstr "মুছুন"
 
 msgctxt "sZAPBUTTON_DETAILS"
 msgid "Details"
-msgstr ""
+msgstr "বিস্তারিত"
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
@@ -4999,11 +4999,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DIALPAD_0"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_1"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_2"
 msgid " "
@@ -5075,7 +5075,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DOWNLOAD"
 msgid "Download"
-msgstr ""
+msgstr "ডাউনলোড"
 
 msgctxt "sZAPBUTTON_DONT"
 msgid "Don't use for Skype"
@@ -5107,11 +5107,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_FIVE"
 msgid "5"
-msgstr ""
+msgstr "৫"
 
 msgctxt "sZAPBUTTON_FILE"
 msgid "File"
-msgstr ""
+msgstr "ফাইল"
 
 msgctxt "sZAPBUTTON_FULLSCREEN"
 msgid "Full screen"
@@ -5143,7 +5143,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_EDIT"
 msgid "Edit"
-msgstr ""
+msgstr "সম্পাদনা"
 
 msgctxt "sZAPBUTTON_EXITGSW"
 msgid "Exit this guide"
@@ -5199,11 +5199,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_FINDNEXT"
 msgid "<ks>N</ks>ext"
-msgstr ""
+msgstr "<ks>প</ks>রবর্তী"
 
 msgctxt "sZAPBUTTON_FINDPREVIOUS"
 msgid "<ks>P</ks>revious"
-msgstr ""
+msgstr "<ks>পূ</ks>র্ববর্তী"
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "My account"
@@ -5263,11 +5263,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_GROUPCALLOFFICE"
 msgid "Office"
-msgstr ""
+msgstr "অফিস"
 
 msgctxt "sZAPBUTTON_GROUPCALLOTHER"
 msgid "Other"
-msgstr ""
+msgstr "অন্যান্য"
 
 msgctxt "sZAPBUTTON_CALLTRANSFER"
 msgid "Call transfer"
@@ -5283,15 +5283,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLTRANSFERMOBILE"
 msgid "Mobile"
-msgstr ""
+msgstr "মোবাইল"
 
 msgctxt "sZAPBUTTON_CALLTRANSFEROFFICE"
 msgid "Office"
-msgstr ""
+msgstr "অফিস"
 
 msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
-msgstr ""
+msgstr "অন্যান্য"
 
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
@@ -5303,15 +5303,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPEOPLEMOBILE"
 msgid "Mobile"
-msgstr ""
+msgstr "মোবাইল"
 
 msgctxt "sZAPBUTTON_ADDPEOPLEOFFICE"
 msgid "Office"
-msgstr ""
+msgstr "অফিস"
 
 msgctxt "sZAPBUTTON_ADDPEOPLEOTHER"
 msgid "Other"
-msgstr ""
+msgstr "অন্যান্য"
 
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_ACTIVE"
 msgid "Show contacts"
@@ -5347,7 +5347,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HISTORYSLIDER"
 msgid "Last message"
-msgstr ""
+msgstr "সর্বশেষ বার্তা"
 
 msgctxt "sZAPBUTTON_HIDEDETAILS"
 msgid "Hide details"
@@ -5379,11 +5379,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_INFOALT"
 msgid "Info"
-msgstr ""
+msgstr "তথ্য"
 
 msgctxt "sZAPBUTTON_INFO"
 msgid "Info"
-msgstr ""
+msgstr "তথ্য"
 
 msgctxt "sZAPBUTTON_IGNORE"
 msgid "Ignore"
@@ -5523,11 +5523,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_NEW"
 msgid "New"
-msgstr ""
+msgstr "নতুন"
 
 msgctxt "sZAPBUTTON_NEXT"
 msgid "Next"
-msgstr ""
+msgstr "পরবর্তী"
 
 msgctxt "sZAPBUTTON_CLOSEWS"
 msgid "Close this welcome screen and start using Skype"
@@ -5543,7 +5543,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_NEXTINACTIVE"
 msgid "Next"
-msgstr ""
+msgstr "পরবর্তী"
 
 msgctxt "sZAPBUTTON_NEXTPAGE"
 msgid "Next page"
@@ -5583,27 +5583,27 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_PHONES"
 msgid "Call"
-msgstr ""
+msgstr "কল"
 
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
-msgstr ""
+msgstr "চালান"
 
 msgctxt "sZAPBUTTON_PLAYVIDEO"
 msgid "Play video"
-msgstr ""
+msgstr "ভিডিও চালান"
 
 msgctxt "sZAPBUTTON_PREVIEW"
 msgid "Preview"
-msgstr ""
+msgstr "প্রাকদর্শন"
 
 msgctxt "sZAPBUTTON_PREVIOUS"
 msgid "Previous"
-msgstr ""
+msgstr "পূর্ববর্তী"
 
 msgctxt "sZAPBUTTON_PREVIOUSINACTIVE"
 msgid "Previous"
-msgstr ""
+msgstr "পূর্ববর্তী"
 
 msgctxt "sZAPBUTTON_PREVIOUSPAGE"
 msgid "Previous page"
@@ -5739,7 +5739,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "সংরক্ষণ"
 
 msgctxt "sZAPBUTTON_SAVEALL"
 msgid "Save all"
@@ -5811,7 +5811,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEARCH"
 msgid "Search"
-msgstr ""
+msgstr "অনুসন্ধান"
 
 msgctxt "sZAPBUTTON_SEARCHHISTORY"
 msgid "Search History"
@@ -5863,7 +5863,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
-msgstr ""
+msgstr "সরান"
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
@@ -5875,11 +5875,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEARCHAGAIN"
 msgid "Search again"
-msgstr ""
+msgstr "আবার অনুসন্ধান করুন"
 
 msgctxt "sZAPBUTTON_TRYAGAIN"
 msgid "Try again"
-msgstr ""
+msgstr "আবার চেষ্টা করুন"
 
 msgctxt "sZAPBUTTON_CHANGESETTINGS"
 msgid "Change settings"
@@ -5931,11 +5931,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr ""
+msgstr "ভিডিও কল"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr ""
+msgstr "ভিডিও কল"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
@@ -6027,19 +6027,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr ""
+msgstr "ভিডিও বন্ধ করুন"
 
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr ""
+msgstr "ভিডিও"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr ""
+msgstr "ভিডিও বন্ধ করুন"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr ""
+msgstr "ভিডিও চালু রাখুন"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -6059,7 +6059,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
 msgid "Close"
-msgstr ""
+msgstr "বন্ধ"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCHANGESELECTION"
 msgid "Change selection"
@@ -6075,7 +6075,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGMENUCANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTART"
 msgid "Start"
@@ -6103,11 +6103,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CT_VIDEO"
 msgid "My video"
-msgstr ""
+msgstr "আমার ভিডিও"
 
 msgctxt "sZAPBUTTON_CT_VIDEOOFF"
 msgid "My video"
-msgstr ""
+msgstr "আমার ভিডিও"
 
 msgctxt "sZAPBUTTON_CT_MESSAGE"
 msgid "IM"
@@ -6139,7 +6139,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CT_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -6231,7 +6231,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_WINDOWCLOSE"
 msgid "Close"
-msgstr ""
+msgstr "বন্ধ"
 
 msgctxt "sZAPBUTTON_WINDOWMINIMIZE"
 msgid "Minimize"

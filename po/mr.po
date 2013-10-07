@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-08-06 08:51+0000\n"
+"PO-Revision-Date: 2013-08-13 16:13+0000\n"
 "Last-Translator: prash32 <prashant.prash32@gmail.com>\n"
 "Language-Team: Marathi (http://www.transifex.com/projects/p/skype-translation-project/language/mr/)\n"
 "MIME-Version: 1.0\n"
@@ -2369,7 +2369,7 @@ msgctxt "sDATAPATH_REMOVED"
 msgid ""
 "The files that Skype needs to work can't be found. <br />Please check your "
 "network connections and try again later."
-msgstr ""
+msgstr "स्काईपला कार्य करण्या आवश्यक फायली सापडू शकल्या नाही. <br /> आपले नेटवर्क कनेक्शन तपासा आणि नंतर पुन्हा प्रयत्न करा।"
 
 msgctxt "sDATAPATH_REMOVED_TITLE"
 msgid "Skype can't continue running and will close"
@@ -2379,7 +2379,7 @@ msgctxt "sDATAPATH_MISSING"
 msgid ""
 "The files that Skype needs to work can't be found. <br /> Please download "
 "and reinstall Skype to fix this problem."
-msgstr ""
+msgstr "स्काईपला कार्य करण्या आवश्यक फायली सापडू शकल्या नाही. <br /> कृपया डाउनलोड  करा आणि समस्येचे निराकरण करण्यासाठी स्काईप पुनःप्रतिष्ठापन(रिइंस्टाल) करा।"
 
 msgctxt "sDATAPATH_MISSING_TITLE"
 msgid "Skype can't continue running and will close"
@@ -2806,15 +2806,15 @@ msgctxt "sERROR_HINT_VIDEO_8"
 msgid ""
 "Skype can't access your webcam. Please close down all applications using or "
 "showing video."
-msgstr ""
+msgstr "स्काईप आपल्या वेबकॅमपर्यंत पोहचू शकत नाही। सर्व किंवा व्हिडिओ दर्शविणारे अनुप्रयोग बंद करा।"
 
 msgctxt "sERROR_HINT_VIDEO_9"
 msgid "Internal error (Control packet unknown)."
-msgstr ""
+msgstr "अंतर्गत त्रुटी (नियंत्रण पॅकेट अज्ञात)।"
 
 msgctxt "sERROR_HINT_VIDEO_10"
 msgid "Failed to render the stream to a video picture."
-msgstr ""
+msgstr "व्हिडिओ प्रवाह प्रस्तुत करण्यात अयशस्वी।"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_READ"
 msgid "File sending failed. Unable to read file."
@@ -2902,11 +2902,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_LB2"
 msgid "Send a verification code to your mobile number"
-msgstr ""
+msgstr " आपला सत्यापन कोड दुरध्वनी क्रमांकवर पाठवा"
 
 msgctxt "sF_OPTIONS_SMS_LB3"
 msgid "Enter the code you received on your phone and click Submit"
-msgstr ""
+msgstr "आपण आपल्या फोनवर प्राप्त कोड प्रविष्ट करा आणि सबमिट करा"
 
 msgctxt "sF_OPTIONS_BTN_SEND_CODE"
 msgid "Send"
@@ -2934,15 +2934,15 @@ msgstr "सत्यापन (वेरीफीकेशन) कोड अव�
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB5"
 msgid "The code worked, your mobile number has been verified"
-msgstr ""
+msgstr "कोड चालला, आपला दुरध्वनी क्रमांक सत्यापित केला गेला आहे"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB7"
 msgid "The phone number was not recognized or it can't receive SMS"
-msgstr ""
+msgstr "फोन नंबर ओळखता आला नाही किंवा एसएमएस प्राप्त करू शकत नाही"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB8"
 msgid "Please enter the correct mobile number and resend the code"
-msgstr ""
+msgstr "योग्य मोबाइल नंबर प्रविष्ट करा आणि कोड पुन्हा पाठवा"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB9"
 msgid "Sorry, the number failed. Please try again."
@@ -2992,7 +2992,7 @@ msgstr "पुनः शोध"
 
 msgctxt "sF_TRANSLATE_NOT_FOUND"
 msgid "Sorry, string not found."
-msgstr ""
+msgstr "क्षमस्व आहोत, अक्षरमाळा (स्ट्रिंग) आढळली नाही।"
 
 msgctxt "sF_UPGRADE_FRM_CAPTION"
 msgid "Update"
@@ -3008,7 +3008,7 @@ msgstr "स्काईप अद्यायावत (अपडेट) डा�
 
 msgctxt "sF_UPGRADE_LINK"
 msgid "View technical release notes for this update."
-msgstr ""
+msgstr "या अद्ययावतसाठीचे (अपडेट) तांत्रिक प्रकाशन पहा।"
 
 msgctxt "sF_UPGRADE_FORCED_TEXT1"
 msgid ""
@@ -3018,13 +3018,13 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FORCED_TEXT2"
 msgid "You need to update Skype now for security reasons."
-msgstr ""
+msgstr "आपल्या सुरक्षितेसाठी स्काईप अपडेट करावे लागेल।"
 
 msgctxt "sF_UPGRADE_NORMAL_TEXT1"
 msgid ""
 "There's a new version of Skype available. Update now to get the latest "
 "features and improvements."
-msgstr ""
+msgstr "स्काईपची नवीन आवृत्ती उपलब्ध आहे। नवीनतम गुणविशेष व सुधारणा प्राप्त करण्यासाठी आता अद्यतनित करा।"
 
 msgctxt "sF_UPGRADE_NORMAL_TEXT2"
 msgid ""
@@ -3046,11 +3046,11 @@ msgstr "डाऊनलोड होतय।"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TEXT"
 msgid "Please wait while an update for Skype is being downloaded."
-msgstr ""
+msgstr "कृपया स्काईप अद्ययावत डाउनलोड केरत असताना प्रतीक्षा करा।"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_PROGRESS"
 msgid "%d%% done, %s remaining (%d KB/s)"
-msgstr ""
+msgstr "%d%% झाले, %s उरले (%d केबीपिएस)"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_FILESIZE"
 msgid "File size %d KB"
@@ -3118,11 +3118,11 @@ msgstr "शोध पर्याय"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB10"
 msgid "You do not have enough Skype Credit to send a code"
-msgstr ""
+msgstr "आपल्याकडे कोड पाठवण्याकरिता आवश्यक एवढे स्काईप क्रेडीट नाही। "
 
 msgctxt "sF_UPGRADE_UPTODATE"
 msgid "You already have the latest version of Skype installed."
-msgstr ""
+msgstr "आपल्याकडे आधीपासूनच स्काईप नवीनतम आवृत्ती आहे।"
 
 msgctxt "sF_UPGRADE_UPTODATE_CAPTION"
 msgid "Check for update"
@@ -3143,11 +3143,11 @@ msgstr "संभाषण बंद करा"
 
 msgctxt "sFILETRANSFER_STATUS_NO_CAPABILITY"
 msgid "The other person is on a device that doesn't let them receive files."
-msgstr ""
+msgstr "समोरची व्यक्ती त्यांना फाइल प्राप्त न होणार्या डिव्हाइसवर आहेत।"
 
 msgctxt "sF_PAYMENTS_ERROR2_TEXT"
 msgid "Due to technical issues, please"
-msgstr ""
+msgstr "कृपया, तांत्रिक मुद्द्यांमुळे"
 
 msgctxt "sF_PAYMENTS_ERROR_LINK"
 msgid "continue your payment in the Skype webstore using your web browser."
@@ -3177,7 +3177,7 @@ msgstr "आपण जोडत असलेला क्रमांक यो�
 
 msgctxt "sLOGIN_PROGRESS_LABEL"
 msgid "Skype is updating files. This may take some time."
-msgstr ""
+msgstr "स्काईप फायली अद्यतनित आहे। थोडा वेळ लागू शकतो।"
 
 msgctxt "sF_USERPROFILE_PHONE_NOTE2"
 msgid "Enter the phone number with country or region code."
@@ -3197,11 +3197,11 @@ msgstr "दुरध्वनी क्रमांक आपल्या दे
 
 msgctxt "sF_OPTIONS_SMS_LB5"
 msgid "When I send an SMS message, identify me by:"
-msgstr ""
+msgstr "जेव्हा मी एक एसएमएस संदेश पाठवतो, तेव्हा मला असे ओळखा:"
 
 msgctxt "sF_OPTIONS_SMS_LB6"
 msgid "To choose this option, you must"
-msgstr ""
+msgstr "हा पर्याय निवडण्यासाठी, हे करा"
 
 msgctxt "sF_OPTIONS_SMS_LB7"
 msgid "verify your mobile phone number"
@@ -3213,7 +3213,7 @@ msgstr "दुसर्या दुरध्वनी क्रमांका�
 
 msgctxt "sF_OPTIONS_SMS_RB1"
 msgid "My Skype Name %s. Recipients can't send SMS replies"
-msgstr ""
+msgstr "माझे %s स्काईपचे नाव। प्राप्तकर्ता एसएमएस प्रत्युत्तरे पाठवू शकत नाही।"
 
 msgctxt "sF_EDITSKYPEOUT_CAPTION"
 msgid "Edit phone number"
@@ -3244,7 +3244,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
 msgid "You can't send a file to yourself."
-msgstr ""
+msgstr "स्वतःस फाईल पाठवू शकत नाही।"
 
 msgctxt "sPSTN_RES_6519"
 msgid "Sorry, call failed."
@@ -3256,7 +3256,7 @@ msgstr "दुरध्वनीयंत्राच्या नेटवर�
 
 msgctxt "sF_UPGRADE_FORCED_TEXT3"
 msgid "Please contact your system administrator for more information."
-msgstr ""
+msgstr "कृपया अधिक माहितीसाठी आपल्या प्रणाली प्रशासकाशी (सिस्टम एडमिनीस्ट्रेटरशी) संपर्क साधा।"
 
 msgctxt "sCALL_LB2_FAILED_GENERAL"
 msgid "Call failed"
@@ -3280,7 +3280,7 @@ msgstr "आपण नक्की सुरू ठेवू इच्छित�
 
 msgctxt "sF_CONFIRM_COUNTRY_LBL3"
 msgid "Change country code for this call:"
-msgstr ""
+msgstr "या कॉलसाठी देशाचा कोड बदला:"
 
 msgctxt "sF_OPTIONS_NOTIF_BIRTHDAY"
 msgid "has a birthday"
@@ -3292,7 +3292,7 @@ msgstr "शोधा:"
 
 msgctxt "sCHAT_TOOLBAR_FIND_HINT"
 msgid "Type the phrase to search for"
-msgstr ""
+msgstr "शोध घेण्याकरिता वाक्य प्रविष्ठ करा"
 
 msgctxt "sF_OPTIONS_NOTIF_PROMOTIONS"
 msgid "Promotions"
@@ -3300,7 +3300,7 @@ msgstr "जाहीराती"
 
 msgctxt "sGENERAL_BROWSER_ERROR"
 msgid "Unable to launch web browser."
-msgstr ""
+msgstr "वेब ब्राऊजर उघडू शकत नाही।"
 
 msgctxt "sF_LOGIN_WELCOME"
 msgid "Welcome to Skype."
@@ -3308,11 +3308,11 @@ msgstr "स्काईपवर आपले स्वागत आहे _/\\_
 
 msgctxt "sF_STRING_EDIT_TITLE"
 msgid "String edit"
-msgstr ""
+msgstr "अक्षरमाला संपादन"
 
 msgctxt "sF_STRING_EDIT_CAPTION"
 msgid "String edit"
-msgstr ""
+msgstr "अक्षरमाला संपादन"
 
 msgctxt "sF_STRING_EDIT_BTN_OK"
 msgid "OK"
@@ -3668,7 +3668,7 @@ msgstr "अती माहीती"
 
 msgctxt "sSILENT_GUI_WARNING1"
 msgid "Another program is trying to put Skype in Silent Mode."
-msgstr ""
+msgstr "दुसरा अनुप्रयोग स्काईप मुक्या (सायलेंट) मोडमध्ये टाकण्याचा प्रयत्न करत आहे।"
 
 msgctxt "sSILENT_GUI_WARNING2"
 msgid ""
@@ -3684,15 +3684,15 @@ msgstr "ठिक आहे दाबा विनंती स्वीका�
 
 msgctxt "sSILENT_GUI_CAPTION"
 msgid "Confirm silent mode"
-msgstr ""
+msgstr "मूक्या (सालेंट) मोडची पुष्टी करा"
 
 msgctxt "sSILENT_GUI_TITLE"
 msgid "Confirm silent mode"
-msgstr ""
+msgstr "मूक्या (सालेंट) मोडची पुष्टी करा"
 
 msgctxt "sF_STARTCOMCHAT_RBTN1"
 msgid "Anyone can post messages."
-msgstr ""
+msgstr "कोणीही संदेश पोस्ट करू शकतो।"
 
 msgctxt "sF_STARTCOMCHAT_RBTN2"
 msgid "Participants need permission to start posting."
@@ -3780,15 +3780,15 @@ msgstr "चित्र संचयिका"
 
 msgctxt "sF_PRIVACY_CHANGE_TITLE"
 msgid "Privacy protection"
-msgstr ""
+msgstr "गोपनीयता संरक्षण"
 
 msgctxt "sF_PRIVACY_CHANGE_HEADER1"
 msgid "Do you receive unwanted calls?"
-msgstr ""
+msgstr "आपणास अपरिचित कॉल येतात?"
 
 msgctxt "sF_PRIVACY_CHANGE_HEADER2"
 msgid "Do you receive unwanted IM messages?"
-msgstr ""
+msgstr "आपणास अपरिचित झटपट संदेश(आयएम) येतात?"
 
 msgctxt "sF_PRIVACY_CHANGE_BTN_OK"
 msgid "OK"
@@ -3816,7 +3816,7 @@ msgstr "झटपट संदेश पाठवण्याची परवा
 
 msgctxt "sF_PRIVACY_CHANGE_LB_OPTIONS"
 msgid "<a href=\"skype:?options#privacy\">Advanced privacy options</a>"
-msgstr ""
+msgstr "<a href=\"skype:?options#privacy\">प्रगत गोपनीयता पर्याय</a>"
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
@@ -3828,19 +3828,19 @@ msgstr "%s ह्यांनी स्वतःहास जोडले"
 
 msgctxt "sCHAT_MEMBER_PROMOTED_TO_ADMIN"
 msgid "%s has been promoted to conversation host."
-msgstr ""
+msgstr "% s ला संभाषण होस्ट करण्यात आले।"
 
 msgctxt "sCHAT_MEMBER_APPLIED"
 msgid "%s is waiting to join."
-msgstr ""
+msgstr "%s आपण येण्याची प्रतीक्षा करत आहेत।"
 
 msgctxt "sCHAT_SETPICTURE"
 msgid "%s has changed the conversation picture."
-msgstr ""
+msgstr "%s ह्यांने संभाषणचे चित्र बदल्ले।"
 
 msgctxt "sCHAT_SETGUIDELINES"
 msgid "%s has updated the conversation guidelines."
-msgstr ""
+msgstr "%s ह्यांनी संभाषणाच्या मार्गदर्शक सूचना बदल्ल्या।"
 
 msgctxt "sCHAT_STATUSMESSAGE_CONNECTING"
 msgid "Connecting to host, please wait."
@@ -3852,11 +3852,11 @@ msgstr "हा संदेश काढला गेला आहे।"
 
 msgctxt "sCHAT_REMOVED_MESSAGE_TITLE"
 msgid "Removed by %s, %s"
-msgstr ""
+msgstr "%s, %s ला ह्यांनी काढले"
 
 msgctxt "sCHAT_EDITED_MESSAGE_TITLE"
 msgid "Edited by %s, %s"
-msgstr ""
+msgstr "%s, %s ह्यांनी संपादन केले"
 
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE"
 msgid "Are you sure you want to remove this message?"
@@ -3872,7 +3872,7 @@ msgstr "दुव्याची (लिंक) प्रत बनवा"
 
 msgctxt "sF_OPTIONS_LINK_SMS_RATES"
 msgid "SMS destinations and rates"
-msgstr ""
+msgstr "एसएमएसची ठिकाणे आणि किंमत"
 
 msgctxt "sF_STARTCONF_INFO_LABEL"
 msgid "Skype group calls can include both Skype contacts and phone numbers."
@@ -3916,7 +3916,7 @@ msgstr ""
 
 msgctxt "sCHAT_STATUSMESSAGE_KICKED"
 msgid "You have been removed from this IM."
-msgstr ""
+msgstr "आपणास झटपट संदेशातून काढण्यात आले।"
 
 msgctxt "sCHAT_SETOPTIONS"
 msgid "%s has updated the moderation rules of this conversation %s"
@@ -3940,15 +3940,15 @@ msgstr "दुव्याची (लिंक) प्रत बनवा"
 
 msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
-msgstr ""
+msgstr "निर्माता:"
 
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
-msgstr ""
+msgstr "नियंत्रणाची नियम:"
 
 msgctxt "sF_CHAT_INFO_LB_LINK1"
 msgid "IM link:"
-msgstr ""
+msgstr "झटपट संदेशाची दुवा:"
 
 msgctxt "sF_CHAT_INFO_LB_LINK2"
 msgid "Paste this link into emails or IMs so your friends can click to join."
@@ -3956,7 +3956,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_RULES1"
 msgid "Everyone can read and post messages."
-msgstr ""
+msgstr "सर्वजण संदेश वाचू किंवा पोस्ट करू शकतात।"
 
 msgctxt "sF_CHAT_INFO_RULES2"
 msgid "Participants need host's permission to start posting messages."
@@ -4051,7 +4051,7 @@ msgstr "जुळणी मोडत आहे (डिसकनेक्टी�
 
 msgctxt "sF_OPTIONS_CB_TYPING"
 msgid "Show when I am typing"
-msgstr ""
+msgstr "मी प्रविष्ठ करत असताना दर्शवा"
 
 msgctxt "sF_SENDMONEY_LOAD_ERROR"
 msgid ""
@@ -4121,11 +4121,11 @@ msgstr "कॉलची गळती (ड्रॉप्ड)"
 
 msgctxt "sCALL_QUALITY_CANT_HEAR_CALLER"
 msgid "Could not hear the other caller."
-msgstr ""
+msgstr "समोरच्यांचा आवाज नाही आला।"
 
 msgctxt "sCALL_QUALITY_CALLER_CANT_HEAR"
 msgid "Other caller could not hear me."
-msgstr ""
+msgstr "समोरच्यांना माझा आवाज नाही आला।"
 
 msgctxt "sCALL_QUALITY_ECHO"
 msgid "Experienced echo."
@@ -4133,7 +4133,7 @@ msgstr "प्रतीध्वनी आला।"
 
 msgctxt "sCALL_QUALITY_NOISE"
 msgid "Experienced background noise."
-msgstr ""
+msgstr "पाठचा खुप आवाज आला।"
 
 msgctxt "sCALL_QUALITY_SOUND_DELAY"
 msgid "Sound was delayed."
@@ -4141,7 +4141,7 @@ msgstr "आवाज उशिरा आला।"
 
 msgctxt "sCALL_QUALITY_BAD_SOUND"
 msgid "Sound quality was inconsistent."
-msgstr ""
+msgstr "ध्वनी गुणवत्ता विसंगत (इंकंसिस्टंट) होती।"
 
 msgctxt "sF_IMAGE_CONTENT_DELETE"
 msgid "Delete"
@@ -4149,15 +4149,15 @@ msgstr "नष्ट करा।"
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TITLE"
 msgid "Image file corrupted"
-msgstr ""
+msgstr "चित्र दस्तावेज दूषित"
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TEXT"
 msgid "Image file is corrupted and can't be used."
-msgstr ""
+msgstr "चित्र दस्तावेज दूषित आणि वापरू शकत नाही।"
 
 msgctxt "sMAINMENU_RECENTCALLS"
 msgid "Recent Calls"
-msgstr ""
+msgstr "अलीकडील कॉल्स"
 
 msgctxt "sSTATUS_ONLINE_MOBILE"
 msgid "Online (on a mobile device)"
@@ -4165,11 +4165,11 @@ msgstr "उपलब्ध (दुरध्वनी यंत्रावरू
 
 msgctxt "sSTATUS_AWAY_MOBILE"
 msgid "Away (on a mobile device)"
-msgstr ""
+msgstr "कळफलकापासून लांब (दुरध्वनी यंत्रावर)"
 
 msgctxt "sSTATUS_DND_MOBILE"
 msgid "Do Not Disturb (on a mobile device)"
-msgstr ""
+msgstr "सतवू नाका (दुरध्वनी यंत्रावर)"
 
 msgctxt "sCHAT_GAP_IN_CHAT"
 msgid ""
@@ -4197,23 +4197,23 @@ msgstr ""
 
 msgctxt "sPSTN_RES_9502"
 msgid "You need Skype Credit."
-msgstr ""
+msgstr "स्काईप क्रेडिटची गरज आहे।"
 
 msgctxt "sF_OPTIONS_PRIVACY_SETTINGS"
 msgid "Privacy settings"
-msgstr ""
+msgstr "गोपनीयता सेट्टींग्स"
 
 msgctxt "sF_OPTIONS_BLOCKED_USERS"
 msgid "Blocked contacts"
-msgstr ""
+msgstr "अडकवलेले संपर्क।"
 
 msgctxt "sF_OPTIONS_CHAT_APPEARANCE"
 msgid "IM appearance"
-msgstr ""
+msgstr "झटपट संदेशावर दर्शन"
 
 msgctxt "sF_OPTIONS_CHATS_SMS"
 msgid "IM & SMS"
-msgstr ""
+msgstr "झटपट संदेश आणि एसएमएस"
 
 msgctxt "SF_OPTIONS_GENERAL_CAPTION"
 msgid "<b>General settings:</b> Set up all the basics you need to use Skype"
@@ -4238,15 +4238,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LB_LANGUAGE"
 msgid "Set program language to"
-msgstr ""
+msgstr "कार्यक्रम भाषा ही म्हणून सेट करा"
 
 msgctxt "sF_OPTIONS_VOLUME_LOW"
 msgid "Low"
-msgstr ""
+msgstr "किमान"
 
 msgctxt "sF_OPTIONS_VOLUME_HIGH"
 msgid "High"
-msgstr ""
+msgstr "उंच"
 
 msgctxt "sF_OPTIONS_LINK_BUY_HEADSET"
 msgid "Buy a headset or Skype phone from the Skype shop"
@@ -8433,7 +8433,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_RB3"
 msgid "My mobile phone number. Recipients can send SMS replies."
-msgstr ""
+msgstr "माझा दुरध्वनी क्रमांक। प्राप्तकर्ता एसएमएस प्रत्युत्तरे पाठवू शकता।"
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
@@ -8741,7 +8741,7 @@ msgstr ""
 msgctxt "sF_USERENTRY_PROFILE_HINT3"
 msgid ""
 "Enter your mobile number so your contacts can call you when you're offline."
-msgstr ""
+msgstr "आपला दुरध्वनी क्रमांक टाका म्हणजे आपण अनुपलब्ध असताना आपले संपर्क खॉल करू शकतात।"
 
 msgctxt "sF_USERENTRY_SUGGEST1"
 msgid "Skype Name not available"
@@ -8753,7 +8753,7 @@ msgstr "जन्मदिवस"
 
 msgctxt "sF_USERENTRY_PHONE"
 msgid "Mobile phone number"
-msgstr ""
+msgstr "दुरध्वनी क्रमांक"
 
 msgctxt "sF_USERENTRY_PHONE_ERROR"
 msgid "Invalid phone number"
@@ -9616,13 +9616,13 @@ msgctxt "sERROR_HINT_VIDEO_16"
 msgid ""
 "Skype internal error. Check you've got the latest version of Skype and "
 "restart."
-msgstr ""
+msgstr "स्काईपची अंतर्गत त्रुटी। स्काईपची नवीनतम आवृत्ती आहे का तपासा आणि पुन्हा सुरू करा।"
 
 msgctxt "sERROR_HINT_VIDEO_17"
 msgid ""
 "Skype internal error. Check you've got the latest version of Skype and "
 "restart."
-msgstr ""
+msgstr "स्काईपची अंतर्गत त्रुटी। स्काईपची नवीनतम आवृत्ती आहे का तपासा आणि पुन्हा सुरू करा।"
 
 msgctxt "sERROR_HINT_VIDEO_18"
 msgid ""
@@ -9647,17 +9647,17 @@ msgctxt "sERROR_HINT_VIDEO_21"
 msgid ""
 "Skype internal error. Upgrade your webcam drivers and check you've got the "
 "latest version of Skype."
-msgstr ""
+msgstr "स्काईपची अंतर्गत त्रुटी। आपले वेबकॅम ड्राइवर अपग्रेड करा आणि स्काईपची नवीनतम आवृत्ती आहे का तपासा।"
 
 msgctxt "sERROR_HINT_VIDEO_22"
 msgid ""
 "Skype internal error. Upgrade your webcam drivers and check you've got the "
 "latest version of Skype."
-msgstr ""
+msgstr "स्काईपची अंतर्गत त्रुटी। आपले वेबकॅम ड्राइवर अपग्रेड करा आणि स्काईपची नवीनतम आवृत्ती आहे का तपासा।"
 
 msgctxt "sERROR_HINT_VIDEO_23"
 msgid "Skype internal error. Try upgrading to the latest version of Skype."
-msgstr ""
+msgstr "स्काईपची अंतर्गत त्रुटी। स्काईप अपग्रेड करण्याचा प्रयत्न करा।"
 
 msgctxt "sCHATHISTORY_MESSAGE_REMOVED"
 msgid "Message removed"
@@ -10705,7 +10705,7 @@ msgstr ""
 
 msgctxt "sCALL_POPUP_ADD_PHONE_NUMBER"
 msgid "Call this person on their mobile or landline number."
-msgstr ""
+msgstr "त्यांच्या दुरध्वनी किंवा लँडलाइन नंबर वर या व्यक्तीस कॉल।"
 
 msgctxt "sMAINMENU_HIDE_FLAMINGO_CONTACTS"
 msgid "Hide Facebook Friends"
@@ -11342,7 +11342,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_CAPTION3"
 msgid "(Not available with some mobile numbers.)"
-msgstr ""
+msgstr "(काही दुरध्वनी क्रमांकांवर उपलब्ध नाही।)"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION4"
 msgid "To receive SMS replies on your mobile"
@@ -11362,7 +11362,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_VER_CAPTION"
 msgid "Please verify your mobile number below:"
-msgstr ""
+msgstr "दुरध्वनी क्रमांक खाली तपासा:"
 
 msgctxt "sF_USERINFO_AGE_JUST_GOT_NOYEAR"
 msgid "It's %s's birthday today"
