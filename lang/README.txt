@@ -1,13 +1,18 @@
 ﻿Skype .lang Files README
 
-These files are language files for Skype on Windows for languages which do not come bundled with Skype itself.
+These files are language files for Skype on Windows and Linux for languages which do not come bundled with Skype itself.
 
 Please note:
 
+On Windows
 - Installing the latest version of the .lang file should provide translations for any Skype version
 - Your existing .lang files are not affected
 - These files were translated by volunteers, so the quality may vary. You're welcome to notify the respective teams via the Wiki.
 - Some of these were done for old versions of Skype. Skype has since changed the menus a lot so in some cases, if it looks like you've loaded a file and nothing has changed, check the menus a bit deeper down.
+
+On Linux
+Please check the instructions on
+https://sourceforge.net/p/skypeinyourlang/wiki/Installing%20a%20language%20file/
 
 Attributions:
 Some files were "rescued" from various corners of the web and freely available. If at all possible, the sources for such files are listed below. If the translation is yours and you object to it being here, please let us know and we'll remove it.
