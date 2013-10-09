@@ -168,7 +168,7 @@ Translators: kairaba, Lasnei, kantesoufi, DOUMBOU
 Source: Transifex
 
 Neapolitan (Nnapulitano)
-Translator(s): Unknown
+Translator(s): Carmine Colacino
 Source: Skype Mini Marathon
 
 Nias (Li Niha)
@@ -180,7 +180,7 @@ Translator(s): Unknown
 Source: http://norskprogramvare.wordpress.com/tag/skype/
 
 Palatinate German (Pälzisch)
-Translator(s): Unknown
+Translator(s): Purodha Bliessenbach
 Source: http://www.peschke.eu/D/
 
 Persian (Farsi/فارسی)
