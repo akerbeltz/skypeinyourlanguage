@@ -1,48 +1,48 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# michawiki <milupo@sorbzilla.de>, 2013
+# abuyop <abuyop@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-10-14 21:34+0000\n"
-"Last-Translator: michawiki <milupo@sorbzilla.de>\n"
-"Language-Team: Lower Sorbian (http://www.transifex.com/projects/p/skype-translation-project/language/dsb/)\n"
+"PO-Revision-Date: 2013-10-16 05:14+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>\n"
+"Language-Team: Malay (Malaysia) (http://www.transifex.com/projects/p/skype-translation-project/language/ms_MY/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: dsb\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"Language: ms_MY\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr "Online"
+msgstr "Atas Talian"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr "Offline"
+msgstr "Luar Talian"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
-msgstr "Njepśibytny"
+msgstr "Tiada"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "Pšosym njemóliś"
+msgstr "Jangan Ganggu"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
-msgstr "Njewidobny"
+msgstr "Halimunan"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr "Žedno wótegrono"
+msgstr "Tidak menjawab"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
-msgstr "Źěła"
+msgstr "Sibuk"
 
 msgctxt "sQUIT_PROMPT"
 msgid ""
@@ -51,192 +51,192 @@ msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
-msgstr "Wótpokazaś"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "&Pomoc"
+msgstr "&Bantu"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
-msgstr "Dostańśo pomoc: Wótegrona a pódpěra"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_UPDATES"
 msgid "Check for Updates"
-msgstr "Aktualizacije pytaś"
+msgstr ""
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "Zazwóniś"
+msgstr "Panggilan"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
-msgstr "IM pósłaś"
+msgstr "Hantar IM"
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Profil pokazaś"
+msgstr "Lihat Profil"
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
-msgstr "Pśemjeniś..."
+msgstr "Nama semula..."
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr "Z kontaktow wótpóraś"
+msgstr "Buang dari Kenalan"
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
-msgstr "Kontaktam pśidaś"
+msgstr "Tambah ke Kenalan"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
-msgstr "Online-status"
+msgstr "Status Atas Talian"
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
-msgstr "Skype wócyniś"
+msgstr "Buka Skype"
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr "Spušćiś"
+msgstr "Keluar"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Pśizjawja se"
+msgstr ""
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
-msgstr "Skype"
+msgstr ""
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
-msgstr "Zwězujo se"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
-msgstr "Offline"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_ONLINE"
 msgid "Online"
-msgstr "Online"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_AWAY"
 msgid "Away"
-msgstr "Njepśibytny"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
-msgstr "Njestoj k dispoziciji"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
-msgstr "Pšosym njemóliś"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
-msgstr "Njewidobny"
+msgstr ""
 
 msgctxt "sTRAYHINT_PROFILE_LOGGED_OUT"
 msgid "Not Connected"
-msgstr "Njezwězany"
+msgstr ""
 
 msgctxt "sTRAYHINT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Pśizjawja se"
+msgstr ""
 
 msgctxt "sINVALID_HANDLE"
 msgid ""
 "%s is not a valid Skype Name or phone number. Please check it and try again."
-msgstr "%s njejo płaśiwe Skype-mě abo płaśiwy telefonowy numer. Pšosym pśeglědajśo to a wopytajśo hyšći raz."
+msgstr ""
 
 msgctxt "sF_USERINFO_INVALID_USER"
 msgid "Skype Name not found"
-msgstr "Skype-mě njejo se namakało"
+msgstr ""
 
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
-msgstr "Profil za %s"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_FULLNAME"
 msgid "Full name"
-msgstr "Dopołne mě"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_LANGUAGE"
 msgid "Language"
-msgstr "Rěc"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPHONE"
 msgid "Home phone"
-msgstr "Priwatny telefon"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_OFFICEPHONE"
 msgid "Office phone"
-msgstr "Słužbny telefon"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Mobilny telefon"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPAGE"
 msgid "Website"
-msgstr "Websedło"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_ABOUT"
 msgid "About me"
-msgstr "Wó mnjo"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_BIRTHDATE"
 msgid "Birth date"
-msgstr "Datum naroźenja"
+msgstr ""
 
 msgctxt "sSEX_MALE"
 msgid "Male"
-msgstr "Muski"
+msgstr ""
 
 msgctxt "sSEX_FEMALE"
 msgid "Female"
-msgstr "Žeńscyny"
+msgstr ""
 
 msgctxt "sF_USERENTRY_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_USERENTRY_CAPTION_CREATE_ACCOUNT"
 msgid "Create account"
-msgstr "Konto załožyś"
+msgstr ""
 
 msgctxt "sF_USERENTRY_INFO_CREATE_ACCOUNT"
 msgid "Create a new Skype account"
-msgstr "Załožćo nowe Skype-konto"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_CHOOSE_USERNAME"
 msgid "Create Skype Name"
-msgstr "Skype-mě twóriś"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
-msgstr "Skype-mě"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
-msgstr "Gronidło"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD2"
 msgid "Repeat password"
-msgstr "Gronidło wóspjetowaś"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
-msgstr "Sćo swójo gronidło zabył?"
+msgstr ""
 
 msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
 msgid "Yes, send me Skype news and promotions"
-msgstr "Jo, pósćelśo mě nowosći wó Skype a wabjenje"
+msgstr ""
 
 msgctxt "sF_USERENTRY_SIGNIN"
 msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
-msgstr "Maśo južo Skype-konto? <a href=\"x\">Pśizjawiś</a>"
+msgstr ""
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2003-2013 Skype and/or Microsoft"
@@ -244,99 +244,99 @@ msgstr ""
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
-msgstr "Pśez mjazynarodne pšawo šćitany. Wšykne pšawa wuměnjone."
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_FULLNAME"
 msgid "Full name"
-msgstr "Dopołne mě"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
-msgstr "Datum naroźenja"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_LANGUAGE"
 msgid "Language"
-msgstr "Rěc"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
-msgstr "Kraj/Region"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_PROVINCE"
 msgid "State/Province"
-msgstr "Stat/Zwězkowy kraj"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_CITY"
 msgid "City"
-msgstr "Město"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_OFFICEPHONE"
 msgid "Office phone"
-msgstr "Słužbny telefon"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Mobilny telefon"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_EMAIL"
 msgid "Email"
-msgstr "E-mail"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_HOMEPAGE"
 msgid "Website"
-msgstr "Websedło"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_GENERAL"
 msgid "General"
-msgstr "Powšykny"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_PRIVACY"
 msgid "Privacy"
-msgstr "Priwatnosć"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_DEBUG"
 msgid "Advanced"
-msgstr "Rozšyrjony"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
-msgstr "Telefonat zachopiś, gaž kliknjo se na kontakt"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
-msgstr "Skype startowaś, gaž Windows se startujo"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "Kontaktowe drobnostki wašomu profiloju pśidaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
-msgstr "Na dochadajuce telefonaty awtomatiski wótegroniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
-msgstr "telefonat w cakańskem rěźe"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_23"
 msgid "hang up"
-msgstr "połožyś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_25"
 msgid "contact online"
-msgstr "kontakt online"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
-msgstr "Składowaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CAPTION"
 msgid "- Options"
-msgstr "- Nastajenja"
+msgstr ""
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
 msgid "© 2003 - 2013 Skype and/or Microsoft"
@@ -374,19 +374,19 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
-msgstr "Priwatny telefon"
+msgstr ""
 
 msgctxt "sCALL_LB2_MYHOLD"
 msgid "Call on hold"
-msgstr "Telefonat w cakańskem rěźe"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr "Telefonat do cakańskego rěda stajiś"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr "Z telefonatom pókšacowaś"
+msgstr ""
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
@@ -394,39 +394,39 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_DEFAULT_CAPTION"
 msgid "Confirm"
-msgstr "Wobkšuśiś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_SOUNDS2"
 msgid "Sounds"
-msgstr "Zuki"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
-msgstr "Zacyniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
-msgstr "pókšacujo se z telefonatom"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_USERNAME"
 msgid "Skype Name"
-msgstr "Skype-mě"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_FULLNAME"
 msgid "Full name"
-msgstr "Dopołne mě"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_COUNTRY"
 msgid "Country/Region"
-msgstr "Kraj/Region"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_LANGUAGE"
 msgid "Language"
-msgstr "Rěc"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_CITY"
 msgid "City"
-msgstr "Město"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TCB2"
 msgid "Show timestamp next to instant messages"
@@ -434,111 +434,111 @@ msgstr ""
 
 msgctxt "sF_RENAMEUSER_LABEL"
 msgid "Enter new name for %s"
-msgstr "Zapódajśo nowe mě za %s"
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_CAPTION"
 msgid "Rename"
-msgstr "Pśemjeniś"
+msgstr ""
 
 msgctxt "sF_CONFIRM_CBNOMORE"
 msgid "Do not ask me again"
-msgstr "Wěcej se njepšašaś"
+msgstr ""
 
 msgctxt "sF_CONFIRM_YES"
 msgid "Yes"
-msgstr "Jo"
+msgstr ""
 
 msgctxt "sF_CONFIRM_CANCEL"
 msgid "&Cancel"
-msgstr "&Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_OK"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_CANCEL"
 msgid "&Cancel"
-msgstr "&Pśetergnuś"
+msgstr ""
 
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
-msgstr "Kontaktowe napšašowanje slědk pósłaś"
+msgstr ""
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
-msgstr "Informacije"
+msgstr ""
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
-msgstr "Toś tu informaciju wěcej se njepokazaś"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
-msgstr "Gronidło změniś"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT1"
 msgid "Enter current password"
-msgstr "Zapódajśo aktualne gronidło"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT2"
 msgid "Enter new password"
-msgstr "Zapódajśo nowe gronidło"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT3"
 msgid "Re-enter new password"
-msgstr "Zapódajśo nowe gronidło znowego"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_BTN1_TEXT"
 msgid "Apply"
-msgstr "Nałožyś"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_BTN2_TEXT"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
 "The passwords don't match. Please re-enter your new password and "
 "confirmation again"
-msgstr "Gronidle se njemakatej. Pšosym zapódajśo swójo nowe gronidło znowego a wobkšuśćo jo znowego."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
-msgstr "Gronidło změniś"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid.  Please try again."
-msgstr "Stare gronidło, kótarež sćo zapódał, njejo płaśiwe. Pšosym wopytajśo hyšći raz."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
-msgstr "Zwiskowych problemow dla gronidło njedajo se změniś"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT8"
 msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
-msgstr "Glukužycenje! Wašo gronidło jo se změniło. Wužyjśo swójo nowe gronidło pśiducy raz, gaž se pśizjawjaśo. "
+msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_TEXT1"
 msgid "Send contacts to other people on Skype"
-msgstr "Drugim luźam na Skype kontakty pósłaś"
+msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
-msgstr "Pósłaś"
+msgstr "Hantar"
 
 msgctxt "sYESTERDAY"
 msgid "Yesterday"
-msgstr "Cora"
+msgstr "Semalam"
 
 msgctxt "sTODAY"
 msgid "Today"
-msgstr "Źinsa"
+msgstr "Hari ini"
 
 msgctxt "sDURATION"
 msgid "Duration"
-msgstr "Traśe"
+msgstr "Jangkamasa"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
@@ -552,27 +552,27 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
-msgstr "Zwisk"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB15"
 msgid "Use port"
-msgstr "Wužyjśo port"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB19"
 msgid "for incoming connections"
-msgstr "za dochadajuce zwiski"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TCB8"
 msgid "Use port 80 and 443 as alternatives for incoming connections"
-msgstr "Wužyjśo port 80 a 443 ako alternatiwa za dochadajuce zwiski"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CONNDATA_INVALIDPORT"
 msgid "Invalid port"
-msgstr "Njepłaśiwy port"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CONNDATA_CHANGED"
 msgid "Your changes will be applied the next time you start Skype"
-msgstr "Waše změny nałožyju se pśiducy raz, gaž startujośo Skype."
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDDEVICESETTING_FAILED"
 msgid "Your sound devices aren't working. Please check your settings."
@@ -580,19 +580,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_DEVICES"
 msgid "Audio settings"
-msgstr "Awdionastajenja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
-msgstr "Mikrofon"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB21"
 msgid "Speakers"
-msgstr "Głosniki"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB22"
 msgid "Ringing"
-msgstr "Zwónjenje"
+msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SIMPLE"
 msgid ""
@@ -606,15 +606,15 @@ msgstr ""
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_COPY"
 msgid "Copy Selection"
-msgstr "Wuběrk kopěrowaś"
+msgstr ""
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
-msgstr "Wšykno wubraś"
+msgstr ""
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr "Dolnoserbšćina"
+msgstr "Bahasa Melayu"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -632,31 +632,31 @@ msgstr ""
 
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
-msgstr "Wó Skype"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_KEYBOARD"
 msgid "Hotkeys"
-msgstr "Tastowe skrotconki"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TCB11"
 msgid "Enable keyboard shortcuts"
-msgstr "Tastowe skrotconki zmóžniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TNTB6"
 msgid "Change selected shortcut"
-msgstr "Wubranu tastowu skrotconku změniś"
+msgstr ""
 
 msgctxt "sHOTKEY_ANSWER"
 msgid "Answer call"
-msgstr "Na telefonat wótegroniś"
+msgstr ""
 
 msgctxt "sHOTKEY_IGNORE"
 msgid "Ignore call"
-msgstr "Telefonat ignorěrowaś"
+msgstr ""
 
 msgctxt "sHOTKEY_HANGUP"
 msgid "Hang up"
-msgstr "Połožyś"
+msgstr ""
 
 msgctxt "sHOTKEY_FOCUS"
 msgid "Focus Skype"
@@ -664,11 +664,11 @@ msgstr ""
 
 msgctxt "sHOTKEY_SEARCH"
 msgid "Search for people on Skype"
-msgstr "Na Skype druge luźe pytaś"
+msgstr ""
 
 msgctxt "sF_HOTKEYEDIT_CAPTION"
 msgid "Set hotkey for %s"
-msgstr "Tastowu skrotconku za %s stajiś"
+msgstr ""
 
 msgctxt "sF_HOTKEYEDIT_ERROR"
 msgid ""
@@ -682,27 +682,27 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_UNBLOCK"
 msgid "Unblock This Person"
-msgstr "Blokěrowanje toś teje wósoby wótpóraś"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
-msgstr "Mikrofon wušaltowaś"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_UNMUTE"
 msgid "Unmute Microphone"
-msgstr "Mikrofon zašaltowaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
-msgstr "Akcija"
+msgstr ""
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
-msgstr "Aktiwny"
+msgstr ""
 
 msgctxt "sF_OPTIONS_HK_HOTKEY"
 msgid "Hotkey"
-msgstr "Tastowa skrotconka"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TNTB8"
 msgid "<b>Blocked contacts:</b> Stop someone contacting you"
@@ -716,31 +716,31 @@ msgstr ""
 
 msgctxt "sSTATUS_PENDING"
 msgid "This person has not shared their details with you."
-msgstr "Toś ta wósoba njejo swóje drobnostki z tobu źěliła. "
+msgstr ""
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr "Offline"
+msgstr "Luar Talian"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
-msgstr "Online"
+msgstr "Atas Talian"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
-msgstr "Njepśibytny"
+msgstr "Keluar"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr "Pšosym njemóliś"
+msgstr "Jangan Ganggu"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
-msgstr "Blokěrowany"
+msgstr "Disekat"
 
 msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
-msgstr "(pśez wužywarja wustajony)"
+msgstr ""
 
 msgctxt "s_MAINMENU_TOOLS_LOADLANG"
 msgid "Load Skype Language File..."
@@ -748,11 +748,11 @@ msgstr ""
 
 msgctxt "sF_USERENTRY_CB_STOREPASSWORD"
 msgid "Sign me in when Skype starts"
-msgstr "Pśizjawiś gaž Skype se startujo"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_CAPTION"
 msgid "Language file editor"
-msgstr "Editor rěcneje dataje"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_SAVE"
 msgid "Save as..."
@@ -760,11 +760,11 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_APPLY"
 msgid "Apply"
-msgstr "Nałožyś"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_LOAD"
 msgid "Load"
-msgstr "Zacytaś"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE"
 msgid ""
@@ -774,27 +774,27 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
-msgstr "Ně"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_COMMENT"
 msgid "Comment"
-msgstr "Komentar"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_ORIGINAL"
 msgid "Original"
-msgstr "Original"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_CURRENT"
 msgid "Current"
-msgstr "Aktualny"
+msgstr ""
 
 msgctxt "sF_BLOCKUSERS_BUTTON_BLOCK"
 msgid "Block this person"
-msgstr "Toś tu wósobu blokěrowaś"
+msgstr ""
 
 msgctxt "sF_BLOCKUSERS_BUTTON_UNBLOCK"
 msgid "Unblock this person"
-msgstr "Blokěrowanje toś teje wósoby wótpóraś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TCB10"
 msgid "Automatically pause Winamp during calls"
@@ -810,7 +810,7 @@ msgstr ""
 
 msgctxt "sTRAYHINT_PROFILE_NOT_LOGGED_IN"
 msgid "Not signed in"
-msgstr "Njepśizjawjony"
+msgstr ""
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
@@ -818,11 +818,11 @@ msgstr ""
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
-msgstr "%s z kontaktow wótpóraś?"
+msgstr ""
 
 msgctxt "sTRAYMENU_LOGIN"
 msgid "Sign in"
-msgstr "Pśizjawiś"
+msgstr ""
 
 msgctxt "sBUDDYMENU_INVITE_CONFERENCE"
 msgid "Invite to group call"
@@ -830,19 +830,19 @@ msgstr ""
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
-msgstr "Njemóžośo se z toś teju wósobu rozgranjaś, dokulaž sćo ju blokěrował."
+msgstr ""
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
-msgstr "Telefonaty dowóliś wót..."
+msgstr ""
 
 msgctxt "sF_OPTIONS_RG1_1"
 msgid "anyone"
-msgstr "kuždego"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
-msgstr "jano luźi z mójich kontaktow"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
@@ -850,51 +850,51 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG2_1"
 msgid "anyone"
-msgstr "kuždego"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
-msgstr "jano luźi z mójich kontaktow"
+msgstr ""
 
 msgctxt "sQUIT_PROMPT_CAP"
 msgid "Sure you want to quit Skype?"
-msgstr "Cośo Skype napšawdu skóńcyś?"
+msgstr ""
 
 msgctxt "sQUIT_PROMPT_TITLE"
 msgid "Quit Skype?"
-msgstr "Skype skóńcyś?"
+msgstr ""
 
 msgctxt "sREMOVE_BUDDY_PROMPT_CAP"
 msgid "Remove contact?"
-msgstr "Kontakt wótpóraś?"
+msgstr ""
 
 msgctxt "sREMOVE_BUDDY_PROMPT_TITLE"
 msgid "Remove contact?"
-msgstr "Kontakt wótpóraś?"
+msgstr ""
 
 msgctxt "sCONFIRM_OFFLINE_CAP"
 msgid "Go offline?"
-msgstr "Offline hyś?"
+msgstr ""
 
 msgctxt "sCONFIRM_OFFLINE_TITLE"
 msgid "Go offline?"
-msgstr "Offline hyś?"
+msgstr ""
 
 msgctxt "sCALLING_BLOCKED_CAP"
 msgid "Blocked"
-msgstr "Blokěrowany"
+msgstr ""
 
 msgctxt "sCALLING_BLOCKED_TITLE"
 msgid "Blocked"
-msgstr "Blokěrowany"
+msgstr ""
 
 msgctxt "sINFORM_DND_CAP"
 msgid "Warning"
-msgstr "Warnowanje"
+msgstr ""
 
 msgctxt "sINFORM_DND_TITLE"
 msgid "Warning"
-msgstr "Warnowanje"
+msgstr ""
 
 msgctxt "sLANGUAGE_ERROR"
 msgid ""
@@ -904,31 +904,31 @@ msgstr ""
 
 msgctxt "sLANGUAGE_ERROR_TITLE"
 msgid "Error"
-msgstr "Zmólka"
+msgstr ""
 
 msgctxt "sLANGUAGE_ERROR_CAP"
 msgid "Error"
-msgstr "Zmólka"
+msgstr ""
 
 msgctxt "sF_HOTKEYEDIT_ERROR_CAP"
 msgid "Warning"
-msgstr "Warnowanje"
+msgstr ""
 
 msgctxt "sF_HOTKEYEDIT_ERROR_TITLE"
 msgid "Warning"
-msgstr "Warnowanje"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_CAP"
 msgid "Save changes?"
-msgstr "Změny składowaś?"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_TITLE"
 msgid "Save changes?"
-msgstr "Změny składowaś?"
+msgstr ""
 
 msgctxt "sLAST_SEEN"
 msgid "last seen:"
-msgstr "slědny raz wiźony:"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_CONF_REMOTE_HANGUP"
 msgid "Leave group call"
@@ -952,11 +952,11 @@ msgstr ""
 
 msgctxt "sCONF_TOO_MUCH_PARTICIPANTS_TITLE"
 msgid "Error"
-msgstr "Zmólka"
+msgstr ""
 
 msgctxt "sCALL_LB2_BUSY"
 msgid "Busy"
-msgstr "Źěła"
+msgstr ""
 
 msgctxt "sF_STARTCONF_TITLE"
 msgid "Start a group call"
@@ -964,7 +964,7 @@ msgstr ""
 
 msgctxt "sF_STARTCONF_ALL_CONTACTS_LABEL"
 msgid "Choose contacts"
-msgstr "Kontakty wubraś"
+msgstr ""
 
 msgctxt "sF_STARTCONF_SELECTED_CONTACTS_LABEL"
 msgid "Group call participants (max. %d)"
@@ -972,35 +972,35 @@ msgstr ""
 
 msgctxt "sF_STARTCONF_ADD_BUTTON"
 msgid "Select"
-msgstr "Wubraś"
+msgstr ""
 
 msgctxt "sF_STARTCONF_REMOVE_BUTTON"
 msgid "Remove"
-msgstr "Wótpóraś"
+msgstr ""
 
 msgctxt "sF_STARTCONF_START_BUTTON"
 msgid "Start"
-msgstr "Startowaś"
+msgstr ""
 
 msgctxt "sF_STARTCONF_CANCEL_BUTTON"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sDEFAULT_CONFERENCE_TOPIC"
 msgid "Enter a topic for the conversation"
-msgstr "Zapódajśo temu za rozgrono"
+msgstr ""
 
 msgctxt "sF_BLOCK_INVALID_HANDLE"
 msgid "The Skype Name you entered is invalid."
-msgstr "Skype-mě, kótarež sćo zapódał, jo njepłaśiwe."
+msgstr ""
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_TITLE"
 msgid "Error"
-msgstr "Zmólka"
+msgstr ""
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_CAP"
 msgid "Cannot block"
-msgstr "Njedajo se blokěrowaś"
+msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_TOO_MANY_ATTEMPTS"
 msgid ""
@@ -1029,31 +1029,31 @@ msgstr ""
 
 msgctxt "sPSTN_ERR_UNKNOWN"
 msgid "Internal error, please try again. (#%s)"
-msgstr "Nutśikowna zmólka, pšosym wopytajśo hyšći raz. (#%s)"
+msgstr ""
 
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
-msgstr "Žeden Skype-kredit."
+msgstr ""
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
-msgstr "Telefonat jo se bóžko njeraźił."
+msgstr ""
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
-msgstr "Žeden Skype-kredit."
+msgstr ""
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
-msgstr "Telefonat jo se bóžko njeraźił."
+msgstr ""
 
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
-msgstr "Njepłaśiwy telefonowy numer"
+msgstr ""
 
 msgctxt "sPSTN_RES_10486"
 msgid "Phone number busy"
-msgstr "Pśewód wobsajźony"
+msgstr ""
 
 msgctxt "sF_OPTIONS_GREETING_RECORD"
 msgid "Record"
@@ -1069,39 +1069,39 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_GREETING_STOP"
 msgid "Stop"
-msgstr "Stoj"
+msgstr ""
 
 msgctxt "sF_HOTKEY_EDITOR_OK"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sF_HOTKEY_EDITOR_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
-msgstr "Priwatny telefon (%s)"
+msgstr ""
 
 msgctxt "sCALL_PSTN_MOBILE"
 msgid "Mobile (%s)"
-msgstr "Mobilny telefon (%s)"
+msgstr ""
 
 msgctxt "sCALL_PSTN_OFFICE"
 msgid "Office (%s)"
-msgstr "Słužbny telefon (%s)"
+msgstr ""
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr "Skype-telefonat"
+msgstr "Panggilan Skype"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
-msgstr "telefonowy numer"
+msgstr ""
 
 msgctxt "sF_CONFIRM_BLOCK"
 msgid "Block"
-msgstr "Blokěrowaś"
+msgstr ""
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERNAME"
 msgid ""
@@ -1111,47 +1111,47 @@ msgstr ""
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERS"
 msgid "Blocked people:"
-msgstr "Blokěrowane luźe:"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_OPENDLG_CAPTION"
 msgid "Choose your picture"
-msgstr "Wubjeŕśo swój wobraz"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TCB18"
 msgid "Show emoticons"
-msgstr "Emotikony pokazaś"
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_WRONG_FILE"
 msgid "The file you chose was invalid."
-msgstr "Dataja, kótaruž sćo wubrał, jo njepłaśiwa."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT_TITLE"
 msgid "Remove picture?"
-msgstr "Wobraz wótpóraś?"
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT_CAP"
 msgid "Remove picture?"
-msgstr "Wobraz wótpóraś?"
+msgstr ""
 
 msgctxt "sPSTN_RES_6009"
 msgid "Invalid phone number"
-msgstr "Njepłaśiwy telefonowy numer"
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL"
 msgid "File sent."
-msgstr "Dataja jo se pósłała."
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_RECEIVED"
 msgid "File received."
-msgstr "Dataja jo se dostała."
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED"
 msgid "Sending cancelled"
-msgstr "Słanje jo se pśetergnuło"
+msgstr ""
 
 msgctxt "sFILETRANSFER_SAVEDLG_TITLE"
 msgid "Save"
-msgstr "Składowaś"
+msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT"
 msgid ""
@@ -1160,11 +1160,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE"
 msgid "Cancelling"
-msgstr "Pśetergnjo se"
+msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_CAP"
 msgid "Stop sending file"
-msgstr "Słanje dataje pśetergnuś"
+msgstr ""
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
@@ -1176,15 +1176,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDFILE"
 msgid "Send File..."
-msgstr "Dataju pósłaś..."
+msgstr "Hantar Fail..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
-msgstr "Pśetergnjony"
+msgstr "Dibatalkan"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr "Słanje jo se njeraźiło"
+msgstr "Penghantaran gagal"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1201,11 +1201,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_VIRUS_TITLE"
 msgid "Accept file"
-msgstr "Dataju akceptěrowaś"
+msgstr ""
 
 msgctxt "sFILETRANSFER_VIRUS_CAP"
 msgid "Accept the file(s)"
-msgstr "Dataje akceptěrowaś"
+msgstr ""
 
 msgctxt "sPSTN_RES_10403"
 msgid "You can't call this number on Skype right now."
@@ -1213,51 +1213,51 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10408"
 msgid "Could not connect."
-msgstr "Zwisk njemóžno."
+msgstr ""
 
 msgctxt "sPSTN_RES_10420"
 msgid "Bad extension"
-msgstr "Njepłaśiwa datajowa kóńcowka"
+msgstr ""
 
 msgctxt "sPSTN_RES_10482"
 msgid "Phone network error"
-msgstr "Zmólka telefonoweje seśi"
+msgstr ""
 
 msgctxt "sPSTN_RES_10484"
 msgid "Invalid phone number"
-msgstr "Njepłaśiwy telefonowy numer"
+msgstr ""
 
 msgctxt "sPSTN_RES_10487"
 msgid "Busy"
-msgstr "Wobsajźony"
+msgstr ""
 
 msgctxt "sPSTN_RES_10500"
 msgid "Phone network error"
-msgstr "Zmólka telefonoweje seśi"
+msgstr ""
 
 msgctxt "sPSTN_RES_10503"
 msgid "Service unavailable"
-msgstr "Słužba njestoj k dispoziciji"
+msgstr ""
 
 msgctxt "sPSTN_RES_10504"
 msgid "Could not connect"
-msgstr "Zwisk njemóžno"
+msgstr ""
 
 msgctxt "sPSTN_RES_10600"
 msgid "Network busy"
-msgstr "Seś źěła"
+msgstr ""
 
 msgctxt "sPSTN_RES_10603"
 msgid "Number busy"
-msgstr "Numer wobsajźony"
+msgstr ""
 
 msgctxt "sPSTN_RES_10604"
 msgid "Invalid phone number"
-msgstr "Njepłaśiwy telefonowy numer"
+msgstr ""
 
 msgctxt "sPSTN_RES_10686"
 msgid "Network busy"
-msgstr "Seś źěła"
+msgstr ""
 
 msgctxt "sINFORM_PASSWORD_OUTDATED_LOGOFF"
 msgid ""
@@ -1274,11 +1274,11 @@ msgstr ""
 
 msgctxt "sINVALID_NUMBER_CAPTION"
 msgid "Invalid Skype Name or phone number"
-msgstr "Njepłaśiwe Skype-mě abo njepłaśiwy telefonowy numer"
+msgstr ""
 
 msgctxt "sINVALID_NUMBER_HEADER"
 msgid "Invalid Skype Name or phone number"
-msgstr "Njepłaśiwe Skype-mě abo njepłaśiwy telefonowy numer"
+msgstr ""
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_OK"
 msgid "%s %s Skype Credit <a href=\"skype:?payments#skypeout\">Buy more</a>"
@@ -1294,23 +1294,23 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PAUSED"
 msgid "Sending paused."
-msgstr "Słanje zastajone."
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CONNECTING"
 msgid "Connecting..."
-msgstr "Zwězujo se..."
+msgstr ""
 
 msgctxt "sHOTKEY_MUTE"
 msgid "Mute microphone"
-msgstr "Mikrofon nimy šaltowaś"
+msgstr ""
 
 msgctxt "sF_STARTCHAT_TITLE"
 msgid "Add people"
-msgstr "Luźe pśidaś"
+msgstr ""
 
 msgctxt "sF_STARTCHAT_SELECTED_CONTACTS_LABEL"
 msgid "People in this group"
-msgstr "Luźe w toś tej kupce"
+msgstr ""
 
 msgctxt "sF_STARTCHAT_TEXT"
 msgid ""
@@ -1320,59 +1320,59 @@ msgstr ""
 
 msgctxt "sF_STARTCHAT_INVITE_BUTTON"
 msgid "Add"
-msgstr "Pśidaś"
+msgstr ""
 
 msgctxt "sPSTN_RES_1000"
 msgid "Sorry, call failed."
-msgstr "Telefonat jo se bóžko njeraźił."
+msgstr ""
 
 msgctxt "sF_USERENTRY_CB_START_SKYPE"
 msgid "Start Skype when computer starts"
-msgstr "Skype startowaś, gaž kompjuter se startujo"
+msgstr ""
 
 msgctxt "sACL_CHANGE"
 msgid "Change"
-msgstr "Změniś"
+msgstr ""
 
 msgctxt "sACL_OK"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sACL_REMOVE"
 msgid "Remove"
-msgstr "Wótpóraś"
+msgstr ""
 
 msgctxt "sACL_ANOTHER_PROGRAM"
 msgid "Another program wants to use Skype"
-msgstr "Drugi program co Skype wužywaś"
+msgstr ""
 
 msgctxt "sACL_CHANGED_PROGRAM"
 msgid "** WARNING!** A changed program is trying to access Skype."
-msgstr "**WARNOWANJE!** Změnjony program wopytujo pśistup na Skype měś."
+msgstr ""
 
 msgctxt "sACL_WHAT_TO_DO"
 msgid "What would you like to do?"
-msgstr "Co cośo cyniś?"
+msgstr ""
 
 msgctxt "sACL_NAME"
 msgid "Name"
-msgstr "Mě"
+msgstr ""
 
 msgctxt "sACL_PUBLISHER"
 msgid "Publisher"
-msgstr "Wudawaŕ"
+msgstr ""
 
 msgctxt "sACL_ALLOW_ASK"
 msgid "Allow this program to use Skype, but ask again in the future."
-msgstr "Toś tomu programoju dowóliś Skype wužywaś, ale w pśichoźe zasej se pšašaś."
+msgstr ""
 
 msgctxt "sACL_ALLOW"
 msgid "Allow this program to use Skype."
-msgstr "Toś tomu programoju dowóliś, Skype wužywaś."
+msgstr ""
 
 msgctxt "sACL_FORBID"
 msgid "Do not allow this program to use Skype."
-msgstr "Toś tomu programoju njedowóliś, Skype wužywaś."
+msgstr ""
 
 msgctxt "sACL_MANAGE"
 msgid "Manage API Access Control"
@@ -1380,47 +1380,47 @@ msgstr ""
 
 msgctxt "sACL_ALLOWED"
 msgid "Allowed to use Skype"
-msgstr "Jo se dowóliło, Skype wužywaś"
+msgstr ""
 
 msgctxt "sACL_NOT_ALLOWED"
 msgid "Not allowed to use Skype"
-msgstr "Njejo se dowóliło, Skype wužywaś"
+msgstr ""
 
 msgctxt "sACL_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_APIACL"
 msgid "Manage other programs' access to Skype"
-msgstr "Pśistup drugich programow na Skype zastojaś"
+msgstr ""
 
 msgctxt "sFILETRANSFERSEND_CAPTION"
 msgid "Sending file"
-msgstr "Dataja se sćelo"
+msgstr ""
 
 msgctxt "sFILETRANSFERSEND_LB_CAPTION"
 msgid "Select Skype contact"
-msgstr "Skype-kontakt wubraś"
+msgstr ""
 
 msgctxt "sFILETRANSFERSEND_BTN_SEND"
 msgid "Send"
-msgstr "Pósłaś"
+msgstr ""
 
 msgctxt "sFILETRANSFERSEND_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sFILETRANSFERSEND_LB_SELECT"
 msgid "Select who you want to send the file (%s) to and press Send."
-msgstr "Wubjeŕśo, komu cośo dataju (%s) słaś a tłocćo na Pósłaś."
+msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_1"
 msgid "I do not answer within"
-msgstr "Njewótegroniujom w běgu"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_LB_1"
 msgid "seconds"
-msgstr "sekundow"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_RECORDING_ERROR"
 msgid "Voice message recording error"
@@ -1454,7 +1454,7 @@ msgstr ""
 
 msgctxt "sF_BLOCK_BLOCKING_YOURSELF"
 msgid "Can't block yourself"
-msgstr "Njemóžośo se blokěrowaś"
+msgstr ""
 
 msgctxt "sVM_GREETING_PLAYBACK"
 msgid "Playing voice message greeting"
@@ -1462,63 +1462,63 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr "Rěcnu powěsć pósłaś"
+msgstr "Hantar Mesej Bersuara"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this group?"
-msgstr "Cośo kupku napšawdu spušćiś?"
+msgstr ""
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE_TITLE"
 msgid "Leave group"
-msgstr "Kupku spušćiś"
+msgstr ""
 
 msgctxt "sCHAT_MEMBER_ADDED"
 msgid "%s added %s"
-msgstr "%s jo %s pśidał"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_TOPIC_CHANGED"
 msgid "%s has changed the conversation topic to \"%s\""
-msgstr "%s jo temu rozgrona do \"%s\" změnił"
+msgstr ""
 
 msgctxt "sNUMBER_HIDDEN"
 msgid "Unknown phone number"
-msgstr "Njeznaty telefonowy numer"
+msgstr ""
 
 msgctxt "sF_APIACL_CERTIFICATE"
 msgid "Certificate"
-msgstr "Certifikat"
+msgstr ""
 
 msgctxt "sACL_FAQ_LINK"
 msgid "What does this mean?"
-msgstr "Co ma to groniś?"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_SEND_FILE"
 msgid "Send file"
-msgstr "Dataju pósłaś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_USERS_FEW"
 msgid "%s and %s"
-msgstr "%s a %s"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_USERS_MANY"
 msgid "%d contacts"
-msgstr "%d kontaktow"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_CAPTION"
 msgid "Send file to %s"
-msgstr "Dataju na %s pósłaś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING"
 msgid "Are you sure you want to send file \"%s\" to %s?"
-msgstr "Cośo napšawdu %s dataju \"%s\" słaś?"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING2"
 msgid "Are you sure you want to send %d files to %s?"
-msgstr "Cośo napšawdu %s %d datajow słaś?"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_SENDFILE_LIMIT_ERROR"
 msgid "You can't send files to more than %d people at once."
-msgstr "Njamóžośo wěcej ako %d luźam dataje naraz pósłaś."
+msgstr ""
 
 msgctxt "sREDBUTTON_HINT_SEND_VOICEMAIL"
 msgid "Press here if you have finished your voice message."
@@ -1526,59 +1526,59 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_HANGUP"
 msgid "End Call with This Person"
-msgstr "Telefon z toś teju wósobu skóńcyś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_HOST"
 msgid "Host"
-msgstr "Host"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_PORT"
 msgid "Port"
-msgstr "Port"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_USERNAME"
 msgid "Username"
-msgstr "Wužywarske mě"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_PASSWORD"
 msgid "Password"
-msgstr "Gronidło"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
-msgstr "Proksy-awtentifikaciju zmóžniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_AUTOMATIC"
 msgid "Automatic proxy detection"
-msgstr "Proksy awtomatiski namakaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_DELETE_HISTORY"
 msgid "Clear history"
-msgstr "Historiju wuprozniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_0"
 msgid "no history"
-msgstr "žedna historija"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_1"
 msgid "2 weeks"
-msgstr "dwa tyźenja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_2"
 msgid "1 month"
-msgstr "1 mjasec"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_3"
 msgid "3 months"
-msgstr "3 mjasece"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_4"
 msgid "forever"
-msgstr "na pśecej"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
-msgstr "Historiju zachowaś za"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_NEW_TITLE"
 msgid "Start IM with group"
@@ -1586,11 +1586,11 @@ msgstr ""
 
 msgctxt "sF_STARTCHAT_TOPIC_LABEL"
 msgid "Conversation title/topic"
-msgstr "Titel/Tema rozgrona"
+msgstr ""
 
 msgctxt "sF_STARTCHAT_START_BUTTON"
 msgid "Create"
-msgstr "Napóraś"
+msgstr ""
 
 msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
@@ -1598,7 +1598,7 @@ msgstr ""
 
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
-msgstr "Telefonowe numery"
+msgstr ""
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TEXT"
 msgid ""
@@ -1609,63 +1609,63 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TITLE"
 msgid "Delete history?"
-msgstr "Historiju lašowaś?"
+msgstr ""
 
 msgctxt "sSKYPE_LANG_FILES"
 msgid "Skype language files (*.lang)\\|*.LANG"
-msgstr "Rěcne dataje Skype (*.lang)\\|*.LANG"
+msgstr ""
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
-msgstr "Rozgronoju pśistupiś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_UNDO"
 msgid "Undo"
-msgstr "Anulěrowaś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_CUT"
 msgid "Cut"
-msgstr "Wurězaś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_COPY"
 msgid "Copy"
-msgstr "Kopěrowaś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_PASTE"
 msgid "Paste"
-msgstr "Zasajźiś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_DELETE"
 msgid "Delete"
-msgstr "Lašowaś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_SELECTALL"
 msgid "Select all"
-msgstr "Wšykno wubraś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_UNSUBSCRIBED_WARNING"
 msgid "You have left this group."
-msgstr "Sćo toś tu kupku spušćił."
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_NOTIFICATIONS"
 msgid "Notifications"
-msgstr "Powěźeńki"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_VIDEO"
 msgid "Video settings"
-msgstr "Wideonastajenja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_MUTE"
 msgid "Mute all sounds"
-msgstr "Wšykne zuki znjemóžniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_ONLINE"
 msgid "comes online"
-msgstr "pśiźo online"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_OFFLINE"
 msgid "goes offline"
-msgstr "źo offline"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_CHAT"
 msgid "starts an IM with me"
@@ -1673,11 +1673,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_FILE"
 msgid "sends me a file"
-msgstr "sćelo mě dataju"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
-msgstr "pšosy wó móje kontaktowe drobnostki"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_VOICEMAIL"
 msgid "leaves me a voice message"
@@ -1685,19 +1685,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_SENDCONTACTS"
 msgid "sends me contacts"
-msgstr "sćelo mě kontakty"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_IN"
 msgid "ringtone"
-msgstr "zwónjenje"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_OUT"
 msgid "dial tone"
-msgstr "telefonowy zuk"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_BUSY"
 msgid "busy signal"
-msgstr "wobsajźeńske znamje"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE"
 msgid "incoming IM"
@@ -1713,7 +1713,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_CONNECTION"
 msgid "Change your picture"
-msgstr "Waš wobraz změniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_LEARN_MORE"
 msgid "Learn more about how Skype deals with proxies and firewalls"
@@ -1725,11 +1725,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_DEVICES"
 msgid "Volume"
-msgstr "Głosnosć"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_GENERAL"
 msgid "General settings"
-msgstr "Powšykne nastajenja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_HOTKEYS"
 msgid ""
@@ -1738,11 +1738,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_NOTIFICATIONS"
 msgid "Notification settings"
-msgstr "Powěźeńkowe nastajenja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_OTHER"
 msgid "Other things you can do"
-msgstr "Druge wěcy, kótarež móžośo cyniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_PRIVACY"
 msgid "<b>Privacy settings:</b> Protect yourself from unwanted calls and IMs"
@@ -1750,15 +1750,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_SOUNDS"
 msgid "Choose which sound to play"
-msgstr "Wubjeŕśo, kótary zuk ma se wótgraś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VM_DURATION"
 msgid "Duration: %s sec"
-msgstr "Cas: %s sek."
+msgstr ""
 
 msgctxt "sF_OPTIONS_VM_REMAIN"
 msgid "%s seconds remaining"
-msgstr "%s sekundow wušej"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VM_DOWNLOADING"
 msgid "Loading my voice message greeting"
@@ -1782,11 +1782,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_PLAY_HINT"
 msgid "Play:"
-msgstr "Wótgraś:"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_UNMUTE"
 msgid "Enable all sounds"
-msgstr "Wšykne zuki zmóžniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
 msgid "Set up voice messaging"
@@ -1810,7 +1810,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VM_DATETIME"
 msgid "Recorded:"
-msgstr "Nagraty:"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VM_SET2"
 msgid "Default voice message greeting"
@@ -1834,7 +1834,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG3_1"
 msgid "anyone"
-msgstr "kuždy"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RG3_2"
 msgid "block calls when phone number is hidden"
@@ -1842,23 +1842,23 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG3_3"
 msgid "phone numbers in my Contact list only"
-msgstr "jano telefonowe numery w mójich kontaktach"
+msgstr ""
 
 msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
-msgstr "Telefonowe nastajenja"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_GENDER"
 msgid "Gender"
-msgstr "Rod"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_REGION"
 msgid "State/Province"
-msgstr "Stat/Zwězkowy kraj"
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT2"
 msgid ""
@@ -1869,23 +1869,23 @@ msgstr ""
 msgctxt "sF_USERPROFILE_WRONG_EMAIL"
 msgid ""
 "The email address you entered is not valid. Please check it and try again."
-msgstr "E-mailowa adresa, kótaruž sćo zapódał, njejo płaśiwa. Pšosym pśespytajśo ju a wopytajśo hyšći raz."
+msgstr ""
 
 msgctxt "sF_MULTICHAT_TOPIC_PROMPT"
 msgid "Click here to enter a topic"
-msgstr "Klikniśo how, aby temu zapódał"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_GENDER"
 msgid "Gender"
-msgstr "Rod"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_LOCATION"
 msgid "Location"
-msgstr "Městno"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_AGE"
 msgid "Age"
-msgstr "Starstwo"
+msgstr ""
 
 msgctxt "sF_USERINFO_AGE_MORE"
 msgid "%s and a bit more"
@@ -1901,11 +1901,11 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_RECENT"
 msgid "Recently contacted"
-msgstr "Pśed krotkim kontaktěrowany"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_TEST_CALL"
 msgid "Make a free test call"
-msgstr "Dermotny testowy telefonat"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_AUDIO_HELP"
 msgid "Learn more about setting up your audio equipment"
@@ -1913,51 +1913,51 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_ABOUT2"
 msgid "About me"
-msgstr "Wó mnjo"
+msgstr ""
 
 msgctxt "sF_USERENTRY_PROFILE_NAME"
 msgid "Full name"
-msgstr "Dopołne mě"
+msgstr ""
 
 msgctxt "sF_USERENTRY_PROFILE_COUNTRY"
 msgid "Country/Region"
-msgstr "Kraj/Region"
+msgstr ""
 
 msgctxt "sF_USERENTRY_PROFILE_CITY"
 msgid "City"
-msgstr "Město"
+msgstr ""
 
 msgctxt "sF_USERENTRY_PROFILE_EMAIL"
 msgid "Email"
-msgstr "E-mail"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_CAPTION2"
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_DAY"
 msgid "Day"
-msgstr "Źeń"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_MONTH"
 msgid "Month"
-msgstr "Mjasec"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_YEAR"
 msgid "Year"
-msgstr "Lěto"
+msgstr ""
 
 msgctxt "sCONTACT_GROUP_BLOCKED"
 msgid "Blocked contacts"
-msgstr "Blokěrowane kontakty"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_PHONE_NOTE"
 msgid "Enter %s's phone number."
-msgstr "Zapódajśo telefonowy numer wužywarja %s."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT9"
 msgid "Choose another password."
-msgstr "Wubjeŕśo druge gronidło."
+msgstr ""
 
 msgctxt "sFILETRANSFER_DISABLED"
 msgid ""
@@ -1967,47 +1967,47 @@ msgstr ""
 
 msgctxt "sF_ADDFRIEND_LABEL3_1"
 msgid "Name"
-msgstr "Mě"
+msgstr ""
 
 msgctxt "sF_ADDFRIEND_LABEL3_2"
 msgid "Phone number"
-msgstr "Telefonowy numer"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_SHOW_ANIMATED_EMOTS"
 msgid "Show animated emoticons"
-msgstr "Animěrowane emotikony pokazaś"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
-msgstr "Januar"
+msgstr "Januari"
 
 msgctxt "sF_USERPROFILE_MONTHNAME2"
 msgid "February"
-msgstr "Februar"
+msgstr "Februari"
 
 msgctxt "sF_USERPROFILE_MONTHNAME3"
 msgid "March"
-msgstr "Měrc"
+msgstr "Mac"
 
 msgctxt "sF_USERPROFILE_MONTHNAME4"
 msgid "April"
-msgstr "Apryl"
+msgstr "April"
 
 msgctxt "sF_USERPROFILE_MONTHNAME5"
 msgid "May"
-msgstr "Maj"
+msgstr "Mei"
 
 msgctxt "sF_USERPROFILE_MONTHNAME6"
 msgid "June"
-msgstr "Junij"
+msgstr "Jun"
 
 msgctxt "sF_USERPROFILE_MONTHNAME7"
 msgid "July"
-msgstr "Julij"
+msgstr "Julai"
 
 msgctxt "sF_USERPROFILE_MONTHNAME8"
 msgid "August"
-msgstr "Awgust"
+msgstr "Ogos"
 
 msgctxt "sF_USERPROFILE_MONTHNAME9"
 msgid "September"
@@ -2019,11 +2019,11 @@ msgstr "Oktober"
 
 msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
-msgstr "Nowember"
+msgstr "November"
 
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr "December"
+msgstr "Disember"
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -2032,7 +2032,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CB_FORWARDING"
 msgid "Forward my calls to:"
-msgstr "Móje telefonaty dalej pósrědniś na:"
+msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT5"
 msgid "Calls will be forwarded to all phone numbers at the same time"
@@ -2058,39 +2058,39 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_ADD"
 msgid "Add contact"
-msgstr "Kontakt pśidás"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_NOT_FOUND"
 msgid ""
 "We can't show more information about this contact because they have not been"
 " online for a long time."
-msgstr "Njamóžomy wěcej informacije wó toś tom kontakśe pokazaś, dokulaž njejo wěcej dawno online był."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_1"
 msgid "This picture \"%s\" belongs to %s."
-msgstr "Wobraz \"%s\" słuša %s."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_2"
 msgid "Please sign in as %s to select this picture."
-msgstr "Pšosym pśizjawśo se ako %s, aby toś ten wobraz wubrał."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_TITLE"
 msgid "Picture belongs to another person"
-msgstr "Wobraz słuša drugej wósobje"
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_1"
 msgid ""
 "Sorry, the file could not be installed. The file may not have downloaded "
 "properly or the file size is too large."
-msgstr "Dataja njedajo se bóžko instalěrowaś. Dataja njejo se snaź pórědnje ześěgnuła abo datajowa wjelikosć jo pśewjelika."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_2"
 msgid "Please try downloading this file again."
-msgstr "Pšosym wopytajśo toś tu dataju hyšći raz ześěgnuś."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_TITLE"
 msgid "File not installed"
-msgstr "Dataja njejo se zainstalěrowała"
+msgstr ""
 
 msgctxt "sF_SOUNDS_BTN_ADD"
 msgid "Browse..."
@@ -2098,27 +2098,27 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_BTN_SET"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sF_SOUNDS_BTN_CLOSE"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT1"
 msgid "Skype ringtone (Modern)"
-msgstr "Zwónjenje Skype (moderny)"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT2"
 msgid "Skype dial tone (Modern)"
-msgstr "Telefonowy zuk Skype (moderny)"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT3"
 msgid "Skype busy signal (Modern)"
-msgstr "Wobsajźeńske znamje Skype (moderny)"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT4"
 msgid "Skype call on hold (Modern)"
-msgstr "Telefonat w cakańskem rěźe Skype (moderny)"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT5"
 msgid "Skype resuming call (Modern)"
@@ -2142,7 +2142,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_OPENDLG_CAPTION"
 msgid "Choose your sound"
-msgstr "Wubjeŕśo swój zuk"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT"
 msgid ""
@@ -2152,19 +2152,19 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT_TITLE"
 msgid "Remove sound file?"
-msgstr "Zukowu dataju wótpóraś?"
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG1_1"
 msgid "This sound \"%s\" belongs to %s."
-msgstr "Toś ten zuk \"%s\" słuša %s."
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG1_2"
 msgid "Please sign in as %s to select this sound."
-msgstr "Pšosym pśizjawśo se ako %s, aby toś ten zuk wubrał."
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG1_TITLE"
 msgid "Sound belongs to another person"
-msgstr "Zuk słuša drugej wósobje"
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG2_1"
 msgid "%s could not be installed. There may be a problem with the file."
@@ -2172,15 +2172,15 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_MSG2_2"
 msgid "Please try downloading this sound again."
-msgstr "Pšosym wopytajśo toś ten zuk znowego ześěgnuś."
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG2_TITLE"
 msgid "Sound installation failed"
-msgstr "Instalěrowanje zuka jo se njeraźiło"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DELETE_ERROR1"
 msgid "Cannot delete Skype default sound."
-msgstr "Standardny zuk Skype njedajo se lašowaś."
+msgstr ""
 
 msgctxt "sF_SOUNDS_DELETE_ERROR2"
 msgid ""
@@ -2190,23 +2190,23 @@ msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_ERROR1"
 msgid "Cannot delete this picture - the file does not exist."
-msgstr "Toś ten wobraz njedajo se wulašowaś - dataja njeeksistěrujo."
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_SKYPENAME"
 msgid "Skype Name"
-msgstr "Skype-mě"
+msgstr ""
 
 msgctxt "sF_USERINFO_BTN_COPY"
 msgid "Copy"
-msgstr "Kopěrowaś"
+msgstr ""
 
 msgctxt "sF_USERINFO_BTN_COPY_PROFILE"
 msgid "Copy profile"
-msgstr "Profil kopěrowaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_FORWARDINGANDVOICEMAIL"
 msgid "Call forwarding"
-msgstr "Telefonat se dalej pósrědnja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_ADVAMCED"
 msgid ""
@@ -2216,11 +2216,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_CF_ADVANCED"
 msgid "Add more phone numbers"
-msgstr "Dalšne telefonowe numery pśidaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_CF_BASIC"
 msgid "One phone number only"
-msgstr "Jano jaden telefonowy numer"
+msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
@@ -2238,27 +2238,27 @@ msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_REJECT"
 msgid "I reject an incoming call"
-msgstr "Wótpokazujom dochadajucy telefonat"
+msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_INCALL"
 msgid "I am already in a call"
-msgstr "Telefoněrujom južo"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT"
 msgid "Enter phone number"
-msgstr "Telefonowy numer zapódaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8"
 msgid "You'll need"
-msgstr "Musyśo"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SAVING_HINT1"
 msgid "Saving new settings"
-msgstr "Nowe nastajenja se składuju"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SAVING_HINT2"
 msgid "This may take a few minutes"
-msgstr "To móžo někotare minuty traś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SAVING_FAILED1"
 msgid ""
@@ -2276,7 +2276,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CF_ERROR2"
 msgid "Error in call forwarding settings"
-msgstr "Zmólka w nastajenjach dalejpósrědnjenja telefonatow"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CF_ERROR3"
 msgid ""
@@ -2285,15 +2285,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CF_ERROR4"
 msgid "Call forwarding information"
-msgstr "Informacije dalejpósrědnjenja telefonata"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB_MESSAGES"
 msgid "Show messages about..."
-msgstr "Powěsći pokazaś wó..."
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_TIPS"
 msgid "Help and Skype tips"
-msgstr "Pomoc a tipy k Skype"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_FT_NOTIFICATION_SINGLE"
 msgid "/me sent file %s"
@@ -2309,24 +2309,24 @@ msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR1"
 msgid "Error with sound file."
-msgstr "Zmólka ze zukoweju dataju."
+msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR2"
 msgid "This sound file can't be found and may have been deleted."
-msgstr "Toś ta zukowa dataja njedajo se namakaś a jo snaź wulašowana."
+msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR3"
 msgid ""
 "This sound file is too big for Skype to play (maximum file size 1.5 MB)."
-msgstr "Toś ta awdiodataja jo pśewjelika za Skype, aby ju wótgrał (maksimalna datajowa wjelikosć 1,5 MB)"
+msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR4"
 msgid "Skype can't read the file."
-msgstr "Skype njamóžo dataju cytaś."
+msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR5"
 msgid "This sound file is in a format that is not supported by Skype."
-msgstr "Zukowa dataja jo w formaśe, kótaryž Skype njepódpěra."
+msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR6"
 msgid "Playback not supported."
@@ -2334,35 +2334,35 @@ msgstr ""
 
 msgctxt "sPSTN_RES_9403"
 msgid "Account blocked."
-msgstr "Konto jo blokěrowane."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_1"
 msgid "The file %s can't be used as a picture."
-msgstr "Dataja %s njedajo se ako wobraz wužywaś."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_2"
 msgid "Please select a new file and try again."
-msgstr "Pšosym wubjeŕśo nowu dataju a wopytajśo hyšći raz."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_TITLE"
 msgid "File can't be used"
-msgstr "Dataja njedajo se wužywaś"
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG3_1"
 msgid "The file %s can't be used as a sound."
-msgstr "Dataja %s njedajo se ako zuk wužywaś."
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG3_2"
 msgid "Please select a new file and try again."
-msgstr "Pšosym wubjeŕśo nowu dataju a wopytajśo hyšći raz."
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG3_TITLE"
 msgid "File can't be used"
-msgstr "Dataja njedajo se wužywaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT2"
 msgid "Enter Skype Name"
-msgstr "Skype-mě zapódaś"
+msgstr ""
 
 msgctxt "sDATAPATH_REMOVED"
 msgid ""
@@ -2372,13 +2372,13 @@ msgstr ""
 
 msgctxt "sDATAPATH_REMOVED_TITLE"
 msgid "Skype can't continue running and will close"
-msgstr "Skype njamóžo dalej źěłaś a buźo se zacynjaś"
+msgstr ""
 
 msgctxt "sDATAPATH_MISSING"
 msgid ""
 "The files that Skype needs to work can't be found. <br /> Please download "
 "and reinstall Skype to fix this problem."
-msgstr "Dataje, kótarež Skype trtjeba za źěło, njedaju se namakaś.<br /> Pšosym ześěgniśo a instalěrujśo Skype znowego, aby toś ten problem rozwězał."
+msgstr ""
 
 msgctxt "sDATAPATH_MISSING_TITLE"
 msgid "Skype can't continue running and will close"
@@ -2386,7 +2386,7 @@ msgstr ""
 
 msgctxt "sDATAPATH_MISSING_CAPTION"
 msgid "Information"
-msgstr "Informacije"
+msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT9"
 msgid ""
@@ -2401,19 +2401,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_RESET"
 msgid "Reset to default"
-msgstr "Na standard slědk stajiś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VIDEO_LB1"
 msgid "Select webcam:"
-msgstr "Webcam wubraś:"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VIDEO_ENABLE"
 msgid "Enable video"
-msgstr "Wideo zmóžniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VIDEO_SEND_AUTOMATICALLY"
 msgid "Start my video automatically when I am in a call"
-msgstr "Mójo wideo awtomatiski startowaś, gaž telefoněrujom"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_VIDEO"
 msgid "<b>Video settings:</b> Set up your webcam"
@@ -2421,19 +2421,19 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_UNKNOWN"
 msgid "Requests to new contacts"
-msgstr "Napšašowanja do nowych kontaktow"
+msgstr ""
 
 msgctxt "sCONTACT_GROUP_PENDINGAUTH"
 msgid "Requests from new contacts"
-msgstr "Napšašowanja wót nowych kontaktow"
+msgstr ""
 
 msgctxt "sCONTACT_GROUP_AUTHORIZED"
 msgid "Authorized contacts"
-msgstr "Awtorizěrowane kontakty"
+msgstr ""
 
 msgctxt "sCONTACT_GROUP_UNGROUPED"
 msgid "Ungrouped"
-msgstr "Njezrědowany"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_DEF_TIMEZONE"
 msgid "My computer's"
@@ -2447,11 +2447,11 @@ msgstr ""
 
 msgctxt "sF_AUTH_BTN_BLOCK"
 msgid "Block"
-msgstr "Blokěrowaś"
+msgstr ""
 
 msgctxt "sF_AUTHQUERY_DEFAULT2"
 msgid "Hello! Please add me to your Contact list."
-msgstr "Witaj! Pšosym pśidajśo mě wašym kontaktam."
+msgstr ""
 
 msgctxt "sMOODMESSAGE_HINT"
 msgid "Enter mood message"
@@ -2463,7 +2463,7 @@ msgstr ""
 
 msgctxt "sSTATUS_OFFLINE_CF"
 msgid "Offline with call forwarding"
-msgstr "Offline z dalejpósrědnjenim telefonata"
+msgstr ""
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_SHORT"
 msgid "Credit expires %s <a href=\"skype:?dialpad\"> Make a call</a>."
@@ -2471,11 +2471,11 @@ msgstr ""
 
 msgctxt "sF_USERENTRY_LINK_REGISTER"
 msgid "Don't have a Skype Name?"
-msgstr "Njemaśo Skype-mě?"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LOGGING_HELP"
 msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
-msgstr "<a href=\"skype:?go#help.password.faq1\">Pomoc</a>"
+msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_IMPORT"
 msgid "Import Contacts..."
@@ -2493,45 +2493,45 @@ msgctxt "sF_USERENTRY_ERROR_1104"
 msgid ""
 "Your Skype Name and password were not recognized. Please check and try "
 "again."
-msgstr "Wašo Skype-mě a gronidło njejstej se pśipóznałej. Pšosym pśeglědajśo a wopytajśo hyšći raz."
+msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_1107"
 msgid "Invalid address"
-msgstr "Njepłaśiwa adresa"
+msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_1109"
 msgid "Skype Name contains invalid characters."
-msgstr "Skype-mě wopśimujo njepłaśiwe znamuška."
+msgstr ""
 
 msgctxt "sF_USERENTRY_LB_EXPLAIN"
 msgid ""
 "Sorry - the Skype Name you've entered is already taken. Enter a new Skype "
 "Name or choose one of these suggestions:"
-msgstr "Skype-mě, kótarež sćo zapódał, jo južo rozdane. Zapódajśo nowe Skype-mě abo wubjeŕśo jadno z toś tych naraźenjow:"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_WEBPRESENCE"
 msgid "Allow my online status to be shown on the web"
-msgstr "Dowóliś, aby mój status online se na webje pokazał"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB_WEBPRESENCE1"
 msgid "Learn more"
-msgstr "Dalšne informacije"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_SOUNDLIBRARY"
 msgid "My custom sounds"
-msgstr "Móje swójske zuki"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_PLAYSOUND"
 msgid "Play this sound"
-msgstr "Toś ten zuk wótgraś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB_WHEN"
 msgid "Select which events play a sound"
-msgstr "Wubjeŕśo, kótare tšojeńka wótegrawaju zuk"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_IMPORT"
 msgid "Import sounds"
-msgstr "Zuki importěrowaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_ONLINESOUNDS"
 msgid "Get more ringtones and custom sounds"
@@ -2543,11 +2543,11 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT11"
 msgid "Skype call error1"
-msgstr "Telefonatowa zmólka Skype 1"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT12"
 msgid "Skype call error2"
-msgstr "Telefonatowa zmólka Skype 2"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT13"
 msgid "Skype incoming IM2"
@@ -2555,7 +2555,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
-msgstr "Dochadajuce kontakty Skype"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT15"
 msgid "Skype incoming voice message"
@@ -2563,11 +2563,11 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT16"
 msgid "Skype incoming file"
-msgstr "dochadajuca dataja Skype"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT17"
 msgid "Skype incoming request"
-msgstr "dochadajuce napšašowanje Skype"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT18"
 msgid "Skype sign in sound"
@@ -2575,15 +2575,15 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT19"
 msgid "Skype sign out sound"
-msgstr "Wótzjawjeński zuk Skype"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT20"
 msgid "Skype contact offline"
-msgstr "Kontakt offline"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT21"
 msgid "Skype message sent"
-msgstr "Powěsć jo se pósłała"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT22"
 msgid "Skype voice message sent"
@@ -2599,11 +2599,11 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT25"
 msgid "Contact added"
-msgstr "Kontakt jo se pśidał"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT26"
 msgid "Contact left"
-msgstr "Kontakt jo spušćił"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_KNOCKING"
 msgid "knocking"
@@ -2611,19 +2611,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR1"
 msgid "call error1"
-msgstr "Telefonatowa zmólka 1"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR2"
 msgid "call error2"
-msgstr "Telefonatowa zmólka 2"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
 msgid "incoming message"
-msgstr "dochadajuca powěsć"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
-msgstr "dochadajuce kontakty"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_VOICEMAIL"
 msgid "incoming voice message"
@@ -2631,7 +2631,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_FILE"
 msgid "incoming file"
-msgstr "dochadajuca dataja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_AUTH"
 msgid "incoming request for my details"
@@ -2639,19 +2639,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_LOGIN"
 msgid "I sign in"
-msgstr "Pśizjawjam se"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_LOGOUT"
 msgid "I sign out"
-msgstr "Wótzjawjam se"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_OFFLINE"
 msgid "my contact goes offline"
-msgstr "Mój kontakt źo offline"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_IM_SENT"
 msgid "I send a message"
-msgstr "Sćelu powěsć"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_SEND_VM"
 msgid "I send a voice message"
@@ -2659,11 +2659,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_FT_COMPLETED"
 msgid "file has been sent"
-msgstr "dataja jo se pósłała"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_FT_FAILED"
 msgid "file sending failed"
-msgstr "słanje dataje jo se njeraźiło"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_USER_ADDED"
 msgid "person was added to the group call"
@@ -2675,23 +2675,23 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO1"
 msgid "no one"
-msgstr "nichten"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO2"
 msgid "people in my Contact list only"
-msgstr "jano luźe w mójich kontaktach"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO3"
 msgid "anyone"
-msgstr "kuždy"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RC_AD_VIDEO1"
 msgid "no one"
-msgstr "nichten"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RC_AD_VIDEO2"
 msgid "people in my Contact list only"
-msgstr "jano luźi z mójich kontaktow"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VIDEO_LB4"
 msgid "Show that I have video to..."
@@ -2699,7 +2699,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
-msgstr "Wšykne zuki slědk stajiś?"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_TEXT"
 msgid ""
@@ -2708,7 +2708,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_REMOVE"
 msgid "Remove"
-msgstr "Wótpóraś"
+msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR_REMOVE"
 msgid "Remove this sound file from your sounds library?"
@@ -2716,59 +2716,59 @@ msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR_TITLE2"
 msgid "Unsupported file format"
-msgstr "Njepódpěrany datajowy format"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_MOOD"
 msgid "Mood"
-msgstr "Techniskich problemow dla pšosym"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT10"
 msgid "New password can't be the same as the old password."
-msgstr "Nowe gronidło njamóžo to samske ako stare gronidło byś."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT11"
 msgid "You must be signed in to change your password."
-msgstr "Musyśo pśizjawjony byś, aby swójo gronidło změnił."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT12"
 msgid "You should change your password to protect your security."
-msgstr "Wy by měł swójo gronidło změniś, aby swóju wěstotu šćitał."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_CAP1"
 msgid "Password changed"
-msgstr "Gronidło jo se změniło"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_CAP2"
 msgid "Incorrect password"
-msgstr "Wopacne gronidło"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT27"
 msgid "Skype call forwarded."
-msgstr "Skype-telefonat dalej pósrědnjony."
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_FORWARDED"
 msgid "Call is forwarded"
-msgstr "Telefonat pósrědnjony"
+msgstr ""
 
 msgctxt "sF_AUTHQUERY_DEFAULT3"
 msgid "Enter a message to introduce yourself."
-msgstr "Zapódajśo powěsć, aby se pśedstajił."
+msgstr ""
 
 msgctxt "s_FVIDEOTEST_BUTTON_SETTINGS"
 msgid "Webcam settings"
-msgstr "Webcamnastajenja"
+msgstr ""
 
 msgctxt "sREMOVE_CONTACTS_PROMPT"
 msgid "Remove %d selected contacts?"
-msgstr "%d wubranych kontaktow wótpóraś?"
+msgstr ""
 
 msgctxt "sREMOVE_CONTACTS_TITLE"
 msgid "Remove contacts"
-msgstr "Kontakty wótpóraś"
+msgstr ""
 
 msgctxt "sREMOVE_CONTACTS_CAP"
 msgid "Remove contacts"
-msgstr "Kontakty wótpóraś"
+msgstr ""
 
 msgctxt "sUNSAFE_FILE"
 msgid ""
@@ -2778,15 +2778,15 @@ msgstr ""
 
 msgctxt "sUNSAFE_FILE_TITLE"
 msgid "File warning"
-msgstr "Datajowe warnowanje"
+msgstr ""
 
 msgctxt "sUNSAFE_FILE_CAP"
 msgid "File warning"
-msgstr "Datajowe warnowanje"
+msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_4"
 msgid "Unknown error"
-msgstr "Njeznata zmólka"
+msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_5"
 msgid "Video engine not initialized."
@@ -2821,39 +2821,39 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10502"
 msgid "Service unavailable"
-msgstr "Słužba njestoj k dispoziciji"
+msgstr ""
 
 msgctxt "sVIDEOMENU_START_SENDING"
 msgid "Turn Your Video On"
-msgstr "Wašo wideo zašaltowaś"
+msgstr ""
 
 msgctxt "sVIDEOMENU_STOP_SENDING"
 msgid "Stop My Video"
-msgstr "Mójo wideo zastajiś"
+msgstr ""
 
 msgctxt "sVIDEOMENU_HIDE_MYSELF"
 msgid "Hide My Video Automatically"
-msgstr "Mójo wideo awtomatiski schowaś"
+msgstr ""
 
 msgctxt "sVIDEOMENU_SETTINGS"
 msgid "Video Settings"
-msgstr "Wideonastajenja"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT1"
 msgid "Ringtone (Classic)"
-msgstr "Zwónjenje (klasiski)"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT2"
 msgid "Dial tone (Classic)"
-msgstr "Telefonowy zuk (klasiski)"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT3"
 msgid "Busy signal (Classic)"
-msgstr "Wobsajźeńske znamje (klasiski)"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT4"
 msgid "Call on hold (Classic)"
-msgstr "Telefonat w cakańskem rěźe (klasiski)"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT5"
 msgid "Resuming call (Classic)"
@@ -2877,7 +2877,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUND_TOO_BIG_CAPTION"
 msgid "Sound import failed"
-msgstr "Zukowe importěrowanje jo se njeraźiło"
+msgstr ""
 
 msgctxt "sDIALPAD"
 msgid "Call phones"
@@ -2885,15 +2885,15 @@ msgstr ""
 
 msgctxt "sF_SMS_STATUS_CREDIT"
 msgid "Not enough Skype Credit."
-msgstr "Njamaśo dosć kontowego plusa Skype."
+msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr "SMS-powěsć pósłaś"
+msgstr "Hantar Mesej SMS"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
-msgstr "SMS-nastajenja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_SMS"
 msgid "<b>SMS settings:</b> Send text messages directly from Skype"
@@ -2909,11 +2909,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_SEND_CODE"
 msgid "Send"
-msgstr "Pósłaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_SUBMIT_CODE"
 msgid "Submit"
-msgstr "Wótpósłaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB1"
 msgid "The verification code has been sent"
@@ -2921,7 +2921,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB2"
 msgid "Sending failed."
-msgstr "Słanje jo se njeraźiło"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB3"
 msgid "Try to resend confirmation code"
@@ -2929,7 +2929,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB4"
 msgid "The confirmation code is not valid"
-msgstr "Wobkšuśeński kode njejo płaśiwy"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB5"
 msgid "The code worked, your mobile number has been verified"
@@ -2949,19 +2949,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
-msgstr "Dalšne informacije wó SMS"
+msgstr ""
 
 msgctxt "sF_PAYMENTS_CAPTION"
 msgid "Skype Credit"
-msgstr "Kontowy plus Skype"
+msgstr ""
 
 msgctxt "sF_PAYMENTS_LOADING"
 msgid "Loading - %s"
-msgstr "Zacytujo se - %s"
+msgstr ""
 
 msgctxt "sF_PAYMENTS_ERROR_CAPTION"
 msgid "Check your connection"
-msgstr "Pśespytajśo swój zwisk"
+msgstr ""
 
 msgctxt "sF_PAYMENTS_ERROR_TEXT"
 msgid ""
@@ -2971,39 +2971,39 @@ msgstr ""
 
 msgctxt "sF_PAYMENTS_BTN_CLOSE"
 msgid "Close"
-msgstr "Zacyniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_HINT"
 msgid "Type in your mobile number"
-msgstr "Zapódajśo numer swójogo mobilnego telefona"
+msgstr ""
 
 msgctxt "sOUTLOOK_GROUP_TITLE"
 msgid "Microsoft Office Outlook"
-msgstr "Microsoft Office Outlook"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_SEARCH"
 msgid "Search"
-msgstr "Pytaś"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_SEARCH_AGAIN"
 msgid "Search again"
-msgstr "Dalej pytaś"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_NOT_FOUND"
 msgid "Sorry, string not found."
-msgstr "Znamuškowy rjeśazk njejo se bóžko namakał."
+msgstr ""
 
 msgctxt "sF_UPGRADE_FRM_CAPTION"
 msgid "Update"
-msgstr "Aktualizěrowaś"
+msgstr ""
 
 msgctxt "sF_UPGRADE_FORCED_CAPTION"
 msgid "Skype update required."
-msgstr "Skype-aktualizacija trěbna."
+msgstr ""
 
 msgctxt "sF_UPGRADE_NORMAL_CAPTION"
 msgid "Download a Skype update."
-msgstr "Aktualizaciju Skype ześěgnuś."
+msgstr ""
 
 msgctxt "sF_UPGRADE_LINK"
 msgid "View technical release notes for this update."
@@ -3033,15 +3033,15 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_INIT"
 msgid "Initializing..."
-msgstr "Inicializěrujo se..."
+msgstr ""
 
 msgctxt "sF_UPGRADE_PAUSED"
 msgid "Download paused"
-msgstr "Ześěgnjenje jo se zastajiło"
+msgstr ""
 
 msgctxt "sF_UPGRADE_DOWNLOAD_CAPTION"
 msgid "Downloading..."
-msgstr "Ześěgujo se..."
+msgstr ""
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TEXT"
 msgid "Please wait while an update for Skype is being downloaded."
@@ -3053,27 +3053,27 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_DOWNLOAD_FILESIZE"
 msgid "File size %d KB"
-msgstr "Datajowa wjelikosć %d KB"
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_DECIDELATER"
 msgid "Decide later"
-msgstr "Pózdźej rozsuźiś"
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_DOWNLOAD"
 msgid "Download"
-msgstr "Ześěgnuś"
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_HIDE"
 msgid "Hide"
-msgstr "Schowaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_UPDATES"
 msgid "Advanced settings"
-msgstr "Rozšyrjone nastajenja"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_UPDATES"
 msgid "<b>Advanced settings:</b> Skype updates and external programs"
@@ -3081,27 +3081,27 @@ msgstr ""
 
 msgctxt "sCALL_LB2_DROPPED"
 msgid "Call dropped"
-msgstr "Telefonat jo se skóncył"
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_OK"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_QUIT"
 msgid "Quit Skype"
-msgstr "Skype skóńcyś"
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_RETRY"
 msgid "Retry"
-msgstr "Hyšći raz wopytaś"
+msgstr ""
 
 msgctxt "sF_UPGRADE_FAILED_CAPTION"
 msgid "Problem during download"
-msgstr "Problem za ześěgnjenje"
+msgstr ""
 
 msgctxt "sF_UPGRADE_FAILED_TEXT1"
 msgid "Download of the Skype update failed."
-msgstr "Ześěgowanje aktualizacije Skype jo se njeraźiło."
+msgstr ""
 
 msgctxt "sF_UPGRADE_FAILED_TEXT2"
 msgid "to go online and download the upgrade manually."
@@ -3109,11 +3109,11 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FAILED_LINK"
 msgid "Click here"
-msgstr "How kliknuś"
+msgstr ""
 
 msgctxt "sF_SEARCH_RESULTS"
 msgid "Search results"
-msgstr "Pytańske wuslědki"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB10"
 msgid "You do not have enough Skype Credit to send a code"
@@ -3125,7 +3125,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_UPTODATE_CAPTION"
 msgid "Check for update"
-msgstr "Aktualizaciju pytaś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING"
 msgid ""
@@ -3134,11 +3134,11 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_TITLE"
 msgid "Close conversation window"
-msgstr "Rozgronowe wokno zacyniś"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_CAPTION"
 msgid "Close conversation window"
-msgstr "Rozgronowe wokno zacyniś"
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_NO_CAPABILITY"
 msgid "The other person is on a device that doesn't let them receive files."
@@ -3154,19 +3154,19 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_DELETE"
 msgid "Delete"
-msgstr "Lašowaś"
+msgstr ""
 
 msgctxt "sF_CONFIRM_RESET"
 msgid "Reset"
-msgstr "Slědk stajiś"
+msgstr ""
 
 msgctxt "sF_CONFIRM_QUIT"
 msgid "Quit"
-msgstr "Skóńcyś"
+msgstr ""
 
 msgctxt "sF_CONFIRM_LEAVE"
 msgid "Leave"
-msgstr "Spušćiś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_NR_INVALID"
 msgid ""
@@ -3184,11 +3184,11 @@ msgstr ""
 
 msgctxt "sF_INPUT_FORM_SAVE"
 msgid "Save"
-msgstr "Składowaś"
+msgstr ""
 
 msgctxt "sF_INPUT_FORM_NOTE"
 msgid "Enter phone number in %s (with area code)."
-msgstr "Zapodajśo telefonowy numer di %s (z pśedwólenim)."
+msgstr ""
 
 msgctxt "sF_INPUT_FORM_NOTE2"
 msgid "Enter the phone number with country or region code."
@@ -3216,7 +3216,7 @@ msgstr ""
 
 msgctxt "sF_EDITSKYPEOUT_CAPTION"
 msgid "Edit phone number"
-msgstr "Telefonowy numer wobźěłaś"
+msgstr ""
 
 msgctxt "sBUDDYMENU_EDIT"
 msgid "Edit Contact..."
@@ -3243,15 +3243,15 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
 msgid "You can't send a file to yourself."
-msgstr "Njamóžośo se dataju słaś."
+msgstr ""
 
 msgctxt "sPSTN_RES_6519"
 msgid "Sorry, call failed."
-msgstr "Telefonat jo se bóžko njeraźił."
+msgstr ""
 
 msgctxt "sPSTN_RES_10480"
 msgid "Phone network error"
-msgstr "Zmólka telefonoweje seśi"
+msgstr ""
 
 msgctxt "sF_UPGRADE_FORCED_TEXT3"
 msgid "Please contact your system administrator for more information."
@@ -3259,11 +3259,11 @@ msgstr ""
 
 msgctxt "sCALL_LB2_FAILED_GENERAL"
 msgid "Call failed"
-msgstr "Telefonat jo se njeraźił"
+msgstr ""
 
 msgctxt "sF_CONFIRM_COUNTRY_CAPTION"
 msgid "Start call"
-msgstr "Telefonat zachopiś"
+msgstr ""
 
 msgctxt "sF_CONFIRM_COUNTRY_HEADER"
 msgid "You are about to call a phone or mobile number"
@@ -3283,11 +3283,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_BIRTHDAY"
 msgid "has a birthday"
-msgstr "ma narodny źeń"
+msgstr ""
 
 msgctxt "sCHAT_TOOLBAR_FIND"
 msgid "Find:"
-msgstr "Pytaś:"
+msgstr ""
 
 msgctxt "sCHAT_TOOLBAR_FIND_HINT"
 msgid "Type the phrase to search for"
@@ -3299,11 +3299,11 @@ msgstr ""
 
 msgctxt "sGENERAL_BROWSER_ERROR"
 msgid "Unable to launch web browser."
-msgstr "Wobglědowak njedajo se startowaś."
+msgstr ""
 
 msgctxt "sF_LOGIN_WELCOME"
 msgid "Welcome to Skype."
-msgstr "Witajśo k Skype."
+msgstr ""
 
 msgctxt "sF_STRING_EDIT_TITLE"
 msgid "String edit"
@@ -3315,47 +3315,47 @@ msgstr ""
 
 msgctxt "sF_STRING_EDIT_BTN_OK"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sF_STRING_EDIT_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_TITLE"
 msgid "Language file editor"
-msgstr "Editor rěcneje dataje"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sBASIC_SMILEY"
 msgid "Smile"
-msgstr "Smjejkotaś e"
+msgstr ""
 
 msgctxt "sFROWNEY_SMILEY"
 msgid "Sad"
-msgstr "Tužny"
+msgstr ""
 
 msgctxt "sBIG_SMILEY"
 msgid "Laugh"
-msgstr "Smjaś se"
+msgstr ""
 
 msgctxt "sSUNGLASSES_SMILEY"
 msgid "Cool"
-msgstr "Cool"
+msgstr ""
 
 msgctxt "sSURPRISED_SMILEY"
 msgid "Surprised"
-msgstr "Załapjony"
+msgstr ""
 
 msgctxt "sWINK_SMILEY"
 msgid "Wink"
-msgstr "Zmyrknuś"
+msgstr ""
 
 msgctxt "sWINK_FROWNEY_SMILEY"
 msgid "Crying"
-msgstr "Płakajucy"
+msgstr ""
 
 msgctxt "sSWEATING_SMILEY"
 msgid "Sweating"
@@ -3367,7 +3367,7 @@ msgstr ""
 
 msgctxt "sKISS_SMILEY"
 msgid "Kiss"
-msgstr "Póšk"
+msgstr ""
 
 msgctxt "sTONGUE_OUT_SMILEY"
 msgid "Cheeky"
@@ -3383,7 +3383,7 @@ msgstr ""
 
 msgctxt "sSLEEPY_SMILEY"
 msgid "Sleepy"
-msgstr "Drěmaty"
+msgstr ""
 
 msgctxt "sDULL_SMILEY"
 msgid "Dull"
@@ -3395,7 +3395,7 @@ msgstr ""
 
 msgctxt "sEVILGRIN_SMILEY"
 msgid "Evil grin"
-msgstr "Šćěriś se"
+msgstr ""
 
 msgctxt "sTALKING_SMILEY"
 msgid "Talking"
@@ -3411,15 +3411,15 @@ msgstr ""
 
 msgctxt "sDOH_SMILEY"
 msgid "Doh!"
-msgstr "Doh!"
+msgstr ""
 
 msgctxt "sANGRY_SMILEY"
 msgid "Angry"
-msgstr "Pógóršny"
+msgstr ""
 
 msgctxt "sWASNTME_SMILEY"
 msgid "It wasn't me!"
-msgstr "Ja njejsom to był!"
+msgstr ""
 
 msgctxt "sPARTY_SMILEY"
 msgid "Party"
@@ -3431,7 +3431,7 @@ msgstr ""
 
 msgctxt "sMMM_SMILEY"
 msgid "mmmmm..."
-msgstr "mmmmm..."
+msgstr ""
 
 msgctxt "sNERDY_SMILEY"
 msgid "Nerdy"
@@ -3439,11 +3439,11 @@ msgstr ""
 
 msgctxt "sLIPSSEALED_SMILEY"
 msgid "My lips are sealed"
-msgstr "Mójej gubje stej zazyglowanej"
+msgstr ""
 
 msgctxt "sHI_SMILEY"
 msgid "Hi"
-msgstr "Witaj"
+msgstr ""
 
 msgctxt "sCALL_SMILEY"
 msgid "Call"
@@ -3451,11 +3451,11 @@ msgstr ""
 
 msgctxt "sDEVIL_SMILEY"
 msgid "Devil"
-msgstr "Cart"
+msgstr ""
 
 msgctxt "sANGEL_SMILEY"
 msgid "Angel"
-msgstr "Janźel"
+msgstr ""
 
 msgctxt "sENVY_SMILEY"
 msgid "Envy"
@@ -3463,7 +3463,7 @@ msgstr ""
 
 msgctxt "sWAIT_SMILEY"
 msgid "Wait"
-msgstr "Cakaś"
+msgstr ""
 
 msgctxt "sHUG_SMILEY"
 msgid "Hug"
@@ -3523,11 +3523,11 @@ msgstr ""
 
 msgctxt "sYES_SMILEY"
 msgid "Yes"
-msgstr "Jo"
+msgstr ""
 
 msgctxt "sNO_SMILEY"
 msgid "No"
-msgstr "Ně"
+msgstr ""
 
 msgctxt "sHANDSHAKE_SMILEY"
 msgid "Handshake"
@@ -3535,55 +3535,55 @@ msgstr ""
 
 msgctxt "sSKYPE_SMILEY"
 msgid "Skype"
-msgstr "Skype"
+msgstr ""
 
 msgctxt "sHEART_SMILEY"
 msgid "Heart"
-msgstr "Wutšoba"
+msgstr ""
 
 msgctxt "sBROKENHEART_SMILEY"
 msgid "Broken heart"
-msgstr "Złamana wutšoba"
+msgstr ""
 
 msgctxt "sMAIL_SMILEY"
 msgid "You have mail"
-msgstr "Maśo post"
+msgstr ""
 
 msgctxt "sFLOWER_SMILEY"
 msgid "Flower"
-msgstr "Kwětk"
+msgstr ""
 
 msgctxt "sRAINING_SMILEY"
 msgid "Raining"
-msgstr "Dešć"
+msgstr ""
 
 msgctxt "sSUN_SMILEY"
 msgid "Sun"
-msgstr "Słyńco"
+msgstr ""
 
 msgctxt "sTIME_SMILEY"
 msgid "Time"
-msgstr "Cas"
+msgstr ""
 
 msgctxt "sMUSIC_SMILEY"
 msgid "Music"
-msgstr "Muzika"
+msgstr ""
 
 msgctxt "sMOVIE_SMILEY"
 msgid "Movie"
-msgstr "Film"
+msgstr ""
 
 msgctxt "sPHONE_SMILEY"
 msgid "Phone"
-msgstr "Telefon"
+msgstr ""
 
 msgctxt "sCOFFEE_SMILEY"
 msgid "Coffee"
-msgstr "Kafej"
+msgstr ""
 
 msgctxt "sPIZZA_SMILEY"
 msgid "Pizza"
-msgstr "Pizza"
+msgstr ""
 
 msgctxt "sCASH_SMILEY"
 msgid "Cash"
@@ -3591,19 +3591,19 @@ msgstr ""
 
 msgctxt "sMUSCLE_SMILEY"
 msgid "Muscle"
-msgstr "Muskel"
+msgstr ""
 
 msgctxt "sCAKE_SMILEY"
 msgid "Cake"
-msgstr "Tykańc"
+msgstr ""
 
 msgctxt "sBEER_SMILEY"
 msgid "Beer"
-msgstr "Piwo"
+msgstr ""
 
 msgctxt "sDRINK_SMILEY"
 msgid "Drink"
-msgstr "Piśe"
+msgstr ""
 
 msgctxt "sDANCING_SMILEY"
 msgid "Dancing"
@@ -3615,7 +3615,7 @@ msgstr ""
 
 msgctxt "sSTAR_SMILEY"
 msgid "Star"
-msgstr "Gwězda"
+msgstr ""
 
 msgctxt "sMOONING_SMILEY"
 msgid "Mooning"
@@ -3623,7 +3623,7 @@ msgstr ""
 
 msgctxt "sFINGER_SMILEY"
 msgid "Finger"
-msgstr "Palc"
+msgstr ""
 
 msgctxt "sBANDIT_SMILEY"
 msgid "Bandit"
@@ -3631,7 +3631,7 @@ msgstr ""
 
 msgctxt "sDRUNK_SMILEY"
 msgid "Drunk"
-msgstr "Napity"
+msgstr ""
 
 msgctxt "sSMOKING_SMILEY"
 msgid "Smoking"
@@ -3663,7 +3663,7 @@ msgstr ""
 
 msgctxt "sTMI_SMILEY"
 msgid "Too much information"
-msgstr "Pśewjele informacijow"
+msgstr ""
 
 msgctxt "sSILENT_GUI_WARNING1"
 msgid "Another program is trying to put Skype in Silent Mode."
@@ -3691,7 +3691,7 @@ msgstr ""
 
 msgctxt "sF_STARTCOMCHAT_RBTN1"
 msgid "Anyone can post messages."
-msgstr "Kuždy móžo powěsći rozesłaś."
+msgstr ""
 
 msgctxt "sF_STARTCOMCHAT_RBTN2"
 msgid "Participants need permission to start posting."
@@ -3707,7 +3707,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_TITLE"
 msgid "Notification settings"
-msgstr "Powěźeńkowe nastajenja"
+msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_CAPTION"
 msgid "IM notification settings"
@@ -3715,19 +3715,19 @@ msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_BTN_OK"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_RB1"
 msgid "Notify me"
-msgstr "Dajśo mě powěsć"
+msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_RB2"
 msgid "Do not notify me"
-msgstr "Njedajśo mě powěsć"
+msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_RB3"
 msgid "Notify me only if these words are mentioned:"
@@ -3767,23 +3767,23 @@ msgstr ""
 
 msgctxt "sF_CHAT_PIC_CAPTION"
 msgid "Conversation picture"
-msgstr "Rozgronowy wobraz"
+msgstr ""
 
 msgctxt "sF_CHAT_PIC_LB_CAPTION"
 msgid "Conversation picture"
-msgstr "Rozgronowy wobraz"
+msgstr ""
 
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
-msgstr "Wobrazowa biblioteka"
+msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_TITLE"
 msgid "Privacy protection"
-msgstr "Šćit priwatnosći"
+msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_HEADER1"
 msgid "Do you receive unwanted calls?"
-msgstr "Sćo njewitane telefonaty dostał?"
+msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_HEADER2"
 msgid "Do you receive unwanted IM messages?"
@@ -3791,15 +3791,15 @@ msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_BTN_OK"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE1"
 msgid "Allow calls from everyone."
-msgstr "Telefonaty z kuždego dowóliś"
+msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE2"
 msgid "Allow IMs from everyone."
@@ -3807,7 +3807,7 @@ msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS1"
 msgid "Allow calls only from my contacts."
-msgstr "Jano telefonaty z mójich kontaktow dowóliś."
+msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS2"
 msgid "Allow IM from my contacts only."
@@ -3819,11 +3819,11 @@ msgstr ""
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
-msgstr "Na kupku zwóniś"
+msgstr ""
 
 msgctxt "sCHAT_MEMBER_JOINED"
 msgid "%s joined."
-msgstr "%s jo pśistupił."
+msgstr ""
 
 msgctxt "sCHAT_MEMBER_PROMOTED_TO_ADMIN"
 msgid "%s has been promoted to conversation host."
@@ -3831,15 +3831,15 @@ msgstr ""
 
 msgctxt "sCHAT_MEMBER_APPLIED"
 msgid "%s is waiting to join."
-msgstr "%s caka na pśistup."
+msgstr ""
 
 msgctxt "sCHAT_SETPICTURE"
 msgid "%s has changed the conversation picture."
-msgstr "%s jo rozgronowy wobraz změnił."
+msgstr ""
 
 msgctxt "sCHAT_SETGUIDELINES"
 msgid "%s has updated the conversation guidelines."
-msgstr "%s jo rozgronowe směrnice zaktualizěrował."
+msgstr ""
 
 msgctxt "sCHAT_STATUSMESSAGE_CONNECTING"
 msgid "Connecting to host, please wait."
@@ -3847,27 +3847,27 @@ msgstr ""
 
 msgctxt "sCHAT_MESSAGE_REMOVED"
 msgid "This message has been removed."
-msgstr "Toś ta powěsć jo se wótpórała."
+msgstr ""
 
 msgctxt "sCHAT_REMOVED_MESSAGE_TITLE"
 msgid "Removed by %s, %s"
-msgstr "Wótpórany wót %s, %s"
+msgstr ""
 
 msgctxt "sCHAT_EDITED_MESSAGE_TITLE"
 msgid "Edited by %s, %s"
-msgstr "Wobźěłany wót %s, %s"
+msgstr ""
 
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE"
 msgid "Are you sure you want to remove this message?"
-msgstr "Cośo toś tu powěsć napšawdu wótpóraś?"
+msgstr ""
 
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE_TITLE"
 msgid "Remove message?"
-msgstr "Powěsć wótpóraś?"
+msgstr ""
 
 msgctxt "sCHAT_COPY_LINK"
 msgid "Copy link location"
-msgstr "Městno wótkaza kopěrowaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_SMS_RATES"
 msgid "SMS destinations and rates"
@@ -3883,11 +3883,11 @@ msgstr ""
 
 msgctxt "sF_STARTCONF_PHONE_HINT_TEXT"
 msgid "Enter the local number in %s."
-msgstr "Zapódajśo městny numer do %s."
+msgstr ""
 
 msgctxt "sF_STARTCONF_PHONE_HINT_TEXT2"
 msgid "Enter the phone number with country or region code."
-msgstr "Zapódajśo telefonowy numer z pśedwólenim."
+msgstr ""
 
 msgctxt "sF_STARTCONF_ADD_NR_INVALID"
 msgid ""
@@ -3898,11 +3898,11 @@ msgstr ""
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
-msgstr "Kontakty"
+msgstr ""
 
 msgctxt "sCHAT_STATUSMESSAGE_PWD_REQUIRED"
 msgid "Password required"
-msgstr "Gronidło trěbne"
+msgstr ""
 
 msgctxt "sCHAT_STATUSMESSAGE_QUEUED"
 msgid "This public IM is full. Please try joining again later."
@@ -3931,11 +3931,11 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_BTN_CLOSE"
 msgid "Close"
-msgstr "Zacyniś"
+msgstr ""
 
 msgctxt "sF_CHAT_INFO_BTN_COPYLINK"
 msgid "Copy link to clipboard"
-msgstr "Wótkaz do mjazywótkłada kopěrowaś"
+msgstr ""
 
 msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
@@ -3943,7 +3943,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
-msgstr "Moderaciske pšawidła:"
+msgstr ""
 
 msgctxt "sF_CHAT_INFO_LB_LINK1"
 msgid "IM link:"
@@ -3955,7 +3955,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_RULES1"
 msgid "Everyone can read and post messages."
-msgstr "Kuždy móžo powěsći cytaś a słaś."
+msgstr ""
 
 msgctxt "sF_CHAT_INFO_RULES2"
 msgid "Participants need host's permission to start posting messages."
@@ -3978,7 +3978,7 @@ msgstr ""
 
 msgctxt "sCHAT_MENU_REMOVE_MESSAGE"
 msgid "Remove Message"
-msgstr "Powěsć wótpóraś"
+msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_11"
 msgid "Cannot show video. The camera may be in use."
@@ -3986,7 +3986,7 @@ msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_12"
 msgid "You need Windows 7, Vista or XP to use this feature."
-msgstr "Trjebaśo Windows 7, Vista abo XP, aby toś tu funkciju wužywał."
+msgstr ""
 
 msgctxt "sF_CALL_QLT_WINDOW_TITLE"
 msgid "Call quality feedback"
@@ -3998,11 +3998,11 @@ msgstr ""
 
 msgctxt "sF_CALL_QLT_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sF_CALL_QLT_BTN_FINISH"
 msgid "Finish"
-msgstr "Dokóńcyś"
+msgstr ""
 
 msgctxt "sF_CALL_QLT_BTN_SEND_FEEDBACK"
 msgid "Send feedback"
@@ -4026,7 +4026,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_WRITE"
 msgid "Error. Can't save the file."
-msgstr "Zmólka. Dataja njedajo se składowaś."
+msgstr ""
 
 msgctxt "sCHAT_PASSWORD_PROMPT"
 msgid "Password required for this IM."
@@ -4038,15 +4038,15 @@ msgstr ""
 
 msgctxt "sCHAT_PASSWORD_LABEL"
 msgid "Password:"
-msgstr "Gronidło:"
+msgstr ""
 
 msgctxt "sACL_DISCONNECT"
 msgid "Disconnect"
-msgstr "Zwisk pśetergnuś"
+msgstr ""
 
 msgctxt "sACL_DISCONNECTING"
 msgid "Disconnecting"
-msgstr "Zwisk se pśetergnjo"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_TYPING"
 msgid "Show when I am typing"
@@ -4060,11 +4060,11 @@ msgstr ""
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
-msgstr "%s telefoněrujo"
+msgstr "%s memanggil"
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
-msgstr "Mikrofon nimy šaltowaś"
+msgstr "Senyapkan mikrofon anda"
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
@@ -4092,7 +4092,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
-msgstr "Warnowanja a powěsći"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
@@ -4104,7 +4104,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SAVEAS_FILTER"
 msgid "Skype language files"
-msgstr "Rěcne dataje Skype"
+msgstr ""
 
 msgctxt "sCALL_IS_FORWARDED"
 msgid "Your call is being forwarded free of charge. Please wait."
@@ -4116,7 +4116,7 @@ msgstr ""
 
 msgctxt "sCALL_QUALITY_CALL_DROPPED"
 msgid "Call dropped."
-msgstr "Telefonat jo se skóncył."
+msgstr ""
 
 msgctxt "sCALL_QUALITY_CANT_HEAR_CALLER"
 msgid "Could not hear the other caller."
@@ -4144,11 +4144,11 @@ msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_DELETE"
 msgid "Delete"
-msgstr "Lašowaś"
+msgstr ""
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TITLE"
 msgid "Image file corrupted"
-msgstr "Wobrazowa dataja jo wobškóźona"
+msgstr ""
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TEXT"
 msgid "Image file is corrupted and can't be used."
@@ -4192,19 +4192,19 @@ msgctxt "sERROR_HINT_9502"
 msgid ""
 "You must <a href=\"skype:?payments\">purchase Skype Credit</a> to call "
 "landlines or mobiles."
-msgstr "Musyśo <a href=\"skype:?payments\">kontowy plus Skype kupiś</a>, aby na twardo instalěrowane abo mobilne telefony zwóniś."
+msgstr ""
 
 msgctxt "sPSTN_RES_9502"
 msgid "You need Skype Credit."
-msgstr "Trjebaśo kontowy plus Skype."
+msgstr ""
 
 msgctxt "sF_OPTIONS_PRIVACY_SETTINGS"
 msgid "Privacy settings"
-msgstr "Nastajenja priwatnosći"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BLOCKED_USERS"
 msgid "Blocked contacts"
-msgstr "Blokěrowane kontakty"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_APPEARANCE"
 msgid "IM appearance"
@@ -4237,7 +4237,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LB_LANGUAGE"
 msgid "Set program language to"
-msgstr "Programowu rěc stajiś do"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VOLUME_LOW"
 msgid "Low"
@@ -4257,11 +4257,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SHOW_ADVANCED_OPTIONS"
 msgid "Show advanced options"
-msgstr "Rozšyrjone nastajenja pokazaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_ANYONE_CAN_CONTACT"
 msgid "Allow anyone to contact me"
-msgstr "Kuždemu dowóliś, se ze mnu do zwiska stajiś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_ONLY_CONTACT_LIST"
 msgid "Only allow people in my Contact list to contact me"
@@ -4273,19 +4273,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SHOW_BASIC_OPTIONS"
 msgid "Show basic options"
-msgstr "Zakładne nastajenja pokazaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RESET_DEFAULT"
 msgid "Reset to defaults"
-msgstr "Na standardne gódnoty slědk stajiś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SHOW_EXAMPLE"
 msgid "Show an example"
-msgstr "Pśikład pokazaś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CALL_ANYONE"
 msgid "Allow anyone to call me"
-msgstr "Kuždemu dowóliś, na mnjo zwóniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CALL_BUDDY"
 msgid "Only allow people in my Contact list to call me"
@@ -4305,7 +4305,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CALLS"
 msgid "Calls"
-msgstr "Telefonaty"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_BUY_WEBCAM"
 msgid "Buy a webcam from the Skype shop"
@@ -4316,11 +4316,11 @@ msgid ""
 "Need help? See the <a href=\"skype:?go#help.guide.callwithvideo\">guide to "
 "setting up a webcam</a> or the <a href=\"skype:?go#help.faq.video\">FAQ "
 "section</a>"
-msgstr "Trjebaśo pomoc? Glejśo <a href=\"skype:?go#help.guide.callwithvideo\">směrnicu za zarědowanje webcama</a> or the <a href=\"skype:?go#help.faq.video\">Ceste pšašanja</a>"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TAKE_SNAPSHOT"
 msgid "Change your profile picture"
-msgstr "Waš profilowy wobraz změniś"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_INFO"
 msgid ""
@@ -4379,7 +4379,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8a"
 msgid "Skype Credit"
-msgstr "Kontowy plus Skype"
+msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8b"
 msgid "or a subscription to forward calls"
@@ -4429,7 +4429,7 @@ msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_SAVE"
 msgid "Save As"
-msgstr "Składowaś ako"
+msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_SAVE_ERROR"
 msgid "Source file is invalid or does not exist"
@@ -4437,11 +4437,11 @@ msgstr ""
 
 msgctxt "sF_USERINFO_SERTIFIED_HINT"
 msgid "This is a business contact."
-msgstr "To jo słužbny kontakt."
+msgstr ""
 
 msgctxt "sF_ADDFRIEND_SERTIFIED_HINT"
 msgid "This is a business contact."
-msgstr "To jo słužbny kontakt."
+msgstr ""
 
 msgctxt "sTOOLTIP_CHAT_THUMB"
 msgid "Play video %s"
@@ -4449,15 +4449,15 @@ msgstr ""
 
 msgctxt "sVIDEOMENU_TAKE_SNAPSHOT"
 msgid "Take a Picture"
-msgstr "Wobraz wótmólowaś"
+msgstr ""
 
 msgctxt "sF_USERINFO_IMG_SERTIFIED"
 msgid "Business contact"
-msgstr "Słužbny kontakt"
+msgstr ""
 
 msgctxt "sF_ADDFRIEND_IMG_SERTIFIED"
 msgid "Business contact"
-msgstr "Słužbny kontakt"
+msgstr ""
 
 msgctxt "sCALL_LB2_FAILED_COMMERCIAL_CONTACT"
 msgid "Contact can only receive IMs."
@@ -4473,7 +4473,7 @@ msgstr ""
 
 msgctxt "sCHAT_EDIT_MESSAGE"
 msgid "Edit Message"
-msgstr "Powěsć wobźěłaś"
+msgstr ""
 
 msgctxt "sCALL_ALERT_EXAMPLE"
 msgid "This is an example of a call alert"
@@ -4481,11 +4481,11 @@ msgstr ""
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr "Telefonat skóńcyś"
+msgstr "Tamatkan Panggilan"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
-msgstr "Dalšne luźe pśidaś"
+msgstr ""
 
 msgctxt "sF_STARTSEND_SELECTED_CONTACTS_LABEL"
 msgid "Contacts to send"
@@ -4493,7 +4493,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
-msgstr "%s z %s"
+msgstr ""
 
 msgctxt "sFILETRANSFER_MULTI_FAILED"
 msgid "Failed"
@@ -4501,7 +4501,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_FILE_COUNT"
 msgid "%d files"
-msgstr "%d datajow"
+msgstr ""
 
 msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS1"
 msgid "Call Forwarding Options"
@@ -4539,23 +4539,23 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TOO_LONG"
 msgid "> 24 hours"
-msgstr "> 24 góźinow"
+msgstr ""
 
 msgctxt "sZAPCONTACT_HOME_PHONE"
 msgid "Home"
-msgstr "Priwatny telefon"
+msgstr ""
 
 msgctxt "sZAPCONTACT_OFFICE_PHONE"
 msgid "Office"
-msgstr "Słužbny telefon"
+msgstr ""
 
 msgctxt "sZAPCONTACT_MOBILE_PHONE"
 msgid "Mobile"
-msgstr "Mobilny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_NONE"
 msgid "none"
-msgstr "žeden"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DUMMYFULL"
 msgid ""
@@ -4575,27 +4575,27 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
-msgstr "Akceptěrowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADD"
 msgid "Add people"
-msgstr "Luźe pśidaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADD2"
 msgid "Add"
-msgstr "Pśidaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDNUMBER"
 msgid "Add phone number"
-msgstr "Telefonowy numer pśidaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDMYNUMBER"
 msgid "Add my number"
-msgstr "Mój telefonowy numer pśidaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
-msgstr "Kontaktam pśidaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACT"
 msgid "Add a contact"
@@ -4603,15 +4603,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTMENU"
 msgid "All contacts"
-msgstr "Wšykne kontakty"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
-msgstr "Wšykne kontaktam pśidaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDSKYPEOUT"
 msgid "Save number in Contacts"
-msgstr "Numer w kontaktach składowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -4619,7 +4619,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
-msgstr "Kontaktam pśidaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
@@ -4635,51 +4635,51 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ALLOW"
 msgid "Allow"
-msgstr "Dowóliś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ALLOWNOT"
 msgid "Do not allow"
-msgstr "Njedowóliś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
-msgstr "Pśiwześ"
+msgstr "Jawab"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
-msgstr "Z wideo wótegroniś"
+msgstr "Jawab dengan video"
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr "Akceptěrowaś"
+msgstr "Terima"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
-msgstr "Awdionastajenja"
+msgstr ""
 
 msgctxt "sZAPBUTTON_BACK"
 msgid "Back"
-msgstr "Slědk"
+msgstr ""
 
 msgctxt "sZAPBUTTON_BACKGSW"
 msgid "Back"
-msgstr "Slědk"
+msgstr ""
 
 msgctxt "sZAPBUTTON_BLOCK"
 msgid "Block"
-msgstr "Blokěrowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_BUYCREDIT"
 msgid "Buy Skype Credit"
-msgstr "Kontowy plus Skype kupiś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_BUYSUBSCRIPTION"
 msgid "Buy a subscription"
-msgstr "Abonement kupiś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
-msgstr "Zazwóniś"
+msgstr "Panggil"
 
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
@@ -4687,7 +4687,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLWHICH"
 msgid "Call"
-msgstr "Zazwóniś"
+msgstr "Panggil"
 
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
@@ -4719,95 +4719,95 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_WEBCAM_INACTIVE"
 msgid "Webcam"
-msgstr "Webcam"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_WEBCAM_GOOD"
 msgid "Webcam"
-msgstr "Webcam"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_WEBCAM_AVERAGE"
 msgid "Webcam"
-msgstr "Webcam"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_WEBCAM_POOR"
 msgid "Webcam"
-msgstr "Webcam"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_INACTIVE"
 msgid "Microphone"
-msgstr "Mikrofon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_GOOD"
 msgid "Microphone"
-msgstr "Mikrofon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_AVERAGE"
 msgid "Microphone"
-msgstr "Mikrofon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_POOR"
 msgid "Microphone"
-msgstr "Mikrofon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_INACTIVE"
 msgid "Speaker"
-msgstr "Głosnik"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_GOOD"
 msgid "Speaker"
-msgstr "Głosnik"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_AVERAGE"
 msgid "Speaker"
-msgstr "Głosnik"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_POOR"
 msgid "Speaker"
-msgstr "Głosnik"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_INACTIVE"
 msgid "Computer"
-msgstr "Kompjuter"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_GOOD"
 msgid "Computer"
-msgstr "Kompjuter"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_AVERAGE"
 msgid "Computer"
-msgstr "Kompjuter"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_POOR"
 msgid "Computer"
-msgstr "Kompjuter"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_CONNECTION_INACTIVE"
 msgid "Connection"
-msgstr "Zwisk"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_CONNECTION_GOOD"
 msgid "Connection"
-msgstr "Zwisk"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_CONNECTION_AVERAGE"
 msgid "Connection"
-msgstr "Zwisk"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_CONNECTION_POOR"
 msgid "Connection"
-msgstr "Zwisk"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_SHOW"
 msgid "Show problems"
-msgstr "Problemy pokazaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_HIDE"
 msgid "Hide problems"
-msgstr "Problemy schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_PLAY"
 msgid "Play"
-msgstr "Wótgraś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GIVEFEEDBACK"
 msgid "Give feedback"
@@ -4819,47 +4819,47 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLQUALITY"
 msgid "Call Quality"
-msgstr "Kwalita telefonata"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLQUALITYAVERAGE"
 msgid "Call Quality Average"
-msgstr "Pśerězna kwalita telefonata"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLQUALITYBAD"
 msgid "Call Quality Bad"
-msgstr "Špatna kwalita telefonata"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLQUALITYINFO"
 msgid "Call Quality"
-msgstr "Kwalita telefonata"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLQUALITYWARNING"
 msgid "Call Quality Warning"
-msgstr "Warnowanje kwality telefonata"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLQUALITYERROR"
 msgid "Call Quality Error"
-msgstr "Zmólka kwality telefonata"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_5STAR"
 msgid "*****"
-msgstr "*****"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_4STAR"
 msgid "****"
-msgstr "****"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_3STAR"
 msgid "***"
-msgstr "***"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_2STAR"
 msgid "**"
-msgstr "**"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_1STAR"
 msgid "*"
-msgstr "*"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLPHONES"
 msgid "Call phones"
@@ -4867,7 +4867,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CANCEL"
 msgid "Cancel"
-msgstr "Pśetergnuś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
@@ -4875,7 +4875,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SUBMITPASSWORD"
 msgid "Submit"
-msgstr "Wótpósłaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CANCELVOICEMAIL"
 msgid "Cancel voice message"
@@ -4899,7 +4899,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
-msgstr "Zacyniś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSEONWHITE"
 msgid "Close"
@@ -4911,15 +4911,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSEEC"
 msgid "Close"
-msgstr "Zacyniś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSEGSW"
 msgid "Close"
-msgstr "Zacyniś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONS"
 msgid "Conversations"
-msgstr "Rozgrona"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATION"
 msgid "Display the conversation here instead"
@@ -4931,67 +4931,67 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
-msgstr "Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONSHOME"
 msgid "Home"
-msgstr "Priwatny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONSMOBILE"
 msgid "Mobile"
-msgstr "Mobilny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONSPHONE"
 msgid "Phone"
-msgstr "Telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONSOFFICE"
 msgid "Office"
-msgstr "Słužbny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
-msgstr "Kontakty"
+msgstr "Kenalan"
 
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
-msgstr "Kontakty"
+msgstr "Kenalan"
 
 msgctxt "sZAPBUTTON_CONTACTSARROW"
 msgid "Contacts"
-msgstr "Kontakty"
+msgstr "Kenalan"
 
 msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
 msgid "Selected contacts"
-msgstr "Wubrane kontakty"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
-msgstr "Kupku załožyś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
-msgstr "Wótpokazaś"
+msgstr "Nafi"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
-msgstr "Lašowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DELETEALERTMESSAGE"
 msgid "Delete"
-msgstr "Lašowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DELETEHIDDEN"
 msgid "Delete"
-msgstr "Lašowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DELETEINVERT"
 msgid "Delete"
-msgstr "Lašowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DETAILS"
 msgid "Details"
-msgstr "Drobnostki"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
@@ -5075,15 +5075,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DOWNLOAD"
 msgid "Download"
-msgstr "Ześěgnuś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DONT"
 msgid "Don't use for Skype"
-msgstr "Za Skype njewužywaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DONTSHOW"
 msgid "Don't show again"
-msgstr "Wěcej se njepokazaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_REPLY"
 msgid "Reply"
@@ -5091,7 +5091,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DIALADRECENT"
 msgid "Recent numbers"
-msgstr "Aktualne numery"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DIALPADSHOW"
 msgid "Show dial pad"
@@ -5103,23 +5103,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HIDE"
 msgid "Hide"
-msgstr "Schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FIVE"
 msgid "5"
-msgstr "5"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FILE"
 msgid "File"
-msgstr "Dataja"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FULLSCREEN"
 msgid "Full screen"
-msgstr "Połna wobrazowka"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FULLSCREENEXIT"
 msgid "Exit fullscreen"
-msgstr "Połnu wobrazowku spušćiś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_POPOUTEXIT"
 msgid "Exit popout mode"
@@ -5131,23 +5131,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_FILETRANSFER"
 msgid "File Transfer"
-msgstr "Datajowe pśenjasenje"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CHATBOOK"
 msgid "Facebook"
-msgstr "Facebook"
+msgstr ""
 
 msgctxt "sZAPBUTTON_TRANSFERCALL"
 msgid "Transfer this call"
-msgstr "Toś ten telefonat pśenosowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_EDIT"
 msgid "Edit"
-msgstr "Wobźěłaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_EXITGSW"
 msgid "Exit this guide"
-msgstr "Toś ten wjednik spušćiś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FINDOUTMORE"
 msgid "Find out more"
@@ -5155,55 +5155,55 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_FINDCONTACT"
 msgid "Find this person"
-msgstr "Toś tu wósobu pytaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FINDCONTACTSKYPE"
 msgid "Find this person on Skype"
-msgstr "Toś tu wósobu na Skype pytaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLNUMBER"
 msgid "Call this number"
-msgstr "Na toś ten numer zwóniś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SHOWHISTORY"
 msgid "Show history"
-msgstr "Historiju pokazaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HIDEHISTORY"
 msgid "Hide history"
-msgstr "Historiju schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HIDECONTACTLIST"
 msgid "Hide Contacts"
-msgstr "Kontakty schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SHOWCONTACTLIST"
 msgid "Show Contacts"
-msgstr "Kontakty pokazaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HISTORYFILTER"
 msgid "All messages"
-msgstr "Wšykne powěsći"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FOUR"
 msgid "4"
-msgstr "4"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FINDFRIENDS"
 msgid "Find friends"
-msgstr "Pśijaśele pytaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FINDFRIENDSNEW"
 msgid "FindFriends"
-msgstr "Pśijaśele pytaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FINDNEXT"
 msgid "<ks>N</ks>ext"
-msgstr "<ks>D</ks>alej"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FINDPREVIOUS"
 msgid "<ks>P</ks>revious"
-msgstr "<ks>S</ks>lědk"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "My account"
@@ -5215,11 +5215,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_GALLERY"
 msgid "Gallery"
-msgstr "Galerija"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GALLERYSHARE"
 msgid "Share"
-msgstr "Źěliś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GALLERYSNAPSHOT"
 msgid "Snapshot"
@@ -5227,11 +5227,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_GENERAL"
 msgid "General"
-msgstr "Powšykne"
+msgstr ""
 
 msgctxt "sZAPBUTTON_UNREADMESSAGES"
 msgid "%d new messages"
-msgstr "%d nowych powěsćow"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GETPREMIUMVIDEO"
 msgid "Get group video"
@@ -5239,7 +5239,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_UPGRADEPREMIUMVIDEO"
 msgid "Upgrade now"
-msgstr "Něnto aktualizěrowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SENDFREEUPGRADELINK"
 msgid "Send upgrade link"
@@ -5247,19 +5247,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_GETSTARTED"
 msgid "<b><font type=\"Arial\">Get started</font></b>"
-msgstr "<b><font type=\"Arial\">Prědne kšace</font></b>"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GROUPCALLSKYPE"
 msgid "Skype"
-msgstr "Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GROUPCALLHOME"
 msgid "Home"
-msgstr "Priwatny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GROUPCALLMOBILE"
 msgid "Mobile"
-msgstr "Mobilny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GROUPCALLOFFICE"
 msgid "Office"
@@ -5287,59 +5287,59 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLTRANSFEROFFICE"
 msgid "Office"
-msgstr "Słužbny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
-msgstr "Drugi"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
-msgstr "Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPEOPLEHOME"
 msgid "Home"
-msgstr "Priwatny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPEOPLEMOBILE"
 msgid "Mobile"
-msgstr "Mobilny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPEOPLEOFFICE"
 msgid "Office"
-msgstr "Słužbny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPEOPLEOTHER"
 msgid "Other"
-msgstr "Drugi"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_ACTIVE"
 msgid "Show contacts"
-msgstr "Kontakty pokazaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_INACTIVE"
 msgid "Show contacts"
-msgstr "Kontakty pokazaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_ACTIVE"
 msgid "Hide contacts"
-msgstr "Kontakty schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_INACTIVE"
 msgid "Hide contacts"
-msgstr "Kontakty schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SAVEGROUP"
 msgid "Save group in Contacts"
-msgstr "Kupku w kontaktach składowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
-msgstr "Telfonat skóńcyś"
+msgstr "Tamatkan panggilan"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr "Telefonat"
+msgstr "Panggilan"
 
 msgctxt "sZAPBUTTON_INSTANTMESSAGE"
 msgid "Instant Message"
@@ -5347,15 +5347,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HISTORYSLIDER"
 msgid "Last message"
-msgstr "Slědna powěsć"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HIDEDETAILS"
 msgid "Hide details"
-msgstr "Drobnostki schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
-msgstr "Powěsći schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HOLD"
 msgid "Hold call"
@@ -5363,7 +5363,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr "Priwatny telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -5379,15 +5379,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_INFOALT"
 msgid "Info"
-msgstr "Informacije"
+msgstr ""
 
 msgctxt "sZAPBUTTON_INFO"
 msgid "Info"
-msgstr "Informacije"
+msgstr ""
 
 msgctxt "sZAPBUTTON_IGNORE"
 msgid "Ignore"
-msgstr "Ignorěrowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_JOINCALL"
 msgid "Join call"
@@ -5399,7 +5399,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
-msgstr "Dalšne informacije"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SEEHOW"
 msgid "See how"
@@ -5411,7 +5411,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
-msgstr "Lokalizěrowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MAKEDEMOCALL"
 msgid "Make test call"
@@ -5419,7 +5419,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MENU"
 msgid "Menu"
-msgstr "Meni"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MPV_LEFT"
 msgid "MPV left"
@@ -5439,19 +5439,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
-msgstr "Emotikon wubraś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEFROWN"
 msgid "Choose emoticon"
-msgstr "Emotikon wubraś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEFILE"
 msgid "Send file"
-msgstr "Dataju pósłaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESHARE"
 msgid "Share"
-msgstr "Źěliś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEEXTRAS"
 msgid "Extras"
@@ -5463,11 +5463,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESMS_ON"
 msgid "SMS"
-msgstr "SMS"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESMSDROPDOWN"
 msgid "SMS"
-msgstr "SMS"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEIM"
 msgid "IM"
@@ -5479,7 +5479,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr "pśez Skype"
+msgstr "melalui Skype"
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5499,7 +5499,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
-msgstr "Wušaltowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MYSELFTOP"
 msgid ""
@@ -5511,7 +5511,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
-msgstr "Zašaltowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SMSSELECTFROM"
 msgid "Set your caller ID"
@@ -5523,11 +5523,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_NEW"
 msgid "New"
-msgstr "Nowy"
+msgstr ""
 
 msgctxt "sZAPBUTTON_NEXT"
 msgid "Next"
-msgstr "Dalej"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSEWS"
 msgid "Close this welcome screen and start using Skype"
@@ -5535,67 +5535,67 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_PAGENEXT"
 msgid "Next page"
-msgstr "Dalšny bok"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PAGEPREVIOUS"
 msgid "Previous page"
-msgstr "Pjerwjejšny bok"
+msgstr ""
 
 msgctxt "sZAPBUTTON_NEXTINACTIVE"
 msgid "Next"
-msgstr "Dalej"
+msgstr ""
 
 msgctxt "sZAPBUTTON_NEXTPAGE"
 msgid "Next page"
-msgstr "Dalšny bok"
+msgstr ""
 
 msgctxt "sZAPBUTTON_OTHERACTIONS"
 msgid "Other call functions"
-msgstr "Druge telefonowe funkcije"
+msgstr ""
 
 msgctxt "sZAPBUTTON_OKAY"
 msgid "Okay"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sZAPBUTTON_OKUSEDEVICE"
 msgid "OK"
-msgstr "W pórěźe"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ONE"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
-msgstr "Dataju wócyniś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_OPTIONS"
 msgid "Options"
-msgstr "Nastajenja"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PAUSE"
 msgid "Pause"
-msgstr "Zastajiś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PAUSEUPGRADEDOWNLOAD"
 msgid "Pause download"
-msgstr "Ześěgnjenje zastajiś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PHONES"
 msgid "Call"
-msgstr "Zazwóniś"
+msgstr "Panggilan"
 
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
-msgstr "Wótgraś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PLAYVIDEO"
 msgid "Play video"
-msgstr "Wideo wótgraś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PREVIEW"
 msgid "Preview"
-msgstr "Pśeglěd"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PREVIOUS"
 msgid "Previous"
@@ -5607,43 +5607,43 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_PREVIOUSPAGE"
 msgid "Previous page"
-msgstr "Pjerwjejšny bok"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILE"
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILENOTAUTHORIZED"
 msgid "Contact not authorized"
-msgstr "Kontakt njejo awtorizěrowany"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILEGENERAL"
 msgid "General info"
-msgstr "Powšykne informacije"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILEHIDE"
 msgid "Hide profile"
-msgstr "Profil schowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILEMIN"
 msgid "Minimize Profile"
-msgstr "Profil miniměrowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILEMINCENT"
 msgid "Minimize Profile"
-msgstr "Profil miniměrowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILEMAX"
 msgid "Maximize Profile"
-msgstr "Profil maksiměrowaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILENEXT"
 msgid "Next page"
-msgstr "Pśiducy bok"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILEAVATAR"
 msgid "Show avatar"
-msgstr "Awatar pokazaś"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILENUMBER"
 msgid "Numbers"
@@ -5707,7 +5707,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REJECT"
 msgid "Reject"
-msgstr "Wótpokazaś"
+msgstr "Tolak"
 
 msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
@@ -5723,11 +5723,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr "Z telefonatom pókšacowaś"
+msgstr "Sambung semula panggilan"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr "Ze ześěgnjenim pókšacowaś"
+msgstr "Sambung semula muat turun"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -5771,47 +5771,47 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
-msgstr "Wšykno składowaś"
+msgstr "Simpan semua"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
-msgstr "Kontakt składowaś"
+msgstr "Simpan Kenalan"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
-msgstr "Wšykno pśetergnuś"
+msgstr "Batal semua"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
-msgstr "Składowaś ako"
+msgstr "Simpan sebagai"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
-msgstr "Mój wideo pokazaś"
+msgstr "Lihat video saya"
 
 msgctxt "sZAPBUTTON_HIDEVIDEO"
 msgid "Hide my video"
-msgstr "Mój wideo schowaś"
+msgstr "Sembunyi video saya"
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr "Dataju pósłaś"
+msgstr "Hantar fail"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Kontakty pósłaś..."
+msgstr "Hantar Kenalan..."
 
 msgctxt "sZAPBUTTON_SENDMESSAGE"
 msgid "Send message"
-msgstr "Powěsć pósłaś"
+msgstr "Hantar mesej"
 
 msgctxt "sZAPBUTTON_SENDSMS"
 msgid "Send SMS"
-msgstr "SMS pósłaś"
+msgstr "Hantar SMS"
 
 msgctxt "sZAPBUTTON_SEARCH"
 msgid "Search"
-msgstr "Pytaś"
+msgstr "Gelintar"
 
 msgctxt "sZAPBUTTON_SEARCHHISTORY"
 msgid "Search History"
@@ -5847,7 +5847,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTS"
 msgid "Add to Contacts"
-msgstr "Kontaktam pśidaś"
+msgstr "Tambah ke Kenalan"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5867,11 +5867,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
-msgstr "Pósłaś"
+msgstr "Hantar"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr "Gótowo"
+msgstr "Selesai"
 
 msgctxt "sZAPBUTTON_SEARCHAGAIN"
 msgid "Search again"
@@ -5923,7 +5923,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
-msgstr "SMS pósłaś"
+msgstr "Hantar SMS"
 
 msgctxt "sZAPBUTTON_SOUNDOUT"
 msgid "<center>Press Me</center>"
@@ -5931,23 +5931,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr "Wideotelefonat"
+msgstr "Panggilan video"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr "Wideotelefonat"
+msgstr "Panggilan video"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr "Wideopowěsć"
+msgstr "Mesej Video"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr "Wideopowěsć pósłaś"
+msgstr "Hantar Mesej Video"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr "Wideopowěsć wótegraś"
+msgstr "Main mesej video"
 
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
@@ -6003,11 +6003,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIEWMESSAGES"
 msgid "View older messages"
-msgstr "Starše powěsći se woglědaś"
+msgstr "Lihat mesej lebih lama"
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Profil pokazaś"
+msgstr "Lihat Profil"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View account"
@@ -6023,23 +6023,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr "Wideo startowaś"
+msgstr "Hidupkan video"
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr "Wideo skóńcyś"
+msgstr "Matikan video"
 
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr "Wideo"
+msgstr "Video"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr "Wideo skóncyś"
+msgstr "Matikan video"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr "Z wideo pókšacowaś"
+msgstr "Kekalkan video dihidupkan"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -6055,7 +6055,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
-msgstr "Wobrazowki źěliś..."
+msgstr "Kongsi skrin..."
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
 msgid "Close"
@@ -6353,11 +6353,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_INCOMING"
 msgid "Call from %s"
-msgstr "Telefonat wót %s"
+msgstr "Panggilan daripada %s"
 
 msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
-msgstr "Telefonat na %s"
+msgstr "Panggilan kepada %s"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
@@ -6715,15 +6715,15 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr "Telefonat wót %s zapasony."
+msgstr "Panggilan terlepas daripada %s."
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
-msgstr "Telefonat wót %s, traśe %s."
+msgstr "Panggilan daripada %s, jangkamasa %s."
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr "Telefonat na %s, traśe %s."
+msgstr "Panggilan kepada %s, jangkamasa %s."
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -6802,7 +6802,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Status online"
+msgstr "Status Luar Talian"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -6834,7 +6834,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
-msgstr "Kontakty"
+msgstr "Kenalan"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
@@ -6858,7 +6858,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Status online"
+msgstr "Status Atas Talian"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -6954,23 +6954,23 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
-msgstr "Telefonat"
+msgstr "Panggil"
 
 msgctxt "sMAINMENU_CALL_START"
 msgid "Call"
-msgstr "Zazwóniś"
+msgstr "Panggil"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr "Wideotelefonat"
+msgstr "Panggilan Video"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
-msgstr "Pśiwześ"
+msgstr "Jawab"
 
 msgctxt "sMAINMENU_CALL_IGNORE"
 msgid "Ignore"
-msgstr "Ignorěrowaś"
+msgstr "Abai"
 
 msgctxt "sMAINMENU_CALL_MUTE"
 msgid "Mute Microphone"
@@ -7018,15 +7018,15 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
-msgstr "Naglěd"
+msgstr "Lihat"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
-msgstr "Kontakty"
+msgstr "Kenalan"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr "Nejnowše"
+msgstr "Baru-baru Ini"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
@@ -7038,7 +7038,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr "Rědy"
+msgstr "Alatan"
 
 msgctxt "sMAINMENU_TOOLS_EXTRAS"
 msgid "Apps"
@@ -7046,7 +7046,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
-msgstr "Rěc změniś"
+msgstr "Ubah Bahasa"
 
 msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY"
 msgid "Accessibility"
@@ -7066,7 +7066,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr "Pomoc"
+msgstr "Bantuan "
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
@@ -7150,23 +7150,23 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr "Cora"
+msgstr "Semalam"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr "7 dnjow"
+msgstr "7 hari"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr "30 dnjow"
+msgstr "30 hari"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr "Wót zachopjeńka"
+msgstr "Dari Permulaan"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr "Powěsći pokazaś z: %s"
+msgstr "Tunjuk mesej dari: %s"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -7324,7 +7324,7 @@ msgstr ""
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
-msgstr "Dataju pósłaś na %s"
+msgstr "Hantar fail ke %s"
 
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
@@ -8044,11 +8044,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_REJECTED_IN"
 msgid "Call from %s declined."
-msgstr "Telefonat wót %s wótpokazany"
+msgstr "Panggilan daripada %s dinafikan."
 
 msgctxt "sFLOW_CALL_UNANSWERED_OUT"
 msgid "Call to %s, no answer."
-msgstr "Telefonat na %s, žedno wótegrono."
+msgstr "Panggilan kepada %s, tiada jawapan."
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
@@ -8152,11 +8152,11 @@ msgstr ""
 
 msgctxt "sBIRTHDAY_TODAY"
 msgid "%s has a birthday today"
-msgstr "%s ma źinsa narodny źeń"
+msgstr "%s mempunyai hari lahir hari ini"
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Kontakty pósłaś..."
+msgstr "Hantar Kenalan..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -8293,27 +8293,27 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
 msgid "In call"
-msgstr "Telefoněrujo"
+msgstr "Sedang memanggil"
 
 msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
 msgid "On hold"
-msgstr "W cakańskem rěźe"
+msgstr "Ditangguh"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
 msgid "Muted"
-msgstr "Nimy"
+msgstr "Disenyapkan"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
 msgid "Missed call"
-msgstr "Zapasony telefonat"
+msgstr "Panggilan terlepas"
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
-msgstr "Zwónjenje"
+msgstr "Mendering"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr "Telefonat jo se skóncył"
+msgstr "Panggilan terhenti"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -8404,7 +8404,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr "Emotikon zasajźiś"
+msgstr "Sisip emotikon"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8436,15 +8436,15 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr "Wótegronowy telefonat"
+msgstr "Jawab Panggilan"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr "Telefonat ignorěrowaś"
+msgstr "Abai Panggilan"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr "Połožyś"
+msgstr "Tangguh"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -9947,11 +9947,11 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr "Nejnowše"
+msgstr "Baru-baru Ini"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
-msgstr "Pytaś"
+msgstr "Gelintar"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
@@ -10090,7 +10090,7 @@ msgstr ""
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr "Pjerwjejšne powěsći pokazaś"
+msgstr "Tunjuk mesej lebih awal"
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -10466,7 +10466,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr "Telefonat wót %s (%s), traśe %s."
+msgstr "Panggilan daripada %s (%s), jangkamasa %s."
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
@@ -10500,27 +10500,27 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr "Telefonat wót %s (%s) zapasony"
+msgstr "Panggilan terlepas daripada %s (%s)"
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr "Telefonat wót %s (%s) wótpokazany."
+msgstr "Panggilan daripada %s (%s) ditolak."
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
-msgstr "Telefonat wót %s (%s)"
+msgstr "Panggilan daripada %s (%s)"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr "Dataju pósłaś..."
+msgstr "Hantar fail..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
-msgstr "Kontakty pósłaś..."
+msgstr "Hantar kenalan..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr "Wobrazowki źěliś..."
+msgstr "Kongsi skrin..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -10664,11 +10664,11 @@ msgstr ""
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
-msgstr "Zazwóniś"
+msgstr "Telefon"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr "Telefonowy numer pśidaś"
+msgstr "Tambah nombor telefon"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -10764,7 +10764,7 @@ msgstr ""
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add, send and share..."
-msgstr "Pśidaś, pósłaś a źěliś..."
+msgstr "Tambah, hantar dan kongsi..."
 
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
@@ -10877,11 +10877,11 @@ msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr "Kontakty pokazaś"
+msgstr "Tunjuk kenalan"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr "Kontakty schowaś"
+msgstr "Sembunyi kenalan"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
@@ -10928,7 +10928,7 @@ msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr "zwóni se"
+msgstr "memanggil"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
@@ -10944,7 +10944,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr "Wobźělniki pśidaś, dataje pósłaś a druge"
+msgstr "Tambah peserta, hantar fail dan banyak lagi"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -11265,11 +11265,11 @@ msgstr ""
 
 msgctxt "sF_CONTENT_BROWSER_MSG1_2"
 msgid "Please sign in as %s to select this file."
-msgstr "Pšosym pśizjawśo se ako %s, aby toś tu dataju wubrał."
+msgstr ""
 
 msgctxt "sF_CONTENT_BROWSER_MSG1_TITLE"
 msgid "File belongs to another person"
-msgstr "Dataja słuša drugej wósobje"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_PRIVACY"
 msgid "Privacy Policy"
@@ -11429,35 +11429,35 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr "Fawority"
+msgstr "Kegemaran"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr "Kontakty sem śěgnuś"
+msgstr "Seret kenalan disini"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr "Zacyniś"
+msgstr "Tutup"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr "Pśemjeniś"
+msgstr "Nama semula"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr "Lašowaś"
+msgstr "Padam"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr "Faworitam pśidaś"
+msgstr "Tambah ke Kegemaran"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr "Z faworitow wótpóraś"
+msgstr "Buang dari Kegemaran"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr "Online"
+msgstr "Atas Talian"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -11469,7 +11469,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr "Wšykne"
+msgstr "Semua"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -11956,11 +11956,11 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr "Powěsć pósłaś"
+msgstr "Hantar mesej"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr "SMS pósłaś"
+msgstr "Hantar SMS"
 
 msgctxt "sSEND_SMS_TARGET_HINT"
 msgid "Change where you send SMS."
@@ -12223,7 +12223,7 @@ msgstr ""
 
 msgctxt "sF_PAYMENTS_FRM_CAPTION"
 msgid "Buy credit - %s"
-msgstr "Kontowy plus kupiś - %s"
+msgstr ""
 
 msgctxt "sBROWSER_ERROR_ACCOUNT"
 msgid ""
@@ -12234,7 +12234,7 @@ msgstr ""
 
 msgctxt "sMIC_WEBWINDOW_TITLE"
 msgid "Account"
-msgstr "Konto"
+msgstr ""
 
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
@@ -12648,15 +12648,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr "Z faworitow wótpóraś"
+msgstr "Buang dari kegemaran"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr "Faworitam pśidaś"
+msgstr "Tambah ke kegemaran"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr "Wideopowěsć pósłaś"
+msgstr "Hantar Mesej Video"
 
 msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
 msgid "Camera in use"
