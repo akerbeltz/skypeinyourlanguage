@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-10-04 12:00+0000\n"
-"Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
+"PO-Revision-Date: 2013-10-21 13:54+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -385,7 +385,7 @@ msgstr "تەلەفۆن لەسەر ڕاگرتن"
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr ""
+msgstr "وەڵام دانەوەى پەیوەندى لە چاوەڕوانیدا"
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
@@ -393,7 +393,7 @@ msgstr "دەستپێکردنەوەى پەیوەندى"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
-msgstr ""
+msgstr "Answer incoming call from %s and put %s on hold?"
 
 msgctxt "sF_CONFIRM_DEFAULT_CAPTION"
 msgid "Confirm"
@@ -2089,7 +2089,7 @@ msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_2"
 msgid "Please try downloading this file again."
-msgstr ""
+msgstr "تکایە دووبارە هەوڵبدەوە ئەم پەڕگە دابگریەوە."
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_TITLE"
 msgid "File not installed"
@@ -2109,11 +2109,11 @@ msgstr "لابردن"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT1"
 msgid "Skype ringtone (Modern)"
-msgstr ""
+msgstr "ئاوازى زەنگى سکایپ (Modern)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT2"
 msgid "Skype dial tone (Modern)"
-msgstr ""
+msgstr "ئاوازى زەنگى سکایپ (Modern)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT3"
 msgid "Skype busy signal (Modern)"
@@ -2715,7 +2715,7 @@ msgstr "سڕینەوە"
 
 msgctxt "sAUDIO_PLAYBACK_ERROR_REMOVE"
 msgid "Remove this sound file from your sounds library?"
-msgstr "ئەم فایلە دەنگیە دەسڕیتەوە لە کتێبخانە دەنگیەکانت"
+msgstr "ئەم فایلە دەنگیە دەسڕیتەوە لە گەنجینەی دەنگیەکانت"
 
 msgctxt "sAUDIO_PLAYBACK_ERROR_TITLE2"
 msgid "Unsupported file format"
@@ -2956,7 +2956,7 @@ msgstr " زیاتر بزانە دەربارەی کورتەنامە"
 
 msgctxt "sF_PAYMENTS_CAPTION"
 msgid "Skype Credit"
-msgstr ""
+msgstr "یەکەى سکایپ"
 
 msgctxt "sF_PAYMENTS_LOADING"
 msgid "Loading - %s"
@@ -3016,11 +3016,11 @@ msgctxt "sF_UPGRADE_FORCED_TEXT1"
 msgid ""
 "The version of Skype you are running needs to be updated for the following "
 "reason:"
-msgstr ""
+msgstr "وەشانى ئەم سکایپەى بە کارى دەهێنیت پێویستى بە نوێکردنەوەیە هەیە لەبەر ئەم هۆکارە:"
 
 msgctxt "sF_UPGRADE_FORCED_TEXT2"
 msgid "You need to update Skype now for security reasons."
-msgstr ""
+msgstr "پێویستە سکایپەکەت نوێ بکەیتەوە لەبەر هۆکارەکانى پاراستن."
 
 msgctxt "sF_UPGRADE_NORMAL_TEXT1"
 msgid ""
@@ -3048,11 +3048,11 @@ msgstr "...داگرتن"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TEXT"
 msgid "Please wait while an update for Skype is being downloaded."
-msgstr ""
+msgstr "تکایە کەمێک بوەستە نوێکردنەوە بۆ سکایپ دادەمەزرێت."
 
 msgctxt "sF_UPGRADE_DOWNLOAD_PROGRESS"
 msgid "%d%% done, %s remaining (%d KB/s)"
-msgstr ""
+msgstr "%d%% بتەواوبوو, %s ماوە (%d KB/s)"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_FILESIZE"
 msgid "File size %d KB"
@@ -3778,7 +3778,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
-msgstr ""
+msgstr "گەنجینەی وێنە"
 
 msgctxt "sF_PRIVACY_CHANGE_TITLE"
 msgid "Privacy protection"
@@ -3826,7 +3826,7 @@ msgstr "تەلەفۆنى بە گرووپ"
 
 msgctxt "sCHAT_MEMBER_JOINED"
 msgid "%s joined."
-msgstr "%s بەشداربوو."
+msgstr "%s  بەشداربووى."
 
 msgctxt "sCHAT_MEMBER_PROMOTED_TO_ADMIN"
 msgid "%s has been promoted to conversation host."
@@ -4272,7 +4272,7 @@ msgstr "تەنها رێگا بەو خەڵک بدە پەیوەنیم پێوە ب�
 
 msgctxt "sF_OPTIONS_ABOUT_PRIVACY"
 msgid "Learn more about privacy and security in Skype"
-msgstr ""
+msgstr "زیاتر بزانە دەربارەى تایبەتێتی و ئاسایشى لە سکایپ"
 
 msgctxt "sF_OPTIONS_SHOW_BASIC_OPTIONS"
 msgid "Show basic options"
@@ -4372,7 +4372,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_ABOUT_VOICEMAIL"
 msgid "Learn more about voice messages"
-msgstr ""
+msgstr "زیاتر بزانە دەربارەى پەیامى دنگى "
 
 msgctxt "sF_OPTIONS_CALL_FORWARDING"
 msgid ""
@@ -5334,7 +5334,7 @@ msgstr "هاوەڵەکان بشارەوە"
 
 msgctxt "sZAPBUTTON_SAVEGROUP"
 msgid "Save group in Contacts"
-msgstr ""
+msgstr "پاشکەوتکردنى گرووپ لە ناو لیستى هاوەڵان"
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
@@ -6182,11 +6182,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VOLUMEDOWN"
 msgid "Volume down"
-msgstr ""
+msgstr "نزمکردنەوەى دەنگ"
 
 msgctxt "sZAPBUTTON_VOLUMEUP"
 msgid "Volume up"
-msgstr ""
+msgstr "بەرزکردنەوەى دەنگ"
 
 msgctxt "sZAPBUTTON_VOICEMAIL"
 msgid "Voice messages"
@@ -6390,11 +6390,11 @@ msgstr "شەکرۆکەکانى سکابپ ڕەشدەکەیتەوە؟"
 
 msgctxt "sCONV_BOOKMARK"
 msgid "Save Group in Your Contacts"
-msgstr ""
+msgstr "پاشکەوتکردنى گرووپ لە ناو لیستى هاوەڵان"
 
 msgctxt "sCONV_UNBOOKMARK"
 msgid "Remove From Your Contacts"
-msgstr ""
+msgstr "سڕینەوە لە لیستى پەیوەندیکاران"
 
 msgctxt "sCALL_DROPPED"
 msgid "Call with %s dropped."
@@ -6569,7 +6569,7 @@ msgstr "وێبکامەکەت مایکڕۆفۆنى هەیە"
 
 msgctxt "sCONTACTS_PSTN_INLIST"
 msgid "The phone number %s you entered is already in your Contacts"
-msgstr ""
+msgstr "ئەو ژمارە تەلەفۆنەى  %s هەمیشە پەیوەندیت پێوە کردووە لە لیستى هاوەڵان"
 
 msgctxt "sF_OPTIONS_WEBCAM_NOT_FOUND"
 msgid ""
@@ -6849,11 +6849,11 @@ msgstr "لیستەکانى هاوەڵ"
 
 msgctxt "sMAINMENU_CONTACTS_SHOW_OUTLOOK"
 msgid "Show Outlook Contacts"
-msgstr ""
+msgstr "Outlook پیشاندانى هاوەڵانى "
 
 msgctxt "sMAINMENU_CONTACTS_SORT"
 msgid "Sort Contacts by"
-msgstr ""
+msgstr "ڕیزبەندی هاوەڵان بە پێی"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_NAME"
 msgid "Name"
@@ -6865,7 +6865,7 @@ msgstr "سەرهێڵەکان"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
-msgstr ""
+msgstr "شاردنەوەى هاوەڵان بە پێی"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE"
 msgid "Are Offline"
@@ -6989,7 +6989,7 @@ msgstr "گواستنەوە"
 
 msgctxt "sMAINMENU_CALL_HOLD"
 msgid "Hold"
-msgstr ""
+msgstr "لە چاوەڕوانیدا"
 
 msgctxt "sMAINMENU_CALL_RESUME"
 msgid "Resume"
@@ -7017,7 +7017,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL_QUALITY"
 msgid "Learn about Call Quality"
-msgstr ""
+msgstr "زانیارى دەربارەى کوالێتى تەلەفۆن"
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
@@ -7252,7 +7252,7 @@ msgstr "ڕەتکردنەوە پەڕگەکە"
 
 msgctxt "sMAINMENU_CONVERSATION_REMOVE_FROM_CONTACTS"
 msgid "Remove from Contacts"
-msgstr ""
+msgstr "سڕینەوە لە پەیوەندیکاران"
 
 msgctxt "sCALL_LB2_UNAVAILABLE"
 msgid "The number is unavailable"
@@ -7520,7 +7520,7 @@ msgstr ""
 
 msgctxt "sAUTHORIZATION_PANEL_COMMENT"
 msgid "Clicking Add to Contacts means this person can see when you are online"
-msgstr ""
+msgstr "کرتەى زیادکردن بکە لەو هاوەڵانەى کە بتوانن بتببینن کاتێ کە تۆ سەرهێڵیت."
 
 msgctxt "sAUTHORIZE_BLOCKED_CAPTION2"
 msgid "%s is on your blocked list"
@@ -8025,7 +8025,7 @@ msgctxt "sACTION_ON_YOURSELF"
 msgid ""
 "You can't start a conversation with yourself or add yourself to your "
 "Contacts."
-msgstr ""
+msgstr "تۆ ناتوانى گفتوگۆ لە گەڵ خۆت بکەى یان خۆت زیاد بکەیت لە لیستى هاوەڵان."
 
 msgctxt "SGROUP_PROFILE_NEXT_BUTTON"
 msgid "Next"
@@ -8155,7 +8155,7 @@ msgstr ""
 
 msgctxt "sBIRTHDAY_TODAY"
 msgid "%s has a birthday today"
-msgstr ""
+msgstr "%s رۆژى لە دایک بوونیەتى"
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
@@ -10101,7 +10101,7 @@ msgstr ""
 
 msgctxt "sQUICKFILTER_NOTFOUND_CONTACT"
 msgid "%s is not in your Contacts."
-msgstr ""
+msgstr "%s ئەوە لە لیستى هاوەڵانت نیە."
 
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
@@ -10947,7 +10947,7 @@ msgstr "خەڵک زیادکردن..."
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr ""
+msgstr "زیادکردنى بەژداربوان, ناردنى پەڕگە و شتى زیاتر"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -11534,7 +11534,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_NOTCONNECTED_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "زیاتر بزانە "
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_HEADER"
 msgid "You're already online"
@@ -11548,7 +11548,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "زیاتر بزانە"
 
 msgctxt "sSKYPEWIFI_ERROR_HEADER"
 msgid "Unable to connect"
@@ -12101,7 +12101,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_LOGINHELP_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "زیاتر بزانە"
 
 msgctxt "sOUTLOOK_CAPTION"
 msgid "Outlook"
@@ -12226,7 +12226,7 @@ msgstr ""
 
 msgctxt "sF_PAYMENTS_FRM_CAPTION"
 msgid "Buy credit - %s"
-msgstr ""
+msgstr "کڕینى یەکە - %s"
 
 msgctxt "sBROWSER_ERROR_ACCOUNT"
 msgid ""

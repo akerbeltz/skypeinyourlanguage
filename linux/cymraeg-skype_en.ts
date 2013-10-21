@@ -700,7 +700,7 @@
     </message>
     <message>
         <source>Loading Image Error!</source>
-        <translation>Gwall llwytho Llun!</translation>
+        <translation>Gwall llwytho Delwedd!</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
@@ -748,7 +748,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Images</source>
-        <translation>Lluniau</translation>
+        <translation>Delweddau</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -2796,7 +2796,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Images</source>
-        <translation>Lluniau</translation>
+        <translation>Delweddau</translation>
     </message>
     <message>
         <source>Show Contacts</source>

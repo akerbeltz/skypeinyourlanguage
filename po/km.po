@@ -2,13 +2,17 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # khoemsokhem <sokhem@open.org.kh>, 2013
+# Sutha <sutha@open.org.kh>, 2013
+# khoemsokhem <sokhem@open.org.kh>, 2013
+# soksophea <sophea@open.org.kh>, 2013
+# Sutha <sutha@open.org.kh>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-09-20 04:05+0000\n"
-"Last-Translator: khoemsokhem <sokhem@open.org.kh>\n"
+"PO-Revision-Date: 2013-10-21 08:01+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/skype-translation-project/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -350,7 +354,7 @@ msgctxt "sF_ABOUT_COPYRIGHT_1_3"
 msgid ""
 "The Skype name, associated trademarks and logos and the \"S\" logo are "
 "trademarks of Skype or related entities."
-msgstr ""
+msgstr "ឈ្មោះ Skype, សញ្ញា​សម្គាល់ និង​រូប​សញ្ញា \"S\" សញ្ញា​សម្គាល់​រូប Skype ឬ​ធាតុ​ដែល​ទាក់ទង។"
 
 msgctxt "sF_ABOUT_WARNING_1"
 msgid ""
@@ -674,7 +678,7 @@ msgctxt "sF_HOTKEYEDIT_ERROR"
 msgid ""
 "The hotkey for %s is probably used by another application and will be "
 "disabled for Skype"
-msgstr "គ្រាប់ចុចផ្លូវកាត់ សម្រាប់ %s ប្រហែល ត្រូវបានប្រើប្រាស់ ដោយកម្មវិធីអនុវត្តដទៃ និង នឹងត្រូវបានអសកម្ម សម្រាប់ស្កាយភ៍​។"
+msgstr "គ្រាប់ចុច​រហ័ស %s ប្រហែល​ជា​បាន​ប្រើ​ដោយ​កម្មវិធី​ផ្សេង និង​នឹង​ត្រូវ​បាន​បិទ​សម្រាប់ Skype"
 
 msgctxt "sBUDDYMENU_BLOCK"
 msgid "Block This Person..."
@@ -686,11 +690,11 @@ msgstr "មិន​ទប់ស្កាត់​មនុស្ស​ម្ន
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
-msgstr "បង្គ ឧបករណ៍​បញ្ចូលសំឡេង"
+msgstr "បិទ​សំឡេង​មីក្រូហ្វូន"
 
 msgctxt "sAVATAR_MENUITEM_UNMUTE"
 msgid "Unmute Microphone"
-msgstr "លែងបង្គ ឧបករណ៍​បញ្ចូលសំឡេង"
+msgstr "បើក​មីក្រូហ្វូន"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
@@ -3579,7 +3583,7 @@ msgstr "ទូរសព្ទ - Phone"
 
 msgctxt "sCOFFEE_SMILEY"
 msgid "Coffee"
-msgstr ""
+msgstr "កាហ្វេ"
 
 msgctxt "sPIZZA_SMILEY"
 msgid "Pizza"
@@ -4871,7 +4875,7 @@ msgstr "បោះបង់"
 
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
-msgstr ""
+msgstr "បន្ថែម​លេខ​ទូរស័ព្ទ"
 
 msgctxt "sZAPBUTTON_SUBMITPASSWORD"
 msgid "Submit"
@@ -5339,7 +5343,7 @@ msgstr "បញ្ចប់ ការហៅ"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr ""
+msgstr "ហៅ"
 
 msgctxt "sZAPBUTTON_INSTANTMESSAGE"
 msgid "Instant Message"
@@ -5375,7 +5379,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
-msgstr ""
+msgstr "ជំនួយ"
 
 msgctxt "sZAPBUTTON_INFOALT"
 msgid "Info"
@@ -5479,7 +5483,7 @@ msgstr "ពី"
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr ""
+msgstr "តាម Skype"
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5563,7 +5567,7 @@ msgstr "យល់ព្រម"
 
 msgctxt "sZAPBUTTON_ONE"
 msgid "1"
-msgstr ""
+msgstr "១"
 
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
@@ -5579,7 +5583,7 @@ msgstr "ផ្អាក"
 
 msgctxt "sZAPBUTTON_PAUSEUPGRADEDOWNLOAD"
 msgid "Pause download"
-msgstr ""
+msgstr "ផ្អាក​ការ​ទាញ​យក"
 
 msgctxt "sZAPBUTTON_PHONES"
 msgid "Call"
@@ -5727,7 +5731,7 @@ msgstr "បន្តហៅ"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr ""
+msgstr "បន្ត​ការ​ទាញ​យក"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -5799,7 +5803,7 @@ msgstr "ផ្ញើឯកសារ"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "ផ្ញើ​ទំនាក់ទំនង..."
 
 msgctxt "sZAPBUTTON_SENDMESSAGE"
 msgid "Send message"
@@ -5831,11 +5835,11 @@ msgstr "កំណត់ ជារូបភាព​របស់ខ្ញុំ"
 
 msgctxt "sZAPBUTTON_SETPICTURE"
 msgid "Set as my picture"
-msgstr ""
+msgstr "កំណត់​ជា​រូបភាព​របស់​ខ្ញុំ"
 
 msgctxt "sZAPBUTTON_CHOOSEPICTURE"
 msgid "Choose a different picture"
-msgstr ""
+msgstr "ជ្រើស​រូបភាព​ផ្សេង"
 
 msgctxt "sZAPBUTTON_SIGNIN"
 msgid "Sign in"
@@ -5899,7 +5903,7 @@ msgstr "បង្ហាញ សារ"
 
 msgctxt "sZAPBUTTON_SIX"
 msgid "6"
-msgstr ""
+msgstr "៦"
 
 msgctxt "sZAPBUTTON_SKIPVERSION"
 msgid "Skip version"
@@ -5939,15 +5943,15 @@ msgstr "ហៅ វីដេអូ"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr ""
+msgstr "សារ​ជា​វីដេអូ"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "ផ្ញើ​សារ​ជា​វីដេអូ"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr ""
+msgstr "ចាក់​សារ​ជា​វីដេអូ"
 
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
@@ -5983,11 +5987,11 @@ msgstr "ឈប់"
 
 msgctxt "sZAPBUTTON_THREE"
 msgid "3"
-msgstr ""
+msgstr "៣"
 
 msgctxt "sZAPBUTTON_TWO"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "sZAPBUTTON_UP"
 msgid "Up"
@@ -6043,11 +6047,11 @@ msgstr "រក្សាវីដេអូ នៅប្រើប្រាស់"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
-msgstr ""
+msgstr "ផ្ញើ​សារ​បច្ចុប្បន្នភាព"
 
 msgctxt "sZAPBUTTON_MSNUPGRADESENDMESSAGE"
 msgid "Send download message"
-msgstr ""
+msgstr "ផ្ញើ​សារ​ការ​ទាញ​យក"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREWINDOW"
 msgid "Show selected window"
@@ -6079,11 +6083,11 @@ msgstr "បោះបង់"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTART"
 msgid "Start"
-msgstr ""
+msgstr "ចាប់ផ្ដើម"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "បោះបង់"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGWINDOW"
 msgid "Show screensharing window"
@@ -6091,7 +6095,7 @@ msgstr "បង្ហាញ បង្អួច របស់ទង្វើចែ�
 
 msgctxt "sZAPBUTTON_SCREENSHARINGOPTIONS"
 msgid "Screensharing options"
-msgstr ""
+msgstr "ជម្រើស​ការ​ចែករំលែក​អេក្រង់"
 
 msgctxt "sZAPBUTTON_CT_SCREENSHARING"
 msgid "Share"
@@ -6135,7 +6139,7 @@ msgstr "ថតចម្លងឡើងវិញ សារសំឡេង"
 
 msgctxt "sZAPBUTTON_CT_CHARGE"
 msgid "Charge"
-msgstr ""
+msgstr "គិត​តម្លៃ"
 
 msgctxt "sZAPBUTTON_CT_CANCEL"
 msgid "Cancel"
@@ -6175,7 +6179,7 @@ msgstr "មើល គ្រប់ព្រឹត្តិការ ថ្មី"
 
 msgctxt "sZAPBUTTON_VIEWMENU"
 msgid "View menu"
-msgstr ""
+msgstr "ម៉ឺនុយ​ទិដ្ឋភាព"
 
 msgctxt "sZAPBUTTON_VOLUMEDOWN"
 msgid "Volume down"
@@ -6191,7 +6195,7 @@ msgstr "សារសំឡេង"
 
 msgctxt "sZAPBUTTON_TEST"
 msgid "Test"
-msgstr ""
+msgstr "សាកល្បង"
 
 msgctxt "sZAPBUTTON_WEBCAMMIC"
 msgid "Use webcam microphone"
@@ -6283,35 +6287,35 @@ msgstr "ផ្លាស់ប្តូរ"
 
 msgctxt "sZAPBUTTON_AVATARVIEWSMALL"
 msgid "Small view"
-msgstr ""
+msgstr "ទិដ្ឋភាព​តូច"
 
 msgctxt "sZAPBUTTON_AVATARVIEWLARGE"
 msgid "Large view"
-msgstr ""
+msgstr "ទិដ្ឋភាព​ធំ"
 
 msgctxt "sZAPBUTTON_CONNECTTOFACEBOOK"
 msgid "Connect to Facebook"
-msgstr ""
+msgstr "តភ្ជាប់​ទៅ​ Facebook"
 
 msgctxt "sZAPBUTTON_RECONNECTTOFACEBOOK"
 msgid "Reconnect to Facebook"
-msgstr ""
+msgstr "តភ្ជាប់​ទៅ​ Facebook ម្ដងទៀត"
 
 msgctxt "sZAPBUTTON_RECONNECTTOXMPP"
 msgid "Reconnect"
-msgstr ""
+msgstr "តភ្ជាប់​ឡើង​វិញ"
 
 msgctxt "sZAPBUTTON_SKYPEWIFICONNECT"
 msgid "Connect"
-msgstr ""
+msgstr "ភ្ជាប់"
 
 msgctxt "sZAPBUTTON_SKYPEWIFIDISCONNECT"
 msgid "Disconnect"
-msgstr ""
+msgstr "ផ្ដាច់"
 
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
-msgstr ""
+msgstr "ហៅ​ជា​វីដេអូ"
 
 msgctxt "sZAPBUTTON_RERECORDVIDM"
 msgid "Re-record message"
@@ -6572,7 +6576,7 @@ msgctxt "sF_OPTIONS_WEBCAM_NOT_FOUND"
 msgid ""
 "Skype couldn't find a webcam. With a webcam, you can make free video calls "
 "to anyone else on Skype, anywere in the world."
-msgstr ""
+msgstr "Skype មិន​អាច​រក​ឃើញ​​វិប​ខេម។ ជាមួយ​វិបខេម, អ្នក​អាច​ហៅ​ជា​វីដេអូ​ដោយ​ឥត​គិត​​ថ្លៃ​ទៅ​អ្នក​ផ្សេង​ទៀត​តាម Skype, នៅ​គ្រប់​ទីកន្លែង​លើ​ពិភព​លោក។"
 
 msgctxt "sF_OPTIONS_ABOUT_VIDEO_CALL"
 msgid "Find out more about video calls"
@@ -7455,7 +7459,7 @@ msgstr "បន្ថែមទៅ ចំណាត់ក្រុម"
 
 msgctxt "sCONTACT_MANAGE_GROUP"
 msgid "Manage Lists"
-msgstr ""
+msgstr "គ្រប់គ្រង​បញ្ជី"
 
 msgctxt "sPFOFILE_HEADER_GROUP_SAVED"
 msgid "Group saved"
@@ -7573,7 +7577,7 @@ msgstr "%s បានផ្ញើ មួយសារសំឡេង"
 
 msgctxt "sFILESIZE_UNIT"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgctxt "sCALL_LB2_FINISHED2"
 msgid "Call ended, duration %s"
@@ -7667,7 +7671,7 @@ msgstr "សេវាសារខ្លី (SMS)"
 
 msgctxt "sFILESIZE_PREFIXES"
 msgid "\\k\\M\\G\\T"
-msgstr ""
+msgstr "\\k\\M\\G\\T"
 
 msgctxt "sBLOCK_TEXT2"
 msgid ""
@@ -8880,7 +8884,7 @@ msgstr "ល្មមស្គ្រីន"
 
 msgctxt "sLIVE_B_SEPARATE"
 msgid "Separate Window"
-msgstr ""
+msgstr "ចែក​បង្អួច"
 
 msgctxt "sCQ_CANT_DETECT_SOUNDCARD_TITLE"
 msgid "Can't detect your sound card"
@@ -9184,7 +9188,7 @@ msgstr "កុំព្យូទ័រ របស់អ្នក កំពុង�
 
 msgctxt "sCQ_RUNNING_ON_BATTERY_TITLE"
 msgid "Running on battery? Switch to AC power"
-msgstr ""
+msgstr "ដំណើរការ​នៅ​លើ​ថ្ម​ឬ? ប្ដូរ​ទៅ​ថាមពល​ចរន្ត​ឆ្លាស់"
 
 msgctxt "sCQ_RUNNING_ON_BATTERY_DESC"
 msgid ""
@@ -9746,7 +9750,7 @@ msgstr "រាល់ការបន្ទាន់សម័យ Facebook"
 
 msgctxt "sFLAMINGO_CAPTION"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sLIVE_ADD_NUMBER_SEARCH_TEXT"
 msgid "Add this number"
@@ -9838,11 +9842,11 @@ msgstr "បន្ថែម មួយជំនួប…"
 
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
-msgstr ""
+msgstr "ស្វែងរក​ថត Skype..."
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT_PANEL"
 msgid "Save a Phone Number..."
-msgstr ""
+msgstr "រក្សាទុក​លេខ​ទូរស័ព្ទ..."
 
 msgctxt "sPREM_VIDEO_DONT_SHOW_AGAIN"
 msgid "Don't show again"
@@ -9873,7 +9877,7 @@ msgstr "ការហៅវីដេអូ ជាក្រុម"
 
 msgctxt "sCALLPHONES_RATES_PAYG_MINUTE"
 msgid "%s/min"
-msgstr ""
+msgstr "%s/min"
 
 msgctxt "sPREM_VIDEO_CANCEL"
 msgid "Close"
@@ -10066,7 +10070,7 @@ msgctxt "sINFO_CONV_HIDE_TEXT"
 msgid ""
 "To add a hidden conversations back to the Recent list, select View » Show "
 "Hidden Conversations from the main menu."
-msgstr ""
+msgstr "ដើម្បី​បន្ថែម​ការ​សន្ទនា​​ដែល​បាន​លាក់​ថយក្រោយ​ទៅ​បញ្ជី​ថ្មី, ជ្រើស​ទិដ្ឋភាព» បង្ហាញ​ការ​សន្ទនា​ដែល​បាន​លាក់​ពី​ម៉ឺនុយ​ចម្បង។"
 
 msgctxt "sINFO_CONV_HIDE_CAPTION"
 msgid "Show conversations"
@@ -10173,7 +10177,7 @@ msgstr "មានបញ្ហា ការ​ភ្ជាប់អ៊ីនធ�
 msgctxt "sAUTH_REQUEST_EMAIL_COMPANY"
 msgid ""
 "<b>%s</b> registered with Skype as an employee of <b>%s</b> under <b>%s</b>"
-msgstr ""
+msgstr "<b>%s</b> បាន​ចុះ​ឈ្មោះ​ជាមួយ Skype ជា​សមាជិក <b>%s</b> នៅ​ក្រោម <b>%s</b>"
 
 msgctxt "sAUTH_REQUEST_EMAIL"
 msgid "<b>%s</b> registered with Skype under the email <b>%s</b>"
@@ -10325,13 +10329,13 @@ msgstr "You'll need the latest version of Skype to join in.<br/>Get the new Skyp
 
 msgctxt "sFREE_CALL_INFO"
 msgid "Your free call to this phone number is limited to %d minutes."
-msgstr ""
+msgstr "ការ​ហៅ​ដោយ​ឥត​គិត​ថ្លៃ​ចំពោះ​លេខ​ទូរស័ព្ទ​ត្រូវ​បាន​កំណត់ %d នាទី។"
 
 msgctxt "sFREE_CALL_WILL_END_SOON"
 msgid ""
 "You have less than 1 minute left. Your free call to a phone number is almost"
 " over. We hope you enjoyed it."
-msgstr ""
+msgstr "អ្នក​មាន​តិច​ជាង 1 នាទី ។ ការ​ហៅ​ឥត​គិត​ថ្លៃ​របស់​អ្នក​ចំពោះ​លេខ​ទូរស័ព្ទ​លេខ​​​ស្ទើរ​តែ​ទាំងអស់។ យើង​សង្ឃឹម​ថា​អ្នក​រីករាយ​ជាមួយ​វា។"
 
 msgctxt "sCREDIT_RUNNING_LOW"
 msgid ""
@@ -10343,7 +10347,7 @@ msgctxt "sSUBS_EXPIRES"
 msgid ""
 "Your subscription will expire soon. You have less than %d minutes left for "
 "this call."
-msgstr ""
+msgstr "ការ​ជាវ​របស់​អ្នក​នឹង​ផុត​កំណត់​ឆាប់ៗ។ អ្នក​មាន​តិច​ជាង %d នាទី​សម្រាប់​ការ​ហៅ​នេះ។"
 
 msgctxt "sCALLTO_SKYPE_PROMPT"
 msgid "You are about to make a call to <b>%s</b>. Do you want to go ahead?"
@@ -10396,7 +10400,7 @@ msgstr "បន្ថែម ក្រុង"
 
 msgctxt "sLIVE_PRICE_FORMAT"
 msgid "%s/min"
-msgstr ""
+msgstr "%s/min"
 
 msgctxt "sOPTIONS_DISPLAY_AVATARS"
 msgid "Show profile pictures in Contact List"
@@ -10458,19 +10462,19 @@ msgstr "មួយ ឬ ច្រើនអ្នក មិន​​គ្រប់
 
 msgctxt "sLIVE_ACCEPT_VIDEO_FOR_1"
 msgid "%s wants to show video. Accept all videos on this call?"
-msgstr ""
+msgstr "%s ចង់​បង្ហាញ​វីដេអូ។ ព្រម​ទទួល​យក​វីដេអូ​ទាំងអស់​​នៅ​លើ​ការ​ហៅ​នេះ?"
 
 msgctxt "sLIVE_ACCEPT_VIDEO_FOR_N"
 msgid "%s want to show video. Accept all videos on this call?"
-msgstr ""
+msgstr "%s ចង់​បង្ហាញ​វីដេអូ។ ទទួល​យក​វីដេអូ​ទាំងអស់​នៅ​លើ​ការ​ហៅ​នេះ?"
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr ""
+msgstr "ហៅ​ពី %s (%s), រយៈ​ពេល %s ។"
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
-msgstr ""
+msgstr "ជ្រើស​អ្នក​ចូលរួម​មិន​ច្រើន​ជាង %d ដើម្បី​អាច​ចាប់ផ្ដើម​ហៅ"
 
 msgctxt "sOPTIONS_AD_POLICY"
 msgid ""
@@ -10480,223 +10484,223 @@ msgstr ""
 
 msgctxt "sADD_CONTACT_LONG"
 msgid "Add a contact"
-msgstr ""
+msgstr "បន្ថែម​ទំនាក់ទំនង"
 
 msgctxt "sADD_CONTACT_SHORT"
 msgid "Contact"
-msgstr ""
+msgstr "ទំនាក់ទំនង"
 
 msgctxt "sCREATE_GROUP_LONG"
 msgid "Create a group"
-msgstr ""
+msgstr "បង្កើត​ក្រុម"
 
 msgctxt "sCREATE_GROUP_SHORT"
 msgid "Group"
-msgstr ""
+msgstr "ក្រុម"
 
 msgctxt "sFEATURE_DISABLED"
 msgid "This feature is disabled by your administrator"
-msgstr ""
+msgstr "លក្ខណៈ​នេះ​ត្រូវ​បាន​បើក​ដោយ​អ្នក​គ្រប់គ្រង​របស់​អ្នក"
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr ""
+msgstr "ខកខាន​​​ការ​ហៅ​ពី %s (%s)"
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr ""
+msgstr "ការ​ហៅ​ពី %s (%s) បាន​បដិសេធ។"
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
-msgstr ""
+msgstr "ការ​ហៅ​ពី %s (%s)"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr ""
+msgstr "ផ្ញើ​សារ..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
-msgstr ""
+msgstr "ផ្ញើ​ទំនាក់ទំនង..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "ចែករំលែក​អេក្រង់..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
-msgstr ""
+msgstr "បន្ថែម​លេខ​ទូរស័ព្ទ​​នេះ​ដើម្បី​ផ្ញើ​សារ​អត្ថបទ (SMS)"
 
 msgctxt "sSMSPOPUP_DESC_NOCREDIT"
 msgid "You need Skype Credit to send SMS"
-msgstr ""
+msgstr "អ្នក​ត្រូវ​ការ​ឥណទាន Skype ដើម្បី​ផ្ញើ​សារ SMS"
 
 msgctxt "sMYSELF_PANEL_PROF_ACCOUNT"
 msgid "Professional account"
-msgstr ""
+msgstr "គណនី​ផ្ទាល់ខ្លួន"
 
 msgctxt "sF_CALL_FAILURE_TITLE"
 msgid "Call phones and mobiles"
-msgstr ""
+msgstr "ការ​ហៅ​ទូរស័ព្ទ និង​ឧបករណ៍​ចល័ត"
 
 msgctxt "sF_CALL_FAILURE_HEADER"
 msgid "Call phones and mobiles"
-msgstr ""
+msgstr "ការ​ហៅ​ទូរស័ព្ទ និង​ឧបករណ៍​ចល័ត"
 
 msgctxt "sF_CALL_FAILURE_TEXT1"
 msgid ""
 "You need Skype Credit or a subscription to call landlines and mobiles from "
 "Skype. Call anywhere in the world at the same low rates, day or night."
-msgstr ""
+msgstr "អ្នក​ត្រូវ​ការ​ឥណទាន Skype ​ឬ​ជាវ​ដើម្បី​ហៅ landlines និង​ឧបករណ៍​ចល័ត​ពី Skype ។ ការ​ហៅ​នៅ​គ្រប់​ទីកន្លែង​ក្នុង​ពិភព​លោ​នៅ​អត្រា​ទាប​ដូច​ៗ​គ្នា, ថ្ងៃ ឬ​យប់។"
 
 msgctxt "sF_CALL_FAILURE_TEXT2"
 msgid "Show rates to"
-msgstr ""
+msgstr "បង្ហាញ​អត្រា​ចំពោះ"
 
 msgctxt "sF_CALL_FAILURE_CREDIT_TEXT"
 msgid "Pay As You Go"
-msgstr ""
+msgstr "បង់​ប្រាក់​នៅ​ពេល​អ្នក​បាន​ប្រើ"
 
 msgctxt "sF_CALL_FAILURE_SUBSCRIPTION_TEXT"
 msgid "Pay monthly"
-msgstr ""
+msgstr "បង់​ប្រាក់​ប្រចាំខែ"
 
 msgctxt "sF_CALL_FAILURE_RATES_PAYG_MINUTE"
 msgid "From %s/min"
-msgstr ""
+msgstr "ពី %s/min"
 
 msgctxt "sF_CALL_FAILURE_RATES_EXCL_VAT"
 msgid "(%s /min incl. VAT)"
-msgstr ""
+msgstr "(%s /min incl. VAT)"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION"
 msgid "From %s for %s"
-msgstr ""
+msgstr "ពី %s ខែ %s"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCR_EXCL_VAT"
 msgid "(%s incl. VAT)"
-msgstr ""
+msgstr "(%s incl. VAT)"
 
 msgctxt "sAVATAR_VIEW_ONE_PERSON"
 msgid "%d person"
-msgstr ""
+msgstr "មនុស្ស %d"
 
 msgctxt "sAVATAR_VIEW_MULTIPLE_PERSONS"
 msgid "%d people"
-msgstr ""
+msgstr "មនុស្ស %d"
 
 msgctxt "sF_OPTIONS_VIDEO_DISABLED"
 msgid "This feature is disabled by your administrator."
-msgstr ""
+msgstr "លក្ខណៈ​នេះ​ត្រូវ​បាន​បង្ហាញ​ដោយ​អ្នក​គ្រប់គ្រង​របស់​អ្នក។"
 
 msgctxt "sCALLPHONES_PAYG_CAPTION"
 msgid "Pay As You Go rates from"
-msgstr ""
+msgstr "បង់​ប្រាក់​នៅ​ពេល​​អ្នក​​​បាន​ប្រើ​អត្រា​ពី"
 
 msgctxt "sCALLPHONES_PAYG_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments#skypeout\">ទិញ​ឥណទាន Skype </a>"
 
 msgctxt "sCALLPHONES_PAYG_MORE_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy more credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments#skypeout\">ទិញ​ឥណទាន​បន្ថែម</a>"
 
 msgctxt "sCALLPHONES_SUBSCR_CAPTION"
 msgid "Pay monthly from"
-msgstr ""
+msgstr "បង់​ប្រាក់​ប្រចាំខែ​ពី"
 
 msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
 msgid ""
 "<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get another "
 "subscription</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go&sso=1&country=%s#subscriptions\">ទទួល​យក​ការ​ជាវ​ផ្សេង</a>"
 
 msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
 msgid "<a href=\"skype:?mic\">View your subscription(s)</a>"
-msgstr ""
+msgstr "<a href=\"skype:?mic\">មើល​ការ​ជាវ​របស់​អ្នក(s)</a>"
 
 msgctxt "sCALLPHONES_RATES_LNK"
 msgid "<a href=\"skype:?go#prices\">See all rates</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#prices\">មើល​អត្រា​ទាំងអស់</a>"
 
 msgctxt "sCALLPHONES_CREDIT_CAPTION"
 msgid "Your Skype Credit"
-msgstr ""
+msgstr "ឥណទាន Skype របស់​អ្នក"
 
 msgctxt "sCALLPHONES_TBYB_TITLE"
 msgid "Free trial call to a mobile or landline"
-msgstr ""
+msgstr "ការ​ហៅ​សាកល្បង​ឥត​គិត​ថ្លៃ​ចំពោះ​ឧបករណ៍​ចល័ត ឬ landline"
 
 msgctxt "sCALLPHONES_TBYB_INFO"
 msgid ""
 "Your first call is free, and up to 10 minutes. To call phones anytime, get "
 "some Skype Credit or a subscription. Skype-to-Skype calls are always free."
-msgstr ""
+msgstr "ការ​​ហៅ​ដំបូង​របស់​អ្នក​ឥត​គិត​ប្រាក់​, រហូត​ដល់ 10 នាទី។ ចំពោះ​ការ​ហៅ​ទូរស័ព្ទ​នៅ​ពេល​ណាមួយ, ទទួល​យក​ឥណទាន​ Skype មួយ​ចំនួន ឬ​​ជាវ។  ការ​ហៅ Skype-ទៅ-Skype ឥត​គិត​ប្រាក់​កម្រៃ​ជា​និច្ច។"
 
 msgctxt "sCALLPHONES_CONN_FEE_WARNING"
 msgid ""
 "A small <a href=\"skype:?go#connectionfee\">connection fee</a> applies to "
 "Pay As You Go calls only."
-msgstr ""
+msgstr "<a href=\"skype:?go#connectionfee\">ការ​តភ្ជាប់​ឥត​គិត​ថ្លៃ</a> អនុវត្ត​ចាក់​នៅ​ពេល​អ្នក​ហៅ​តែ​ប៉ុណ្ណោះ។"
 
 msgctxt "sSMS_TO_BUTTON"
 msgid "To %s"
-msgstr ""
+msgstr "ចំពោះ %s"
 
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
-msgstr ""
+msgstr "(%s/min incl. VAT)"
 
 msgctxt "sCALLPHONES_SUBSCR_INC_VAT"
 msgid "(%s incl. VAT)"
-msgstr ""
+msgstr "(%s incl. VAT)"
 
 msgctxt "sCALLPHONES_SUBSCR_EXPIRED"
 msgid "Subscription expired"
-msgstr ""
+msgstr "ការ​ជាវ​បាន​ផុត​កំណត់"
 
 msgctxt "sCALLPHONES_SUBSCR_EXPIRING"
 msgid "Expiring soon"
-msgstr ""
+msgstr "ផុត​កំណត់​ឆាប់ៗ"
 
 msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
 msgid "• <a href=\"%s\">Renew</a>"
-msgstr ""
+msgstr "• <a href=\"%s\">បន្ត</a>"
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
-msgstr ""
+msgstr "តាម​ទូរស័ព្ទ"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr ""
+msgstr "បន្ថែម​លេខ​ទូរស័ព្ទ"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
-msgstr ""
+msgstr "ការ​ហៅ​ដំបូង​របស់​អ្នក​ឥត​គិត​ប្រាក់​កម្រៃ"
 
 msgctxt "sCALL_POPUP_VOICEMAIL"
 msgid "Voice message"
-msgstr ""
+msgstr "សារ​ជា​សំឡេង"
 
 msgctxt "sPROFILE_STATUS_OFFLINE_CF"
 msgid "Offline. Calls forwarded at no cost to you."
-msgstr ""
+msgstr "ក្រៅ​បណ្ដាញ។ ការ​ហៅ​បាន​បញ្ជូន​បន្ត​​គ្មាន​ការ​គិត​ប្រាក់​ពី​អ្នក។"
 
 msgctxt "sPROFILE_STATUS_OFFLINE_VM"
 msgid "Offline. Calls will be received as a voice message."
-msgstr ""
+msgstr "ក្រៅ​បណ្ដាញ។ ការ​ហៅ​នឹង​ត្រូវ​បាន​ទទួល​​សារ​ជា​សំឡេង។"
 
 msgctxt "sCALLPHONES_AUTOCOMPLETE_ITEM"
 msgid "%s (%s: %s)"
-msgstr ""
+msgstr "%s (%s: %s)"
 
 msgctxt "sMENU_EDIT_COLUMN_ACCNAME"
 msgid "Edit"
-msgstr ""
+msgstr "កែ"
 
 msgctxt "sCALL_DROPDOWN_TEXT"
 msgid "More calling options"
-msgstr ""
+msgstr "ជម្រើស​ការ​ហៅ​ច្រើន"
 
 msgctxt "sPFOFILE_HEADER_HOST"
 msgid "You are hosting this call"
@@ -10704,21 +10708,21 @@ msgstr "អ្នកកំពុងជា ម្ចាស់ការហៅ"
 
 msgctxt "sCALL_POPUP_ADD_PHONE_NUMBER"
 msgid "Call this person on their mobile or landline number."
-msgstr ""
+msgstr "ការ​ហៅ​មនុស្ស​នេះ​នៅ​លើ​ឧបករណ៍​ចល័ត​របស់​ពួក​គេ ឬ​លេខ landline ។"
 
 msgctxt "sMAINMENU_HIDE_FLAMINGO_CONTACTS"
 msgid "Hide Facebook Friends"
-msgstr ""
+msgstr "លាក់​មិត្តភ័ក្ដិ Facebook"
 
 msgctxt "sCALLPHONES_PRO_TITLE"
 msgid "Professional account"
-msgstr ""
+msgstr "គណនី​ផ្ទាល់ខ្លួន"
 
 msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
 msgid ""
 "%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">Request more"
 " credit</a>"
-msgstr ""
+msgstr "%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">សំណើ​ឥណទាន​ច្រើន</a>"
 
 msgctxt "sCALLPHONES_PRO_CREDIT_WARNING"
 msgid "Low on credit!"
@@ -10726,72 +10730,72 @@ msgstr ""
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_SING"
 msgid "You have %d subscription"
-msgstr ""
+msgstr "អ្នក​មាន​ការ​ជាវ %d"
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_PLUR"
 msgid "You have %d subscriptions"
-msgstr ""
+msgstr "អ្នក​មាន​ការ​ជាវ %d"
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
 msgid ""
 "<a href=\"skype:?go&sso=1#skype.manager.request-products\">Request a "
 "subscription</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go&sso=1#skype.manager.request-products\">ស្នើ​ការ​ជាវ</a>"
 
 msgctxt "sCALL_POPUP_EDIT_EXTENSION"
 msgid "Choose country code for this phone"
-msgstr ""
+msgstr "ជ្រើស​កូដ​ប្រទេស​សម្រាប់​ទូរស័ព្ទ​នេះ"
 
 msgctxt "sF_CALL_FAILURE_CREDIT_INFO_LNK"
 msgid "<a href=\"skype:?go#skypecredit\">What's Skype Credit?</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#skypecredit\">តើ​ឥណទាន​ Skype ជា​អ្វី?</a>"
 
 msgctxt "sLIVE_CONV_VOICEMAIL_RECORDING"
 msgid "Recording voice message %s"
-msgstr ""
+msgstr "ថត​សារ​ជា​សំឡេង %s"
 
 msgctxt "sFLAMINGO_EASY_TO_CONNECT"
 msgid "We've made it easy to message your Facebook friends."
-msgstr ""
+msgstr "អ្នក​​បាន​ធ្វើ​ឲ្យ​វា​មាន​ភាព​ងាយស្រួល​ចំពោះ​សារ​មិត្តភ័ក្ដិ​ Facebook របស់​អ្នក។"
 
 msgctxt "sFLAMINGO_PROBLEM_CONNECTTING"
 msgid "There's a problem connecting you to Facebook."
-msgstr ""
+msgstr "មាន​បញ្ហា​ក្នុង​ការ​តភ្ជាប់​ទៅ Facebook ។"
 
 msgctxt "sLIVE_VIDEO_OFF"
 msgid "Your video is turned off"
-msgstr ""
+msgstr "វីដេអូ​របស់​អ្នក​ត្រូវ​បាន​បិទ"
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add, send and share..."
-msgstr ""
+msgstr "បន្ថែម, ផ្ញើ និង​ចែករំលែក..."
 
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
-msgstr ""
+msgstr "ជម្រើស​អេក្រង់​សម្រាប់​ការ​ហៅ​នេះ"
 
 msgctxt "sMESSAGE_TO_FLAMINGO_NOT_DELIVERED"
 msgid "Your friend is now offline. They may not have received this message."
-msgstr ""
+msgstr "មិត្តភ័ក្ដិ​របស់​អ្នក​នៅ​ក្រៅ​បណ្ដាញ​ឥឡូវ​នេះ។ ពួកគេ​អាច​មិន​បាន​ទទួល​សារ​នេះ។"
 
 msgctxt "sFLAMINGO_CONNECTING"
 msgid "Connecting..."
-msgstr ""
+msgstr "ការ​តភ្ជាប់..."
 
 msgctxt "sFLAMINGO_OTHER_ERROR"
 msgid ""
 "Your list of friends isn't available right now. Try reconnecting to "
 "Facebook."
-msgstr ""
+msgstr "បញ្ជី​មិត្តភ័ក្ដិ​របស់​អ្នក​មិន​​អាច​រក​បាន​នៅ​ពេល​បច្ចុប្បន្ន។ ព្យាយាម​តភ្ជាប់​ទៅ Facebook ។"
 
 msgctxt "sFLAMINGO_DISABLED"
 msgid "You're not able to see Facebook friends in Skype at the moment."
-msgstr ""
+msgstr "អ្នក​មិន​អាច​មើល​ឃើញ​មិត្តភ័ក្ដិ Facebook តាម Skype នៅ​ខណៈ​នេះ។"
 
 msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
 msgid ""
 "<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get a subscription</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go&sso=1&country=%s#subscriptions\">ទទួល​យក​ការ​ជាវ</a>"
 
 msgctxt "sCALLPHONES_COUNTRY_DROPDOWN_HINT"
 msgid "Choose country/region"
@@ -10799,41 +10803,41 @@ msgstr "Choose country"
 
 msgctxt "sCALLPHONES_PHONE_EDIT_CLEAR_HINT"
 msgid "Clear number"
-msgstr ""
+msgstr "សម្អាត​លេខ"
 
 msgctxt "sCALLPHONES_PHONE_EDIT_RECENT_HINT"
 msgid "Recent numbers"
-msgstr ""
+msgstr "លេខ​ថ្មី"
 
 msgctxt "sERROR_CLIPBOARD_TITLE"
 msgid "Cannot open clipboard"
-msgstr ""
+msgstr "មិន​អាច​បើក​ក្ដារតម្បៀតខ្ទាស់"
 
 msgctxt "sERROR_CLIPBOARD_SUBTITLE"
 msgid "Cannot open clipboard"
-msgstr ""
+msgstr "មិន​អាច​បើក​ក្ដារតម្បៀតខ្ទាស់"
 
 msgctxt "sERROR_CLIPBOARD_TEXT"
 msgid ""
 "Another application may be using the Clipboard at the moment. Please try "
 "again"
-msgstr ""
+msgstr "កម្មវិធី​ផ្សេង​ទៀត​អាច​កំពុង​ត្រូវ​បាន​ប្រើ​ក្ដារតម្បៀតខ្ទាស់​នៅ​ខណៈ​នេះ។ សូម​ព្យាយាម​ម្ដងទៀត"
 
 msgctxt "sFLAMINGO_PRESENCE_HINT"
 msgid "(Facebook)"
-msgstr ""
+msgstr "(Facebook)"
 
 msgctxt "sF_OPTIONS_NOTIF_FLAMINGO_ONLINE"
 msgid "comes online (on Facebook)"
-msgstr ""
+msgstr "មក​លើ​បណ្ដាញ (លើ Facebook)"
 
 msgctxt "sF_OPTIONS_NOTIF_FLAMINGO_OFFLINE"
 msgid "goes offline (on Facebook)"
-msgstr ""
+msgstr "ទៅ​ក្រៅ​បណ្ដាញ (លើ Facebook)"
 
 msgctxt "sMAINMENU_DIALPAD"
 msgid "Show Dial Pad"
-msgstr ""
+msgstr "បង្ហាញ​បន្ទះ​លេខ"
 
 msgctxt "sFINGERSCROSSED_SMILEY"
 msgid "Fingers crossed"
@@ -10841,11 +10845,11 @@ msgstr ""
 
 msgctxt "sFACEPALM_SMILEY"
 msgid "Facepalm"
-msgstr ""
+msgstr "Facepalm"
 
 msgctxt "sWAITING_SMILEY"
 msgid "Waiting"
-msgstr ""
+msgstr "ការ​រង់ចាំ​"
 
 msgctxt "sHIGHFIVE_SMILEY"
 msgid "High five"
@@ -10853,15 +10857,15 @@ msgstr ""
 
 msgctxt "sLALALA_SMILEY"
 msgid "Lalala"
-msgstr ""
+msgstr "Lalala"
 
 msgctxt "sHEIDY_SMILEY"
 msgid "Heidy"
-msgstr ""
+msgstr "Heidy"
 
 msgctxt "sTUMBLEWEED_SMILEY"
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Tumbleweed"
 
 msgctxt "sWTF_SMILEY"
 msgid "What the..."
@@ -10869,74 +10873,74 @@ msgstr ""
 
 msgctxt "sWFH_SMILEY"
 msgid "Working from home"
-msgstr ""
+msgstr "ធ្វើ​ការ​ពី​ផ្ទះ"
 
 msgctxt "sHOLLEST_SMILEY"
 msgid "Hollest"
-msgstr ""
+msgstr "Hollest"
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr ""
+msgstr "បង្ហាញ​ទំនាក់ទំនង"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr ""
+msgstr "លាក់​ទំនាក់ទំនង"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
-msgstr ""
+msgstr "ធ្វើ​បច្ចុប្បន្នភាព​​រួច​ហើយ​ដើម្បី​ដំឡើង"
 
 msgctxt "sF_UPGRADE_READY_TEXT"
 msgid "The latest version of %s is ready to install now."
-msgstr ""
+msgstr "មាន​កំណែ​ថ្មី​បំផុត​ %s ដើម្បី​ដំឡើង​ឥឡូវ​នេះ។"
 
 msgctxt "sF_UPGRADE_READY_TEXT2"
 msgid ""
 "It won't take long to upgrade - and you'll get all the latest improvements "
 "and fixes."
-msgstr ""
+msgstr "វា​​នឹង​មិន​ចំណាយ​ពេល​យូរ​ដើម្បី​ធ្វើ​ឲ្យ​ទាន់សម័យ​ - ហើយ​អ្នក​នឹង​ទទួល​បាន​​ការ​​ធ្វើ​ឲ្យ​ប្រសើរ​ឡើង​ថ្មី​បំផុត​ទាំងអស់។"
 
 msgctxt "sF_UPGRADE_BTN_UPGRADE"
 msgid "Upgrade"
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​ទាន់​សម័យ"
 
 msgctxt "sF_UPGRADE_BTN_NOTNOW"
 msgid "Not now"
-msgstr ""
+msgstr "មិន​ឥឡូវ​"
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_CAPTION"
 msgid "Close this window"
-msgstr ""
+msgstr "បិទ​បង្អួច​នេះ"
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_TEXT"
 msgid ""
 "You haven't saved your changes. Do you still want to close this window?"
-msgstr ""
+msgstr "អ្នក​មិន​បាន​រក្សាទុក​ការ​ផ្លាស់ប្ដូរ​របស់​អ្នក។ តើ​អ្នក​នៅ​តែ​ចង់​បិទ​បង្អួច​នេះ​ឬ?"
 
 msgctxt "sF_CONFIRM_NO_BTN"
 msgid "No"
-msgstr ""
+msgstr "ទេ"
 
 msgctxt "sDELETE_VOICEMAIL_ERROR"
 msgid "Please wait a few moments and try deleting the message again."
-msgstr ""
+msgstr "សូម​រង់ចាំ​មួយ​រំពេច​ ហើយ​ព្យាយាម​លុប​សារ​ម្ដងទៀត។"
 
 msgctxt "sDELETE_VOICEMAIL_DLG_CAPTION"
 msgid "Voice message not deleted"
-msgstr ""
+msgstr "សារ​ជា​សំឡេង​​មិន​ត្រូវ​បាន​លុប​ឡើយ"
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr ""
+msgstr "ការ​ហៅ"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
-msgstr ""
+msgstr "ជ្រើស​រូបភាព​ធំ​ជាង។ ដើម្បី​ឲ្យ​វា​​​ងាយ​ស្រួល​មើល។"
 
 msgctxt "sAVATAR_CAPTURE_CHANGE_PICTURE"
 msgid "Change picture"
-msgstr ""
+msgstr "ប្ដូរ​រូបភាព"
 
 msgctxt "sPLUS_MENU_ADD_PEOPLE"
 msgid "Add people..."
@@ -10944,320 +10948,320 @@ msgstr "Add people"
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr ""
+msgstr "បន្ថែម​អ្នក​ទទួល​ដើម្បី​ផ្ញើ​សារ និង​ច្រើន​ទៀត"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
-msgstr ""
+msgstr "អ្នក​ចាំបាច់​នៅ​លើ​ការ​ហៅ​ដើម្បី​ចែករំលែក​​អេក្រង់"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_TITLE"
 msgid "Share Screens"
-msgstr ""
+msgstr "ចែក​រំលែក​អេក្រង់"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_OK"
 msgid "Call"
-msgstr ""
+msgstr "ហៅ"
 
 msgctxt "sMAINMENU_HIDE_DIALPAD"
 msgid "Hide dial pad"
-msgstr ""
+msgstr "លាក់​បន្ទះ​លេខ"
 
 msgctxt "sCHAT_FLAMINGO_CONTACT_OFFLINE"
 msgid "%s is offline on Facebook. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr ""
+msgstr "%s នៅ​ក្រៅ​បណ្ដាញ​លើ Facebook. <a href=\"skype:%s?sms\">Send SMS.</a>"
 
 msgctxt "sMENU_EXTRAS_GET_APPS_CAPTION"
 msgid "Get Apps..."
-msgstr ""
+msgstr "យក​កម្មវិធី..."
 
 msgctxt "sLIVE_PLUS_MENU_ADD_PEOPLE"
 msgid "Add People to This Call..."
-msgstr ""
+msgstr "បន្ថែម​មនុស្ស​នៅ​ការ​ហៅ​នេះ..."
 
 msgctxt "sOPTIONS_CALL_CONTROLS"
 msgid "Show call controls when Skype is in the background"
-msgstr ""
+msgstr "បង្ហាញ​វត្ថុ​បញ្ជា​ការ​ហៅ​នៅ​ពេល Skype នៅ​ក្នុង​ផ្ទៃ​ខាង​ក្រោយ"
 
 msgctxt "sCALL_POPUP_CALL_SKYPE_ITEM"
 msgid "Call"
-msgstr ""
+msgstr "ហៅ"
 
 msgctxt "sCALL_MONITOR_ON_HOLD"
 msgid "On hold"
-msgstr ""
+msgstr "រង់ចាំ"
 
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
-msgstr ""
+msgstr "ការ​ហៅ​ដំបូង​ឥត​គិត​ថ្លៃ"
 
 msgctxt "sCALL_PHONES"
 msgid "Call phones"
-msgstr ""
+msgstr "ហៅ​ទូរស័ព្ទ"
 
 msgctxt "sNEW_ACCOUNT_NOTIFY"
 msgid "New account notification"
-msgstr ""
+msgstr "ការ​ជូនដំណឹង​គណនី​ថ្មី"
 
 msgctxt "sNEW_ACCOUNT_NOTIFY_MANY"
 msgid "New account notifications"
-msgstr ""
+msgstr "ការ​ជូនដំណឹង​គណនី​ថ្មី"
 
 msgctxt "sCHANGE_SHARING_OPTIONS_HINT"
 msgid "Change sharing options"
-msgstr ""
+msgstr "ប្ដូរ​ជម្រើស​ចែករំលែក"
 
 msgctxt "sSCRSHARINGSEL_TITLE_SINGLE_DESKTOP"
 msgid "Start sharing your screen with %s"
-msgstr ""
+msgstr "ចាប់ផ្ដើម​ចែករំលែក​អេក្រង់​របស់​អ្នក​ជាមួួយ %s"
 
 msgctxt "sSCRSHARINGSEL_TITLE_WINDOWS"
 msgid "Select a window to share with %s"
-msgstr ""
+msgstr "ជ្រើស​បង្អួច​ដើម្បី​ចែករំលែក​ជាមួយ %s"
 
 msgctxt "sSCRSHARINGSEL_INFO"
 msgid ""
 "NOTE: Starting your screen sharing will cancel<br />the shared screen you "
 "are receiving"
-msgstr ""
+msgstr "សម្គាល់៖ ការ​ចាប់ផ្ដើម​ចែករំលែក​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​បោះបង់<br />អ្នក​កំពុង​ទទួល​បាន​អេក្រង់​ដែល​បាន​ចែករំលែក"
 
 msgctxt "sGETTING_STARTED_SETUP_LABEL1"
 msgid "Nearly done, just a couple of things"
-msgstr ""
+msgstr "ជិត​រួច​រាល់​ហើយ, នៅ​ពីរបី​ជំហាន​ទៀត"
 
 msgctxt "sGETTING_STARTED_SETUP_LABEL2"
 msgid ""
 "Check your sound and video – to make sure you'll be able to make voice and "
 "video calls."
-msgstr ""
+msgstr "ចុច​វីដេអូ និង​សំឡេង​របស់​អ្នក – ដើម្បី​ប្រាកដ​ថា​អ្នក​អាច​ធ្វើ​ការ​ហៅ​ជា​វីដេអូ និង​ជា​សំឡេង។"
 
 msgctxt "sGETTING_STARTED_SETUP_LABEL3"
 msgid ""
 "Set your profile picture – so friends, family and colleagues can easily find"
 " you."
-msgstr ""
+msgstr "កំណត់​រូបភាព​​​​ប្រវត្តិ​រូប​របស់​អ្នក – ដូច្នេះ​មិត្តភ័ក្ដិ, គ្រួសារ និង​អ្នក​រួមការ​ងារ​អាច​ងាយស្រួល​ក្នុង​ការ​ស្វែងរក​អ្នក។"
 
 msgctxt "sGETTING_STARTED_SETUP_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "បន្ត"
 
 msgctxt "sGETTING_STARTED_TITLE"
 msgid "<b>Setting up Skype</b>"
-msgstr ""
+msgstr "<b>ដំឡើង Skype</b>"
 
 msgctxt "sGETTING_STARTED_SOUND_CAPTION"
 msgid "Check your sound and video"
-msgstr ""
+msgstr "ពិនិត្យមើល​វីដេអូ និង​សំឡេង​របស់​អ្នក"
 
 msgctxt "sGETTING_STARTED_SPEAKERS_LABEL"
 msgid "<b>Speakers</b> - can you hear the test sound?"
-msgstr ""
+msgstr "<b>អូប៉ាល័រ</b> - តើ​អ្នក​អាច​ស្ដាប់​ឮ​សំឡេង​​សាកល្បង​នេះ​ទេ?"
 
 msgctxt "sGETTING_STARTED_MIC_LABEL"
 msgid "<b>Microphone</b> - can your voice be heard?"
-msgstr ""
+msgstr "<b>មីក្រូហ្វូន</b> - តើ​សំឡេង​របស់​អ្នក​អាច​ត្រូវ​បាន​ស្ដាប់​ឮ​​ដែរ​ឬ​ទេ?"
 
 msgctxt "sGETTING_STARTED_VIDEO_LABEL"
 msgid "<b>Video</b> - can you see yourself?"
-msgstr ""
+msgstr "<b>វីដេអូ</b> - តើ​អ្នក​អាច​មើល​ឃើញ​ខ្លួន​អ្នក​ដែរ​ឬ​ទេ?"
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEMS"
 msgid "<b>Problems with your sound?</b>"
-msgstr ""
+msgstr "<b>មាន​បញ្ហា​ជាមួយ​សំឡេង​របស់​អ្នក?</b>"
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_1"
 msgid "Check your speakers are plugged in."
-msgstr ""
+msgstr "ពិនិត្យមើល​អូប៉ាល័រ​របស់​អ្នក​ដែល​ត្រូវ​បាន​ដោត។"
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_2"
 msgid "Check your speakers are switched on."
-msgstr ""
+msgstr "ពិនិត្យមើល​​អូប៉ាល័រ​របស់​អ្នក​ដែល​ត្រូវ​បាន​បើក។"
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_3"
 msgid "Check your volume is turned up."
-msgstr ""
+msgstr "ពិនិត្យមើល​កម្រិត​សំឡេង​របស់​អ្នក​ដែល​ត្រូវ​បាន​បង្កើន។"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEMS"
 msgid "<b>Problems with your microphone?</b>"
-msgstr ""
+msgstr "<b>មាន​បញ្ហា​ជា​មីក្រូហ្វូន​ឬ?</b>"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_1"
 msgid "Check your microphone is switched on."
-msgstr ""
+msgstr "ពិនិត្យមើល​មីក្រូហ្វូន​របស់​អ្នក​ដែល​បាន​បើក។"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_2"
 msgid "Check mute isn’t on."
-msgstr ""
+msgstr "ពិនិត្យ​​សំឡេង​ដែល​មិន​បាន​បើក។"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_3"
 msgid "Try adjusting the input level."
-msgstr ""
+msgstr "ព្យាយាម​លៃ​តម្រូវ​កម្រិត​សំឡេង​ចូល។"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_4"
 msgid "Select a different microphone."
-msgstr ""
+msgstr "ជ្រើស​​មីក្រូហ្វូន​ផ្សេង។"
 
 msgctxt "sGETTING_STARTED_MORE_HELP"
 msgid "More help"
-msgstr ""
+msgstr "ជំនួយ​បន្ថែម"
 
 msgctxt "sGETTING_STARTED_PLAY_SOUND"
 msgid "Test sound"
-msgstr ""
+msgstr "សាកល្បង​សំឡេង"
 
 msgctxt "sGETTING_STARTED_INTRO_CAPTION"
 msgid "Add a profile picture"
-msgstr ""
+msgstr "បន្ថែម​រូបភាព​ប្រវត្តិរូប"
 
 msgctxt "sGETTING_STARTED_INTRO_CONTENT1"
 msgid ""
 "Your profile picture is how people will see you on Skype. It’s much easier "
 "for your friends, family and colleagues to find you when they can see your "
 "picture."
-msgstr ""
+msgstr "រូបភាព​ប្រវត្តិរូប​របស់​អ្នក​នឹង​ត្រូវ​បាន​មើល​ឃើញ​នៅ​លើ Skype ។ វា​មាន​ភាព​ងាយស្រួល​សម្រាប់​មិត្តភ័ក្ដិ, គ្រួសារ និង​មិត្ត​រួម​​​ការ​ងារ​របស់​អ្នក​ដើម្បី​ស្វែងរក​អ្នក នៅ​ពេល​ដែល​ពួកគេ​ឃើញ​រូបភាព​របស់​អ្នក។"
 
 msgctxt "sGETTING_STARTED_INTRO_CONTENT2"
 msgid "Add a profile picture so people find the right %s."
-msgstr ""
+msgstr "បន្ថែម​រូបភាព​ប្រវត្តិរូប​ដូច្នេះ​មនុស្ស​​អាច​ស្វែងរក​បាន​ងាយស្រួល %s ។"
 
 msgctxt "sGETTING_STARTED_INTRO_CONTENT3"
 msgid "You can easily update your picture later."
-msgstr ""
+msgstr "អ្នក​អាច​ធ្វើ​បច្ចុប្បន្នភាព​រូបភាព​របស់​អ្នក​បាន​យ៉ាង​ងាយស្រួល​នៅ​ពេល​ក្រោយ។"
 
 msgctxt "sGETTING_STARTED_INTRO_ADD_LATER"
 msgid "Add later"
-msgstr ""
+msgstr "បន្ថែម​នៅ​ពេល​ក្រោយ"
 
 msgctxt "sGETTING_STARTED_SET_PICTURE_LABEL"
 msgid ""
 "Take a picture of yourself with your webcam, or browse for a picture on your"
 " computer."
-msgstr ""
+msgstr "ថត​រូប​ដោយ​ខ្លួន​ឯង​ជាមួយ​វេបខេម​របស់​អ្នក, ឬ​កម្មវិធី​អ៊ីនធឺណិត​សម្រាប់​រូបភាព​នៅ​លើ​កុំព្យូទ័រ​របស់​អ្នក។"
 
 msgctxt "sGETTING_STARTED_TAKE_SNAPSHOT_BUTTON"
 msgid "Take a picture"
-msgstr ""
+msgstr "ថត​រូប"
 
 msgctxt "sGETTING_STARTED_CHOOSE_FILE_BUTTON"
 msgid "Browse..."
-msgstr ""
+msgstr "រក​មើល..."
 
 msgctxt "sGETTING_STARTED_CHOOSE_WEBCAM_LABEL"
 msgid "Choose a different webcam"
-msgstr ""
+msgstr "ជ្រើស​វេបខេម​ផ្សេង"
 
 msgctxt "sSHARE_DESKTOP"
 msgid "Share desktop"
-msgstr ""
+msgstr "ចែករំលែក​ផ្ទៃតុ"
 
 msgctxt "sSHARE_WINDOW"
 msgid "Share window"
-msgstr ""
+msgstr "ចែករំលែក​បង្អួច"
 
 msgctxt "sGETTING_STARTED_SAVE_BUTTON"
 msgid "Use this picture"
-msgstr ""
+msgstr "ប្រើ​រូបភាព​នេះ"
 
 msgctxt "sZAPCONTACT_XMPP"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sGETTING_STARTED_TRY_AGAIN"
 msgid "Try again"
-msgstr ""
+msgstr "ព្យាយាម​ម្ដងទៀត"
 
 msgctxt "sGETTING_STARTED_TRY_DONE_LABEL"
 msgid ""
 "You're all set up and ready to add your friends, family and colleagues and "
 "start making voice and video calls."
-msgstr ""
+msgstr "អ្នក​រៀបចំ​រួចរាល់​​ហើយ​ដើម្បី​មិត្តភ័ក្ដិ​​, គ្រួសារ និង​អ្នក​រួម​ការងារ ហើយ​ចាប់ផ្ដើម​ធ្វើ​ការ​ហៅ​ជា​វីដេអូ និង​ជា​សំឡេង។"
 
 msgctxt "sGETTING_STARTED_TRY_START_SKYPE"
 msgid "Start using Skype"
-msgstr ""
+msgstr "ចាប់ផ្ដើម​ប្រើ Skype"
 
 msgctxt "sGETTING_STARTED_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "បិទ"
 
 msgctxt "sGETTING_STARTED_SET_PICTURE_TITLE"
 msgid "Set your profile picture"
-msgstr ""
+msgstr "កំណត់​រូបភាព​ប្រវត្តិរូប​របស់​អ្នក"
 
 msgctxt "sSCREEN_SHARING_CHANGE_SETTINGS"
 msgid "Change screen sharing settings"
-msgstr ""
+msgstr "ប្ដូរ​ការ​កំណត់​ការ​ចែករំលែក​អេក្រង់"
 
 msgctxt "sFLOW_CALL_REJECTED_OUT"
 msgid "Call to %s, busy."
-msgstr ""
+msgstr "ហៅ​ទៅ %s, ជាប់​រវល់។"
 
 msgctxt "sHOTKEY_PUSHTOTALK"
 msgid "Toggle mute (Push-to-talk)"
-msgstr ""
+msgstr "បិទ/បើក សំឡេង (ចុច​ដើម្បី​និយាយ)"
 
 msgctxt "sCALLALERT_HANG_UP"
 msgid "Answering this call will hang up your active call."
-msgstr ""
+msgstr "ឆ្លើយតប​ការ​ហៅ​នេះ​នឹង​បញ្ចប់​ការ​សន្ទនា​ការ​ហៅ​សកម្ម​របស់​អ្នក។"
 
 msgctxt "sF_OPTIONS_SAVING_FAILED3"
 msgid ""
 "Sorry. Your new settings could not be saved at this time. Please try again "
 "later."
-msgstr ""
+msgstr "សូមទោស, ការ​កំណត់​ថ្មី​របស់​អ្នក​មិន​អាច​ត្រូវ​បាន​រក្សាទុក​នៅ​ពេល​នេះ​បាន​ទេ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ។"
 
 msgctxt "sF_OPTIONS_SAVING_FAILED4"
 msgid "Settings not saved"
-msgstr ""
+msgstr "ការ​កំណត់​មិន​ត្រូវ​បាន​រក្សាទុក"
 
 msgctxt "sFLOW_CALL_UNANSW_OUT_FBPLUGIN_INST"
 msgid "Call to %s, failed. Plugin required"
-msgstr ""
+msgstr "បាន​បរាជ័យ​ក្នុង​ការ​ %s, ។ បាន​ទាមទារ​កម្មវិធី​ជំនួយ"
 
 msgctxt "sFBPLUGIN_INSTALL_WARNING"
 msgid ""
 "Your friend needs to install a plugin before you can chat.  Please wait for "
 "their return call or try again later."
-msgstr ""
+msgstr "មិត្តភ័ក្ដិ​របស់​អ្នក​ចាំបាច់​ដំឡើង​កម្មវិធី​ជំនួយ​មុន​ពេល​អ្នក​អាច​ជជែក។ សូម​រង់ចាំ​ការ​ហៅ​ត្រឡប់​មក​វិញ​ ឬ​ព្យាយាម​ម្ដងទៀត។"
 
 msgctxt "sFBPLUGIN_INSTALL_FORM_CAPTION"
 msgid "Calling %s"
-msgstr ""
+msgstr "កំពុង​ហៅ %s"
 
 msgctxt "sFBPLUGIN_INSTALL_BGR_CAPTION"
 msgid "Facebook needs a plugin"
-msgstr ""
+msgstr "Facebook ត្រូវ​ការ​កម្មវិធី​ជំនួយ"
 
 msgctxt "sSCRSHARINGSEL_TITLE_CHECKING_SUBS"
 msgid "Checking subscription"
-msgstr ""
+msgstr "ពិនិត្យមើល​ការ​ជាវ"
 
 msgctxt "sSCREENSHARING_SUBS_CHECK_FAILED"
 msgid "<center>Could not check subscription, try again ... </center>"
-msgstr ""
+msgstr "<center>មិន​អាច​ពិនិត្យ​ការ​ជាវ​, ព្យាយាម​ម្ដងទៀត ... </center>"
 
 msgctxt "sCALL_RESUME_OTHERS_HANG_UP"
 msgid "To resume a call you need to end your current call"
-msgstr ""
+msgstr "ដើម្បី​បន្ត​ការ​ហៅ​អ្នក​ចាំបាច់​បញ្ចប់​ការ​ហៅ​បច្ចុប្បន្ន​របស់​អ្នក"
 
 msgctxt "sCALL_IN_PROGRESS_HANG_UP"
 msgid "Calling %s will end your current call"
-msgstr ""
+msgstr "ការ​ហៅ %s នឹង​បញ្ចប់​ការ​ហៅ​បច្ចុប្បន្ន​របស់​អ្នក"
 
 msgctxt "sCALL_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sSTATUSMENU_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sSTATUSMENU_FLAMINGO_SAMEASSKYPE"
 msgid "Same as on Skype"
-msgstr ""
+msgstr "ដូច​ជា​នៅ​លើ Skype"
 
 msgctxt "sUNNAMED_GROUP"
 msgid "Unnamed group"
-msgstr ""
+msgstr "Unnamed group"
 
 msgctxt "sF_CONTENT_BROWSER_MSG1_1"
 msgid "This file \"%0:s\" belongs to %1:s."
@@ -11273,211 +11277,211 @@ msgstr "ឯកសារ ជា របស់អ្នកដទៃ"
 
 msgctxt "sMAINMENU_HELP_PRIVACY"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "គោលនយោបាយ​ភាព​ឯកជន"
 
 msgctxt "sTEST_SOUND_PLAY_ACC_DESC"
 msgid "Click to start playing test sound"
-msgstr ""
+msgstr "ចុច​ដើម្បី​ចាប់ផ្ដើម​ចាក់​សំឡេង​សាកល្បង"
 
 msgctxt "sTEST_SOUND_STOP_ACC_DESC"
 msgid "Click to stop playing test sound"
-msgstr ""
+msgstr "ចុច​ដើម្បី​បញ្ឈប់​សំឡេង​សាកល្បង"
 
 msgctxt "sSMS_REPLY_TO_CHAT"
 msgid "Replies will be shown here"
-msgstr ""
+msgstr "ចម្លើយ​តប​នឹង​ត្រូវ​បាន​​បង្ហាញ​នៅ​ទៅ​នេះ"
 
 msgctxt "sSMS_REPLY_TO_NUM"
 msgid "Replies will be sent to %s"
-msgstr ""
+msgstr "ចម្លើយ​តប​នឹង​ត្រូវ​បាន​ផ្ញើ​ទៅ %s"
 
 msgctxt "sSMS_REPLY_TO_NONE"
 msgid "To receive replies, add a From number"
-msgstr ""
+msgstr "ដើម្បី​ទទួល​ចម្លើយ​តប, បន្ថែម​ពី​លេខ"
 
 msgctxt "sLIVE_SO_PLUS_BUTTON_HINT"
 msgid "Add participants"
-msgstr ""
+msgstr "បន្ថែម​អ្នក​ចូលរួម"
 
 msgctxt "sSO_PLUS_MENU_HINT"
 msgid "Add participants"
-msgstr ""
+msgstr "បន្ថែម​អ្នក​ចូលរួម"
 
 msgctxt "sLIVE_CALLING_FLAMINGO"
 msgid "calling on Facebook (Beta)"
-msgstr ""
+msgstr "ការ​ហៅ​នៅ​លើ Facebook (Beta)"
 
 msgctxt "sHOTKEY_SNAPSHOT"
 msgid "Take a snapshot during video calls"
-msgstr ""
+msgstr "ថត​រូប​អំឡុង​ពេល​ហៅ​ជា​វីដេអូ"
 
 msgctxt "sSMS_FROM_MORE_OPTIONS"
 msgid "More options"
-msgstr ""
+msgstr "ជម្រើស​ជា​ច្រើន"
 
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sSMS_FROM_MY_PHONE"
 msgid "My mobile"
-msgstr ""
+msgstr "ឧបករណ៍​ចល័ត​របស់​ខ្ញុំ"
 
 msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
-msgstr ""
+msgstr "បន្ថែម​លេខ"
 
 msgctxt "sSMS_FROM_SKYPE_DISABLED"
 msgid "Skype (not available)"
-msgstr ""
+msgstr "Skype (មិន​មាន)"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION1"
 msgid "To receive SMS replies directly in Skype"
-msgstr ""
+msgstr "ដើម្បី​ទទួល​ចម្លើយ​តប​សារ SMS ដោយ​ផ្ទាល់​តាម Skype"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION2"
 msgid "Below the chat box, select <b>Reply to</b> and choose <b>Skype</b>."
-msgstr ""
+msgstr "ប្រអប់​ជជែក​ខាងក្រោម, ជ្រើស <b>ឆ្លើយតប​​ចំពោះ</b> ហើយ​ជ្រើស <b>Skype</b>។"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION3"
 msgid "(Not available with some mobile numbers.)"
-msgstr ""
+msgstr "(មិន​មាន​ជាមួយ​លេខ​​ឧបករណ៍​ចល័ត​មួយ​ចំនួន។)"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION4"
 msgid "To receive SMS replies on your mobile"
-msgstr ""
+msgstr "ដើម្បី​ទទួល​ចម្លើយ​តប​​សារ SMS នៅ​លើ​ឧបករណ៍​ចល័ត​របស់​អ្នក"
 
 msgctxt "sF_OPTIONS_SMS_CAPTION5"
 msgid "Below the chat box, select <b>Reply to</b> and choose <b>Mobile</b>."
-msgstr ""
+msgstr "ប្រអប់​ជជែក​ខាង​ក្រោម <b>ការ​ឆ្លើយ​តប</b> ហើយ​ជ្រើស <b>ឧបករណ៍​ចល័ត</b> ។"
 
 msgctxt "sF_OPTIONS_SMS_VER_NUMBERS"
 msgid "Your verified numbers:"
-msgstr ""
+msgstr "លេខ​ដែល​​បាន​ផ្ទៀងផ្ទាត់​របស់​អ្នក៖"
 
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
-msgstr ""
+msgstr "យល់ព្រម"
 
 msgctxt "sF_OPTIONS_SMS_VER_CAPTION"
 msgid "Please verify your mobile number below:"
-msgstr ""
+msgstr "សូម​ផ្ទៀងផ្ទាត់​លេខ​ឧបករណ៍​ចល័ត​របស់​អ្នក​​​ខាងក្រោម៖"
 
 msgctxt "sF_USERINFO_AGE_JUST_GOT_NOYEAR"
 msgid "It's %s's birthday today"
-msgstr ""
+msgstr "វា​ជា​ថ្ងៃ​កំណើត​របស់ %s ថ្ងៃ​នេះ"
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
-msgstr ""
+msgstr "ធ្វើ​បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ"
 
 msgctxt "sF_OPTIONS_LBC_UPGRADES"
 msgid "<b>Automatic updates:</b> ensure you always have the latest version"
-msgstr ""
+msgstr "<b>ធ្វើ​បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ៖</b> សូម​ប្រាកដ​ថា​អ្នក​មាន​កំណែ​ថ្មី​បំផុត​ជា​និច្ច"
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL1"
 msgid ""
 "With automatic updates, Skype will upgrade itself, so you'll always have the"
 " latest version without needing to do anything."
-msgstr ""
+msgstr "ដោយ​មាន​ធ្វើ​បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ, Skype នឹង​ធ្វើ​បច្ចុប្បន្ន​ដោយ​ខ្លួន​ឯង, ដូច្នេះ​អ្នក​នឹង​មាន​កំណែ​ថ្មី​ជា​និច្ច​ដោយ​មិន​ចាំបាច់​ធ្វើ​អ្វី​ទាំងអស់។"
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL2"
 msgid ""
 "You need administrator access to change this setting, which affects everyone"
 " using Skype on this machine."
-msgstr ""
+msgstr "អ្នក​ចាំបាច់​ចូល​ជា​អ្នក​គ្រប់គ្រង ដើម្បី​ផ្លាស់ប្ដូរ​ការ​កំណត់​នេះ, ដែល​​មាន​ឥទ្ធិពល​លើ​អ្នក​រាល់គ្នា​ដោយ​ប្រើ Skype នៅ​លើ​ម៉ាស៊ីន​នេះ។"
 
 msgctxt "sF_OPTIONS_UPGRADE_TURN_ON"
 msgid "Turn on automatic updates"
-msgstr ""
+msgstr "បើក​ការ​ធ្វើ​បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ"
 
 msgctxt "sF_OPTIONS_UPGRADE_TURN_OFF"
 msgid "Turn off automatic updates"
-msgstr ""
+msgstr "បិទ​ការ​ធ្វើ​បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ"
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL3"
 msgid "Running Microsoft Update may also install important Skype updates."
-msgstr ""
+msgstr "ដំណើរការ​​បច្ចុប្បន្ន​ម៉ៃក្រូសូហ្វ​អាច​ដំឡើង​បច្ចុប្បន្នភាព Skype សំខាន់ៗ​ផង​ដែរ។"
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL4"
 msgid ""
 "<a href=\"skype:?go#automaticupdate\">More about Skype and Microsoft "
 "Update</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#automaticupdate\">អំពី​បច្ចុប្បន្ន​ភាព​ម៉ៃក្រូសូហ្វ និង Skype</a>"
 
 msgctxt "sSEND_ONE_CONTACT_CONFIRMATION_TEXT"
 msgid ""
 "Do you want to send %s's contact details to the people in this "
 "conversation?<br /><br />This doesn't add %s to the conversation."
-msgstr ""
+msgstr "តើ​អ្នក​ចង់​ផ្ញើ​​ព័ត៌មាន​លម្អិត​ទំនាក់ទំនង %s ទៅ​មនុស្ស​ក្នុង​ការ​សន្ទនា​នេះ​ឬ?<br /><br />វា​មិន​ចាំបាច់​បន្ថែម %s ទៅ​​ការ​សន្ទនា​នេះ​ទេ។"
 
 msgctxt "sSEND_MANY_CONTACT_CONFIRMATION_TEXT"
 msgid ""
 "Do you want to send these contact details to the people in this "
 "conversation?<br /><br />This doesn't add them to the conversation."
-msgstr ""
+msgstr "តើ​អ្នក​ចង់​ផ្ញើ​ព័ត៌មាន​លម្អិត​ទំនាក់ទំនង​ទៅ​មនុស្ស​ក្នុង​ការ​សន្ទនា​នេះ​ឬ?<br /><br />វា​​មិន​បន្ថែម​ពួក​វា​ទៅ​ការ​សន្ទនា​​​ឡើយ។"
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
 msgid "&Send contact details"
-msgstr ""
+msgstr "ផ្ញើ​ព័ត៌មាន​លម្អិត​ទំនាក់ទំនង"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
 "Sorry, you can't call %s right now because they're signed into more than one"
 " Skype account linked to Facebook."
-msgstr ""
+msgstr "សូមទោស, អ្នក​មិន​អាច​ហៅ %s នៅ​ពេល​ឥឡូវ​​right now because they're signed into more than one Skype account linked to Facebook."
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "សំណព្វ"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr ""
+msgstr "អូស​ទំនាក់ទំនង​នៅ​ទីនេះ"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr ""
+msgstr "បិទ"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr ""
+msgstr "ប្ដូរ​ឈ្មោះ"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr ""
+msgstr "លុប"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "បន្ថែម​ទៅ​សំណព្វ"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "លុប​ចេញ​ពី​សំណព្វ"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr ""
+msgstr "លើ​បណ្ដាញ"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sPREM_SCREENSHARING_WEB_WINDOW_CAPTION"
 msgid "Screen sharing"
-msgstr ""
+msgstr "ការ​ចែករំលែក​អេក្រង់"
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "ទាំងអស់"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sSELECTED_LIST_HINT"
 msgid "Change Contact list"
-msgstr ""
+msgstr "ផ្លាស់ប្ដូរ​បញ្ជី​ទំនាក់ទំនង"
 
 msgctxt "sPREM_VIDEO_UPSELL_MPV"
 msgid ""
@@ -11956,11 +11960,11 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr ""
+msgstr "ផ្ញើ​សារ"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "ផ្ញើ​សារ SMS"
 
 msgctxt "sSEND_SMS_TARGET_HINT"
 msgid "Change where you send SMS."
