@@ -29,6 +29,10 @@ Albanian (Shqip)
 Translator(s): ahmet_murati
 Source: Skype Forum
 
+Alemannic German (Àlèmannisch)
+Translator: Mireille Liebmann
+Source: Skype Mini
+
 Aragonese (Aragonés)
 Translator(s): Jorge Pérez & Juan Pablo Martinez (Softaragonés)
 Source: http://wiki.softaragones.org/index.php/Skype
@@ -154,6 +158,10 @@ Source: Transifex
 Macedonian (Македонски јазик)
 Translator(s): Samarakov Gjorgji, Karakabakov Gjorge, Patirova Marijana, Stojilkov Kristijan and Todorovski Nikola
 Source: http://www.eurm.edu.mk/news/news/skype-in-macedonian-language.html
+
+Malay (Bahasa Melayu)
+Translator: abuyop
+Source: Transifex
 
 Marathi (मराठी)
 Translator(s): prash32
