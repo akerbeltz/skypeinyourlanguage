@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Type a number to call</source>
-        <translation type="unfinished"/>
+        <translation>Нумерсене пус шăнкăравлама</translation>
     </message>
     <message>
         <source>Connecting...</source>
@@ -386,11 +386,11 @@
     </message>
     <message>
         <source>Voice Message Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Сасси çыру саламлать</translation>
     </message>
     <message>
         <source>Voice Message Recording</source>
-        <translation type="unfinished"/>
+        <translation>Сасси çыру çырать</translation>
     </message>
     <message>
         <source>Unable to connect</source>
@@ -477,7 +477,7 @@
     </message>
     <message>
         <source>%1 user(s)</source>
-        <translation type="unfinished"/>
+        <translation>%1 çын(сем)</translation>
     </message>
     <message>
         <source>No recent messages.</source>
@@ -552,7 +552,7 @@
     </message>
     <message>
         <source>Chat participants</source>
-        <translation type="unfinished"/>
+        <translation>Калаçу хутшăнакансем</translation>
     </message>
     <message>
         <source>Adding users failed</source>
@@ -564,7 +564,7 @@
     </message>
     <message>
         <source>Load previous history from the chat</source>
-        <translation type="unfinished"/>
+        <translation>Калаçуран авалхи çырусене кăтарт</translation>
     </message>
     <message>
         <source>Leave Chat</source>
@@ -605,19 +605,19 @@
     </message>
     <message>
         <source>If you leave this chat, you will no longer receive any new messages from the chat.  Are you really sure you want to leave the chat?</source>
-        <translation type="unfinished"/>
+        <translation>Эс калаçуран тухсассăн, эс çĕнĕ çырусене нихăçан та илтемейстен. Сана ку калаçуран чăнах-та тухас килет-и?</translation>
     </message>
     <message>
         <source>Click here to hide members of this chat</source>
-        <translation type="unfinished"/>
+        <translation>Ан кăтарт пулсан çынсене ку калаçура кунта пуш.</translation>
     </message>
     <message>
         <source>Click here to show members of this chat</source>
-        <translation type="unfinished"/>
+        <translation>Кăтарт пулсан çынсене ку калаçура кунта пуш.</translation>
     </message>
     <message>
         <source>invited %1</source>
-        <translation type="unfinished"/>
+        <translation>йыхравнă %1</translation>
     </message>
     <message>
         <source>has changed the chat topic to &quot;%1&quot;</source>
@@ -625,7 +625,7 @@
     </message>
     <message>
         <source>kicked %1 from the chat.</source>
-        <translation type="unfinished"/>
+        <translation>%1 калаçуран çапса кăларна</translation>
     </message>
     <message>
         <source>Information</source>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; калаçура тупма пулман(эс пурте авалхи çырусене пăхса ил)</translation>
     </message>
     <message>
         <source>Cannot find more occurences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
@@ -643,12 +643,12 @@
     <message>
         <source>Double-click here to set chat topic.</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation type="unfinished"/>
+        <translation>Калаçу темине тÿрлет пулсан кунта иккĕ хут пус.</translation>
     </message>
     <message>
         <source>Double-click here to set chat topic</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation type="unfinished"/>
+        <translation>Калаçу темине тÿрлет пулсан кунта иккĕ хут пус</translation>
     </message>
     <message>
         <source>Chat with %1</source>
