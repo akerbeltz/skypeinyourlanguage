@@ -26,12 +26,16 @@ Translator(s): Unknown, OomDaan
 Source: http://sariemarais.com/SkypeAfrikaans.lang & Transifex
 
 Albanian (Shqip)
-Translator(s): ahmet_murati
-Source: Skype Forum
+Translator(s): ahmet_murati, erion
+Source: Skype Forum, Transifex
 
 Alemannic German (Àlèmannisch)
 Translator: Mireille Liebmann
 Source: Skype Mini
+
+Arabic () - Linux only
+Translator: RainDropR
+Source: Transifex
 
 Aragonese (Aragonés)
 Translator(s): Jorge Pérez & Juan Pablo Martinez (Softaragonés)
@@ -131,6 +135,10 @@ Irish (Gaeilge)
 Translator(s): Kevin Scannell
 Source: http://borel.slu.edu/gnu/skype/
 
+Kannada (ಕನ್ನಡ)
+Translator: maltesh0188
+Source: Transifex
+
 Khmer (ភាសាខ្មែរ)
 Translator(s): Unknown, khoemsokhem
 Source: http://www.khmercity.net/profiles/blogs/skype-100 & Transifex
@@ -184,16 +192,20 @@ Translator(s): Yustinus Waruwu
 Source: http://www.muenster.de/~yuswar/File_Skype_Li_Niha.doc
 
 Nynorsk
-Translator(s): Unknown
-Source: http://norskprogramvare.wordpress.com/tag/skype/
+Translator(s): Unknown, bjorni
+Source: http://norskprogramvare.wordpress.com/tag/skype/, Transifex
+
+Occitan
+Translator: Cedric31
+Source: Transifex
 
 Palatinate German (Pälzisch)
 Translator(s): Purodha Bliessenbach
 Source: http://www.peschke.eu/D/
 
 Persian (Farsi/فارسی)
-Translator(s): Ali Arash
-Source: http://ib.aliarash.com/elearning/pdf/persian.rar
+Translator(s): Ali Arash, khalil.delavaran, Reza_Moghadam
+Source: http://ib.aliarash.com/elearning/pdf/persian.rar, Transifex
 
 Piedmontese (Piemontèis)
 Translator: Giuseppe Sanero
@@ -254,7 +266,8 @@ Translator: ualmasov
 Source: Transifex
 
 Welsh (Cymraeg)
-Translator: Merlyn Cooper
+Translator: Merlyn Cooper, huwwaters
+Source: Transifex
 
 Yakut (Саха тыла)
 Translator: Halan, Dorghoon, bacr
