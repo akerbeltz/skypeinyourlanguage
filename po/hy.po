@@ -1,14 +1,15 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# HrantOhanyan <hrantohanyan@mail.am>, 2013
+# HrantOhanyan <h.ohanyan@haysoft.org>, 2013
+# HrantOhanyan <h.ohanyan@haysoft.org>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-03-05 21:32:14+0000\n"
-"PO-Revision-Date: 2013-05-10 16:46+0000\n"
-"Last-Translator: HrantOhanyan <hrantohanyan@mail.am>\n"
+"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
+"PO-Revision-Date: 2013-11-06 15:02+0000\n"
+"Last-Translator: HrantOhanyan <h.ohanyan@haysoft.org>\n"
 "Language-Team: Armenian (http://www.transifex.com/projects/p/skype-translation-project/language/hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1789,8 +1790,8 @@ msgid "Enable all sounds"
 msgstr "Միացնել բոլորը ձայները"
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
-msgid "Buy Skype voice messaging"
-msgstr "Գնել Skype-ի ձայնային հաղորդագրություններ"
+msgid "Set up voice messaging"
+msgstr "Կարգավորել ձայնային հաղորդագրությունը"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
@@ -3237,10 +3238,9 @@ msgstr "Փոխել ձայները…"
 msgctxt "sF_USERENTRY_LB_EULA3"
 msgid ""
 "Yes, I have read and I accept the <a href=\"skype:?go#eula\">Skype End User "
-"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of "
-"Service</a> and the <a href=\"skype:?go#privacy\">Skype Privacy "
-"Statement</a>"
-msgstr "Այո, ես կարդացել և ընդունել եմ <a href=\"skype:?go#eula\">Skype-ի օգտվողի արտոնագրային  համաձայնությունը </a>, <a href=\"skype:?go#tos\">Skype-ի ծառայության մատուցման պայմանները</a> և <a href=\"skype:?go#privacy\"> Skype-ի գաղտնիության համաձայնությունը</a>"
+"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of Use</a> "
+"and the <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>"
+msgstr "Ես ընթերցել եմ և ընդունում եմ <a href=\"skype:?go#eula\">Skype End User License Agreement</a>-ը, <a href=\"skype:?go#tos\">Skype Terms of Use</a>-ը և <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>-ը"
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
 msgid "You can't send a file to yourself."
@@ -3368,7 +3368,7 @@ msgstr "Խոսքերն ավելորդ են"
 
 msgctxt "sKISS_SMILEY"
 msgid "Kiss"
-msgstr "Համբուրիր"
+msgstr "Համբույր"
 
 msgctxt "sTONGUE_OUT_SMILEY"
 msgid "Cheeky"
@@ -4420,10 +4420,6 @@ msgid ""
 "and leave voice messages for your contacts if you can't get hold of them."
 msgstr "Ստեղծեք ձայնային փոստի անձնական հաղորդագրություն, պահպանեք այն՝ կրկին լսելու համար, ինչպես նաև թողեք ձայնային հաղորդագրություններ այլ օգտվողների։"
 
-msgctxt "sF_OPTIONS_VOICEMAIL_LABEL2"
-msgid "Get voice messaging when you sign up for a subscription."
-msgstr "Ակտիվացրեք ձայնային փոստը բաժանորդագրվելիս։"
-
 msgctxt "sF_OPTIONS_UPGRADE_SKYPPRO"
 msgid "Get a subscription"
 msgstr "Բաժանորդագրվել"
@@ -4603,8 +4599,8 @@ msgid "Add to Contacts"
 msgstr "Պահպանել համարը"
 
 msgctxt "sZAPBUTTON_ADDCONTACT"
-msgid "Add contact"
-msgstr "Ավելացնել կոնտակտ"
+msgid "Add a contact"
+msgstr "Ավելացնել կոնտակտներին"
 
 msgctxt "sZAPBUTTON_ADDCONTACTMENU"
 msgid "All contacts"
@@ -4906,6 +4902,14 @@ msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
 msgstr "Փակել"
 
+msgctxt "sZAPBUTTON_CLOSEONWHITE"
+msgid "Close"
+msgstr "Փակել"
+
+msgctxt "sZAPBUTTON_CLOSEONBLUE"
+msgid "Close"
+msgstr "Փակել"
+
 msgctxt "sZAPBUTTON_CLOSEEC"
 msgid "Close"
 msgstr "Փակել"
@@ -5082,6 +5086,10 @@ msgctxt "sZAPBUTTON_DONTSHOW"
 msgid "Don't show again"
 msgstr "Այլևս չցուցադրել"
 
+msgctxt "sZAPBUTTON_REPLY"
+msgid "Reply"
+msgstr "Պատասխանել"
+
 msgctxt "sZAPBUTTON_DIALADRECENT"
 msgid "Recent numbers"
 msgstr "Վերջին համարները"
@@ -5119,8 +5127,8 @@ msgid "Exit popout mode"
 msgstr "Ելք՝ լողացող վիճակից"
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
-msgid "TopUpHelp"
-msgstr "TopUpHelp"
+msgid "Help"
+msgstr "Օգնություն"
 
 msgctxt "sZAPBUTTON_FILETRANSFER"
 msgid "File Transfer"
@@ -5199,8 +5207,8 @@ msgid "<ks>P</ks>revious"
 msgstr "<ks>Ն</ks>ախորդը"
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
-msgid "FollowLink"
-msgstr "Հետևել հղմանը"
+msgid "My account"
+msgstr "Իմ հաշիվը"
 
 msgctxt "sZAPBUTTON_FORWARD"
 msgid "Forward"
@@ -5232,11 +5240,11 @@ msgstr "Խմբային տեսազանգ"
 
 msgctxt "sZAPBUTTON_UPGRADEPREMIUMVIDEO"
 msgid "Upgrade now"
-msgstr "Թարմացնել"
+msgstr "Արդիացնել"
 
 msgctxt "sZAPBUTTON_SENDFREEUPGRADELINK"
 msgid "Send upgrade link"
-msgstr "Ուղարկել թարմացման հասցեն"
+msgstr "Ուղարկել արդիացման հասցեն"
 
 msgctxt "sZAPBUTTON_GETSTARTED"
 msgid "<b><font type=\"Arial\">Get started</font></b>"
@@ -5359,12 +5367,12 @@ msgid "Home"
 msgstr "Տան"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
-msgid "HomeOrange"
-msgstr "HomeOrange"
+msgid "Skype Home, new updates"
+msgstr "Skype-ի կայքը, նոր թարմացումներ"
 
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
-msgid "AddContactSemiActive"
-msgstr "AddContactSemiActive"
+msgid "Add to contacts"
+msgstr "Ավելացնել կոնտակտներին"
 
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
@@ -6306,6 +6314,18 @@ msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
 msgstr "Տեսազանգ"
 
+msgctxt "sZAPBUTTON_RERECORDVIDM"
+msgid "Re-record message"
+msgstr "Կրկին տեսագրել"
+
+msgctxt "sZAPBUTTON_CANCELVIDM"
+msgid "Cancel message"
+msgstr "Չեղարկել"
+
+msgctxt "sZAPBUTTON_NOVIDM"
+msgid "No, thanks"
+msgstr "Ոչ"
+
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
 "Can't open Skype. You are already signed in on this computer. Please sign "
@@ -6885,6 +6905,10 @@ msgctxt "sMAINMENU_CONVERSATION_SEND_MESSAGE"
 msgid "Instant Message (IM)"
 msgstr "Հաղորդագրություն"
 
+msgctxt "sMAINMENU_CONVERSATION_SEND_VIDEOMESSAGE"
+msgid "Video Message"
+msgstr "Տեսահաղորդագրություն"
+
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
 msgstr "SMS"
@@ -7092,12 +7116,12 @@ msgid ""
 msgstr "%s-ը արգելափակված է և չի կարող պատասխանել։ <a href=\"skype:%s?unblock\">Ապաարգելափակել %s-ին</a> և շարունակել խոսակցությունը։"
 
 msgctxt "sVOICEMAIL_NEW"
-msgid "New voice message, duration <span class=\"RegularDisabled\">%s</span>"
-msgstr "Նոր հաղորդագրություն ինքնապատասխանիչի վրա, տևողությունը՝ <span class=\"RegularDisabled\">%s</span>"
+msgid "<b>New voice message</b>, duration %s"
+msgstr "<b>Ձայնային նոր հաղորդագրություն</b>, տևողությունը՝ %s"
 
 msgctxt "sVOICEMAIL"
-msgid "Voice message, duration<span class=\"RegularDisabled\"> %s</span>"
-msgstr "Հաղորդագրություն ինքնապատասխանիչի վրա, տևողությունը՝ <span class=\"RegularDisabled\">%s</span>"
+msgid "<b>Voice message</b>, duration %s"
+msgstr "<b>Ձայնային հաղորդագրություն</b>, տևողությունը՝ %s"
 
 msgctxt "sCOMPLETED_GROUP_CALL"
 msgid "Group call, duration %s"
@@ -7189,10 +7213,10 @@ msgstr "Նոր հաղորդագրություն"
 
 msgctxt "sCONVERSATION_STATUS_LEGACY"
 msgid ""
-"The call host is using an old version of Skype that can't combine calls and "
-"IM at the same time. <a href=\"%s\">Click here</a> to create a new group "
-"with same people."
-msgstr "Զանգի հեղինակը օգտագործում է Skype-ի հին տարբերակը, որը չի աջակցում միաժամանկյա զանգ և չաթ։ <a href=\"%s\">Սեղմեք այստեղ</a>՝ մասնակիցներով նոր խումբ ստեղծելու համար։"
+"Instant messaging isn't currently available. This may be resolved shortly "
+"once the chat has updated, or the other person may be using an older version"
+" of Skype which doesn't support calling and IM at the same time."
+msgstr "Ակնթարթային հաղորդագրությունը այժմ առկա չէ։ Դա կարող է ուղղվել թարմացման միջոցով։"
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS2"
 msgid "Sorry, there are too many people to make this call"
@@ -7520,7 +7544,7 @@ msgctxt "sCALL_OUT_CREDIT2"
 msgid ""
 "You ran out of Skype Credit. To prevent this from happening again remember "
 "to sign up for auto-recharge next time you buy some Skype Credit!"
-msgstr "Skype-ի Ձեր հաշվին գումար չկա։ Խուսափելու համար այս անարխոժությունից, հաջորդ անգամ Skype-ի Ձեր հաշիվը լիցքավորելիս միացրեք հաշվի ինքնավար վերալիցքավորման հնարավորությունը։"
+msgstr "Skype-ի Ձեր հաշվին գումար չկա։ Խուսափելու համար այս անարխոժությունից, հաջորդ անգամ Skype-ի Ձեր հաշիվը լիցքավորելիս միացրեք հաշվի ինքնավերալիցքավորման հնարավորությունը։"
 
 msgctxt "sF_OUTLOOK_CAPTION"
 msgid "Import contacts"
@@ -7703,20 +7727,20 @@ msgid "Call Group"
 msgstr "Զանգ խմբին"
 
 msgctxt "sCALL_HOME"
-msgid "Call Home"
+msgid "Call home"
 msgstr "Զանգել տուն"
 
 msgctxt "sCALL_MOBILE"
-msgid "Call Mobile"
+msgid "Call mobile"
 msgstr "Զանգել բջջայինին"
 
 msgctxt "sCALL_OFFICE"
-msgid "Call Office"
-msgstr "Զանգել աշխատատեղին"
+msgid "Call office"
+msgstr "Զանգել աշխ."
 
 msgctxt "sCALL_PHONE"
-msgid "Call Phone"
-msgstr "Հեռախոսային զանգ"
+msgid "Call phone"
+msgstr "Զանգել"
 
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
 msgid "Add phone number..."
@@ -9604,7 +9628,7 @@ msgctxt "sERROR_HINT_VIDEO_18"
 msgid ""
 "The other person's webcam isn't supported by Skype. Ask them to upgrade "
 "their drivers or change to a Skype Certified™ webcam."
-msgstr "Ձեր զրուցակցի վեբ խցիկը չի համապատասխանում Skype-ին: Առաջարկեք նրան թարմացնել սարքավարները կամ գնել վեբ-խցիկ` երաշխավորված Skype-ի կողմից (Skype Certified™)։"
+msgstr "Ձեր զրուցակցի վեբ խցիկը չի համապատասխանում Skype-ին: Առաջարկեք նրան արդիացնել սարքավարները կամ գնել վեբ-խցիկ` երաշխավորված Skype-ի կողմից (Skype Certified™)։"
 
 msgctxt "sERROR_HINT_VIDEO_19"
 msgid ""
@@ -9623,13 +9647,13 @@ msgctxt "sERROR_HINT_VIDEO_21"
 msgid ""
 "Skype internal error. Upgrade your webcam drivers and check you've got the "
 "latest version of Skype."
-msgstr "Skype-ի ներքին սխալ։ Թարմացրեք վեբ-խցիկի սարքավարները և համոզվեք, որ օգտագործում եք Skype-ի վերջին տարբերակը։"
+msgstr "Skype-ի ներքին սխալ։ Արդիացրեք վեբ-խցիկի սարքավարները և համոզվեք, որ օգտագործում եք Skype-ի վերջին տարբերակը։"
 
 msgctxt "sERROR_HINT_VIDEO_22"
 msgid ""
 "Skype internal error. Upgrade your webcam drivers and check you've got the "
 "latest version of Skype."
-msgstr "Skype-ի ներքին սխալ։ Թարմացրեք վեբ-խցիկի սարքավարները և համոզվեք, որ օգտագործում եք Skype-ի վերջին տարբերակը։"
+msgstr "Skype-ի ներքին սխալ։ Արդիացրեք վեբ-խցիկի սարքավարները և համոզվեք, որ օգտագործում եք Skype-ի վերջին տարբերակը։"
 
 msgctxt "sERROR_HINT_VIDEO_23"
 msgid "Skype internal error. Try upgrading to the latest version of Skype."
@@ -10488,15 +10512,15 @@ msgid "Call from %s (%s)"
 msgstr "Զանգ %s (%s)-ից"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
-msgid "Send File..."
+msgid "Send file..."
 msgstr "Ուղարկել ֆայլ..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
-msgid "Send Contacts..."
-msgstr "Ուղարկել Կոնտակտները…"
+msgid "Send contacts..."
+msgstr "Ուղարկել կոնտակտները..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
-msgid "Share Screens..."
+msgid "Share screens..."
 msgstr "Տարածել էկրանները..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
@@ -10841,8 +10865,8 @@ msgid "Tumbleweed"
 msgstr "Գլդիգլոր"
 
 msgctxt "sWTF_SMILEY"
-msgid "What the... (wtf)"
-msgstr "Ցանկանում եմ..."
+msgid "What the..."
+msgstr "Ինչպիսի..."
 
 msgctxt "sWFH_SMILEY"
 msgid "Working from home"
@@ -11557,8 +11581,8 @@ msgid "Get Skype Credit"
 msgstr "Գնել Skype Հաշիվ"
 
 msgctxt "sSKYPEWIFI_NOCREDIT_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
-msgstr "{PRICE_PER_MINUTE} րոպեում"
+msgid "%s per minute"
+msgstr "%s րոպեում"
 
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
 msgid "Buy Skype Credit"
@@ -11604,8 +11628,8 @@ msgid "Enable auto-recharge"
 msgstr "Միացնել ինքնավերալիցք."
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_TOS"
-msgid "I agree to Skype's <a href=\"{SKYPE_TOS_URL}\">Terms of Use</a>"
-msgstr "Ես ընդունում եմ Skype-ի <a href=\"{SKYPE_TOS_URL}\">Օգտագործման պայմանները</a>"
+msgid "I agree to Skype's <a href=\"%s\">Terms of Use</a>"
+msgstr "Ընդունում եմ Skype-ի<a href=\"%s\">Օգտագործման պայմանները</a>"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_NAME"
 msgid "Cardholder name"
@@ -11647,9 +11671,9 @@ msgstr "Քարտի անվտանգության կոդը քարտի հակառակ
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_AUTORECHARGE"
 msgid ""
-"If auto-recharge is enabled, your card will be automatically charged when "
-"your Skype Credit balance falls below {AUTORECHARGE_LEVEL}"
-msgstr "Եթե ինքնալիցքավորումը միացված է, ապա Skype-ի Հաշիվը լրանալուն պես այն միանգամից կլիցքավորվի քարտի հաշվին {AUTORECHARGE_LEVEL}"
+"If auto-recharge is enabled, your card will automatically be charged when "
+"your Skype Credit balance falls below %s"
+msgstr "Եթե ինքնավերալիցքավորումը միացված է, ապա ձեր քարտից գումարը միանգամից կգանձվի, եթե  Skype-ի ձեր Հաշիվը նվազի %s-ից"
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
 msgid "Thank you"
@@ -11694,8 +11718,8 @@ msgid "Connect"
 msgstr "Միանալ"
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
-msgstr "{PRICE_PER_MINUTE} րոպեում"
+msgid "%s per minute"
+msgstr "%s րոպեում"
 
 msgctxt "sSKYPEWIFI_READY_FREE"
 msgid "FREE"
@@ -11703,9 +11727,9 @@ msgstr "ԱՆՎՃԱՐ"
 
 msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
-"By connecting, you agree to the provider's <a "
-"href=\"{PROVIDER_TOS_URL}\">Terms of Service</a>."
-msgstr "Միանալով՝ Դուք ընդունում եք մատակարարի <a href=\"{PROVIDER_TOS_URL}\">Օգտագործման պայմանները։</a>"
+"By connecting, you agree to the provider's <a href=\"%s\">Terms of "
+"Service</a>."
+msgstr "Միանալիս դուք ընդունում եք մատակարարի <a href=\"%s\">Ծառայության պայմանները</a>։"
 
 msgctxt "sSKYPEWIFI_READY_TOS_NOTOS"
 msgid "By connecting, you agree to the provider's Terms of Service"
@@ -11724,8 +11748,8 @@ msgid "Connecting…"
 msgstr "Միանում է..."
 
 msgctxt "sSKYPEWIFI_CONNECTING_PRICE"
-msgid "{PRICE_PER_MINUTE} per minute"
-msgstr "{PRICE_PER_MINUTE} րոպեում"
+msgid "%s per minute"
+msgstr "%s րոպեում"
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
 msgid "FREE"
@@ -11887,6 +11911,33 @@ msgid ""
 "You've got a video message. To see it, simply copy this secret code %2 and "
 "<a href=\"%1\">watch your video message here</a>"
 msgstr "Ունեք տեսագրություն։  Այն նայելու համար պատճենեք այս գաղտնի կոդը՝ %2 և  <a href=\"%1\">նայեք տեսագրությունը այստեղ</a>"
+
+msgctxt "sVIDEOMSG_DEFAULT_TITLE"
+msgid "You've got a video message"
+msgstr "Ունեք տեսահաղորդագրություն"
+
+msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
+msgid ""
+"You have %d video messages left this month. <a href=\"%s\">Upgrade to a "
+"Premium account</a> to enjoy unlimited video messages."
+msgstr "Դուք ունեք %d տեսահաղորդագրություն այս ամսվա մեջ։ <a href=\"%s\">Արդիացրեք Premium հաշվի</a>՝ վայելելու համար անսահմանափակ քանակի տեսահաղորդագրություններ։"
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_WITH_DAYS_MESSAGE"
+msgid ""
+"Messages are automatically deleted if they haven't been watched in %d days."
+msgstr "Հաղորդագրությունները ջնջվում են, եթե չեն ընթերցվում %d օրվա ընթացքում։"
+
+msgctxt "sVIDEOMSG_EXPIRED_TITLE"
+msgid "Sorry, this video message has expired."
+msgstr "Տեսագրության ժամկետը ավարտվել է։"
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
+msgid "Sorry, this video message is unavailable."
+msgstr "Տեսագրությունը անհասանելի է։"
+
+msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_TITLE"
+msgid "Video Message Unavailable"
+msgstr "Տեսահաղորդագրությունը անհասանելի է"
 
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
@@ -12059,10 +12110,8 @@ msgid "Messenger"
 msgstr "Messenger"
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
-msgid ""
-"No results for %s<br/><a href=\"skype:?go#share\">Send an email "
-"invitation</a>"
-msgstr "Չկա արդյունք %s-ի համար<br/><a href=\"skype:?go#share\">Ուղարկել էլ. հրավեր</a>"
+msgid "No results for %s"
+msgstr "Ոչինչ չի գտնվել %s-ի համար"
 
 msgctxt "sSTATUS_UNKNOWN2"
 msgid "This person isn't in your Contact list."
@@ -12480,8 +12529,8 @@ msgid "Skype WiFi"
 msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
-msgid "Error: {ERROR_NO}"
-msgstr "Սխալ. {ERROR_NO}"
+msgid "Error: %d"
+msgstr "Սխալ. %d"
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
 msgid ""
@@ -12539,3 +12588,311 @@ msgstr "Անցնել Աջակցությանը"
 msgctxt "sMAINMENU_HELP_ASKCOMM"
 msgid "Ask the Skype Community"
 msgstr "Հարցնել Skype-ի Համայնքին"
+
+msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED"
+msgid "Auto-recharge (unavailable)"
+msgstr "Ինքնավերալիցքավորում (հասանելի չէ)"
+
+msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED_HELP_TEXT"
+msgid ""
+"Auto-recharge may be unavailable because you’ve reached a limit. When this "
+"resets, you’ll be able to use it again as normal."
+msgstr "Ինքնավերալիցքավորումը կարող է հասանելի չլինել, քանզի գերազանցել եք սահմանափակումը։ Երբ այն ետարկվի՝ կրկին կկարողանաք վերալիցքավորել։"
+
+msgctxt "sTOPUP_INTRO_PARAGRAPH_ATU_SUSPENDED"
+msgid ""
+"Looks like you’re running low on credit. Auto-recharge is unavailable at "
+"this time, but you can still add credit manually."
+msgstr "Կարծեք ձեր ունեցած գումարը քիչ է։ Ինքնավերալիցքավորումը հասանելի չէ այս անգամ, բայց կարող եք հաշիվը լիցքավորել ձեռադիր։"
+
+msgctxt "sOPTIONS_HIDE_IP_ADDRESS"
+msgid "Allow direct connections to your contacts only."
+msgstr "Թույլատրել ուղիղ միացումները միայն ձեր կոնտակտներին։"
+
+msgctxt "sOPTIONS_HIDE_IP_ADDRESS_HINT"
+msgid ""
+"When you call someone who isn't a contact, we'll keep your IP address "
+"hidden.<br/><br/>This may delay your call setup time."
+msgstr "Երբ զանգում եք մեկին, որը չկա ձեր կոնտակտներում, ապա մենք ձեր IP հասցեն թաքցնում ենք։<br/><br/>Դա կարող է երկարացնել զանգի տևողությունը։"
+
+msgctxt "sVIDEOMSG_DOWNLOAD_HINT"
+msgid "Download video message"
+msgstr "Ներբեռնել տեսահաղորդագրությունը"
+
+msgctxt "sVIDEOMSG_BACK_HINT"
+msgid "Go back to chat"
+msgstr "Վերադառնալ զրույցին"
+
+msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
+msgid "Close"
+msgstr "Փակել"
+
+msgctxt "sVIDEOMSG_SEND"
+msgid "Send video message"
+msgstr "Ուղարկել տեսահաղորդագրություն"
+
+msgctxt "sCALL_LYNC"
+msgid "Lync"
+msgstr "Lync"
+
+msgctxt "sCALL_POPUP_LYNC"
+msgid "Lync"
+msgstr "Lync"
+
+msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
+msgid "Add number"
+msgstr "Ավելացնել համար"
+
+msgctxt "sADD_PHONE_NUMBER_CAPTION"
+msgid "Save a phone number"
+msgstr "Պահպանել հեռախոսահամարը"
+
+msgctxt "sBUDDYMENU_UNPIN_ICON"
+msgid "Remove from favorites"
+msgstr "Հեռացնել ընտրյալներից"
+
+msgctxt "sBUDDYMENU_PIN_ICON"
+msgid "Add to favorites"
+msgstr "Ավելացնել ընտրյալներին"
+
+msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
+msgid "Send Video Message"
+msgstr "Ուղարկել տեսահաղորդագրութուն"
+
+msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
+msgid "Camera in use"
+msgstr "Խցիկը օգտագործվում է"
+
+msgctxt "sCQ_VIDEO_MESSAGE_DESC"
+msgid "To see your camera, close your video message first."
+msgstr "Տեսախցիկը տեսնելու համար նախ փակեք տեսահաղորդագրությունը։"
+
+msgctxt "sVIDEOMSG_REPLY_HINT"
+msgid "Send video message"
+msgstr "Ուղարկել տեսահաղորդագրութունը"
+
+msgctxt "sAC_SEND_REQ"
+msgid "%s is not in your Contacts"
+msgstr "%s-ը չկա ձեր կոնտակտներում"
+
+msgctxt "sAC_RESEND_REQ"
+msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
+msgstr "Կոնտակտի հարցումը ուղարկվել է՝ <a href=\"%s\">Կրկին ուղարկել</a>"
+
+msgctxt "sAC_ACCEPT_REQ"
+msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
+msgstr "%s-ը չկա ձեր կոնտակտներում, <a href=\"%s\">Ավելացնել կոնտակտներում</a>"
+
+msgctxt "sAC_REQ_SENT"
+msgid "Contact request sent"
+msgstr "Կոնտակտի հարցումը ուղարկվել է"
+
+msgctxt "sAC_UNBLOCK"
+msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
+msgstr "Դուք արգելափակել եք այս կոնտակտը, <a href=\"%s\">Ապաարգելափակել</a>"
+
+msgctxt "sVIDEOMSG_ERROR_START_DEVICE"
+msgid ""
+"Your camera or microphone is already in use.<br/>Please close any app or "
+"Skype chat that might be using it, then try again."
+msgstr "Ձեր տեսախցիկը կամ բարձրախոսը օգտագործվում են։<br/>Փակեք բոլոր այն ծրագրերը, որոնք կարող են օգտագործել դրանք և կրկին փորձեք։"
+
+msgctxt "sVIDEOMSG_ERROR_NO_CAM"
+msgid ""
+"You need a camera to record video messages.<br/>Please check your camera is "
+"connected and try again."
+msgstr "Տեսագրելու համար անհրաժեշտ է տեսախցիկ։<br/>Ստուգեք, արդյոք միացված է ձեր տեսախցիկը և կրկին փորձեք։"
+
+msgctxt "sVIDEOMSG_ERROR_UNKNOWN"
+msgid ""
+"Oops, something went wrong.<br/>Please try again, or get in touch if you "
+"need help."
+msgstr "Ինչ որ բան այն չէ։<br/>Խնդրում ենք կրկին փորձել կամ դիմեք մեզ օգնության համար։"
+
+msgctxt "sVIDEOMSG_ERROR_DEVICE_LOST"
+msgid ""
+"You've stopped recording a video message.<br/>Your camera or microphone was "
+"disconnected. Record your message again, or send it now if you're ready."
+msgstr "Տեսագրումը կանգնեցվել է։<br/>Ձեր տեսախցիկը կամ բարձրախոսը անջատված են։ Կրկին տեսագրեք հաղորդագրությունը կամ ուղարկեք այն հիմա, եթե պատրաստ է։"
+
+msgctxt "sVIDEOMSG_PREMIUM_UPSELL_TITLE"
+msgid "You have no free video messages left"
+msgstr "Տեսահաղորդագրության հնարավորություն այլևս չունեք"
+
+msgctxt "sVIDEOMSG_PREMIUM_UPSELL_MESSAGE"
+msgid "Upgrade to a Premium account to enjoy unlimited video messages."
+msgstr "Արդիացրեք Premium-ի՝ անսահմանափակ տեսահաղորդագրությունների համար։"
+
+msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
+msgid "Looking good!"
+msgstr "Լավ տեսք"
+
+msgctxt "sVIDEOMSG_LOOKING_GOOD_DESC"
+msgid "Hit record when you're ready."
+msgstr "Սկսեք տեսագրել, երբ պատրաստ կլինեք։"
+
+msgctxt "DECLINE_POPUP_CAPTION"
+msgid "Decline contact request"
+msgstr "Մերժել կոնտակտի հարցումը"
+
+msgctxt "DECLINE_POPUP_BLOCK_CAPTION"
+msgid "Block"
+msgstr "Արգելափակել"
+
+msgctxt "DECLINE_POPUP_SPAM_CAPTION"
+msgid "Report as spam"
+msgstr "Զեկուցել լցոնի մասին"
+
+msgctxt "sVIDEOMSG_SEND_CAPTION"
+msgid "Send video message"
+msgstr "Ուղարկել տեսահաղորդագրությունը"
+
+msgctxt "sVIDEOMSG_CANCEL_CAPTION"
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgctxt "sVIDEOMSG_RECORD_CAPTION"
+msgid "Record"
+msgstr "Տեսագրել"
+
+msgctxt "sECHO_DISPLAY_NAME"
+msgid "Echo/Sound Test Service"
+msgstr "Echo/Ձայնը ստուգելու ծառայություն"
+
+msgctxt "sTASKBAR_MENU_SIGN_OUT"
+msgid "Sign Out"
+msgstr "Ելք"
+
+msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
+msgid "recording a video message or sharing screens"
+msgstr "տեսագրում կամ էկրանների տարածում"
+
+msgctxt "sOPTIONS_RECORDING_VIDEO_MESSAGE"
+msgid "Do not show notifications when:"
+msgstr "Չցուցադրել ծանուցումները, երբ"
+
+msgctxt "sVIDEOMSG_STOP_RECORD_CAPTION"
+msgid "Stop recording"
+msgstr "Կանգնեցնել տեսագրումը"
+
+msgctxt "sPREM_VIDEO_MESSAGE_WEB_WINDOW_CAPTION"
+msgid "Video messaging"
+msgstr "Տեսահաղորդագրություն"
+
+msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
+msgid "sends me a video message"
+msgstr "ուղարկել ինձ տեսահաղորդագրություն"
+
+msgctxt "sTRAYALERT_VIDEO_MESSAGE"
+msgid "New video message"
+msgstr "Նոր տեսահաղորդագրություն"
+
+msgctxt "sVIDEOMSG_STATUS_TEXT_UNAVAILABLE"
+msgid "Video message is unavailable"
+msgstr "Տեսահաղորդագրությունը անհասանելի է"
+
+msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
+msgid "Send video message..."
+msgstr "Ուղարկել տեսահաղորդագրություն..."
+
+msgctxt "sCONVERSATION_VIDEO_MESSAGE"
+msgid "New video message"
+msgstr "Նոր տեսահաղորդագրություն"
+
+msgctxt "sACC_NAME_MYSELF_HEADER"
+msgid "Me"
+msgstr "Ինձ"
+
+msgctxt "sACC_NAME_QF"
+msgid "Search"
+msgstr "Փնտրել"
+
+msgctxt "sACC_NAME_CONVERSATIONS"
+msgid "Conversations"
+msgstr "Երկխոսություններ"
+
+msgctxt "sACC_NAME_COMMUNICATOR"
+msgid "Application access"
+msgstr "Ընթացքը"
+
+msgctxt "sACC_NAME_PARTNER_BUTTONS"
+msgid "Partner"
+msgstr "Գործընկեր"
+
+msgctxt "sACC_NAME_CONTACTS_TAB"
+msgid "All contacts"
+msgstr "Բոլոր կոնտակտները"
+
+msgctxt "sACC_NAME_CONVERSATION_LIST"
+msgid "Contacts"
+msgstr "Կոնտակտներ"
+
+msgctxt "sACC_NAME_CONVERSATIONS_TAB"
+msgid "All recent messages"
+msgstr "Բոլոր վերջինները"
+
+msgctxt "sACC_NAME_INBOX_LIST"
+msgid "Recent messages"
+msgstr "Վերջինները"
+
+msgctxt "sACC_NAME_CONVERSATION_FAVORITE"
+msgid "Favorite"
+msgstr "Ընտրյալ"
+
+msgctxt "sACC_NAME_ONLINE_STATUS"
+msgid "%0:s, select to change status"
+msgstr "%0:s, նշեք՝ կարգավիճակը փոխելու համար"
+
+msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
+msgid "Hide message"
+msgstr "Թաքցնել"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
+msgid "All %0:s contacts"
+msgstr "Բոլոր %0:s կոնտակտները"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
+msgid "All %0:s"
+msgstr "Բոլոր %0:s "
+
+msgctxt "sVIDEOMSG_UPSELL"
+msgid "Would you like to leave a video message?"
+msgstr "Ցանկանու՞մ եք թողնել տեսահաղորդագրութուն։"
+
+msgctxt "sVIDEOMSG_UPSELL_BUTTON"
+msgid "Video message"
+msgstr "Տեսահաղորդագրություն"
+
+msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
+msgid "Clear search input"
+msgstr "Մաքրել որոնումը"
+
+msgctxt "sACC_NAME_SEARCH_ALL"
+msgid "Search all people on Skype"
+msgstr "Փնտրել բոլոր մարդկանց Skype-ում"
+
+msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
+msgid "You're online with Skype WiFi"
+msgstr "Դուք առցանց եք Skype WiFi-ով"
+
+msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
+msgid "Connection expires soon"
+msgstr "Միացումը շուտով կընդհատվի"
+
+msgctxt "sSKYPEWIFI_LESS_THAN_MINUTE"
+msgid ""
+"You've been online for less than a minute. You can disconnect at any time "
+"and you'll only be charged for the minutes used."
+msgstr "Դուք առցանց եք եղել մեկ րոպեից էլ քիչ։ Կարող եք անջատել կապը ցանկացած ժամանակ և վարձը կգանձվի միայն օգտագործած րոպեների համար։"
+
+msgctxt "sSKYPEWIFI_ABOUT_A_MINUTE"
+msgid ""
+"You've been online for about a minute. You can disconnect at any time and "
+"you'll only be charged for the minutes used."
+msgstr "Դուք առցանց եք եղել մոտավորապես մեկ րոպե։ Կարող եք անջատել կապը ցանկացած ժամանակ և վարձը կգանձվի միայն օգտագործած րոպեների համար։"
+
+msgctxt "sSKYPEWIFI_MORE_THAN_MINUTE"
+msgid ""
+"You've been online for about %d minutes. You can disconnect at any time and "
+"you'll only be charged for the minutes used."
+msgstr "Դուք առցանց եք եղել մոտավորապես %d րոպե։ Կարող եք անջատել կապը ցանկացած ժամանակ և վարձը կգանձվի միայն օգտագործած րոպեների համար։"

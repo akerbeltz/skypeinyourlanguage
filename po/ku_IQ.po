@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-10-21 13:54+0000\n"
-"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"PO-Revision-Date: 2013-11-07 11:57+0000\n"
+"Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2249,7 +2249,7 @@ msgstr "کەمێک پێش ئێستا لە پەیوەندى دابووم"
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT"
 msgid "Enter phone number"
-msgstr ""
+msgstr "ژمارە تەلەفۆن بنووسە"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8"
 msgid "You'll need"
@@ -5378,7 +5378,7 @@ msgstr "زیادکردن بۆ هاوەڵان"
 
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
-msgstr ""
+msgstr "یارمەتى"
 
 msgctxt "sZAPBUTTON_INFOALT"
 msgid "Info"
@@ -6190,7 +6190,7 @@ msgstr "بەرزکردنەوەى دەنگ"
 
 msgctxt "sZAPBUTTON_VOICEMAIL"
 msgid "Voice messages"
-msgstr ""
+msgstr "پەیامە دەنگیەکان"
 
 msgctxt "sZAPBUTTON_TEST"
 msgid "Test"
@@ -6314,7 +6314,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
-msgstr ""
+msgstr "پەیوەندى ڤیدیۆیی"
 
 msgctxt "sZAPBUTTON_RERECORDVIDM"
 msgid "Re-record message"
@@ -9429,7 +9429,7 @@ msgstr ""
 
 msgctxt "sTRANSFER_THIS_CALL"
 msgid "Transfer this call"
-msgstr ""
+msgstr "ئەم تەلەفۆنە بگوازەوە"
 
 msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
 msgid "Failed to log in. Check your Skype Name or password"
@@ -9457,15 +9457,15 @@ msgstr ""
 
 msgctxt "sFLOW_CALLTRANSFER_OUTGOING"
 msgid "Call transferred by %s"
-msgstr ""
+msgstr "تەلەفۆن گواسترایەوە لەلایەن %s"
 
 msgctxt "sFLOW_CALLTRANSFER_WITH_OUT"
 msgid "Call transferred by %s, duration %s."
-msgstr ""
+msgstr "تەلەفۆن گواسترایەوە لەلایەن %s, وادە %s."
 
 msgctxt "sFLOW_CALLTRANSFER_MIDDLEMAN"
 msgid "Call from %s transferred to %s"
-msgstr ""
+msgstr "تەلەفۆن لە لایەن %s گواسترایەوە بۆ %s"
 
 msgctxt "sFLOW_CALLTRANSFER_MIDDLE_IN"
 msgid "Call from %s transferred to %s, duration %s."
@@ -9663,11 +9663,11 @@ msgstr ""
 
 msgctxt "sCHATHISTORY_MESSAGE_REMOVED"
 msgid "Message removed"
-msgstr ""
+msgstr "پەیام سڕایەوە"
 
 msgctxt "sCONTACT_PROFILE_ACC_DESCRIPTION"
 msgid "Contact profile for %s"
-msgstr ""
+msgstr "پرۆفایلى %s"
 
 msgctxt "sNO_WEBCAM_FORM_CAPTION"
 msgid "Can't detect a webcam"
@@ -10208,7 +10208,7 @@ msgstr ""
 
 msgctxt "sMYSELF_PROFILE_CREDIT_LINK"
 msgid "Buy Skype Credit"
-msgstr ""
+msgstr "کڕینى یەکەى سکایپ"
 
 msgctxt "sMYSELF_PROFILE_SUBSCRIPTION_LINK"
 msgid "Get a subscription"
@@ -10601,7 +10601,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_PAYG_MORE_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy more credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments#skypeout\">یەکەی زیاتر بکڕە</a>"
 
 msgctxt "sCALLPHONES_SUBSCR_CAPTION"
 msgid "Pay monthly from"
@@ -10623,7 +10623,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_CREDIT_CAPTION"
 msgid "Your Skype Credit"
-msgstr ""
+msgstr "یکەى سکایپت"
 
 msgctxt "sCALLPHONES_TBYB_TITLE"
 msgid "Free trial call to a mobile or landline"
@@ -10675,7 +10675,7 @@ msgstr "زیادکردنی ژمارەی تەلەفون"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
-msgstr ""
+msgstr "یەکەم پەیوەندیت بە خۆراییە"
 
 msgctxt "sCALL_POPUP_VOICEMAIL"
 msgid "Voice message"
@@ -10892,7 +10892,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_READY_TEXT"
 msgid "The latest version of %s is ready to install now."
-msgstr ""
+msgstr "دوا وەەشانى %s ئێستا ئامادەیە بۆ دامەزراندن."
 
 msgctxt "sF_UPGRADE_READY_TEXT2"
 msgid ""
@@ -10939,7 +10939,7 @@ msgstr ""
 
 msgctxt "sAVATAR_CAPTURE_CHANGE_PICTURE"
 msgid "Change picture"
-msgstr ""
+msgstr "گۆڕینى وێنە"
 
 msgctxt "sPLUS_MENU_ADD_PEOPLE"
 msgid "Add people..."
@@ -11324,7 +11324,7 @@ msgstr "Skype"
 
 msgctxt "sSMS_FROM_MY_PHONE"
 msgid "My mobile"
-msgstr ""
+msgstr "مۆبایلەکەم"
 
 msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
@@ -11679,7 +11679,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
 msgid "Thank you"
-msgstr ""
+msgstr "سوپاس"
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_DESC"
 msgid ""
@@ -12055,7 +12055,7 @@ msgstr ""
 
 msgctxt "sADD_PHONES_FORM_ADD_NAME"
 msgid "Add name"
-msgstr ""
+msgstr "ناو زياد بكە"
 
 msgctxt "sADD_PHONES_FORM_NUMBER"
 msgid "Number"
@@ -12222,7 +12222,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_INTRO_NEW_PICTURE"
 msgid "New picture"
-msgstr ""
+msgstr "وێنەى نوێ"
 
 msgctxt "sF_PAYMENTS_FRM_CAPTION"
 msgid "Buy credit - %s"
@@ -12378,7 +12378,7 @@ msgstr ""
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
 msgid "select country"
-msgstr ""
+msgstr "وڵات دیاریبکە"
 
 msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
 msgid "select type of number"
