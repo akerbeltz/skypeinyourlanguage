@@ -5,13 +5,14 @@
 # Sutha <sutha@open.org.kh>, 2013
 # khoemsokhem <sokhem@open.org.kh>, 2013
 # soksophea <sophea@open.org.kh>, 2013
+# សុវិចិត្រ Sovichet ទេព Tep <sovichet.tep@gmail.com>, 2013
 # Sutha <sutha@open.org.kh>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-11-05 09:36+0000\n"
+"PO-Revision-Date: 2013-12-16 03:19+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/skype-translation-project/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -732,7 +733,7 @@ msgstr "លើ​បណ្ដាញ"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
-msgstr "អវត្ដមាន"
+msgstr "ចាក​ឆ្ងាយ"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
@@ -4330,7 +4331,7 @@ msgctxt "sF_OPTIONS_SMS_INFO"
 msgid ""
 "The hassle-free way to send text messages to friends when they are offline "
 "or on the move"
-msgstr ""
+msgstr "The hassle-free way to send text messages to friends when they are offline or on the move"
 
 msgctxt "sF_OPTIONS_START_SMS"
 msgid ""
@@ -4563,19 +4564,19 @@ msgstr "គ្មាន"
 
 msgctxt "sZAPBUTTON_DUMMYFULL"
 msgid ""
-msgstr ""
+msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
 
 msgctxt "sZAPBUTTON_DUMMYLEFT"
 msgid ""
-msgstr ""
+msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
 
 msgctxt "sZAPBUTTON_DUMMYRIGHT"
 msgid ""
-msgstr ""
+msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
 
 msgctxt "sZAPBUTTON_DUMMYMIDDLE"
 msgid ""
-msgstr ""
+msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
@@ -4627,11 +4628,11 @@ msgstr "បន្ថែម​ទៅ​ទំនាក់ទំនង"
 
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
-msgstr ""
+msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
 
 msgctxt "sZAPBUTTON_AF_UNPINNED"
 msgid ""
-msgstr ""
+msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
 
 msgctxt "sZAPBUTTON_ALLCONTACTS"
 msgid ""
@@ -5507,11 +5508,11 @@ msgstr "បើក​សំឡេង"
 
 msgctxt "sZAPBUTTON_MYSELFTOP"
 msgid ""
-msgstr ""
+msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
 
 msgctxt "sZAPBUTTON_MYSELFBOTTOM"
 msgid ""
-msgstr ""
+msgstr "7abe095518b8b0837fc38d15a401089f_tr"
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -9170,7 +9171,7 @@ msgstr "គ្មានកំពុងឃើញ វីដេអូ រវាង�
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
 msgid ""
-msgstr ""
+msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
 msgid ""
@@ -10239,7 +10240,7 @@ msgstr "ឥតគិតថ្លៃ"
 
 msgctxt "sLIVE_COMPACT_VIEW"
 msgid "Pop-out"
-msgstr ""
+msgstr "ផុស​ឡើង"
 
 msgctxt "sAUTOFOCUS"
 msgid "Dynamic view"
@@ -10841,7 +10842,7 @@ msgstr "បង្ហាញ​បន្ទះ​លេខ"
 
 msgctxt "sFINGERSCROSSED_SMILEY"
 msgid "Fingers crossed"
-msgstr ""
+msgstr "ខ្វែង​ម្រាម​ដៃ"
 
 msgctxt "sFACEPALM_SMILEY"
 msgid "Facepalm"
@@ -10853,7 +10854,7 @@ msgstr "ការ​រង់ចាំ​"
 
 msgctxt "sHIGHFIVE_SMILEY"
 msgid "High five"
-msgstr ""
+msgstr "ទះដៃ"
 
 msgctxt "sLALALA_SMILEY"
 msgid "Lalala"
@@ -11511,7 +11512,7 @@ msgstr "នៅ​លើ​បណ្ដាញ​នៅ hotspots វ៉ាយហ�
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT1"
 msgid "Use Skype, check email and surf the web"
-msgstr ""
+msgstr "ប្រើ Skype, ឆែក​អ៊ីមែល​និង​រុករក​អ៊ីនធឺណិត"
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT2"
 msgid "Skype WiFi is available at over one million locations worldwide"
@@ -12732,7 +12733,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_LOOKING_GOOD_DESC"
 msgid "Hit record when you're ready."
-msgstr ""
+msgstr "ចុច ថត​ទុក ពេល​ដែល​អ្នក​រួច​រាល់។"
 
 msgctxt "DECLINE_POPUP_CAPTION"
 msgid "Decline contact request"
@@ -12756,7 +12757,7 @@ msgstr "បោះបង់"
 
 msgctxt "sVIDEOMSG_RECORD_CAPTION"
 msgid "Record"
-msgstr ""
+msgstr "ថត​ទុក"
 
 msgctxt "sECHO_DISPLAY_NAME"
 msgid "Echo/Sound Test Service"

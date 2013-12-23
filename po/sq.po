@@ -3,13 +3,15 @@
 # Translators:
 # amurati <ahmetmurati@gmail.com>, 2013
 # erion <erionmulaj@hotmail.com>, 2013
+# Michael Bauer <fios@akerbeltz.org>, 2013
+# erion <erionmulaj@hotmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-11-07 19:15+0000\n"
-"Last-Translator: erion <erionmulaj@hotmail.com>\n"
+"PO-Revision-Date: 2013-12-09 19:08+0000\n"
+"Last-Translator: amurati <ahmetmurati@gmail.com>\n"
 "Language-Team: Albanian (http://www.transifex.com/projects/p/skype-translation-project/language/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -104,7 +106,7 @@ msgstr "Ndërprit"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Duke u lidhur"
+msgstr "Duke u kyçur"
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
@@ -144,12 +146,12 @@ msgstr "Shkëputur"
 
 msgctxt "sTRAYHINT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Duke u lidhur"
+msgstr "Duke u kyçur"
 
 msgctxt "sINVALID_HANDLE"
 msgid ""
 "%s is not a valid Skype Name or phone number. Please check it and try again."
-msgstr "%s nuk është një Skype emër apo numër telefonik i vlefshëm. Ju lutem kontrollo dhe provo përsëri."
+msgstr "%s nuk është një Skype emër apo numër telefonik i vlefshëm. Të lutem kontrollo dhe provo përsëri."
 
 msgctxt "sF_USERINFO_INVALID_USER"
 msgid "Skype Name not found"
@@ -177,7 +179,7 @@ msgstr "Telefoni i punës"
 
 msgctxt "sF_USERINFO_LABEL_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Celular phone"
+msgstr "Telefoni celular"
 
 msgctxt "sF_USERINFO_LABEL_HOMEPAGE"
 msgid "Website"
@@ -297,7 +299,7 @@ msgstr "Privatësia"
 
 msgctxt "sF_OPTIONS_PAGE_DEBUG"
 msgid "Advanced"
-msgstr "I avancuar"
+msgstr "Avancuar"
 
 msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
@@ -603,7 +605,7 @@ msgstr "Fjalëkalimi juaj duhet të përmbajë të paktën një shkronjë dhe nj
 
 msgctxt "sF_OPTIONS_LB24"
 msgid "Use Skype to call callto: links on the web"
-msgstr "Përdor Skype për të thirrë vjegëzat callto: në ueb"
+msgstr "Përdor Skype që të thërrisni vjegëzat callto: në ueb"
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_COPY"
 msgid "Copy Selection"
@@ -831,7 +833,7 @@ msgstr "Fto në thirrje grupore"
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
-msgstr "Nuk mund të komunikoni mua këtë person pasi që ju e keni bllokuar atë."
+msgstr "Nuk mund të komunikoni me këtë person pasi që ju e keni bllokuar atë."
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
@@ -875,11 +877,11 @@ msgstr "Largo kontakt?"
 
 msgctxt "sCONFIRM_OFFLINE_CAP"
 msgid "Go offline?"
-msgstr "Shko në jashtë linje?"
+msgstr "Dil jashtë linje?"
 
 msgctxt "sCONFIRM_OFFLINE_TITLE"
 msgid "Go offline?"
-msgstr "Shko në jashtë linje?"
+msgstr "Dil jashtë linje?"
 
 msgctxt "sCALLING_BLOCKED_CAP"
 msgid "Blocked"
@@ -891,11 +893,11 @@ msgstr "I/e bllokuar"
 
 msgctxt "sINFORM_DND_CAP"
 msgid "Warning"
-msgstr "Vërejtje"
+msgstr "Paralajmërim"
 
 msgctxt "sINFORM_DND_TITLE"
 msgid "Warning"
-msgstr "Vërejtje"
+msgstr "Paralajmërim"
 
 msgctxt "sLANGUAGE_ERROR"
 msgid ""
@@ -913,7 +915,7 @@ msgstr "Gabim"
 
 msgctxt "sF_HOTKEYEDIT_ERROR_CAP"
 msgid "Warning"
-msgstr "Vërejtje"
+msgstr "Paralajmërim"
 
 msgctxt "sF_HOTKEYEDIT_ERROR_TITLE"
 msgid "Warning"
@@ -1906,7 +1908,7 @@ msgstr "Të kontaktuar së fundmi"
 
 msgctxt "sF_OPTIONS_LINK_TEST_CALL"
 msgid "Make a free test call"
-msgstr "Bë një thirrje testuese falas"
+msgstr "Bëj një thirrje testuese falas"
 
 msgctxt "sF_OPTIONS_LINK_AUDIO_HELP"
 msgid "Learn more about setting up your audio equipment"
@@ -4560,19 +4562,19 @@ msgstr "asnjë"
 
 msgctxt "sZAPBUTTON_DUMMYFULL"
 msgid ""
-msgstr ""
+msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
 
 msgctxt "sZAPBUTTON_DUMMYLEFT"
 msgid ""
-msgstr ""
+msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
 
 msgctxt "sZAPBUTTON_DUMMYRIGHT"
 msgid ""
-msgstr ""
+msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
 
 msgctxt "sZAPBUTTON_DUMMYMIDDLE"
 msgid ""
-msgstr ""
+msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
@@ -4624,11 +4626,11 @@ msgstr "Shto te kontaktet"
 
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
-msgstr ""
+msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
 
 msgctxt "sZAPBUTTON_AF_UNPINNED"
 msgid ""
-msgstr ""
+msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
 
 msgctxt "sZAPBUTTON_ALLCONTACTS"
 msgid ""
@@ -5000,7 +5002,7 @@ msgstr "Numratori"
 
 msgctxt "sZAPBUTTON_DIALPAD_0"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_1"
 msgid " "
@@ -5504,11 +5506,11 @@ msgstr "Hesht"
 
 msgctxt "sZAPBUTTON_MYSELFTOP"
 msgid ""
-msgstr ""
+msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
 
 msgctxt "sZAPBUTTON_MYSELFBOTTOM"
 msgid ""
-msgstr ""
+msgstr "7abe095518b8b0837fc38d15a401089f_tr"
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -9167,7 +9169,7 @@ msgstr "Nuk e shiini videon e tjetrit? Ju të dy duhet ta ndalin videon tuaj dhe
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
 msgid ""
-msgstr ""
+msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
 msgid ""
@@ -11920,7 +11922,7 @@ msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
 msgid ""
 "You have %d video messages left this month. <a href=\"%s\">Upgrade to a "
 "Premium account</a> to enjoy unlimited video messages."
-msgstr "Ju keni %d mesazhe video të lënë këtë muaj. <a href=\"%s\"> Upgrade në një llogari Premium </ a> për të shijuar mesazhe të pakufizuara video."
+msgstr "Ju keni %d mesazhe video të lënë këtë muaj. <a href=\"%s\">Upgrade në një llogari Premium</a> për të shijuar mesazhe të pakufizuara video."
 
 msgctxt "sVIDEOMSG_UNAVAILABLE_WITH_DAYS_MESSAGE"
 msgid ""
@@ -12681,7 +12683,7 @@ msgstr "Ftesa për kontakt u dërgua - <a href=\"%s\">Ridërgo ftesën për kont
 
 msgctxt "sAC_ACCEPT_REQ"
 msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
-msgstr "%s nuk është në Kontaktet tuaja - href=\"%s\"> <Shtoje te Kontaktet </ a>"
+msgstr "%s nuk është në Kontaktet tuaja - <a href=\"%s\">Shtoje te Kontaktet </a>"
 
 msgctxt "sAC_REQ_SENT"
 msgid "Contact request sent"

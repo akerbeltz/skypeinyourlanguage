@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-10-24 14:35+0000\n"
+"PO-Revision-Date: 2013-12-18 12:53+0000\n"
 "Last-Translator: bjorni <bjorn.svindseth@online.no>\n"
 "Language-Team: Norwegian Nynorsk (http://www.transifex.com/projects/p/skype-translation-project/language/nn/)\n"
 "MIME-Version: 1.0\n"
@@ -4560,19 +4560,19 @@ msgstr "ingen"
 
 msgctxt "sZAPBUTTON_DUMMYFULL"
 msgid ""
-msgstr ""
+msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
 
 msgctxt "sZAPBUTTON_DUMMYLEFT"
 msgid ""
-msgstr ""
+msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
 
 msgctxt "sZAPBUTTON_DUMMYRIGHT"
 msgid ""
-msgstr ""
+msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
 
 msgctxt "sZAPBUTTON_DUMMYMIDDLE"
 msgid ""
-msgstr ""
+msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
@@ -4624,11 +4624,11 @@ msgstr "Legg til i kontaktar"
 
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
-msgstr ""
+msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
 
 msgctxt "sZAPBUTTON_AF_UNPINNED"
 msgid ""
-msgstr ""
+msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
 
 msgctxt "sZAPBUTTON_ALLCONTACTS"
 msgid ""
@@ -5128,7 +5128,7 @@ msgstr "Avslutt sprett-ut-modus"
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "Help"
-msgstr ""
+msgstr "Hjelp"
 
 msgctxt "sZAPBUTTON_FILETRANSFER"
 msgid "File Transfer"
@@ -5368,7 +5368,7 @@ msgstr "Heime"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
-msgstr ""
+msgstr "Skype Heime, nye oppdateringar"
 
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
 msgid "Add to contacts"
@@ -5504,11 +5504,11 @@ msgstr "Slå av"
 
 msgctxt "sZAPBUTTON_MYSELFTOP"
 msgid ""
-msgstr ""
+msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
 
 msgctxt "sZAPBUTTON_MYSELFBOTTOM"
 msgid ""
-msgstr ""
+msgstr "7abe095518b8b0837fc38d15a401089f_tr"
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -6316,7 +6316,7 @@ msgstr "Videosamtale"
 
 msgctxt "sZAPBUTTON_RERECORDVIDM"
 msgid "Re-record message"
-msgstr ""
+msgstr "Spel inn melding på nytt"
 
 msgctxt "sZAPBUTTON_CANCELVIDM"
 msgid "Cancel message"
@@ -9167,7 +9167,7 @@ msgstr "Ser de ikkje kvarandre sin video? De bør begge to skru av og så på vi
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
 msgid ""
-msgstr ""
+msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
 msgid ""
@@ -11410,17 +11410,17 @@ msgctxt "sSEND_ONE_CONTACT_CONFIRMATION_TEXT"
 msgid ""
 "Do you want to send %s's contact details to the people in this "
 "conversation?<br /><br />This doesn't add %s to the conversation."
-msgstr ""
+msgstr "Vil du sende %s's kontaktinfo til personar i denne samtalen?<br /><br />Dette vil ikkje leggje til %s i samtalen."
 
 msgctxt "sSEND_MANY_CONTACT_CONFIRMATION_TEXT"
 msgid ""
 "Do you want to send these contact details to the people in this "
 "conversation?<br /><br />This doesn't add them to the conversation."
-msgstr ""
+msgstr "Vil du sende denne kontaktinfoen til personane i denne samtalen?<br /><br />Det vil ikkje leggje dei til i samtalen."
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
 msgid "&Send contact details"
-msgstr ""
+msgstr "&Send kontaktdetaljar"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
@@ -11508,7 +11508,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT1"
 msgid "Use Skype, check email and surf the web"
-msgstr ""
+msgstr "Bruk Skype, sjekk epost og surf på nettet"
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT2"
 msgid "Skype WiFi is available at over one million locations worldwide"
@@ -11516,7 +11516,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT3"
 msgid "Only pay for the minutes you use"
-msgstr ""
+msgstr "Betal berre for minutta du brukar"
 
 msgctxt "sSKYPEWIFI_INTRO_BUTTON"
 msgid "Continue"
@@ -11524,7 +11524,7 @@ msgstr "Fortset"
 
 msgctxt "sSKYPEWIFI_NOTCONNECTED_HEADER"
 msgid "You're not connected to WiFi"
-msgstr ""
+msgstr "Du er ikkje tilkopla WiFi"
 
 msgctxt "sSKYPEWIFI_NOTCONNECTED_DESC"
 msgid "Please join a public WiFi network that supports Skype WiFi"
@@ -11550,7 +11550,7 @@ msgstr "Finn ut meir"
 
 msgctxt "sSKYPEWIFI_ERROR_HEADER"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Greier ikkje å kople til"
 
 msgctxt "sSKYPEWIFI_ERROR_DESC"
 msgid ""
@@ -11677,7 +11677,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
 msgid "Thank you"
-msgstr ""
+msgstr "Takk"
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_DESC"
 msgid ""
@@ -11705,7 +11705,7 @@ msgstr "Tilbake til betalingar"
 
 msgctxt "sSKYPEWIFI_READY_HEADER"
 msgid "Skype WiFi is available here"
-msgstr ""
+msgstr "Skype WiFi er tilgjengeleg her"
 
 msgctxt "sSKYPEWIFI_READY_DESC"
 msgid ""
@@ -11884,7 +11884,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
-msgstr ""
+msgstr "Dine tidlegare bilde"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADING"
 msgid "Sending"
@@ -11914,7 +11914,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_DEFAULT_TITLE"
 msgid "You've got a video message"
-msgstr ""
+msgstr "Du har fått ei videomelding"
 
 msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
 msgid ""
@@ -12011,19 +12011,19 @@ msgstr "Gå tilbake"
 
 msgctxt "sLIVE_LOGIN_AUTO_SIGNIN"
 msgid "Sign me in when Skype starts"
-msgstr ""
+msgstr "Logg meg inn når Skype startar"
 
 msgctxt "sLIVE_LOGIN_DIFF_ACCOUNT"
 msgid "Sign in with a different account"
-msgstr ""
+msgstr "Logg inn med ein annan konto"
 
 msgctxt "sLIVE_LOGIN_SCRIPTERROR"
 msgid "This page contains errors."
-msgstr ""
+msgstr "Det er feil på denne sida."
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE1"
 msgid "<b>Enter</b> will send your message."
-msgstr ""
+msgstr "<b>Enter</b> sender meldinga di."
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE2"
 msgid "If you wanted a line break use CTRL+ENTER."
@@ -12530,7 +12530,7 @@ msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
 msgid "Error: %d"
-msgstr ""
+msgstr "Feil: %d"
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
 msgid ""
@@ -12591,7 +12591,7 @@ msgstr "Spør Skype-samfunnet"
 
 msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED"
 msgid "Auto-recharge (unavailable)"
-msgstr ""
+msgstr "Auto-påfyll (ikkje tilgjengeleg)"
 
 msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED_HELP_TEXT"
 msgid ""
@@ -12621,15 +12621,15 @@ msgstr "last ned videomelding"
 
 msgctxt "sVIDEOMSG_BACK_HINT"
 msgid "Go back to chat"
-msgstr ""
+msgstr "Gå tilbake til prat"
 
 msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
 msgid "Close"
-msgstr ""
+msgstr "Lat att"
 
 msgctxt "sVIDEOMSG_SEND"
 msgid "Send video message"
-msgstr ""
+msgstr "Send videomelding"
 
 msgctxt "sCALL_LYNC"
 msgid "Lync"
@@ -12661,7 +12661,7 @@ msgstr "Send videomelding"
 
 msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
 msgid "Camera in use"
-msgstr ""
+msgstr "Kamera i bruk"
 
 msgctxt "sCQ_VIDEO_MESSAGE_DESC"
 msgid "To see your camera, close your video message first."
@@ -12669,7 +12669,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
-msgstr ""
+msgstr "Send videomelding"
 
 msgctxt "sAC_SEND_REQ"
 msgid "%s is not in your Contacts"
@@ -12685,11 +12685,11 @@ msgstr ""
 
 msgctxt "sAC_REQ_SENT"
 msgid "Contact request sent"
-msgstr ""
+msgstr "Kontaktførespurnad sendt"
 
 msgctxt "sAC_UNBLOCK"
 msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
-msgstr ""
+msgstr "Du har blokkert denne kontakten - <a href=\"%s\">Ta bort blokkering</a>"
 
 msgctxt "sVIDEOMSG_ERROR_START_DEVICE"
 msgid ""
@@ -12769,7 +12769,7 @@ msgstr ""
 
 msgctxt "sOPTIONS_RECORDING_VIDEO_MESSAGE"
 msgid "Do not show notifications when:"
-msgstr ""
+msgstr "Ikkje vis varslingar når:"
 
 msgctxt "sVIDEOMSG_STOP_RECORD_CAPTION"
 msgid "Stop recording"
@@ -12849,11 +12849,11 @@ msgstr "Skjul melding"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
 msgid "All %0:s contacts"
-msgstr ""
+msgstr "Alle %0:s kontaktar"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
 msgid "All %0:s"
-msgstr ""
+msgstr "Alle %0:s"
 
 msgctxt "sVIDEOMSG_UPSELL"
 msgid "Would you like to leave a video message?"

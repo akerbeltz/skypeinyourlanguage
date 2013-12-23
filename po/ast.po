@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-10-18 08:42+0000\n"
-"Last-Translator: lasturianu06 <lasturianu06@gmail.com>\n"
+"PO-Revision-Date: 2013-12-13 20:39+0000\n"
+"Last-Translator: Iñigo Varela <ivarela@softastur.org>\n"
 "Language-Team: Asturian (http://www.transifex.com/projects/p/skype-translation-project/language/ast/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr "En llínia"
+msgstr "En llinia"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr "Desconectáu"
+msgstr "Desconeutáu"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
@@ -31,7 +31,7 @@ msgstr "Ausente"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "Nun amolestar"
+msgstr "Nun molestar"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
@@ -56,7 +56,7 @@ msgstr "Refugar"
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "&Aida"
+msgstr "&Ayuda"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
@@ -132,7 +132,7 @@ msgstr "Non disponible"
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
-msgstr "Nun amolestar"
+msgstr "Nun molestar"
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
@@ -301,7 +301,7 @@ msgstr "Avanzáu"
 
 msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
-msgstr "Cuando faigo doble click nun contautu entamo una llamada"
+msgstr "Cuando faiga doble click nun contautu, aniciar una llamada"
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
@@ -309,7 +309,7 @@ msgstr "Entama Skype al entamar Windows"
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "Amesta detalles del contáutu nel to perfil"
+msgstr "Amesta detalles del contautu nel to perfil"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
@@ -325,7 +325,7 @@ msgstr "cuelga"
 
 msgctxt "sF_OPTIONS_CB_25"
 msgid "contact online"
-msgstr "contautu en llínia"
+msgstr "contautu en llinia"
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
@@ -357,7 +357,7 @@ msgctxt "sF_ABOUT_WARNING_1"
 msgid ""
 "Warning: This program is protected by copyright law and international "
 "treaties."
-msgstr "Alvertencia: Esti programa ya protexíu llegalmente por copyright y trataos internacionales."
+msgstr "Alvertencia: Esti programa ta protexíu llegalmente por copyright y trataos internacionales."
 
 msgctxt "sF_ABOUT_WARNING_2"
 msgid ""
@@ -375,7 +375,7 @@ msgstr "La reproducción o distribución non autorizada d'esti programa, o cuale
 
 msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
-msgstr "Tfnu llar"
+msgstr "Tfnu casa"
 
 msgctxt "sCALL_LB2_MYHOLD"
 msgid "Call on hold"
@@ -387,7 +387,7 @@ msgstr "Poner llamada n'espera"
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr "Despachar llamada"
+msgstr "Reanudar llamada"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
@@ -403,7 +403,7 @@ msgstr "Soníos"
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
-msgstr "Piesllar"
+msgstr "Zarrar"
 
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
@@ -435,7 +435,7 @@ msgstr "Amosar la hora a la vera los mensaxes instantáneos"
 
 msgctxt "sF_RENAMEUSER_LABEL"
 msgid "Enter new name for %s"
-msgstr "Enxertar nome nuevu pa %s"
+msgstr "Inxertar nome nuevu pa %s"
 
 msgctxt "sF_RENAMEUSER_CAPTION"
 msgid "Rename"
@@ -455,7 +455,7 @@ msgstr "&Encaboxar"
 
 msgctxt "sF_RENAMEUSER_OK"
 msgid "OK"
-msgstr "D'alcuerdu"
+msgstr "Aceutar"
 
 msgctxt "sF_RENAMEUSER_CANCEL"
 msgid "&Cancel"
@@ -463,7 +463,7 @@ msgstr "&Encaboxar"
 
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
-msgstr "Reunviar Pidimientu a Contautu"
+msgstr "Reunviar Solicitú a Contautu"
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
@@ -501,7 +501,7 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
 "The passwords don't match. Please re-enter your new password and "
 "confirmation again"
-msgstr "Les clave nun coinciden. Por favor, reescribi otra vuelta la to nueva clave y la confirmación"
+msgstr "Les clave nun concasen. Por favor, reescribi otra vuelta la to nueva clave y la confirmación"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
@@ -523,7 +523,7 @@ msgstr "¡Ésitu! Camudóse la to clave. Usa la nueva clave la prósima vegada q
 
 msgctxt "sF_SEND_CONTACTS_TEXT1"
 msgid "Send contacts to other people on Skype"
-msgstr "Unvía contautos a otres persones en Skype"
+msgstr "Unvia contautos a otres persones en Skype"
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -545,11 +545,11 @@ msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
 "Your password is too short. It needs to be 6-20 characters long. Try a new "
 "password."
-msgstr "La to clave ye percurtia. Necesita tener 6-20 carauteres. Preba con otra clave."
+msgstr "La to clave ye percurtia. Necesita tener 6-20 caráuteres. Prueba con otra clave."
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID"
 msgid "The password you have entered has invalid characters"
-msgstr "La clave qu'escribisti tien carauteres non válidos."
+msgstr "La clave qu'escribisti tien caráuteres non válidos."
 
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
@@ -599,7 +599,7 @@ msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SIMPLE"
 msgid ""
 "Your password needs to contain at least 1 letter and 1 number. Try a new "
 "password."
-msgstr "La to clave necesita tener lo menos 1 lletra y 1 númberu. Preba con otra clave."
+msgstr "La to clave necesita tener lo menos 1 lletra y 1 númberu. Prueba con otra clave."
 
 msgctxt "sF_OPTIONS_LB24"
 msgid "Use Skype to call callto: links on the web"
@@ -611,7 +611,7 @@ msgstr "Copiar Seleición"
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
-msgstr "Seleicionar Tou"
+msgstr "Seleicionar Too"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
@@ -629,7 +629,7 @@ msgctxt "sF_SPEEDDIAL_DUPLICATE"
 msgid ""
 "Speed dial number &lt;%s&gt; is already used for %s. Please choose another "
 "number."
-msgstr "El númberu de marcación rápida &lt;%s&gt; yá ta acutáu pa %s. Por favor, escueye otru númberu."
+msgstr "El númberu de marcación rápida &lt;%s&gt; yá ta acutáu pa %s. Por favor, escueyi otru númberu."
 
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
@@ -675,7 +675,7 @@ msgctxt "sF_HOTKEYEDIT_ERROR"
 msgid ""
 "The hotkey for %s is probably used by another application and will be "
 "disabled for Skype"
-msgstr "El códigu de tecles pa %s ye seguramente emplegáu pa otra aplicación y sedrá desactiváu pa Skype."
+msgstr "El códigu de tecles pa %s emplégase seguramente n'otra aplicación y va desactivase pa Skype."
 
 msgctxt "sBUDDYMENU_BLOCK"
 msgid "Block This Person..."
@@ -713,7 +713,7 @@ msgctxt "sINFORM_DND"
 msgid ""
 "Your presence will be set to Do Not Disturb. You will not receive "
 "notifications about incoming calls or messages."
-msgstr "La to presencia pasará a Nun Amolestar. Nun recibirás notificaciones de llamaes entrantes o mensaxes."
+msgstr "La to presencia va pasar a Nun Molestar. Nun vas recibir notificaciones de llamaes entrantes o mensaxes."
 
 msgctxt "sSTATUS_PENDING"
 msgid "This person has not shared their details with you."
@@ -733,7 +733,7 @@ msgstr "Ausente"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr "Nun Amolestar"
+msgstr "Nun molestar"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
@@ -749,7 +749,7 @@ msgstr "Cargar Ficheru d'idioma Skype..."
 
 msgctxt "sF_USERENTRY_CB_STOREPASSWORD"
 msgid "Sign me in when Skype starts"
-msgstr "Conéutame cuando entame Skype"
+msgstr "Conéutame cuando s'anicie Skype"
 
 msgctxt "sF_TRANSLATE_CAPTION"
 msgid "Language file editor"
@@ -815,7 +815,7 @@ msgstr "Desconeutáu"
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr "Toles llamaes perderán la llínia. ¿Tas seguru de que quies desconeutate?"
+msgstr "Van desconeutase toles llamaes. ¿Tas seguru de que quies desconeutate?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
@@ -831,7 +831,7 @@ msgstr "Convidar a llamada de grupu"
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
-msgstr "Nun pues comunicate con esta persona porque la bloquiasti."
+msgstr "Nun pues comunicate con esta persona porque bloquiástila."
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
@@ -843,7 +843,7 @@ msgstr "cualquiera"
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
-msgstr "solo xente de la mio llista de Contautos"
+msgstr "namái xente de la mio llista de Contautos"
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
@@ -855,11 +855,11 @@ msgstr "cualquiera"
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
-msgstr "solo xente de la mio llista de Contautos"
+msgstr "namái xente de la mio llista de Contautos"
 
 msgctxt "sQUIT_PROMPT_CAP"
 msgid "Sure you want to quit Skype?"
-msgstr "¿De xuru que quier colar de Skype?"
+msgstr "¿De xuru que quies colar de Skype?"
 
 msgctxt "sQUIT_PROMPT_TITLE"
 msgid "Quit Skype?"
@@ -1038,7 +1038,7 @@ msgstr "Ensin créitu Skype."
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
-msgstr "Sentímoslo, faló la llamada."
+msgstr "Sentímoslo, falló la llamada."
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
@@ -1046,7 +1046,7 @@ msgstr "Ensin créitu Skype."
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
-msgstr "Sentímoslo, faló la llamada."
+msgstr "Sentímoslo, falló la llamada."
 
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
@@ -1074,7 +1074,7 @@ msgstr "Parar"
 
 msgctxt "sF_HOTKEY_EDITOR_OK"
 msgid "OK"
-msgstr "D'alcuerdu"
+msgstr "Aceutar"
 
 msgctxt "sF_HOTKEY_EDITOR_CANCEL"
 msgid "Cancel"
@@ -1082,7 +1082,7 @@ msgstr "Encaboxar"
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
-msgstr "Llar (%s)"
+msgstr "Aceutar (%s)"
 
 msgctxt "sCALL_PSTN_MOBILE"
 msgid "Mobile (%s)"
@@ -1112,7 +1112,7 @@ msgstr "Pues prevenir qu'una persona te llame escoyendo'l so nome d'ente la llis
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERS"
 msgid "Blocked people:"
-msgstr "Xente bloquiáo:"
+msgstr "Xente bloquiao:"
 
 msgctxt "sF_USERPROFILE_OPENDLG_CAPTION"
 msgid "Choose your picture"
@@ -1157,7 +1157,7 @@ msgstr "Guardar"
 msgctxt "sFILETRANSFER_CLOSE_TEXT"
 msgid ""
 "Are you sure you want to cancel? If you do, %s will not receive this file."
-msgstr "¿Tas seguru que quies encaboxar? Si ye que sí, %s nun va recibir esti ficheru."
+msgstr "¿Tas seguru que quies encaboxar? Si ye que sí, %s nun vas recibir esti ficheru."
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE"
 msgid "Cancelling"
@@ -1165,7 +1165,7 @@ msgstr "Encaboxando"
 
 msgctxt "sFILETRANSFER_CLOSE_CAP"
 msgid "Stop sending file"
-msgstr "Detener l'unvíu del ficheru"
+msgstr "Detener l'unviu del ficheru"
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
@@ -1173,7 +1173,7 @@ msgstr "Amestar a esta persona como contautu pa unvia-y y recibir mensaxes."
 
 msgctxt "sFILETRANSFER_HINT1_RELAYED"
 msgid "You have a relayed connection. This means that sending will be slow."
-msgstr "Ties una conexón abierta. Esto quier dicir que l'unvíu sedrá lentu."
+msgstr "Ties una conexón abierta. Esto quier dicir que l'unviu va ser lentu."
 
 msgctxt "sBUDDYMENU_SENDFILE"
 msgid "Send File..."
@@ -1185,7 +1185,7 @@ msgstr "Encaboxáu"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr "Falló l'unvíu"
+msgstr "Falló l'unviu"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1202,11 +1202,11 @@ msgstr "Los ficheros puen tener virus. Recomendámoste encarecidamente qu'uses u
 
 msgctxt "sFILETRANSFER_VIRUS_TITLE"
 msgid "Accept file"
-msgstr "Aceptar ficheru"
+msgstr "Aceutar ficheru"
 
 msgctxt "sFILETRANSFER_VIRUS_CAP"
 msgid "Accept the file(s)"
-msgstr "Aceptar ficheru(os)"
+msgstr "Aceutar ficheru(os)"
 
 msgctxt "sPSTN_RES_10403"
 msgid "You can't call this number on Skype right now."
@@ -1265,7 +1265,7 @@ msgid ""
 "You recently changed your password. Sign in with the new password to call a "
 "phone or mobile. This is a security measure to prevent your Skype account "
 "being abused."
-msgstr "Hai pocu que camudasti la to clave. Conéutate cola nueva clave pa llamar a teléfonos o móviles. Esta ye una midía de seguridá pa que la to cuenta de Skype nun seya remanada por terceros."
+msgstr "Hai poco que camudasti la to clave. Conéutate cola nueva clave pa llamar a teléfonos o móviles. Esta ye una midida de seguridá pa que la to cuenta de Skype nun seya remanada por terceros."
 
 msgctxt "sINFORM_UIC_FAILED_LOGOFF"
 msgid ""
@@ -1295,7 +1295,7 @@ msgstr "Llama a teléfonos móvil y fixos con tarifes increyiblemente baxes"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PAUSED"
 msgid "Sending paused."
-msgstr "Unvíu posáu."
+msgstr "Unviu posáu."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CONNECTING"
 msgid "Connecting..."
@@ -1307,7 +1307,7 @@ msgstr "Micrófonu en silenciu"
 
 msgctxt "sF_STARTCHAT_TITLE"
 msgid "Add people"
-msgstr "Amesta xente"
+msgstr "Amestar xente"
 
 msgctxt "sF_STARTCHAT_SELECTED_CONTACTS_LABEL"
 msgid "People in this group"
@@ -1329,7 +1329,7 @@ msgstr "Sentímoslo, falló la llamada."
 
 msgctxt "sF_USERENTRY_CB_START_SKYPE"
 msgid "Start Skype when computer starts"
-msgstr "Entama Skype al prender l'ordenador."
+msgstr "Anicia Skype al prender l'ordenador."
 
 msgctxt "sACL_CHANGE"
 msgid "Change"
@@ -1337,7 +1337,7 @@ msgstr "Camudar"
 
 msgctxt "sACL_OK"
 msgid "OK"
-msgstr "D'alcuerdu"
+msgstr "Aceutar"
 
 msgctxt "sACL_REMOVE"
 msgid "Remove"
@@ -1413,7 +1413,7 @@ msgstr "Encaboxar"
 
 msgctxt "sFILETRANSFERSEND_LB_SELECT"
 msgid "Select who you want to send the file (%s) to and press Send."
-msgstr "Escueyi a quién-y quiés unviar el ficheru (%s) y calca Unviar."
+msgstr "Escueyi a quién-y quies unviar el ficheru (%s) y calca Unviar."
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_1"
 msgid "I do not answer within"
@@ -1551,11 +1551,11 @@ msgstr "Activar verificación del proxy"
 
 msgctxt "sF_OPTIONS_SOCKS_AUTOMATIC"
 msgid "Automatic proxy detection"
-msgstr "Detección automática del proxy"
+msgstr "Deteición automática del proxy"
 
 msgctxt "sF_OPTIONS_DELETE_HISTORY"
 msgid "Clear history"
-msgstr "Esborriar historia"
+msgstr "Llimpiar historia"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_0"
 msgid "no history"
@@ -1618,15 +1618,15 @@ msgstr "Ficheros Skype d'idioma (*.lang)\\|*.LANG"
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
-msgstr "Amestáse a la Conversación"
+msgstr "Xunise a la Conversación"
 
 msgctxt "sF_MULTICHAT_EDIT_UNDO"
 msgid "Undo"
-msgstr "Esfacer"
+msgstr "Desfacer"
 
 msgctxt "sF_MULTICHAT_EDIT_CUT"
 msgid "Cut"
-msgstr "Frañir"
+msgstr "Cortar"
 
 msgctxt "sF_MULTICHAT_EDIT_COPY"
 msgid "Copy"
@@ -1642,7 +1642,7 @@ msgstr "Desaniciar"
 
 msgctxt "sF_MULTICHAT_EDIT_SELECTALL"
 msgid "Select all"
-msgstr "Seleicionar Tou"
+msgstr "Seleicionar Too"
 
 msgctxt "sF_MULTICHAT_UNSUBSCRIBED_WARNING"
 msgid "You have left this group."
@@ -1674,7 +1674,7 @@ msgstr "entama un Mensaxe Instantáneu conmigo"
 
 msgctxt "sF_OPTIONS_NOTIF_FILE"
 msgid "sends me a file"
-msgstr "unvíame un ficheru"
+msgstr "únviame un ficheru"
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
@@ -1686,7 +1686,7 @@ msgstr "déxame un mensaxe de voz"
 
 msgctxt "sF_OPTIONS_NOTIF_SENDCONTACTS"
 msgid "sends me contacts"
-msgstr "unvíame contautos"
+msgstr "únviame contautos"
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_IN"
 msgid "ringtone"
@@ -1843,11 +1843,11 @@ msgstr "Bloquiar llamaes cuando'l númberu teléfonu tea tapecíu"
 
 msgctxt "sF_OPTIONS_RG3_3"
 msgid "phone numbers in my Contact list only"
-msgstr "solo los númberos de teléfonu de la mio llista de Contautos"
+msgstr "namái los númberos de teléfonu de la mio llista de Contautos"
 
 msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
-msgstr "D'alcuerdu"
+msgstr "Aceutar"
 
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
@@ -1865,7 +1865,7 @@ msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT2"
 msgid ""
 "Are you sure you want to remove this picture? The picture will also be "
 "deleted from your Skype Pictures folder."
-msgstr "¿De xuru que quies quitar esta semeya? La semeya tamién desaniciaráse del to direutoriu de Semeyes de Skype."
+msgstr "¿De xuru que quies quitar esta semeya? La semeya tamién va desaniciase del to direutoriu de Semeyes de Skype."
 
 msgctxt "sF_USERPROFILE_WRONG_EMAIL"
 msgid ""
@@ -1906,7 +1906,7 @@ msgstr "Contautaos apocayá"
 
 msgctxt "sF_OPTIONS_LINK_TEST_CALL"
 msgid "Make a free test call"
-msgstr "Facer una llamada de preba de baldre"
+msgstr "Facer una llamada de prueba de baldre"
 
 msgctxt "sF_OPTIONS_LINK_AUDIO_HELP"
 msgid "Learn more about setting up your audio equipment"
@@ -1964,7 +1964,7 @@ msgctxt "sFILETRANSFER_DISABLED"
 msgid ""
 "File sending is disabled. Contact your system administrator for more "
 "information."
-msgstr "L'unvíu de ficheros ta inactivu. Contauta col alministrador del sistema pa más información."
+msgstr "L'unviu de ficheros ta inactivu. Contauta col alministrador del sistema pa más información."
 
 msgctxt "sF_ADDFRIEND_LABEL3_1"
 msgid "Name"
@@ -2059,13 +2059,13 @@ msgstr "coneutando la llamada"
 
 msgctxt "sF_USERINFO_LABEL_ADD"
 msgid "Add contact"
-msgstr "Amesta un contautu"
+msgstr "Amestar un contautu"
 
 msgctxt "sF_USERINFO_LABEL_NOT_FOUND"
 msgid ""
 "We can't show more information about this contact because they have not been"
 " online for a long time."
-msgstr "Nun podemos amosar más información no tocante a esti contautu porque lleva abondo tiempu ensin tar en llínia."
+msgstr "Nun podemos amosar más información no tocante a esti contautu porque lleva abondo tiempu ensin tar en llinia."
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_1"
 msgid "This picture \"%s\" belongs to %s."
@@ -2083,7 +2083,7 @@ msgctxt "sF_AVATAR_BROWSER_MSG2_1"
 msgid ""
 "Sorry, the file could not be installed. The file may not have downloaded "
 "properly or the file size is too large."
-msgstr "Sentímoslo, el ficheru nun pudo instalase. Pue que'l ficheru nun fuere baxáu de forma afayadiza o que seya endemasiáu grande."
+msgstr "Sentímoslo, el ficheru nun pudo instalase. Pue que'l ficheru nun se baxara de forma afayadiza o que seya endemasiáu grande."
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_2"
 msgid "Please try downloading this file again."
@@ -2099,7 +2099,7 @@ msgstr "Restolar..."
 
 msgctxt "sF_SOUNDS_BTN_SET"
 msgid "OK"
-msgstr "D'alcuerdu"
+msgstr "Aceutar"
 
 msgctxt "sF_SOUNDS_BTN_CLOSE"
 msgid "Cancel"
@@ -2123,7 +2123,7 @@ msgstr "Llamada n'espera Skype (Modernu)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT5"
 msgid "Skype resuming call (Modern)"
-msgstr "Despachando llamada Skype (Modernu)"
+msgstr "Reanudando llamada Skype (Modernu)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT6"
 msgid "Skype hang up (Modern)"
@@ -2135,7 +2135,7 @@ msgstr "Mensaxe Instantáneu recibíu Skype (Modernu)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT8"
 msgid "Skype contact online (Modern)"
-msgstr "Contautu Skype en llínia (Modernu)"
+msgstr "Contautu Skype en llinia (Modernu)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT9"
 msgid "Skype connecting call (Modern)"
@@ -2149,7 +2149,7 @@ msgctxt "sF_SOUNDS_DELETE_PROMPT"
 msgid ""
 "Remove %s from your sound library? This file will also be deleted from My "
 "Skype Content folder."
-msgstr "¿Quitar %s de la to biblioteca soníos? Esti ficheru tamién desaniciaráse del directoriu El Mio Conteníu Skype"
+msgstr "¿Quitar %s de la to biblioteca soníos? Esti ficheru tamién va desaniciase del directoriu El Mio Conteníu Skype"
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT_TITLE"
 msgid "Remove sound file?"
@@ -2169,7 +2169,7 @@ msgstr "El soníu pertenez a otra persona"
 
 msgctxt "sF_SOUNDS_MSG2_1"
 msgid "%s could not be installed. There may be a problem with the file."
-msgstr "%s nun se pudieron instalar. Pue qu'haiga un problema col ficheru."
+msgstr "%s nun se pudieron instalar. Pue qu'heba un problema col ficheru."
 
 msgctxt "sF_SOUNDS_MSG2_2"
 msgid "Please try downloading this sound again."
@@ -2217,11 +2217,11 @@ msgstr "Dexa que Skype garre'l mensaxe si tas desconeutáu o ausente del to orde
 
 msgctxt "sF_OPTIONS_LINK_CF_ADVANCED"
 msgid "Add more phone numbers"
-msgstr "Amesta más númberos de teléfonu"
+msgstr "Amestar más númberos de teléfonu"
 
 msgctxt "sF_OPTIONS_LINK_CF_BASIC"
 msgid "One phone number only"
-msgstr "Solo ún númberu de teléfonu"
+msgstr "Namái ún númberu de teléfonu"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
@@ -2231,7 +2231,7 @@ msgctxt "sF_VOICEMAIL_OPTIONS_LB3"
 msgid ""
 "Note: If call forwarding is on, calls will be sent first to the phone "
 "number(s) you entered"
-msgstr "Nota: Si ta activáu la redireición, les llamáes mandaránse primeru al/los númbero(s) qu'escribisti"
+msgstr "Nota: Si ta activáu la redireición, les llamaes van mandase primero al/los númbero(s) qu'escribisti"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB4"
 msgid "If there is no answer, calls will be recorded as a voice message"
@@ -2294,7 +2294,7 @@ msgstr "Amosar mensaxes no tocante a..."
 
 msgctxt "sF_OPTIONS_NOTIF_TIPS"
 msgid "Help and Skype tips"
-msgstr "Aida y encamientos de Skype"
+msgstr "Ayuda y conseyos de Skype"
 
 msgctxt "sF_MULTICHAT_FT_NOTIFICATION_SINGLE"
 msgid "/me sent file %s"
@@ -2369,11 +2369,11 @@ msgctxt "sDATAPATH_REMOVED"
 msgid ""
 "The files that Skype needs to work can't be found. <br />Please check your "
 "network connections and try again later."
-msgstr "Los ficheros que Skype requier pa trabayar nun se puen atopar. <br />Por favor, comprueba la to rede de conexones y inténtalo lluéu."
+msgstr "Los ficheros que Skype requier pa trabayar nun se puen atopar. <br />Por favor, comprueba la to rede de conexones y inténtalo llueu."
 
 msgctxt "sDATAPATH_REMOVED_TITLE"
 msgid "Skype can't continue running and will close"
-msgstr "Skype nun pue siguir trabayando y va piesllase."
+msgstr "Skype nun pue siguir trabayando y va zarrase."
 
 msgctxt "sDATAPATH_MISSING"
 msgid ""
@@ -2383,7 +2383,7 @@ msgstr "Los ficheros que Skype requier pa trabayar nun se puen atopar. <br />Por
 
 msgctxt "sDATAPATH_MISSING_TITLE"
 msgid "Skype can't continue running and will close"
-msgstr "Skype nun pue siguir trabayando y va piesllase."
+msgstr "Skype nun pue siguir trabayando y va zarrase."
 
 msgctxt "sDATAPATH_MISSING_CAPTION"
 msgid "Information"
@@ -2444,7 +2444,7 @@ msgctxt "sACL_REMOVABLE_WARNING"
 msgid ""
 "You are running Skype from a USB flash drive. Any data stored by %s may not "
 "be available on other computers where this devices is used."
-msgstr "Tas usando Skype dende un dispositivu USB. Cualesquier datu atroxáu por %s pue que nun tea disponible notros ordenadores cuando'l dispositivu tea n'usu."
+msgstr "Tas usando Skype dende un preséu USB. Cualesquier datu atroxáu por %s pue que nun tea disponible notros ordenadores cuando'l preséu tea n'usu."
 
 msgctxt "sF_AUTH_BTN_BLOCK"
 msgid "Block"
@@ -2452,7 +2452,7 @@ msgstr "Bloquiar"
 
 msgctxt "sF_AUTHQUERY_DEFAULT2"
 msgid "Hello! Please add me to your Contact list."
-msgstr "¡Hola! Por favor, améstame a la to llista de Contautos."
+msgstr "¡Hola! Por favor, amiéstame a la to llista de Contautos."
 
 msgctxt "sMOODMESSAGE_HINT"
 msgid "Enter mood message"
@@ -2472,7 +2472,7 @@ msgstr "El créitu fina en %s <a href=\"skype:?dialpad\"> Fai una llamada</a>."
 
 msgctxt "sF_USERENTRY_LINK_REGISTER"
 msgid "Don't have a Skype Name?"
-msgstr "¿Nun ties Nome Skype?"
+msgstr "¿Nun tienes Nome Skype?"
 
 msgctxt "sF_USERENTRY_LOGGING_HELP"
 msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
@@ -2502,7 +2502,7 @@ msgstr "Direición non válida"
 
 msgctxt "sF_USERENTRY_ERROR_1109"
 msgid "Skype Name contains invalid characters."
-msgstr "El Nome Skype contién carauteres non válidos."
+msgstr "El Nome Skype contién caráuteres non válidos."
 
 msgctxt "sF_USERENTRY_LB_EXPLAIN"
 msgid ""
@@ -2512,7 +2512,7 @@ msgstr "Sentímoslo - el Nome Skype qu'escribisti yá ta coyíu. Escribi un nuev
 
 msgctxt "sF_OPTIONS_CB_WEBPRESENCE"
 msgid "Allow my online status to be shown on the web"
-msgstr "Permitir que'l mio estatus En Llínia seya visible nel web"
+msgstr "Permitir que'l mio estatus En Llinia seya visible nel web"
 
 msgctxt "sF_OPTIONS_LB_WEBPRESENCE1"
 msgid "Learn more"
@@ -4560,19 +4560,19 @@ msgstr "dengún"
 
 msgctxt "sZAPBUTTON_DUMMYFULL"
 msgid ""
-msgstr ""
+msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
 
 msgctxt "sZAPBUTTON_DUMMYLEFT"
 msgid ""
-msgstr ""
+msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
 
 msgctxt "sZAPBUTTON_DUMMYRIGHT"
 msgid ""
-msgstr ""
+msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
 
 msgctxt "sZAPBUTTON_DUMMYMIDDLE"
 msgid ""
-msgstr ""
+msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
@@ -4624,11 +4624,11 @@ msgstr "Amestar a Contautos"
 
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
-msgstr ""
+msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
 
 msgctxt "sZAPBUTTON_AF_UNPINNED"
 msgid ""
-msgstr ""
+msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
 
 msgctxt "sZAPBUTTON_ALLCONTACTS"
 msgid ""
@@ -5504,11 +5504,11 @@ msgstr "En silenciu"
 
 msgctxt "sZAPBUTTON_MYSELFTOP"
 msgid ""
-msgstr ""
+msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
 
 msgctxt "sZAPBUTTON_MYSELFBOTTOM"
 msgid ""
-msgstr ""
+msgstr "7abe095518b8b0837fc38d15a401089f_tr"
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -9167,7 +9167,7 @@ msgstr "¿Nun vos podéis ver pel videu? Taba bien que quitáreis y prendiéreis
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
 msgid ""
-msgstr ""
+msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
 msgid ""

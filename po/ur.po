@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-11-09 23:22+0000\n"
+"PO-Revision-Date: 2013-12-04 13:40+0000\n"
 "Last-Translator: Contrib2012 <Contrib2012@gmail.com>\n"
 "Language-Team: Urdu (http://www.transifex.com/projects/p/skype-translation-project/language/ur/)\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr "مصروف"
 msgctxt "sQUIT_PROMPT"
 msgid ""
 "You won't be able to send or receive instant messages and calls if you do."
-msgstr "آپ کال اور فوری پیغام بھیج اور موصول نہ کر سکیں گے, اگر پہلے آپ ایسا کر سکتے ہیں-"
+msgstr "آپ کال اور فوری پیغام بھیج یا موصول نہ کر سکیں گے, اگر پہلے آپ ایسا کر سکتے ہیں-"
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
@@ -129,7 +129,7 @@ msgstr "دور"
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
-msgstr "غیرموجود"
+msgstr "غیرمیسر"
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
@@ -154,7 +154,7 @@ msgstr "%s ایک معتبر سکائپ نام یا فون نمبر نہیں ہ�
 
 msgctxt "sF_USERINFO_INVALID_USER"
 msgid "Skype Name not found"
-msgstr "نامعلوم سکائپ نام"
+msgstr "سکائپ نام نامعلوم"
 
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
@@ -310,7 +310,7 @@ msgstr " جب ونڈوز چلے تو سکائپ بھی چل پڑے"
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "رابطے کی تفصیل اپنے خاکے میں شامل کریں"
+msgstr "رابطے کی تفصیلات اپنے خاکے میں شامل کریں"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
@@ -994,7 +994,7 @@ msgstr "گفتگو کے لیے موضوع درج کریں"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE"
 msgid "The Skype Name you entered is invalid."
-msgstr "درج کیا گیا سکائپ نام غیرمعتبر ہے-"
+msgstr "آپ کا درج کردہ سکائپ نام غیرمعتبر ہے-"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_TITLE"
 msgid "Error"
@@ -2274,7 +2274,7 @@ msgstr "ترتیبات محفوظ نہیں ہو سکی"
 
 msgctxt "sF_OPTIONS_CF_ERROR1"
 msgid "Phone number or Skype Name is invalid. Please check and try again."
-msgstr "فون نمبر یا سکائپ نام غیرمعتبر ہے- برائے مہربانی معائینہ کیجئے اور دوبارہ کوشش کریں-"
+msgstr "فون نمبر یا سکائپ نام غیرمعتبر ہے- برائے مہربانی معائینہ کریں اور دوبارہ کوشش کریں-"
 
 msgctxt "sF_OPTIONS_CF_ERROR2"
 msgid "Error in call forwarding settings"
@@ -2473,7 +2473,7 @@ msgstr "اعزازیہ کی معیاد ختم ہوتی ہے %s <a href=\"skype:?
 
 msgctxt "sF_USERENTRY_LINK_REGISTER"
 msgid "Don't have a Skype Name?"
-msgstr "کیا آپ کے پاس سکائپ نام ہے؟"
+msgstr "سکائپ نام نہیں ہے؟"
 
 msgctxt "sF_USERENTRY_LOGGING_HELP"
 msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
@@ -2495,7 +2495,7 @@ msgctxt "sF_USERENTRY_ERROR_1104"
 msgid ""
 "Your Skype Name and password were not recognized. Please check and try "
 "again."
-msgstr "آپ کے سکائپ نام اور خفیہ لفظ کی شناخت نہیں ہو سکی- براۓ مہربانی معائینہ کیجئے اور دوبارہ کوشش کریں"
+msgstr "آپ کے سکائپ نام اور خفیہ لفظ کی پہچان نہیں ہو سکی- براۓ مہربانی معائینہ کریں اور دوبارہ کوشش کریں-"
 
 msgctxt "sF_USERENTRY_ERROR_1107"
 msgid "Invalid address"
@@ -4561,19 +4561,19 @@ msgstr "کچھ نہیں"
 
 msgctxt "sZAPBUTTON_DUMMYFULL"
 msgid ""
-msgstr ""
+msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
 
 msgctxt "sZAPBUTTON_DUMMYLEFT"
 msgid ""
-msgstr ""
+msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
 
 msgctxt "sZAPBUTTON_DUMMYRIGHT"
 msgid ""
-msgstr ""
+msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
 
 msgctxt "sZAPBUTTON_DUMMYMIDDLE"
 msgid ""
-msgstr ""
+msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
@@ -4625,11 +4625,11 @@ msgstr "رابطوں میں شامل کریں"
 
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
-msgstr ""
+msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
 
 msgctxt "sZAPBUTTON_AF_UNPINNED"
 msgid ""
-msgstr ""
+msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
 
 msgctxt "sZAPBUTTON_ALLCONTACTS"
 msgid ""
@@ -5505,11 +5505,11 @@ msgstr "خاموش زدہ بنائیں"
 
 msgctxt "sZAPBUTTON_MYSELFTOP"
 msgid ""
-msgstr ""
+msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
 
 msgctxt "sZAPBUTTON_MYSELFBOTTOM"
 msgid ""
-msgstr ""
+msgstr "7abe095518b8b0837fc38d15a401089f_tr"
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -9168,7 +9168,7 @@ msgstr "ایک دوسرے کی رواں تصویر نہیں دیکھ پا رہے
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
 msgid ""
-msgstr ""
+msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
 msgid ""
