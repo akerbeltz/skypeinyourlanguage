@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
-        <translation type="unfinished"/>
+        <translation>Membenarkan capaian ke API Skype menerusi rangkaian adalah tidak selamat. Hanya buat&lt;br&gt;dalam persekitaran terkawal dan tidak sesekali menerusi internet.&lt;br&gt;Skype tidak menjami apa-apa keselamatan jika anda benarkan soket TCP&lt;br&gt;terangkai, kerana saluran komunikasi adalah tidak tersulit.</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>sF_ABOUT_WARNING_2</comment>
-        <translation type="unfinished"/>
+        <translation>Penghasilan semula atau pengedaran program tanpa izin, atau mana-mana bahagiannya, akan dikenakan tindakan undang-undang, dan akan dikenakan hukuman yang semaksimum mungkin dibawah peruntukan undang-undang.</translation>
     </message>
     <message>
         <source>Patents Pending</source>
@@ -634,11 +634,11 @@
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat cari &quot;%1&quot; dalam sembang (anda mungkin mahu tunjukkan dahulu semua mesej terdahulu)</translation>
     </message>
     <message>
         <source>Cannot find more occurences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat cari lagi kejadian &quot;%1&quot; dalam sembang (anda mungkin mahu tunjukkan dahulu semua mesej terdahulu)</translation>
     </message>
     <message>
         <source>Double-click here to set chat topic.</source>
@@ -705,7 +705,8 @@
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
 Please select a different image file.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal tukar imej terpilih ke format yang sesuai untuk Skype!
+Sila pilih fail imej yang berbeza.</translation>
     </message>
     <message>
         <source>Image Size Error!</source>
@@ -851,7 +852,7 @@ Sila cuba fail lain dan pastikan fail mempunyai keizinan baca.</translation>
     </message>
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
-        <translation type="unfinished"/>
+        <translation>And akan membuat panggilan ke ahli %1 bagi sembang ini. Anda pasti mahu membuat panggilan tersebut?</translation>
     </message>
     <message>
         <source>Are you sure you want to leave this chat?</source>
@@ -2597,1536 +2598,1544 @@ Sila cuba fail lain dan pastikan fail mempunyai keizinan baca.</translation>
     </message>
     <message>
         <source>sendprogress</source>
-        <translation type="unfinished"/>
+        <translation>kemajuanhantar</translation>
     </message>
     <message>
         <source>Send progress count</source>
-        <translation type="unfinished"/>
+        <translation>Hantar kiraan kemajuan</translation>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
-        <translation type="unfinished"/>
+        <translation>palangkemajuanhantar</translation>
     </message>
     <message>
         <source>Send progress bar</source>
-        <translation type="unfinished"/>
+        <translation>Palang kemajuan hantar</translation>
     </message>
 </context>
 <context>
     <name>Login</name>
     <message>
         <source>Sign me in when Skype starts</source>
-        <translation type="unfinished"/>
+        <translation>Daftar masuk saya bila Skype bermula</translation>
     </message>
     <message>
         <source>Your password must be at least 6 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan anda mesti sekurang-kurangnya 6 aksara.</translation>
     </message>
     <message>
         <source>Your entered passwords do not match.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan yang anda masukkan tidak sepadan.</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Kata Laluan</translation>
     </message>
     <message>
         <source>Current Password</source>
-        <translation type="unfinished"/>
+        <translation>Kata Laluan Semasa</translation>
     </message>
     <message>
         <source>New Password</source>
-        <translation type="unfinished"/>
+        <translation>Kata Laluan Baharu</translation>
     </message>
     <message>
         <source>Verify New Password</source>
-        <translation type="unfinished"/>
+        <translation>Sahkan Kata Laluan Baharu</translation>
     </message>
     <message>
         <source>Your password must be at least 6 characters in length.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan anda panjangnya mestilah sekurang-kurangnya 6 aksara.</translation>
     </message>
     <message>
         <source>Automatically sign-in when I start Skype</source>
-        <translation type="unfinished"/>
+        <translation>Daftar-masuk secara automatik bila saya memulakan Skype</translation>
     </message>
     <message>
         <source>Password Changed.</source>
-        <translation type="unfinished"/>
+        <translation>Kata Laluan Berubah</translation>
     </message>
     <message>
         <source>Your password has been successfully changed.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan anda berjaya diubah.</translation>
     </message>
     <message>
         <source>Your new and old passwords match.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan lama dan baharu anda sepadan.</translation>
     </message>
     <message>
         <source>Your password is too long.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan anda terlalu panjang.</translation>
     </message>
     <message>
         <source>Your password contains an invalid character.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan anda mengandungi aksara tidak sah.</translation>
     </message>
     <message>
         <source>Click here to change your password</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk mengubah kata laluan anda</translation>
     </message>
     <message>
         <source>Changing Password...</source>
-        <translation type="unfinished"/>
+        <translation>Mengubah Kata Laluan...</translation>
     </message>
     <message>
         <source>Please wait while your password is changed.
 
 This shouldn&apos;t take more than a few seconds.</source>
-        <translation type="unfinished"/>
+        <translation>Sila tunggu ketika kata laluan anda berubah.
+
+Ia mengambil masa tidak lebih dari beberapa saat.</translation>
     </message>
     <message>
         <source>Current password is incorrect.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan semasa tidak betul.</translation>
     </message>
     <message>
         <source>Server connect failed.
 Please check your internet connection and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Sambungan ke pelayan gagal.
+Sila semak sambungan internet anda dan cuba lagi.</translation>
     </message>
     <message>
         <source>Your new password can not be the same as your old password.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan baharu anda tidak sama dengan kata laluan lama anda.</translation>
     </message>
     <message>
         <source>Your new password is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan baharu anda tidak sah.</translation>
     </message>
     <message>
         <source>You must be logged in in order to change your password.</source>
-        <translation type="unfinished"/>
+        <translation>Anda mesti mendaftar masuk supaya dapat menukar kata laluan anda.</translation>
     </message>
     <message>
         <source>Password Change Failed</source>
-        <translation type="unfinished"/>
+        <translation>Perubahan Kata Laluan Gagal</translation>
     </message>
     <message>
         <source>Your password must differ from your Skype Name.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan anda mesti berbeza dengan Nama Skype anda.</translation>
     </message>
     <message>
         <source>Your password has invalid format.</source>
-        <translation type="unfinished"/>
+        <translation>Kata laluan anda mempunyai format yang tidak sah.</translation>
     </message>
     <message>
         <source>An unknown error occured while changing your password.
 
 Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Ralat tidak diketahui berlaku semasa menukar kata laluan anda.
+
+Sila cuba lagi kemudian.</translation>
     </message>
     <message>
         <source>Sign in with a different account</source>
-        <translation type="unfinished"/>
+        <translation>Daftar masuk dengan akaun berbesa</translation>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Sambung dengan Skype WiFi</translation>
     </message>
     <message>
         <source>Failed to log in. Check your Skype Name or password</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mendaftar masuk. Semak Nama atau kata laluan Skype anda</translation>
     </message>
 </context>
 <context>
     <name>Main Window</name>
     <message>
         <source>Click here to change your status</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk menukar status anda</translation>
     </message>
     <message>
         <source>Click here to personalise your mood and profile</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk peribadikan mood dan profil anda</translation>
     </message>
     <message>
         <source>Click here to change your avatar</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk menukar avatar anda</translation>
     </message>
     <message>
         <source>Type your mood message in this box</source>
-        <translation type="unfinished"/>
+        <translation>Taip mesej mood anda dalam kotak ini</translation>
     </message>
     <message>
         <source>Skype Credit</source>
-        <translation type="unfinished"/>
+        <translation>Kredit Skype</translation>
     </message>
     <message>
         <source>Visit account page</source>
-        <translation type="unfinished"/>
+        <translation>Lawati laman akaun</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Keluar</translation>
     </message>
     <message>
         <source>Event History</source>
-        <translation type="unfinished"/>
+        <translation>Sejarah Peristiwa</translation>
     </message>
     <message>
         <source>Add or Search for Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Tambah atau Gelintar Kenalan Skype</translation>
     </message>
     <message>
         <source>Main Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu Utama</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Pemindahan Fail</translation>
     </message>
     <message>
         <source>%1 %2%3 for Linux</source>
         <comment>Pre-login main window title: ie. %1 = &quot;Skype&quot;, %2 = &quot;1.5&quot;, %3 = &quot; (Alpha)&quot;</comment>
-        <translation type="unfinished"/>
+        <translation>%1 %2%3 untuk Linux</translation>
     </message>
     <message>
         <source>%1 Skype Credit available</source>
-        <translation type="unfinished"/>
+        <translation>%1 Kredit Skype tersedia</translation>
     </message>
     <message>
         <source>%1 People Online</source>
-        <translation type="unfinished"/>
+        <translation>%1 Individu Diatas Talian</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"/>
+        <translation>Imej</translation>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk Kenalan</translation>
     </message>
     <message>
         <source>Click here to show contact list</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk tunjukkan senarai kenalan</translation>
     </message>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk Sejarah</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Semua Dilihat</translation>
     </message>
     <message>
         <source>Click here to hide new events</source>
-        <translation type="unfinished"/>
+        <translation>Klik disini untuk sembunyikan peristiwa baharu</translation>
     </message>
     <message>
         <source>Click here to show new events</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk tunjukkan peristiwa baharu</translation>
     </message>
     <message>
         <source>Click here to show event history</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk tunjukkan sejarah peristiwa</translation>
     </message>
     <message>
         <source>Click here to show contacts</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk tunjukkan kenalan</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>P&amp;ilihan</translation>
     </message>
     <message>
         <source>Sign &amp;Out</source>
-        <translation type="unfinished"/>
+        <translation>Daftar &amp;Keluar</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Keluar</translation>
     </message>
     <message>
         <source>New Version Available</source>
-        <translation type="unfinished"/>
+        <translation>Versi Baharu Tersedia</translation>
     </message>
     <message>
         <source>Open Download Page</source>
-        <translation type="unfinished"/>
+        <translation>Buka Halaman Muat Turun</translation>
     </message>
     <message>
         <source>A new version of Skype is now available for download.</source>
-        <translation type="unfinished"/>
+        <translation>Versi baharu Skype kini tersedia untuk dimuat turun.</translation>
     </message>
     <message>
         <source>This is a required upgrade.</source>
-        <translation type="unfinished"/>
+        <translation>Ia memerlukan penataran.</translation>
     </message>
     <message numerus="yes">
         <source>%n new event(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n peristiwa baharu</numerusform></translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Semua Kenalan</translation>
     </message>
     <message>
         <source>Online Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan Atas Talian</translation>
     </message>
     <message>
         <source>Recently Contacted Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan Dihubungi Baru-Baru Ini</translation>
     </message>
     <message>
         <source>Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan Skype</translation>
     </message>
     <message>
         <source>Ungrouped Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan Tanpa Kumpulan</translation>
     </message>
     <message>
         <source>%1 is not in your Contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 tidak berada dalam senarai Kenalan anda</translation>
     </message>
     <message>
         <source>Search for &quot;%1&quot; in the Skype Directory</source>
-        <translation type="unfinished"/>
+        <translation>Gelintar &quot;%1&quot; di dalam Direktori Skype</translation>
     </message>
     <message>
         <source>Show Contact &amp;Groups</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk K&amp;umpulan Kenalan</translation>
     </message>
     <message>
         <source>Contact &amp;Groups</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;umpulan Kenalan</translation>
     </message>
     <message>
         <source>&amp;Hide Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sembunyi Kumpulan Kenalan</translation>
     </message>
     <message>
         <source>&amp;Compact Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Padatkan Kumpulan Kenalan</translation>
     </message>
     <message>
         <source>&amp;New Contact Group...</source>
-        <translation type="unfinished"/>
+        <translation>Kumpulan Kenalan &amp;Baharu...</translation>
     </message>
     <message>
         <source>&amp;Predefined Groups</source>
-        <translation type="unfinished"/>
+        <translation>Kumpulan Dip&amp;ratakrif</translation>
     </message>
     <message>
         <source>Bookmarked Chats</source>
-        <translation type="unfinished"/>
+        <translation>Sembang Bertanda Buku</translation>
     </message>
     <message>
         <source>Change &amp;Password...</source>
-        <translation type="unfinished"/>
+        <translation>Ubah &amp;Kata Laluan...</translation>
     </message>
     <message>
         <source>&amp;About Skype</source>
-        <translation type="unfinished"/>
+        <translation>Perih&amp;al Skype</translation>
     </message>
     <message>
         <source>Total Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah Kenalan</translation>
     </message>
     <message>
         <source>Bookmarked Chats (0)</source>
-        <translation type="unfinished"/>
+        <translation>Sembang Ditanda Buku (0)</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Bernama</translation>
     </message>
     <message>
         <source>Change &amp;Status</source>
-        <translation type="unfinished"/>
+        <translation>Ubah &amp;Status</translation>
     </message>
     <message>
         <source>Search Directory</source>
-        <translation type="unfinished"/>
+        <translation>Gelintar Direktori</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Buat Panggilan atau Hantar SMS</translation>
     </message>
     <message>
         <source>This is the amount of credit you have on your Skype account for making phone calls.</source>
-        <translation type="unfinished"/>
+        <translation>Ini merupakan sejumlah kredit yang anda ada dalam akaun Skype anda untuk membuat panggilan telefon.</translation>
     </message>
     <message>
         <source>Requests from New Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Permintaan dari Kenalan Baharu</translation>
     </message>
     <message>
         <source>Phone Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Nombor Telefon</translation>
     </message>
     <message>
         <source>Requests to New Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Permintaan ke Kenalan Baharu</translation>
     </message>
     <message>
         <source>1 free call</source>
-        <translation type="unfinished"/>
+        <translation>1 panggilan percuma</translation>
     </message>
     <message>
         <source>Call any phone with Skype. Your first call is free.</source>
-        <translation type="unfinished"/>
+        <translation>Panggil mana-mana telefon dengan Skype. Panggilan pertama ada adalah percuma.</translation>
     </message>
     <message>
         <source>Buy Skype Credit</source>
-        <translation type="unfinished"/>
+        <translation>Beli Kredit Skype</translation>
     </message>
     <message>
         <source>Skype number expires in %1 days</source>
-        <translation type="unfinished"/>
+        <translation>Nombor Skype akan luput dalam tempoh %1 hari</translation>
     </message>
     <message>
         <source>Buy a Skype number</source>
-        <translation type="unfinished"/>
+        <translation>Beli nombor Skype</translation>
     </message>
     <message>
         <source>Skype number</source>
-        <translation type="unfinished"/>
+        <translation>Nombor Skype</translation>
     </message>
     <message>
         <source>Skype Voice Messaging</source>
-        <translation type="unfinished"/>
+        <translation>Pemesejan Suara Skype</translation>
     </message>
     <message>
         <source>Start a &amp;Conference Call...</source>
-        <translation type="unfinished"/>
+        <translation>Mulakan Panggilan Pers&amp;idangan...</translation>
     </message>
     <message>
         <source>Get a subscription</source>
         <comment>This appears in case of account not having any subscriptions</comment>
-        <translation type="unfinished"/>
+        <translation>Dapatkan langganan</translation>
     </message>
     <message numerus="yes">
         <source>%n subscription(s)</source>
         <comment>This appears in case of account having subscriptions</comment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n langganan(s)</numerusform></translation>
     </message>
     <message>
         <source>Messenger Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Pemesej Kenalan</translation>
     </message>
     <message>
         <source>Subscriptions</source>
-        <translation type="unfinished"/>
+        <translation>Langganan</translation>
     </message>
 </context>
 <context>
     <name>Options</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Am</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"/>
+        <translation>Kerahsiaan</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Sembang</translation>
     </message>
     <message>
         <source>Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Pemajuan Panggilan</translation>
     </message>
     <message>
         <source>Sound Devices</source>
-        <translation type="unfinished"/>
+        <translation>Peranti Bunyi</translation>
     </message>
     <message>
         <source>Video Devices</source>
-        <translation type="unfinished"/>
+        <translation>Peranti Video</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutan</translation>
     </message>
     <message>
         <source>Blocked People</source>
-        <translation type="unfinished"/>
+        <translation>Individu Disekat</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>API Awam</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Tutup</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan</translation>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
-        <translation type="unfinished"/>
+        <translation>Bila saya dwi-klik pada Kenalan atau guna medan alamat</translation>
     </message>
     <message>
         <source>Start a call</source>
-        <translation type="unfinished"/>
+        <translation>Mulakan panggilan</translation>
     </message>
     <message>
         <source>Start a chat</source>
-        <translation type="unfinished"/>
+        <translation>Mulakan sembang</translation>
     </message>
     <message>
         <source>Show me as &apos;Away&apos; when I am inactive for</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk saya sebagai &apos;Tiada&apos; bila saya tidak aktif selama</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>minit</translation>
     </message>
     <message>
         <source>Start Skype minimised in the system tray</source>
-        <translation type="unfinished"/>
+        <translation>Mulakan Skype diminimumkan dalam talam sistem</translation>
     </message>
     <message>
         <source>Set program language to:</source>
-        <translation type="unfinished"/>
+        <translation>Tetapkan bahasa program ke:</translation>
     </message>
     <message>
         <source>anybody</source>
-        <translation type="unfinished"/>
+        <translation>sesiapa sahaja</translation>
     </message>
     <message>
         <source>only people I have allowed</source>
-        <translation type="unfinished"/>
+        <translation>hanya individu yang saya benarkan</translation>
     </message>
     <message>
         <source>anybody with a visible number</source>
-        <translation type="unfinished"/>
+        <translation>sesiapa sahaja dengan nombor yang kelihatan</translation>
     </message>
     <message>
         <source>only numbers of my Contacts</source>
-        <translation type="unfinished"/>
+        <translation>hanya nombor Kenalan saya</translation>
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>Selama-lamanya</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"/>
+        <translation>2 minggu</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"/>
+        <translation>1 bulan</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"/>
+        <translation>3 bulan</translation>
     </message>
     <message>
         <source>Disable History</source>
-        <translation type="unfinished"/>
+        <translation>Lumpuhkan Sejarah</translation>
     </message>
     <message>
         <source>Allow my status to be shown on the web.</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan status saya ditunjukkan dalam sesawang.</translation>
     </message>
     <message>
         <source>Automatically answer incoming calls.</source>
-        <translation type="unfinished"/>
+        <translation>Jawab panggilan masuk secara automatik.</translation>
     </message>
     <message>
         <source>Allow calls from...</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan panggilan dari...</translation>
     </message>
     <message>
         <source>Allow chats from...</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan sembang dari...</translation>
     </message>
     <message>
         <source>Keep chat history for...</source>
-        <translation type="unfinished"/>
+        <translation>Kekalkan sejarah sembang untuk...</translation>
     </message>
     <message>
         <source>Enable Event</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan Peristiwa</translation>
     </message>
     <message>
         <source>Test Event</source>
-        <translation type="unfinished"/>
+        <translation>Uji Peristiwa</translation>
     </message>
     <message>
         <source>Restore Default</source>
-        <translation type="unfinished"/>
+        <translation>Pulih Lalai</translation>
     </message>
     <message>
         <source>Advanced View</source>
-        <translation type="unfinished"/>
+        <translation>Paparan Lanjutan</translation>
     </message>
     <message>
         <source>Execute the following script on any event:</source>
-        <translation type="unfinished"/>
+        <translation>Lakukan skrip berikut dalam mana-mana peristiwa:</translation>
     </message>
     <message>
         <source>Play sound file:</source>
-        <translation type="unfinished"/>
+        <translation>Main fail bunyi:</translation>
     </message>
     <message>
         <source>None Configured</source>
-        <translation type="unfinished"/>
+        <translation>Tiada Dikonfigur</translation>
     </message>
     <message>
         <source>The file is not accessible.</source>
-        <translation type="unfinished"/>
+        <translation>Fail tidak boleh dicapai.</translation>
     </message>
     <message>
         <source>Reset to Default Sound</source>
-        <translation type="unfinished"/>
+        <translation>Tetap Semula ke Bunyi Lalai</translation>
     </message>
     <message>
         <source>Display pop-up notification</source>
-        <translation type="unfinished"/>
+        <translation>Papar pemberitahuan timbul</translation>
     </message>
     <message>
         <source>Send the other contact a message:</source>
-        <translation type="unfinished"/>
+        <translation>Hantar kenalan lain satu mesej:</translation>
     </message>
     <message>
         <source>Execute the following script:</source>
-        <translation type="unfinished"/>
+        <translation>Lakukan skrip berikut:</translation>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Bunyi</translation>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
-        <translation type="unfinished"/>
+        <translation>Bila seseorang memulakan sembang dengan saya...</translation>
     </message>
     <message>
         <source>Display an event notification</source>
-        <translation type="unfinished"/>
+        <translation>Papar pemberitahuan peristiwa</translation>
     </message>
     <message>
         <source>Create a minimised chat window</source>
-        <translation type="unfinished"/>
+        <translation>Cipta tetingkap sembang terminimum</translation>
     </message>
     <message>
         <source>Open a chat window in front of me</source>
-        <translation type="unfinished"/>
+        <translation>Buka tetingkap sembang dihadapan saya</translation>
     </message>
     <message>
         <source>Show emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk emotikon</translation>
     </message>
     <message>
         <source>Show animated emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk emotikon beranimasi</translation>
     </message>
     <message>
         <source>Show others when I am typing</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk yang lain bila saya menaip</translation>
     </message>
     <message>
         <source>With call forwarding, you can answer your Skype calls even when you&apos;re not currently online.</source>
-        <translation type="unfinished"/>
+        <translation>Dengan pemajuan panggilan, anda boleh balas panggilan Skype anda walaupun anda tidak berada diatas talian.</translation>
     </message>
     <message>
         <source>So you could be away from home, or perhaps traveling on the other side of the planet with no internet access, and still receive your calls.</source>
-        <translation type="unfinished"/>
+        <translation>Walaupun anda berada jauh dari rumah, atau mungkin sedang melancong di luar negara tanpa capaian internet, tetapi masih boleh menerima panggilan anda.</translation>
     </message>
     <message>
         <source>Learn more about Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Ketahui lebih lanjut mengenai Pemajuan Panggilan</translation>
     </message>
     <message>
         <source>Forward calls when I&apos;m not on Skype</source>
-        <translation type="unfinished"/>
+        <translation>Majukan panggilan bila saya tiada menggunakan Skype</translation>
     </message>
     <message>
         <source>Forward calls if I do not answer on Skype within</source>
-        <translation type="unfinished"/>
+        <translation>Majukan panggilan jika saya tidak menjawab menggunakan Skype dalam tempoh</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>saat</translation>
     </message>
     <message>
         <source>Ringing</source>
-        <translation type="unfinished"/>
+        <translation>Deringan</translation>
     </message>
     <message>
         <source>Make a test sound</source>
-        <translation type="unfinished"/>
+        <translation>Buat ujian bunyi</translation>
     </message>
     <message>
         <source>Make a test call</source>
-        <translation type="unfinished"/>
+        <translation>Buat ujian panggilan</translation>
     </message>
     <message>
         <source>Allow Skype to automatically adjust my mixer levels</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan Skype melaras aras pengadun saya secara automatik</translation>
     </message>
     <message>
         <source>nobody</source>
-        <translation type="unfinished"/>
+        <translation>tiada siapa</translation>
     </message>
     <message>
         <source>Automatically receive video from...</source>
-        <translation type="unfinished"/>
+        <translation>Terima video secara automatik dari...</translation>
     </message>
     <message>
         <source>Show that I have video to...</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk saya mempunyai video kepada...</translation>
     </message>
     <message>
         <source>Skype</source>
-        <translation type="unfinished"/>
+        <translation>Skype</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation type="unfinished"/>
+        <translation>Periksa kemaskini semasa permulaan</translation>
     </message>
     <message>
         <source>Display technical call info</source>
-        <translation type="unfinished"/>
+        <translation>Paparan maklumat panggilan teknikal</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>Sambungan</translation>
     </message>
     <message>
         <source>Use port</source>
-        <translation type="unfinished"/>
+        <translation>Guna port</translation>
     </message>
     <message>
         <source>for incoming connections</source>
-        <translation type="unfinished"/>
+        <translation>untuk sambungan masuk</translation>
     </message>
     <message>
         <source>Automatic Proxy Detection</source>
-        <translation type="unfinished"/>
+        <translation>Pengesanan Proksi Berautomatik</translation>
     </message>
     <message>
         <source>HTTPS Proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proksi HTTPS</translation>
     </message>
     <message>
         <source>SOCKS Proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proksi SOCKS</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Hos</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Port</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Pengguna</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Kata Laluan</translation>
     </message>
     <message>
         <source>Unblock Selected People</source>
-        <translation type="unfinished"/>
+        <translation>Nyahsekat Individu Terpilih</translation>
     </message>
     <message>
         <source>Allow my contacts to see the number of contacts I have.</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan kenalan saya melihat kenalan yang saya ada.</translation>
     </message>
     <message>
         <source>Show when others are typing</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk bila orang lain menaip</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Choose Sound File</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Fail Bunyi</translation>
     </message>
     <message>
         <source>The hassle-free way to send text messages to friends when they are offline or on the move.</source>
-        <translation type="unfinished"/>
+        <translation>Cara mudah menghantar mesej teks kepada rakan-rakan bila mereka diluar talian atau sedang berjalan.</translation>
     </message>
     <message>
         <source>Sending an SMS from the comfort of your keyboard is simple, plus it&apos;s cheap and easy to pay for - all you need is a little Skype Credit.</source>
-        <translation type="unfinished"/>
+        <translation>Penghantaran SMS dengan mudah melalui papan kekunci anda, disamping itu ia murah dan mudah dibayar - apa yang anda perlukan hanyalah Kredit Skype.</translation>
     </message>
     <message>
         <source>You can even set your messages to look like they came from your mobile so friends reply to your mobile.</source>
-        <translation type="unfinished"/>
+        <translation>Anda juga boleh tetapkan mesej anda kelihatan berasal dari telefom bimbit anda supaya rakan anda dapat membalasnya ke telefon bimbit anda.</translation>
     </message>
     <message>
         <source>Learn more about SMS</source>
-        <translation type="unfinished"/>
+        <translation>Ketahui lebih lanjut mengenai SMS</translation>
     </message>
     <message>
         <source>My Skype Name (%1). Recipients cannot send SMS replies.</source>
-        <translation type="unfinished"/>
+        <translation>Nama Skype Saya (%1). Penerima tidak boleh menghantar balasan SMS.</translation>
     </message>
     <message>
         <source>Send a verification code to your mobile number.</source>
-        <translation type="unfinished"/>
+        <translation>Hantar kod pengesahan ke nombor telefon bimbit anda.</translation>
     </message>
     <message>
         <source>Select your country</source>
-        <translation type="unfinished"/>
+        <translation>Pilih negara anda</translation>
     </message>
     <message>
         <source>Type your mobile number</source>
-        <translation type="unfinished"/>
+        <translation>Taip nombor telefon bimbit anda</translation>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Hantar</translation>
     </message>
     <message>
         <source>You will be charged the standard rate for one SMS message.</source>
-        <translation type="unfinished"/>
+        <translation>Anda akan dicas mengikut kadar piawai satu mesej SMS.</translation>
     </message>
     <message>
         <source>Enter the code you received on your phone and click Confirm.</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kod yang anda terima dalam telefon anda dan klik Sahkan.</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Sahkan</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;smsrates&quot;&gt;SMS destinations and rates&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;smsrates&quot;&gt;Destinasi dan kadar SMS&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"/>
+        <translation>Mikrofon</translation>
     </message>
     <message>
         <source>Speakers</source>
-        <translation type="unfinished"/>
+        <translation>Pembesar Suara</translation>
     </message>
     <message>
         <source>Choose style: </source>
-        <translation type="unfinished"/>
+        <translation>Pilih gaya:</translation>
     </message>
     <message>
         <source>Desktop Settings</source>
-        <translation type="unfinished"/>
+        <translation>Tetapan Dekstop</translation>
     </message>
     <message>
         <source>When I send an SMS message, identify me by...</source>
-        <translation type="unfinished"/>
+        <translation>Bila saya menghantar mesej SMS, kenalpasti saya dengan...</translation>
     </message>
     <message>
         <source>It appears your system has PulseAudio running: to change sound settings you need to use your Desktop Manager volume control or PulseAudio volume control.</source>
-        <translation type="unfinished"/>
+        <translation>Ia kelihatan sistem anda telah menjalankan PulseAudio: untuk menukar tetapan bunyi anda perlu gunnakan kawalan volum Pengurus Desktop atau kawalan volum PulseAudio anda.</translation>
     </message>
     <message>
         <source>Open PulseAudio Volume Control</source>
-        <translation type="unfinished"/>
+        <translation>Buka Kawalan Volum PulseAudio</translation>
     </message>
     <message>
         <source>Open %1</source>
-        <translation type="unfinished"/>
+        <translation>Buka %1</translation>
     </message>
     <message>
         <source>Trying to open %1</source>
-        <translation type="unfinished"/>
+        <translation>Cuba membuka %1</translation>
     </message>
     <message>
         <source>Failed to start %1</source>
-        <translation type="unfinished"/>
+        <translation>Gagal memulakan %1</translation>
     </message>
     <message>
         <source>Enable Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan Skype WiFi</translation>
     </message>
     <message>
         <source>Call forwarding options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan pemajuan panggilan</translation>
     </message>
     <message>
         <source>When you&apos;re away from Skype, forward incoming calls to a phone or mobile, to another Skype account, or receive them as voice messages.</source>
-        <translation type="unfinished"/>
+        <translation>Bila anda tidak menggunakan Skype, majukan panggilan masuk ke telefon atau telefon bimbit, atau ke akaun Skype yang lain, ataupun terima ia sebagai mesej bersuara.</translation>
     </message>
     <message>
         <source>Add more phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Tambah lagi nombor telefon</translation>
     </message>
     <message>
         <source>One phone number only</source>
-        <translation type="unfinished"/>
+        <translation>Hanya satu nombor telefon</translation>
     </message>
     <message>
         <source>Use Default View</source>
-        <translation type="unfinished"/>
+        <translation>Guna Paparan Lalai</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk Avatar</translation>
     </message>
     <message>
         <source>Pressing Enter will...</source>
-        <translation type="unfinished"/>
+        <translation>Menekan Enter akan...</translation>
     </message>
     <message>
         <source>Insert line break</source>
-        <translation type="unfinished"/>
+        <translation>Sisip hentian baris</translation>
     </message>
     <message>
         <source>Send chat message</source>
-        <translation type="unfinished"/>
+        <translation>Hantar mesej sembang</translation>
     </message>
     <message>
         <source>Voice Messages</source>
-        <translation type="unfinished"/>
+        <translation>Mesej Bersuara</translation>
     </message>
     <message>
         <source>(requires restarting Skype)</source>
-        <translation type="unfinished"/>
+        <translation>(perlu memulakan semula Skype)</translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Terima-Sendiri Fail</translation>
     </message>
     <message>
         <source>Save files to:</source>
-        <translation type="unfinished"/>
+        <translation>Simpan fail ke:</translation>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Direktori Lali untuk Simpan Fail</translation>
     </message>
     <message>
         <source>(might require restarting Skype)</source>
-        <translation type="unfinished"/>
+        <translation>(mungkin perlu memulakan semula Skype)</translation>
     </message>
     <message>
         <source>Allow calls to my Skype number(s) from...</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan panggilan ke nombor(s) Skype saya dari...</translation>
     </message>
     <message>
         <source>You&apos;ll need Skype Credit or a subscription to forward calls. Calls forwarded to a phone number will be charged at &lt;a href=&quot;normalrates&quot;&gt;our rates&lt;/a&gt; for calling phones and mobiles or may be included as part of your subscription.</source>
-        <translation type="unfinished"/>
+        <translation>Anda perlukan Kredit Skype atau langganan untuk majukan panggilan. Panggilan yang dimajukan ke nombor telefon akan dicas mengikut &lt;a href=&quot;normalrates&quot;&gt;kadar kami&lt;/a&gt; untuk panggilan telefon dan telefon bimbit atau disertakan sebagai sebahagian dari langganan anda.</translation>
     </message>
     <message>
         <source>Show Skype watermark during calls</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk tera air Skype semasa memanggil</translation>
     </message>
 </context>
 <context>
     <name>Quickfilter</name>
     <message>
         <source>Show contact list</source>
-        <translation type="unfinished"/>
+        <translation>Tunjuk senarai kenalan</translation>
     </message>
     <message>
         <source>** Show contact list with groups</source>
-        <translation type="unfinished"/>
+        <translation>**Tunjuk senarai kenalan dengan kumpulan</translation>
     </message>
     <message>
         <source>Call a contact not in your list</source>
-        <translation type="unfinished"/>
+        <translation>Panggil kenalan diluar senarai anda</translation>
     </message>
     <message>
         <source>** Add to conference by name/number</source>
-        <translation type="unfinished"/>
+        <translation>** Tambah ke persidangan mengikut nama/nombor</translation>
     </message>
     <message>
         <source>** Send an SMS message</source>
-        <translation type="unfinished"/>
+        <translation>** Hantar satu mesej SMS</translation>
     </message>
     <message>
         <source>** Join a public chat</source>
-        <translation type="unfinished"/>
+        <translation>** Sertai sembang awam</translation>
     </message>
     <message>
         <source>Search through your contacts</source>
-        <translation type="unfinished"/>
+        <translation>Gelintar menerusi kenalan anda</translation>
     </message>
     <message>
         <source>Search through event history</source>
-        <translation type="unfinished"/>
+        <translation>Gelintar menerusi sejarah peristiwa</translation>
     </message>
     <message>
         <source>Enter a public chat blob</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan blob sembang awam</translation>
     </message>
     <message>
         <source>Usage: +number message</source>
-        <translation type="unfinished"/>
+        <translation>Penggunaan: +number message</translation>
     </message>
     <message>
         <source>Send an SMS message</source>
-        <translation type="unfinished"/>
+        <translation>Hantar satu mesej SMS</translation>
     </message>
     <message>
         <source>Enter a number or Skype Name</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan nombor atau Nama Skype</translation>
     </message>
     <message>
         <source>Join a public chat</source>
-        <translation type="unfinished"/>
+        <translation>Sertai sembang awam</translation>
     </message>
     <message>
         <source>** Add to conference call by name/number</source>
-        <translation type="unfinished"/>
+        <translation>** Tambah ke panggilan persidangan mengikut nama/nombor</translation>
     </message>
 </context>
 <context>
     <name>Screensharing</name>
     <message>
         <source>Stop screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Hentikan perkongsian skrin</translation>
     </message>
     <message>
         <source>Share Your Screen</source>
-        <translation type="unfinished"/>
+        <translation>Kongsi Skrin Anda</translation>
     </message>
     <message>
         <source>Share Full Screen</source>
-        <translation type="unfinished"/>
+        <translation>Kongsi Skrin Penuh</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation type="unfinished"/>
+        <translation>Pemilihan Kongsi</translation>
     </message>
     <message>
         <source>Start screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Mulakan perkongsian skrin</translation>
     </message>
     <message>
         <source>Screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Perkongsian skrin</translation>
     </message>
     <message>
         <source>Starting screen sharing will also start an audio call. Are you sure you want to start an audio call?</source>
-        <translation type="unfinished"/>
+        <translation>Memulakan perkongsian skrin juga akan memulakan panggilan audio. Anda pasti mahu memulakan panggilan audio?</translation>
     </message>
 </context>
 <context>
     <name>Send Contacts</name>
     <message>
         <source>Send Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Hantar Kenalan</translation>
     </message>
     <message>
         <source>Send contacts</source>
-        <translation type="unfinished"/>
+        <translation>Hantar kenalan</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hantar</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Batal</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Hantar</translation>
     </message>
     <message>
         <source>Do not send</source>
-        <translation type="unfinished"/>
+        <translation>Jangan hantar</translation>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan dalam senarai anda</translation>
     </message>
     <message>
         <source>Contacts to send</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan untuk dihantar</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tutup</translation>
     </message>
     <message>
         <source>Sent contacts to %1.</source>
-        <translation type="unfinished"/>
+        <translation>Hantar kenalan ke %1.</translation>
     </message>
     <message>
         <source>Contacts NOT sent to %1.</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan TIDAK dihantar ke %1.</translation>
     </message>
     <message>
         <source>Received contacts from %1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan diterima dari %1 (%2)</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;ambah</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Terima</translation>
     </message>
     <message>
         <source>Do not accept</source>
-        <translation type="unfinished"/>
+        <translation>Jangan terima</translation>
     </message>
     <message>
         <source>Received contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan diterima</translation>
     </message>
     <message>
         <source>Contacts to accept</source>
-        <translation type="unfinished"/>
+        <translation>Kenalan untuk diterima</translation>
     </message>
     <message>
         <source>Recipients list (space separated Skype Names):</source>
-        <translation type="unfinished"/>
+        <translation>Senarai penerima (buat jarak pada Nama Skype):</translation>
     </message>
     <message>
         <source>Send Contacts to Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Hantar Kenalan ke Kenalan Terpilih</translation>
     </message>
 </context>
 <context>
     <name>SendProgress</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Borang</translation>
     </message>
     <message>
         <source>sentcontacts</source>
-        <translation type="unfinished"/>
+        <translation>hantarkenalan</translation>
     </message>
     <message>
         <source>Sent contacts list</source>
-        <translation type="unfinished"/>
+        <translation>Hantar senarai kenalan</translation>
     </message>
     <message>
         <source>Sending contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Menghantar kenalan...</translation>
     </message>
     <message>
         <source>sendprogress</source>
-        <translation type="unfinished"/>
+        <translation>kemajuanhantar</translation>
     </message>
     <message>
         <source>Send progress count</source>
-        <translation type="unfinished"/>
+        <translation>Kiraan kemajuan hantar</translation>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
-        <translation type="unfinished"/>
+        <translation>palangkemajuanhantar</translation>
     </message>
     <message>
         <source>Send progress bar</source>
-        <translation type="unfinished"/>
+        <translation>Palang kemajuan hantar</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Batal</translation>
     </message>
 </context>
 <context>
     <name>Skype WiFi</name>
     <message>
         <source>Skype WiFi...</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi...</translation>
     </message>
     <message>
         <source>Skype WiFi</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi</translation>
     </message>
     <message>
         <source>Detecting Skype WiFi availability</source>
-        <translation type="unfinished"/>
+        <translation>Mengesan ketersediaan Skype WiFi</translation>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Sambung dengan Skype WiFi</translation>
     </message>
     <message>
         <source>Connect to this hotspot for free internet access with %1 ¹.</source>
-        <translation type="unfinished"/>
+        <translation>Sambung ke titik panas ini untuk capaian internet percuma dengan %1 ¹.</translation>
     </message>
     <message>
         <source>Use your Skype Credit to pay for internet access at &lt;b&gt;%1&lt;/b&gt; per minute.&lt;br /&gt;&lt;br /&gt;Skype will reserve some credit from your account so your connection doesn&apos;t get interrupted. But don&apos;t worry - when you disconnect we&apos;ll only charge you for the minutes you&apos;ve actually used.</source>
-        <translation type="unfinished"/>
+        <translation>Guna Kredit Skype anda untuk membayar capaian internet sebanyak &lt;b&gt;%1&lt;/b&gt; per minit.&lt;br /&gt;&lt;br /&gt;Skype akan menyimpan sedikit kredit dalam akaun anda supaya sambungan anda tidak terganggu. Jangan risau - bila anda terputus kami hanya kenakan sejumlah minit yang anda guna.</translation>
     </message>
     <message>
         <source>Use your Skype Credit to pay for internet access with %1 ¹.&lt;br /&gt;&lt;br /&gt;Your credit balance is &lt;b&gt;%2&lt;/b&gt;, which means you can have about &lt;b&gt;%3 minutes&lt;/b&gt; online at %4 per minute.&lt;br /&gt;&lt;br /&gt;Skype will reserve some credit from your account so your connection doesn&apos;t get interrupted. But don&apos;t worry - when you disconnect we&apos;ll only charge you for the minutes you&apos;ve actually used.</source>
-        <translation type="unfinished"/>
+        <translation>Guna Kredit Skype anda untuk membayar capaian internet dengan %1 ¹.&lt;br /&gt;%1&lt;br /&gt; Baki kredit anda ialah&lt;b&gt;%2&lt;/b&gt;, yang bermaksud anda mempunyai kira-kira &lt;b&gt;%3 minit&lt;/b&gt; diatas talian pada kadar %4 per minit.&lt;br /&gt;&lt;br /&gt;Skype akan menyimpan sedikit kredit dalam akaun anda supaya sambungan anda tidak terganggu. Jangan risau - bila anda terputus kami hanya kenakan sejumlah minit yang anda guna.</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"/>
+        <translation>Sambung</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"/>
+        <translation>Menyambung...</translation>
     </message>
     <message>
         <source>Skype WiFi is connecting you to %1</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi sedang menyambungkan anda dengan %1</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"/>
+        <translation>Bersambung</translation>
     </message>
     <message>
         <source>You are connected to the internet.</source>
-        <translation type="unfinished"/>
+        <translation>Anda kini bersambung dengan internet.</translation>
     </message>
     <message>
         <source>WiFi network: %1</source>
-        <translation type="unfinished"/>
+        <translation>Rangkaian WiFi: %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Tempoh: %1</translation>
     </message>
     <message>
         <source>Cost: %1</source>
-        <translation type="unfinished"/>
+        <translation>Kos: %1</translation>
     </message>
     <message>
         <source>To disconnect and stop being charged, click the Disconnect button. Any reserved credit that you don&apos;t use will appear back in your account.</source>
-        <translation type="unfinished"/>
+        <translation>Untuk putuskan dan hentikan pembayaran, klik butang Putuskan. Mana-mana kredit berbaki yang anda tidak guna akan muncul kembali dalam akaun anda.</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>Putuskan</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Terputus</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has expired.</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Skype WiFi anda telah luput.</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has ended.</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Skype WiFi anda telah tamat.</translation>
     </message>
     <message>
         <source>Extend your Skype WiFi session</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan sesi Skype WiFi anda</translation>
     </message>
     <message>
         <source>Your session will expire in %1 minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Sesi anda akan luput dalam tempoh %1 minit.</translation>
     </message>
     <message>
         <source>Click Extend session to reserve more minutes online.</source>
-        <translation type="unfinished"/>
+        <translation>Klik Lanjutkan sesis untuk kekalkan beberapa minit diatas-talian.</translation>
     </message>
     <message>
         <source>Extend session</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan sesi</translation>
     </message>
     <message>
         <source>Skype WiFi - hotspot not supported</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi - titik panas tidak disokong </translation>
     </message>
     <message>
         <source>Use Skype WiFi to connect to the web and pay per minute with your Skype Credit at over 1 million WiFi hotspots worldwide.&lt;br /&gt;&lt;br /&gt;The current network does not support Skype WiFi. Please try another available public WiFi network.&lt;br /&gt;&lt;br /&gt;Tip: Skype WiFi doesn&apos;t work with private or closed networks.</source>
-        <translation type="unfinished"/>
+        <translation>Guna Skype WiFi untuk bersambung ke sesawang dan bayar per minit dengan Kredit Skype anda melalui 1 juta titk panas WiFi diseluruh dunia.&lt;br /&gt;&lt;br /&gt;Rangkaian semasa tidak menyokong Skype WiFi. Sila cuba rangkaian awam tersedia yang lain.&lt;br /&gt;&lt;br /&gt;Petua: Skype WiFi tidak berfungsi dengan rangkaian persendirian atau tertutup.</translation>
     </message>
     <message>
         <source>This WiFi hotspot supports Skype WiFi - the easy way to get online.&lt;br /&gt;Simply pay per minute with Skype Credit.&lt;br /&gt;&lt;br /&gt;Unfortunately you don&apos;t have enough credit to use Skype WiFi today.&lt;br /&gt;&lt;br /&gt;You can buy credit from skype.com. When you&apos;re next online, visit skype.com/go/skypecredit to find out more.</source>
-        <translation type="unfinished"/>
+        <translation>Titik panas WiFi ini menyokong Skype WiFi - cara yang mudah untuk berada diatas talian.&lt;br /&gt;Hanya bayar per minit melalui Kredit Skype.&lt;br /&gt;&lt;br /&gt;Malangnya anda tidak mempunyai kredit yang tidak mencukupi untuk guna Skype WiFi hari ini.&lt;br /&gt;&lt;br /&gt;Anda boleh beli kredit melalui skype.com. Dilain masa, lawatilah skype.com/go/skypecredit untuk mengetahui dengan lebih lanjut.</translation>
     </message>
 </context>
 <context>
     <name>Sms</name>
     <message>
         <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
+        <translation>Mesej ini belum lagi dihantar.</translation>
     </message>
     <message>
         <source>Delivery failed.</source>
-        <translation type="unfinished"/>
+        <translation>Penghantaran gagal.</translation>
     </message>
     <message>
         <source>Message is delivered.</source>
-        <translation type="unfinished"/>
+        <translation>Mesej dihantar.</translation>
     </message>
     <message>
         <source>SMS message to %1 is sent</source>
-        <translation type="unfinished"/>
+        <translation>Mesej SMS ke %1 dihantar</translation>
     </message>
     <message>
         <source>SMS message to %1 is failed</source>
-        <translation type="unfinished"/>
+        <translation>Mesej SMS ke %1 telah gagal dihantar</translation>
     </message>
     <message>
         <source>Unknown SMS event</source>
-        <translation type="unfinished"/>
+        <translation>Peristiwa SMS tidak diketahui</translation>
     </message>
     <message>
         <source>Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Bimbit</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Rumah</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Pejabat</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Hantar SMS</translation>
     </message>
     <message>
         <source>Connection to server failed.</source>
-        <translation type="unfinished"/>
+        <translation>Sambungan ke pelayan gagal.</translation>
     </message>
     <message>
         <source>No SMS capability.</source>
-        <translation type="unfinished"/>
+        <translation>Tiada keupayaan SMS.</translation>
     </message>
     <message>
         <source>No credit to pay for SMS.</source>
-        <translation type="unfinished"/>
+        <translation>Tiada kredit untuk membayar SMS.</translation>
     </message>
     <message>
         <source>Invalid confirmation code.</source>
-        <translation type="unfinished"/>
+        <translation>Kod pengesahan tidak sah.</translation>
     </message>
     <message>
         <source>User is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Pengguna disekat.</translation>
     </message>
     <message>
         <source>IP address is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Alamat IP disekat.</translation>
     </message>
     <message>
         <source>Node is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Nod disekat.</translation>
     </message>
     <message>
         <source>No user id capability.</source>
-        <translation type="unfinished"/>
+        <translation>Tiada keupayaan id pengguna.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Ralat tidak diketahui.</translation>
     </message>
     <message>
         <source>To: %1</source>
-        <translation type="unfinished"/>
+        <translation>Kepada: %1</translation>
     </message>
     <message>
         <source>To: Mobile %1</source>
-        <translation type="unfinished"/>
+        <translation>Kepada: Telefon Bimbit %1</translation>
     </message>
     <message>
         <source>To: Home %1</source>
-        <translation type="unfinished"/>
+        <translation>Kepada: Telefon Rumah %1</translation>
     </message>
     <message>
         <source>To: Office %1</source>
-        <translation type="unfinished"/>
+        <translation>Kepada: Telefon Pejabat %1</translation>
     </message>
     <message>
         <source>To: Other %1</source>
-        <translation type="unfinished"/>
+        <translation>Kepada: Telefon Lain %1</translation>
     </message>
     <message>
         <source>free</source>
-        <translation type="unfinished"/>
+        <translation>percuma</translation>
     </message>
     <message>
         <source>You need Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>Anda perlukan Kredit Skype untuk menghantar mesej berteks (SMS)</translation>
     </message>
     <message>
         <source>You don&apos;t have enough Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak mempunyai Kredit Skype yang mencukupi untuk menghantar mesej berteks (SMS)</translation>
     </message>
     <message>
         <source>None of the intended recipients has a mobile phone number saved in their profile. Please view profiles individually to add a number.</source>
-        <translation type="unfinished"/>
+        <translation>Tiada penerima yang dikehendaki memepunyai nombor telefon bimbit tersimpan dalam profil mereka. Sila lihat profil mereka secara individu untuk menambah nombor.</translation>
     </message>
     <message>
         <source>Message is received.</source>
         <comment>This is for the future 2-way SMS feature. The string indicates that an SMS has been received in Skype</comment>
-        <translation type="unfinished"/>
+        <translation>Mesej diterima.</translation>
     </message>
     <message>
         <source>SMS:</source>
-        <translation type="unfinished"/>
+        <translation>SMS:</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Lain-lain</translation>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation type="unfinished"/>
+        <translation>Hantar Mesej SMS</translation>
     </message>
 </context>
 <context>
     <name>TopicContainer</name>
     <message>
         <source>Change Picture...</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Gambar...</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation type="unfinished"/>
+        <translation>Buang Gambar</translation>
     </message>
 </context>
 <context>
     <name>Video</name>
     <message>
         <source>Skype Full-Screen Video</source>
-        <translation type="unfinished"/>
+        <translation>Video Berskrin-Penuh Skype</translation>
     </message>
     <message>
         <source>%1 would like to start a video call with you</source>
-        <translation type="unfinished"/>
+        <translation>%1 mahu memulakan panggilan video dengan anda</translation>
     </message>
     <message>
         <source>Enable Skype Video</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan Skype Video</translation>
     </message>
     <message>
         <source>Start my video automatically
 when I am in a call</source>
-        <translation type="unfinished"/>
+        <translation>Mulakan video saya secara automatik
+bila saya dalam panggilan</translation>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation type="unfinished"/>
+        <translation>Pilih kamera sesawang:</translation>
     </message>
     <message>
         <source>No devices found</source>
-        <translation type="unfinished"/>
+        <translation>Tiada peranti ditemui</translation>
     </message>
     <message>
         <source>Disable Auto-Exposure (darker video, higher frame rate)</source>
-        <translation type="unfinished"/>
+        <translation>Lumpuhkan Dedahan-Automatik (video lebih gelap, kadar bingkai lebih tinggi)</translation>
     </message>
 </context>
 <context>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Mainkan Aluan</translation>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Rakam Aluan Baharu</translation>
     </message>
     <message>
         <source>Restore Default Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Pulihkan Aluan Lalai</translation>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
-        <translation type="unfinished"/>
+        <translation>Tempoh: %1 saat</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>saat</translation>
     </message>
     <message>
         <source>I reject an incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Saya menolak panggilan masuk</translation>
     </message>
     <message>
         <source>I am already on a call</source>
-        <translation type="unfinished"/>
+        <translation>Saya dalam panggilan</translation>
     </message>
     <message>
         <source>Stop Greeting Playback</source>
-        <translation type="unfinished"/>
+        <translation>Hentikan Main Balik Aluan</translation>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation type="unfinished"/>
+        <translation>Selesai Merakam</translation>
     </message>
     <message>
         <source>I do not answer within</source>
-        <translation type="unfinished"/>
+        <translation>Saya tidak jawab dalam tempoh</translation>
     </message>
     <message>
         <source>Voice messaging is activated </source>
-        <translation type="unfinished"/>
+        <translation>Pemesejan bersuara diaktifkan</translation>
     </message>
     <message>
         <source>Voice messaging is not activated</source>
-        <translation type="unfinished"/>
+        <translation>Pemesejan bersuara tidak diaktifkan</translation>
     </message>
     <message>
         <source>Send Voice message</source>
-        <translation type="unfinished"/>
+        <translation>Hantar mesej bersuara</translation>
     </message>
     <message>
         <source>My voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>Aluan mesej bersuara saya</translation>
     </message>
     <message>
         <source>Default voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>Aluan mesej bersuara lalai</translation>
     </message>
     <message>
         <source>Custom voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>Aluan mesej bersuara suai</translation>
     </message>
     <message>
         <source>Start recording a voice message if...</source>
-        <translation type="unfinished"/>
+        <translation>Mulakan rakaman mesej bersuara jika...</translation>
     </message>
     <message>
         <source>Never miss another call with voice messages</source>
-        <translation type="unfinished"/>
+        <translation>Tidak sesekali biarkan panggilan lain dengan mesej bersuara</translation>
     </message>
     <message>
         <source>Let Skype take a message if you're offline or away from your computer when someone calls.
 
 Personalize your voice message greeting, save messages to listen to again, and leave voice messages for your contacts if you can&apos;t get hold of them.</source>
-        <translation type="unfinished"/>
+        <translation>Biarkan Skype mengambil mesej jika anda diluar talian atau anda tidak gunakan komputer bila seseorang membuat panggilan.
+
+Peribadikan aluan mesej bersuara anda, simpan mesej untuk dengarinya sekali lagi, dan tinggalkan mesej bersuara untuk kenalan anda jika anda tidak dapat membalas.</translation>
     </message>
     <message>
         <source>Learn more about Skype voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>Ketahui lebih lanjut mengenai Pemesejan bersuara Skype</translation>
     </message>
     <message>
         <source>Listen to this voice message</source>
-        <translation type="unfinished"/>
+        <translation>Dengar mesej bersuara ini</translation>
     </message>
     <message>
         <source>Stop playback</source>
-        <translation type="unfinished"/>
+        <translation>Hentikan main balik</translation>
     </message>
     <message>
         <source>Enable voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>Benarkan pemesejan bersuara</translation>
     </message>
 </context>
 </TS>

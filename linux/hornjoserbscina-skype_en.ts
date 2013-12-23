@@ -1,38 +1,38 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="cy_GB" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="hsb" version="2.0">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>API</name>
     <message>
         <source>Skype API Authorisation Request</source>
-        <translation>Cais Awdurdodiad RRC Skype</translation>
+        <translation>Sype-API awtorizaciske naprašowanje</translation>
     </message>
     <message>
         <source>Another program wants to use Skype</source>
-        <translation>Rhaglen arall eisiau defnyddio Skype</translation>
+        <translation>Druhi program chce Skype wužiwać</translation>
     </message>
     <message>
         <source>A program &quot;%1&quot; is trying to connect to Skype. Do you want to allow it?</source>
-        <translation>Rhaglen &quot;%1&quot; yn ceisio cysylltu i Skype. Ydych chi eisiau caniatáu hi?</translation>
+        <translation>Program &quot;%1&quot; pospytuje ze Skype zwjazować. Chceće to dowolić?</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation>RRC Cyhoeddus</translation>
+        <translation>Zjawny API</translation>
     </message>
     <message>
         <source>Allowed programs:</source>
-        <translation type="unfinished"/>
+        <translation>Dowolene programy:</translation>
     </message>
     <message>
         <source>Blocked programs:</source>
-        <translation type="unfinished"/>
+        <translation>Zablokowane programy:</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Tynnu</translation>
+        <translation>Wotstronić</translation>
     </message>
     <message>
         <source>Enabled transports:</source>
-        <translation type="unfinished"/>
+        <translation>Zmóžnjene přenošowanja:</translation>
     </message>
     <message>
         <source>X11</source>
@@ -40,11 +40,11 @@
     </message>
     <message>
         <source>DBUS</source>
-        <translation type="unfinished"/>
+        <translation>DBUS</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation>Sesiwn</translation>
+        <translation>Posedźenje</translation>
     </message>
     <message>
         <source>System</source>
@@ -52,23 +52,23 @@
     </message>
     <message>
         <source>Default</source>
-        <translation>Diofyn</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>UNIX domain socket</source>
-        <translation type="unfinished"/>
+        <translation>Domenowy soket UNIX</translation>
     </message>
     <message>
         <source>TCP network socket</source>
-        <translation type="unfinished"/>
+        <translation>Syćowy soket TCP</translation>
     </message>
     <message>
         <source>Enable networked TCP socket</source>
-        <translation type="unfinished"/>
+        <translation>Syćowy soket TCP zmóžnić</translation>
     </message>
     <message>
         <source>Bus:</source>
-        <translation>Bws:</translation>
+        <translation>Bus:</translation>
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
@@ -79,12 +79,12 @@
     <name>About</name>
     <message>
         <source>Version</source>
-        <translation>Fersiwn</translation>
+        <translation>Wersija</translation>
     </message>
     <message>
         <source>Warning: This program is protected by copyright law and international treaties.</source>
         <comment>sF_ABOUT_WARNING_1</comment>
-        <translation>Rhybudd: Mae&apos;r rhaglen hon wedi&apos;i gwarchod gan gyfraith hawlfraint a chytundebau rhyngwladol. </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
@@ -94,108 +94,108 @@
     <message>
         <source>Patents Pending</source>
         <comment>sF_ABOUT_COPYRIGHT_1_2</comment>
-        <translation>Patentau dan Ystyriaeth</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The Skype name, associated trademarks and logos and the &quot;S&quot; logo are trademarks of Skype or related entities.</source>
         <comment>sF_ABOUT_COPYRIGHT_1_3</comment>
-        <translation>Nodau masnach Skype ac endidau perthnasol yw&apos;r enw &quot;Skype&quot;, nodau masnachol, logos a&apos;r logo &quot;S&quot;.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copyright 2003-2013 Skype and/or Microsoft</source>
         <comment>sF_ABOUT_COPYRIGHT_1_1</comment>
-        <translation>Copyright 2003-2013 Skype a/neu Microsoft</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation>Ychwanegu cyfranogion</translation>
+        <translation>Wobdźělnikow přidać</translation>
     </message>
     <message>
         <source>Add, send and share...</source>
-        <translation>Ychwanegu, anfon a rhannu...</translation>
+        <translation>Přidać, pósłać a dźělić...</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Diweddu&apos;r galwad</translation>
+        <translation>Zawołanje skónčić</translation>
     </message>
     <message>
         <source>Show chat</source>
-        <translation>Dangos sgwrs</translation>
+        <translation>Chat pokazać</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
-        <translation>Cuddio&apos;r pad deialu</translation>
+        <translation>Wolenske tasty schować</translation>
     </message>
     <message>
         <source>Show dial pad</source>
-        <translation>Dangos y pad deialu</translation>
+        <translation>Wolenske tasty pokazać</translation>
     </message>
     <message>
         <source>Unmute your microphone</source>
-        <translation>Dad-dewi eich meicroffon</translation>
+        <translation>Zněmjenje mikrofona skónčić</translation>
     </message>
     <message>
         <source>Mute your microphone</source>
-        <translation>Tewi eich meicroffon</translation>
+        <translation>Waš mikrofon zněmić</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
-        <translation>Gadael Sgrîn-lawn</translation>
+        <translation>Połnu wobrazowku wopušćić</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation>Sgrîn-lawn</translation>
+        <translation>Połna wobrazowka</translation>
     </message>
     <message>
         <source>Turn off video</source>
-        <translation>Diffodd fideo</translation>
+        <translation>Widejo skónčić</translation>
     </message>
     <message>
         <source>Turn on video</source>
-        <translation>Rhoi fideo ymlaen</translation>
+        <translation>Widejo startować</translation>
     </message>
     <message>
         <source>Send File...</source>
-        <translation>Anfon Ffeil...</translation>
+        <translation>Dataju pósłać...</translation>
     </message>
     <message>
         <source>Send Contacts...</source>
-        <translation>Anfon Cysylltiadau...</translation>
+        <translation>Kontakty pósłać...</translation>
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation>Atal rhannu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share screens</source>
-        <translation>Rhannu sgriniau</translation>
+        <translation>Wobrazowki dźělić</translation>
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation>Ychwanegu Pobl i&apos;r Galwad Hon...</translation>
+        <translation>Ludźi tutomu zawołanju přidać</translation>
     </message>
     <message>
         <source>Click this button to resume the call.</source>
-        <translation>Cliciwch y botwm hwn am ailddechrau&apos;r galwad.</translation>
+        <translation>Klikńće na tute tłóčatko, zo byšće ze zawołanjom pokročował.</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation>Rhannu Dewisiad</translation>
+        <translation>Wuběr dźělić</translation>
     </message>
 </context>
 <context>
     <name>CallView</name>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>Telefonat z %1</translation>
     </message>
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation>Gwybodaeth Technigol Galwad</translation>
+        <translation>Techniske informacije wo zawołanju</translation>
     </message>
     <message>
         <source>Held remotely</source>
@@ -210,31 +210,31 @@
     <name>Calls</name>
     <message>
         <source>Answer Call</source>
-        <translation>Ateb Galwad</translation>
+        <translation>Na zawołanje wotmołwić</translation>
     </message>
     <message>
         <source>Reject Call</source>
-        <translation>Gwrthod Galwad</translation>
+        <translation>Zawołanje wotpokazać</translation>
     </message>
     <message>
         <source>Ignore Call</source>
-        <translation>Anwybyddu Galwad</translation>
+        <translation>Zawołanje ignorować</translation>
     </message>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>Telefonat z %1</translation>
     </message>
     <message>
         <source>Start Call</source>
-        <translation>Dechrau Galwad</translation>
+        <translation>Zawołanje startować</translation>
     </message>
     <message>
         <source>Hold Call</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje dźeržeć</translation>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation type="unfinished"/>
+        <translation>Ze zawołanjom pokročować</translation>
     </message>
     <message>
         <source>Hangup</source>
@@ -242,47 +242,47 @@
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation type="unfinished"/>
+        <translation>Na konferencu přeprosyć</translation>
     </message>
     <message>
         <source>Call %1</source>
-        <translation>Galw %1</translation>
+        <translation>%1 zawołać</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation>Hyd: %1</translation>
+        <translation>Traće: %1</translation>
     </message>
     <message>
         <source>Ca&amp;ll</source>
-        <translation>Ga&amp;lw</translation>
+        <translation>Za&amp;wołać</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Diddymu</translation>
+        <translation>&amp;Přetorhnyć</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Ychwanegu</translation>
+        <translation>&amp;Přidać</translation>
     </message>
     <message>
         <source>&amp;Do not add</source>
-        <translation>&amp;Peidiwch ychwanegu</translation>
+        <translation>&amp;Njepřidać</translation>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation>Cysylltiadau yn eich rhestr</translation>
+        <translation>Kontakty we wašej lisćinje</translation>
     </message>
     <message>
         <source>Contacts to call</source>
-        <translation>Cysylltiadau am alw</translation>
+        <translation>Kontakty, kotrež maja so zawołać</translation>
     </message>
     <message>
         <source>Type a number to call</source>
-        <translation>Teipiwch rhif am alw</translation>
+        <translation>Zapisajće čisło, kotrež ma so wolić</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation>Cysylltu...</translation>
+        <translation>Zwjazuje so...</translation>
     </message>
     <message>
         <source>Problem with Audio Capture</source>
@@ -294,31 +294,31 @@
     </message>
     <message>
         <source>Call Failed</source>
-        <translation>Galw wedi methu</translation>
+        <translation>Zawołanje je so njeporadźiło</translation>
     </message>
     <message>
         <source>Ringing...</source>
-        <translation>Yn canu...</translation>
+        <translation>Zwoni...</translation>
     </message>
     <message>
         <source>Call Finished</source>
-        <translation>Galw Gorffenedig</translation>
+        <translation>Zawołanje skónčene</translation>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje zapasene</translation>
     </message>
     <message>
         <source>Call Refused</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje wotpokazane</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation>Prysur</translation>
+        <translation>Wobsadźeny</translation>
     </message>
     <message>
         <source>Call Dropped</source>
-        <translation>Cwympodd y Galwad</translation>
+        <translation>Zawołanje přetorhnjene</translation>
     </message>
     <message>
         <source>Calling rates</source>
@@ -330,71 +330,71 @@
     </message>
     <message>
         <source>%1 is calling you</source>
-        <translation>%1 yn galw chi</translation>
+        <translation>%1 was zawołuje</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
-        <translation>Mae Cyswllt anhysbys yn galw chi</translation>
+        <translation>Njeznaty kontakt was zawołuje</translation>
     </message>
     <message>
         <source>Page %1</source>
-        <translation>Tudalen %1</translation>
+        <translation>Strona %1</translation>
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation>%1 y funud</translation>
+        <translation>%1 na mjeńšinu</translation>
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation>Credyd Annigonol</translation>
+        <translation>Njedosahace dobroměće</translation>
     </message>
     <message>
         <source>Invalid Number</source>
-        <translation>Rhif ffôn Annilys</translation>
+        <translation>Njepłaćiwe telefonowe čisło</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation>Galw Ffonau neu Anfon SMS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call</source>
-        <translation>Galw</translation>
+        <translation>Zawołać</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation>Anfon SMS</translation>
+        <translation>SMS pósłać</translation>
     </message>
     <message>
         <source>Skype Call</source>
-        <translation>Galwad Skype</translation>
+        <translation>Zawołanje Skype</translation>
     </message>
     <message>
         <source>Transfer to...</source>
-        <translation>Trosglwyddo i...</translation>
+        <translation>Přenjesenje do...</translation>
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
-        <translation>Os rydych chi&apos;n galw %1 bydd eich galwad presennol seibio.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You can only have one call at a time.</source>
-        <translation type="unfinished"/>
+        <translation>Móžeće jenož jedyn telefonat na jedne dobo měć.</translation>
     </message>
     <message>
         <source>Estimated cost: %1</source>
-        <translation type="unfinished"/>
+        <translation>Trochowane kóšty: %1</translation>
     </message>
     <message>
         <source>Voice Message Greeting</source>
-        <translation>Cyfarchiad lleisbost</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Message Recording</source>
-        <translation>Cofnodi Lleisbost</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>Methu cysylltu</translation>
+        <translation>Zwisk njemóžno</translation>
     </message>
     <message>
         <source>Problem with legacy client</source>
@@ -402,11 +402,11 @@
     </message>
     <message>
         <source>Join call</source>
-        <translation>Ymuno galwad</translation>
+        <translation>Zawołanju přistupić</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Diweddu&apos;r galwad</translation>
+        <translation>Zawołanje skónčić</translation>
     </message>
     <message>
         <source>Place a Call</source>
@@ -414,15 +414,15 @@
     </message>
     <message>
         <source>Join Call</source>
-        <translation>Ymuno Galwad</translation>
+        <translation>Zawołanju přistupić</translation>
     </message>
     <message>
         <source>Hang up</source>
-        <translation>Rhoi&apos;r ffôn i lawr</translation>
+        <translation>Zawołanje skónčić</translation>
     </message>
     <message>
         <source>Invite to Conference call</source>
-        <translation type="unfinished"/>
+        <translation>Na konferencu přeprosyć</translation>
     </message>
     <message>
         <source>You are receiving a conference call from %1 %2</source>
@@ -430,15 +430,15 @@
     </message>
     <message>
         <source>Join Conference Call</source>
-        <translation type="unfinished"/>
+        <translation>Konferencnemu zawołanju přistupić</translation>
     </message>
     <message>
         <source>Start Conference Call with Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Konferencne zawołanje z wubranymi kontaktami započeć</translation>
     </message>
     <message>
         <source>Invite Selected Contacts to Conference Call</source>
-        <translation type="unfinished"/>
+        <translation>Wubrane kontakty do konferencneho zawołanja přeprosyć</translation>
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
@@ -446,7 +446,7 @@
     </message>
     <message>
         <source>Start a conference call</source>
-        <translation type="unfinished"/>
+        <translation>Konferencne zawołanje startować</translation>
     </message>
     <message>
         <source>Conference call topic (optional):</source>
@@ -458,7 +458,7 @@
     </message>
     <message>
         <source>End call with this person</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje z tutej wosobu skónčić</translation>
     </message>
 </context>
 <context>
@@ -473,30 +473,30 @@
     </message>
     <message>
         <source>Open Chat</source>
-        <translation>Agor Sgwrs</translation>
+        <translation>Chat započeć</translation>
     </message>
     <message>
         <source>%1 user(s)</source>
-        <translation>%1 defnyddiwr</translation>
+        <translation>%1 wužiwarjow</translation>
     </message>
     <message>
         <source>No recent messages.</source>
-        <translation>Dim negeseuon yn ddiweddar</translation>
+        <translation>Žane aktualne powěsće.</translation>
     </message>
     <message>
         <source>%1 and %2 are writing...</source>
-        <translation>%1 a %2 yn ysgrifennu...</translation>
+        <translation>%1 a %2 pisataj...</translation>
     </message>
     <message>
         <source>%1 is writing...</source>
-        <translation>%1 yn ysgrifennu...</translation>
+        <translation>%1 pisa...</translation>
     </message>
 </context>
 <context>
     <name>Chats</name>
     <message>
         <source>Chats</source>
-        <translation>Sgyrsiau</translation>
+        <translation>Chaty</translation>
     </message>
     <message>
         <source>ChatToolbar</source>
@@ -508,11 +508,11 @@
     </message>
     <message>
         <source>Start Chat</source>
-        <translation>Dechrau Sgwrs</translation>
+        <translation>Chat započeć</translation>
     </message>
     <message>
         <source>Open Chat</source>
-        <translation>Agor Sgwrs</translation>
+        <translation>Chat započeć</translation>
     </message>
     <message>
         <source>Unbookmark Chat</source>
@@ -524,43 +524,43 @@
     </message>
     <message>
         <source>Start Chat with Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Chat z wubranymi kontaktami započeć</translation>
     </message>
     <message>
         <source>Add to Chat</source>
-        <translation>Ychwanegu i Sgwrs</translation>
+        <translation>Chatej přidać</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Iawn</translation>
+        <translation>W porjadku</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Diddymu</translation>
+        <translation>&amp;Přetorhnyć</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Ychwanegu</translation>
+        <translation>&amp;Přidać</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Tynnu</translation>
+        <translation>&amp;Wotstronić</translation>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation>Dewis cysylltiadau</translation>
+        <translation>Kontakty wubrać</translation>
     </message>
     <message>
         <source>Chat participants</source>
-        <translation>Cyfranogwyr Sgwrs</translation>
+        <translation>Wobdźělnicy chata</translation>
     </message>
     <message>
         <source>Adding users failed</source>
-        <translation>Ychwanegu defnyddwyr methwyd</translation>
+        <translation>Přidaće wužiwarjow je so njeporadźiło</translation>
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
-        <translation type="unfinished"/>
+        <translation>Někotři wužiwarjo njedachu so chatej přidać.</translation>
     </message>
     <message>
         <source>Load previous history from the chat</source>
@@ -568,35 +568,35 @@
     </message>
     <message>
         <source>Leave Chat</source>
-        <translation>Gadael Sgwrs</translation>
+        <translation>Chat wopušćić</translation>
     </message>
     <message>
         <source>Last 24 Hours</source>
-        <translation>24 Awr Diwethaf</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last 7 Days</source>
-        <translation>7 Diwrnod Diwethaf</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last 14 Days</source>
-        <translation>14 Diwrnod Diwethaf</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last 30 Days</source>
-        <translation>30 Diwrnod Diwethaf</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Forever</source>
-        <translation>Am byth</translation>
+        <translation>na přeco</translation>
     </message>
     <message>
         <source>Emoticons</source>
-        <translation>Gwenogluniau</translation>
+        <translation>Emotikony</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Dod o hyd</translation>
+        <translation>Pytać</translation>
     </message>
     <message>
         <source>%1 / %2</source>
@@ -605,32 +605,32 @@
     </message>
     <message>
         <source>If you leave this chat, you will no longer receive any new messages from the chat.  Are you really sure you want to leave the chat?</source>
-        <translation>Os ydych chi&apos;n adael y sgwrs hyn, ni fyddoch chi ddim cael unrhyw negeseuon newydd o&apos;r sgwrs. Ydych chi&apos;n sicr rydych chi eisiau adael y sgwrs?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click here to hide members of this chat</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće čłonow tutoho chata schował.</translation>
     </message>
     <message>
         <source>Click here to show members of this chat</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće čłonow tutoho chata pokazał.</translation>
     </message>
     <message>
         <source>invited %1</source>
-        <translation>gwahoddiwyd %1</translation>
+        <translation>je %1 přeprosył</translation>
     </message>
     <message>
         <source>has changed the chat topic to &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>je chatowu temu do &quot;%1&quot; změnił</translation>
     </message>
     <message>
         <source>kicked %1 from the chat.</source>
-        <translation type="unfinished"/>
+        <translation>je %1 z chata won ćisnył.</translation>
     </message>
     <message>
         <source>Information</source>
         <comment>sF_INFORM_DEFAULT_CAPTION</comment>
-        <translation>Gwybodaeth</translation>
+        <translation>Informacije</translation>
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
@@ -652,23 +652,23 @@
     </message>
     <message>
         <source>Chat with %1</source>
-        <translation>Sgwrsio â %1</translation>
+        <translation>Chat z %1</translation>
     </message>
     <message>
         <source>%1 has joined the chat</source>
-        <translation>Ymunodd %1 y sgwrs</translation>
+        <translation>%1 je chatej přistupił</translation>
     </message>
     <message>
         <source>%1 new members were added to the chat</source>
-        <translation>Roedd %1 aelod newydd ychwanegwyd i&apos;r sgwrs</translation>
+        <translation>%1 nowych čłonow je so chatej přidało.</translation>
     </message>
     <message>
         <source>%1 has left the chat</source>
-        <translation>Gadawodd %1 y sgwrs</translation>
+        <translation>%1 je chat wopušćił</translation>
     </message>
     <message>
         <source>%1 has set the topic to %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 je temu do %2 stajił</translation>
     </message>
     <message>
         <source>This message is not delivered yet.</source>
@@ -676,31 +676,31 @@
     </message>
     <message>
         <source>Copy Selected Text</source>
-        <translation>Copïo&apos;r Dewisiad Tecst</translation>
+        <translation>Wubrany tekst kopěrować</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation>Agor Dolen</translation>
+        <translation>Wotkaz wočinić</translation>
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation>Copïwch leoliad dolen</translation>
+        <translation>Wotkazowu adresu kopěrować</translation>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation>Gosod Pwnc</translation>
+        <translation>Temu postajić</translation>
     </message>
     <message>
         <source>Set Picture</source>
-        <translation>Gosod Llun</translation>
+        <translation>Wobraz postajić</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation>Tynnu Lun</translation>
+        <translation>Wobraz wotstronić</translation>
     </message>
     <message>
         <source>Loading Image Error!</source>
-        <translation>Gwall llwytho Delwedd!</translation>
+        <translation>Zmylk při začitowanju wobraza!</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
@@ -709,7 +709,7 @@ Please select a different image file.</source>
     </message>
     <message>
         <source>Image Size Error!</source>
-        <translation type="unfinished"/>
+        <translation>Zmylk wobrazoweje wulkosće!</translation>
     </message>
     <message>
         <source>The image file you have selected is too large!
@@ -718,7 +718,7 @@ Please use a smaller size image!</source>
     </message>
     <message>
         <source>Internal Error!</source>
-        <translation type="unfinished"/>
+        <translation>Nutřkowny zmylk!</translation>
     </message>
     <message>
         <source>The selected image file could not be set as a chat picture.
@@ -727,7 +727,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Loading Image failure!</source>
-        <translation type="unfinished"/>
+        <translation>Zmylk při začitowanju wobraza!</translation>
     </message>
     <message>
         <source>File could not be loaded.
@@ -740,47 +740,47 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>left the chat (%1).</source>
-        <translation>Gadawodd %1 y sgwrs</translation>
+        <translation>je chat wopušćił (%1).</translation>
     </message>
     <message>
         <source>has changed the chat guidelines to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>je chatowe směrnicy do &quot;%1&quot; změnił.</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Delweddau</translation>
+        <translation>Wobrazy</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Pob Ffeil</translation>
+        <translation>Wšě dataje</translation>
     </message>
     <message>
         <source>Please select a file.</source>
-        <translation>Dewiswch ffeil.</translation>
+        <translation>Prošu wubjerće dataju.</translation>
     </message>
     <message>
         <source>This message has been removed by you.</source>
-        <translation>Mae&apos;r neges yma wedi ei dynnu gennyt ti.</translation>
+        <translation>Tuta powěsć je so wot was wotstroniła.</translation>
     </message>
     <message>
         <source>This message has been removed.</source>
-        <translation>Mae&apos;r neges yma wedi ei dynnu.</translation>
+        <translation>Tuta powěsć je so wotstroniła.</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Dewis Popeth</translation>
+        <translation>Wšitko wubrać</translation>
     </message>
     <message>
         <source>Find Again</source>
-        <translation>Dod o hyd i Eto</translation>
+        <translation>Dale pytać</translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>Golygu Neges</translation>
+        <translation>Powěsć wobdźěłać</translation>
     </message>
     <message>
         <source>Remove Message</source>
-        <translation>Tynnu Neges</translation>
+        <translation>Powěsć wotstronić.</translation>
     </message>
     <message>
         <source>Right click here to set/unset the chat picture.</source>
@@ -788,39 +788,39 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename Group</source>
-        <translation>Ail-enwi Grŵp</translation>
+        <translation>Skupinu přemjenować</translation>
     </message>
     <message>
         <source>Delete Group</source>
-        <translation>Dileu Grŵp</translation>
+        <translation>Skupinu zhašeć</translation>
     </message>
     <message>
         <source>This message has been edited by %1 at %2</source>
-        <translation type="unfinished"/>
+        <translation>Tuta powěsć je so %2 wot %1 wobdźěłała.</translation>
     </message>
     <message>
         <source>This message has been edited at %1</source>
-        <translation type="unfinished"/>
+        <translation>Tuta powěsć je so %1 wobdźěłała.</translation>
     </message>
     <message>
         <source>This message has been removed by %1</source>
-        <translation type="unfinished"/>
+        <translation>Tuta powěsć je so wot %1 wotstroniła.</translation>
     </message>
     <message>
         <source>Declined to be added</source>
-        <translation type="unfinished"/>
+        <translation>Přidaće wotpokazane</translation>
     </message>
     <message>
         <source>Unsubscribed</source>
-        <translation>Dad-danysgrifiwyd</translation>
+        <translation>Wotskazany</translation>
     </message>
     <message>
         <source>Unknown reason</source>
-        <translation>Rheswm anhysbys</translation>
+        <translation>Njeznata přičina</translation>
     </message>
     <message>
         <source>Quote message</source>
-        <translation type="unfinished"/>
+        <translation>Powěsć citować</translation>
     </message>
     <message>
         <source>This person is using a version of Skype that doesn&apos;t support group chat</source>
@@ -832,19 +832,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 - Skype™ Chat</source>
-        <translation>%1 - Sgwrs Skype™</translation>
+        <translation>%1 - Skype™ Chat</translation>
     </message>
     <message>
         <source>Last 6 Months</source>
-        <translation>6 Mis Diwethaf</translation>
+        <translation>Poslednich 6 měsacow</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation>Llynedd</translation>
+        <translation>Loni</translation>
     </message>
     <message>
         <source>Are you sure you want to call?</source>
-        <translation>Ydych chi&apos;n siwr eich bod chi eisiau galw?</translation>
+        <translation>Chceće woprawdźe zawołać?</translation>
     </message>
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
@@ -852,23 +852,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Are you sure you want to leave this chat?</source>
-        <translation type="unfinished"/>
+        <translation>Chceće woprawdźe tutón chat wopušćić?</translation>
     </message>
     <message>
         <source>has changed the chat picture.</source>
-        <translation type="unfinished"/>
+        <translation>je chatowy wobraz změnił.</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Ffefrynnau</translation>
+        <translation>Fawority</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation>Diweddar</translation>
+        <translation>Najnowše zawołanja</translation>
     </message>
     <message>
         <source>Call Phones</source>
-        <translation>Galw Ffonau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 - %2</source>
@@ -876,11 +876,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Remove from Favorites</source>
-        <translation>Tynnu o&apos;r Ffefrynnau</translation>
+        <translation>Z faworitow wotstronić</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation>Ychwanegu i Ffefrynnau</translation>
+        <translation>Faworitam přidać</translation>
     </message>
     <message>
         <source>Pop-in chat</source>
@@ -894,23 +894,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Hide chat</source>
-        <translation>Cuddio sgwrs</translation>
+        <translation>Chat schować</translation>
     </message>
     <message>
         <source>Add participants, send files and more</source>
-        <translation>Ychwanegu cyfranogion, anfon ffeiliau a fwy</translation>
+        <translation>Wobdźělnikow přidać, dataje pósłać a wjace</translation>
     </message>
     <message>
         <source>Send Files</source>
-        <translation>Anfon Ffeiliau</translation>
+        <translation>Dataje pósłać</translation>
     </message>
     <message>
         <source>Add people</source>
-        <translation>Ychwanegu pobl</translation>
+        <translation>Kontakty přidać</translation>
     </message>
     <message>
         <source>Chat options</source>
-        <translation>Dewisiadau Sgwrs</translation>
+        <translation>Chatowe nastajenja</translation>
     </message>
     <message>
         <source>SMS</source>
@@ -918,51 +918,51 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Remove from Bookmarks</source>
-        <translation>Tynnu o Nodau Tudalen</translation>
+        <translation>Ze zapołožkow wotstronić</translation>
     </message>
     <message>
         <source>Add to Bookmarks</source>
-        <translation>Ychwanegu i Nodau Tudalen</translation>
+        <translation>Zapołožkam přidać</translation>
     </message>
     <message>
         <source>created a group chat with (%1).</source>
-        <translation type="unfinished"/>
+        <translation>je skupinski chat z (%1) wutworił.</translation>
     </message>
     <message>
         <source>created a group chat.</source>
-        <translation type="unfinished"/>
+        <translation>je skupinski chat wutworił.</translation>
     </message>
     <message>
         <source>%1 has a birthday.</source>
-        <translation type="unfinished"/>
+        <translation>%1 ma narodniny.</translation>
     </message>
     <message>
         <source>Call to %1, no answer.</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje do %1, žana wotmołwa.</translation>
     </message>
     <message>
         <source>Missed call from %1.</source>
-        <translation type="unfinished"/>
+        <translation>Zapasene zawołanje wot %1</translation>
     </message>
     <message>
         <source>Call to %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje do %1, wobsadźene.</translation>
     </message>
     <message>
         <source>Call from %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje wot %1, wobsadźene.</translation>
     </message>
     <message>
         <source>Call to %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje do %1, traće %2.</translation>
     </message>
     <message>
         <source>Call from %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje wot %1, traće %2.</translation>
     </message>
     <message>
         <source>blocked %1 from the chat.</source>
-        <translation type="unfinished"/>
+        <translation>je %1 za chat zablokował.</translation>
     </message>
     <message>
         <source>sent file %1.</source>
@@ -987,215 +987,215 @@ Please use a different image file!</source>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Poslednja aktiwita před %n lětom</numerusform><numerusform>Poslednja aktiwita před %n lětomaj</numerusform><numerusform>Poslednja aktiwita před %n lětami</numerusform><numerusform>Poslednja aktiwita před %n lětami</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n month(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Poslednja aktiwita před %n měsacom</numerusform><numerusform>Poslednja aktiwita před %n měsacomaj</numerusform><numerusform>Poslednja aktiwita před %n měsacami</numerusform><numerusform>Poslednja aktiwita před %n měsacami</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n week(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Poslednja aktiwita před %n njedźelu</numerusform><numerusform>Poslednja aktiwita před %n njedźelomaj</numerusform><numerusform>Poslednja aktiwita před %n njedźelemi</numerusform><numerusform>Poslednja aktiwita před %n njedźelemi</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n day(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Poslednja aktiwita před %n dnjom</numerusform><numerusform>Poslednja aktiwita před %n dnjomaj</numerusform><numerusform>Poslednja aktiwita před %n dnjemi</numerusform><numerusform>Poslednja aktiwita před %n dnjemi</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n hour(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Poslednja aktiwita před %n hodźinu</numerusform><numerusform>Poslednja aktiwita před %n hodźinomaj</numerusform><numerusform>Poslednja aktiwita před %n hodźinami</numerusform><numerusform>Poslednja aktiwita před %n hodźinami</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n minute(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Poslednja aktiwita před %n mjeńšinu</numerusform><numerusform>Poslednja aktiwita před %n mjeńšinomaj</numerusform><numerusform>Poslednja aktiwita před %n mjeńšinami</numerusform><numerusform>Poslednja aktiwita před %n mjeńšinami</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n second(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Poslednja aktiwita před %n sekundu</numerusform><numerusform>Poslednja aktiwita před %n sekundomaj</numerusform><numerusform>Poslednja aktiwita před %n sekundami</numerusform><numerusform>Poslednja aktiwita před %n sekundami</numerusform></translation>
     </message>
     <message>
         <source>Conference call, duration %1.</source>
-        <translation type="unfinished"/>
+        <translation>Konferencne zawołanje, traće %1.</translation>
     </message>
     <message>
         <source>Add to Conference Call</source>
-        <translation type="unfinished"/>
+        <translation>Konferencnemu zawołanju přidać</translation>
     </message>
     <message>
         <source>Call participants</source>
-        <translation>Galw cyfranogion</translation>
+        <translation>Wobdźělnikow zawołać</translation>
     </message>
 </context>
 <context>
     <name>Confirmation</name>
     <message>
         <source>Accept</source>
-        <translation>Derbyn</translation>
+        <translation>Přiwzać</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation>Gwrthod</translation>
+        <translation>Wotpokazać</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cau</translation>
+        <translation>Začinić</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ie</translation>
+        <translation>Haj</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nage</translation>
+        <translation>Ně</translation>
     </message>
     <message>
         <source>Remember this selection</source>
-        <translation>Cofiwch y dewisiad hwn</translation>
+        <translation>Tutón wuběr sej spomjatkować</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>Ydych chi&apos;n siwr?</translation>
+        <translation>Woprawdźe?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Diddymu</translation>
+        <translation>Přetorhnyć</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Diweddaru</translation>
+        <translation>Aktualizacija</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Clirio</translation>
+        <translation>Zhašeć</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Gosod</translation>
+        <translation>Nałožić</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Ail-osod</translation>
+        <translation>Wróćo stajić</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Iawn</translation>
+        <translation>W porjadku</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Yn ôl</translation>
+        <translation>Wróćo</translation>
     </message>
     <message>
         <source>Try Again</source>
-        <translation>Ceisio eto</translation>
+        <translation>Spytajće hišće raz</translation>
     </message>
     <message>
         <source>Do not ask me again</source>
-        <translation>Peidiwch â gofyn i mi eto</translation>
+        <translation>Wjace so njeprašeć</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation>Newid Cyfrinair...</translation>
+        <translation>Hesło změnić</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Creu</translation>
+        <translation>Wutworić</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Znowa začitać</translation>
     </message>
     <message>
         <source>I agree</source>
-        <translation>Dw i&apos;n cytuno</translation>
+        <translation>Sym přezjedny</translation>
     </message>
     <message>
         <source>I do not agree</source>
-        <translation>Dydw i ddim cytuno</translation>
+        <translation>Njejsym přezjedny</translation>
     </message>
     <message>
         <source>Report abuse from this person</source>
-        <translation type="unfinished"/>
+        <translation>Znjewužiwanje wot tuteje wosoby zdźělić</translation>
     </message>
     <message>
         <source>You can also report abuse from this user. &lt;a href=&quot;%1&quot;&gt;Learn more&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Móžeće tež znjewužiwanje wot tutych wužiwarjow zdźělić. &lt;a href=&quot;%1&quot;&gt;Dalše informacije&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>Contact Authorisation</name>
     <message>
         <source>%1 people</source>
-        <translation>%1 person</translation>
+        <translation>%1 kontaktow</translation>
     </message>
     <message>
         <source>Say Hello to %1</source>
-        <translation>Dywedwch Helo i %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type a short message to introduce yourself to %1</source>
-        <translation type="unfinished"/>
+        <translation>Zapisajće krótku powěsć, zo byšće so %1 předstajił.</translation>
     </message>
     <message>
         <source>Please allow me to see when you are online</source>
-        <translation type="unfinished"/>
+        <translation>Dowolće mi prošu, zo bych widźał, hdyž sće online.</translation>
     </message>
     <message>
         <source> Call %1</source>
-        <translation>Galw %1</translation>
+        <translation>%1 zawołać</translation>
     </message>
     <message>
         <source> Start a chat with %1</source>
-        <translation>Dechrau sgwrs â %1</translation>
+        <translation>Chat z %1 započeć</translation>
     </message>
     <message>
         <source> View the profile of %1</source>
-        <translation type="unfinished"/>
+        <translation>Profil wužiwarja %1 pokazać</translation>
     </message>
     <message>
         <source>Please let me see your contact details.</source>
-        <translation type="unfinished"/>
+        <translation>Pokazajće mi prošu swoje kontaktne podrobnosće.</translation>
     </message>
     <message>
         <source>Contact request from %1</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktne naprašowanje wot %1</translation>
     </message>
     <message>
         <source>Ignore Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktne naprašowanje ignorować</translation>
     </message>
     <message>
         <source>Ignore the contact request</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktne naprašowanje ignorować</translation>
     </message>
     <message>
         <source>Send Contact Request</source>
-        <translation>Anfon Cais Cyswllt</translation>
+        <translation>Kontaktne naprašowanje pósłać</translation>
     </message>
     <message>
         <source>Accept Contact Request</source>
-        <translation>Derbyn Cais Cyswllt</translation>
+        <translation>Kontaktne naprašowanje přiwzać</translation>
     </message>
     <message>
         <source>Hide Picture</source>
-        <translation>Cuddio Llun</translation>
+        <translation>Wobraz schować</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation>Dangos Llun</translation>
+        <translation>Wobraz pokazać</translation>
     </message>
     <message>
         <source>Accept and Add to Contacts</source>
-        <translation>Derbyn ac Ychwanegu i Gysylltiadau</translation>
+        <translation>Akceptować a kontaktam přidać</translation>
     </message>
     <message>
         <source>Accept contact request and add contact to your contact list</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktowe naprašowanje akceptować a kontakt wašim kontaktam přidać</translation>
     </message>
 </context>
 <context>
@@ -1206,7 +1206,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Contact</source>
-        <translation>Galw Cyswllt</translation>
+        <translation>Kontakt zawołać</translation>
     </message>
     <message>
         <source>Click this button to place a call to this contact.</source>
@@ -1218,55 +1218,55 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Chat to Contact</source>
-        <translation type="unfinished"/>
+        <translation>Z kontaktom chatować</translation>
     </message>
     <message>
         <source>Click this button to start a chat with this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće na tute tłóčatko, zo byšće z tutym kontaktom chat započał.</translation>
     </message>
     <message>
         <source>Chat Button</source>
-        <translation type="unfinished"/>
+        <translation>Chatowe tłóčatko</translation>
     </message>
     <message>
         <source>View Profile</source>
-        <translation>Gweld Proffil</translation>
+        <translation>Profil pokazać</translation>
     </message>
     <message>
         <source>Click this button to view this contact&apos;s profile.</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće na tute tłóčatko, zo byšće sej profil tutoho kontakta wobhladał.</translation>
     </message>
     <message>
         <source>Profile Button</source>
-        <translation type="unfinished"/>
+        <translation>Profilowe tłóčatko</translation>
     </message>
     <message>
         <source>This contact is configured for video conferencing.</source>
-        <translation type="unfinished"/>
+        <translation>Tutón kontakt je so za widejokonferency konfigurował.</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Ar-lein</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>I Ffwrdd</translation>
+        <translation>Njepřitomny</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation>Rhowch Lonydd</translation>
+        <translation>Njemylće prošu</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Anweladwy</translation>
+        <translation>Njewidźomny</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>All-lein</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Edit Profile</source>
-        <translation>Golygu Proffil</translation>
+        <translation>Profil wobdźěłać</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
@@ -1274,199 +1274,199 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Last Seen: %1</source>
-        <translation>Gwelwyd diwethaf: %1</translation>
+        <translation>Posledni raz widźany: %1</translation>
     </message>
     <message>
         <source>Edit Contact</source>
-        <translation>Golygu Cyswllt...</translation>
+        <translation>Kontakt wobdźěłać</translation>
     </message>
     <message>
         <source>Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktne skupiny</translation>
     </message>
     <message>
         <source>Add to Contact List</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktam přidać</translation>
     </message>
     <message>
         <source>Block Contact</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt blokować</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete %1 from your contact list?</source>
-        <translation type="unfinished"/>
+        <translation>Chceće %1 woprawdźe z kontaktow zhašeć?</translation>
     </message>
     <message>
         <source>Are you sure you wish to block %1?</source>
-        <translation type="unfinished"/>
+        <translation>Chceće %1 woprawdźe blokować?</translation>
     </message>
     <message>
         <source>Delete Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Wubrany kontakty zhašeć</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected users from your contact list?</source>
-        <translation type="unfinished"/>
+        <translation>Chceće wubranych wužiwarjow woprawdźe ze swojich kontaktow zhašeć?</translation>
     </message>
     <message>
         <source>This contact is using a mobile device that does not support chats.</source>
-        <translation type="unfinished"/>
+        <translation>Tutón kontakt wužiwa mobilny grat, kotryž chaty njepodpěruje.</translation>
     </message>
     <message>
         <source>Profile for %1</source>
-        <translation type="unfinished"/>
+        <translation>Profil za %1</translation>
     </message>
     <message>
         <source>Contact Information</source>
-        <translation>Gwybodaeth Cyswllt</translation>
+        <translation>Kontaktne informacije</translation>
     </message>
     <message>
         <source>Skype Name:</source>
-        <translation>Enw Skype:</translation>
+        <translation>Skype-mjeno:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation>Enw Llawn:</translation>
+        <translation>Dospołne mjeno:</translation>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation>E-bost:</translation>
+        <translation>E-mejl:</translation>
     </message>
     <message>
         <source>Home Phone:</source>
-        <translation>Ffôn y Cartref</translation>
+        <translation>Priwatny telefon:</translation>
     </message>
     <message>
         <source>Office Phone:</source>
-        <translation>Ffôn y Swyddfa:</translation>
+        <translation>Słužbny telefon:</translation>
     </message>
     <message>
         <source>Mobile Phone:</source>
-        <translation>Ffôn Symudol:</translation>
+        <translation>Mobilny telefon:</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation>Gwybodaeth Personal</translation>
+        <translation>Wosobinske informacije</translation>
     </message>
     <message>
         <source>Contacts:</source>
-        <translation>Cysylltiadau:</translation>
+        <translation>Kontakty:</translation>
     </message>
     <message>
         <source>Local Time:</source>
-        <translation type="unfinished"/>
+        <translation>Městny čas:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation>Penblwydd:</translation>
+        <translation>Narodniny:</translation>
     </message>
     <message>
         <source>Age:</source>
-        <translation>Oed:</translation>
+        <translation>Staroba:</translation>
     </message>
     <message>
         <source>Gender:</source>
-        <translation>Rhyw:</translation>
+        <translation>Splah:</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation>Iaith:</translation>
+        <translation>Rěč:</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation>Gwlad:</translation>
+        <translation>Kraj:</translation>
     </message>
     <message>
         <source>Region:</source>
-        <translation>Rhanbarth:</translation>
+        <translation>Region:</translation>
     </message>
     <message>
         <source>City:</source>
-        <translation>Dinas:</translation>
+        <translation>Město:</translation>
     </message>
     <message>
         <source>Homepage:</source>
-        <translation>Tudalen Hafan:</translation>
+        <translation>Startowa strona:</translation>
     </message>
     <message>
         <source>Phone Number:</source>
-        <translation>Rhif Ffôn:</translation>
+        <translation>Telefonowe čisło:</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation>Gwrywaidd</translation>
+        <translation>Muski</translation>
     </message>
     <message>
         <source>Female</source>
-        <translation>Benywaidd</translation>
+        <translation>Žónski</translation>
     </message>
     <message>
         <source>Change Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Awatar změnić</translation>
     </message>
     <message>
         <source>Remove Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Awatar wotstronić</translation>
     </message>
     <message>
         <source>Click here to read the privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće prawidła priwatnosće čitał</translation>
     </message>
     <message>
         <source>Clear Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Narodniny zhašeć</translation>
     </message>
     <message>
         <source>-- Unspecified --</source>
-        <translation type="unfinished"/>
+        <translation>-- Njepodaty --</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Ail-enwi</translation>
+        <translation>Přemjenować</translation>
     </message>
     <message>
         <source>Type a new name or number for %1</source>
-        <translation type="unfinished"/>
+        <translation>Zapodajće nowe mjeno abo čisło za %1</translation>
     </message>
     <message>
         <source>Clear Name</source>
-        <translation type="unfinished"/>
+        <translation>Mjeno zhašeć</translation>
     </message>
     <message>
         <source>Rename %1</source>
-        <translation>Ail-enwi %1</translation>
+        <translation>%1 přemjenować</translation>
     </message>
     <message>
         <source>Type a new display name for %1</source>
-        <translation type="unfinished"/>
+        <translation>Zapodajće nowe wužiwarske mjeno za %1</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Enw</translation>
+        <translation>Mjeno</translation>
     </message>
     <message>
         <source>Gender</source>
-        <translation>Rhyw</translation>
+        <translation>Splah</translation>
     </message>
     <message>
         <source>City</source>
-        <translation>Dinas</translation>
+        <translation>Město</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Iaith</translation>
+        <translation>Rěč</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation>Yn cysylltu</translation>
+        <translation>Zwjazuje so…</translation>
     </message>
     <message>
         <source>Blocked</source>
-        <translation>Rhwystrwyd</translation>
+        <translation>Zablokowany</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Anhysbys</translation>
+        <translation>Njeznaty</translation>
     </message>
     <message>
         <source>Undisclosed number</source>
@@ -1478,65 +1478,63 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
-        <translation><numerusform>%n cyswllt</numerusform><numerusform>%n cyswllt</numerusform><numerusform>%n cyswllt</numerusform><numerusform>%n cyswllt </numerusform></translation>
+        <translation><numerusform>%n kontakt</numerusform><numerusform>%n kontaktaj</numerusform><numerusform>%n kontakty</numerusform><numerusform>%n kontaktow</numerusform></translation>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
-        <translation type="unfinished"/>
+        <translation>Tutón kontakt ma dźensa narodniny.</translation>
     </message>
     <message>
         <source>This contact is currently using a mobile device.</source>
-        <translation type="unfinished"/>
+        <translation>Tutón kontakt tuchwilu mobilny grat wužiwa.</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Bjez mjena</translation>
     </message>
     <message>
         <source>Choose Avatar Image</source>
-        <translation type="unfinished"/>
+        <translation>Awatarowy wobraz wubrać</translation>
     </message>
     <message>
         <source>Contact Options</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktne nastajenja</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation>Rhif ffôn</translation>
+        <translation>Telefonowe čisło</translation>
     </message>
     <message>
         <source>%1 (%2) - %3 since %4</source>
-        <translation>%1(%2) - %3 ers %4</translation>
+        <translation>%1 (%2) - %3 wot %4</translation>
     </message>
     <message>
         <source>&lt;br&gt;
 &lt;br&gt;
 &lt;u&gt;%1 is typing a message&lt;/u&gt;</source>
         <translation>&lt;br&gt;
-
 &lt;br&gt;
-
-&lt;u&gt;%1 yn teipio neges&lt;/u&gt;</translation>
+&lt;u&gt;%1 pisa powěsć&lt;/u&gt;</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Ail-enwi...</translation>
+        <translation>Přemjenować…</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
-        <translation>Tynnu o&apos;r Cysylltiadau</translation>
+        <translation>Z kontaktneje lisćiny wotstronić</translation>
     </message>
     <message>
         <source>Unblock This User</source>
-        <translation type="unfinished"/>
+        <translation>Tutu wosobu hižo njeblokować</translation>
     </message>
     <message>
         <source>Block This User</source>
-        <translation type="unfinished"/>
+        <translation>Tutoho wužiwarja blokować</translation>
     </message>
     <message>
         <source>Are you sure you wish to unblock %1?</source>
-        <translation type="unfinished"/>
+        <translation>Chceće woprawdźe %1 hižo njeblokować?</translation>
     </message>
     <message>
         <source>Pending contact request</source>
@@ -1544,39 +1542,39 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected group?</source>
-        <translation type="unfinished"/>
+        <translation>Chceće woprawdźe wubranu skupinu wopušćić?</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation>Anfon SMS</translation>
+        <translation>SMS pósłać</translation>
     </message>
     <message>
         <source>Click this button to send SMS.</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće na tute tłóčatko, zo byšće SMS pósłał.</translation>
     </message>
     <message>
         <source>SMS Button</source>
-        <translation>Botwm SMS</translation>
+        <translation>SMS-tłóčatko</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Iawn</translation>
+        <translation>W porjadku</translation>
     </message>
     <message>
         <source>Create Group</source>
-        <translation>Creu Grŵp</translation>
+        <translation>Skupinu wutworić</translation>
     </message>
     <message>
         <source>Enter name for new group</source>
-        <translation type="unfinished"/>
+        <translation>Zapodajće mjeno za nowu skupinu</translation>
     </message>
     <message>
         <source>Edit Phone Number</source>
-        <translation>Golygu Rhif Ffôn</translation>
+        <translation>Telefonowe čisło wobdźěłać</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Cadw</translation>
+        <translation>Składować</translation>
     </message>
     <message>
         <source>Labels for %1</source>
@@ -1593,24 +1591,24 @@ Please use a different image file!</source>
     <message>
         <source>Block this user</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Tutoho wužiwarja blokować</translation>
     </message>
     <message>
         <source>Unblock this user</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Tutoho wužiwarja hižo njeblokować</translation>
     </message>
     <message>
         <source>Last Seen:</source>
-        <translation>Gwelwyd Diwethaf: </translation>
+        <translation>Posledni raz widźany:</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Cuddio</translation>
+        <translation>Schować</translation>
     </message>
     <message>
         <source>Add more email addresses</source>
-        <translation type="unfinished"/>
+        <translation>Dalše e-mejlowe adresy přidać</translation>
     </message>
     <message>
         <source>Offline with voice messaging</source>
@@ -1622,50 +1620,50 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
-        <translation>Ar-lein (ar dyfais symudol)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Away (on a mobile device)</source>
-        <translation>I ffwrdd (ar ddyfais symudol)</translation>
+        <translation>Njepřitomny (na mobilnym graće)</translation>
     </message>
     <message>
         <source>Do Not Disturb (on a mobile device)</source>
-        <translation>Gadewch Lonydd (ar ddyfais symudol)</translation>
+        <translation>Njemylće (na mobilnym graće)</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Golygu</translation>
+        <translation>Wobdźěłać</translation>
     </message>
     <message>
         <source>Add phone number</source>
-        <translation>Ychwanegu rhif ffôn</translation>
+        <translation>Telefonowe čisło přidać</translation>
     </message>
     <message>
         <source>Other Phone:</source>
-        <translation>Ffôn Arall:</translation>
+        <translation>Druhi telefon:</translation>
     </message>
 </context>
 <context>
     <name>Contact Search</name>
     <message>
         <source>Add Contact</source>
-        <translation>Ychwanegu Cyswllt</translation>
+        <translation>Kontakt přidać</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Chwilio</translation>
+        <translation>Pytać</translation>
     </message>
     <message>
         <source>Country/Region</source>
-        <translation>Gwlad/Rhanbarth</translation>
+        <translation>Kraj/Region</translation>
     </message>
     <message>
         <source>Phone Number</source>
-        <translation>Rhif Ffôn</translation>
+        <translation>Telefonowe čisło</translation>
     </message>
     <message>
         <source>All Countries/Regions</source>
-        <translation type="unfinished"/>
+        <translation>Wšě kraje/regiony</translation>
     </message>
     <message>
         <source>Age Range</source>
@@ -1673,70 +1671,70 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>All Ages</source>
-        <translation type="unfinished"/>
+        <translation>Wšě staroby</translation>
     </message>
     <message>
         <source>State/Province</source>
-        <translation>Gwladwriaeth/Talaith</translation>
+        <translation>Prowinca/Zwjazkowy kraj</translation>
     </message>
     <message>
         <source>Do not specify</source>
-        <translation type="unfinished"/>
+        <translation>Njepodać</translation>
     </message>
     <message>
         <source>All Languages</source>
-        <translation>Bob Iaith</translation>
+        <translation>Wšě rěče</translation>
     </message>
     <message>
         <source>Full Name</source>
         <comment>Result Table Header: Full Name</comment>
-        <translation>Enw Llawn</translation>
+        <translation>Dospołne mjeno</translation>
     </message>
     <message>
         <source>Skype Name</source>
         <comment>Result Table Header: Skype Name</comment>
-        <translation>Enw Skype</translation>
+        <translation>Skype-mjeno</translation>
     </message>
     <message>
         <source>City, Country</source>
         <comment>Result Table Header: City, Country</comment>
-        <translation>Dinas, Gwlad</translation>
+        <translation>Město, kraj</translation>
     </message>
     <message>
         <source>Add a Skype Contact</source>
-        <translation type="unfinished"/>
+        <translation>Skype-kontakt přidać</translation>
     </message>
     <message>
         <source>Search for Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Skype-kontakty pytać</translation>
     </message>
     <message>
         <source>New Search</source>
-        <translation>Chwiliad Newydd</translation>
+        <translation>Nowe pytanje</translation>
     </message>
     <message>
         <source>Or add a Skype contact</source>
-        <translation type="unfinished"/>
+        <translation>Abo přidajće Skype-kontakt</translation>
     </message>
     <message>
         <source>Add Number</source>
-        <translation>Ychwanegu Rhif</translation>
+        <translation>Čisło přidać</translation>
     </message>
     <message>
         <source>Cancel Search</source>
-        <translation>Diddymu Chwilio</translation>
+        <translation>Pytanje přetorhnyć</translation>
     </message>
     <message>
         <source>Search for Skype users</source>
-        <translation type="unfinished"/>
+        <translation>Skype-wužiwarjow pytać</translation>
     </message>
     <message>
         <source>Add a Skype contact using their Skype Name</source>
-        <translation type="unfinished"/>
+        <translation>Skype-kontakt z pomocu jeho Skype-mjena přidać</translation>
     </message>
     <message>
         <source>Add a phone number as a contact</source>
-        <translation type="unfinished"/>
+        <translation>Telefonowe čisło jako kontakt přidać</translation>
     </message>
     <message>
         <source>Search the Skype directory for old and new friends. If you know their Skype Name, full name or e-mail address, enter it into the box below.</source>
@@ -1744,83 +1742,83 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Or add a phone number as a contact</source>
-        <translation type="unfinished"/>
+        <translation>Abo přidajće telefonowe čisko jako kontakt</translation>
     </message>
     <message>
         <source>Enter the Skype Name of the person you wish to add into the box below.</source>
-        <translation type="unfinished"/>
+        <translation>Zapodajće Skype-mjeno wosoby, kotruž chceće slědowacemu polu přidać.</translation>
     </message>
     <message>
         <source>Add a Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Telefonowe čisło přidać</translation>
     </message>
     <message>
         <source>The phone number %1 you entered is already in your contacts</source>
-        <translation type="unfinished"/>
+        <translation>Zapodate telefonowe čisło %1 je hižo we wašej kontaktowej lisćinje</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"/>
+        <translation>%1 je hižo we wašej kontaktnej lisćinje</translation>
     </message>
     <message>
         <source>Search Again</source>
-        <translation>Chwilio Eto</translation>
+        <translation>Hišće raz pytać</translation>
     </message>
 </context>
 <context>
     <name>Controls</name>
     <message>
         <source>Ctrl+O</source>
-        <translation>Ctrl+O</translation>
+        <translation>Strg+O</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation>Ctrl+Q</translation>
+        <translation>Strg+Q</translation>
     </message>
 </context>
 <context>
     <name>Dates and Time</name>
     <message>
         <source>Tomorrow</source>
-        <translation>Yfory</translation>
+        <translation>Jutře</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Heddiw</translation>
+        <translation>Dźensa</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation>Ddoe</translation>
+        <translation>Wčera</translation>
     </message>
 </context>
 <context>
     <name>EULA</name>
     <message>
         <source>Language</source>
-        <translation>Iaith</translation>
+        <translation>Rěč</translation>
     </message>
     <message>
         <source>Skype Terms of Use</source>
-        <translation>Skype Amodau Defnyddio </translation>
+        <translation>Wužiwanske wuměnjenja Skype</translation>
     </message>
     <message>
         <source>To start using Skype, you must agree to the Terms of Use.</source>
-        <translation type="unfinished"/>
+        <translation>Zo byšće Skype wužiwał, dyrbiće do wužiwanskich wuměnjenjow zwolić.</translation>
     </message>
     <message>
         <source>Terms of Use</source>
-        <translation>Amodau Defnyddio</translation>
+        <translation>Wužiwanske wuměnjenja</translation>
     </message>
 </context>
 <context>
     <name>Events</name>
     <message>
         <source>Show History</source>
-        <translation>Dangos Hanes</translation>
+        <translation>Historiju pokazać</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Wšě jako wobhladane markěrować</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
@@ -1828,39 +1826,39 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Birthday for %1</source>
-        <translation type="unfinished"/>
+        <translation>Narodniny za %1</translation>
     </message>
     <message>
         <source>Delete Event</source>
-        <translation>Dileu Digwyddiad</translation>
+        <translation>Podawk zhašeć</translation>
     </message>
     <message>
         <source>Delete Selected Events</source>
-        <translation type="unfinished"/>
+        <translation>Wubrane podawki zhašeć</translation>
     </message>
     <message>
         <source>Unknown event</source>
-        <translation>Digwyddiad Anhysbys</translation>
+        <translation>Njeznaty podawk</translation>
     </message>
     <message>
         <source>Event History</source>
-        <translation>Hanes Digwyddiadau</translation>
+        <translation>Historija podawkow</translation>
     </message>
     <message>
         <source>New Events</source>
-        <translation>Digwyddiadau Newydd</translation>
+        <translation>Nowe podawki</translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation>Galwadau</translation>
+        <translation>Zawołanja</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation>Sgwrs</translation>
+        <translation>Chaty</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation>Trowsglwyddiadau Ffeil</translation>
+        <translation>Datajowe přenjesenja</translation>
     </message>
     <message>
         <source>SMS</source>
@@ -1868,27 +1866,27 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Birthdays</source>
-        <translation>Pen-blwyddi</translation>
+        <translation>Narodniny</translation>
     </message>
     <message>
         <source>%1 has appeared online</source>
-        <translation type="unfinished"/>
+        <translation>%1 je online</translation>
     </message>
     <message>
         <source>%1 has gone offline</source>
-        <translation type="unfinished"/>
+        <translation>%1 je nětko offline</translation>
     </message>
     <message>
         <source>%1 has been added to your contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 je so wašim kontaktam přidał</translation>
     </message>
     <message>
         <source>%1 has been deleted from your contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 je so z wašich kontaktow zhašał</translation>
     </message>
     <message>
         <source>%1 has a birthday</source>
-        <translation type="unfinished"/>
+        <translation>%1 ma dźensa narodniny</translation>
     </message>
     <message>
         <source>%1, %2 turned %3</source>
@@ -1900,11 +1898,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Test Event</source>
-        <translation type="unfinished"/>
+        <translation>Testowy podawk</translation>
     </message>
     <message>
         <source>Example Chat Message</source>
-        <translation type="unfinished"/>
+        <translation>Přikładna chatowa powěsć</translation>
     </message>
     <message>
         <source>This is an example of a chat event popup.</source>
@@ -1912,27 +1910,27 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Test Sound</source>
-        <translation type="unfinished"/>
+        <translation>Zynk testować</translation>
     </message>
     <message>
         <source>Skype Login</source>
-        <translation>Mewngofnod Skype</translation>
+        <translation>Pola Skype přizjewić</translation>
     </message>
     <message>
         <source>Skype Logout</source>
-        <translation>Allgofnod Skype</translation>
+        <translation>Ze Skype wotzjewić</translation>
     </message>
     <message>
         <source>Skype Login Failed</source>
-        <translation type="unfinished"/>
+        <translation>Přizjewjenje k Skype je so njeporadźiło.</translation>
     </message>
     <message>
         <source>Call Connecting</source>
-        <translation>Cysylltu Galwad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming Call Ringing</source>
-        <translation>Galwad Dod i mewn Canu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Outgoing Call Ringing</source>
@@ -1944,27 +1942,27 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Number Busy</source>
-        <translation type="unfinished"/>
+        <translation>Čisło wobsadźene</translation>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje zapasene</translation>
     </message>
     <message>
         <source>Call Failed</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje je so njeporadźiło</translation>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje so dźerži</translation>
     </message>
     <message>
         <source>Call Resumed</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje je so pokročowało</translation>
     </message>
     <message>
         <source>Call Waiting</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanje čaka</translation>
     </message>
     <message>
         <source>Call Hungup</source>
@@ -1988,11 +1986,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact Joined Chat</source>
-        <translation>Ymunodd Cyswllt y Sgwrs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact Left Chat</source>
-        <translation>Gadawodd Cyswllt y Sgwrs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact Kicked from Chat</source>
@@ -2020,7 +2018,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>File Transfer Request</source>
-        <translation>Cais Trowsglwyddiad Ffeil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Transfer Complete</source>
@@ -2032,43 +2030,43 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contacts Received</source>
-        <translation type="unfinished"/>
+        <translation>Dóstane kontakty</translation>
     </message>
     <message>
         <source>Contacts Sent</source>
-        <translation>Cysylltiadau wedi&apos;u Anfon</translation>
+        <translation>Pósłane kontakty</translation>
     </message>
     <message>
         <source>SMS Received</source>
-        <translation type="unfinished"/>
+        <translation>Dóstane SMS</translation>
     </message>
     <message>
         <source>SMS Sent</source>
-        <translation type="unfinished"/>
+        <translation>Pósłane SMS</translation>
     </message>
     <message>
         <source>SMS Failed</source>
-        <translation type="unfinished"/>
+        <translation>Njeporadźene SMS</translation>
     </message>
     <message>
         <source>Money Received</source>
-        <translation type="unfinished"/>
+        <translation>Dóstane pjenjezy</translation>
     </message>
     <message>
         <source>Money Sent</source>
-        <translation type="unfinished"/>
+        <translation>Pósłane pjenjezy</translation>
     </message>
     <message>
         <source>Credit Received</source>
-        <translation type="unfinished"/>
+        <translation>Dóstane dobroměće</translation>
     </message>
     <message>
         <source>Credit Sent</source>
-        <translation type="unfinished"/>
+        <translation>Pósłane dobroměće</translation>
     </message>
     <message>
         <source>Advertisement</source>
-        <translation type="unfinished"/>
+        <translation>Wabjenje</translation>
     </message>
     <message>
         <source>Upsell</source>
@@ -2076,53 +2074,53 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact&apos;s Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Narodniny kontakta</translation>
     </message>
     <message>
         <source>Our Birthday</source>
-        <translation>Ein Penblwydd</translation>
+        <translation>Naše narodniny</translation>
     </message>
     <message>
         <source>Credit is Low</source>
-        <translation type="unfinished"/>
+        <translation>Dobroměće je niske</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Anhysbys</translation>
+        <translation>Njeznaty</translation>
     </message>
     <message>
         <source>%1, %2 had a birthday</source>
         <comment>Example: [Yesterday, 29/12/2008], [Andrew] had a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>%1, %2 je narodniny měł</translation>
     </message>
     <message>
         <source>%1, %2 has a birthday</source>
         <comment>Example: [Tomorrow, 29/12/2008], [Andrew] has a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>%1, %2 ma narodniny</translation>
     </message>
     <message>
         <source>Incoming Contact Request</source>
-        <translation>Cais Cyswllt yn Dod i Mewn</translation>
+        <translation>Dochadźace kontaktne naprašowanje</translation>
     </message>
     <message>
         <source>&amp;Unread Chats</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Njepřečitane chaty</translation>
     </message>
     <message>
         <source>&amp;Recent Chats</source>
-        <translation type="unfinished"/>
+        <translation>Najnowše &amp;chaty</translation>
     </message>
     <message>
         <source>&amp;Bookmarked Chats</source>
-        <translation type="unfinished"/>
+        <translation>Chaty w &amp;zapołožkach</translation>
     </message>
     <message>
         <source>Mark as Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Jako wobhladane markěrować</translation>
     </message>
     <message>
         <source>Incoming</source>
-        <translation>Dod i mewn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Message Received</source>
@@ -2134,7 +2132,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Skype WiFi - Extend Session</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi - posedźenje rozšěrić</translation>
     </message>
     <message>
         <source>Your Skype WiFi session is due to expire in %1 minutes.</source>
@@ -2146,42 +2144,42 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Voice messages</source>
-        <translation>Negeseuon llais</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>File Transfer</name>
     <message>
         <source>Send File</source>
-        <translation>Anfon Ffeil</translation>
+        <translation>Dataju pósłać</translation>
     </message>
     <message>
         <source>Send File to Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Dataju wubranym kontaktam pósłać</translation>
     </message>
     <message>
         <source>Incoming files from %1</source>
-        <translation>Ffeiliau yn dod i mewn o %1</translation>
+        <translation>Dochadźace dataje wot %1</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Derbyn</translation>
+        <translation>Přiwzać</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation>Gwrthod</translation>
+        <translation>Wotpokazać</translation>
     </message>
     <message>
         <source>%1 files - %2</source>
-        <translation>%1 ffeil - %2</translation>
+        <translation>%1 datajow - %2</translation>
     </message>
     <message>
         <source>Could not read from the file</source>
-        <translation type="unfinished"/>
+        <translation>Dataja njeda so čitać</translation>
     </message>
     <message>
         <source>Could not write to the file</source>
-        <translation type="unfinished"/>
+        <translation>Njeda so do dataje pisać</translation>
     </message>
     <message>
         <source>%1 could not write the file</source>
@@ -2193,15 +2191,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Failed</source>
-        <translation>Methwyd</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connecting to %1</source>
-        <translation>Cysylltu i %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Receiving from %1</source>
-        <translation>Derbyn o %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paused - Receiving from %1</source>
@@ -2213,15 +2211,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Failed - %1</source>
-        <translation>Methwyd - %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sending file to %1</source>
-        <translation>Anfon ffeil i %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paused - Sending file to %1</source>
-        <translation>Seibio - Anfon ffeil i %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Completed - Sent to %1</source>
@@ -2229,31 +2227,31 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Status Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Status njeznaty</translation>
     </message>
     <message>
         <source>Accept All</source>
-        <translation type="unfinished"/>
+        <translation>Wšě akceptować</translation>
     </message>
     <message>
         <source>Decline All</source>
-        <translation type="unfinished"/>
+        <translation>Wšě wotpokazać</translation>
     </message>
     <message>
         <source>Open the directory for this file</source>
-        <translation type="unfinished"/>
+        <translation>Rjadowak za tutu dataju wočinić</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation>Agor Cyfeiriadur</translation>
+        <translation>rjadowak wočinić</translation>
     </message>
     <message>
         <source>%1 files</source>
-        <translation>%1 ffeil</translation>
+        <translation>%1 datajow</translation>
     </message>
     <message>
         <source>%1 recipients</source>
-        <translation>%1 derbynydd</translation>
+        <translation>%1 přijimarjow</translation>
     </message>
     <message>
         <source>%1 - %2 (%3) - %4</source>
@@ -2268,100 +2266,100 @@ Please use a different image file!</source>
     <message>
         <source>%1 of %2</source>
         <comment>Progress: bytes transferred of bytes total</comment>
-        <translation>%1 o %2</translation>
+        <translation>%1 z %2</translation>
     </message>
     <message>
         <source>%1ps</source>
         <comment>Speed: size units per second</comment>
-        <translation>%1ye</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Finishing in %1</source>
-        <translation>Gorffen mewn %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 seconds</source>
-        <translation>%1 eiliad</translation>
+        <translation>%1 sekundow</translation>
     </message>
     <message>
         <source>Choose Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Wubjerće rjadowak za składowanje datajow</translation>
     </message>
     <message>
         <source>Choose File Name to Save</source>
-        <translation type="unfinished"/>
+        <translation>Wubjerće datajowe mjeno za składowanje</translation>
     </message>
     <message>
         <source>All files downloaded to:</source>
-        <translation type="unfinished"/>
+        <translation>Wšě dataje su so sćahnyli do:</translation>
     </message>
     <message>
         <source>Open Default Download Directory</source>
-        <translation type="unfinished"/>
+        <translation>Standardny sćehnjenski rjadowak wočinić</translation>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Wubjerće standardny rjadowak za składowanje datajow</translation>
     </message>
     <message>
         <source>Change Default Download Directory...</source>
-        <translation type="unfinished"/>
+        <translation>Standardny sćehnjenski rjadowak změnić...</translation>
     </message>
     <message>
         <source>Choose File(s) to send to %1</source>
-        <translation type="unfinished"/>
+        <translation>Dataje wubrać, kotrež maja so do %1 pósłać</translation>
     </message>
     <message>
         <source>Choose File(s) to send to selected users</source>
-        <translation type="unfinished"/>
+        <translation>Dataje wubrać, kotrež maja so do wubranych wužiwarjow pósłać</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation>Trowsglwyddiadau Ffeil</translation>
+        <translation>Datajowe přenjesenja</translation>
     </message>
     <message>
         <source>Accept File</source>
-        <translation>Derbyn Ffeil</translation>
+        <translation>Dataju přiwzać</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation>Parhau</translation>
+        <translation>Pokročować</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation>Seibio</translation>
+        <translation>Přestawka</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Diddymu</translation>
+        <translation>Přetorhnyć</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Hišće raz spytać</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"/>
+        <translation>Wšitko zhašeć</translation>
     </message>
     <message>
         <source>Remove all completed and failed files from the list</source>
-        <translation type="unfinished"/>
+        <translation>Wšě dokónčene a njeporadźene dataje z lisćiny wotstronić</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Pob Ffeil</translation>
+        <translation>Wšě dataje</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Clirio</translation>
+        <translation>Zhašeć</translation>
     </message>
     <message>
         <source>All Inactive Files</source>
-        <translation type="unfinished"/>
+        <translation>Wšě njeaktiwne dataje</translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Received File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>5n dóstanu dataju zhašeć</numerusform><numerusform>%n dóstanej dataji zhašeć</numerusform><numerusform>%n dóstane dataje zhašeć</numerusform><numerusform>%n dóstanych datajow zhašeć</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Sent File(s)</source>
@@ -2373,7 +2371,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Dataje awtomatisce přiwzać</translation>
     </message>
     <message>
         <source>Sending your file is being relayed. Click this icon to find out what this means.</source>
@@ -2389,11 +2387,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>1 file</source>
-        <translation>1 Ffeil</translation>
+        <translation>1 dataja</translation>
     </message>
     <message>
         <source>%1 has to accept your contact request first</source>
-        <translation type="unfinished"/>
+        <translation>%1 dyrbi najprjedy waše kontaktne naprašowanje akceptować</translation>
     </message>
     <message>
         <source>%1 cancelled the file sending</source>
@@ -2421,51 +2419,51 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Accept File to...</source>
-        <translation>Derbyn ffeil i...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decline file</source>
-        <translation>Gwrthod ffeil</translation>
+        <translation>Dataju wotpokazać</translation>
     </message>
     <message>
         <source>Decline File</source>
-        <translation>Gwrthod Ffeil</translation>
+        <translation>Dataju wotpokazać</translation>
     </message>
     <message>
         <source>Accept all files</source>
-        <translation>Derbyn pob ffeil</translation>
+        <translation>Wšě dataje akceptować</translation>
     </message>
     <message>
         <source>Accept All Files</source>
-        <translation>Derbyn Pob Ffeil</translation>
+        <translation>Wšě dataje akceptować</translation>
     </message>
     <message>
         <source>Accept All Files to...</source>
-        <translation>Derbyn Pob Ffeil i...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decline all files</source>
-        <translation>Gwrthod bob ffeil</translation>
+        <translation>Wšě dataje wotpokazać</translation>
     </message>
     <message>
         <source>Decline All Files</source>
-        <translation>Gwrthod Bob Ffeil</translation>
+        <translation>Wšě dataje wotpokazać</translation>
     </message>
     <message>
         <source>Pause all files</source>
-        <translation>Seibio bob feil</translation>
+        <translation>Wšě dataje zastajić</translation>
     </message>
     <message>
         <source>Pause All Files</source>
-        <translation>Seibio Bob Ffeil</translation>
+        <translation>Wšě dataje zastajić</translation>
     </message>
     <message>
         <source>Cancel all files</source>
-        <translation>Diddymu Bob Ffeil</translation>
+        <translation>Wše dataje přetorhnyć</translation>
     </message>
     <message>
         <source>Cancel All Files</source>
-        <translation>Diddymu Bob Ffeil</translation>
+        <translation>Wše dataje přetorhnyć</translation>
     </message>
     <message>
         <source>Retry failed files</source>
@@ -2477,23 +2475,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Cancel active files</source>
-        <translation type="unfinished"/>
+        <translation>Aktiwne dataje přetorhnyć</translation>
     </message>
     <message>
         <source>Cancel Active Files</source>
-        <translation type="unfinished"/>
+        <translation>Aktiwne dataje přetorhnyć</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s) from %1</source>
-        <translation><numerusform>%n ffeil o %1</numerusform><numerusform>%n ffeil o %1</numerusform><numerusform>%n ffeil o %1</numerusform><numerusform>%n ffeil o %1</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Accept %n file(s) from %1</source>
-        <translation><numerusform>Derbyn %n ffeil o %1</numerusform><numerusform>Derbyn %n ffeil o %1</numerusform><numerusform>Derbyn %n ffeil o %1</numerusform><numerusform>Derbyn %n ffeil o %1</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Decline %n file(s) from %1</source>
-        <translation><numerusform>Gwrthod %n ffeil o %1</numerusform><numerusform>Gwrthod %n ffeil o %1</numerusform><numerusform>Gwrthod %n ffeil o %1</numerusform><numerusform>Gwrthod %n ffeil o %1</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Incoming file from %1 isn&apos;t available yet</source>
@@ -2505,7 +2503,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>The file isn&apos;t available on this computer</source>
-        <translation type="unfinished"/>
+        <translation>Dataja na tutym ličaku k dispoziciji njesteji</translation>
     </message>
     <message>
         <source>If you cancel now you will not receive this file.</source>
@@ -2524,21 +2522,21 @@ Please use a different image file!</source>
     <name>FindDialog</name>
     <message>
         <source>Search options</source>
-        <translation>Dewisiadau Chwilio</translation>
+        <translation>Pytanske nastajenja</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Cyfeiriad</translation>
+        <translation>Směr</translation>
     </message>
     <message>
         <source>Find</source>
         <comment>sF_FIND_CAPTION</comment>
-        <translation>Dod o hyd i</translation>
+        <translation>Pytać</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
         <comment>sF_FIND_FIND_WHAT</comment>
-        <translation type="unfinished"/>
+        <translation>Pyta&amp;nski wuraz:</translation>
     </message>
     <message>
         <source>&amp;Match whole word only</source>
@@ -2558,29 +2556,29 @@ Please use a different image file!</source>
     <message>
         <source>&amp;Up</source>
         <comment>sF_FIND_DIRECTION_UP</comment>
-        <translation>&amp;I Fynny</translation>
+        <translation>&amp;Horje</translation>
     </message>
     <message>
         <source>D&amp;own</source>
         <comment>sF_FIND_DIRECTION_DOWN</comment>
-        <translation>I &amp;Lawr</translation>
+        <translation>&amp;Dele</translation>
     </message>
     <message>
         <source>Cance&amp;l</source>
         <comment>sF_OPTIONS_BUTTON_CANCEL</comment>
-        <translation>&amp;Diddymu</translation>
+        <translation>Pře&amp;torhnyć</translation>
     </message>
     <message>
         <source>Find Text</source>
         <comment>sF_FIND_CAPTION</comment>
-        <translation>Dod o hyd i Decst</translation>
+        <translation>Tekst pytać</translation>
     </message>
 </context>
 <context>
     <name>LoadHistory</name>
     <message>
         <source>Form</source>
-        <translation>Ffurflen</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <source>loadhistory</source>
@@ -2592,7 +2590,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Loading chat history...</source>
-        <translation>Lwytho hanes sgwrs...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sendprogress</source>
@@ -2627,27 +2625,27 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Your entered passwords do not match.</source>
-        <translation type="unfinished"/>
+        <translation>Wašej zapodatej hesłe jenakej njejstej.</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation>Newid Cyfrinair</translation>
+        <translation>Hesło změnić</translation>
     </message>
     <message>
         <source>Current Password</source>
-        <translation>Cyfrinair Presennol</translation>
+        <translation>Aktualne hesło</translation>
     </message>
     <message>
         <source>New Password</source>
-        <translation>Cyfrinair Newydd</translation>
+        <translation>Nowe hesło</translation>
     </message>
     <message>
         <source>Verify New Password</source>
-        <translation>Gwirio Cyfrinair Newydd</translation>
+        <translation>Nowe hesło přepruwować</translation>
     </message>
     <message>
         <source>Your password must be at least 6 characters in length.</source>
-        <translation type="unfinished"/>
+        <translation>Waše hesło dyrbi znajmjeńša 6 znamješkow dołhe być.</translation>
     </message>
     <message>
         <source>Automatically sign-in when I start Skype</source>
@@ -2655,31 +2653,31 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Password Changed.</source>
-        <translation>Cyfrinair Newidiwyd</translation>
+        <translation>Hesło je so změniło.</translation>
     </message>
     <message>
         <source>Your password has been successfully changed.</source>
-        <translation type="unfinished"/>
+        <translation>Waše hesło je so wuspěšnje změniło.</translation>
     </message>
     <message>
         <source>Your new and old passwords match.</source>
-        <translation type="unfinished"/>
+        <translation>Waše nowe a stare hesło stej identiskej.</translation>
     </message>
     <message>
         <source>Your password is too long.</source>
-        <translation>Eich cyfrinair yn rhy hir.</translation>
+        <translation>Waše hesło je předołho.</translation>
     </message>
     <message>
         <source>Your password contains an invalid character.</source>
-        <translation type="unfinished"/>
+        <translation>Waše hesło wobsahuje njepłaćiwe znamješko.</translation>
     </message>
     <message>
         <source>Click here to change your password</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće swoje hesło změnił.</translation>
     </message>
     <message>
         <source>Changing Password...</source>
-        <translation>Newid Cyfrinair...</translation>
+        <translation>Hesło so měnja...</translation>
     </message>
     <message>
         <source>Please wait while your password is changed.
@@ -2689,7 +2687,7 @@ This shouldn&apos;t take more than a few seconds.</source>
     </message>
     <message>
         <source>Current password is incorrect.</source>
-        <translation>Cyfrinair Presennol yn anghywir.</translation>
+        <translation>Aktualne hesło je wopačne.</translation>
     </message>
     <message>
         <source>Server connect failed.
@@ -2698,27 +2696,27 @@ Please check your internet connection and try again.</source>
     </message>
     <message>
         <source>Your new password can not be the same as your old password.</source>
-        <translation type="unfinished"/>
+        <translation>Waše nowe hesło njemóže samsne kaž stare hesło być.</translation>
     </message>
     <message>
         <source>Your new password is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Waše nowe hesło je njepłaćiwe.</translation>
     </message>
     <message>
         <source>You must be logged in in order to change your password.</source>
-        <translation type="unfinished"/>
+        <translation>Dyrbiće přizjewjeny być, zo byšće swoje hesło změnił.</translation>
     </message>
     <message>
         <source>Password Change Failed</source>
-        <translation type="unfinished"/>
+        <translation>Změnjenje hesła je so njeporadźiło</translation>
     </message>
     <message>
         <source>Your password must differ from your Skype Name.</source>
-        <translation type="unfinished"/>
+        <translation>Waše hesło dyrbi so wot wašeho Skype-mjena rozeznać.</translation>
     </message>
     <message>
         <source>Your password has invalid format.</source>
-        <translation type="unfinished"/>
+        <translation>Waše hesło ma njepłaćiwy format.</translation>
     </message>
     <message>
         <source>An unknown error occured while changing your password.
@@ -2728,11 +2726,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sign in with a different account</source>
-        <translation>Mewngofnodi â chyfrif wahanol</translation>
+        <translation>Z druhim kontom přizjewić</translation>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation>Cysylltwch â DiWi Skype</translation>
+        <translation>Ze Skype WiFi zwjazać</translation>
     </message>
     <message>
         <source>Failed to log in. Check your Skype Name or password</source>
@@ -2743,7 +2741,7 @@ Please try again later.</source>
     <name>Main Window</name>
     <message>
         <source>Click here to change your status</source>
-        <translation>Cliciwch yma i newid eich statws</translation>
+        <translation>Klikńće tu, zo byšće swój status změnił</translation>
     </message>
     <message>
         <source>Click here to personalise your mood and profile</source>
@@ -2751,7 +2749,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Click here to change your avatar</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće swój awatar změnił</translation>
     </message>
     <message>
         <source>Type your mood message in this box</source>
@@ -2759,136 +2757,136 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype Credit</source>
-        <translation>Credyd Skype</translation>
+        <translation>Skype-dobroměće</translation>
     </message>
     <message>
         <source>Visit account page</source>
-        <translation>Ymweld tudalen cyfrif</translation>
+        <translation>Kontowu stronu wopytać</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Gadael</translation>
+        <translation>Skónčić</translation>
     </message>
     <message>
         <source>Event History</source>
-        <translation>Hanes Digwyddiadau</translation>
+        <translation>Historija podawkow</translation>
     </message>
     <message>
         <source>Add or Search for Skype Contacts</source>
-        <translation>Ychwanegu neu Chwilio am Gysylltiadau Skype</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Main Menu</source>
-        <translation>Prif Ddewislen</translation>
+        <translation>Hłowny meni</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation>Trowsglwyddiadau Ffeiliau</translation>
+        <translation>Datajowe přenjesenja</translation>
     </message>
     <message>
         <source>%1 %2%3 for Linux</source>
         <comment>Pre-login main window title: ie. %1 = &quot;Skype&quot;, %2 = &quot;1.5&quot;, %3 = &quot; (Alpha)&quot;</comment>
-        <translation>%1 %2%3 am Linux</translation>
+        <translation>%1 %2%3 za Linux</translation>
     </message>
     <message>
         <source>%1 Skype Credit available</source>
-        <translation>%1 Credyd Skype ar gael</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 People Online</source>
-        <translation>%1 Person Ar-lein</translation>
+        <translation>%1 ludźi online</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Delweddau</translation>
+        <translation>Wobrazy</translation>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation>Dangos Cysylltiadau</translation>
+        <translation>Kontakty pokazać</translation>
     </message>
     <message>
         <source>Click here to show contact list</source>
-        <translation>Cliciwch yma am dangos  rhestr cyswllt</translation>
+        <translation>Klikńće tu, zo byšće kontakty pokazał</translation>
     </message>
     <message>
         <source>Show History</source>
-        <translation>Dangos Hanes</translation>
+        <translation>Historiju pokazać</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Wšě jako wobhladane markěrować</translation>
     </message>
     <message>
         <source>Click here to hide new events</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće nowe podawki schował</translation>
     </message>
     <message>
         <source>Click here to show new events</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće nowe podawki pokazał</translation>
     </message>
     <message>
         <source>Click here to show event history</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće nowe historiju podawkow pokazał</translation>
     </message>
     <message>
         <source>Click here to show contacts</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu, zo byšće kontakty pokazał</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation>&amp;Dewisiadau</translation>
+        <translation>&amp;Nastajenja</translation>
     </message>
     <message>
         <source>Sign &amp;Out</source>
-        <translation>All&amp;gofnodi</translation>
+        <translation>&amp;Wotzjewić</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;Gadael</translation>
+        <translation>&amp;Skónčić</translation>
     </message>
     <message>
         <source>New Version Available</source>
-        <translation>Fersiwn Newydd Ar Gael</translation>
+        <translation>Nowa wersija k dispoziciji</translation>
     </message>
     <message>
         <source>Open Download Page</source>
-        <translation>Agor Tudalen Lwytho i lawr</translation>
+        <translation>Sćehnjensku stronu wočinić</translation>
     </message>
     <message>
         <source>A new version of Skype is now available for download.</source>
-        <translation type="unfinished"/>
+        <translation>Nowa wersija Skype steji za sćehnjenje k dispoziciji.</translation>
     </message>
     <message>
         <source>This is a required upgrade.</source>
-        <translation type="unfinished"/>
+        <translation>To je trěbna aktualizacija.</translation>
     </message>
     <message numerus="yes">
         <source>%n new event(s)</source>
-        <translation><numerusform>%n digwyddiad newydd</numerusform><numerusform>%n digwyddiad newydd</numerusform><numerusform>%n digwyddiad newydd</numerusform><numerusform>%n digwyddiad newydd</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation>Bob Cyswllt</translation>
+        <translation>Wšě kontakty</translation>
     </message>
     <message>
         <source>Online Contacts</source>
-        <translation>Cysylltiadau Ar-lein</translation>
+        <translation>Online-kontakty</translation>
     </message>
     <message>
         <source>Recently Contacted Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Njedawno skontaktowane kontakty</translation>
     </message>
     <message>
         <source>Skype Contacts</source>
-        <translation>Cysylltiadau Skype</translation>
+        <translation>Skype-kontakty</translation>
     </message>
     <message>
         <source>Ungrouped Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Njezeskupjene kontakty</translation>
     </message>
     <message>
         <source>%1 is not in your Contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 we wašich kontaktach njeje</translation>
     </message>
     <message>
         <source>Search for &quot;%1&quot; in the Skype Directory</source>
@@ -2896,15 +2894,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show Contact &amp;Groups</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktne &amp;skupiny pokazać</translation>
     </message>
     <message>
         <source>Contact &amp;Groups</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktne &amp;skupiny</translation>
     </message>
     <message>
         <source>&amp;Hide Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktne skupiny schować</translation>
     </message>
     <message>
         <source>&amp;Compact Contact Groups</source>
@@ -2912,47 +2910,47 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;New Contact Group...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nowa kontaktna skupina...</translation>
     </message>
     <message>
         <source>&amp;Predefined Groups</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Předdefinowane skupiny</translation>
     </message>
     <message>
         <source>Bookmarked Chats</source>
-        <translation type="unfinished"/>
+        <translation>Chaty w zapołožkach</translation>
     </message>
     <message>
         <source>Change &amp;Password...</source>
-        <translation>Newid &amp;Cyfrinair...</translation>
+        <translation>&amp;Hesło změnić…</translation>
     </message>
     <message>
         <source>&amp;About Skype</source>
-        <translation>&amp;Am Skype</translation>
+        <translation>&amp;Wo Skype</translation>
     </message>
     <message>
         <source>Total Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Cyłkowne kontakty</translation>
     </message>
     <message>
         <source>Bookmarked Chats (0)</source>
-        <translation type="unfinished"/>
+        <translation>Chaty w zapołožkach (0)</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Bjez mjena</translation>
     </message>
     <message>
         <source>Change &amp;Status</source>
-        <translation>Newid &amp;Statws</translation>
+        <translation>&amp;Status změnić</translation>
     </message>
     <message>
         <source>Search Directory</source>
-        <translation type="unfinished"/>
+        <translation>Rjadowak přepytać</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Telefonować abo SMS pósłać</translation>
     </message>
     <message>
         <source>This is the amount of credit you have on your Skype account for making phone calls.</source>
@@ -2960,19 +2958,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Requests from New Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Naprašowanja wot nowych kontaktow</translation>
     </message>
     <message>
         <source>Phone Numbers</source>
-        <translation>Rhifau Ffôn</translation>
+        <translation>Telefonowe čisła</translation>
     </message>
     <message>
         <source>Requests to New Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Naprašowanja do nowych kontaktow</translation>
     </message>
     <message>
         <source>1 free call</source>
-        <translation type="unfinished"/>
+        <translation>1 darmotne zawołanje</translation>
     </message>
     <message>
         <source>Call any phone with Skype. Your first call is free.</source>
@@ -2980,7 +2978,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Buy Skype Credit</source>
-        <translation>Prynu Credyd Skype</translation>
+        <translation>Skype-dobroměće kupić</translation>
     </message>
     <message>
         <source>Skype number expires in %1 days</source>
@@ -2988,11 +2986,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Buy a Skype number</source>
-        <translation type="unfinished"/>
+        <translation>Skype-čisło kupić</translation>
     </message>
     <message>
         <source>Skype number</source>
-        <translation>Rhif Skype</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Voice Messaging</source>
@@ -3005,39 +3003,39 @@ Please try again later.</source>
     <message>
         <source>Get a subscription</source>
         <comment>This appears in case of account not having any subscriptions</comment>
-        <translation>Cael tanysgrifiad</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>%n subscription(s)</source>
         <comment>This appears in case of account having subscriptions</comment>
-        <translation><numerusform>%n tanysgrifiad</numerusform><numerusform>%n tanysgrifiad</numerusform><numerusform>%n tanysgrifiad</numerusform><numerusform>%n tanysgrifiad</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Messenger Contacts</source>
-        <translation>Cysylltiadau Negesydd</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscriptions</source>
-        <translation>Tanysgrifiadau</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Options</name>
     <message>
         <source>General</source>
-        <translation>Cyffredinol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Preifatrwydd</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Notifications</source>
-        <translation>Hysbysiadau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Sgwrs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Forwarding</source>
@@ -3061,15 +3059,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Public API</source>
-        <translation>RRC Cyhoeddus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
-        <translation>Dewisiadau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
@@ -3077,11 +3075,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Start a call</source>
-        <translation>Dechrau galwad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start a chat</source>
-        <translation>Dechrau sgwrs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show me as &apos;Away&apos; when I am inactive for</source>
@@ -3089,7 +3087,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>minutes</source>
-        <translation>munud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Skype minimised in the system tray</source>
@@ -3117,19 +3115,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Forever</source>
-        <translation>Am byth</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation>2 wythnos</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1 month</source>
-        <translation>1 mis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3 months</source>
-        <translation>3 mis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable History</source>
@@ -3141,7 +3139,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Automatically answer incoming calls.</source>
-        <translation>Ateb yn awtomatig galwadau dod i mewn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow calls from...</source>
@@ -3157,7 +3155,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Enable Event</source>
-        <translation>Galluogi Digwyddiad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Test Event</source>
@@ -3205,7 +3203,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sounds</source>
-        <translation>Sain</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
@@ -3225,7 +3223,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show emoticons</source>
-        <translation>Dangos gwenogluniau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show animated emoticons</source>
@@ -3257,11 +3255,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation>eiliad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ringing</source>
-        <translation>Yn Canu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make a test sound</source>
@@ -3281,7 +3279,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Automatically receive video from...</source>
-        <translation>Derbyn yn awtomatig fideo o...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show that I have video to...</source>
@@ -3289,7 +3287,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype</source>
-        <translation>Skype</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -3301,7 +3299,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connection</source>
-        <translation>Cysylltiad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use port</source>
@@ -3329,15 +3327,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Port</source>
-        <translation>Porth</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User</source>
-        <translation>Defnyddiwr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password</source>
-        <translation>Cyfrinair</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unblock Selected People</source>
@@ -3353,7 +3351,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>SMS</source>
-        <translation>SMS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose Sound File</source>
@@ -3385,15 +3383,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Select your country</source>
-        <translation>Dewis eich gwlad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type your mobile number</source>
-        <translation>Rhowch eich rhif ffôn symudol i mewn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Submit</source>
-        <translation>Cyflwyno</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You will be charged the standard rate for one SMS message.</source>
@@ -3405,7 +3403,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Cadarnhau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;smsrates&quot;&gt;SMS destinations and rates&lt;/a&gt;.</source>
@@ -3413,11 +3411,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Microphone</source>
-        <translation>Meicroffon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Speakers</source>
-        <translation>Seinyddion</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose style: </source>
@@ -3425,7 +3423,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Desktop Settings</source>
-        <translation>Gosodiadau Bwrdd Gwaith</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When I send an SMS message, identify me by...</source>
@@ -3441,7 +3439,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Open %1</source>
-        <translation>Agor %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Trying to open %1</source>
@@ -3485,15 +3483,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Insert line break</source>
-        <translation>rhoi toriad llinell</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send chat message</source>
-        <translation>Anfon neges sgwrs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Messages</source>
-        <translation>Negeseuon Llais</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(requires restarting Skype)</source>
@@ -3501,11 +3499,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation>Awto-Dderbyn Ffeiliau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save files to:</source>
-        <translation>Cadw ffeiliau yn:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
@@ -3572,7 +3570,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send an SMS message</source>
-        <translation>Anfon Neges SMS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter a number or Skype Name</source>
@@ -3580,7 +3578,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Join a public chat</source>
-        <translation>Ymuno sgwrs cyhoeddus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>** Add to conference call by name/number</source>
@@ -3591,27 +3589,27 @@ Please try again later.</source>
     <name>Screensharing</name>
     <message>
         <source>Stop screen sharing</source>
-        <translation>Atal rhannu sgrinau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Your Screen</source>
-        <translation>Rhannu Eich Sgrîn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Full Screen</source>
-        <translation>Rhannu Sgrîn-lawn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation>Rhannu Dewisiad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start screen sharing</source>
-        <translation>Dechrau rhannu sgrîn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen sharing</source>
-        <translation>Rhannu sgrîn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Starting screen sharing will also start an audio call. Are you sure you want to start an audio call?</source>
@@ -3622,27 +3620,27 @@ Please try again later.</source>
     <name>Send Contacts</name>
     <message>
         <source>Send Contacts</source>
-        <translation>Anfon Cysylltiadau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send contacts</source>
-        <translation>Anfon cysylltiadau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Anfon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Diddymu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send</source>
-        <translation>Anfon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do not send</source>
-        <translation>Peidio anfon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts in your list</source>
@@ -3650,15 +3648,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Contacts to send</source>
-        <translation>Cysylltiadau i anfon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation>%1 / %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Cau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sent contacts to %1.</source>
@@ -3674,15 +3672,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Ychwanegu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Derbyn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do not accept</source>
-        <translation>Peidio derbyn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Received contacts</source>
@@ -3690,7 +3688,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Contacts to accept</source>
-        <translation>Cysylltiadau i dderbyn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recipients list (space separated Skype Names):</source>
@@ -3705,7 +3703,7 @@ Please try again later.</source>
     <name>SendProgress</name>
     <message>
         <source>Form</source>
-        <translation>Ffurflen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sentcontacts</source>
@@ -3717,7 +3715,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sending contacts...</source>
-        <translation>Anfon cysylltiadau...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sendprogress</source>
@@ -3729,7 +3727,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation>24 / 100</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sendprogressbar</source>
@@ -3741,19 +3739,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Diddymu</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Skype WiFi</name>
     <message>
         <source>Skype WiFi...</source>
-        <translation>DiWi Skype...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype WiFi</source>
         <comment>This is a window title</comment>
-        <translation>DiWi Skype</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detecting Skype WiFi availability</source>
@@ -3761,7 +3759,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation>Cysylltwch â DiWi Skype</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connect to this hotspot for free internet access with %1 ¹.</source>
@@ -3777,11 +3775,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connect</source>
-        <translation>Cysylltu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation>Cysylltu...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype WiFi is connecting you to %1</source>
@@ -3789,11 +3787,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connected</source>
-        <translation>Wedi cysylltu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are connected to the internet.</source>
-        <translation>Ydych chi&apos;n cysylltu i&apos;r rhyngrwyd</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WiFi network: %1</source>
@@ -3801,11 +3799,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation>Hyd: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cost: %1</source>
-        <translation>Cost: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To disconnect and stop being charged, click the Disconnect button. Any reserved credit that you don&apos;t use will appear back in your account.</source>
@@ -3813,7 +3811,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation>Datgysylltu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disconnected</source>
@@ -3872,31 +3870,31 @@ Please try again later.</source>
     </message>
     <message>
         <source>SMS message to %1 is sent</source>
-        <translation>Neges SMS i %1 anfonwyd</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS message to %1 is failed</source>
-        <translation>Neges SMS i %1 methwyd</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown SMS event</source>
-        <translation>Digwyddiad SMS Anhysbys</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mobile</source>
-        <translation>Symudol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Home</source>
-        <translation>Hafan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Office</source>
-        <translation>Swyddfa</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation>Anfon SMS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connection to server failed.</source>
@@ -3932,15 +3930,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation>Gwall anhysbys.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: %1</source>
-        <translation>I:%1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: Mobile %1</source>
-        <translation>I: Ffôn Symudol %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: Home %1</source>
@@ -3948,15 +3946,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>To: Office %1</source>
-        <translation>I: Swyddfa %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: Other %1</source>
-        <translation>I: Arall %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>free</source>
-        <translation>am ddim</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You need Skype Credit to send text messages (SMS)</source>
@@ -3973,30 +3971,30 @@ Please try again later.</source>
     <message>
         <source>Message is received.</source>
         <comment>This is for the future 2-way SMS feature. The string indicates that an SMS has been received in Skype</comment>
-        <translation>Neges wedi&apos;i derbyn.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS:</source>
-        <translation>SMS:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other</source>
-        <translation>Arall</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation>Anfon Neges SMS</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>TopicContainer</name>
     <message>
         <source>Change Picture...</source>
-        <translation>Newid Llun...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation>Tynnu Llun</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4007,11 +4005,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>%1 would like to start a video call with you</source>
-        <translation>Hoffai %1 dechrau galwad fideo â chi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Skype Video</source>
-        <translation>Galluogi Fideo Skype</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start my video automatically
@@ -4020,7 +4018,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation>Dewis gwecam</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No devices found</source>
@@ -4035,11 +4033,11 @@ when I am in a call</source>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation>Chwarae Cyfarchiad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation>Cofnodi Cyfarchiad Newydd</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restore Default Greeting</source>
@@ -4047,11 +4045,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
-        <translation>Hyd: %1 eiliad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>seconds</source>
-        <translation>eiliad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I reject an incoming call</source>
@@ -4067,7 +4065,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation>Gorffen Cofnodi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I do not answer within</source>
@@ -4083,7 +4081,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Send Voice message</source>
-        <translation>Anfon Lleisbost</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My voice message greeting</source>

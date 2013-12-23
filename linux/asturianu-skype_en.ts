@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>Blocked programs:</source>
-        <translation>Programes bloquiao:</translation>
+        <translation>Programes bloquiaos:</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -89,7 +89,7 @@
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>sF_ABOUT_WARNING_2</comment>
-        <translation>La reproducción o distribución non autorizada d&apos;esti programa, o cualesquier parte d&apos;él, pue suponer penalizaciones civiles y criminales y sedrá persiguíu na másima estensión llegal.</translation>
+        <translation>La reproducción o distribución non autorizada d&apos;esti programa, o cualesquier parte d&apos;él, pue suponer penalizaciones civiles y criminales y va ser persiguíu na másima estensión llegal.</translation>
     </message>
     <message>
         <source>Patents Pending</source>
@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>Add, send and share...</source>
-        <translation>Amesta, unvía y comparte...</translation>
+        <translation>Amesta, unvia y comparte...</translation>
     </message>
     <message>
         <source>End call</source>
@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>Hide dial pad</source>
-        <translation>Tapecer tecláu de marcación</translation>
+        <translation>Anubrir tecláu de marcación</translation>
     </message>
     <message>
         <source>Show dial pad</source>
@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Send File...</source>
-        <translation>Unviar Archivu...</translation>
+        <translation>Unviar Ficheru...</translation>
     </message>
     <message>
         <source>Send Contacts...</source>
@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation>Amesta Xente a Esta Llamada</translation>
+        <translation>Amiesta Xente a Esta Llamada</translation>
     </message>
     <message>
         <source>Click this button to resume the call.</source>
@@ -226,7 +226,7 @@
     </message>
     <message>
         <source>Start Call</source>
-        <translation>Entamar una llamada</translation>
+        <translation>Aniciar una llamada</translation>
     </message>
     <message>
         <source>Hold Call</source>
@@ -374,11 +374,11 @@
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
-        <translation>Si llames a %1 la to llamada pondráse n&apos;espera.</translation>
+        <translation>Si llames a %1 la to llamada va ponese n&apos;espera.</translation>
     </message>
     <message>
         <source>You can only have one call at a time.</source>
-        <translation>Solo pues tener una llamada nun mesmu momentu.</translation>
+        <translation>Namái pues tener una llamada nun mesmu momentu.</translation>
     </message>
     <message>
         <source>Estimated cost: %1</source>
@@ -394,7 +394,7 @@
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>Nun ye quién a coneutase.</translation>
+        <translation>Nun pue coneutase</translation>
     </message>
     <message>
         <source>Problem with legacy client</source>
@@ -402,7 +402,7 @@
     </message>
     <message>
         <source>Join call</source>
-        <translation>Amestase a la llamada</translation>
+        <translation>Xunir a la llamada</translation>
     </message>
     <message>
         <source>End call</source>
@@ -442,7 +442,7 @@
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
-        <translation>Si llames a %1 desaniciaráse esti mensaxe de voz.</translation>
+        <translation>Si llames a %1 va desaniciase esti mensaxe de voz.</translation>
     </message>
     <message>
         <source>Start a conference call</source>
@@ -760,15 +760,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>This message has been removed by you.</source>
-        <translation>Esti mensaxe foi desaniciáu por ti</translation>
+        <translation>Desaniciasti esti mensaxe</translation>
     </message>
     <message>
         <source>This message has been removed.</source>
-        <translation>Esti mensaxe foi desaniciáu.</translation>
+        <translation>Esti mensaxe desanicióse</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Seleicionar Tou</translation>
+        <translation>Seleicionar Too</translation>
     </message>
     <message>
         <source>Find Again</source>
@@ -804,7 +804,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>This message has been removed by %1</source>
-        <translation>Esti mensaxe foi desaniciáu por %1</translation>
+        <translation>Esti mensaxe desanicióse por %1</translation>
     </message>
     <message>
         <source>Declined to be added</source>
@@ -898,7 +898,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add participants, send files and more</source>
-        <translation>Amesta participantes, unvía archivos y más</translation>
+        <translation>Amestar participantes, unviar ficheros y más</translation>
     </message>
     <message>
         <source>Send Files</source>
@@ -906,7 +906,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add people</source>
-        <translation>Amesta xente</translation>
+        <translation>Amestar xente</translation>
     </message>
     <message>
         <source>Chat options</source>
@@ -978,7 +978,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>sent a voice message.</source>
-        <translation>unvío un mensaxe de voz.</translation>
+        <translation>unvió un mensaxe de voz.</translation>
     </message>
     <message>
         <source>Place a Call</source>
@@ -1044,7 +1044,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Piesllar</translation>
+        <translation>Zarrar</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -1072,7 +1072,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Esborriar</translation>
+        <translation>Llimpiar</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -1084,7 +1084,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>D&apos;alcuerdu</translation>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <source>Back</source>
@@ -1100,7 +1100,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Change Password</source>
-        <translation>Camuda la Contraseña</translation>
+        <translation>Camudar la Contraseña</translation>
     </message>
     <message>
         <source>Create</source>
@@ -1183,7 +1183,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Hide Picture</source>
-        <translation>Tapecer Semeya</translation>
+        <translation>Anubrir Semeya</translation>
     </message>
     <message>
         <source>Show Picture</source>
@@ -1246,7 +1246,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Online</source>
-        <translation>En llínia</translation>
+        <translation>En llinia</translation>
     </message>
     <message>
         <source>Away</source>
@@ -1262,7 +1262,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Desconectáu</translation>
+        <translation>Desconeutáu</translation>
     </message>
     <message>
         <source>Edit Profile</source>
@@ -1430,7 +1430,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear Name</source>
-        <translation>Esborriar Númberu</translation>
+        <translation>Esborrar Númberu</translation>
     </message>
     <message>
         <source>Rename %1</source>
@@ -1556,7 +1556,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>D&apos;alcuerdu</translation>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <source>Create Group</source>
@@ -1602,7 +1602,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Tapecer</translation>
+        <translation>Anubrir</translation>
     </message>
     <message>
         <source>Add more email addresses</source>
@@ -1618,7 +1618,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
-        <translation>En llínia (con un preséu móvil)</translation>
+        <translation>En llinia (con un preséu móvil)</translation>
     </message>
     <message>
         <source>Away (on a mobile device)</source>
@@ -1626,7 +1626,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Do Not Disturb (on a mobile device)</source>
-        <translation>Nun Amolestar (con un preséu móvil)</translation>
+        <translation>Nun molestar (con un preséu móvil)</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1634,7 +1634,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add phone number</source>
-        <translation>Amesta númberu de teléfonu</translation>
+        <translation>Amestar númberu de teléfonu</translation>
     </message>
     <message>
         <source>Other Phone:</source>
@@ -1645,7 +1645,7 @@ Please use a different image file!</source>
     <name>Contact Search</name>
     <message>
         <source>Add Contact</source>
-        <translation>Amesta Contautu</translation>
+        <translation>Amestar Contautu</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1716,7 +1716,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add Number</source>
-        <translation>Amesta númberu de teléfonu</translation>
+        <translation>Amestar númberu de teléfonu</translation>
     </message>
     <message>
         <source>Cancel Search</source>
@@ -1760,7 +1760,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Search Again</source>
-        <translation>Guetar Nuevamente</translation>
+        <translation>Guetar otra vuelta</translation>
     </message>
 </context>
 <context>
@@ -1856,7 +1856,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation>Tresferencies d&apos;Archivu</translation>
+        <translation>Tresferencies de Ficheru</translation>
     </message>
     <message>
         <source>SMS</source>
@@ -1908,7 +1908,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Test Sound</source>
-        <translation>Preba de Soníu</translation>
+        <translation>Prueba de Soníu</translation>
     </message>
     <message>
         <source>Skype Login</source>
@@ -1940,7 +1940,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Number Busy</source>
-        <translation>Númeru Ocupáu</translation>
+        <translation>Númberu Ocupáu</translation>
     </message>
     <message>
         <source>Call Missed</source>
@@ -2024,7 +2024,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>File Transfer Failed</source>
-        <translation>Falló la Tresferencia d&apos;Archivu</translation>
+        <translation>Falló la Tresferencia de ficheru</translation>
     </message>
     <message>
         <source>Contacts Received</source>
@@ -2149,7 +2149,7 @@ Please use a different image file!</source>
     <name>File Transfer</name>
     <message>
         <source>Send File</source>
-        <translation>Unviar Archivu</translation>
+        <translation>Unviar Ficheru</translation>
     </message>
     <message>
         <source>Send File to Selected Contacts</source>
@@ -2313,11 +2313,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation>Tresferencies d&apos;Archivu</translation>
+        <translation>Tresferencies de Ficheru</translation>
     </message>
     <message>
         <source>Accept File</source>
-        <translation>Aceptar Archivu</translation>
+        <translation>Aceutar Ficheru</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -2337,7 +2337,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Esborriar Tou</translation>
+        <translation>Llimpiar too</translation>
     </message>
     <message>
         <source>Remove all completed and failed files from the list</source>
@@ -2349,7 +2349,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Esborriar</translation>
+        <translation>Llimpiar</translation>
     </message>
     <message>
         <source>All Inactive Files</source>
@@ -2417,7 +2417,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Accept File to...</source>
-        <translation>Aceptar Archivu a...</translation>
+        <translation>Aceutar Ficheru a...</translation>
     </message>
     <message>
         <source>Decline file</source>

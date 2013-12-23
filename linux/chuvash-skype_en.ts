@@ -2000,7 +2000,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact Went Offline</source>
-        <translation type="unfinished"/>
+        <translation>çынăну тетелтен тухре</translation>
     </message>
     <message>
         <source>Contact Profile Updated</source>
@@ -2020,19 +2020,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>File Transfer Complete</source>
-        <translation type="unfinished"/>
+        <translation>Файлна куçарма пултарайнă</translation>
     </message>
     <message>
         <source>File Transfer Failed</source>
-        <translation type="unfinished"/>
+        <translation>Файлна куçарма пултарайман</translation>
     </message>
     <message>
         <source>Contacts Received</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнусĕне илсе пулнă</translation>
     </message>
     <message>
         <source>Contacts Sent</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăну янă</translation>
     </message>
     <message>
         <source>SMS Received</source>
@@ -4047,7 +4047,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>çекунтсем</translation>
     </message>
     <message>
         <source>I reject an incoming call</source>
@@ -4063,7 +4063,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation type="unfinished"/>
+        <translation>Çырма вĕçлен</translation>
     </message>
     <message>
         <source>I do not answer within</source>
@@ -4079,11 +4079,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Send Voice message</source>
-        <translation type="unfinished"/>
+        <translation>Сасси çыру яр</translation>
     </message>
     <message>
         <source>My voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>Манăн сасси çыру саламлать</translation>
     </message>
     <message>
         <source>Default voice message greeting</source>
@@ -4113,7 +4113,7 @@ Personalize your voice message greeting, save messages to listen to again, and l
     </message>
     <message>
         <source>Listen to this voice message</source>
-        <translation type="unfinished"/>
+        <translation>Сасси çыруне итле</translation>
     </message>
     <message>
         <source>Stop playback</source>

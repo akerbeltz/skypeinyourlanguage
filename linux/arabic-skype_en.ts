@@ -8,15 +8,15 @@
     </message>
     <message>
         <source>Another program wants to use Skype</source>
-        <translation type="unfinished"/>
+        <translation>برنامج آخر يريد استخدام Skype</translation>
     </message>
     <message>
         <source>A program &quot;%1&quot; is trying to connect to Skype. Do you want to allow it?</source>
-        <translation type="unfinished"/>
+        <translation>يحاول برنامج &quot;%1&quot; الإتصال ب Skype. هل تريد السماح بذلك؟</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>API عام</translation>
     </message>
     <message>
         <source>Allowed programs:</source>
@@ -111,11 +111,11 @@
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation type="unfinished"/>
+        <translation>إضافة مشاركين</translation>
     </message>
     <message>
         <source>Add, send and share...</source>
-        <translation type="unfinished"/>
+        <translation>إضافة, إرسال و مشاركة...</translation>
     </message>
     <message>
         <source>End call</source>
@@ -131,31 +131,31 @@
     </message>
     <message>
         <source>Show dial pad</source>
-        <translation type="unfinished"/>
+        <translation>إظهار لوحة الاتصال</translation>
     </message>
     <message>
         <source>Unmute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>إلغاء تعطيل المايكروفون</translation>
     </message>
     <message>
         <source>Mute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>كتم المايكروفون</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
-        <translation type="unfinished"/>
+        <translation>إنهاء ملء الشاشة</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation type="unfinished"/>
+        <translation>ملء الشاشة</translation>
     </message>
     <message>
         <source>Turn off video</source>
-        <translation type="unfinished"/>
+        <translation>إيقاف تشغيل الفيديو</translation>
     </message>
     <message>
         <source>Turn on video</source>
-        <translation type="unfinished"/>
+        <translation>تشغيل الفيديو</translation>
     </message>
     <message>
         <source>Send File...</source>
@@ -195,7 +195,7 @@
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation type="unfinished"/>
+        <translation>معلومات فنية عن المكالمة</translation>
     </message>
     <message>
         <source>Held remotely</source>
@@ -210,7 +210,7 @@
     <name>Calls</name>
     <message>
         <source>Answer Call</source>
-        <translation type="unfinished"/>
+        <translation>رد المكالمة</translation>
     </message>
     <message>
         <source>Reject Call</source>
@@ -222,19 +222,19 @@
     </message>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة مع %1</translation>
     </message>
     <message>
         <source>Start Call</source>
-        <translation type="unfinished"/>
+        <translation>بدء مكالمة</translation>
     </message>
     <message>
         <source>Hold Call</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة قيد الانتظار</translation>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation type="unfinished"/>
+        <translation>استئناف المكالمة</translation>
     </message>
     <message>
         <source>Hangup</source>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>Ca&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -266,19 +266,19 @@
     </message>
     <message>
         <source>&amp;Do not add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;لا تقم بإضافة</translation>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation type="unfinished"/>
+        <translation>جهات الإتصال في القوائم خاصتك</translation>
     </message>
     <message>
         <source>Contacts to call</source>
-        <translation type="unfinished"/>
+        <translation>جهات الإتصال</translation>
     </message>
     <message>
         <source>Type a number to call</source>
-        <translation type="unfinished"/>
+        <translation>أدخل رقم الإتصال</translation>
     </message>
     <message>
         <source>Connecting...</source>
@@ -290,11 +290,11 @@
     </message>
     <message>
         <source>Problem with Audio Playback</source>
-        <translation type="unfinished"/>
+        <translation>مشكلة في تشغيل الصوت</translation>
     </message>
     <message>
         <source>Call Failed</source>
-        <translation type="unfinished"/>
+        <translation>فشل المكالمة</translation>
     </message>
     <message>
         <source>Ringing...</source>
@@ -302,15 +302,15 @@
     </message>
     <message>
         <source>Call Finished</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة انتهت</translation>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة فائتة</translation>
     </message>
     <message>
         <source>Call Refused</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة مرفوضة</translation>
     </message>
     <message>
         <source>Busy</source>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>Call Dropped</source>
-        <translation type="unfinished"/>
+        <translation>استبعاد المكالمة</translation>
     </message>
     <message>
         <source>Calling rates</source>
@@ -334,7 +334,7 @@
     </message>
     <message>
         <source>An unknown contact is calling you</source>
-        <translation type="unfinished"/>
+        <translation>تحاول جهة إتصال غير معروفة الإتصال بك</translation>
     </message>
     <message>
         <source>Page %1</source>
@@ -346,7 +346,7 @@
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation type="unfinished"/>
+        <translation>رصيد غير كافي</translation>
     </message>
     <message>
         <source>Invalid Number</source>
@@ -354,7 +354,7 @@
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>اتصال بالهواتف أو إرسال رسائل قصيرة </translation>
     </message>
     <message>
         <source>Call</source>
@@ -374,11 +374,11 @@
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
-        <translation type="unfinished"/>
+        <translation>إذا قمت بمكالمة %s فسيتم وضع مكالمتك الحالية قيد الانتظار.</translation>
     </message>
     <message>
         <source>You can only have one call at a time.</source>
-        <translation type="unfinished"/>
+        <translation>يمكنك استقبال مكالمة واحدة فقط في المرة الواحدة.</translation>
     </message>
     <message>
         <source>Estimated cost: %1</source>
@@ -386,15 +386,15 @@
     </message>
     <message>
         <source>Voice Message Greeting</source>
-        <translation type="unfinished"/>
+        <translation>رسالة الترحيب الصوتية</translation>
     </message>
     <message>
         <source>Voice Message Recording</source>
-        <translation type="unfinished"/>
+        <translation>تسجيل الرسالة الصوتية</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation type="unfinished"/>
+        <translation>تعذر التوصيل</translation>
     </message>
     <message>
         <source>Problem with legacy client</source>
@@ -402,7 +402,7 @@
     </message>
     <message>
         <source>Join call</source>
-        <translation type="unfinished"/>
+        <translation>ضم المكالمة</translation>
     </message>
     <message>
         <source>End call</source>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>Join Call</source>
-        <translation type="unfinished"/>
+        <translation>ضم المكالمة</translation>
     </message>
     <message>
         <source>Hang up</source>
@@ -442,7 +442,7 @@
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
-        <translation type="unfinished"/>
+        <translation>إذا قمت بمكالمة %1 فسيتم إلغاء الرسالة الصوتية هذه.</translation>
     </message>
     <message>
         <source>Start a conference call</source>
@@ -454,26 +454,26 @@
     </message>
     <message>
         <source>Covered by subscription</source>
-        <translation type="unfinished"/>
+        <translation>يشملها الاشتراك</translation>
     </message>
     <message>
         <source>End call with this person</source>
-        <translation type="unfinished"/>
+        <translation>إنه المكالمة مع جهة الاتصال هذه</translation>
     </message>
 </context>
 <context>
     <name>Chat</name>
     <message>
         <source>sent file</source>
-        <translation type="unfinished"/>
+        <translation>أرسل ملف</translation>
     </message>
     <message>
         <source>sent files</source>
-        <translation type="unfinished"/>
+        <translation>أرسل ملفات</translation>
     </message>
     <message>
         <source>Open Chat</source>
-        <translation type="unfinished"/>
+        <translation>إفتح الدردشة</translation>
     </message>
     <message>
         <source>%1 user(s)</source>
@@ -481,22 +481,22 @@
     </message>
     <message>
         <source>No recent messages.</source>
-        <translation type="unfinished"/>
+        <translation>لا يوجد رسائل أخيرة.</translation>
     </message>
     <message>
         <source>%1 and %2 are writing...</source>
-        <translation type="unfinished"/>
+        <translation>%1 و %2 ينتظرون</translation>
     </message>
     <message>
         <source>%1 is writing...</source>
-        <translation type="unfinished"/>
+        <translation>%1 ينتظر...</translation>
     </message>
 </context>
 <context>
     <name>Chats</name>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>دردشات</translation>
     </message>
     <message>
         <source>ChatToolbar</source>
@@ -508,11 +508,11 @@
     </message>
     <message>
         <source>Start Chat</source>
-        <translation type="unfinished"/>
+        <translation>بدء دردشة</translation>
     </message>
     <message>
         <source>Open Chat</source>
-        <translation type="unfinished"/>
+        <translation>إفتح الدردشة</translation>
     </message>
     <message>
         <source>Unbookmark Chat</source>
@@ -532,7 +532,7 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>موافق</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -552,11 +552,11 @@
     </message>
     <message>
         <source>Chat participants</source>
-        <translation type="unfinished"/>
+        <translation>المشاركون في الدردشة</translation>
     </message>
     <message>
         <source>Adding users failed</source>
-        <translation type="unfinished"/>
+        <translation>فشل في إضافة مستخدمين</translation>
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
@@ -588,7 +588,7 @@
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>للأبد</translation>
     </message>
     <message>
         <source>Emoticons</source>
@@ -596,7 +596,7 @@
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>بحث</translation>
     </message>
     <message>
         <source>%1 / %2</source>
@@ -617,11 +617,11 @@
     </message>
     <message>
         <source>invited %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 مدعو</translation>
     </message>
     <message>
         <source>has changed the chat topic to &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>غير موضوع الدردشة إلى &quot;%1&quot;</translation>
     </message>
     <message>
         <source>kicked %1 from the chat.</source>
@@ -652,11 +652,11 @@
     </message>
     <message>
         <source>Chat with %1</source>
-        <translation type="unfinished"/>
+        <translation>دردشة مع %1</translation>
     </message>
     <message>
         <source>%1 has joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 قد إنضم إلى الدردشة</translation>
     </message>
     <message>
         <source>%1 new members were added to the chat</source>
@@ -664,7 +664,7 @@
     </message>
     <message>
         <source>%1 has left the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 قد غادرالدردشة</translation>
     </message>
     <message>
         <source>%1 has set the topic to %2</source>
@@ -672,7 +672,7 @@
     </message>
     <message>
         <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
+        <translation>لم يتم تسليم الرسالة حتى الآن.</translation>
     </message>
     <message>
         <source>Copy Selected Text</source>
@@ -684,23 +684,23 @@
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation type="unfinished"/>
+        <translation>نسخ موقع الارتباط</translation>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation type="unfinished"/>
+        <translation>تعيين موضوع</translation>
     </message>
     <message>
         <source>Set Picture</source>
-        <translation type="unfinished"/>
+        <translation>تعيين الصورة</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation type="unfinished"/>
+        <translation>إزالة الصورة</translation>
     </message>
     <message>
         <source>Loading Image Error!</source>
-        <translation type="unfinished"/>
+        <translation>خطأ أثناء تحميل الصورة!</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
@@ -709,7 +709,7 @@ Please select a different image file.</source>
     </message>
     <message>
         <source>Image Size Error!</source>
-        <translation type="unfinished"/>
+        <translation>خطأ في حجم الصورة!</translation>
     </message>
     <message>
         <source>The image file you have selected is too large!
@@ -727,7 +727,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Loading Image failure!</source>
-        <translation type="unfinished"/>
+        <translation>فشل أثناء تحميل الصورة!</translation>
     </message>
     <message>
         <source>File could not be loaded.
@@ -736,11 +736,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>قد إنضم إلى الدردشة</translation>
     </message>
     <message>
         <source>left the chat (%1).</source>
-        <translation type="unfinished"/>
+        <translation>(%1) قد غادرالدردشة.</translation>
     </message>
     <message>
         <source>has changed the chat guidelines to &quot;%1&quot;.</source>
@@ -752,23 +752,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"/>
+        <translation>كل الملفات</translation>
     </message>
     <message>
         <source>Please select a file.</source>
-        <translation type="unfinished"/>
+        <translation>يرجى تحديد ملف.</translation>
     </message>
     <message>
         <source>This message has been removed by you.</source>
-        <translation type="unfinished"/>
+        <translation>لقد قمت بإزالة هذه الرسالة.</translation>
     </message>
     <message>
         <source>This message has been removed.</source>
-        <translation type="unfinished"/>
+        <translation>تم إزالة هذه الرسالة.</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>تحديد الكل</translation>
     </message>
     <message>
         <source>Find Again</source>
@@ -788,23 +788,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename Group</source>
-        <translation type="unfinished"/>
+        <translation>إعادة تسمية المجموعة</translation>
     </message>
     <message>
         <source>Delete Group</source>
-        <translation type="unfinished"/>
+        <translation>حذف مجموعة</translation>
     </message>
     <message>
         <source>This message has been edited by %1 at %2</source>
-        <translation type="unfinished"/>
+        <translation>تم تحرير هذه الرسالة بواسطة %1 في %2</translation>
     </message>
     <message>
         <source>This message has been edited at %1</source>
-        <translation type="unfinished"/>
+        <translation>تم تحرير هذه الرسالة بواسطة %1 </translation>
     </message>
     <message>
         <source>This message has been removed by %1</source>
-        <translation type="unfinished"/>
+        <translation>تم إزالة هذه الرسالة بواسطة %1</translation>
     </message>
     <message>
         <source>Declined to be added</source>
@@ -816,11 +816,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unknown reason</source>
-        <translation type="unfinished"/>
+        <translation>سبب غير معروف</translation>
     </message>
     <message>
         <source>Quote message</source>
-        <translation type="unfinished"/>
+        <translation>رسالة مقتبسة</translation>
     </message>
     <message>
         <source>This person is using a version of Skype that doesn&apos;t support group chat</source>
@@ -832,7 +832,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 - Skype™ Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 - Skype™ دردشة</translation>
     </message>
     <message>
         <source>Last 6 Months</source>
@@ -844,7 +844,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Are you sure you want to call?</source>
-        <translation type="unfinished"/>
+        <translation>هل أنت متأكد من إجراء المكالمة؟</translation>
     </message>
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
@@ -852,23 +852,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Are you sure you want to leave this chat?</source>
-        <translation type="unfinished"/>
+        <translation>هل ترغب بالتأكيد في مغادرة هذه الدردشة؟</translation>
     </message>
     <message>
         <source>has changed the chat picture.</source>
-        <translation type="unfinished"/>
+        <translation>%s قام بتغيير صورة الدردشة.</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished"/>
+        <translation>المفضلات</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"/>
+        <translation>الأحدث</translation>
     </message>
     <message>
         <source>Call Phones</source>
-        <translation type="unfinished"/>
+        <translation>اتصال بالهواتف</translation>
     </message>
     <message>
         <source>%1 - %2</source>
@@ -876,11 +876,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"/>
+        <translation>إزالة من المفضلات</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation type="unfinished"/>
+        <translation>إضافة إلى المفضلات</translation>
     </message>
     <message>
         <source>Pop-in chat</source>
@@ -890,7 +890,7 @@ Please use a different image file!</source>
     <message>
         <source>Pop-out chat</source>
         <comment>This will open the chosen chat in a separate window</comment>
-        <translation type="unfinished"/>
+        <translation>دردشة بإطار منفصل</translation>
     </message>
     <message>
         <source>Hide chat</source>
@@ -898,11 +898,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add participants, send files and more</source>
-        <translation type="unfinished"/>
+        <translation>إضافة مشاركين, إرسال ملفات وغير ذلك</translation>
     </message>
     <message>
         <source>Send Files</source>
-        <translation type="unfinished"/>
+        <translation>إرسال ملفات</translation>
     </message>
     <message>
         <source>Add people</source>
@@ -910,7 +910,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Chat options</source>
-        <translation type="unfinished"/>
+        <translation>خيارات الدردشة</translation>
     </message>
     <message>
         <source>SMS</source>
@@ -926,39 +926,39 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>created a group chat with (%1).</source>
-        <translation type="unfinished"/>
+        <translation>أنشئ مجموعة دردشة مع (%1).</translation>
     </message>
     <message>
         <source>created a group chat.</source>
-        <translation type="unfinished"/>
+        <translation>أنشئ مجموعة دردشة.</translation>
     </message>
     <message>
         <source>%1 has a birthday.</source>
-        <translation type="unfinished"/>
+        <translation>%1 لديه عيد ميلاد.</translation>
     </message>
     <message>
         <source>Call to %1, no answer.</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة إلى %1، لا يوجد رد.</translation>
     </message>
     <message>
         <source>Missed call from %1.</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة لم يُرد عليها من %1.</translation>
     </message>
     <message>
         <source>Call to %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>%1 الذي تتصل به مشغول.</translation>
     </message>
     <message>
         <source>Call from %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>%1 الذي تتصل به مشغول.</translation>
     </message>
     <message>
         <source>Call to %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة إلى %1، المدة %2.</translation>
     </message>
     <message>
         <source>Call from %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة من %1، المدة %2.</translation>
     </message>
     <message>
         <source>blocked %1 from the chat.</source>
@@ -966,19 +966,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>sent file %1.</source>
-        <translation type="unfinished"/>
+        <translation>أرسل ملف %1.</translation>
     </message>
     <message>
         <source>sent files %1.</source>
-        <translation type="unfinished"/>
+        <translation>أرسل ملفات %1.</translation>
     </message>
     <message>
         <source>sent you a voice message.</source>
-        <translation type="unfinished"/>
+        <translation>أرسل إليك رسالة صوتية.</translation>
     </message>
     <message>
         <source>sent a voice message.</source>
-        <translation type="unfinished"/>
+        <translation>أرسل رسالة صوتية.</translation>
     </message>
     <message>
         <source>Place a Call</source>
@@ -987,37 +987,37 @@ Please use a different image file!</source>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>آخر نشاط منذ %0 سنة (سنوات)</numerusform><numerusform>آخر نشاط منذ %1 سنة (سنوات)</numerusform><numerusform>آخر نشاط منذ %2 سنة (سنوات)</numerusform><numerusform>آخر نشاط منذ %بعض سنة (سنوات)</numerusform><numerusform>آخر نشاط منذ %كثير سنة (سنوات)</numerusform><numerusform>آخر نشاط %n منذ سنة (سنوات)</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n month(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>آخر نشاط منذ %0 شهر (شهور)</numerusform><numerusform>آخر نشاط منذ %1 شهر (شهور)</numerusform><numerusform>آخر نشاط منذ %2 شهر (شهور)</numerusform><numerusform>آخر نشاط منذ %بعض شهر (شهور)</numerusform><numerusform>آخر نشاط منذ %كثير شهر (شهور)</numerusform><numerusform>آخر نشاط منذ %n شهر (شهور)</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n week(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>آخر نشاط منذ %0 أسبوع (أسابيع)</numerusform><numerusform>آخر نشاط منذ %1 أسبوع (أسابيع)</numerusform><numerusform>آخر نشاط منذ %2 أسبوع (أسابيع)</numerusform><numerusform>آخر نشاط منذ %بعض أسبوع (أسابيع)</numerusform><numerusform>آخر نشاط منذ %كثير أسبوع (أسابيع)</numerusform><numerusform>آخر نشاط منذ %n أسبوع (أسابيع)</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n day(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>آخر نشاط منذ %0 يوم (أيام)</numerusform><numerusform>آخر نشاط منذ %1 يوم (أيام)</numerusform><numerusform>آخر نشاط منذ %2 يوم (أيام)</numerusform><numerusform>آخر نشاط منذ %بعض يوم (أيام)</numerusform><numerusform>آخر نشاط منذ %كثير يوم (أيام)</numerusform><numerusform>آخر نشاط منذ %n يوم (أيام)</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n hour(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>آخر نشاط منذ %0 ساعة (ساعات)</numerusform><numerusform>آخر نشاط منذ %1 ساعة (ساعات)</numerusform><numerusform>آخر نشاط منذ %2 ساعة (ساعات)</numerusform><numerusform>آخر نشاط منذ %بعض ساعة (ساعات)</numerusform><numerusform>آخر نشاط منذ %كثير ساعة (ساعات)</numerusform><numerusform>آخر نشاط منذ %n ساعة (ساعات)</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n minute(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>آخر نشاط منذ %0 دقيقة (دقائق)</numerusform><numerusform>آخر نشاط منذ %1 دقيقة (دقائق)</numerusform><numerusform>آخر نشاط منذ %2 دقيقة (دقائق)</numerusform><numerusform>آخر نشاط منذ %بعض دقيقة (دقائق)</numerusform><numerusform>آخر نشاط منذ %كثير دقيقة (دقائق)</numerusform><numerusform>آخر نشاط منذ %n دقيقة (دقائق)</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n second(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>آخر نشاط منذ %0 ثانية (ثواني)</numerusform><numerusform>آخر نشاط منذ %1 ثانية (ثواني)</numerusform><numerusform>آخر نشاط منذ %2 ثانية (ثواني)</numerusform><numerusform>آخر نشاط منذ %بعض ثانية (ثواني)</numerusform><numerusform>آخر نشاط منذ %كثير ثانية (ثواني)</numerusform><numerusform>آخر نشاط منذ %n ثانية (ثواني)</numerusform></translation>
     </message>
     <message>
         <source>Conference call, duration %1.</source>
@@ -1029,18 +1029,18 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call participants</source>
-        <translation type="unfinished"/>
+        <translation>إتصال بمشاركين</translation>
     </message>
 </context>
 <context>
     <name>Confirmation</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>قبول</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>رفض</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1072,23 +1072,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>مسح</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>إعادة تعيين</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>موافق</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>السابق</translation>
     </message>
     <message>
         <source>Try Again</source>
@@ -1096,7 +1096,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Do not ask me again</source>
-        <translation type="unfinished"/>
+        <translation>لا تسألني مرة أخرى</translation>
     </message>
     <message>
         <source>Change Password</source>
@@ -1124,7 +1124,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>You can also report abuse from this user. &lt;a href=&quot;%1&quot;&gt;Learn more&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>يمكنك أيضاً الإبلاغ عن إساءة استخدام من هذا المستخدم. &lt;a href=&quot;skype:?go#help.faq.abuse&quot;&gt;معرفة المزيد&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1139,11 +1139,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Type a short message to introduce yourself to %1</source>
-        <translation type="unfinished"/>
+        <translation>أكتب رسالة قصيرة لتعرف بنفسك إلى %1</translation>
     </message>
     <message>
         <source>Please allow me to see when you are online</source>
-        <translation type="unfinished"/>
+        <translation>يرجى السماح لي برؤيتك</translation>
     </message>
     <message>
         <source> Call %1</source>
@@ -1151,11 +1151,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source> Start a chat with %1</source>
-        <translation type="unfinished"/>
+        <translation>بدأ دردشة مع %1</translation>
     </message>
     <message>
         <source> View the profile of %1</source>
-        <translation type="unfinished"/>
+        <translation>عرض ملف التعريف ل%1</translation>
     </message>
     <message>
         <source>Please let me see your contact details.</source>
@@ -1163,23 +1163,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact request from %1</source>
-        <translation type="unfinished"/>
+        <translation>طلب جهة الاتصال من %1</translation>
     </message>
     <message>
         <source>Ignore Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>تجاهل طلب جهة الاتصال</translation>
     </message>
     <message>
         <source>Ignore the contact request</source>
-        <translation type="unfinished"/>
+        <translation>تجاهل طلب جهة الاتصال</translation>
     </message>
     <message>
         <source>Send Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>إرسال طلب جهة اتصال</translation>
     </message>
     <message>
         <source>Accept Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>قبول طلب جهة الاتصال</translation>
     </message>
     <message>
         <source>Hide Picture</source>
@@ -1191,11 +1191,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Accept and Add to Contacts</source>
-        <translation type="unfinished"/>
+        <translation>إضافة و قبول إلى جهات الاتصال</translation>
     </message>
     <message>
         <source>Accept contact request and add contact to your contact list</source>
-        <translation type="unfinished"/>
+        <translation> قبول طلب جهة الإتصال وإضافته إلى قائمة جهات الاتصال</translation>
     </message>
 </context>
 <context>
@@ -1206,7 +1206,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Contact</source>
-        <translation type="unfinished"/>
+        <translation>إتصال بجهة الإتصال</translation>
     </message>
     <message>
         <source>Click this button to place a call to this contact.</source>
@@ -1326,7 +1326,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>الاسم الكامل:</translation>
     </message>
     <message>
         <source>E-mail:</source>
@@ -1414,11 +1414,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear Birthday</source>
-        <translation type="unfinished"/>
+        <translation>مسح تاريخ الميلاد:</translation>
     </message>
     <message>
         <source>-- Unspecified --</source>
-        <translation type="unfinished"/>
+        <translation>-- غير محدد --</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -1430,7 +1430,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear Name</source>
-        <translation type="unfinished"/>
+        <translation>مسح الإسم</translation>
     </message>
     <message>
         <source>Rename %1</source>
@@ -1458,7 +1458,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished"/>
+        <translation>جاري الاتصال...</translation>
     </message>
     <message>
         <source>Blocked</source>
@@ -3141,11 +3141,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Allow calls from...</source>
-        <translation type="unfinished"/>
+        <translation>السماح بمكالمات من...</translation>
     </message>
     <message>
         <source>Allow chats from...</source>
-        <translation type="unfinished"/>
+        <translation>السماح بدردشات من...</translation>
     </message>
     <message>
         <source>Keep chat history for...</source>
@@ -3513,7 +3513,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Allow calls to my Skype number(s) from...</source>
-        <translation type="unfinished"/>
+        <translation>السماح بالمكالمات لرقم (أرقام) Skype الخاصة بي من...</translation>
     </message>
     <message>
         <source>You&apos;ll need Skype Credit or a subscription to forward calls. Calls forwarded to a phone number will be charged at &lt;a href=&quot;normalrates&quot;&gt;our rates&lt;/a&gt; for calling phones and mobiles or may be included as part of your subscription.</source>
