@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-07-14 23:34+0000\n"
+"PO-Revision-Date: 2014-01-02 13:18+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Gaelic, Scottish (http://www.transifex.com/projects/p/skype-translation-project/language/gd/)\n"
 "MIME-Version: 1.0\n"
@@ -4160,15 +4160,15 @@ msgstr "Gairmean o chionn ghoirid"
 
 msgctxt "sSTATUS_ONLINE_MOBILE"
 msgid "Online (on a mobile device)"
-msgstr "Air loidhne (air uidheam-làimhe)"
+msgstr "Air loidhne (air uidheam mobile)"
 
 msgctxt "sSTATUS_AWAY_MOBILE"
 msgid "Away (on a mobile device)"
-msgstr "Air falbh (air uidheam-làimhe)"
+msgstr "Air falbh (air uidheam mobile)"
 
 msgctxt "sSTATUS_DND_MOBILE"
 msgid "Do Not Disturb (on a mobile device)"
-msgstr "Na bris a-steach orm (air uidheam-làimhe)"
+msgstr "Na bris a-steach orm (air uidheam mobile)"
 
 msgctxt "sCHAT_GAP_IN_CHAT"
 msgid ""
@@ -4559,19 +4559,19 @@ msgstr "chan eil gin"
 
 msgctxt "sZAPBUTTON_DUMMYFULL"
 msgid ""
-msgstr ""
+msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
 
 msgctxt "sZAPBUTTON_DUMMYLEFT"
 msgid ""
-msgstr ""
+msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
 
 msgctxt "sZAPBUTTON_DUMMYRIGHT"
 msgid ""
-msgstr ""
+msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
 
 msgctxt "sZAPBUTTON_DUMMYMIDDLE"
 msgid ""
-msgstr ""
+msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
@@ -4623,11 +4623,11 @@ msgstr "Cuir ris an luchd-aithne"
 
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
-msgstr ""
+msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
 
 msgctxt "sZAPBUTTON_AF_UNPINNED"
 msgid ""
-msgstr ""
+msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
 
 msgctxt "sZAPBUTTON_ALLCONTACTS"
 msgid ""
@@ -5503,11 +5503,11 @@ msgstr "Tostaich"
 
 msgctxt "sZAPBUTTON_MYSELFTOP"
 msgid ""
-msgstr ""
+msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
 
 msgctxt "sZAPBUTTON_MYSELFBOTTOM"
 msgid ""
-msgstr ""
+msgstr "7abe095518b8b0837fc38d15a401089f_tr"
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -6353,11 +6353,11 @@ msgstr "Eile"
 
 msgctxt "sFLOW_CALL_INCOMING"
 msgid "Call from %s"
-msgstr "Cuir fòn o %s"
+msgstr "Gairm o %s"
 
 msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
-msgstr "Cuir fòn gu %s"
+msgstr "Gairm gu %s"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
@@ -9166,7 +9166,7 @@ msgstr "Nach fhaic sibh video a chèile? Nach fheuch an dithis agaibh ris a' vid
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
 msgid ""
-msgstr ""
+msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
 msgid ""
@@ -10142,7 +10142,7 @@ msgstr "Tha duilgheadas ann leis a' ghairm seo"
 
 msgctxt "sCQ_MSG_CALL_PROBLEM_TEXT"
 msgid "Hold on while we try to get the call back."
-msgstr "Fuirich ort fhad 's dh'fheuchas sinn ris a' ghairm aiseag dhut."
+msgstr "Fuirich ort fhad 's a dh'fheuchas sinn ris a' ghairm aiseag dhut."
 
 msgctxt "sCQ_MSG_OFFLINE_TITLE"
 msgid "%s is offline"
@@ -10150,7 +10150,7 @@ msgstr "Tha %s far loidhne"
 
 msgctxt "sCQ_MSG_OFFLINE_TEXT"
 msgid "Hold on while we try to get the call back."
-msgstr "Fuirich ort fhad 's dh'fheuchas sinn ris a' ghairm aiseag dhut."
+msgstr "Fuirich ort fhad 's a dh'fheuchas sinn ris a' ghairm aiseag dhut."
 
 msgctxt "sCQ_MSG_LOST_NETWORK_TITLE"
 msgid "You've gone offline"
@@ -10168,7 +10168,7 @@ msgctxt "sCQ_MSG_WEAK_NETWORK_TEXT"
 msgid ""
 "There's a problem with the internet connection between you two. Hold on "
 "while we try to get the call back."
-msgstr "Bha duilgheadas leis a' cheangal-lìn eadaraibh. Fuirich ort fhad 's dh'fheuchas sinn ris a' ghairm aiseag dhuibh."
+msgstr "Bha duilgheadas leis a' cheangal-lìn eadaraibh. Fuirich ort fhad 's a dh'fheuchas sinn ris a' ghairm aiseag dhuibh."
 
 msgctxt "sAUTH_REQUEST_EMAIL_COMPANY"
 msgid ""
@@ -11102,7 +11102,7 @@ msgstr "Barrachd cuideachaidh"
 
 msgctxt "sGETTING_STARTED_PLAY_SOUND"
 msgid "Test sound"
-msgstr "Fuaim deuchainn"
+msgstr "Cuir an fhuaim fo dheuchainn"
 
 msgctxt "sGETTING_STARTED_INTRO_CAPTION"
 msgid "Add a profile picture"
@@ -12549,7 +12549,7 @@ msgstr "Chan aithne dhuinn an t-ainm Skype agad no am facal-faire a chuir thu a-
 
 msgctxt "sOPTIONS_SHOW_ME_AWAY_WHEN_INACTIVE_1"
 msgid "Show me as Away when I've been inactive for"
-msgstr "Cuir mi staid gu \"Air falbh\" nuair a bhios mi 'nam thàmh fad"
+msgstr "Innis gu bheil mi \"Air falbh\" nuair a bhios mi 'nam thàmh fad"
 
 msgctxt "sOPTIONS_SHOW_ME_AWAY_WHEN_INACTIVE_2"
 msgid "minutes"
