@@ -104,7 +104,7 @@
     <message>
         <source>Copyright 2003-2013 Skype and/or Microsoft</source>
         <comment>sF_ABOUT_COPYRIGHT_1_1</comment>
-        <translation type="unfinished"/>
+        <translation>Copyright 2003-2013 Skype a/abo Microsoft</translation>
     </message>
 </context>
 <context>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Hangup</source>
-        <translation type="unfinished"/>
+        <translation>Połožić</translation>
     </message>
     <message>
         <source>Invite to Conference</source>
@@ -286,11 +286,11 @@
     </message>
     <message>
         <source>Problem with Audio Capture</source>
-        <translation type="unfinished"/>
+        <translation>Problem z awdionatočenjom</translation>
     </message>
     <message>
         <source>Problem with Audio Playback</source>
-        <translation type="unfinished"/>
+        <translation>Problem z awdiowothrawanjom</translation>
     </message>
     <message>
         <source>Call Failed</source>
@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Calling rates</source>
-        <translation type="unfinished"/>
+        <translation>Telefonowe tarify</translation>
     </message>
     <message>
         <source>and %1</source>
@@ -354,7 +354,7 @@
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Telefonować abo SMS pósłać</translation>
     </message>
     <message>
         <source>Call</source>
@@ -398,7 +398,7 @@
     </message>
     <message>
         <source>Problem with legacy client</source>
-        <translation type="unfinished"/>
+        <translation>Problem ze zestarjenym programom</translation>
     </message>
     <message>
         <source>Join call</source>
@@ -410,7 +410,7 @@
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Telefonować</translation>
     </message>
     <message>
         <source>Join Call</source>
@@ -454,7 +454,7 @@
     </message>
     <message>
         <source>Covered by subscription</source>
-        <translation type="unfinished"/>
+        <translation>W abonemenće wobsahowany</translation>
     </message>
     <message>
         <source>End call with this person</source>
@@ -465,11 +465,11 @@
     <name>Chat</name>
     <message>
         <source>sent file</source>
-        <translation type="unfinished"/>
+        <translation>je dataju pósłał</translation>
     </message>
     <message>
         <source>sent files</source>
-        <translation type="unfinished"/>
+        <translation>je dataje pósłał</translation>
     </message>
     <message>
         <source>Open Chat</source>
@@ -500,7 +500,7 @@
     </message>
     <message>
         <source>ChatToolbar</source>
-        <translation type="unfinished"/>
+        <translation>Chatowa symbolowa lajsta</translation>
     </message>
     <message>
         <source>Chat window control toolbar</source>
@@ -572,19 +572,19 @@
     </message>
     <message>
         <source>Last 24 Hours</source>
-        <translation type="unfinished"/>
+        <translation>Zańdźenych 24 hodźin</translation>
     </message>
     <message>
         <source>Last 7 Days</source>
-        <translation type="unfinished"/>
+        <translation>Zańdźenych 7 dnjow</translation>
     </message>
     <message>
         <source>Last 14 Days</source>
-        <translation type="unfinished"/>
+        <translation>Zańdźenych 14 dnjow</translation>
     </message>
     <message>
         <source>Last 30 Days</source>
-        <translation type="unfinished"/>
+        <translation>Zańdźenych 30 dnjow</translation>
     </message>
     <message>
         <source>Forever</source>
@@ -643,12 +643,12 @@
     <message>
         <source>Double-click here to set chat topic.</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu dwójce, zo byšće chatowu temu postajił.</translation>
     </message>
     <message>
         <source>Double-click here to set chat topic</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation type="unfinished"/>
+        <translation>Klikńće tu dwójce, zo byšće chatowu temu postajił</translation>
     </message>
     <message>
         <source>Chat with %1</source>
@@ -672,7 +672,7 @@
     </message>
     <message>
         <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
+        <translation>Tuta powěsć hišće njeje so připósłała.</translation>
     </message>
     <message>
         <source>Copy Selected Text</source>
@@ -714,7 +714,8 @@ Please select a different image file.</source>
     <message>
         <source>The image file you have selected is too large!
 Please use a smaller size image!</source>
-        <translation type="unfinished"/>
+        <translation>Wobrazowa dataja, kotruž sće wubrał, je přewulka!
+Prošu wužijće mjeńši wobraz!</translation>
     </message>
     <message>
         <source>Internal Error!</source>
@@ -723,7 +724,8 @@ Please use a smaller size image!</source>
     <message>
         <source>The selected image file could not be set as a chat picture.
 Please use a different image file!</source>
-        <translation type="unfinished"/>
+        <translation>Wubrana wobrazowa dataja njeda so jako chatowy wobraz nastajić.
+Prošu wužijće druhz wobrazowu dataju!</translation>
     </message>
     <message>
         <source>Loading Image failure!</source>
@@ -732,11 +734,12 @@ Please use a different image file!</source>
     <message>
         <source>File could not be loaded.
  Please try a different a file and also make sure that file has read permission.</source>
-        <translation type="unfinished"/>
+        <translation>Dataja njeda so začitać.
+Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</translation>
     </message>
     <message>
         <source>joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>je chatej přistupił</translation>
     </message>
     <message>
         <source>left the chat (%1).</source>
@@ -824,7 +827,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>This person is using a version of Skype that doesn&apos;t support group chat</source>
-        <translation type="unfinished"/>
+        <translation>Tuta wosoba wužiwa Skype-wersiju, kotraž skupinski chat njepodpěruje.</translation>
     </message>
     <message>
         <source>Only people who have accepted contact request can be added</source>
@@ -868,7 +871,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Phones</source>
-        <translation type="unfinished"/>
+        <translation>Telefonowe čisła zawołać</translation>
     </message>
     <message>
         <source>%1 - %2</source>
@@ -966,23 +969,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>sent file %1.</source>
-        <translation type="unfinished"/>
+        <translation>je dataju %1 pósłał</translation>
     </message>
     <message>
         <source>sent files %1.</source>
-        <translation type="unfinished"/>
+        <translation>je dataje %1 pósłał</translation>
     </message>
     <message>
         <source>sent you a voice message.</source>
-        <translation type="unfinished"/>
+        <translation>je ći awdiopowěsć zawostajił.</translation>
     </message>
     <message>
         <source>sent a voice message.</source>
-        <translation type="unfinished"/>
+        <translation>je awdiopowěsć zawostajił.</translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Zawołać</translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
@@ -1135,7 +1138,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Say Hello to %1</source>
-        <translation type="unfinished"/>
+        <translation>Witajće %1</translation>
     </message>
     <message>
         <source>Type a short message to introduce yourself to %1</source>
@@ -1210,11 +1213,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Click this button to place a call to this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće na tłóčatko, zo byšće tutón kontakt zawołał.</translation>
     </message>
     <message>
         <source>Call Button</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanske tłóčatko</translation>
     </message>
     <message>
         <source>Chat to Contact</source>
@@ -1270,7 +1273,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Undisclosed Number</source>
-        <translation type="unfinished"/>
+        <translation>Schowane čisło</translation>
     </message>
     <message>
         <source>Last Seen: %1</source>
@@ -1470,7 +1473,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Undisclosed number</source>
-        <translation type="unfinished"/>
+        <translation>Schowane čisło</translation>
     </message>
     <message>
         <source>Echo Test Service</source>
@@ -1578,7 +1581,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Labels for %1</source>
-        <translation type="unfinished"/>
+        <translation>Pomjenowanja za %1</translation>
     </message>
     <message>
         <source>Enter a comma separated list of labels for %1</source>
@@ -1586,7 +1589,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Edit Labels...</source>
-        <translation type="unfinished"/>
+        <translation>Pomjenjowanja wobdźěłać...</translation>
     </message>
     <message>
         <source>Block this user</source>
@@ -1616,11 +1619,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Offline with call forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Offline ze zawołanskim dalesposrědkowanjom</translation>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Online (na mobilnym graće)</translation>
     </message>
     <message>
         <source>Away (on a mobile device)</source>
@@ -1667,7 +1670,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Age Range</source>
-        <translation type="unfinished"/>
+        <translation>Starobna skupina</translation>
     </message>
     <message>
         <source>All Ages</source>
@@ -1822,7 +1825,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Undisclosed Number</source>
-        <translation type="unfinished"/>
+        <translation>Schowane čisło</translation>
     </message>
     <message>
         <source>Birthday for %1</source>
@@ -2144,7 +2147,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Voice messages</source>
-        <translation type="unfinished"/>
+        <translation>Awdiopowěsće</translation>
     </message>
 </context>
 <context>
@@ -2183,23 +2186,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 could not write the file</source>
-        <translation type="unfinished"/>
+        <translation>%1 njemóžeše dataju pisać</translation>
     </message>
     <message>
         <source>%1 has been offline for too long</source>
-        <translation type="unfinished"/>
+        <translation>%1 je předołho offline był</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"/>
+        <translation>Njeporadźiło</translation>
     </message>
     <message>
         <source>Connecting to %1</source>
-        <translation type="unfinished"/>
+        <translation>Zwjazuje so z %1</translation>
     </message>
     <message>
         <source>Receiving from %1</source>
-        <translation type="unfinished"/>
+        <translation>Přijima so wot %1</translation>
     </message>
     <message>
         <source>Paused - Receiving from %1</source>
@@ -2215,7 +2218,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Sending file to %1</source>
-        <translation type="unfinished"/>
+        <translation>Dataja so do %1 sćele</translation>
     </message>
     <message>
         <source>Paused - Sending file to %1</source>
@@ -2399,15 +2402,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 could not read the file</source>
-        <translation type="unfinished"/>
+        <translation>%1 njemóžeše dataju čitać</translation>
     </message>
     <message>
         <source>%1 does not support file sending</source>
-        <translation type="unfinished"/>
+        <translation>%1 słanje datajow njepodpěruje</translation>
     </message>
     <message>
         <source>Incoming file from %1</source>
-        <translation type="unfinished"/>
+        <translation>Dochadźaca dataja wot %1</translation>
     </message>
     <message>
         <source>Cancelled - File from %1</source>
@@ -2467,11 +2470,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Retry failed files</source>
-        <translation type="unfinished"/>
+        <translation>Njepósłane dataje znowa spytać</translation>
     </message>
     <message>
         <source>Retry Failed Files</source>
-        <translation type="unfinished"/>
+        <translation>Njepósłane dataje znowa spytać</translation>
     </message>
     <message>
         <source>Cancel active files</source>
@@ -2483,19 +2486,19 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>%n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n dataja wot %1</numerusform><numerusform>%n dataji wot %1</numerusform><numerusform>%n dataje wot %1</numerusform><numerusform>%n datajow wot %1</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Accept %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n dataju wot %1 akceptować</numerusform><numerusform>%n dataji wot %1 akceptować</numerusform><numerusform>%n dataje wot %1 akceptować</numerusform><numerusform>%n datajow wot %1 akceptować</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Decline %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n dataju wot %1 wotpokazać</numerusform><numerusform>%n dataji wot %1 wotpokazać</numerusform><numerusform>%n dataje wot %1 wotpokazać</numerusform><numerusform>%n datajow wot %1 wotpokazać</numerusform></translation>
     </message>
     <message>
         <source>Incoming file from %1 isn&apos;t available yet</source>
-        <translation type="unfinished"/>
+        <translation>Dochadźaca dataja wot %1 hišće k dispoziciji njesteji</translation>
     </message>
     <message>
         <source>Waiting for %1 to accept</source>
@@ -2546,7 +2549,7 @@ Please use a different image file!</source>
     <message>
         <source>M&amp;atch case</source>
         <comment>sF_FIND_MATCH_CASE</comment>
-        <translation type="unfinished"/>
+        <translation>Na &amp;wulkopisanje dźiwać</translation>
     </message>
     <message>
         <source>I&amp;gnore poster names</source>
@@ -2621,7 +2624,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Your password must be at least 6 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Twoje hesło dyrbi ze znajmjeńša 6 znamješkow wobstać.</translation>
     </message>
     <message>
         <source>Your entered passwords do not match.</source>
@@ -2649,7 +2652,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Automatically sign-in when I start Skype</source>
-        <translation type="unfinished"/>
+        <translation>Při startowanju Skype awtomatisce přizjewić</translation>
     </message>
     <message>
         <source>Password Changed.</source>
@@ -2862,7 +2865,7 @@ Please try again later.</source>
     </message>
     <message numerus="yes">
         <source>%n new event(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n nowy podawk</numerusform><numerusform>%n nowej podawkaj</numerusform><numerusform>%n nowe podawki</numerusform><numerusform>%n nowych podawkow</numerusform></translation>
     </message>
     <message>
         <source>All Contacts</source>
@@ -2982,7 +2985,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype number expires in %1 days</source>
-        <translation type="unfinished"/>
+        <translation>Skype-čisło spadnje za %1 dnjow</translation>
     </message>
     <message>
         <source>Buy a Skype number</source>
@@ -2990,7 +2993,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype number</source>
-        <translation type="unfinished"/>
+        <translation>Skype-čisło</translation>
     </message>
     <message>
         <source>Skype Voice Messaging</source>
@@ -2998,17 +3001,17 @@ Please try again later.</source>
     </message>
     <message>
         <source>Start a &amp;Conference Call...</source>
-        <translation type="unfinished"/>
+        <translation>Konferencne zawołanje startować...</translation>
     </message>
     <message>
         <source>Get a subscription</source>
         <comment>This appears in case of account not having any subscriptions</comment>
-        <translation type="unfinished"/>
+        <translation>Abonement wotzamknyć</translation>
     </message>
     <message numerus="yes">
         <source>%n subscription(s)</source>
         <comment>This appears in case of account having subscriptions</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n abonement</numerusform><numerusform>%n abonementaj</numerusform><numerusform>%n abonementy</numerusform><numerusform>%n abonementow</numerusform></translation>
     </message>
     <message>
         <source>Messenger Contacts</source>
@@ -3016,58 +3019,58 @@ Please try again later.</source>
     </message>
     <message>
         <source>Subscriptions</source>
-        <translation type="unfinished"/>
+        <translation>Abonementy</translation>
     </message>
 </context>
 <context>
     <name>Options</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Powšitkowny</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"/>
+        <translation>Priwatnosć</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Zdźělenki</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Dalesposrědkowanje</translation>
     </message>
     <message>
         <source>Sound Devices</source>
-        <translation type="unfinished"/>
+        <translation>Awdiograty</translation>
     </message>
     <message>
         <source>Video Devices</source>
-        <translation type="unfinished"/>
+        <translation>Widejograty</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Rozšěrjene</translation>
     </message>
     <message>
         <source>Blocked People</source>
-        <translation type="unfinished"/>
+        <translation>Zablokowani ludźo</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>Zjawny API</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Začinić</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcije</translation>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
@@ -3075,11 +3078,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Start a call</source>
-        <translation type="unfinished"/>
+        <translation>Zawołać</translation>
     </message>
     <message>
         <source>Start a chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat započeć</translation>
     </message>
     <message>
         <source>Show me as &apos;Away&apos; when I am inactive for</source>
@@ -3087,7 +3090,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>mjeńšin</translation>
     </message>
     <message>
         <source>Start Skype minimised in the system tray</source>
@@ -3095,59 +3098,59 @@ Please try again later.</source>
     </message>
     <message>
         <source>Set program language to:</source>
-        <translation type="unfinished"/>
+        <translation>Programowu rěč stajić na:</translation>
     </message>
     <message>
         <source>anybody</source>
-        <translation type="unfinished"/>
+        <translation>kóždy</translation>
     </message>
     <message>
         <source>only people I have allowed</source>
-        <translation type="unfinished"/>
+        <translation>jenož ludźo z mojej dowolnosću</translation>
     </message>
     <message>
         <source>anybody with a visible number</source>
-        <translation type="unfinished"/>
+        <translation>kóždy z widźomnym čisłom</translation>
     </message>
     <message>
         <source>only numbers of my Contacts</source>
-        <translation type="unfinished"/>
+        <translation>jenož čisła mojich kontaktow</translation>
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>Na přeco</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"/>
+        <translation>2 tydźenjej</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"/>
+        <translation>1 měsac</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"/>
+        <translation>3 měsacy</translation>
     </message>
     <message>
         <source>Disable History</source>
-        <translation type="unfinished"/>
+        <translation>Historiju znjemóžnić</translation>
     </message>
     <message>
         <source>Allow my status to be shown on the web.</source>
-        <translation type="unfinished"/>
+        <translation>Mój status smě so w syći pokazać.</translation>
     </message>
     <message>
         <source>Automatically answer incoming calls.</source>
-        <translation type="unfinished"/>
+        <translation>Na dochadźace zawołanja awtomatisce wotmołwić.</translation>
     </message>
     <message>
         <source>Allow calls from...</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanja dowolić wot...</translation>
     </message>
     <message>
         <source>Allow chats from...</source>
-        <translation type="unfinished"/>
+        <translation>Chaty dowolić wot...</translation>
     </message>
     <message>
         <source>Keep chat history for...</source>
@@ -3155,19 +3158,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Enable Event</source>
-        <translation type="unfinished"/>
+        <translation>Podawk zmóžnić</translation>
     </message>
     <message>
         <source>Test Event</source>
-        <translation type="unfinished"/>
+        <translation>Testowy podawk</translation>
     </message>
     <message>
         <source>Restore Default</source>
-        <translation type="unfinished"/>
+        <translation>Standard wobnowić</translation>
     </message>
     <message>
         <source>Advanced View</source>
-        <translation type="unfinished"/>
+        <translation>Rozšěrjeny napohlad</translation>
     </message>
     <message>
         <source>Execute the following script on any event:</source>
@@ -3175,19 +3178,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Play sound file:</source>
-        <translation type="unfinished"/>
+        <translation>Awdiodataju wothrać:</translation>
     </message>
     <message>
         <source>None Configured</source>
-        <translation type="unfinished"/>
+        <translation>Žana konfigurowana</translation>
     </message>
     <message>
         <source>The file is not accessible.</source>
-        <translation type="unfinished"/>
+        <translation>Dataja přistupna njeje.</translation>
     </message>
     <message>
         <source>Reset to Default Sound</source>
-        <translation type="unfinished"/>
+        <translation>Na standardny zynk wróćo stajić</translation>
     </message>
     <message>
         <source>Display pop-up notification</source>
@@ -3195,15 +3198,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send the other contact a message:</source>
-        <translation type="unfinished"/>
+        <translation>Druhemu kontaktej powěsć pósłać:</translation>
     </message>
     <message>
         <source>Execute the following script:</source>
-        <translation type="unfinished"/>
+        <translation>Slědowacy skript wuwjesć:</translation>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Zynki</translation>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
@@ -3223,11 +3226,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Emotikony pokazać</translation>
     </message>
     <message>
         <source>Show animated emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Animěrowane emotikony pokazać</translation>
     </message>
     <message>
         <source>Show others when I am typing</source>
@@ -3243,11 +3246,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Learn more about Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Dalše informacije wo dalesposrědkowanju zawołanjow</translation>
     </message>
     <message>
         <source>Forward calls when I&apos;m not on Skype</source>
-        <translation type="unfinished"/>
+        <translation>Zawołanja dale sposrědkować, hdyž w Skype njejsym</translation>
     </message>
     <message>
         <source>Forward calls if I do not answer on Skype within</source>
@@ -3263,11 +3266,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Make a test sound</source>
-        <translation type="unfinished"/>
+        <translation>Zynk testować</translation>
     </message>
     <message>
         <source>Make a test call</source>
-        <translation type="unfinished"/>
+        <translation>Testowe zawołanje přewjesć</translation>
     </message>
     <message>
         <source>Allow Skype to automatically adjust my mixer levels</source>
@@ -3275,7 +3278,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>nobody</source>
-        <translation type="unfinished"/>
+        <translation>nichtó</translation>
     </message>
     <message>
         <source>Automatically receive video from...</source>
@@ -3287,11 +3290,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype</source>
-        <translation type="unfinished"/>
+        <translation>Skype</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation type="unfinished"/>
+        <translation>Při startowanju aktualizacije pytać</translation>
     </message>
     <message>
         <source>Display technical call info</source>
@@ -3299,47 +3302,47 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>Zwisk</translation>
     </message>
     <message>
         <source>Use port</source>
-        <translation type="unfinished"/>
+        <translation>Wužijće port</translation>
     </message>
     <message>
         <source>for incoming connections</source>
-        <translation type="unfinished"/>
+        <translation>za dochadźace zwiski</translation>
     </message>
     <message>
         <source>Automatic Proxy Detection</source>
-        <translation type="unfinished"/>
+        <translation>Awtomatiske proksy-spóznaće</translation>
     </message>
     <message>
         <source>HTTPS Proxy</source>
-        <translation type="unfinished"/>
+        <translation>HTTPS-proksy</translation>
     </message>
     <message>
         <source>SOCKS Proxy</source>
-        <translation type="unfinished"/>
+        <translation>SOCKS-proksy</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Host</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Port</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Wužiwar</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Hesło</translation>
     </message>
     <message>
         <source>Unblock Selected People</source>
-        <translation type="unfinished"/>
+        <translation>Za wubrane wosoby blokowanje zběhnyć</translation>
     </message>
     <message>
         <source>Allow my contacts to see the number of contacts I have.</source>
@@ -3347,15 +3350,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show when others are typing</source>
-        <translation type="unfinished"/>
+        <translation>Pokazać, zo druzy pisaja</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Choose Sound File</source>
-        <translation type="unfinished"/>
+        <translation>Awdiodataju wubrać</translation>
     </message>
     <message>
         <source>The hassle-free way to send text messages to friends when they are offline or on the move.</source>
@@ -3371,7 +3374,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Learn more about SMS</source>
-        <translation type="unfinished"/>
+        <translation>Dalše informacije wo SMS</translation>
     </message>
     <message>
         <source>My Skype Name (%1). Recipients cannot send SMS replies.</source>
@@ -3383,15 +3386,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Select your country</source>
-        <translation type="unfinished"/>
+        <translation>Wubjerće swój kraj</translation>
     </message>
     <message>
         <source>Type your mobile number</source>
-        <translation type="unfinished"/>
+        <translation>Zapodajće čisło swojeho mobilneho telefona</translation>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Wotpósłać</translation>
     </message>
     <message>
         <source>You will be charged the standard rate for one SMS message.</source>
@@ -3403,27 +3406,27 @@ Please try again later.</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Wobkrućić</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;smsrates&quot;&gt;SMS destinations and rates&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;smsrates&quot;&gt;SMS-cile a tarify&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"/>
+        <translation>Mikrofon</translation>
     </message>
     <message>
         <source>Speakers</source>
-        <translation type="unfinished"/>
+        <translation>Wótřerěčaki</translation>
     </message>
     <message>
         <source>Choose style: </source>
-        <translation type="unfinished"/>
+        <translation>Stil wubrać</translation>
     </message>
     <message>
         <source>Desktop Settings</source>
-        <translation type="unfinished"/>
+        <translation>Desktopowe nastajenja</translation>
     </message>
     <message>
         <source>When I send an SMS message, identify me by...</source>
@@ -3439,7 +3442,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Open %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 wočinić</translation>
     </message>
     <message>
         <source>Trying to open %1</source>
@@ -3451,11 +3454,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Enable Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi aktiwizować</translation>
     </message>
     <message>
         <source>Call forwarding options</source>
-        <translation type="unfinished"/>
+        <translation>Nastajenja zawołanskeho dalesposrědkowanja</translation>
     </message>
     <message>
         <source>When you&apos;re away from Skype, forward incoming calls to a phone or mobile, to another Skype account, or receive them as voice messages.</source>
@@ -3463,19 +3466,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Add more phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Dalše telefonowe čisła přidać</translation>
     </message>
     <message>
         <source>One phone number only</source>
-        <translation type="unfinished"/>
+        <translation>Jenož jedne telefonowe čisło</translation>
     </message>
     <message>
         <source>Use Default View</source>
-        <translation type="unfinished"/>
+        <translation>Standardny napohlad wužiwać</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Awatary pokazać</translation>
     </message>
     <message>
         <source>Pressing Enter will...</source>
@@ -3483,35 +3486,35 @@ Please try again later.</source>
     </message>
     <message>
         <source>Insert line break</source>
-        <translation type="unfinished"/>
+        <translation>Linkowe łamanje zasunyć</translation>
     </message>
     <message>
         <source>Send chat message</source>
-        <translation type="unfinished"/>
+        <translation>Chatowu powěsć pósłać</translation>
     </message>
     <message>
         <source>Voice Messages</source>
-        <translation type="unfinished"/>
+        <translation>Awdiopowěsće</translation>
     </message>
     <message>
         <source>(requires restarting Skype)</source>
-        <translation type="unfinished"/>
+        <translation>(žada sej Skype znowa startować)</translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Dataje awtomatisce přiwzać</translation>
     </message>
     <message>
         <source>Save files to:</source>
-        <translation type="unfinished"/>
+        <translation>Dataje składować do:</translation>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Wubjerće standardny rjadowak za składowanje datajow</translation>
     </message>
     <message>
         <source>(might require restarting Skype)</source>
-        <translation type="unfinished"/>
+        <translation>(žada sej snano Skype znowa startować)</translation>
     </message>
     <message>
         <source>Allow calls to my Skype number(s) from...</source>
@@ -3530,11 +3533,11 @@ Please try again later.</source>
     <name>Quickfilter</name>
     <message>
         <source>Show contact list</source>
-        <translation type="unfinished"/>
+        <translation>Lisćinu kontaktow pokazać</translation>
     </message>
     <message>
         <source>** Show contact list with groups</source>
-        <translation type="unfinished"/>
+        <translation>** Lisćinu kontaktow ze skupinami pokazać</translation>
     </message>
     <message>
         <source>Call a contact not in your list</source>
@@ -3550,15 +3553,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>** Join a public chat</source>
-        <translation type="unfinished"/>
+        <translation>** Zjawnemu chatej přistupić</translation>
     </message>
     <message>
         <source>Search through your contacts</source>
-        <translation type="unfinished"/>
+        <translation>Waše kontakty přepytać</translation>
     </message>
     <message>
         <source>Search through event history</source>
-        <translation type="unfinished"/>
+        <translation>Historiju podawkow přepytać</translation>
     </message>
     <message>
         <source>Enter a public chat blob</source>
@@ -3570,15 +3573,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send an SMS message</source>
-        <translation type="unfinished"/>
+        <translation>SMS-powěsć pósłać</translation>
     </message>
     <message>
         <source>Enter a number or Skype Name</source>
-        <translation type="unfinished"/>
+        <translation>Zapodajće čisło abo Skype-mjeno</translation>
     </message>
     <message>
         <source>Join a public chat</source>
-        <translation type="unfinished"/>
+        <translation>Zjawnemu chatej přistupić</translation>
     </message>
     <message>
         <source>** Add to conference call by name/number</source>
@@ -3620,31 +3623,31 @@ Please try again later.</source>
     <name>Send Contacts</name>
     <message>
         <source>Send Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontakty pósłać</translation>
     </message>
     <message>
         <source>Send contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontakty pósłać</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>Pó&amp;słać</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Přetorhnyć</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Pósłać</translation>
     </message>
     <message>
         <source>Do not send</source>
-        <translation type="unfinished"/>
+        <translation>Njepósłać</translation>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation type="unfinished"/>
+        <translation>Kontakty we wašej lisćinje</translation>
     </message>
     <message>
         <source>Contacts to send</source>
@@ -3652,11 +3655,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Začinić</translation>
     </message>
     <message>
         <source>Sent contacts to %1.</source>
@@ -3672,23 +3675,23 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Přidać</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Akceptować</translation>
     </message>
     <message>
         <source>Do not accept</source>
-        <translation type="unfinished"/>
+        <translation>Njeakceptować</translation>
     </message>
     <message>
         <source>Received contacts</source>
-        <translation type="unfinished"/>
+        <translation>Přijate kontakty</translation>
     </message>
     <message>
         <source>Contacts to accept</source>
-        <translation type="unfinished"/>
+        <translation>Kontakty, kotrež maja so akceptować</translation>
     </message>
     <message>
         <source>Recipients list (space separated Skype Names):</source>
@@ -3703,7 +3706,7 @@ Please try again later.</source>
     <name>SendProgress</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formular</translation>
     </message>
     <message>
         <source>sentcontacts</source>
@@ -3715,7 +3718,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sending contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Kontakty so sćelu...</translation>
     </message>
     <message>
         <source>sendprogress</source>
@@ -3727,7 +3730,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
@@ -3739,19 +3742,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Přetorhnyć</translation>
     </message>
 </context>
 <context>
     <name>Skype WiFi</name>
     <message>
         <source>Skype WiFi...</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi…</translation>
     </message>
     <message>
         <source>Skype WiFi</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi</translation>
     </message>
     <message>
         <source>Detecting Skype WiFi availability</source>
@@ -3759,7 +3762,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Ze Skype WiFi zwjazać</translation>
     </message>
     <message>
         <source>Connect to this hotspot for free internet access with %1 ¹.</source>
@@ -3775,19 +3778,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"/>
+        <translation>Zwjazać</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"/>
+        <translation>Zwjazuje so...</translation>
     </message>
     <message>
         <source>Skype WiFi is connecting you to %1</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi zwjazuje was z %1</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"/>
+        <translation>Zwjazany</translation>
     </message>
     <message>
         <source>You are connected to the internet.</source>
@@ -3795,15 +3798,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>WiFi network: %1</source>
-        <translation type="unfinished"/>
+        <translation>WiFi-syć: %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Traće: %1</translation>
     </message>
     <message>
         <source>Cost: %1</source>
-        <translation type="unfinished"/>
+        <translation>Kóšty: %1</translation>
     </message>
     <message>
         <source>To disconnect and stop being charged, click the Disconnect button. Any reserved credit that you don&apos;t use will appear back in your account.</source>
@@ -3811,27 +3814,27 @@ Please try again later.</source>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>Zwisk dźělić</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Zwisk dźěleny</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has expired.</source>
-        <translation type="unfinished"/>
+        <translation>Waše posedźenje Skype WiFi je skónčene.</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has ended.</source>
-        <translation type="unfinished"/>
+        <translation>Waše posedźenje Skype WiFi je skónčene.</translation>
     </message>
     <message>
         <source>Extend your Skype WiFi session</source>
-        <translation type="unfinished"/>
+        <translation>Waše posedźenje Skype WiFi podlěšić</translation>
     </message>
     <message>
         <source>Your session will expire in %1 minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Twoje posedźenje budźe so za %1 mjeńšin kónčić.</translation>
     </message>
     <message>
         <source>Click Extend session to reserve more minutes online.</source>
@@ -3839,7 +3842,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Extend session</source>
-        <translation type="unfinished"/>
+        <translation>Posedźenje podlěšić</translation>
     </message>
     <message>
         <source>Skype WiFi - hotspot not supported</source>
@@ -3882,19 +3885,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Mobilny telefon</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Priwatny</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Słužbny</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS pósłać</translation>
     </message>
     <message>
         <source>Connection to server failed.</source>
