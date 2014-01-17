@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2014-01-02 11:14+0000\n"
+"PO-Revision-Date: 2014-01-16 15:57+0000\n"
 "Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
@@ -3286,7 +3286,7 @@ msgstr "کۆدى وەڵات بگۆرە بۆ ئەم تەلەفۆنە"
 
 msgctxt "sF_OPTIONS_NOTIF_BIRTHDAY"
 msgid "has a birthday"
-msgstr ""
+msgstr "ڕۆژى لەدايك بوونێک هەيە"
 
 msgctxt "sCHAT_TOOLBAR_FIND"
 msgid "Find:"
@@ -3298,7 +3298,7 @@ msgstr "شتێک بنووسە بۆ گەڕان"
 
 msgctxt "sF_OPTIONS_NOTIF_PROMOTIONS"
 msgid "Promotions"
-msgstr ""
+msgstr "بەرەو پێشبردن"
 
 msgctxt "sGENERAL_BROWSER_ERROR"
 msgid "Unable to launch web browser."
@@ -3622,7 +3622,7 @@ msgstr "ئەستێرە"
 
 msgctxt "sMOONING_SMILEY"
 msgid "Mooning"
-msgstr ""
+msgstr "مانگ"
 
 msgctxt "sFINGER_SMILEY"
 msgid "Finger"
@@ -3646,7 +3646,7 @@ msgstr " ڕۆک"
 
 msgctxt "sHEADBANG_SMILEY"
 msgid "Banging head on wall"
-msgstr ""
+msgstr "گرمەى سەر لەسەر ديوار"
 
 msgctxt "sPOOLPARTY_SMILEY"
 msgid "Pool party"
@@ -3682,31 +3682,31 @@ msgstr ""
 
 msgctxt "sSILENT_GUI_WARNING3"
 msgid "Click OK to accept or Cancel to deny this request."
-msgstr ""
+msgstr "کرتە بکە لە OK بۆ ڕازیبوون یان کرتە بکە لە cancel بۆ پشگوێخستنى ئەم داواکراریە."
 
 msgctxt "sSILENT_GUI_CAPTION"
 msgid "Confirm silent mode"
-msgstr ""
+msgstr "ڕاستاندنى دۆخى بێدەنگى"
 
 msgctxt "sSILENT_GUI_TITLE"
 msgid "Confirm silent mode"
-msgstr ""
+msgstr "ڕاستاندنى دۆخى بێدەنگى"
 
 msgctxt "sF_STARTCOMCHAT_RBTN1"
 msgid "Anyone can post messages."
-msgstr ""
+msgstr "هەرکەسێک دەتوانێت پەیام پۆستبکات."
 
 msgctxt "sF_STARTCOMCHAT_RBTN2"
 msgid "Participants need permission to start posting."
-msgstr ""
+msgstr "بەژداربووان پێویستان بە مۆڵەتە تا بتوانن پۆست بکەن."
 
 msgctxt "sF_STARTCOMCHAT_RBTN3"
 msgid "Participants need permission to start reading and posting."
-msgstr ""
+msgstr "بەژداربووان پێویستان بە مۆڵەتە تا بتوانن پۆست بکەن و بخوێننەوە."
 
 msgctxt "sMAINMENU_TOOLS_START_PUBLIC_CHAT"
 msgid "Start Public IM"
-msgstr ""
+msgstr " پەیامى خێرا گشتى داگیرسێنە"
 
 msgctxt "sF_CHAT_NOTIFY_TITLE"
 msgid "Notification settings"
@@ -3738,7 +3738,7 @@ msgstr "تەنها ئەو کاتە ئاگادارم بکەرەوە ئەگەر و
 
 msgctxt "sF_CHAT_NOTIFY_LB_HEADER1"
 msgid "IM notifications will alert you when something new happens in this IM."
-msgstr ""
+msgstr "وریاکەرەوەکانى پەیامى خێرا وریاتئەکەنەوە کاتێک شتێکى نوێ ڕوودەدات لە لە پەیامى خێرا."
 
 msgctxt "sF_CHAT_NOTIFY_LB_HEADER2"
 msgid ""
@@ -3971,7 +3971,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_LB_COUNT"
 msgid "Participant count:"
-msgstr ""
+msgstr "ڕێژەى بەژداربوان"
 
 msgctxt "sCHAT_STATUSMESSAGE_RETRYING"
 msgid ""
@@ -3985,7 +3985,7 @@ msgstr "سڕینەوە پەیام"
 
 msgctxt "sERROR_HINT_VIDEO_11"
 msgid "Cannot show video. The camera may be in use."
-msgstr ""
+msgstr "ناتوانێت ڤيديۆ پيشان بدات. لەوانەیە کامێراکە لە کارکردندا بێت."
 
 msgctxt "sERROR_HINT_VIDEO_12"
 msgid "You need Windows 7, Vista or XP to use this feature."
@@ -3993,7 +3993,7 @@ msgstr "پێویستیت بە Windows 7, Vista or XP بۆ بە کارهێنان�
 
 msgctxt "sF_CALL_QLT_WINDOW_TITLE"
 msgid "Call quality feedback"
-msgstr ""
+msgstr "تێبينیەکانى کواڵێتى تەلەفۆن كردن"
 
 msgctxt "sF_CALL_QLT_BGR_CAPTION3"
 msgid "Thanks for your feedback"
@@ -4017,15 +4017,15 @@ msgstr "ڕەخنەوپێشنیارەکانت یارمەتیمان دەدات ب�
 
 msgctxt "sF_CALL_QLT_LBL_THANKS"
 msgid "Thanks for taking the time to tell us what you think."
-msgstr ""
+msgstr "سوپاس بۆ لەکات گرتنت سەبارەت بە تێبينیەکان"
 
 msgctxt "sF_CALL_QLT_LBL_TIPS"
 msgid "Get help with your call quality issues"
-msgstr ""
+msgstr "یارمەتى وەرگرە لە کێشەکانى کواڵێتى تەلەفۆن کردن"
 
 msgctxt "sF_OPTIONS_ALERTS_LB1"
 msgid "Show alerts from..."
-msgstr ""
+msgstr "پیشاندانى وریاکەرەوەکان لە لایەن..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_WRITE"
 msgid "Error. Can't save the file."
@@ -4033,7 +4033,7 @@ msgstr "هەڵە ڕوویدا. پەڕگە ناتوانرێت پاشکەوتبک�
 
 msgctxt "sCHAT_PASSWORD_PROMPT"
 msgid "Password required for this IM."
-msgstr ""
+msgstr "تێپەڕەوشە پێویستە بۆ ئەم گفتوگۆیە."
 
 msgctxt "sCHAT_PASSWORD_HINT"
 msgid "Password hint: %s"
@@ -4071,11 +4071,11 @@ msgstr "مایکڕۆفۆنەکەت بێ دەنگ بکە"
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
-msgstr ""
+msgstr "زانیارى کواڵێتى تەلەفۆن کردن"
 
 msgctxt "sSOUNDSETTINGS_RECLEVEL"
 msgid "Recording level"
-msgstr ""
+msgstr "ئاستى تۆمارکردن"
 
 msgctxt "sSOUNDSETTINGS_PLAYLEVEL"
 msgid "Adjust call volume"
@@ -4095,7 +4095,7 @@ msgstr "Skype Prime"
 
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
-msgstr ""
+msgstr "وریاکەرەوەکان و پەیامەکان"
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
@@ -4103,7 +4103,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_ALERTS_LEARNMORE"
 msgid "<a href=\"skype:?go#help.faq.alerts\">Learn more</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#help.faq.alerts\">زیاتر بزانە</a>"
 
 msgctxt "sF_TRANSLATE_SAVEAS_FILTER"
 msgid "Skype language files"
@@ -4151,11 +4151,11 @@ msgstr "بسڕەوە"
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TITLE"
 msgid "Image file corrupted"
-msgstr ""
+msgstr "پەڕگەى وێنە تێکچووە"
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TEXT"
 msgid "Image file is corrupted and can't be used."
-msgstr ""
+msgstr "پەڕگەى وێنە تێکچووە و ناتوانرێت بەکاربهێنرێت"
 
 msgctxt "sMAINMENU_RECENTCALLS"
 msgid "Recent Calls"
@@ -4163,33 +4163,33 @@ msgstr "تەلەفۆنە تازەکان"
 
 msgctxt "sSTATUS_ONLINE_MOBILE"
 msgid "Online (on a mobile device)"
-msgstr ""
+msgstr "سەرهێڵ (لەسەر خزمەتگوزارى مۆبایل)"
 
 msgctxt "sSTATUS_AWAY_MOBILE"
 msgid "Away (on a mobile device)"
-msgstr ""
+msgstr "لەدەرەوەیە (لەسەر خزمەتگوزارى مۆبایل)"
 
 msgctxt "sSTATUS_DND_MOBILE"
 msgid "Do Not Disturb (on a mobile device)"
-msgstr ""
+msgstr "بێزارم مەکە (لەسەر خزمەتگوزارى مۆبایل)"
 
 msgctxt "sCHAT_GAP_IN_CHAT"
 msgid ""
 "You have been offline for too long. Some messages have been lost from that "
 "period."
-msgstr ""
+msgstr "ئێوە بۆ ماوەیەکى درێژ دەرهێڵ بوون. هەندێ لە پەیامەکان دیارنەماون لەم کاتەدا."
 
 msgctxt "sERROR_HINT_VIDEO_13"
 msgid ""
 "You need newer version of <a "
 "href=\"http://www.microsoft.com/directx/\">DirectX</a> to use video."
-msgstr ""
+msgstr "پێویستیت بە وەشانى نوێترى <a href=\"http://www.microsoft.com/directx/\">DirectX</a> تا ڤیدیۆ بەکاربهێنیت."
 
 msgctxt "sERROR_HINT_VIDEO_14"
 msgid ""
 "Can't start video. Try closing other programs that might be using your "
 "webcam."
-msgstr ""
+msgstr "ناتوانیت ڤیدیۆکەت داگێرسێنى . هەوڵبدە ئەو پڕۆگرامانە دابخەیت کە لەوانەیە وێبکامەکەت بەکاربێنن."
 
 msgctxt "sERROR_HINT_9502"
 msgid ""
@@ -7474,15 +7474,15 @@ msgstr ""
 
 msgctxt "sINBOX_ITEM_HINT_ONE"
 msgid "New message %s ago"
-msgstr ""
+msgstr "پەیامى نوێ %s لەمەوپێش"
 
 msgctxt "sINBOX_ITEM_HINT_MULTIPLE"
 msgid "%d new messages, last activity %s ago"
-msgstr ""
+msgstr "لەمەوپێس s% دواین چالاکى ,پەیامى نوێ d%"
 
 msgctxt "sCONVERSATION_HINT"
 msgid "Last activity %s ago"
-msgstr ""
+msgstr "دوایین چالاکى %s لەمەوپێش"
 
 msgctxt "sCONVERSATION_SPAWNED_CONFERENCE"
 msgid "%s created a group conversation with %s."
@@ -10539,11 +10539,11 @@ msgstr "هەژمارى پڕۆفیشناڵ"
 
 msgctxt "sF_CALL_FAILURE_TITLE"
 msgid "Call phones and mobiles"
-msgstr ""
+msgstr "پەیوەندى تەلەفۆنیەکان و مۆبایلیەکان"
 
 msgctxt "sF_CALL_FAILURE_HEADER"
 msgid "Call phones and mobiles"
-msgstr ""
+msgstr "پەیوەندى تەلەفۆنیەکان و مۆبایلیەکان"
 
 msgctxt "sF_CALL_FAILURE_TEXT1"
 msgid ""
@@ -10557,35 +10557,35 @@ msgstr ""
 
 msgctxt "sF_CALL_FAILURE_CREDIT_TEXT"
 msgid "Pay As You Go"
-msgstr ""
+msgstr "پارەدان بەو شێوەى تۆ دەخوازیت"
 
 msgctxt "sF_CALL_FAILURE_SUBSCRIPTION_TEXT"
 msgid "Pay monthly"
-msgstr ""
+msgstr "پارەدان بەشێوەى مانگانە"
 
 msgctxt "sF_CALL_FAILURE_RATES_PAYG_MINUTE"
 msgid "From %s/min"
-msgstr ""
+msgstr "لەلایەن %s/min"
 
 msgctxt "sF_CALL_FAILURE_RATES_EXCL_VAT"
 msgid "(%s /min incl. VAT)"
-msgstr ""
+msgstr "(%s /min incl. VAT)"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION"
 msgid "From %s for %s"
-msgstr ""
+msgstr "لەلایەن %s بۆ %s"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCR_EXCL_VAT"
 msgid "(%s incl. VAT)"
-msgstr ""
+msgstr "(%s incl. VAT)"
 
 msgctxt "sAVATAR_VIEW_ONE_PERSON"
 msgid "%d person"
-msgstr ""
+msgstr "%d کەسى"
 
 msgctxt "sAVATAR_VIEW_MULTIPLE_PERSONS"
 msgid "%d people"
-msgstr ""
+msgstr "%d خەڵك"
 
 msgctxt "sF_OPTIONS_VIDEO_DISABLED"
 msgid "This feature is disabled by your administrator."
@@ -10597,7 +10597,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_PAYG_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments#skypeout\">کڕینى یەکەى سکایپ</a>"
 
 msgctxt "sCALLPHONES_PAYG_MORE_LNK"
 msgid "<a href=\"skype:?payments#skypeout\">Buy more credit</a>"
@@ -10605,7 +10605,7 @@ msgstr "<a href=\"skype:?payments#skypeout\">یەکەی زیاتر بکڕە</a>"
 
 msgctxt "sCALLPHONES_SUBSCR_CAPTION"
 msgid "Pay monthly from"
-msgstr ""
+msgstr "پارەدان بەشێوەى مانگانە لەلایەن"
 
 msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
 msgid ""
@@ -10647,11 +10647,11 @@ msgstr ""
 
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
-msgstr ""
+msgstr "(%s/min incl. VAT)"
 
 msgctxt "sCALLPHONES_SUBSCR_INC_VAT"
 msgid "(%s incl. VAT)"
-msgstr ""
+msgstr "(%s incl. VAT)"
 
 msgctxt "sCALLPHONES_SUBSCR_EXPIRED"
 msgid "Subscription expired"
@@ -10659,11 +10659,11 @@ msgstr "ئابوونە بەسەرچووە"
 
 msgctxt "sCALLPHONES_SUBSCR_EXPIRING"
 msgid "Expiring soon"
-msgstr ""
+msgstr "بەم نزيكانە بەسەردەچێت"
 
 msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
 msgid "• <a href=\"%s\">Renew</a>"
-msgstr ""
+msgstr "• <a href=\"%s\">نوێ کردنەوە</a>"
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
@@ -10691,7 +10691,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_AUTOCOMPLETE_ITEM"
 msgid "%s (%s: %s)"
-msgstr ""
+msgstr "%s (%s: %s)"
 
 msgctxt "sMENU_EDIT_COLUMN_ACCNAME"
 msgid "Edit"
@@ -10711,7 +10711,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HIDE_FLAMINGO_CONTACTS"
 msgid "Hide Facebook Friends"
-msgstr ""
+msgstr "هاورێیانى فەیسبووک بشارەوە"
 
 msgctxt "sCALLPHONES_PRO_TITLE"
 msgid "Professional account"
@@ -10743,11 +10743,11 @@ msgstr ""
 
 msgctxt "sCALL_POPUP_EDIT_EXTENSION"
 msgid "Choose country code for this phone"
-msgstr ""
+msgstr "کۆدى وەڵات هەڵبژێرە بۆ ئەم تەلەفۆنە"
 
 msgctxt "sF_CALL_FAILURE_CREDIT_INFO_LNK"
 msgid "<a href=\"skype:?go#skypecredit\">What's Skype Credit?</a>"
-msgstr ""
+msgstr "<a href=\"skype:?go#skypecredit\">یەکەى سکایپ چیە؟</a>"
 
 msgctxt "sLIVE_CONV_VOICEMAIL_RECORDING"
 msgid "Recording voice message %s"
@@ -10755,15 +10755,15 @@ msgstr ""
 
 msgctxt "sFLAMINGO_EASY_TO_CONNECT"
 msgid "We've made it easy to message your Facebook friends."
-msgstr ""
+msgstr "پەیوەندى کردنت بە هاوڕێیانى فەیسبووک. ئێمە ئەومان بۆت ئاسان کردوە "
 
 msgctxt "sFLAMINGO_PROBLEM_CONNECTTING"
 msgid "There's a problem connecting you to Facebook."
-msgstr ""
+msgstr "کێشەیەک ڕوویدا لە بەستنەوەى هەژمارەکەت بە فەیسبووک."
 
 msgctxt "sLIVE_VIDEO_OFF"
 msgid "Your video is turned off"
-msgstr ""
+msgstr "ڤیدیۆکەت کووژاوەتەوە"
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add, send and share..."
@@ -10771,25 +10771,25 @@ msgstr "زیادکردن, ناردن و هاوبەشپێکردن..."
 
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
-msgstr ""
+msgstr "بژاردەى شاشە بۆ ئەم پەیوەندیە"
 
 msgctxt "sMESSAGE_TO_FLAMINGO_NOT_DELIVERED"
 msgid "Your friend is now offline. They may not have received this message."
-msgstr ""
+msgstr "هاوڕێکەت ئێستا دەرهێلە . لەوانە نييە پەیامەکەى پێگەیشتبێت"
 
 msgctxt "sFLAMINGO_CONNECTING"
 msgid "Connecting..."
-msgstr ""
+msgstr "...پەیوەندیکردن"
 
 msgctxt "sFLAMINGO_OTHER_ERROR"
 msgid ""
 "Your list of friends isn't available right now. Try reconnecting to "
 "Facebook."
-msgstr ""
+msgstr "لیستى هاوڕێیانت بەردەست نیە لە ئێستادا. هەوڵبدە هەژمارەکەت بە فەیسبووکەکەت ببەستیتەوە."
 
 msgctxt "sFLAMINGO_DISABLED"
 msgid "You're not able to see Facebook friends in Skype at the moment."
-msgstr ""
+msgstr "لە ئێستا ناتوانى هاوڕێیانى فەیسبووک لە ناو سکایپ ببینیت."
 
 msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
 msgid ""
@@ -10802,7 +10802,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_PHONE_EDIT_CLEAR_HINT"
 msgid "Clear number"
-msgstr ""
+msgstr "Clear number"
 
 msgctxt "sCALLPHONES_PHONE_EDIT_RECENT_HINT"
 msgid "Recent numbers"
@@ -10810,11 +10810,11 @@ msgstr "ژمارە تازەکان"
 
 msgctxt "sERROR_CLIPBOARD_TITLE"
 msgid "Cannot open clipboard"
-msgstr ""
+msgstr "Cannot open clipboard"
 
 msgctxt "sERROR_CLIPBOARD_SUBTITLE"
 msgid "Cannot open clipboard"
-msgstr ""
+msgstr "Cannot open clipboard"
 
 msgctxt "sERROR_CLIPBOARD_TEXT"
 msgid ""

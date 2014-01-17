@@ -2,13 +2,13 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # bjorni <bjorn.svindseth@online.no>, 2013
-# bjorni <bjorn.svindseth@online.no>, 2013
+# bjorni <bjorn.svindseth@online.no>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-12-18 12:53+0000\n"
+"PO-Revision-Date: 2014-01-07 15:43+0000\n"
 "Last-Translator: bjorni <bjorn.svindseth@online.no>\n"
 "Language-Team: Norwegian Nynorsk (http://www.transifex.com/projects/p/skype-translation-project/language/nn/)\n"
 "MIME-Version: 1.0\n"
@@ -11625,7 +11625,7 @@ msgstr "Tryggingsnummer:"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_AUTORECHARGE"
 msgid "Enable auto-recharge"
-msgstr ""
+msgstr "Slå på auto-påfyll"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_TOS"
 msgid "I agree to Skype's <a href=\"%s\">Terms of Use</a>"
@@ -11771,7 +11771,7 @@ msgstr "Kople frå"
 
 msgctxt "sSKYPEWIFI_ONLINE_REMAINING"
 msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr ""
+msgstr "{MINUTES_REMAINING} minutt står att"
 
 msgctxt "sSKYPEWIFI_ONLINE_REMAINING_ONE"
 msgid "1 minute remaining"
@@ -11949,7 +11949,7 @@ msgstr "Namn, Skype-namn eller e-post"
 
 msgctxt "sUPSELL_PANEL_MESSAGE"
 msgid "<a href=\"x\">Do even more</a> when you're both on Skype."
-msgstr ""
+msgstr "<a href=\"x\">Gjer endå meir</a> når dokker begge er på Skype."
 
 msgctxt "sUPSELL_PANEL_POPUP_SEARCHFRIEND"
 msgid "Search for <a href=\"x\">%s</a> on Skype."
@@ -12041,11 +12041,11 @@ msgctxt "sSMS_VERIFY_NUMBER_PROMPT"
 msgid ""
 "To send SMS to this number, you need to <a "
 "href=\"skype:?options#sms\">verify your mobile number</a>."
-msgstr ""
+msgstr "For å sende SMS til dette nummeret, må du <a href=\"skype:?options#sms\">stadfeste mobilnummeret ditt</a>."
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
-msgstr ""
+msgstr "Hei %s, eg vil gjerne leggje deg til som ein kontakt."
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER"
 msgid "Add number"
@@ -12075,7 +12075,7 @@ msgctxt "sMSN_UPSELL_PANEL_MESSAGE"
 msgid ""
 "%s isn’t using Skype. Help them download it now. <a href=\"x\">Learn "
 "more.</a>"
-msgstr ""
+msgstr "%s brukar ikkje Skype. Hjelp han/henne med å laste ned no. <a href=\"x\">Finn ut meir.</a>"
 
 msgctxt "sMSN_UPSELL_PANEL_POPUP_MESSAGE"
 msgid ""
