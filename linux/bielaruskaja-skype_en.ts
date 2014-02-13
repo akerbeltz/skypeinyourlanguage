@@ -1,38 +1,38 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="nn" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="be" version="2.0">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>API</name>
     <message>
         <source>Skype API Authorisation Request</source>
-        <translation type="unfinished"/>
+        <translation>Skype API Запыт Аўтарызацыі</translation>
     </message>
     <message>
         <source>Another program wants to use Skype</source>
-        <translation type="unfinished"/>
+        <translation>Іншая праграма жадае ўжыць Skype</translation>
     </message>
     <message>
         <source>A program &quot;%1&quot; is trying to connect to Skype. Do you want to allow it?</source>
-        <translation type="unfinished"/>
+        <translation>Праграма &quot;%1&quot; спрабуе далучыцца да Skype. Жадаеце дазволіць?</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>Публічныя API</translation>
     </message>
     <message>
         <source>Allowed programs:</source>
-        <translation type="unfinished"/>
+        <translation>Дазволеныя праграмы:</translation>
     </message>
     <message>
         <source>Blocked programs:</source>
-        <translation type="unfinished"/>
+        <translation>Блакаваныя праграмы:</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Выдаліць</translation>
     </message>
     <message>
         <source>Enabled transports:</source>
-        <translation type="unfinished"/>
+        <translation>Уключаныя транспарты:</translation>
     </message>
     <message>
         <source>X11</source>
@@ -44,52 +44,52 @@
     </message>
     <message>
         <source>Session</source>
-        <translation>Økt</translation>
+        <translation>Сесія</translation>
     </message>
     <message>
         <source>System</source>
-        <translation>System</translation>
+        <translation>Сістэма</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Standard</translation>
+        <translation>Па-змоўчванню</translation>
     </message>
     <message>
         <source>UNIX domain socket</source>
-        <translation type="unfinished"/>
+        <translation>UNIX domain socket</translation>
     </message>
     <message>
         <source>TCP network socket</source>
-        <translation type="unfinished"/>
+        <translation>TCP network socket</translation>
     </message>
     <message>
         <source>Enable networked TCP socket</source>
-        <translation type="unfinished"/>
+        <translation>Уключыць сеткавы TCP socket</translation>
     </message>
     <message>
         <source>Bus:</source>
-        <translation type="unfinished"/>
+        <translation>Шына:</translation>
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
-        <translation type="unfinished"/>
+        <translation>Дазволіць доступ да Skype API праз сеціва небяспечна. Рабіце&lt;br&gt;гэта толькі ў кантраляваным асяроддзі і ніколі праз інтернэт.&lt;br&gt;Skype не набяспечвае ніякіх гарантый бяспекі, калі ўключаны сеткавы &lt;br&gt;TCP socket, бо праз камунікацыйны канал перадаецца нешыфраваны тэкст.</translation>
     </message>
 </context>
 <context>
     <name>About</name>
     <message>
         <source>Version</source>
-        <translation>Versjon</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <source>Warning: This program is protected by copyright law and international treaties.</source>
         <comment>sF_ABOUT_WARNING_1</comment>
-        <translation type="unfinished"/>
+        <translation>Увага: Гэтая праграма ахоўваецца законам аб аўтарскіх правах і міжнароднымі дамовамі.</translation>
     </message>
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>sF_ABOUT_WARNING_2</comment>
-        <translation type="unfinished"/>
+        <translation>Неаўтарызаванае множанне ці распаўсюджванне гэтай праграмы, ці яе частак, можа выклікаць адміністратыўнае ці крымінальнае пакаранне і будзе пераследвацца па ўсёй строгасці ў адпаведнасці з законам.</translation>
     </message>
     <message>
         <source>Patents Pending</source>
@@ -111,7 +111,7 @@
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation>Legg til deltakarar</translation>
+        <translation>Дадаць удзельніка</translation>
     </message>
     <message>
         <source>Add, send and share...</source>
@@ -119,11 +119,11 @@
     </message>
     <message>
         <source>End call</source>
-        <translation>Avslutt samtale</translation>
+        <translation>Скончыць званок</translation>
     </message>
     <message>
         <source>Show chat</source>
-        <translation type="unfinished"/>
+        <translation>Паказаць чат</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
@@ -143,43 +143,43 @@
     </message>
     <message>
         <source>Exit fullscreen</source>
-        <translation>Avslutt fullskjerm</translation>
+        <translation>Выйсці з поўнага экрана</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation>Fullskjerm</translation>
+        <translation>Поўны Экран</translation>
     </message>
     <message>
         <source>Turn off video</source>
-        <translation>Slå av video</translation>
+        <translation>Выключыць відэа</translation>
     </message>
     <message>
         <source>Turn on video</source>
-        <translation>Slå på video</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send File...</source>
-        <translation>Send fil …</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Contacts...</source>
-        <translation>Send kontaktar …</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation>Stopp deling</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share screens</source>
-        <translation>Del skjermar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation>Legg til personar i denne samtalen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click this button to resume the call.</source>
-        <translation>Trykk på denne knappen for å fortsete samtalen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Selection</source>
@@ -190,12 +190,12 @@
     <name>CallView</name>
     <message>
         <source>Call with %1</source>
-        <translation>Samtale med %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation>Samtaleteknisk Info</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Held remotely</source>
@@ -203,54 +203,54 @@
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation>Samtale på vent</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Calls</name>
     <message>
         <source>Answer Call</source>
-        <translation>Svar på oppringing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject Call</source>
-        <translation>Avvis oppringing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore Call</source>
-        <translation>Oversjå oppringing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call with %1</source>
-        <translation>Samtale med %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Call</source>
-        <translation>Start samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hold Call</source>
-        <translation>Set samtale på vent</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation>Fortset samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hangup</source>
-        <translation>Legg på</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation>Inviter til konferanse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call %1</source>
-        <translation>Samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation>Tid: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ca&amp;ll</source>
@@ -258,31 +258,31 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Legg til</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Do not add</source>
-        <translation>&amp;Ikkje legg til</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation>Kontaktar i lista di</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts to call</source>
-        <translation>Kontaktar å ringje</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type a number to call</source>
-        <translation>Tast eit nummer for å ringje</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation>Koplar til …</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Problem with Audio Capture</source>
@@ -294,15 +294,15 @@
     </message>
     <message>
         <source>Call Failed</source>
-        <translation>Mislykka oppringing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ringing...</source>
-        <translation>Ringjer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Finished</source>
-        <translation>Samtale avslutta</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Missed</source>
@@ -310,11 +310,11 @@
     </message>
     <message>
         <source>Call Refused</source>
-        <translation>SamtaleOppringing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Busy</source>
-        <translation>Opptatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Dropped</source>
@@ -326,35 +326,35 @@
     </message>
     <message>
         <source>and %1</source>
-        <translation>og %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 is calling you</source>
-        <translation>%1 ringjer deg</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
-        <translation>Ein ukjend kontakt ringjer deg</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page %1</source>
-        <translation>Side %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation>%1 pr. minutt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation>Ikkje nok kreditt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid Number</source>
-        <translation>Ugyldig nummer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation>Ring til telefonar eller send SMS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call</source>
@@ -362,15 +362,15 @@
     </message>
     <message>
         <source>Send SMS</source>
-        <translation>Send SMS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Call</source>
-        <translation>Skype-samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Transfer to...</source>
-        <translation>Overfør til …</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
@@ -394,7 +394,7 @@
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>Greier ikkje å kople til</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Problem with legacy client</source>
@@ -402,11 +402,11 @@
     </message>
     <message>
         <source>Join call</source>
-        <translation>Ver med i samtalen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>End call</source>
-        <translation>Avslutt samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Place a Call</source>
@@ -414,31 +414,31 @@
     </message>
     <message>
         <source>Join Call</source>
-        <translation>Ver med i samtalen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hang up</source>
-        <translation>Legg på</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite to Conference call</source>
-        <translation>Inviter til konferansesamtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are receiving a conference call from %1 %2</source>
-        <translation>Du tek imot ein konferansesamtale frå %1 %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Join Conference Call</source>
-        <translation>Ver med i konferansesamtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Conference Call with Selected Contacts</source>
-        <translation>Start konferansesamtale med valde kontraktar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite Selected Contacts to Conference Call</source>
-        <translation>Inviter valde kontaktar til konferansesamtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
@@ -477,19 +477,19 @@
     </message>
     <message>
         <source>%1 user(s)</source>
-        <translation>%1 brukar(ar)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No recent messages.</source>
-        <translation>Ingen meldingar.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 and %2 are writing...</source>
-        <translation>%1 og %2 skriv …</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 is writing...</source>
-        <translation>%1 skriv …</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -532,23 +532,23 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Legg til</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Ta bort</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation>Vel kontaktar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat participants</source>
@@ -572,36 +572,36 @@
     </message>
     <message>
         <source>Last 24 Hours</source>
-        <translation>Siste døgn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last 7 Days</source>
-        <translation>Siste 7 dagar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last 14 Days</source>
-        <translation>Siste 14 dagar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last 30 Days</source>
-        <translation>Siste 30 dagar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Forever</source>
-        <translation>For alltid</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Emoticons</source>
-        <translation>Kjensleikon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find</source>
-        <translation>Finn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 / %2</source>
         <comment>Progress / Total</comment>
-        <translation>%1/%2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you leave this chat, you will no longer receive any new messages from the chat.  Are you really sure you want to leave the chat?</source>
@@ -630,7 +630,7 @@
     <message>
         <source>Information</source>
         <comment>sF_INFORM_DEFAULT_CAPTION</comment>
-        <translation>Informasjon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
@@ -676,31 +676,31 @@
     </message>
     <message>
         <source>Copy Selected Text</source>
-        <translation>Kopier vald tekst</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Link</source>
-        <translation>Opne lenkje</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation>Kopier lenkjeadresse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation>Vel emne</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Picture</source>
-        <translation>Vel bilde</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation>Fjern bilde</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Loading Image Error!</source>
-        <translation>Bildelastingsfeil!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
@@ -718,7 +718,7 @@ Please use a smaller size image!</source>
     </message>
     <message>
         <source>Internal Error!</source>
-        <translation>Intern feil!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The selected image file could not be set as a chat picture.
@@ -748,15 +748,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Images</source>
-        <translation>Bilde</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Alle filer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please select a file.</source>
-        <translation>Vel ei fil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This message has been removed by you.</source>
@@ -772,15 +772,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Find Again</source>
-        <translation>Finn igjen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>Rediger melding</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Message</source>
-        <translation>Fjern melding</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right click here to set/unset the chat picture.</source>
@@ -788,11 +788,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename Group</source>
-        <translation>Gje nytt namn til gruppe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Group</source>
-        <translation>Slett gruppe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This message has been edited by %1 at %2</source>
@@ -812,7 +812,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unsubscribed</source>
-        <translation>Avmeldt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown reason</source>
@@ -860,15 +860,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Favorittar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recent</source>
-        <translation>Siste</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Phones</source>
-        <translation>Ring til telefonar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 - %2</source>
@@ -987,37 +987,37 @@ Please use a different image file!</source>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n month(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n week(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n day(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n hour(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n minute(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n second(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Conference call, duration %1.</source>
@@ -1478,7 +1478,7 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
@@ -2357,15 +2357,15 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>Clear %n Received File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Sent File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Failed File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
@@ -2481,15 +2481,15 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>%n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Accept %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Decline %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Incoming file from %1 isn&apos;t available yet</source>
@@ -2860,7 +2860,7 @@ Please try again later.</source>
     </message>
     <message numerus="yes">
         <source>%n new event(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>All Contacts</source>
@@ -3006,7 +3006,7 @@ Please try again later.</source>
     <message numerus="yes">
         <source>%n subscription(s)</source>
         <comment>This appears in case of account having subscriptions</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Messenger Contacts</source>
@@ -3973,15 +3973,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>SMS:</source>
-        <translation>SMS:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other</source>
-        <translation>Anna</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation>Send SMS-melding</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4016,11 +4016,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation>Vel nettkamera:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No devices found</source>
-        <translation>Fann inga eining</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable Auto-Exposure (darker video, higher frame rate)</source>
@@ -4031,11 +4031,11 @@ when I am in a call</source>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation>Spel av helsing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation>Spel inn ny helsing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restore Default Greeting</source>
@@ -4043,11 +4043,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
-        <translation>Lengd: %1 sekund</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>seconds</source>
-        <translation> sekund</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I reject an incoming call</source>
@@ -4055,7 +4055,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>I am already on a call</source>
-        <translation>Eg er allereie i ein samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop Greeting Playback</source>
@@ -4063,7 +4063,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation>Avslutt innspeling</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I do not answer within</source>
@@ -4071,15 +4071,15 @@ when I am in a call</source>
     </message>
     <message>
         <source>Voice messaging is activated </source>
-        <translation>Talemelding er slått på</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice messaging is not activated</source>
-        <translation>Talemelding er ikkje slått på</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Voice message</source>
-        <translation>Send talemelding</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My voice message greeting</source>
@@ -4117,7 +4117,7 @@ Personalize your voice message greeting, save messages to listen to again, and l
     </message>
     <message>
         <source>Stop playback</source>
-        <translation>Stopp avspeling</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable voice messaging</source>

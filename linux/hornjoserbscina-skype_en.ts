@@ -1477,7 +1477,7 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message>
         <source>Echo Test Service</source>
-        <translation type="unfinished"/>
+        <translation>Echo Test Service</translation>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
@@ -2544,7 +2544,7 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     <message>
         <source>&amp;Match whole word only</source>
         <comment>sF_FIND_WHOLE_WORDS</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Jenož cyłe słowo</translation>
     </message>
     <message>
         <source>M&amp;atch case</source>
@@ -2776,7 +2776,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Add or Search for Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Skype-kontakty přidać abo pytać</translation>
     </message>
     <message>
         <source>Main Menu</source>
@@ -3214,15 +3214,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Display an event notification</source>
-        <translation type="unfinished"/>
+        <translation>Podawkowu zdźělenku zwobraznić</translation>
     </message>
     <message>
         <source>Create a minimised chat window</source>
-        <translation type="unfinished"/>
+        <translation>Miniměrowane chatowe wokno wutworić</translation>
     </message>
     <message>
         <source>Open a chat window in front of me</source>
-        <translation type="unfinished"/>
+        <translation>Chatowe wokno wočinić</translation>
     </message>
     <message>
         <source>Show emoticons</source>
@@ -3234,7 +3234,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show others when I am typing</source>
-        <translation type="unfinished"/>
+        <translation>Druhim pokazać, hdyž pisam</translation>
     </message>
     <message>
         <source>With call forwarding, you can answer your Skype calls even when you&apos;re not currently online.</source>
@@ -3258,11 +3258,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>sekundow</translation>
     </message>
     <message>
         <source>Ringing</source>
-        <translation type="unfinished"/>
+        <translation>Zwonjenje</translation>
     </message>
     <message>
         <source>Make a test sound</source>
@@ -3482,7 +3482,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Pressing Enter will...</source>
-        <translation type="unfinished"/>
+        <translation>Tłóčenje zapodawanskeje tasty budźe...</translation>
     </message>
     <message>
         <source>Insert line break</source>
@@ -3873,15 +3873,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>SMS message to %1 is sent</source>
-        <translation type="unfinished"/>
+        <translation>SMS-powěsć na %1 je so pósłała</translation>
     </message>
     <message>
         <source>SMS message to %1 is failed</source>
-        <translation type="unfinished"/>
+        <translation>SMS-powěsć na %1 njeje so pósłała</translation>
     </message>
     <message>
         <source>Unknown SMS event</source>
-        <translation type="unfinished"/>
+        <translation>Njeznaty SMS-podawk</translation>
     </message>
     <message>
         <source>Mobile</source>
@@ -3901,11 +3901,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connection to server failed.</source>
-        <translation type="unfinished"/>
+        <translation>Zwisk ze serwerom njeje so poradźił.</translation>
     </message>
     <message>
         <source>No SMS capability.</source>
-        <translation type="unfinished"/>
+        <translation>Njeje móžnosć SMS pósłać.</translation>
     </message>
     <message>
         <source>No credit to pay for SMS.</source>
@@ -3913,19 +3913,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Invalid confirmation code.</source>
-        <translation type="unfinished"/>
+        <translation>Njepłaćiwy wobkrućenski kod.</translation>
     </message>
     <message>
         <source>User is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Wužiwar je zablokowany.</translation>
     </message>
     <message>
         <source>IP address is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>IP-adresa je zablokowana,</translation>
     </message>
     <message>
         <source>Node is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Suk je zablokowany.</translation>
     </message>
     <message>
         <source>No user id capability.</source>
@@ -3933,7 +3933,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Njeznaty zmylk.</translation>
     </message>
     <message>
         <source>To: %1</source>
@@ -3961,11 +3961,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>You need Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>Tjrebaće Skype-dobroměće, zo byšće tekstowe powěsće (SMS) pósłał</translation>
     </message>
     <message>
         <source>You don&apos;t have enough Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>Nimaće dosć Skype-dobroměća, zo byšće tekstowe powěsće (SMS) pósłał</translation>
     </message>
     <message>
         <source>None of the intended recipients has a mobile phone number saved in their profile. Please view profiles individually to add a number.</source>
@@ -3974,30 +3974,30 @@ Please try again later.</source>
     <message>
         <source>Message is received.</source>
         <comment>This is for the future 2-way SMS feature. The string indicates that an SMS has been received in Skype</comment>
-        <translation type="unfinished"/>
+        <translation>Powěsć je přijata.</translation>
     </message>
     <message>
         <source>SMS:</source>
-        <translation type="unfinished"/>
+        <translation>SMS:</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Druhe</translation>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation type="unfinished"/>
+        <translation>SMS-powěsć pósłać</translation>
     </message>
 </context>
 <context>
     <name>TopicContainer</name>
     <message>
         <source>Change Picture...</source>
-        <translation type="unfinished"/>
+        <translation>Wobraz změnić...</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation type="unfinished"/>
+        <translation>Wobraz wotstronić</translation>
     </message>
 </context>
 <context>
@@ -4012,7 +4012,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Enable Skype Video</source>
-        <translation type="unfinished"/>
+        <translation>Skype-widejo zmóžnić</translation>
     </message>
     <message>
         <source>Start my video automatically
@@ -4021,11 +4021,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation type="unfinished"/>
+        <translation>Webcam wubrać:</translation>
     </message>
     <message>
         <source>No devices found</source>
-        <translation type="unfinished"/>
+        <translation>Žane graty namakane</translation>
     </message>
     <message>
         <source>Disable Auto-Exposure (darker video, higher frame rate)</source>
@@ -4048,19 +4048,19 @@ when I am in a call</source>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
-        <translation type="unfinished"/>
+        <translation>Traće: %1 sekundow</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>sekundow</translation>
     </message>
     <message>
         <source>I reject an incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Wotpokazuju dochadźace zawołanje</translation>
     </message>
     <message>
         <source>I am already on a call</source>
-        <translation type="unfinished"/>
+        <translation>Ja hižo telefonuju</translation>
     </message>
     <message>
         <source>Stop Greeting Playback</source>

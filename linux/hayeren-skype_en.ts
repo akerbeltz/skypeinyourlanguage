@@ -230,7 +230,7 @@
     </message>
     <message>
         <source>Hold Call</source>
-        <translation type="unfinished"/>
+        <translation>Սպասազանգ</translation>
     </message>
     <message>
         <source>Resume Call</source>

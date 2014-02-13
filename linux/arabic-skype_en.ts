@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Calling rates</source>
-        <translation type="unfinished"/>
+        <translation>أسعار المكالمة</translation>
     </message>
     <message>
         <source>and %1</source>
@@ -1230,7 +1230,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>View Profile</source>
-        <translation type="unfinished"/>
+        <translation>عرض ملف التعريف</translation>
     </message>
     <message>
         <source>Click this button to view this contact&apos;s profile.</source>
@@ -1498,7 +1498,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact Options</source>
-        <translation type="unfinished"/>
+        <translation>خيارات جهات الاتصال</translation>
     </message>
     <message>
         <source>Phone number</source>
@@ -1506,7 +1506,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 (%2) - %3 since %4</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2) - %3 منذ %4</translation>
     </message>
     <message>
         <source>&lt;br&gt;
@@ -1556,7 +1556,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>موافق</translation>
     </message>
     <message>
         <source>Create Group</source>
@@ -1669,11 +1669,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>All Ages</source>
-        <translation type="unfinished"/>
+        <translation>كل الأعمار</translation>
     </message>
     <message>
         <source>State/Province</source>
-        <translation type="unfinished"/>
+        <translation>المنطقة/المقاطعة</translation>
     </message>
     <message>
         <source>Do not specify</source>
@@ -1686,7 +1686,7 @@ Please use a different image file!</source>
     <message>
         <source>Full Name</source>
         <comment>Result Table Header: Full Name</comment>
-        <translation type="unfinished"/>
+        <translation>الاسم الكامل</translation>
     </message>
     <message>
         <source>Skype Name</source>
@@ -1760,7 +1760,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Search Again</source>
-        <translation type="unfinished"/>
+        <translation>بحث مرة أخرى</translation>
     </message>
 </context>
 <context>
@@ -1844,7 +1844,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>New Events</source>
-        <translation type="unfinished"/>
+        <translation>أحداث جديدة</translation>
     </message>
     <message>
         <source>Calls</source>
@@ -1852,7 +1852,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>دردشات</translation>
     </message>
     <message>
         <source>File Transfers</source>
@@ -1908,19 +1908,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Test Sound</source>
-        <translation type="unfinished"/>
+        <translation>اختبار الصوت</translation>
     </message>
     <message>
         <source>Skype Login</source>
-        <translation type="unfinished"/>
+        <translation>تسجيل دخول Skype</translation>
     </message>
     <message>
         <source>Skype Logout</source>
-        <translation type="unfinished"/>
+        <translation>تسجيل خروج Skype</translation>
     </message>
     <message>
         <source>Skype Login Failed</source>
-        <translation type="unfinished"/>
+        <translation>فشل تسجيل دخول Skype</translation>
     </message>
     <message>
         <source>Call Connecting</source>
@@ -1944,23 +1944,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة فائتة</translation>
     </message>
     <message>
         <source>Call Failed</source>
-        <translation type="unfinished"/>
+        <translation>فشل المكالمة</translation>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة في الإنتظار</translation>
     </message>
     <message>
         <source>Call Resumed</source>
-        <translation type="unfinished"/>
+        <translation>استئناف مكالمة</translation>
     </message>
     <message>
         <source>Call Waiting</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة بالانتظار</translation>
     </message>
     <message>
         <source>Call Hungup</source>
@@ -1968,7 +1968,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Ended</source>
-        <translation type="unfinished"/>
+        <translation>تم إنهاء المكالمة</translation>
     </message>
     <message>
         <source>First Chat Message Received</source>
@@ -2161,11 +2161,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>قبول</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>رفض</translation>
     </message>
     <message>
         <source>%1 files - %2</source>
@@ -2209,7 +2209,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Failed - %1</source>
-        <translation type="unfinished"/>
+        <translation>فشل -1%</translation>
     </message>
     <message>
         <source>Sending file to %1</source>
@@ -2317,15 +2317,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Accept File</source>
-        <translation type="unfinished"/>
+        <translation>قبول الملف</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"/>
+        <translation>استئناف</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>إيقاف مؤقت</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2333,11 +2333,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>أعد المحاولة</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"/>
+        <translation>مسح الكل</translation>
     </message>
     <message>
         <source>Remove all completed and failed files from the list</source>
@@ -2349,7 +2349,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>مسح</translation>
     </message>
     <message>
         <source>All Inactive Files</source>
@@ -2763,7 +2763,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>مغادرة</translation>
     </message>
     <message>
         <source>Event History</source>
@@ -3113,7 +3113,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>للأبد</translation>
     </message>
     <message>
         <source>2 weeks</source>
@@ -3201,7 +3201,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"/>
+        <translation>تنبيهات صوتية</translation>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
@@ -3257,7 +3257,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Ringing</source>
-        <translation type="unfinished"/>
+        <translation>رنين</translation>
     </message>
     <message>
         <source>Make a test sound</source>
@@ -3297,11 +3297,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>الاتصال</translation>
     </message>
     <message>
         <source>Use port</source>
-        <translation type="unfinished"/>
+        <translation>استخدم المنفذ</translation>
     </message>
     <message>
         <source>for incoming connections</source>
@@ -3321,11 +3321,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>مضيف</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>منفذ</translation>
     </message>
     <message>
         <source>User</source>
@@ -3381,7 +3381,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Select your country</source>
-        <translation type="unfinished"/>
+        <translation>تحديد بلدك</translation>
     </message>
     <message>
         <source>Type your mobile number</source>
@@ -3389,7 +3389,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>تقديم</translation>
     </message>
     <message>
         <source>You will be charged the standard rate for one SMS message.</source>
@@ -3401,7 +3401,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>تأكيد</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;smsrates&quot;&gt;SMS destinations and rates&lt;/a&gt;.</source>
@@ -3409,11 +3409,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"/>
+        <translation>الميكروفون</translation>
     </message>
     <message>
         <source>Speakers</source>
-        <translation type="unfinished"/>
+        <translation>مكبرات الصوت</translation>
     </message>
     <message>
         <source>Choose style: </source>
@@ -3634,7 +3634,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>إرسال</translation>
     </message>
     <message>
         <source>Do not send</source>
@@ -3674,7 +3674,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>قبول</translation>
     </message>
     <message>
         <source>Do not accept</source>
@@ -3773,11 +3773,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"/>
+        <translation>اتصال</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"/>
+        <translation>جاري الإتصال...</translation>
     </message>
     <message>
         <source>Skype WiFi is connecting you to %1</source>
@@ -3785,7 +3785,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"/>
+        <translation>متصل</translation>
     </message>
     <message>
         <source>You are connected to the internet.</source>
@@ -3797,7 +3797,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>المدة: %1</translation>
     </message>
     <message>
         <source>Cost: %1</source>
@@ -3880,19 +3880,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Mobile</source>
-        <translation type="unfinished"/>
+        <translation>المحمول</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>المنزل</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>العمل</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>إرسال رسالة نصية قصيرة</translation>
     </message>
     <message>
         <source>Connection to server failed.</source>
@@ -3928,11 +3928,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>خطأ غير معروف.</translation>
     </message>
     <message>
         <source>To: %1</source>
-        <translation type="unfinished"/>
+        <translation>إلى: 1%</translation>
     </message>
     <message>
         <source>To: Mobile %1</source>
@@ -3956,7 +3956,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>You need Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>تحتاج إلى رصيد Skype لإرسال رسائل (SMS)</translation>
     </message>
     <message>
         <source>You don&apos;t have enough Skype Credit to send text messages (SMS)</source>
@@ -3977,22 +3977,22 @@ Please try again later.</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>أخرى</translation>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation type="unfinished"/>
+        <translation>أرسل رسالة SMS</translation>
     </message>
 </context>
 <context>
     <name>TopicContainer</name>
     <message>
         <source>Change Picture...</source>
-        <translation type="unfinished"/>
+        <translation>تغيير صورة...</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation type="unfinished"/>
+        <translation>إزالة الصورة</translation>
     </message>
 </context>
 <context>

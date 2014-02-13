@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>Allowed programs:</source>
-        <translation>Programe e lejuara:</translation>
+        <translation>Programet e lejuara:</translation>
     </message>
     <message>
         <source>Blocked programs:</source>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>Heq</translation>
+        <translation>Largo</translation>
     </message>
     <message>
         <source>Enabled transports:</source>
@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>Session</source>
-        <translation>Seanca</translation>
+        <translation>Seancë</translation>
     </message>
     <message>
         <source>System</source>
@@ -99,7 +99,7 @@
     <message>
         <source>The Skype name, associated trademarks and logos and the &quot;S&quot; logo are trademarks of Skype or related entities.</source>
         <comment>sF_ABOUT_COPYRIGHT_1_3</comment>
-        <translation>Emri Skype, me markat tregtare dhe stemat dhe stemën &quot;S&quot; të shoqëruara  janë marka tregtare të Skype dhe palëve të ndërlidhura.</translation>
+        <translation>Emri Syke, i shoqëruar me markat tregtare dhe stemat dhe stemën &quot;S&quot; janë marka tregtare të Skype ose entitete të lidhura.</translation>
     </message>
     <message>
         <source>Copyright 2003-2013 Skype and/or Microsoft</source>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Show chat</source>
-        <translation>Shfaq bisedën</translation>
+        <translation>Shfaq bisedimin</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>Unmute your microphone</source>
-        <translation>Ç&apos;heshte mikrofonin tuaj</translation>
+        <translation>Hap mikrofonin tuaj</translation>
     </message>
     <message>
         <source>Mute your microphone</source>
@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation>Shto njerëz në këtë thirrje</translation>
+        <translation>Shto njerëz në Këtë thirrje</translation>
     </message>
     <message>
         <source>Click this button to resume the call.</source>
@@ -342,11 +342,11 @@
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation>%1 për munutë</translation>
+        <translation>%1 për minutë</translation>
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation>kredi të pamjaftueshme</translation>
+        <translation>Kredi të pamjaftueshme</translation>
     </message>
     <message>
         <source>Invalid Number</source>
@@ -473,7 +473,7 @@
     </message>
     <message>
         <source>Open Chat</source>
-        <translation>Hap Bisedën</translation>
+        <translation>Hap Bisedimin</translation>
     </message>
     <message>
         <source>%1 user(s)</source>
@@ -504,485 +504,489 @@
     </message>
     <message>
         <source>Chat window control toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Shiriti i veglave kontrollues i dritares së bisedimit</translation>
     </message>
     <message>
         <source>Start Chat</source>
-        <translation type="unfinished"/>
+        <translation>Nis Bisedimin</translation>
     </message>
     <message>
         <source>Open Chat</source>
-        <translation type="unfinished"/>
+        <translation>Hap bisedimin</translation>
     </message>
     <message>
         <source>Unbookmark Chat</source>
-        <translation type="unfinished"/>
+        <translation>Ç&apos;referencoje Bisedimin</translation>
     </message>
     <message>
         <source>Bookmark Chat</source>
-        <translation type="unfinished"/>
+        <translation>Referencoje Bisedimin</translation>
     </message>
     <message>
         <source>Start Chat with Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Nis Bisedimin me Kontatet e përzgjedhura</translation>
     </message>
     <message>
         <source>Add to Chat</source>
-        <translation type="unfinished"/>
+        <translation>Shto në Bisedim</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mirë</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anulo</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Shto</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Largo</translation>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation type="unfinished"/>
+        <translation>Përzgjidh kontaktet</translation>
     </message>
     <message>
         <source>Chat participants</source>
-        <translation type="unfinished"/>
+        <translation>Pjesëmarrësit e Bisedimit</translation>
     </message>
     <message>
         <source>Adding users failed</source>
-        <translation type="unfinished"/>
+        <translation>Shtimi i përdoruesve dështoi</translation>
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
-        <translation type="unfinished"/>
+        <translation>Nuk arritëm t&apos;i shtojmë disa përdorues në bisedim</translation>
     </message>
     <message>
         <source>Load previous history from the chat</source>
-        <translation type="unfinished"/>
+        <translation>Ngarko historinë paraprake nga bisedimi</translation>
     </message>
     <message>
         <source>Leave Chat</source>
-        <translation type="unfinished"/>
+        <translation>Braktis Bisedimin</translation>
     </message>
     <message>
         <source>Last 24 Hours</source>
-        <translation type="unfinished"/>
+        <translation>24 orët e fundit</translation>
     </message>
     <message>
         <source>Last 7 Days</source>
-        <translation type="unfinished"/>
+        <translation>7 ditët e fundit</translation>
     </message>
     <message>
         <source>Last 14 Days</source>
-        <translation type="unfinished"/>
+        <translation>14 ditët e fundit</translation>
     </message>
     <message>
         <source>Last 30 Days</source>
-        <translation type="unfinished"/>
+        <translation>30 ditët e fundit</translation>
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>Përherë</translation>
     </message>
     <message>
         <source>Emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Emotikonët</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Gjej</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <comment>Progress / Total</comment>
-        <translation type="unfinished"/>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>If you leave this chat, you will no longer receive any new messages from the chat.  Are you really sure you want to leave the chat?</source>
-        <translation type="unfinished"/>
+        <translation>Nëse ju e lëni këtë bisedim ju nuk do të pranoni më mesazhe të reja nga bisedimi. A jeni me të vërtetë të sigurtë që doni ta lëni bisedimin?</translation>
     </message>
     <message>
         <source>Click here to hide members of this chat</source>
-        <translation type="unfinished"/>
+        <translation>Kliko këtu që të fshehni anëtarët e këtij bisedimi</translation>
     </message>
     <message>
         <source>Click here to show members of this chat</source>
-        <translation type="unfinished"/>
+        <translation>Kliko këtu që të shfaqësh anëtarët e këtij bisedimi</translation>
     </message>
     <message>
         <source>invited %1</source>
-        <translation type="unfinished"/>
+        <translation>e ftoi %1</translation>
     </message>
     <message>
         <source>has changed the chat topic to &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>%s ka ndryshuar temën e bisedimit në &quot;%1&quot;</translation>
     </message>
     <message>
         <source>kicked %1 from the chat.</source>
-        <translation type="unfinished"/>
+        <translation>dëboi %1 nga bisedimi.</translation>
     </message>
     <message>
         <source>Information</source>
         <comment>sF_INFORM_DEFAULT_CAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Informatë</translation>
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation type="unfinished"/>
+        <translation>Nuk mund ta gjejë &quot;%1&quot; në bisedë (ju mund të dëshironi që së pari të shfaqni mesazhet paraprake)</translation>
     </message>
     <message>
         <source>Cannot find more occurences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation type="unfinished"/>
+        <translation>Nuk mund të gjejë më tepër gjetje të &quot;%1&quot; në bisedim (ju mund të dëshironi që së pari të shfaqni mesazhet paraprake)</translation>
     </message>
     <message>
         <source>Double-click here to set chat topic.</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation type="unfinished"/>
+        <translation>Kliko dy herë që ta caktoni temën e bisedimit.</translation>
     </message>
     <message>
         <source>Double-click here to set chat topic</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation type="unfinished"/>
+        <translation>Kliko dy herë që ta caktoni temën e bisedimit.</translation>
     </message>
     <message>
         <source>Chat with %1</source>
-        <translation type="unfinished"/>
+        <translation>Bisedo me %1</translation>
     </message>
     <message>
         <source>%1 has joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 iu bashkëngjit bisedimit</translation>
     </message>
     <message>
         <source>%1 new members were added to the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 anëtarë të rinj ishin shtuar në bisedim</translation>
     </message>
     <message>
         <source>%1 has left the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 e braktisi bisedimin</translation>
     </message>
     <message>
         <source>%1 has set the topic to %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 ka vënë temën e bisedimit në &quot;%2&quot;</translation>
     </message>
     <message>
         <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
+        <translation>Ky mesazh ende nuk është dërguar.</translation>
     </message>
     <message>
         <source>Copy Selected Text</source>
-        <translation type="unfinished"/>
+        <translation>Kopjo përzgjedhjen</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation type="unfinished"/>
+        <translation>Hap vjegëzën</translation>
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation type="unfinished"/>
+        <translation>Kopjo lokacionin e vjegëzës</translation>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation type="unfinished"/>
+        <translation>Cakto temën</translation>
     </message>
     <message>
         <source>Set Picture</source>
-        <translation type="unfinished"/>
+        <translation>Vë fotografinë</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation type="unfinished"/>
+        <translation>Largo fotografinë</translation>
     </message>
     <message>
         <source>Loading Image Error!</source>
-        <translation type="unfinished"/>
+        <translation>Gabim i ngarkimit të imazhit!</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
 Please select a different image file.</source>
-        <translation type="unfinished"/>
+        <translation>Dështim në kthimin e imazhit të përzgjedhur në formatin e duhur për Skype!
+Të lutem zgjedh një skedar imazh tjetër.</translation>
     </message>
     <message>
         <source>Image Size Error!</source>
-        <translation type="unfinished"/>
+        <translation>Gabim i madhësisë së imazhit!</translation>
     </message>
     <message>
         <source>The image file you have selected is too large!
 Please use a smaller size image!</source>
-        <translation type="unfinished"/>
+        <translation>Skedari imazh që keni zgjedhur është tepër i madh!
+Të lutem përdor një imazh me madhësi më të vogël!</translation>
     </message>
     <message>
         <source>Internal Error!</source>
-        <translation type="unfinished"/>
+        <translation>Gabim i brendshëm!</translation>
     </message>
     <message>
         <source>The selected image file could not be set as a chat picture.
 Please use a different image file!</source>
-        <translation type="unfinished"/>
+        <translation>Skedari imazh i përzgjedhur nuk mund të vendoset si një fotografi të bisedimit.
+Të lutem përdor një skedar imazh tjetër!</translation>
     </message>
     <message>
         <source>Loading Image failure!</source>
-        <translation type="unfinished"/>
+        <translation>Dështim i ngarkimit të imazhit!</translation>
     </message>
     <message>
         <source>File could not be loaded.
  Please try a different a file and also make sure that file has read permission.</source>
-        <translation type="unfinished"/>
+        <translation>Skedari nuk mund të ngarkohet.
+Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë leximi.</translation>
     </message>
     <message>
         <source>joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 iu bashkëngjit bisedimit</translation>
     </message>
     <message>
         <source>left the chat (%1).</source>
-        <translation type="unfinished"/>
+        <translation>e braktisi bisedimin (%1).</translation>
     </message>
     <message>
         <source>has changed the chat guidelines to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>ka ndërruar udhëzimet e bisedimit për &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"/>
+        <translation>Imazhet</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"/>
+        <translation>Të gjithë skedarët</translation>
     </message>
     <message>
         <source>Please select a file.</source>
-        <translation type="unfinished"/>
+        <translation>Të lutem zgjedh një skedar.</translation>
     </message>
     <message>
         <source>This message has been removed by you.</source>
-        <translation type="unfinished"/>
+        <translation>Ky mesazh ka qenë i larguar nga ju.</translation>
     </message>
     <message>
         <source>This message has been removed.</source>
-        <translation type="unfinished"/>
+        <translation>Ky mesazh ka qenë i larguar.</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Përzgjedh të gjitha</translation>
     </message>
     <message>
         <source>Find Again</source>
-        <translation type="unfinished"/>
+        <translation>Gjej përsëri</translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation type="unfinished"/>
+        <translation>Redakto mesazh</translation>
     </message>
     <message>
         <source>Remove Message</source>
-        <translation type="unfinished"/>
+        <translation>Largo mesazh</translation>
     </message>
     <message>
         <source>Right click here to set/unset the chat picture.</source>
-        <translation type="unfinished"/>
+        <translation>Kliko dy herë që ta caktoni/heqni imazhin e bisedimit.</translation>
     </message>
     <message>
         <source>Rename Group</source>
-        <translation type="unfinished"/>
+        <translation>Riemërto grupin</translation>
     </message>
     <message>
         <source>Delete Group</source>
-        <translation type="unfinished"/>
+        <translation>Fshi grupin</translation>
     </message>
     <message>
         <source>This message has been edited by %1 at %2</source>
-        <translation type="unfinished"/>
+        <translation>Ky mesazh ka qenë i redaktuar nga %1 te %2</translation>
     </message>
     <message>
         <source>This message has been edited at %1</source>
-        <translation type="unfinished"/>
+        <translation>Ky mesazh është redaktuar te %1</translation>
     </message>
     <message>
         <source>This message has been removed by %1</source>
-        <translation type="unfinished"/>
+        <translation>Ky mesazh ka qenë i larguar nga %1.</translation>
     </message>
     <message>
         <source>Declined to be added</source>
-        <translation type="unfinished"/>
+        <translation>Refuzuar që të shtohet</translation>
     </message>
     <message>
         <source>Unsubscribed</source>
-        <translation type="unfinished"/>
+        <translation>I ç&apos;abonuar</translation>
     </message>
     <message>
         <source>Unknown reason</source>
-        <translation type="unfinished"/>
+        <translation>Arsye e panjohur</translation>
     </message>
     <message>
         <source>Quote message</source>
-        <translation type="unfinished"/>
+        <translation>Cito mesazhin</translation>
     </message>
     <message>
         <source>This person is using a version of Skype that doesn&apos;t support group chat</source>
-        <translation type="unfinished"/>
+        <translation>Ky person është duke përdorur një version të Skype që nuk e përkrah bisedimin grupor</translation>
     </message>
     <message>
         <source>Only people who have accepted contact request can be added</source>
-        <translation type="unfinished"/>
+        <translation>Vetëm njerëzit që kanë pranuar kërkesën për miqësi mund të shtohen</translation>
     </message>
     <message>
         <source>%1 - Skype™ Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 - Skype™ Chat</translation>
     </message>
     <message>
         <source>Last 6 Months</source>
-        <translation type="unfinished"/>
+        <translation>6 muajt e fundit</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"/>
+        <translation>Viti i fundit</translation>
     </message>
     <message>
         <source>Are you sure you want to call?</source>
-        <translation type="unfinished"/>
+        <translation>A jeni të sigurtë që doni të thirrni?</translation>
     </message>
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
-        <translation type="unfinished"/>
+        <translation>Jeni gati që të bëni një thirrje te %1. A jeni të sigurtë q[ të vazhdoni tutje?</translation>
     </message>
     <message>
         <source>Are you sure you want to leave this chat?</source>
-        <translation type="unfinished"/>
+        <translation>A jeni të sigurtë që doni ta braktisni këtë bisedim?</translation>
     </message>
     <message>
         <source>has changed the chat picture.</source>
-        <translation type="unfinished"/>
+        <translation>ka ndryshuar imazhin e bisedimit.</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Parapëlqimet</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"/>
+        <translation>Të fundmet</translation>
     </message>
     <message>
         <source>Call Phones</source>
-        <translation type="unfinished"/>
+        <translation>Thirr telefonat</translation>
     </message>
     <message>
         <source>%1 - %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Largo nga Parapëlqimet</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Shto te Parapëlqimet</translation>
     </message>
     <message>
         <source>Pop-in chat</source>
         <comment>This command will attach the separate chat window back to the combined/default view of chats. Opposite of Pop-out chat</comment>
-        <translation type="unfinished"/>
+        <translation>Shfaq brenda bisedimin</translation>
     </message>
     <message>
         <source>Pop-out chat</source>
         <comment>This will open the chosen chat in a separate window</comment>
-        <translation type="unfinished"/>
+        <translation>Shfaq jashtë bisedimin</translation>
     </message>
     <message>
         <source>Hide chat</source>
-        <translation type="unfinished"/>
+        <translation>Fsheh bisedimin</translation>
     </message>
     <message>
         <source>Add participants, send files and more</source>
-        <translation type="unfinished"/>
+        <translation>Shto pjesëmarrës, dërgo skedarë dhe më tepër</translation>
     </message>
     <message>
         <source>Send Files</source>
-        <translation type="unfinished"/>
+        <translation>Dërgo skedar</translation>
     </message>
     <message>
         <source>Add people</source>
-        <translation type="unfinished"/>
+        <translation>Shto njerëz</translation>
     </message>
     <message>
         <source>Chat options</source>
-        <translation type="unfinished"/>
+        <translation>Opsionet e bisedimit</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Remove from Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Largoje nga Referencat</translation>
     </message>
     <message>
         <source>Add to Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Shto te Referencat</translation>
     </message>
     <message>
         <source>created a group chat with (%1).</source>
-        <translation type="unfinished"/>
+        <translation>krijoi një bisedim grupor me (%1).</translation>
     </message>
     <message>
         <source>created a group chat.</source>
-        <translation type="unfinished"/>
+        <translation>krijoi një grup bisedimi.</translation>
     </message>
     <message>
         <source>%1 has a birthday.</source>
-        <translation type="unfinished"/>
+        <translation>%1 e ka ditëlindjen.</translation>
     </message>
     <message>
         <source>Call to %1, no answer.</source>
-        <translation type="unfinished"/>
+        <translation>Thirrja te %1, pa përgjigje.</translation>
     </message>
     <message>
         <source>Missed call from %1.</source>
-        <translation type="unfinished"/>
+        <translation>Thirrje e humbur nga  %1.</translation>
     </message>
     <message>
         <source>Call to %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>Thirrja te %1, i/e zënë.</translation>
     </message>
     <message>
         <source>Call from %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>Thirrja te %1, i/e zënë.</translation>
     </message>
     <message>
         <source>Call to %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>Thirrja te %1, kohëzgjatja %2.</translation>
     </message>
     <message>
         <source>Call from %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>Thirrja nga %1, kohëzgjatja %2.</translation>
     </message>
     <message>
         <source>blocked %1 from the chat.</source>
-        <translation type="unfinished"/>
+        <translation>bllokoi %1 nga bisedimi.</translation>
     </message>
     <message>
         <source>sent file %1.</source>
-        <translation type="unfinished"/>
+        <translation>dërgoi skedar %1.</translation>
     </message>
     <message>
         <source>sent files %1.</source>
-        <translation type="unfinished"/>
+        <translation>dërgoi skedar %1.</translation>
     </message>
     <message>
         <source>sent you a voice message.</source>
-        <translation type="unfinished"/>
+        <translation>ju dërgoi një mesazh zanor.</translation>
     </message>
     <message>
         <source>sent a voice message.</source>
-        <translation type="unfinished"/>
+        <translation>dërgoi një mesazh zanor</translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Vendos një thirrje</translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>

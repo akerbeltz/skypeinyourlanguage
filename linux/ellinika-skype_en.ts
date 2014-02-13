@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="nn" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="el" version="2.0">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>API</name>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Αφαίρεση</translation>
     </message>
     <message>
         <source>Enabled transports:</source>
@@ -44,15 +44,15 @@
     </message>
     <message>
         <source>Session</source>
-        <translation>Økt</translation>
+        <translation>Συνεδρία</translation>
     </message>
     <message>
         <source>System</source>
-        <translation>System</translation>
+        <translation>Σύστημα</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Standard</translation>
+        <translation>Προεπιλογή</translation>
     </message>
     <message>
         <source>UNIX domain socket</source>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Bus:</source>
-        <translation type="unfinished"/>
+        <translation>Bus:</translation>
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
@@ -79,7 +79,7 @@
     <name>About</name>
     <message>
         <source>Version</source>
-        <translation>Versjon</translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <source>Warning: This program is protected by copyright law and international treaties.</source>
@@ -104,14 +104,14 @@
     <message>
         <source>Copyright 2003-2013 Skype and/or Microsoft</source>
         <comment>sF_ABOUT_COPYRIGHT_1_1</comment>
-        <translation type="unfinished"/>
+        <translation>Πνευματικά Δικαιώματα 2003-2013 Skype και/ή Microsoft</translation>
     </message>
 </context>
 <context>
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation>Legg til deltakarar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add, send and share...</source>
@@ -119,11 +119,11 @@
     </message>
     <message>
         <source>End call</source>
-        <translation>Avslutt samtale</translation>
+        <translation>Τερματισμός κλήσης</translation>
     </message>
     <message>
         <source>Show chat</source>
-        <translation type="unfinished"/>
+        <translation>Εμφάνιση συνομιλίας</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
@@ -143,43 +143,43 @@
     </message>
     <message>
         <source>Exit fullscreen</source>
-        <translation>Avslutt fullskjerm</translation>
+        <translation>Έξοδος από πλήρη οθόνη</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation>Fullskjerm</translation>
+        <translation>Πλήρης οθόνη</translation>
     </message>
     <message>
         <source>Turn off video</source>
-        <translation>Slå av video</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Turn on video</source>
-        <translation>Slå på video</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send File...</source>
-        <translation>Send fil …</translation>
+        <translation>Αποστολή Αρχείου...</translation>
     </message>
     <message>
         <source>Send Contacts...</source>
-        <translation>Send kontaktar …</translation>
+        <translation>Αποστολή Επαφών...</translation>
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation>Stopp deling</translation>
+        <translation>Διακοπή διαμοιρασμού</translation>
     </message>
     <message>
         <source>Share screens</source>
-        <translation>Del skjermar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation>Legg til personar i denne samtalen</translation>
+        <translation>Προσθήκη Ατόμων στην Κλήση</translation>
     </message>
     <message>
         <source>Click this button to resume the call.</source>
-        <translation>Trykk på denne knappen for å fortsete samtalen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Selection</source>
@@ -190,12 +190,12 @@
     <name>CallView</name>
     <message>
         <source>Call with %1</source>
-        <translation>Samtale med %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation>Samtaleteknisk Info</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Held remotely</source>
@@ -203,54 +203,54 @@
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation>Samtale på vent</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Calls</name>
     <message>
         <source>Answer Call</source>
-        <translation>Svar på oppringing</translation>
+        <translation>Απάντηση Κλήσης</translation>
     </message>
     <message>
         <source>Reject Call</source>
-        <translation>Avvis oppringing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore Call</source>
-        <translation>Oversjå oppringing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call with %1</source>
-        <translation>Samtale med %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Call</source>
-        <translation>Start samtale</translation>
+        <translation>Έναρξη Κλήσης</translation>
     </message>
     <message>
         <source>Hold Call</source>
-        <translation>Set samtale på vent</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation>Fortset samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hangup</source>
-        <translation>Legg på</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation>Inviter til konferanse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call %1</source>
-        <translation>Samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation>Tid: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ca&amp;ll</source>
@@ -258,31 +258,31 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Legg til</translation>
+        <translation>&amp;Προσθήκη</translation>
     </message>
     <message>
         <source>&amp;Do not add</source>
-        <translation>&amp;Ikkje legg til</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation>Kontaktar i lista di</translation>
+        <translation>Επαφές στην λίστα σας</translation>
     </message>
     <message>
         <source>Contacts to call</source>
-        <translation>Kontaktar å ringje</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type a number to call</source>
-        <translation>Tast eit nummer for å ringje</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation>Koplar til …</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Problem with Audio Capture</source>
@@ -294,15 +294,15 @@
     </message>
     <message>
         <source>Call Failed</source>
-        <translation>Mislykka oppringing</translation>
+        <translation>Αποτυχία Κλήσης</translation>
     </message>
     <message>
         <source>Ringing...</source>
-        <translation>Ringjer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Finished</source>
-        <translation>Samtale avslutta</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Missed</source>
@@ -310,11 +310,11 @@
     </message>
     <message>
         <source>Call Refused</source>
-        <translation>SamtaleOppringing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Busy</source>
-        <translation>Opptatt</translation>
+        <translation>Απασχολημένος</translation>
     </message>
     <message>
         <source>Call Dropped</source>
@@ -326,51 +326,51 @@
     </message>
     <message>
         <source>and %1</source>
-        <translation>og %1</translation>
-    </message>
-    <message>
-        <source>%1 is calling you</source>
-        <translation>%1 ringjer deg</translation>
-    </message>
-    <message>
-        <source>An unknown contact is calling you</source>
-        <translation>Ein ukjend kontakt ringjer deg</translation>
-    </message>
-    <message>
-        <source>Page %1</source>
-        <translation>Side %1</translation>
-    </message>
-    <message>
-        <source>%1 per minute</source>
-        <translation>%1 pr. minutt</translation>
-    </message>
-    <message>
-        <source>Insufficient Credit</source>
-        <translation>Ikkje nok kreditt</translation>
-    </message>
-    <message>
-        <source>Invalid Number</source>
-        <translation>Ugyldig nummer</translation>
-    </message>
-    <message>
-        <source>Call Phones or Send SMS</source>
-        <translation>Ring til telefonar eller send SMS</translation>
-    </message>
-    <message>
-        <source>Call</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>%1 is calling you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>An unknown contact is calling you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 per minute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insufficient Credit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid Number</source>
+        <translation>Μη έγκυρος Αριθμός</translation>
+    </message>
+    <message>
+        <source>Call Phones or Send SMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Call</source>
+        <translation>Κλήση</translation>
+    </message>
+    <message>
         <source>Send SMS</source>
-        <translation>Send SMS</translation>
+        <translation>Αποστολή SMS</translation>
     </message>
     <message>
         <source>Skype Call</source>
-        <translation>Skype-samtale</translation>
+        <translation>Κλήση Skype</translation>
     </message>
     <message>
         <source>Transfer to...</source>
-        <translation>Overfør til …</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
@@ -394,7 +394,7 @@
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>Greier ikkje å kople til</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Problem with legacy client</source>
@@ -402,43 +402,43 @@
     </message>
     <message>
         <source>Join call</source>
-        <translation>Ver med i samtalen</translation>
-    </message>
-    <message>
-        <source>End call</source>
-        <translation>Avslutt samtale</translation>
-    </message>
-    <message>
-        <source>Place a Call</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>End call</source>
+        <translation>Τερματισμός κλήσης</translation>
+    </message>
+    <message>
+        <source>Place a Call</source>
+        <translation>Πραγματοποίηση Κλήσης</translation>
+    </message>
+    <message>
         <source>Join Call</source>
-        <translation>Ver med i samtalen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hang up</source>
-        <translation>Legg på</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite to Conference call</source>
-        <translation>Inviter til konferansesamtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are receiving a conference call from %1 %2</source>
-        <translation>Du tek imot ein konferansesamtale frå %1 %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Join Conference Call</source>
-        <translation>Ver med i konferansesamtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Conference Call with Selected Contacts</source>
-        <translation>Start konferansesamtale med valde kontraktar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite Selected Contacts to Conference Call</source>
-        <translation>Inviter valde kontaktar til konferansesamtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
@@ -458,45 +458,45 @@
     </message>
     <message>
         <source>End call with this person</source>
-        <translation type="unfinished"/>
+        <translation>Τερματισμός κλήσης με αυτό το άτομο</translation>
     </message>
 </context>
 <context>
     <name>Chat</name>
     <message>
         <source>sent file</source>
-        <translation type="unfinished"/>
+        <translation>αποστολή αρχείου</translation>
     </message>
     <message>
         <source>sent files</source>
-        <translation type="unfinished"/>
+        <translation>αποστολή αρχείων</translation>
     </message>
     <message>
         <source>Open Chat</source>
-        <translation type="unfinished"/>
+        <translation>Άνοιγμα Συνομιλίας</translation>
     </message>
     <message>
         <source>%1 user(s)</source>
-        <translation>%1 brukar(ar)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No recent messages.</source>
-        <translation>Ingen meldingar.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 and %2 are writing...</source>
-        <translation>%1 og %2 skriv …</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 is writing...</source>
-        <translation>%1 skriv …</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Chats</name>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Συνομιλίες</translation>
     </message>
     <message>
         <source>ChatToolbar</source>
@@ -508,11 +508,11 @@
     </message>
     <message>
         <source>Start Chat</source>
-        <translation type="unfinished"/>
+        <translation>Έναρξη Συνομιλίας</translation>
     </message>
     <message>
         <source>Open Chat</source>
-        <translation type="unfinished"/>
+        <translation>Άνοιγμα Συνομιλίας</translation>
     </message>
     <message>
         <source>Unbookmark Chat</source>
@@ -528,7 +528,7 @@
     </message>
     <message>
         <source>Add to Chat</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη στην Συνομιλία</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -536,23 +536,23 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
+        <translation>&amp;Ακυρο</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Legg til</translation>
+        <translation>&amp;Προσθήκη</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Ta bort</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation>Vel kontaktar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat participants</source>
-        <translation type="unfinished"/>
+        <translation>Συμμετέχοντες στη Συνομιλία</translation>
     </message>
     <message>
         <source>Adding users failed</source>
@@ -560,7 +560,7 @@
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
-        <translation type="unfinished"/>
+        <translation>Αδυναμία χρηστών στη συνομιλία</translation>
     </message>
     <message>
         <source>Load previous history from the chat</source>
@@ -568,40 +568,40 @@
     </message>
     <message>
         <source>Leave Chat</source>
-        <translation type="unfinished"/>
+        <translation>Αποχώρηση από Συνομιλία</translation>
     </message>
     <message>
         <source>Last 24 Hours</source>
-        <translation>Siste døgn</translation>
+        <translation>Τελευταίες 24 Ώρες</translation>
     </message>
     <message>
         <source>Last 7 Days</source>
-        <translation>Siste 7 dagar</translation>
+        <translation>Τελευταίες 7 Ημέρες</translation>
     </message>
     <message>
         <source>Last 14 Days</source>
-        <translation>Siste 14 dagar</translation>
+        <translation>Τελευταίες 14 Ημέρες</translation>
     </message>
     <message>
         <source>Last 30 Days</source>
-        <translation>Siste 30 dagar</translation>
+        <translation>Τελευταίες 30 Ημέρες</translation>
     </message>
     <message>
         <source>Forever</source>
-        <translation>For alltid</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Emoticons</source>
-        <translation>Kjensleikon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find</source>
-        <translation>Finn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 / %2</source>
         <comment>Progress / Total</comment>
-        <translation>%1/%2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>If you leave this chat, you will no longer receive any new messages from the chat.  Are you really sure you want to leave the chat?</source>
@@ -630,7 +630,7 @@
     <message>
         <source>Information</source>
         <comment>sF_INFORM_DEFAULT_CAPTION</comment>
-        <translation>Informasjon</translation>
+        <translation>Πληροφορίες</translation>
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
@@ -676,31 +676,31 @@
     </message>
     <message>
         <source>Copy Selected Text</source>
-        <translation>Kopier vald tekst</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Link</source>
-        <translation>Opne lenkje</translation>
+        <translation>Άνοιγμα Συνδέσμου</translation>
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation>Kopier lenkjeadresse</translation>
+        <translation>Αντιγραφή Τοποθεσίας Συνδέσμου</translation>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation>Vel emne</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Picture</source>
-        <translation>Vel bilde</translation>
+        <translation>Ορίστε Εικόνα</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation>Fjern bilde</translation>
+        <translation>Αφαίρεση Φωτογραφίας</translation>
     </message>
     <message>
         <source>Loading Image Error!</source>
-        <translation>Bildelastingsfeil!</translation>
+        <translation>Σφάλμα Φόρτωσης Φωτογραφίας!</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
@@ -709,7 +709,7 @@ Please select a different image file.</source>
     </message>
     <message>
         <source>Image Size Error!</source>
-        <translation type="unfinished"/>
+        <translation>Σφάλμα Μεγέθους Φωτογραφίας!</translation>
     </message>
     <message>
         <source>The image file you have selected is too large!
@@ -718,7 +718,7 @@ Please use a smaller size image!</source>
     </message>
     <message>
         <source>Internal Error!</source>
-        <translation>Intern feil!</translation>
+        <translation>Εσωτερικό Σφάλμα!</translation>
     </message>
     <message>
         <source>The selected image file could not be set as a chat picture.
@@ -727,7 +727,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Loading Image failure!</source>
-        <translation type="unfinished"/>
+        <translation>Αποτυχία Φόρτωσης Εικόνας!</translation>
     </message>
     <message>
         <source>File could not be loaded.
@@ -748,15 +748,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Images</source>
-        <translation>Bilde</translation>
+        <translation>Εικόνες</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Alle filer</translation>
+        <translation>Όλα τα αρχεία</translation>
     </message>
     <message>
         <source>Please select a file.</source>
-        <translation>Vel ei fil</translation>
+        <translation>Παρακαλώ επιλέξτε αρχείο.</translation>
     </message>
     <message>
         <source>This message has been removed by you.</source>
@@ -768,19 +768,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογή Όλων</translation>
     </message>
     <message>
         <source>Find Again</source>
-        <translation>Finn igjen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>Rediger melding</translation>
+        <translation>Επεξεργασία Μηνύματος</translation>
     </message>
     <message>
         <source>Remove Message</source>
-        <translation>Fjern melding</translation>
+        <translation>Αφαίρεση Μηνύματος</translation>
     </message>
     <message>
         <source>Right click here to set/unset the chat picture.</source>
@@ -788,11 +788,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename Group</source>
-        <translation>Gje nytt namn til gruppe</translation>
+        <translation>Μετονομασία Ομάδας</translation>
     </message>
     <message>
         <source>Delete Group</source>
-        <translation>Slett gruppe</translation>
+        <translation>Διαγραφή Ομάδας</translation>
     </message>
     <message>
         <source>This message has been edited by %1 at %2</source>
@@ -812,11 +812,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unsubscribed</source>
-        <translation>Avmeldt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown reason</source>
-        <translation type="unfinished"/>
+        <translation>Άγνωστη αιτιολογία</translation>
     </message>
     <message>
         <source>Quote message</source>
@@ -836,15 +836,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Last 6 Months</source>
-        <translation type="unfinished"/>
+        <translation>Τελευταίοι 6 Μήνες</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"/>
+        <translation>Τελευταίο Έτος</translation>
     </message>
     <message>
         <source>Are you sure you want to call?</source>
-        <translation type="unfinished"/>
+        <translation>Είστε σίγουροι ότι θέλετε να καλέσετε;</translation>
     </message>
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
@@ -860,32 +860,32 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Favorittar</translation>
+        <translation>Αγαπημένα</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation>Siste</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Phones</source>
-        <translation>Ring til telefonar</translation>
+        <translation>Κλήση Τηλεφώνων</translation>
     </message>
     <message>
         <source>%1 - %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Αφαίρεση από τα Αγαπημένα</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη στα Αγαπημένα</translation>
     </message>
     <message>
         <source>Pop-in chat</source>
         <comment>This command will attach the separate chat window back to the combined/default view of chats. Opposite of Pop-out chat</comment>
-        <translation type="unfinished"/>
+        <translation>Αναδυόμενη συνομιλία</translation>
     </message>
     <message>
         <source>Pop-out chat</source>
@@ -894,7 +894,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Hide chat</source>
-        <translation type="unfinished"/>
+        <translation>Απόκρυψη συνομιλίας</translation>
     </message>
     <message>
         <source>Add participants, send files and more</source>
@@ -902,19 +902,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Send Files</source>
-        <translation type="unfinished"/>
+        <translation>Αποστολή Αρχείων</translation>
     </message>
     <message>
         <source>Add people</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη ατόμων</translation>
     </message>
     <message>
         <source>Chat options</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογές συνομιλίας</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Remove from Bookmarks</source>
@@ -982,7 +982,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Πραγματοποίηση Κλήσης</translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
@@ -1029,30 +1029,30 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call participants</source>
-        <translation type="unfinished"/>
+        <translation>Συμμετέχοντες στην κλήση</translation>
     </message>
 </context>
 <context>
     <name>Confirmation</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>Remember this selection</source>
@@ -1060,23 +1060,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Είστε σίγουρος;</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Ενημέρωση</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Εκκαθάριση</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Εφαρμογή</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1084,27 +1084,27 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Πίσω</translation>
     </message>
     <message>
         <source>Try Again</source>
-        <translation type="unfinished"/>
+        <translation>Δοκιμή Ξανά</translation>
     </message>
     <message>
         <source>Do not ask me again</source>
-        <translation type="unfinished"/>
+        <translation>Να μην ερωτηθώ ξανά</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Αλλαγή Συνθηματικού</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Δημιουργία</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -1112,11 +1112,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>I agree</source>
-        <translation type="unfinished"/>
+        <translation>Συμφωνώ</translation>
     </message>
     <message>
         <source>I do not agree</source>
-        <translation type="unfinished"/>
+        <translation>Διαφωνώ</translation>
     </message>
     <message>
         <source>Report abuse from this person</source>
@@ -1147,15 +1147,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source> Call %1</source>
-        <translation type="unfinished"/>
+        <translation> Κλήση %1</translation>
     </message>
     <message>
         <source> Start a chat with %1</source>
-        <translation type="unfinished"/>
+        <translation> Έναρξη συνομιλίας με %1</translation>
     </message>
     <message>
         <source> View the profile of %1</source>
-        <translation type="unfinished"/>
+        <translation> Προβολή προφίλ του %1</translation>
     </message>
     <message>
         <source>Please let me see your contact details.</source>
@@ -1183,11 +1183,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Hide Picture</source>
-        <translation type="unfinished"/>
+        <translation>Απόκρυψη Φωτογραφίας</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation type="unfinished"/>
+        <translation>Εμφάνιση Φωτογραφίας</translation>
     </message>
     <message>
         <source>Accept and Add to Contacts</source>
@@ -1206,7 +1206,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Contact</source>
-        <translation type="unfinished"/>
+        <translation>Κλήση Επαφής</translation>
     </message>
     <message>
         <source>Click this button to place a call to this contact.</source>
@@ -1214,7 +1214,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Button</source>
-        <translation type="unfinished"/>
+        <translation>Πλήκτρο Κλήσης</translation>
     </message>
     <message>
         <source>Chat to Contact</source>
@@ -1226,11 +1226,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Chat Button</source>
-        <translation type="unfinished"/>
+        <translation>Κουμπί Συνομιλίας</translation>
     </message>
     <message>
         <source>View Profile</source>
-        <translation type="unfinished"/>
+        <translation>Προβολή Προφίλ</translation>
     </message>
     <message>
         <source>Click this button to view this contact&apos;s profile.</source>
@@ -1238,7 +1238,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Profile Button</source>
-        <translation type="unfinished"/>
+        <translation>Κουμπί Προφίλ</translation>
     </message>
     <message>
         <source>This contact is configured for video conferencing.</source>
@@ -1254,11 +1254,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Μην Ενοχλείτε</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Αόρατος</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -1266,7 +1266,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Edit Profile</source>
-        <translation type="unfinished"/>
+        <translation>Επεξεργασία Προφίλ</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
@@ -1278,15 +1278,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Edit Contact</source>
-        <translation type="unfinished"/>
+        <translation>Επεξεργασία Επαφής</translation>
     </message>
     <message>
         <source>Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>Ομάδες Επαφών</translation>
     </message>
     <message>
         <source>Add to Contact List</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη στην Λίστα Επαφών</translation>
     </message>
     <message>
         <source>Block Contact</source>
@@ -1302,7 +1302,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Delete Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Διαγραφή Επιλεγμένων Επαφών</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected users from your contact list?</source>
@@ -1314,99 +1314,99 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Profile for %1</source>
-        <translation type="unfinished"/>
+        <translation>Προφίλ για %1</translation>
     </message>
     <message>
         <source>Contact Information</source>
-        <translation type="unfinished"/>
+        <translation>Πληροφορίες Επαφής</translation>
     </message>
     <message>
         <source>Skype Name:</source>
-        <translation type="unfinished"/>
+        <translation>Όνομα Skype:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Πλήρης Όνομα:</translation>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Home Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Τηλέφωνο Οικίας:</translation>
     </message>
     <message>
         <source>Office Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Τηλέφωνο Εργασίας:</translation>
     </message>
     <message>
         <source>Mobile Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Κινητό:</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="unfinished"/>
+        <translation>Προσωπικές Πληροφορίες</translation>
     </message>
     <message>
         <source>Contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Επαφές:</translation>
     </message>
     <message>
         <source>Local Time:</source>
-        <translation type="unfinished"/>
+        <translation>Τοπική Ώρα:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Γεννέθλια:</translation>
     </message>
     <message>
         <source>Age:</source>
-        <translation type="unfinished"/>
+        <translation>Ηλικία:</translation>
     </message>
     <message>
         <source>Gender:</source>
-        <translation type="unfinished"/>
+        <translation>Φύλλο:</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Γλώσσα:</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Χώρα:</translation>
     </message>
     <message>
         <source>Region:</source>
-        <translation type="unfinished"/>
+        <translation>Περιοχή:</translation>
     </message>
     <message>
         <source>City:</source>
-        <translation type="unfinished"/>
+        <translation>Πόλη:</translation>
     </message>
     <message>
         <source>Homepage:</source>
-        <translation type="unfinished"/>
+        <translation>Ιστοσελίδα:</translation>
     </message>
     <message>
         <source>Phone Number:</source>
-        <translation type="unfinished"/>
+        <translation>Αριθμός Τηλεφώνου:</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation type="unfinished"/>
+        <translation>Άρρεν</translation>
     </message>
     <message>
         <source>Female</source>
-        <translation type="unfinished"/>
+        <translation>Θήλυ</translation>
     </message>
     <message>
         <source>Change Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Αλλαγή Avatar</translation>
     </message>
     <message>
         <source>Remove Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Αφαίρεση Avatar</translation>
     </message>
     <message>
         <source>Click here to read the privacy policy</source>
@@ -1422,7 +1422,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Μετονομασία</translation>
     </message>
     <message>
         <source>Type a new name or number for %1</source>
@@ -1442,19 +1442,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Όνομα</translation>
     </message>
     <message>
         <source>Gender</source>
-        <translation type="unfinished"/>
+        <translation>Φύλλο</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"/>
+        <translation>Πόλη</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Γλώσσα</translation>
     </message>
     <message>
         <source>Connecting</source>
@@ -1466,7 +1466,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Άγνωστο</translation>
     </message>
     <message>
         <source>Undisclosed number</source>
@@ -1474,7 +1474,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Echo Test Service</source>
-        <translation type="unfinished"/>
+        <translation>Δοκιμαστική Σύνδεση</translation>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
@@ -1482,7 +1482,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
-        <translation type="unfinished"/>
+        <translation>Αυτή η επαφή έχει σήμερα γεννέθλια.</translation>
     </message>
     <message>
         <source>This contact is currently using a mobile device.</source>
@@ -1494,15 +1494,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Choose Avatar Image</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογή Εικόνας Avatar</translation>
     </message>
     <message>
         <source>Contact Options</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογές Επαφής</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"/>
+        <translation>Αριθμός τηλεφώνου</translation>
     </message>
     <message>
         <source>%1 (%2) - %3 since %4</source>
@@ -1516,11 +1516,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename...</source>
-        <translation type="unfinished"/>
+        <translation>Μετονομασία...</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Αφαίρεση από Επαφές</translation>
     </message>
     <message>
         <source>Unblock This User</source>
@@ -1544,7 +1544,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Αποστολή SMS</translation>
     </message>
     <message>
         <source>Click this button to send SMS.</source>
@@ -1552,15 +1552,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>SMS Button</source>
-        <translation type="unfinished"/>
+        <translation>Κουμπί SMS</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Create Group</source>
-        <translation type="unfinished"/>
+        <translation>Δημιουργία Ομάδας</translation>
     </message>
     <message>
         <source>Enter name for new group</source>
@@ -1568,11 +1568,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Edit Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Επεξεργασία Αριθμού Τηλεφώνου</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Labels for %1</source>
@@ -1584,7 +1584,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Edit Labels...</source>
-        <translation type="unfinished"/>
+        <translation>Επεξεργασία Ετικετών...</translation>
     </message>
     <message>
         <source>Block this user</source>
@@ -1602,11 +1602,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Απόκρυψη</translation>
     </message>
     <message>
         <source>Add more email addresses</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη περισσότερων διευθύνσεων email</translation>
     </message>
     <message>
         <source>Offline with voice messaging</source>
@@ -1630,46 +1630,46 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Επεξεργασία</translation>
     </message>
     <message>
         <source>Add phone number</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη αριθμού τηλεφώνου</translation>
     </message>
     <message>
         <source>Other Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Άλλο Τηλέφωνο:</translation>
     </message>
 </context>
 <context>
     <name>Contact Search</name>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη Επαφής</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Αναζήτηση</translation>
     </message>
     <message>
         <source>Country/Region</source>
-        <translation type="unfinished"/>
+        <translation>Χώρα/Περιοχή</translation>
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Αριθμός Τηλεφώνου</translation>
     </message>
     <message>
         <source>All Countries/Regions</source>
-        <translation type="unfinished"/>
+        <translation>Όλες οι Χώρες/Περιοχές</translation>
     </message>
     <message>
         <source>Age Range</source>
-        <translation type="unfinished"/>
+        <translation>Όρια Ηλικίας</translation>
     </message>
     <message>
         <source>All Ages</source>
-        <translation type="unfinished"/>
+        <translation>Όλες οι Ηλικίες</translation>
     </message>
     <message>
         <source>State/Province</source>
@@ -1681,22 +1681,22 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>All Languages</source>
-        <translation type="unfinished"/>
+        <translation>Όλες οι Γλώσσες</translation>
     </message>
     <message>
         <source>Full Name</source>
         <comment>Result Table Header: Full Name</comment>
-        <translation type="unfinished"/>
+        <translation>Πλήρες Όνομα</translation>
     </message>
     <message>
         <source>Skype Name</source>
         <comment>Result Table Header: Skype Name</comment>
-        <translation type="unfinished"/>
+        <translation>Όνομα Skype</translation>
     </message>
     <message>
         <source>City, Country</source>
         <comment>Result Table Header: City, Country</comment>
-        <translation type="unfinished"/>
+        <translation>Πόλη, Χώρα</translation>
     </message>
     <message>
         <source>Add a Skype Contact</source>
@@ -1708,7 +1708,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>New Search</source>
-        <translation type="unfinished"/>
+        <translation>Νέα Αναζήτηση</translation>
     </message>
     <message>
         <source>Or add a Skype contact</source>
@@ -1716,15 +1716,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add Number</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη Αριθμού</translation>
     </message>
     <message>
         <source>Cancel Search</source>
-        <translation type="unfinished"/>
+        <translation>Ακύρωση Αναζήτησης</translation>
     </message>
     <message>
         <source>Search for Skype users</source>
-        <translation type="unfinished"/>
+        <translation>Αναζήτηση χρηστών Skype</translation>
     </message>
     <message>
         <source>Add a Skype contact using their Skype Name</source>
@@ -1748,7 +1748,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add a Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη Αριθμού Τηλεφώνου</translation>
     </message>
     <message>
         <source>The phone number %1 you entered is already in your contacts</source>
@@ -1760,40 +1760,40 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Search Again</source>
-        <translation type="unfinished"/>
+        <translation>Αναζήτηση Ξανά</translation>
     </message>
 </context>
 <context>
     <name>Controls</name>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Q</translation>
     </message>
 </context>
 <context>
     <name>Dates and Time</name>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Αύριο</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Σήμερα</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Χθές</translation>
     </message>
 </context>
 <context>
     <name>EULA</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Γλώσσα</translation>
     </message>
     <message>
         <source>Skype Terms of Use</source>
@@ -1812,7 +1812,7 @@ Please use a different image file!</source>
     <name>Events</name>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Εμφάνιση Ιστορικού</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
@@ -1828,43 +1828,43 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Delete Event</source>
-        <translation type="unfinished"/>
+        <translation>Διαγραφή Συμβάντος</translation>
     </message>
     <message>
         <source>Delete Selected Events</source>
-        <translation type="unfinished"/>
+        <translation>Διαγραφή Επιλεγμένων Συμβάντων</translation>
     </message>
     <message>
         <source>Unknown event</source>
-        <translation type="unfinished"/>
+        <translation>Άγνωστο συμβάν</translation>
     </message>
     <message>
         <source>Event History</source>
-        <translation type="unfinished"/>
+        <translation>Ιστορικό Συμβάντων</translation>
     </message>
     <message>
         <source>New Events</source>
-        <translation type="unfinished"/>
+        <translation>Νέα Συμβάντα</translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation type="unfinished"/>
+        <translation>Κλήσεις</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Συνομιλίες</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Μεταφορές Αρχείων</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>Γεννέθλια</translation>
     </message>
     <message>
         <source>%1 has appeared online</source>
@@ -1896,7 +1896,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Test Event</source>
-        <translation type="unfinished"/>
+        <translation>Δοκιμαστικό Συμβάν</translation>
     </message>
     <message>
         <source>Example Chat Message</source>
@@ -1908,19 +1908,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Test Sound</source>
-        <translation type="unfinished"/>
+        <translation>Δοκιμή Ήχου</translation>
     </message>
     <message>
         <source>Skype Login</source>
-        <translation type="unfinished"/>
+        <translation>Είσοδος Skype</translation>
     </message>
     <message>
         <source>Skype Logout</source>
-        <translation type="unfinished"/>
+        <translation>Έξοδος Skype</translation>
     </message>
     <message>
         <source>Skype Login Failed</source>
-        <translation type="unfinished"/>
+        <translation>Αποτυχία εισόδου Skype</translation>
     </message>
     <message>
         <source>Call Connecting</source>
@@ -2036,15 +2036,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>SMS Received</source>
-        <translation type="unfinished"/>
+        <translation>SMS Παρελήφθη</translation>
     </message>
     <message>
         <source>SMS Sent</source>
-        <translation type="unfinished"/>
+        <translation>SMS Απεστάλη</translation>
     </message>
     <message>
         <source>SMS Failed</source>
-        <translation type="unfinished"/>
+        <translation>Αποτυχία SMS</translation>
     </message>
     <message>
         <source>Money Received</source>
@@ -2084,7 +2084,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Άγνωστο</translation>
     </message>
     <message>
         <source>%1, %2 had a birthday</source>
@@ -2149,7 +2149,7 @@ Please use a different image file!</source>
     <name>File Transfer</name>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Αποστολή Αρχείου</translation>
     </message>
     <message>
         <source>Send File to Selected Contacts</source>
@@ -2161,15 +2161,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη</translation>
     </message>
     <message>
         <source>%1 files - %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 αρχεία - %2</translation>
     </message>
     <message>
         <source>Could not read from the file</source>
@@ -2229,11 +2229,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Accept All</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή Όλων</translation>
     </message>
     <message>
         <source>Decline All</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη Όλων</translation>
     </message>
     <message>
         <source>Open the directory for this file</source>
@@ -2245,7 +2245,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 files</source>
-        <translation type="unfinished"/>
+        <translation>%1 αρχεία</translation>
     </message>
     <message>
         <source>%1 recipients</source>
@@ -2264,28 +2264,28 @@ Please use a different image file!</source>
     <message>
         <source>%1 of %2</source>
         <comment>Progress: bytes transferred of bytes total</comment>
-        <translation type="unfinished"/>
+        <translation>%1 από %2</translation>
     </message>
     <message>
         <source>%1ps</source>
         <comment>Speed: size units per second</comment>
-        <translation type="unfinished"/>
+        <translation>%1ps</translation>
     </message>
     <message>
         <source>Finishing in %1</source>
-        <translation type="unfinished"/>
+        <translation>Ολοκλήρωση σε %1</translation>
     </message>
     <message>
         <source>%1 seconds</source>
-        <translation type="unfinished"/>
+        <translation>%1 δευτερόλεπτα</translation>
     </message>
     <message>
         <source>Choose Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογή Καταλόγου Αποθήκευσης Αρχείων</translation>
     </message>
     <message>
         <source>Choose File Name to Save</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογή Ονόματος Αρχείου για Αποθήκευση</translation>
     </message>
     <message>
         <source>All files downloaded to:</source>
@@ -2301,7 +2301,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Change Default Download Directory...</source>
-        <translation type="unfinished"/>
+        <translation>Αλλαγή Προεπιλεγμένου Καταλόγου Λήψεων...</translation>
     </message>
     <message>
         <source>Choose File(s) to send to %1</source>
@@ -2309,15 +2309,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Choose File(s) to send to selected users</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογή Αρχείου(-ων) για αποστολή στους επιλεγμένους χρήστες</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Μεταφορά Αρχείων</translation>
     </message>
     <message>
         <source>Accept File</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή Αρχείου</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -2325,11 +2325,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Παύση</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -2337,7 +2337,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"/>
+        <translation>Εκκαθάριση Όλων</translation>
     </message>
     <message>
         <source>Remove all completed and failed files from the list</source>
@@ -2345,11 +2345,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"/>
+        <translation>Όλα τα αρχεία</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Εκκαθάριση</translation>
     </message>
     <message>
         <source>All Inactive Files</source>
@@ -2369,7 +2369,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Αυτόματη Αποδοχή Αρχείων</translation>
     </message>
     <message>
         <source>Sending your file is being relayed. Click this icon to find out what this means.</source>
@@ -2385,7 +2385,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>1 file</source>
-        <translation type="unfinished"/>
+        <translation>1 αρχείο</translation>
     </message>
     <message>
         <source>%1 has to accept your contact request first</source>
@@ -2421,19 +2421,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Decline file</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη αρχείου</translation>
     </message>
     <message>
         <source>Decline File</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη Αρχείου</translation>
     </message>
     <message>
         <source>Accept all files</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή όλων των αρχείων</translation>
     </message>
     <message>
         <source>Accept All Files</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή Όλων των Αρχείων</translation>
     </message>
     <message>
         <source>Accept All Files to...</source>
@@ -2441,27 +2441,27 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Decline all files</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη όλων των αρχείων</translation>
     </message>
     <message>
         <source>Decline All Files</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη Όλων των Αρχείων</translation>
     </message>
     <message>
         <source>Pause all files</source>
-        <translation type="unfinished"/>
+        <translation>Παύση όλων των αρχείων</translation>
     </message>
     <message>
         <source>Pause All Files</source>
-        <translation type="unfinished"/>
+        <translation>Παύση Όλων των Αρχείων</translation>
     </message>
     <message>
         <source>Cancel all files</source>
-        <translation type="unfinished"/>
+        <translation>Ακύρωση όλων των αρχείων</translation>
     </message>
     <message>
         <source>Cancel All Files</source>
-        <translation type="unfinished"/>
+        <translation>Ακύρωση Όλων των Αρχείων</translation>
     </message>
     <message>
         <source>Retry failed files</source>
@@ -2520,7 +2520,7 @@ Please use a different image file!</source>
     <name>FindDialog</name>
     <message>
         <source>Search options</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογές αναζήτησης</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -2554,12 +2554,12 @@ Please use a different image file!</source>
     <message>
         <source>&amp;Up</source>
         <comment>sF_FIND_DIRECTION_UP</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Επάνω</translation>
     </message>
     <message>
         <source>D&amp;own</source>
         <comment>sF_FIND_DIRECTION_DOWN</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Κάτω</translation>
     </message>
     <message>
         <source>Cance&amp;l</source>
@@ -2600,7 +2600,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
@@ -2627,43 +2627,43 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Αλλαγή Συνθηματικού</translation>
     </message>
     <message>
         <source>Current Password</source>
-        <translation type="unfinished"/>
+        <translation>Τρέχον Συνθηματικό</translation>
     </message>
     <message>
         <source>New Password</source>
-        <translation type="unfinished"/>
+        <translation>Νέο Συνθηματικό</translation>
     </message>
     <message>
         <source>Verify New Password</source>
-        <translation type="unfinished"/>
+        <translation>Επαλήθευση Νέου Συνθηματικού</translation>
     </message>
     <message>
         <source>Your password must be at least 6 characters in length.</source>
-        <translation type="unfinished"/>
+        <translation>Το συνθηματικό σας πρέπει να είναι τουλάχιστον 6 χαρακτήρες.</translation>
     </message>
     <message>
         <source>Automatically sign-in when I start Skype</source>
-        <translation type="unfinished"/>
+        <translation>Αυτόματη είσοδος όταν εκκινεί το Skype</translation>
     </message>
     <message>
         <source>Password Changed.</source>
-        <translation type="unfinished"/>
+        <translation>Το Συνθηματικό Άλλαξε.</translation>
     </message>
     <message>
         <source>Your password has been successfully changed.</source>
-        <translation type="unfinished"/>
+        <translation>Το συνθηματικό σας άλλαξε με επιτυχία.</translation>
     </message>
     <message>
         <source>Your new and old passwords match.</source>
-        <translation type="unfinished"/>
+        <translation>Το νέο και το παλιό συνθηματικό δεν ταιριάζουν.</translation>
     </message>
     <message>
         <source>Your password is too long.</source>
-        <translation type="unfinished"/>
+        <translation>Το συνθηματικό σας είναι πολύ μεγάλο.</translation>
     </message>
     <message>
         <source>Your password contains an invalid character.</source>
@@ -2671,11 +2671,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Click here to change your password</source>
-        <translation type="unfinished"/>
+        <translation>Κάντε κλικ εδώ για αλλαγή του συνθηματικού σας</translation>
     </message>
     <message>
         <source>Changing Password...</source>
-        <translation type="unfinished"/>
+        <translation>Αλλαγή Συνθηματικού...</translation>
     </message>
     <message>
         <source>Please wait while your password is changed.
@@ -2685,7 +2685,7 @@ This shouldn&apos;t take more than a few seconds.</source>
     </message>
     <message>
         <source>Current password is incorrect.</source>
-        <translation type="unfinished"/>
+        <translation>Το τρέχον συνθηματικό είναι λανθασμένο.</translation>
     </message>
     <message>
         <source>Server connect failed.
@@ -2698,7 +2698,7 @@ Please check your internet connection and try again.</source>
     </message>
     <message>
         <source>Your new password is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Μη έγκυρο νέο συνθηματικό.</translation>
     </message>
     <message>
         <source>You must be logged in in order to change your password.</source>
@@ -2706,7 +2706,7 @@ Please check your internet connection and try again.</source>
     </message>
     <message>
         <source>Password Change Failed</source>
-        <translation type="unfinished"/>
+        <translation>Αποτυχία Αλλαγής Συνθηματικού</translation>
     </message>
     <message>
         <source>Your password must differ from your Skype Name.</source>
@@ -2724,11 +2724,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sign in with a different account</source>
-        <translation type="unfinished"/>
+        <translation>Είσοδος με διαφοετικό λογαριασμό</translation>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Σύνδεση με Skype WiFi</translation>
     </message>
     <message>
         <source>Failed to log in. Check your Skype Name or password</source>
@@ -2747,7 +2747,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Click here to change your avatar</source>
-        <translation type="unfinished"/>
+        <translation>Κάντε κλικ εδώ για αλλαγή του avatar σας</translation>
     </message>
     <message>
         <source>Type your mood message in this box</source>
@@ -2755,7 +2755,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype Credit</source>
-        <translation type="unfinished"/>
+        <translation>Μονάδες Skype</translation>
     </message>
     <message>
         <source>Visit account page</source>
@@ -2767,28 +2767,28 @@ Please try again later.</source>
     </message>
     <message>
         <source>Event History</source>
-        <translation type="unfinished"/>
+        <translation>Ιστορικό Συμβάντων</translation>
     </message>
     <message>
         <source>Add or Search for Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη ή Αναζήτηση για Επαφές Skype</translation>
     </message>
     <message>
         <source>Main Menu</source>
-        <translation type="unfinished"/>
+        <translation>Κυρίως Μενού</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Μεταφορά Αρχείων</translation>
     </message>
     <message>
         <source>%1 %2%3 for Linux</source>
         <comment>Pre-login main window title: ie. %1 = &quot;Skype&quot;, %2 = &quot;1.5&quot;, %3 = &quot; (Alpha)&quot;</comment>
-        <translation type="unfinished"/>
+        <translation>%1 %2%3 για Linux</translation>
     </message>
     <message>
         <source>%1 Skype Credit available</source>
-        <translation type="unfinished"/>
+        <translation>%1 διαθέσιμες μονάδες Skype</translation>
     </message>
     <message>
         <source>%1 People Online</source>
@@ -2796,11 +2796,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"/>
+        <translation>Εικόνες</translation>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Προβολή Επαφών</translation>
     </message>
     <message>
         <source>Click here to show contact list</source>
@@ -2808,7 +2808,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Προβολή Ιστορικού</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
@@ -2864,7 +2864,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Όλες οι Επαφές</translation>
     </message>
     <message>
         <source>Online Contacts</source>
@@ -2924,11 +2924,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;About Skype</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Περί Skype</translation>
     </message>
     <message>
         <source>Total Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Συνολικές Επαφές</translation>
     </message>
     <message>
         <source>Bookmarked Chats (0)</source>
@@ -2960,7 +2960,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Phone Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Αριθμοί Τηλεφώνου</translation>
     </message>
     <message>
         <source>Requests to New Contacts</source>
@@ -2968,7 +2968,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>1 free call</source>
-        <translation type="unfinished"/>
+        <translation>1 δωρεάν κλήση</translation>
     </message>
     <message>
         <source>Call any phone with Skype. Your first call is free.</source>
@@ -2976,7 +2976,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Buy Skype Credit</source>
-        <translation type="unfinished"/>
+        <translation>Αγορά Μονάδων Skype</translation>
     </message>
     <message>
         <source>Skype number expires in %1 days</source>
@@ -2984,11 +2984,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Buy a Skype number</source>
-        <translation type="unfinished"/>
+        <translation>Αγοράστε Αριθμό Skype</translation>
     </message>
     <message>
         <source>Skype number</source>
-        <translation type="unfinished"/>
+        <translation>Αριθμός Skype</translation>
     </message>
     <message>
         <source>Skype Voice Messaging</source>
@@ -3029,27 +3029,27 @@ Please try again later.</source>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Ειδοποιήσεις</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Συνομιλία</translation>
     </message>
     <message>
         <source>Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Προώθηση Κλήσης</translation>
     </message>
     <message>
         <source>Sound Devices</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευές Ήχου</translation>
     </message>
     <message>
         <source>Video Devices</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευές Βίντεο</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Για Προχωρημένους</translation>
     </message>
     <message>
         <source>Blocked People</source>
@@ -3065,7 +3065,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογές</translation>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
@@ -3073,11 +3073,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Start a call</source>
-        <translation type="unfinished"/>
+        <translation>Έναρξη κλήσης</translation>
     </message>
     <message>
         <source>Start a chat</source>
-        <translation type="unfinished"/>
+        <translation>Έναρξη συνομιλίας</translation>
     </message>
     <message>
         <source>Show me as &apos;Away&apos; when I am inactive for</source>
@@ -3085,7 +3085,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>λεπτά</translation>
     </message>
     <message>
         <source>Start Skype minimised in the system tray</source>
@@ -3093,7 +3093,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Set program language to:</source>
-        <translation type="unfinished"/>
+        <translation>Ορισμός γλώσσας προγράμματος σε:</translation>
     </message>
     <message>
         <source>anybody</source>
@@ -3117,15 +3117,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"/>
+        <translation>2 εβδομάδες</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"/>
+        <translation>1 μήνας</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"/>
+        <translation>3 μήνες</translation>
     </message>
     <message>
         <source>Disable History</source>
@@ -3173,7 +3173,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Play sound file:</source>
-        <translation type="unfinished"/>
+        <translation>Αναπαραγωγή αρχείου ήχου:</translation>
     </message>
     <message>
         <source>None Configured</source>
@@ -3201,7 +3201,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Ήχοι</translation>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
@@ -3241,7 +3241,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Learn more about Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Μάθετε περισσότερα σχετικά με την προώθηση κλήσεων</translation>
     </message>
     <message>
         <source>Forward calls when I&apos;m not on Skype</source>
@@ -3253,7 +3253,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>δευτερόλεπτα</translation>
     </message>
     <message>
         <source>Ringing</source>
@@ -3265,7 +3265,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Make a test call</source>
-        <translation type="unfinished"/>
+        <translation>Πραγματοποίηση δοκιμαστικής κλήσης</translation>
     </message>
     <message>
         <source>Allow Skype to automatically adjust my mixer levels</source>
@@ -3285,7 +3285,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype</source>
-        <translation type="unfinished"/>
+        <translation>Skype</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -3325,15 +3325,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Θύρα</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Χρήστης</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Συνθηματικό</translation>
     </message>
     <message>
         <source>Unblock Selected People</source>
@@ -3349,7 +3349,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Choose Sound File</source>
@@ -3389,7 +3389,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Υποβολή</translation>
     </message>
     <message>
         <source>You will be charged the standard rate for one SMS message.</source>
@@ -3409,11 +3409,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"/>
+        <translation>Μικρόφωνο</translation>
     </message>
     <message>
         <source>Speakers</source>
-        <translation type="unfinished"/>
+        <translation>Ηχεία</translation>
     </message>
     <message>
         <source>Choose style: </source>
@@ -3473,7 +3473,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Εμφάνιση Avatar</translation>
     </message>
     <message>
         <source>Pressing Enter will...</source>
@@ -3497,11 +3497,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Αυτόματη Αποδοχή Αρχείων</translation>
     </message>
     <message>
         <source>Save files to:</source>
-        <translation type="unfinished"/>
+        <translation>Αποθήκευση αρχείων σε:</translation>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
@@ -3528,7 +3528,7 @@ Please try again later.</source>
     <name>Quickfilter</name>
     <message>
         <source>Show contact list</source>
-        <translation type="unfinished"/>
+        <translation>Εμφάνιση λίστας επαφών</translation>
     </message>
     <message>
         <source>** Show contact list with groups</source>
@@ -3591,7 +3591,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Share Your Screen</source>
-        <translation type="unfinished"/>
+        <translation>Διαμοιρασμός της οθόνης σας</translation>
     </message>
     <message>
         <source>Share Full Screen</source>
@@ -3607,7 +3607,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Διαμοιρασμός οθόνης</translation>
     </message>
     <message>
         <source>Starting screen sharing will also start an audio call. Are you sure you want to start an audio call?</source>
@@ -3634,11 +3634,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Αποστολή</translation>
     </message>
     <message>
         <source>Do not send</source>
-        <translation type="unfinished"/>
+        <translation>Να μην αποσταλεί</translation>
     </message>
     <message>
         <source>Contacts in your list</source>
@@ -3650,7 +3650,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -3674,7 +3674,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή</translation>
     </message>
     <message>
         <source>Do not accept</source>
@@ -3725,7 +3725,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
@@ -3744,12 +3744,12 @@ Please try again later.</source>
     <name>Skype WiFi</name>
     <message>
         <source>Skype WiFi...</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi...</translation>
     </message>
     <message>
         <source>Skype WiFi</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi</translation>
     </message>
     <message>
         <source>Detecting Skype WiFi availability</source>
@@ -3797,7 +3797,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Διάρκεια: %1</translation>
     </message>
     <message>
         <source>Cost: %1</source>
@@ -3809,11 +3809,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>Αποσύνδεση</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Αποσυνδέθηκε</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has expired.</source>
@@ -3880,19 +3880,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Κινητό</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Οικία</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Εργασία</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Αποστολή SMS</translation>
     </message>
     <message>
         <source>Connection to server failed.</source>
@@ -3977,11 +3977,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Other</source>
-        <translation>Anna</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation>Send SMS-melding</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4016,11 +4016,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation>Vel nettkamera:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No devices found</source>
-        <translation>Fann inga eining</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable Auto-Exposure (darker video, higher frame rate)</source>
@@ -4031,11 +4031,11 @@ when I am in a call</source>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation>Spel av helsing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation>Spel inn ny helsing</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restore Default Greeting</source>
@@ -4043,11 +4043,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
-        <translation>Lengd: %1 sekund</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>seconds</source>
-        <translation> sekund</translation>
+        <translation>δευτερόλεπτα</translation>
     </message>
     <message>
         <source>I reject an incoming call</source>
@@ -4055,7 +4055,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>I am already on a call</source>
-        <translation>Eg er allereie i ein samtale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop Greeting Playback</source>
@@ -4063,7 +4063,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation>Avslutt innspeling</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I do not answer within</source>
@@ -4071,15 +4071,15 @@ when I am in a call</source>
     </message>
     <message>
         <source>Voice messaging is activated </source>
-        <translation>Talemelding er slått på</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice messaging is not activated</source>
-        <translation>Talemelding er ikkje slått på</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Voice message</source>
-        <translation>Send talemelding</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My voice message greeting</source>
@@ -4117,7 +4117,7 @@ Personalize your voice message greeting, save messages to listen to again, and l
     </message>
     <message>
         <source>Stop playback</source>
-        <translation>Stopp avspeling</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable voice messaging</source>
