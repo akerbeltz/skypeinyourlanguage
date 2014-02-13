@@ -3,15 +3,15 @@
 # Translators:
 # Ahmad Saber <ahmad.24.8mile@hotmail.com>, 2013-2014
 # daniel42 <d.danial42@yahoo.com>, 2013
-# daniel42 <d.danial42@yahoo.com>, 2013
+# daniel42 <d.danial42@yahoo.com>, 2013-2014
 # Rivan Abdulla <revin.computer@yahoo.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2014-01-16 15:57+0000\n"
-"Last-Translator: Ahmad Saber <ahmad.24.8mile@hotmail.com>\n"
+"PO-Revision-Date: 2014-02-05 17:39+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Kurdish (Iraq) (http://www.transifex.com/projects/p/skype-translation-project/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -130,7 +130,7 @@ msgstr "لە دوورەوە"
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
-msgstr " لەبەردەستا بوون نیە"
+msgstr " بەردەست نیە"
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
@@ -311,7 +311,7 @@ msgstr "داگیرساندنى سکایپ کاتێک ویندۆز دائەگیر
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "زیادکرنى وردەکاریەکانى پەیوەندیکار بۆ پڕۆفایلەکەت"
+msgstr "زیادکرنى وردەکاریەکانى هاوەڵ بۆ پڕۆفایلەکەت"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
@@ -385,7 +385,7 @@ msgstr "تەلەفۆن لەسەر ڕاگرتن"
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr "وەڵام دانەوەى پەیوەندى لە چاوەڕوانیدا"
+msgstr "هێشتنەوەی پەیوەندییەکە بە سەرهێڵی"
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
@@ -617,11 +617,11 @@ msgstr "هەمووی دیاری بکە"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr "ئينگلیزی"
+msgstr "English"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
-msgstr ""
+msgstr "دانانی ژمارە بۆ تەلەفۆنی خێرا"
 
 msgctxt "sF_SPEEDDIAL_LABEL"
 msgid "Enter new speed dial number for %s"
@@ -1684,7 +1684,7 @@ msgstr "وردەكاريى پەيوەنديى داواكار"
 
 msgctxt "sF_OPTIONS_NOTIF_VOICEMAIL"
 msgid "leaves me a voice message"
-msgstr ""
+msgstr "پەیامێکى دنگى من بەجێبهێلە"
 
 msgctxt "sF_OPTIONS_NOTIF_SENDCONTACTS"
 msgid "sends me contacts"
@@ -1712,7 +1712,7 @@ msgstr "پیشاندانى وریاکەرەوەیەک كاتێك کەسێک..."
 
 msgctxt "sF_OPTIONS_LB_CHAT"
 msgid "<b>IM settings:</b> Set up your IM options"
-msgstr ""
+msgstr "<b>ڕێکخستنەکانى پەیامى خێرا:</b> ڕێکخستنى ئامرازەکانى پەیامى خێرا"
 
 msgctxt "sF_OPTIONS_LINK_CONNECTION"
 msgid "Change your picture"
@@ -2205,7 +2205,7 @@ msgstr "لەبەرگرتنەوە"
 
 msgctxt "sF_USERINFO_BTN_COPY_PROFILE"
 msgid "Copy profile"
-msgstr "پڕۆفایل لەبەربگرەوە"
+msgstr "پرۆفایل لەبەربگرەوە"
 
 msgctxt "sF_OPTIONS_PAGE_FORWARDINGANDVOICEMAIL"
 msgid "Call forwarding"
@@ -2562,7 +2562,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT15"
 msgid "Skype incoming voice message"
-msgstr ""
+msgstr "هاتنى پەیامى دەنگى"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT16"
 msgid "Skype incoming file"
@@ -2586,11 +2586,11 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT21"
 msgid "Skype message sent"
-msgstr ""
+msgstr "ناردن پەیامى سکایپ"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT22"
 msgid "Skype voice message sent"
-msgstr ""
+msgstr "ناردنى پەیامى دەنگى"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT23"
 msgid "Skype file sending complete"
@@ -2602,7 +2602,7 @@ msgstr "ناردنى فایلى سکایپ سه‌رنه‌که‌وتووبوو
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT25"
 msgid "Contact added"
-msgstr ""
+msgstr "هاوەڵ زیادکرا"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT26"
 msgid "Contact left"
@@ -2622,15 +2622,15 @@ msgstr "2هەڵەى پەیوەندى"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
 msgid "incoming message"
-msgstr ""
+msgstr "پەیامى هاتوو"
 
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
-msgstr ""
+msgstr "هاوەڵى هاتوو"
 
 msgctxt "sF_OPTIONS_SOUNDS_VOICEMAIL"
 msgid "incoming voice message"
-msgstr ""
+msgstr "هاتنى پەیامى دەنگى"
 
 msgctxt "sF_OPTIONS_SOUNDS_FILE"
 msgid "incoming file"
@@ -2658,7 +2658,7 @@ msgstr "پەیامێکم نارد"
 
 msgctxt "sF_OPTIONS_SOUNDS_SEND_VM"
 msgid "I send a voice message"
-msgstr ""
+msgstr "من پەیامێکى دەنگى دەنێرم"
 
 msgctxt "sF_OPTIONS_SOUNDS_FT_COMPLETED"
 msgid "file has been sent"
@@ -2702,12 +2702,12 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
-msgstr ""
+msgstr "هەموو دەنگەکانى ڕێکدەخەیتەوە"
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_TEXT"
 msgid ""
 "All your sounds will be reset back to the original defaults. Are you sure?"
-msgstr ""
+msgstr "هەموو دەنگەکان ڕێکدەخرێنەوە بۆ شێوازى بنەرەت. تۆ دڵنیات ؟"
 
 msgctxt "sF_CONFIRM_REMOVE"
 msgid "Remove"
@@ -2727,7 +2727,7 @@ msgstr "دۆخ"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT10"
 msgid "New password can't be the same as the old password."
-msgstr ""
+msgstr "نابێت تێپەڕەوشە نوێکەت وەک تێپەڕەوشە کۆنەکەت بێت."
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT11"
 msgid "You must be signed in to change your password."
@@ -2763,7 +2763,7 @@ msgstr "رێکخستنەکانى وێبکام"
 
 msgctxt "sREMOVE_CONTACTS_PROMPT"
 msgid "Remove %d selected contacts?"
-msgstr ""
+msgstr "سڕینەوەى %d هاوەڵە دیاریکراوەکان?"
 
 msgctxt "sREMOVE_CONTACTS_TITLE"
 msgid "Remove contacts"
@@ -2900,7 +2900,7 @@ msgstr "رێکخستنەکانى کورتەنامە"
 
 msgctxt "sF_OPTIONS_LBC_SMS"
 msgid "<b>SMS settings:</b> Send text messages directly from Skype"
-msgstr ""
+msgstr "<b>ڕیکخستنەکانى کورتە نامە:</b> Send text messages directly from Skype"
 
 msgctxt "sF_OPTIONS_SMS_LB2"
 msgid "Send a verification code to your mobile number"
@@ -3080,7 +3080,7 @@ msgstr "رێکخستنى پێشکەوتوو"
 
 msgctxt "sF_OPTIONS_LBC_UPDATES"
 msgid "<b>Advanced settings:</b> Skype updates and external programs"
-msgstr ""
+msgstr "<b>ڕێکخستنى پێشکەوتوو :</b> نوێکاریەکان و بەرنامەى دەرەکى سکایپ"
 
 msgctxt "sCALL_LB2_DROPPED"
 msgid "Call dropped"
@@ -3223,11 +3223,11 @@ msgstr "دەستکاری ژمارەی تەلەفون"
 
 msgctxt "sBUDDYMENU_EDIT"
 msgid "Edit Contact..."
-msgstr ""
+msgstr "دەستکاریکردنى پەیوەندى..."
 
 msgctxt "sEDIT_MY_PROFILE"
 msgid "Edit Your Profile..."
-msgstr ""
+msgstr "دەستکارىکردنى پڕۆفایلەکەت..."
 
 msgctxt "sCHANGE_MY_PICTURE"
 msgid "Change Your Picture..."
@@ -3235,7 +3235,7 @@ msgstr "گۆڕینى وێنەکەت..."
 
 msgctxt "sCHANGE_SOUNDS"
 msgid "Change Sounds..."
-msgstr ""
+msgstr "گۆڕینى دەنگەکان..."
 
 msgctxt "sF_USERENTRY_LB_EULA3"
 msgid ""
@@ -3926,11 +3926,11 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_CAPTION1"
 msgid "Profile for IM:"
-msgstr ""
+msgstr "پێناسى پەڕگە بۆ پەیامى خێرا:"
 
 msgctxt "sF_CHAT_INFO_CAPTION2"
 msgid "Profile for public IM:"
-msgstr ""
+msgstr "پێناسى پەڕگە بۆ پەیامى خێراى گشتى:"
 
 msgctxt "sF_CHAT_INFO_BTN_CLOSE"
 msgid "Close"
@@ -4099,7 +4099,7 @@ msgstr "وریاکەرەوەکان و پەیامەکان"
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
-msgstr ""
+msgstr "<b>پەیامەکان و وریاکەرەوەکان:</b> زانيارى و يارمەتيى بەسوود دەربارەى سكايپ"
 
 msgctxt "sF_OPTIONS_ALERTS_LEARNMORE"
 msgid "<a href=\"skype:?go#help.faq.alerts\">Learn more</a>"
@@ -4219,20 +4219,20 @@ msgstr "کورتە نامە & پەیامى خێرا"
 
 msgctxt "SF_OPTIONS_GENERAL_CAPTION"
 msgid "<b>General settings:</b> Set up all the basics you need to use Skype"
-msgstr ""
+msgstr "<b>ڕێکخستنى گشتى:</b> دامەزراندنى بنچینەى سکایپ بەو شێوەیەى تۆ دەخوازى"
 
 msgctxt "sF_OPTIONS_AUDIO_CAPTION"
 msgid "<b>Audio settings:</b> Set up sound on your computer"
-msgstr ""
+msgstr "<b>رێکخستنەکانى دەنگ:</b> دامەزراندنى ڕێکخستنەکانى دەنگ لەسەر کۆمپیوتەرەکەت"
 
 msgctxt "sF_OPTIONS_SOUNDS_CAPTION"
 msgid ""
 "<b>Sounds:</b> Customize sounds for calls, IMs, alerts and notifications"
-msgstr ""
+msgstr "<b>دەنگەکان:</b> ڕێکخستنى دەنگەکانى تەلەفۆنکردن , پەیامى خێرا , وریاکەرەوەکان , و ئاگەداریەکان"
 
 msgctxt "sF_OPTIONS_NOTIFICATIONS_CAPTION"
 msgid "<b>Notification settings:</b> Choose what Skype alerts you to"
-msgstr ""
+msgstr "<b>ڕێکخستنەکانى ئاگەدارکردنەوە:</b> هەڵبژێرە سکایپ چۆن ئاگەدارت بکاتەوە"
 
 msgctxt "SF_OPTIONS_VOICEMAIL_CAPTION"
 msgid "<b>Voice messages:</b> Never miss a call again"
@@ -4323,7 +4323,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_TAKE_SNAPSHOT"
 msgid "Change your profile picture"
-msgstr "گۆڕینى وێنەى پڕۆفایڵەکەت "
+msgstr "گۆڕینى وێنەى پرۆفایڵەکەت "
 
 msgctxt "sF_OPTIONS_SMS_INFO"
 msgid ""
@@ -4874,7 +4874,7 @@ msgstr "لابردن"
 
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
-msgstr ""
+msgstr "زیادکردنی ژمارەی تەلەفون"
 
 msgctxt "sZAPBUTTON_SUBMITPASSWORD"
 msgid "Submit"
@@ -4958,11 +4958,11 @@ msgstr "هاوەڵان"
 
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
-msgstr "پەیوەندیەکان"
+msgstr "هاوەڵان"
 
 msgctxt "sZAPBUTTON_CONTACTSARROW"
 msgid "Contacts"
-msgstr "پەیوەندیەکان"
+msgstr "هاوەڵان"
 
 msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
 msgid "Selected contacts"
@@ -5482,7 +5482,7 @@ msgstr "لە"
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr "بە "
+msgstr "بەهۆى سکایپ"
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5626,7 +5626,7 @@ msgstr "زانیارى گشتى"
 
 msgctxt "sZAPBUTTON_PROFILEHIDE"
 msgid "Hide profile"
-msgstr "شاردنەوەى پڕۆفایل"
+msgstr "شاردنەوەى پرۆفایل"
 
 msgctxt "sZAPBUTTON_PROFILEMIN"
 msgid "Minimize Profile"
@@ -5634,7 +5634,7 @@ msgstr "بچووکردنەوەى پڕۆفیل"
 
 msgctxt "sZAPBUTTON_PROFILEMINCENT"
 msgid "Minimize Profile"
-msgstr "بچووکردنەوەى پڕۆفیڵ"
+msgstr "بچووکردنەوەى پرۆفایل"
 
 msgctxt "sZAPBUTTON_PROFILEMAX"
 msgid "Maximize Profile"
@@ -5670,7 +5670,7 @@ msgstr "زانیاری تاکەکەسیت"
 
 msgctxt "sZAPBUTTON_PROFILEFULL"
 msgid "Full profile"
-msgstr "زانیارى گشتى"
+msgstr "هەموو پرۆفایل"
 
 msgctxt "sZAPBUTTON_PROFILECONTACTS"
 msgid "Contacts only"
@@ -5938,7 +5938,7 @@ msgstr "پەیوەندى ڤیدیۆیی"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr "پەیوەندى ڤیدیۆیی"
+msgstr "تەلەفۆنى ڤیدیۆیی"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
@@ -6042,7 +6042,7 @@ msgstr "ڤیدیۆ بکوژێنەوە"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr "پاراستنى ڤیدیۆ لە"
+msgstr "پاراستنى ڤیدیۆ"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -6579,7 +6579,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_ABOUT_VIDEO_CALL"
 msgid "Find out more about video calls"
-msgstr ""
+msgstr "زياتر بزانە دەربارەى تەلەفونى ڤیدیۆى"
 
 msgctxt "sOPTIONS_NO_AUDIO_DEVICE"
 msgid "None"
@@ -6587,11 +6587,11 @@ msgstr "هپچ"
 
 msgctxt "sOPTIONS_UNMUTE_SPEAKERS"
 msgid "Automatically adjust speaker settings"
-msgstr ""
+msgstr "بەشێوەيەكى ئۆتۆماتيكى سازکارییەکان بڵندگۆ رێك دەخات"
 
 msgctxt "sSMS_RECIPIENTS"
 msgid "%d Recipients"
-msgstr ""
+msgstr "%d وەرگرەکان"
 
 msgctxt "sSMS_STATUS_PENDING_SINGLE"
 msgid "Sent"
@@ -6629,7 +6629,7 @@ msgstr "پێویستیت بە یەکەى سکایپە بۆ ناردنى پەیا
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_TOO_MANY"
 msgid "Sending too many files at once."
-msgstr ""
+msgstr "ناردنى پەڕگەى زیاتر بە یەکجار."
 
 msgctxt "sINTERVAL_TIME_UNITS"
 msgid ""
@@ -6837,7 +6837,7 @@ msgstr "داخستن"
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
-msgstr "پەیوەندیەکان"
+msgstr "هاوەڵان"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
@@ -7419,7 +7419,7 @@ msgstr ""
 
 msgctxt "sCONTACT_PROFILE_ADD_PHONE"
 msgid "Add a number to this profile"
-msgstr ""
+msgstr "زیادکردنى ژمارەیەک بۆ ئەم پرۆفایلە"
 
 msgctxt "sNOTIFY_API_AUTHORIZATION"
 msgid "%s wants to use Skype"
@@ -8163,19 +8163,19 @@ msgstr "هاوەڵى بنێرە..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
-msgstr ""
+msgstr "پیشاندانى پەڕگەى زانیارى گفتوگۆ"
 
 msgctxt "sACC_HIDE_CONVERSATION_PROFILE"
 msgid "Hide conversation profile"
-msgstr ""
+msgstr "شاردنەوەى پەڕگەى زانیارى گفتوگۆ"
 
 msgctxt "sACC_SHOW_CONTACT_PROFILE"
 msgid "Display contact profile"
-msgstr ""
+msgstr "پیشاندانى پرۆفایل"
 
 msgctxt "sACC_HIDE_CONTACT_PROFILE"
 msgid "Hide contact profile"
-msgstr ""
+msgstr "شاردنەوەى پرۆفایل"
 
 msgctxt "sACC_PROFILE_MOODMESSAGE"
 msgid "MoodMessage"
@@ -8376,7 +8376,7 @@ msgstr "نوێ"
 
 msgctxt "sMYSELF_CAPTURE_HINT_SLIDER"
 msgid "Slider"
-msgstr ""
+msgstr "Slider"
 
 msgctxt "sOPTIONS_LIMITED_EMERGENCY_CALLS1"
 msgid ""
@@ -9230,7 +9230,7 @@ msgstr ""
 
 msgctxt "sCQ_YOUR_COMP_SPEED_MEDIUM_TITLE"
 msgid "Your computer speed is good"
-msgstr ""
+msgstr "خێرایی کۆمپیەوتەرەکەت گونجاوە"
 
 msgctxt "sCQ_YOUR_COMP_SPEED_MEDIUM_DESC"
 msgid ""
@@ -9671,11 +9671,11 @@ msgstr "پرۆفایلى %s"
 
 msgctxt "sNO_WEBCAM_FORM_CAPTION"
 msgid "Can't detect a webcam"
-msgstr ""
+msgstr "ناتوانێت وێبکام ئامادەبکات"
 
 msgctxt "sNO_WEBCAM_FORM_HEADER"
 msgid "Skype can't detect any webcam"
-msgstr ""
+msgstr "سکایپ ناتوانێت وێبکام ئامادەبکات"
 
 msgctxt "sNO_WEBCAM_FORM_BODY_TEXT"
 msgid ""
@@ -10165,7 +10165,7 @@ msgstr ""
 
 msgctxt "sCQ_MSG_WEAK_NETWORK_TITLE"
 msgid "Internet connection problem"
-msgstr ""
+msgstr "کێشەى پەیوەندى ئينتەرنێت"
 
 msgctxt "sCQ_MSG_WEAK_NETWORK_TEXT"
 msgid ""
@@ -10188,7 +10188,7 @@ msgstr "گفتوگۆى تازە نیە"
 
 msgctxt "sINBOX_OLDER_THAN_A_WEEK"
 msgid "Older than a week"
-msgstr ""
+msgstr "کۆنتر لە هەفتەيێك"
 
 msgctxt "sPROFILE_ADD_EMAIL_TEXT"
 msgid "(Makes it easier to find you)"
@@ -10238,15 +10238,15 @@ msgstr "بەلاش"
 
 msgctxt "sLIVE_COMPACT_VIEW"
 msgid "Pop-out"
-msgstr ""
+msgstr "Pop-out"
 
 msgctxt "sAUTOFOCUS"
 msgid "Dynamic view"
-msgstr ""
+msgstr "بیناى دینامیکى"
 
 msgctxt "sMANUAL_FOCUS"
 msgid "Normal view"
-msgstr ""
+msgstr "بیناى ئاسایی"
 
 msgctxt "sAUTH_REQUEST_COMPANY"
 msgid "<b>%s</b> registered with Skype as an employee of <b>%s</b>"
@@ -11717,7 +11717,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_BUTTON"
 msgid "Connect"
-msgstr ""
+msgstr "پێکەوەبستن"
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
 msgid "%s per minute"
@@ -11725,7 +11725,7 @@ msgstr "%s بۆ هەر خولەکێک"
 
 msgctxt "sSKYPEWIFI_READY_FREE"
 msgid "FREE"
-msgstr ""
+msgstr "بێبەرامبەر"
 
 msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
@@ -11755,7 +11755,7 @@ msgstr "%s بۆ هەر خولەکێک"
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
 msgid "FREE"
-msgstr ""
+msgstr "بێبەرامبەر"
 
 msgctxt "sSKYPEWIFI_ONLINE_HEADER"
 msgid "You're online with Skype WiFi"
@@ -11823,7 +11823,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_FLOATER_AVAILABLE"
 msgid "Available"
-msgstr ""
+msgstr "بەردەستە"
 
 msgctxt "sSKYPEWIFI_FLOATER_CONNECTING"
 msgid "Connecting..."
@@ -11839,7 +11839,7 @@ msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_FAQ_TITLE"
 msgid "FAQ"
-msgstr ""
+msgstr "پرسیاری زۆرجار"
 
 msgctxt "sSKYPEWIFI_FAQ"
 msgid ""
@@ -11876,7 +11876,7 @@ msgstr "داخستن"
 
 msgctxt "sDELETE_THIS_VOICEMAIL_HINT"
 msgid "Delete this voice message"
-msgstr ""
+msgstr "ئەم پەیامە دەنگیە بسڕەوە"
 
 msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
@@ -11886,15 +11886,15 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
-msgstr ""
+msgstr "وێنەکانى پێشووترت"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADING"
 msgid "Sending"
-msgstr ""
+msgstr "ناردن"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
-msgstr ""
+msgstr "بنێرە"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_FAILED"
 msgid "Video message not sent"
@@ -12051,7 +12051,7 @@ msgstr ""
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER"
 msgid "Add number"
-msgstr ""
+msgstr "زیادکردنی ژمارە"
 
 msgctxt "sADD_PHONES_FORM_ADD_NAME"
 msgid "Add name"
@@ -12067,11 +12067,11 @@ msgstr "ناو"
 
 msgctxt "sADD_PHONES_FORM_TYPE"
 msgid "Type"
-msgstr ""
+msgstr "جۆر"
 
 msgctxt "sSMS_FAILED_BUY_CREDIT"
 msgid "<a href=\"skype:?payments\">Buy Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments\">کڕینى یەکەى سکایپ</a>"
 
 msgctxt "sMSN_UPSELL_PANEL_MESSAGE"
 msgid ""
@@ -12253,7 +12253,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_TOU_CAPTION"
 msgid "Terms of Use"
-msgstr ""
+msgstr "مەرجەکانى ئێمە"
 
 msgctxt "sCONVERSATION_FLAMINGO_PARTNER_BLOCKED"
 msgid ""
@@ -12386,7 +12386,7 @@ msgstr ""
 
 msgctxt "sACC_CONTACT_PHONE_EDIT_ENTER_NUMBER_HINT"
 msgid "enter number"
-msgstr ""
+msgstr "ژمارە تۆماربکە"
 
 msgctxt "sCONVERSATION_PASSPORT_PARTNER_BLOCKED_LINK"
 msgid ""
@@ -12400,7 +12400,7 @@ msgstr "بینینى زانیاریی تایبەتی"
 
 msgctxt "sHIDE_FULL_PROFILE"
 msgid "Hide full profile"
-msgstr "شاردنەوەى پڕۆفایل"
+msgstr "شاردنەوەى پرۆفایل"
 
 msgctxt "sPROFILE_ACCOUNTS"
 msgid "Accounts"
@@ -12412,7 +12412,7 @@ msgstr "بەڕێوبەر"
 
 msgctxt "sTOPUP_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
-msgstr ""
+msgstr "تێکردنى یەکەى سکایپ"
 
 msgctxt "sTOPUP_INTRO_PARAGRAPH"
 msgid ""
@@ -12438,11 +12438,11 @@ msgstr "ڕازىم <a href=\"%s\">مەرجى بەکارهێنان</a>"
 
 msgctxt "sTOPUP_INC_VAT"
 msgid "%s incl. VAT"
-msgstr ""
+msgstr "%s incl. VAT"
 
 msgctxt "sTOPUP_ADD_CREDIT"
 msgid "Add credit"
-msgstr ""
+msgstr "تێکردنى یەکەى"
 
 msgctxt "sTOPUP_CONFIRMATION"
 msgid ""

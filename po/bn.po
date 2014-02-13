@@ -2,6 +2,7 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # leemon2010 <Leemon432@gmail.com>, 2013-2014
+# farooqraju <farooqraju_07@yahoo.com>, 2014
 # leemon2010 <Leemon432@gmail.com>, 2013
 # mkmansur <mkmansur@gmail.com>, 2013
 msgid ""
@@ -9,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2014-01-06 17:05+0000\n"
-"Last-Translator: leemon2010 <Leemon432@gmail.com>\n"
+"PO-Revision-Date: 2014-02-10 15:04+0000\n"
+"Last-Translator: farooqraju <farooqraju_07@yahoo.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/projects/p/skype-translation-project/language/bn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -550,11 +551,11 @@ msgstr "আপনার গুপ্তসংকেত খুবই সংক্
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID"
 msgid "The password you have entered has invalid characters"
-msgstr ""
+msgstr "আপনি যে গুপ্ শব্দ প্রবেশ করিয়েছেন তার  অক্ষরগুলো সঠিক নয়"
 
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
-msgstr ""
+msgstr "সংযোগ"
 
 msgctxt "sF_OPTIONS_LB15"
 msgid "Use port"
@@ -570,11 +571,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CONNDATA_INVALIDPORT"
 msgid "Invalid port"
-msgstr ""
+msgstr "অকার্যকর প্রবেশপথ"
 
 msgctxt "sF_OPTIONS_CONNDATA_CHANGED"
 msgid "Your changes will be applied the next time you start Skype"
-msgstr ""
+msgstr "আপনার পরিবর্তনগুলি পরবর্তীতে স্কাইপ শুরু  সময় প্রয়োগ করা হবে"
 
 msgctxt "sF_OPTIONS_SOUNDDEVICESETTING_FAILED"
 msgid "Your sound devices aren't working. Please check your settings."
@@ -582,7 +583,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_DEVICES"
 msgid "Audio settings"
-msgstr ""
+msgstr "শব্দ বিন্যাস"
 
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
@@ -590,17 +591,17 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LB21"
 msgid "Speakers"
-msgstr ""
+msgstr "শব্দ শোণার যন্ত্র"
 
 msgctxt "sF_OPTIONS_LB22"
 msgid "Ringing"
-msgstr ""
+msgstr "বাজিতেছে"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SIMPLE"
 msgid ""
 "Your password needs to contain at least 1 letter and 1 number. Try a new "
 "password."
-msgstr ""
+msgstr "আপনার গপ্তশব্দটি কমপক্ষে একটি এবং একটি  নম্বর থাকতে হবে। নতুন একটি গপ্তশব্দ চেষ্টা করুন।"
 
 msgctxt "sF_OPTIONS_LB24"
 msgid "Use Skype to call callto: links on the web"
@@ -608,11 +609,11 @@ msgstr ""
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_COPY"
 msgid "Copy Selection"
-msgstr ""
+msgstr "নির্বাচিত অংশটি অনুকরণ"
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
-msgstr ""
+msgstr "সবগুলো অনুকরণ"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
@@ -634,7 +635,7 @@ msgstr ""
 
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
-msgstr ""
+msgstr "স্কাইপে সম্পর্কে"
 
 msgctxt "sF_OPTIONS_PAGE_KEYBOARD"
 msgid "Hotkeys"
@@ -642,31 +643,31 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_TCB11"
 msgid "Enable keyboard shortcuts"
-msgstr ""
+msgstr "কীবোর্ড সংক্ষিপ্ত সংকেত সক্রিয় করুন"
 
 msgctxt "sF_OPTIONS_TNTB6"
 msgid "Change selected shortcut"
-msgstr ""
+msgstr "নির্বাচিত সংক্ষিপ্ত সংকেত পরিবর্তন করুন"
 
 msgctxt "sHOTKEY_ANSWER"
 msgid "Answer call"
-msgstr ""
+msgstr "আহ্বানে সাড়া দিন"
 
 msgctxt "sHOTKEY_IGNORE"
 msgid "Ignore call"
-msgstr ""
+msgstr "আহ্বানে অগ্রাহ্য করুন।"
 
 msgctxt "sHOTKEY_HANGUP"
 msgid "Hang up"
-msgstr ""
+msgstr "ঝুলিয়ে রাখা"
 
 msgctxt "sHOTKEY_FOCUS"
 msgid "Focus Skype"
-msgstr ""
+msgstr "স্কাইপেতে মানুষ খুঁজুন"
 
 msgctxt "sHOTKEY_SEARCH"
 msgid "Search for people on Skype"
-msgstr ""
+msgstr "স্কাইপেতে মানুষ খুঁজুন"
 
 msgctxt "sF_HOTKEYEDIT_CAPTION"
 msgid "Set hotkey for %s"
@@ -684,15 +685,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_UNBLOCK"
 msgid "Unblock This Person"
-msgstr ""
+msgstr "এই ব্যক্তিকে অবরোধমুক্ত করুন"
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
-msgstr ""
+msgstr "নিঃশব্দ মাইক্রোফোন"
 
 msgctxt "sAVATAR_MENUITEM_UNMUTE"
 msgid "Unmute Microphone"
-msgstr ""
+msgstr "নিঃশব্দ মাইক্রোফোন সচল করুন"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
@@ -700,7 +701,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
-msgstr ""
+msgstr "সক্রিয়"
 
 msgctxt "sF_OPTIONS_HK_HOTKEY"
 msgid "Hotkey"
@@ -718,7 +719,7 @@ msgstr ""
 
 msgctxt "sSTATUS_PENDING"
 msgid "This person has not shared their details with you."
-msgstr ""
+msgstr "এই ব্যক্তি আপনার সাথে তার বিবরণ শেয়ার করেনি"
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
@@ -738,7 +739,7 @@ msgstr "বিরক্ত করবেন না"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
-msgstr ""
+msgstr "অবরুদ্ধ"
 
 msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
@@ -762,7 +763,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_APPLY"
 msgid "Apply"
-msgstr ""
+msgstr "প্রয়োগ করুন"
 
 msgctxt "sF_TRANSLATE_LOAD"
 msgid "Load"
@@ -780,23 +781,23 @@ msgstr "না"
 
 msgctxt "sF_TRANSLATE_COMMENT"
 msgid "Comment"
-msgstr ""
+msgstr "মন্তব্য"
 
 msgctxt "sF_TRANSLATE_ORIGINAL"
 msgid "Original"
-msgstr ""
+msgstr "মুল/আসল"
 
 msgctxt "sF_TRANSLATE_CURRENT"
 msgid "Current"
-msgstr ""
+msgstr "চলতি"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_BLOCK"
 msgid "Block this person"
-msgstr ""
+msgstr "এই ব্যক্তিকে অবরুধ করুন"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_UNBLOCK"
 msgid "Unblock this person"
-msgstr ""
+msgstr "এই ব্যক্তিকে অবরোধ মুক্ত করুন"
 
 msgctxt "sF_OPTIONS_TCB10"
 msgid "Automatically pause Winamp during calls"
@@ -816,7 +817,7 @@ msgstr ""
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr ""
+msgstr "সমস্ত কল সংযোগ বিচ্ছিন্ন করা হবে। আপনি অফলাইনে যাওয়ার বিষয়ে নিশ্চিত?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
@@ -840,11 +841,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG1_1"
 msgid "anyone"
-msgstr ""
+msgstr "যে কেহ"
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
-msgstr ""
+msgstr "শুধুমাত্র আমার যোগাযোগ তালিকার মানুষ"
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
@@ -852,19 +853,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG2_1"
 msgid "anyone"
-msgstr ""
+msgstr "যে কেহ"
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
-msgstr ""
+msgstr "শুধুমাত্র আমার যোগাযোগ তালিকার মানুষ"
 
 msgctxt "sQUIT_PROMPT_CAP"
 msgid "Sure you want to quit Skype?"
-msgstr ""
+msgstr "আপনি কি নিশ্চিতভাবে স্কাইপ প্রস্থান করতে চান?"
 
 msgctxt "sQUIT_PROMPT_TITLE"
 msgid "Quit Skype?"
-msgstr ""
+msgstr "স্কাইপ প্রস্থান?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT_CAP"
 msgid "Remove contact?"
@@ -876,19 +877,19 @@ msgstr ""
 
 msgctxt "sCONFIRM_OFFLINE_CAP"
 msgid "Go offline?"
-msgstr ""
+msgstr "অফলাইনে যাবেন?"
 
 msgctxt "sCONFIRM_OFFLINE_TITLE"
 msgid "Go offline?"
-msgstr ""
+msgstr "অফলাইনে যাবেন?"
 
 msgctxt "sCALLING_BLOCKED_CAP"
 msgid "Blocked"
-msgstr ""
+msgstr "অবরুদ্দ"
 
 msgctxt "sCALLING_BLOCKED_TITLE"
 msgid "Blocked"
-msgstr ""
+msgstr "অবরুদ্দ"
 
 msgctxt "sINFORM_DND_CAP"
 msgid "Warning"
@@ -922,15 +923,15 @@ msgstr "সতর্কবার্তা"
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_CAP"
 msgid "Save changes?"
-msgstr ""
+msgstr "পরিবর্তনগুলি সংরক্ষণ করুন?"
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_TITLE"
 msgid "Save changes?"
-msgstr ""
+msgstr "পরিবর্তনগুলি সংরক্ষণ করুন?"
 
 msgctxt "sLAST_SEEN"
 msgid "last seen:"
-msgstr ""
+msgstr "সর্বশেষ দেখা গিয়েছিল"
 
 msgctxt "sAVATAR_MENUITEM_CONF_REMOTE_HANGUP"
 msgid "Leave group call"
@@ -974,7 +975,7 @@ msgstr ""
 
 msgctxt "sF_STARTCONF_ADD_BUTTON"
 msgid "Select"
-msgstr ""
+msgstr "বাছাই করুন"
 
 msgctxt "sF_STARTCONF_REMOVE_BUTTON"
 msgid "Remove"
@@ -982,7 +983,7 @@ msgstr "সরান"
 
 msgctxt "sF_STARTCONF_START_BUTTON"
 msgid "Start"
-msgstr ""
+msgstr "শুরু করুন"
 
 msgctxt "sF_STARTCONF_CANCEL_BUTTON"
 msgid "Cancel"
@@ -1059,11 +1060,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_GREETING_RECORD"
 msgid "Record"
-msgstr ""
+msgstr "লিপিবদ্ধ করুন"
 
 msgctxt "sF_OPTIONS_GREETING_PLAYBACK"
 msgid "Playback"
-msgstr ""
+msgstr "পুনরায় চালু করা"
 
 msgctxt "sF_OPTIONS_GREETING_DELETE"
 msgid "Reset to default voicemail greeting"
@@ -1071,11 +1072,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_GREETING_STOP"
 msgid "Stop"
-msgstr ""
+msgstr "থামুন"
 
 msgctxt "sF_HOTKEY_EDITOR_OK"
 msgid "OK"
-msgstr ""
+msgstr "ঠিক আছে"
 
 msgctxt "sF_HOTKEY_EDITOR_CANCEL"
 msgid "Cancel"
@@ -1083,19 +1084,19 @@ msgstr "বাতিল"
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
-msgstr ""
+msgstr "বাসা (%স)"
 
 msgctxt "sCALL_PSTN_MOBILE"
 msgid "Mobile (%s)"
-msgstr ""
+msgstr "মোবাইল (%স)"
 
 msgctxt "sCALL_PSTN_OFFICE"
 msgid "Office (%s)"
-msgstr ""
+msgstr "কার্যালয় (%স)"
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr ""
+msgstr "স্কাইপে কল"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1117,11 +1118,11 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_OPENDLG_CAPTION"
 msgid "Choose your picture"
-msgstr ""
+msgstr "আপনার ছবি পছন্দ করুন"
 
 msgctxt "sF_OPTIONS_TCB18"
 msgid "Show emoticons"
-msgstr ""
+msgstr "আপণাড় অনুভূতি দেখান"
 
 msgctxt "sF_AVATAR_BROWSER_WRONG_FILE"
 msgid "The file you chose was invalid."
@@ -1141,11 +1142,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL"
 msgid "File sent."
-msgstr ""
+msgstr "নথি পাঠানো হয়েছে"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_RECEIVED"
 msgid "File received."
-msgstr ""
+msgstr "নথি গ্রহণ করা হয়েছে"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED"
 msgid "Sending cancelled"
@@ -1166,7 +1167,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_CAP"
 msgid "Stop sending file"
-msgstr ""
+msgstr "নথি পাঠানো বন্ধ করুন"
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
@@ -1243,23 +1244,23 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10504"
 msgid "Could not connect"
-msgstr ""
+msgstr "যোগাযোগ করা সম্ভব হয়নি"
 
 msgctxt "sPSTN_RES_10600"
 msgid "Network busy"
-msgstr ""
+msgstr "নেটওয়ার্ক ব্যস্ত"
 
 msgctxt "sPSTN_RES_10603"
 msgid "Number busy"
-msgstr ""
+msgstr "নম্বরটি ব্যস্ত"
 
 msgctxt "sPSTN_RES_10604"
 msgid "Invalid phone number"
-msgstr ""
+msgstr "নম্বরটি সঠিক নয়"
 
 msgctxt "sPSTN_RES_10686"
 msgid "Network busy"
-msgstr ""
+msgstr "নেটওয়ার্ক ব্যস্ত"
 
 msgctxt "sINFORM_PASSWORD_OUTDATED_LOGOFF"
 msgid ""
@@ -1338,7 +1339,7 @@ msgstr ""
 
 msgctxt "sACL_OK"
 msgid "OK"
-msgstr ""
+msgstr "ঠিক আছে"
 
 msgctxt "sACL_REMOVE"
 msgid "Remove"
@@ -1354,7 +1355,7 @@ msgstr ""
 
 msgctxt "sACL_WHAT_TO_DO"
 msgid "What would you like to do?"
-msgstr ""
+msgstr "আপনি কি করতে চান?"
 
 msgctxt "sACL_NAME"
 msgid "Name"
@@ -1484,15 +1485,15 @@ msgstr ""
 
 msgctxt "sNUMBER_HIDDEN"
 msgid "Unknown phone number"
-msgstr ""
+msgstr "অপরিচিত নম্বর"
 
 msgctxt "sF_APIACL_CERTIFICATE"
 msgid "Certificate"
-msgstr ""
+msgstr "সনদপত্র"
 
 msgctxt "sACL_FAQ_LINK"
 msgid "What does this mean?"
-msgstr ""
+msgstr "এর অর্থ কি?"
 
 msgctxt "sF_MULTICHAT_SEND_FILE"
 msgid "Send file"
@@ -1536,7 +1537,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_PORT"
 msgid "Port"
-msgstr ""
+msgstr "প্রবেশপথ"
 
 msgctxt "sF_OPTIONS_SOCKS_USERNAME"
 msgid "Username"
@@ -1576,7 +1577,7 @@ msgstr "৩ মাস"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_4"
 msgid "forever"
-msgstr ""
+msgstr "চিরদিন"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
@@ -1592,7 +1593,7 @@ msgstr ""
 
 msgctxt "sF_STARTCHAT_START_BUTTON"
 msgid "Create"
-msgstr ""
+msgstr "তৈরি করুন"
 
 msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
@@ -1600,7 +1601,7 @@ msgstr ""
 
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
-msgstr ""
+msgstr "ফোণ নম্বরগূলো"
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TEXT"
 msgid ""
@@ -1619,7 +1620,7 @@ msgstr ""
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
-msgstr ""
+msgstr "কথোপকথনে যোগ দিন "
 
 msgctxt "sF_MULTICHAT_EDIT_UNDO"
 msgid "Undo"
@@ -1627,11 +1628,11 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_CUT"
 msgid "Cut"
-msgstr ""
+msgstr "কর্তন"
 
 msgctxt "sF_MULTICHAT_EDIT_COPY"
 msgid "Copy"
-msgstr ""
+msgstr "অনুকরণ"
 
 msgctxt "sF_MULTICHAT_EDIT_PASTE"
 msgid "Paste"
@@ -1663,11 +1664,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_ONLINE"
 msgid "comes online"
-msgstr ""
+msgstr "অনলাইন আসে"
 
 msgctxt "sF_OPTIONS_NOTIF_OFFLINE"
 msgid "goes offline"
-msgstr ""
+msgstr "অফলাইন যায়"
 
 msgctxt "sF_OPTIONS_NOTIF_CHAT"
 msgid "starts an IM with me"
@@ -1675,7 +1676,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_FILE"
 msgid "sends me a file"
-msgstr ""
+msgstr "আমাকে একটি নথি পাঠান"
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
@@ -1715,7 +1716,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_CONNECTION"
 msgid "Change your picture"
-msgstr ""
+msgstr "আপনার ছবি পরিবর্তন করুন"
 
 msgctxt "sF_OPTIONS_LINK_LEARN_MORE"
 msgid "Learn more about how Skype deals with proxies and firewalls"
@@ -1727,11 +1728,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_DEVICES"
 msgid "Volume"
-msgstr ""
+msgstr "শব্দের প্রাবল্য "
 
 msgctxt "sF_OPTIONS_LBC_GENERAL"
 msgid "General settings"
-msgstr ""
+msgstr "সাধারণ বিন্যাস"
 
 msgctxt "sF_OPTIONS_LBC_HOTKEYS"
 msgid ""
@@ -1744,7 +1745,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_OTHER"
 msgid "Other things you can do"
-msgstr ""
+msgstr "আপনি অন্যান্য বিষয় যা করতে পারেন "
 
 msgctxt "sF_OPTIONS_LBC_PRIVACY"
 msgid "<b>Privacy settings:</b> Protect yourself from unwanted calls and IMs"
@@ -1752,7 +1753,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_SOUNDS"
 msgid "Choose which sound to play"
-msgstr ""
+msgstr "বাজানর জন্য শব্দ পছন্দ করুন "
 
 msgctxt "sF_OPTIONS_VM_DURATION"
 msgid "Duration: %s sec"
@@ -1836,7 +1837,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG3_1"
 msgid "anyone"
-msgstr ""
+msgstr "যে কেহ"
 
 msgctxt "sF_OPTIONS_RG3_2"
 msgid "block calls when phone number is hidden"
@@ -1848,11 +1849,11 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
-msgstr ""
+msgstr "ঠিক আছে"
 
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
-msgstr ""
+msgstr "কল বিন্যাস"
 
 msgctxt "sF_USERPROFILE_LB_GENDER"
 msgid "Gender"
@@ -1860,7 +1861,7 @@ msgstr "লিঙ্গ"
 
 msgctxt "sF_USERPROFILE_LB_REGION"
 msgid "State/Province"
-msgstr ""
+msgstr "রাষ্ট্র/প্রদেশ"
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT2"
 msgid ""
@@ -7040,7 +7041,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr ""
+msgstr "সরঞ্জাম"
 
 msgctxt "sMAINMENU_TOOLS_EXTRAS"
 msgid "Apps"

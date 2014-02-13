@@ -1,55 +1,48 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# AiseluRB <aiselu1995@gmail.com>, 2013
-# Загир <zagir2@mail.ru>, 2013
-# гузяль <guzyal.karimova@yandex.ru>, 2014
-# гузяль <guzyal.karimova@yandex.ru>, 2014
-# Загир <zagir2@mail.ru>, 2014
-# Рөстәм Нурыев <rnuriev1@gmail.com>, 2013
-# Үҫәргән егете <ilnur.pochta@gmail.com>, 2013
-# Үҫәргән егете <ilnur.pochta@gmail.com>, 2013
+# asrorul_irsyad <culture.traveller@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2014-02-05 17:40+0000\n"
+"PO-Revision-Date: 2014-02-05 17:41+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
-"Language-Team: Bashkir (http://www.transifex.com/projects/p/skype-translation-project/language/ba/)\n"
+"Language-Team: Indonesian (http://www.transifex.com/projects/p/skype-translation-project/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ba\n"
+"Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr "Элемтәлә"
+msgstr "Online"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr "Элемтәлә түгел"
+msgstr "Offline"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
-msgstr "Урында юҡ"
+msgstr "Tidak di tempat"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "Борсомаҫҡа"
+msgstr "Jangan Ganggu"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
-msgstr "Күренмәгән"
+msgstr "Tak terlihat"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr "Яуап юҡ"
+msgstr "Tidak ada jawaban"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
-msgstr "Бушамай"
+msgstr "Sibuk"
 
 msgctxt "sQUIT_PROMPT"
 msgid ""
@@ -58,11 +51,11 @@ msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
-msgstr "Кире ҡағырға"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "&Ярҙам"
+msgstr "&Bantuan"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
@@ -70,79 +63,79 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_UPDATES"
 msgid "Check for Updates"
-msgstr "Яңыртыуҙарҙы  тикшереү"
+msgstr ""
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "Саҡырыу"
+msgstr "Panggil"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
-msgstr "Чат"
+msgstr "Kirim IM"
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Профильды ҡарарға"
+msgstr "Lihat Profil"
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
-msgstr "Исемен үҙгәртергә..."
+msgstr "Ubah nama..."
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr "Бәйләнештән алып ташларға"
+msgstr "Hapus Kontak"
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
-msgstr "Бәйләнештәргә өҫтәргә"
+msgstr "Tambahkan ke Kontak"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
-msgstr "Онлайн статусы"
+msgstr "Status Online"
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
-msgstr "Skype программаһын асыу"
+msgstr "Buka Skype"
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr "Сығыу"
+msgstr "Keluar"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "... яҙылырға"
+msgstr ""
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
-msgstr "Скайп"
+msgstr ""
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
-msgstr "тоташыу"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
-msgstr "Селтәрҙә түгел"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_ONLINE"
 msgid "Online"
-msgstr "Селтәрҙә"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_AWAY"
 msgid "Away"
-msgstr "Алыҫ"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
-msgstr "сыҡты"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
-msgstr "Ҡамасауламаҫҡа"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
-msgstr "йәшерен"
+msgstr ""
 
 msgctxt "sTRAYHINT_PROFILE_LOGGED_OUT"
 msgid "Not Connected"
@@ -159,87 +152,87 @@ msgstr ""
 
 msgctxt "sF_USERINFO_INVALID_USER"
 msgid "Skype Name not found"
-msgstr "Бындай Скайп Исеме табылманы"
+msgstr ""
 
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
-msgstr "%s өсөн профиль"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_FULLNAME"
 msgid "Full name"
-msgstr "Тулы исемегеҙ"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_LANGUAGE"
 msgid "Language"
-msgstr "Тел"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPHONE"
 msgid "Home phone"
-msgstr "Өй телефоны"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_OFFICEPHONE"
 msgid "Office phone"
-msgstr "Офистағы телефон"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Мобиль телефон"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPAGE"
 msgid "Website"
-msgstr "Веб-сайт"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_ABOUT"
 msgid "About me"
-msgstr "Үҙем тураһында"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_BIRTHDATE"
 msgid "Birth date"
-msgstr "Тыуған көн"
+msgstr ""
 
 msgctxt "sSEX_MALE"
 msgid "Male"
-msgstr "Ир-егет"
+msgstr ""
 
 msgctxt "sSEX_FEMALE"
 msgid "Female"
-msgstr "Ҡатын-ҡыҙ"
+msgstr ""
 
 msgctxt "sF_USERENTRY_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr "Кире ҡағырға"
+msgstr ""
 
 msgctxt "sF_USERENTRY_CAPTION_CREATE_ACCOUNT"
 msgid "Create account"
-msgstr "Аккаунт эшләргә"
+msgstr ""
 
 msgctxt "sF_USERENTRY_INFO_CREATE_ACCOUNT"
 msgid "Create a new Skype account"
-msgstr "Аккаунт эшләргә"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_CHOOSE_USERNAME"
 msgid "Create Skype Name"
-msgstr "Скайп исемен яҙырға"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
-msgstr "Скайп исеме"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
-msgstr "Серһүҙ"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD2"
 msgid "Repeat password"
-msgstr "Серһүҙҙе ҡабатлағыҙ"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
-msgstr "Серһүҙҙе оноттоғоҙмо?"
+msgstr ""
 
 msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
 msgid "Yes, send me Skype news and promotions"
-msgstr "Эйе, миңә Скайп яңылыҡтарын һәм акцияларын ебәрегеҙ"
+msgstr ""
 
 msgctxt "sF_USERENTRY_SIGNIN"
 msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
@@ -251,31 +244,31 @@ msgstr ""
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
-msgstr "Милләт-ара Закондар тарафынан һаҡланған. Бөтә Хоҡуҡтар ҙа һаҡланған."
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_FULLNAME"
 msgid "Full name"
-msgstr "Тулы исем"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
-msgstr "Тыуған көн"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_LANGUAGE"
 msgid "Language"
-msgstr "Тел"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
-msgstr "Ил/Регион"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_PROVINCE"
 msgid "State/Province"
-msgstr "Штат/Провинция"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_CITY"
 msgid "City"
-msgstr "Ҡала"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_OFFICEPHONE"
 msgid "Office phone"
@@ -311,7 +304,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
-msgstr "Windows ебәргәндә, Скайпты ла ебәрергә"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
@@ -335,7 +328,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
-msgstr "Һаҡларға"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_CANCEL"
 msgid "Cancel"
@@ -533,19 +526,19 @@ msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
-msgstr "Ебәреү"
+msgstr "Kirim"
 
 msgctxt "sYESTERDAY"
 msgid "Yesterday"
-msgstr "Кисәге"
+msgstr "Kemarin"
 
 msgctxt "sTODAY"
 msgid "Today"
-msgstr "Бөгөн"
+msgstr "Hari ini"
 
 msgctxt "sDURATION"
 msgid "Duration"
-msgstr "Оҙайлыҡ"
+msgstr "Durasi"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
@@ -621,7 +614,7 @@ msgstr ""
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr "Башҡорт"
+msgstr "Bahasa Inggris"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -727,23 +720,23 @@ msgstr ""
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr "Элемтәлә түгел"
+msgstr "Offline"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
-msgstr "Элемтәлә"
+msgstr "Online"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
-msgstr "Урында юҡ"
+msgstr "Tidak di tempat"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr "Борсомаҫҡа"
+msgstr "Jangan Ganggu"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
-msgstr "Тыйылғандар"
+msgstr "Diblokir"
 
 msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
@@ -1100,7 +1093,7 @@ msgstr ""
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr "Скайп аша шылтыратыу"
+msgstr "Panggilan Skype"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1158,7 +1151,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_SAVEDLG_TITLE"
 msgid "Save"
-msgstr "Һаҡларға"
+msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT"
 msgid ""
@@ -1183,15 +1176,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDFILE"
 msgid "Send File..."
-msgstr "Файл ебәреү..."
+msgstr "Kirim Berkas..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
-msgstr "Кире ҡағылған"
+msgstr "Dibatalkan"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr "Ебәреп булманы"
+msgstr "Pengiriman gagal"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1469,7 +1462,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr "Тауышлы Хат ебәрергә"
+msgstr "Kirim Pesan Suara"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this group?"
@@ -1561,7 +1554,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_DELETE_HISTORY"
 msgid "Clear history"
-msgstr "Тарихты юйырға"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_0"
 msgid "no history"
@@ -1569,15 +1562,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_1"
 msgid "2 weeks"
-msgstr "2 аҙна"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_2"
 msgid "1 month"
-msgstr "1 ай"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_3"
 msgid "3 months"
-msgstr "3 ай"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_4"
 msgid "forever"
@@ -1986,51 +1979,51 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
-msgstr "Ғинуар - Һыуығай"
+msgstr "Januari"
 
 msgctxt "sF_USERPROFILE_MONTHNAME2"
 msgid "February"
-msgstr "Февраль - Шаҡай"
+msgstr "Februari"
 
 msgctxt "sF_USERPROFILE_MONTHNAME3"
 msgid "March"
-msgstr "Март - Буранай"
+msgstr "Maret"
 
 msgctxt "sF_USERPROFILE_MONTHNAME4"
 msgid "April"
-msgstr "Апрель - Алағарай"
+msgstr "April"
 
 msgctxt "sF_USERPROFILE_MONTHNAME5"
 msgid "May"
-msgstr "Май - Һабанай"
+msgstr "Mei"
 
 msgctxt "sF_USERPROFILE_MONTHNAME6"
 msgid "June"
-msgstr "Июнь - Һөтай"
+msgstr "Juni"
 
 msgctxt "sF_USERPROFILE_MONTHNAME7"
 msgid "July"
-msgstr "Июль - Майай"
+msgstr "Juli"
 
 msgctxt "sF_USERPROFILE_MONTHNAME8"
 msgid "August"
-msgstr "Август - Урағай"
+msgstr "Agustus"
 
 msgctxt "sF_USERPROFILE_MONTHNAME9"
 msgid "September"
-msgstr "Сентябрь - Һарысай"
+msgstr "September"
 
 msgctxt "sF_USERPROFILE_MONTHNAME10"
 msgid "October"
-msgstr "Октябрь - Ҡарасай"
+msgstr "Oktober"
 
 msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
-msgstr "Ноябрь - Ҡырпағай"
+msgstr "Nopember"
 
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr "Декабрь - Аҡъюлай"
+msgstr "Desember"
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -2896,7 +2889,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr "SMS-хат ебәрергә"
+msgstr "Kirim Pesan SMS"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
@@ -4067,11 +4060,11 @@ msgstr ""
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
-msgstr "%s шылтырата"
+msgstr "%s memanggil"
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
-msgstr "Микрофонды һүндереү"
+msgstr "Ubah mikrofon Anda ke mode bisu"
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
@@ -4488,7 +4481,7 @@ msgstr ""
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr "Шылтыратыуҙы туҡтатырға"
+msgstr "Akhiri Panggilan"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
@@ -4650,15 +4643,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
-msgstr "Яуап"
+msgstr "Jawab"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
-msgstr "Видео яуап"
+msgstr "Jawab dengan video"
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr "Ҡабул итеү"
+msgstr "Terima"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
@@ -4686,7 +4679,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
-msgstr "Саҡырыу"
+msgstr "Panggil"
 
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
@@ -4694,7 +4687,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLWHICH"
 msgid "Call"
-msgstr "Саҡырыу"
+msgstr "Panggil"
 
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
@@ -4958,15 +4951,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
-msgstr "Бәйләнештәр"
+msgstr "Kontak"
 
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
-msgstr "Бәйләнештәр"
+msgstr "Kontak"
 
 msgctxt "sZAPBUTTON_CONTACTSARROW"
 msgid "Contacts"
-msgstr "Бәйләнештәр"
+msgstr "Kontak"
 
 msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
 msgid "Selected contacts"
@@ -4978,7 +4971,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
-msgstr "Кәмеү"
+msgstr "Tolak"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -5342,11 +5335,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
-msgstr "Шылтыратыуҙы туҡтатырға"
+msgstr "Akhiri panggilan"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr "Саҡырыу"
+msgstr "Panggil"
 
 msgctxt "sZAPBUTTON_INSTANTMESSAGE"
 msgid "Instant Message"
@@ -5486,7 +5479,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr "Skype аша"
+msgstr "melalui Skype"
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5590,7 +5583,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_PHONES"
 msgid "Call"
-msgstr "Саҡырыу"
+msgstr "Panggil"
 
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
@@ -5714,7 +5707,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REJECT"
 msgid "Reject"
-msgstr "Кирегә"
+msgstr "Tolak"
 
 msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
@@ -5730,11 +5723,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr "Шылтыратыу резюмеһы"
+msgstr "Lanjutkan Panggilan"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr "Тейәүҙе дауам итергә"
+msgstr "Lanjutkan unduhan"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -5778,47 +5771,47 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
-msgstr "Бөтәһен дә һаҡларға"
+msgstr "Simpan semua"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
-msgstr "Бәйләнеште һаҡларға"
+msgstr "Simpan Kontak"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
-msgstr "Бөтәһен дә кире ҡағырға"
+msgstr "Batalkan semua"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
-msgstr "Нисек һаҡларға"
+msgstr "Simpan sebagai"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
-msgstr "Видеомды ҡарағыҙ"
+msgstr "Lihat videoku"
 
 msgctxt "sZAPBUTTON_HIDEVIDEO"
 msgid "Hide my video"
-msgstr "Видеомды йәшерергә"
+msgstr "Sembunyikan videoku"
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr "Файл ебәрергә"
+msgstr "Kirim berkas"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Бәйләнештәрҙе ебәрергә"
+msgstr "Kirim Kontak..."
 
 msgctxt "sZAPBUTTON_SENDMESSAGE"
 msgid "Send message"
-msgstr "Хат ебәрергә"
+msgstr "Kirim pesan"
 
 msgctxt "sZAPBUTTON_SENDSMS"
 msgid "Send SMS"
-msgstr "SMS ебәрергә"
+msgstr "Kirim SMS"
 
 msgctxt "sZAPBUTTON_SEARCH"
 msgid "Search"
-msgstr "Эҙләү"
+msgstr "Cari"
 
 msgctxt "sZAPBUTTON_SEARCHHISTORY"
 msgid "Search History"
@@ -5854,7 +5847,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDCONTACTS"
 msgid "Add to Contacts"
-msgstr "Бәйләнештәргә өҫтәргә"
+msgstr "Tambahkan ke Kontak"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5874,11 +5867,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
-msgstr "Ебәреү"
+msgstr "Kirim"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr "Үтәлде"
+msgstr "Selesai"
 
 msgctxt "sZAPBUTTON_SEARCHAGAIN"
 msgid "Search again"
@@ -5930,7 +5923,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
-msgstr "SMS ебәрергә"
+msgstr "Kirim SMS"
 
 msgctxt "sZAPBUTTON_SOUNDOUT"
 msgid "<center>Press Me</center>"
@@ -5938,23 +5931,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr "Видеошылтыратыу"
+msgstr "Panggilan Video"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr "Видеошылтыратыу"
+msgstr "Panggilan Video"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr "Видео-хат"
+msgstr "Pesan Video"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr "Видео-хат ебәреү"
+msgstr "Kirim Pesan Video"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr "Видео-хатты уйнатыу"
+msgstr "Mainkan pesan video"
 
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
@@ -6010,11 +6003,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIEWMESSAGES"
 msgid "View older messages"
-msgstr "Элек алынған хаттарҙы ҡарау"
+msgstr "Lihat pesan yang lebih lama"
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Профильды ҡарарға"
+msgstr "Lihat Profil"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View account"
@@ -6030,23 +6023,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr "Видео ҡабыҙығыҙ"
+msgstr "Nyalakan video"
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr "Видео һүндерегеҙ"
+msgstr "Matikan video"
 
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr "Видео"
+msgstr "Video"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr "Видео һүндерегеҙ"
+msgstr "Matikan video"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr "Видеоны һаҡларға"
+msgstr "Biarkan video menyala"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -6062,11 +6055,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
-msgstr "Экран күләме..."
+msgstr "Bagikan layar..."
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
 msgid "Close"
-msgstr "Ябырға"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCHANGESELECTION"
 msgid "Change selection"
@@ -6360,11 +6353,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_INCOMING"
 msgid "Call from %s"
-msgstr " %s шылтырата"
+msgstr "Panggilan dari %s"
 
 msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
-msgstr "%s шылтыратыу"
+msgstr "Panggilan ke %s"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
@@ -6722,15 +6715,15 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr "%s номерынан ҡабул ителмәгән шылтыратыу"
+msgstr "Panggilan tak terjawab dari %s."
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
-msgstr "%s номерынан шылтыратыу, %s ваҡыт дауам итә"
+msgstr "Panggilan dari %s, durasi %s."
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr "%s номерынан шылтыратыу, %s ваҡыт дауам итә"
+msgstr "Panggilan ke %s, durasi %s."
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -6809,7 +6802,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Элемтәләге дәрәжә"
+msgstr "Status Online"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -6841,7 +6834,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
-msgstr "Бәйләнештәр"
+msgstr "Kontak"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
@@ -6865,7 +6858,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Элемтәләге дәрәжә"
+msgstr "Status Online"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -6961,23 +6954,23 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
-msgstr "Саҡырыу"
+msgstr "Panggil"
 
 msgctxt "sMAINMENU_CALL_START"
 msgid "Call"
-msgstr "Саҡырыу"
+msgstr "Panggil"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr "Видео саҡырыу"
+msgstr "Panggilan video"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
-msgstr "Яуап"
+msgstr "Jawab"
 
 msgctxt "sMAINMENU_CALL_IGNORE"
 msgid "Ignore"
-msgstr "Иғтибарһыҙ ҡалдырыу"
+msgstr "Ignore"
 
 msgctxt "sMAINMENU_CALL_MUTE"
 msgid "Mute Microphone"
@@ -7025,19 +7018,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
-msgstr "Күренеш"
+msgstr "Lihat"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
-msgstr "Бәйләнештәр"
+msgstr "Kontak"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr "Һуңғылар"
+msgstr "Terbaru"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr "Шәхси мәғлүмәт"
+msgstr "Profil"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -7045,7 +7038,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr "Уңайлыҡтар"
+msgstr "Alat"
 
 msgctxt "sMAINMENU_TOOLS_EXTRAS"
 msgid "Apps"
@@ -7053,7 +7046,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
-msgstr "Телде үҙгәртергә"
+msgstr "Ubah Bahasa"
 
 msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY"
 msgid "Accessibility"
@@ -7073,7 +7066,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr "Ярҙам"
+msgstr "Bantuan"
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
@@ -7157,23 +7150,23 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr "Кисәге"
+msgstr "Kemarin"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr "7 көн"
+msgstr "7 hari"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr "30 көн"
+msgstr "30 hari"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr "Баштан"
+msgstr "Dari Awal"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr "%s хатты күрһәтергә"
+msgstr "Lihat pesan dari: %s"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -7331,7 +7324,7 @@ msgstr ""
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
-msgstr "%s номерына файл ебәрергә"
+msgstr "Kirim berkas ke %s"
 
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
@@ -8051,11 +8044,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_REJECTED_IN"
 msgid "Call from %s declined."
-msgstr "%s шылтыратыуы баҫылды"
+msgstr "Panggilan dari %s ditolak."
 
 msgctxt "sFLOW_CALL_UNANSWERED_OUT"
 msgid "Call to %s, no answer."
-msgstr "%s телефонды алмай"
+msgstr "Panggilan ke %s, tidak ada jawaban."
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
@@ -8159,11 +8152,11 @@ msgstr ""
 
 msgctxt "sBIRTHDAY_TODAY"
 msgid "%s has a birthday today"
-msgstr "Бөгөн %s тыуған көнө"
+msgstr "%s hari ini berulangtahun"
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Бәйләнештәрҙе ебәрергә"
+msgstr "Kirim Kontak..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -8300,27 +8293,27 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
 msgid "In call"
-msgstr "Саҡырыуҙарға"
+msgstr "Panggilan masuk"
 
 msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
 msgid "On hold"
-msgstr "Көтөлә"
+msgstr "Panggilan ditahan"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
 msgid "Muted"
-msgstr "Тауышы баҫылған"
+msgstr "Bisu"
 
 msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
 msgid "Missed call"
-msgstr "Ҡабул ителмәгән шылтыратыу"
+msgstr "Panggilan tak terjawab"
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
-msgstr "Шылтыратыу тауышы"
+msgstr "Sedang memanggil"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr "Шылтыратыу тамамланған"
+msgstr "Panggilan diakhiri"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -8411,7 +8404,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr "Йылмайлик ҡуйығыҙ \n        "
+msgstr "Masukkan emotikon"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8443,15 +8436,15 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr "Саҡырыуға яуап биреү"
+msgstr "Jawab Panggilan"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr "Саҡырыуҙы иғтибарһыҙ ҡалдырыу"
+msgstr "Abaikan Panggilan"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr "Трубканы һалырға"
+msgstr "Tutup Panggilan"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -9954,11 +9947,11 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr "Һуңғылар"
+msgstr "Terbaru"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
-msgstr "Эҙләү"
+msgstr "Cari"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
@@ -10097,7 +10090,7 @@ msgstr ""
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr "Элегерәк килгән хаттарҙы ҡарарға"
+msgstr "Perlihatkan pesan yang lebih awal"
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -10473,7 +10466,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr "%s  (%s) номерҙарынан шылтыратыу, %s ваҡыт дауам итә"
+msgstr "Panggilan dari %s (%s), durasi %s."
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
@@ -10507,27 +10500,27 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr "%s (%s) номерҙарынан ҡабул ителмәгән шылтыратыу"
+msgstr "Panggilan tak terjawab dari %s (%s)"
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr "%s (%s) номерҙарынан шылтыратыу баҫылды"
+msgstr "Panggilan dari %s (%s) ditolak."
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
-msgstr "%s (%s) "
+msgstr "Panggilan dari %s (%s)"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr "Файл ебәрергә..."
+msgstr "Kirim berkas..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
-msgstr "Бәйләнештәрҙе ебәрергә..."
+msgstr "Kirim kontak..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr "Экрандың күләме..."
+msgstr "Bagikan layar..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -10671,11 +10664,11 @@ msgstr ""
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
-msgstr "Телефон тауышы"
+msgstr "Panggil telepon"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr "Телефон һанын өҫтәү"
+msgstr "Tambah nomor telepon"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -10771,7 +10764,7 @@ msgstr ""
 
 msgctxt "sLIVE_PLUS_BUTTON_HINT"
 msgid "Add, send and share..."
-msgstr "Өҫтәргә, ебәрергә һәм бүлешергә... "
+msgstr "Tambah, kirim dan bagikan..."
 
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
@@ -10884,11 +10877,11 @@ msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr "Бәйләнештәрҙе ҡарарға"
+msgstr "Perlihatkan kontak"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr "Бәйләнештәрҙе йәшерергә"
+msgstr "Sembunyikan kontak"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
@@ -10935,7 +10928,7 @@ msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr "шылтыратыу"
+msgstr "Memanggil"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
@@ -10951,7 +10944,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr "Ҡатнашыусыларҙы теркәү, файлдар ебәреү һәм башҡа күп нәмәләр"
+msgstr "Tambah partisipan, kirim berkas dan masih banyak lagi"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -11436,35 +11429,35 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr "Һайланғандар"
+msgstr "Kesukaan"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr "Бәйләнештәрҙе ошонда күсерегеҙ"
+msgstr "Seret kontak ke sini"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr "Ябырға"
+msgstr "Tutup"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr "Исемен үҙгәртергә"
+msgstr "Ubah nama"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr "Юйырға"
+msgstr "Hapus"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr "Һайланғандарға өҫтәргә"
+msgstr "Tambahkan ke kesukaan"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr "Һайланғандарҙан юйырға"
+msgstr "Hilangkan dari Kesukaan"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr "Элемтәлә"
+msgstr "Online"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -11476,7 +11469,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr "Барыһы"
+msgstr "Semua"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -11963,11 +11956,11 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Send a message"
-msgstr "Хәбәр ебәрергә"
+msgstr "Kirim pesan"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr "СМС ебәрергә"
+msgstr "Kirim SMS"
 
 msgctxt "sSEND_SMS_TARGET_HINT"
 msgid "Change where you send SMS."
@@ -12655,15 +12648,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr "Һайланғандарҙан юйырға"
+msgstr "Hilangkan dari kesukaan"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr "Һайланғандарға өҫтәргә"
+msgstr "Tambahkan ke kesukaan"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr "Видео-хат ебәреү"
+msgstr "Kirim Pesan Video"
 
 msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
 msgid "Camera in use"
@@ -12799,19 +12792,19 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
 msgid "Send video message..."
-msgstr "Видео-хәбәо ебәрергә"
+msgstr ""
 
 msgctxt "sCONVERSATION_VIDEO_MESSAGE"
 msgid "New video message"
-msgstr "Яңы видео-хәбәр"
+msgstr ""
 
 msgctxt "sACC_NAME_MYSELF_HEADER"
 msgid "Me"
-msgstr "Мин"
+msgstr ""
 
 msgctxt "sACC_NAME_QF"
 msgid "Search"
-msgstr "Эҙләргә"
+msgstr ""
 
 msgctxt "sACC_NAME_CONVERSATIONS"
 msgid "Conversations"

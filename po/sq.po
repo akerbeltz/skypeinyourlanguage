@@ -1,8 +1,8 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# amurati <ahmetmurati@gmail.com>, 2013
-# erion <erionmulaj@hotmail.com>, 2013
+# amurati <ahmetmurati@gmail.com>, 2013-2014
+# erion <erionmulaj@hotmail.com>, 2013-2014
 # Michael Bauer <fios@akerbeltz.org>, 2013
 # erion <erionmulaj@hotmail.com>, 2013
 msgid ""
@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-12-09 19:08+0000\n"
+"PO-Revision-Date: 2014-02-09 19:34+0000\n"
 "Last-Translator: amurati <ahmetmurati@gmail.com>\n"
 "Language-Team: Albanian (http://www.transifex.com/projects/p/skype-translation-project/language/sq/)\n"
 "MIME-Version: 1.0\n"
@@ -659,7 +659,7 @@ msgstr "Injoro thirrjen"
 
 msgctxt "sHOTKEY_HANGUP"
 msgid "Hang up"
-msgstr "Mbyll"
+msgstr "Ndërprit"
 
 msgctxt "sHOTKEY_FOCUS"
 msgid "Focus Skype"
@@ -677,7 +677,7 @@ msgctxt "sF_HOTKEYEDIT_ERROR"
 msgid ""
 "The hotkey for %s is probably used by another application and will be "
 "disabled for Skype"
-msgstr "Tasti i nxehtë për %s mua gjasë është i përdorur për ndonjë aplikacion tjetër dhe do të çaftësohet për Skype"
+msgstr "Tasti i nxehtë për %s me gjasë është i përdorur për ndonjë aplikacion tjetër dhe do të çaftësohet për Skype"
 
 msgctxt "sBUDDYMENU_BLOCK"
 msgid "Block This Person..."
@@ -719,7 +719,7 @@ msgstr "Prezenca juaj do të caktohet në Mos Pengo. Ju nuk do të pranoni njoft
 
 msgctxt "sSTATUS_PENDING"
 msgid "This person has not shared their details with you."
-msgstr "Ky person nuk ka ndarë detajet e tij mua ju."
+msgstr "Ky person nuk ka ndarë detajet e tij me ty."
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
@@ -995,7 +995,7 @@ msgstr "Shkruaj temën për bisedim"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE"
 msgid "The Skype Name you entered is invalid."
-msgstr "Emri skype që ju keni shkruar është i pavlefshëm."
+msgstr "Emri Skype që ju keni shkruar është i pavlefshëm."
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_TITLE"
 msgid "Error"
@@ -1052,11 +1052,11 @@ msgstr "Na vjen keq, thirrja dështoi."
 
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
-msgstr "Numër i pavlefshëm i telefonit"
+msgstr "Numër telefonik i pavlefshëm"
 
 msgctxt "sPSTN_RES_10486"
 msgid "Phone number busy"
-msgstr "Numri i telefonit është i zënë"
+msgstr "Numri telefonik është i zënë"
 
 msgctxt "sF_OPTIONS_GREETING_RECORD"
 msgid "Record"
@@ -1084,7 +1084,7 @@ msgstr "Anulo"
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
-msgstr "Shtëpi (%s)"
+msgstr "Shtëpia (%s)"
 
 msgctxt "sCALL_PSTN_MOBILE"
 msgid "Mobile (%s)"
@@ -5006,11 +5006,11 @@ msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_1"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_2"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "sZAPBUTTON_DIALPAD_3"
 msgid " "

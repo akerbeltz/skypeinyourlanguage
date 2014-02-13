@@ -2,14 +2,14 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # A S Alam <aalam@users.sf.net>, 2013
-# A S Alam <apreet.alam@gmail.com>, 2013
+# A S Alam <apreet.alam@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-12-23 16:05+0000\n"
-"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"PO-Revision-Date: 2014-02-02 03:01+0000\n"
+"Last-Translator: A S Alam <apreet.alam@gmail.com>\n"
 "Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/skype-translation-project/language/pa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -435,7 +435,7 @@ msgstr ""
 
 msgctxt "sF_RENAMEUSER_LABEL"
 msgid "Enter new name for %s"
-msgstr ""
+msgstr "%s ਲਈ ਨਵਾਂ ਨਾਂ ਦਿਓ"
 
 msgctxt "sF_RENAMEUSER_CAPTION"
 msgid "Rename"
@@ -471,7 +471,7 @@ msgstr "ਜਾਣਕਾਰੀ"
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
-msgstr ""
+msgstr "ਇਹ ਜਾਣਕਾਰੀ ਫੇਰ ਨਾ ਵੇਖਾਓ"
 
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
@@ -487,7 +487,7 @@ msgstr "ਨਵਾਂ ਪਾਸਵਰਡ ਭਰੋ"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT3"
 msgid "Re-enter new password"
-msgstr ""
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ ਮੁੜ-ਦਿਓ"
 
 msgctxt "sF_CHANGE_PASSWORD_BTN1_TEXT"
 msgid "Apply"
@@ -501,7 +501,7 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
 "The passwords don't match. Please re-enter your new password and "
 "confirmation again"
-msgstr ""
+msgstr "ਪਾਸਵਰਡ ਮਿਲਦਾ ਨਹੀਂ ਹੈ। ਆਪਣਾ ਨਵਾਂ ਪਾਸਵਰਡ ਮੁੜ ਦਿਓ ਅਤੇ ਫੇਰ ਪੁਸ਼ਟੀ ਕਰੋ"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
@@ -843,7 +843,7 @@ msgstr "ਕੋਈ ਵੀ"
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
-msgstr ""
+msgstr "ਕੇਵਲ ਮੇਰੀ ਸੰਪਰਕ ਸੂਚੀ ਵਿੱਚੋਂ ਲੋਕ ਹੀ"
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
@@ -855,7 +855,7 @@ msgstr "ਕੋਈ ਵੀ"
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
-msgstr ""
+msgstr "ਕੇਵਲ ਮੇਰੀ ਸੰਪਰਕ ਸੂਚੀ ਵਿਚਲੇ ਲੋਕ"
 
 msgctxt "sQUIT_PROMPT_CAP"
 msgid "Sure you want to quit Skype?"
@@ -1491,7 +1491,7 @@ msgstr "ਸਰਟੀਫਿਕੇਟ"
 
 msgctxt "sACL_FAQ_LINK"
 msgid "What does this mean?"
-msgstr ""
+msgstr "ਇਸ ਦਾ ਕੀ ਮਤਲਬ ਹੈ?"
 
 msgctxt "sF_MULTICHAT_SEND_FILE"
 msgid "Send file"
@@ -1507,15 +1507,15 @@ msgstr "%d ਸੰਪਰਕ"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_CAPTION"
 msgid "Send file to %s"
-msgstr ""
+msgstr "%s ਨੂੰ ਫਾਇਲ ਭੇਜੋ"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING"
 msgid "Are you sure you want to send file \"%s\" to %s?"
-msgstr ""
+msgstr "ਕੀ ਤੁਸੀਂ \"%s\" ਫਾਇਲ %s ਨੂੰ ਭੇਜਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING2"
 msgid "Are you sure you want to send %d files to %s?"
-msgstr ""
+msgstr "ਕੀ ਤੁਸੀਂ %d ਫਾਇਲਾਂ %s ਨੂੰ ਭੇਜਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?"
 
 msgctxt "sF_MULTICHAT_SENDFILE_LIMIT_ERROR"
 msgid "You can't send files to more than %d people at once."
@@ -1527,7 +1527,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_HANGUP"
 msgid "End Call with This Person"
-msgstr ""
+msgstr "ਇਹ ਵਿਅਕਤੀ ਨਾਲ ਕਾਲ ਖਤ"
 
 msgctxt "sF_OPTIONS_SOCKS_HOST"
 msgid "Host"
@@ -1547,7 +1547,7 @@ msgstr "ਪਾਸਵਰਡ"
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
-msgstr ""
+msgstr "ਪਰਾਕਸੀ ਪ੍ਰਮਾਣਕਿਤਾ ਚਾਲੂ ਕਰੋ"
 
 msgctxt "sF_OPTIONS_SOCKS_AUTOMATIC"
 msgid "Automatic proxy detection"
@@ -1646,7 +1646,7 @@ msgstr "ਸਭ ਚੁਣੇ"
 
 msgctxt "sF_MULTICHAT_UNSUBSCRIBED_WARNING"
 msgid "You have left this group."
-msgstr ""
+msgstr "ਤੁਸੀਂ ਇਹ ਗਰੁੱਪ ਛੱਡ ਚੁੱਕੇ ਹੋ।"
 
 msgctxt "sF_OPTIONS_PAGE_NOTIFICATIONS"
 msgid "Notifications"
@@ -1674,11 +1674,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_FILE"
 msgid "sends me a file"
-msgstr ""
+msgstr "ਮੈਨੂੰ ਫਾਇਲ ਭੇਜਦਾ ਹੈ"
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
-msgstr ""
+msgstr "ਮੇਰੇ ਸੰਪਰਕ ਵੇਰਵੇ ਲਈ ਬੇਨਤੀ ਕਰਦਾ ਹੈ"
 
 msgctxt "sF_OPTIONS_NOTIF_VOICEMAIL"
 msgid "leaves me a voice message"
@@ -1690,11 +1690,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_IN"
 msgid "ringtone"
-msgstr ""
+msgstr "ਰਿੰਗਟੋਨ"
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_OUT"
 msgid "dial tone"
-msgstr ""
+msgstr "ਡਾਇਲ ਟੋਨ"
 
 msgctxt "sF_OPTIONS_SOUNDS_BUSY"
 msgid "busy signal"
@@ -1702,7 +1702,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE"
 msgid "incoming IM"
-msgstr ""
+msgstr "ਆ ਰਹੇ IM"
 
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS"
 msgid "Display a notification in the Windows tray when someone..."
@@ -1811,7 +1811,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VM_DATETIME"
 msgid "Recorded:"
-msgstr ""
+msgstr "ਰਿਕਾਰਡ:"
 
 msgctxt "sF_OPTIONS_VM_SET2"
 msgid "Default voice message greeting"
@@ -1851,7 +1851,7 @@ msgstr "ਠੀਕ ਹੈ"
 
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
-msgstr ""
+msgstr "ਕਾਲ ਸੈਟਿੰਗ"
 
 msgctxt "sF_USERPROFILE_LB_GENDER"
 msgid "Gender"
@@ -1874,7 +1874,7 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_TOPIC_PROMPT"
 msgid "Click here to enter a topic"
-msgstr ""
+msgstr "ਵਿਸ਼ਾ ਦੇਣ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ"
 
 msgctxt "sF_USERINFO_LABEL_GENDER"
 msgid "Gender"
@@ -1886,11 +1886,11 @@ msgstr "ਟਿਕਾਣਾ"
 
 msgctxt "sF_USERINFO_LABEL_AGE"
 msgid "Age"
-msgstr ""
+msgstr "ਉਮਰ"
 
 msgctxt "sF_USERINFO_AGE_MORE"
 msgid "%s and a bit more"
-msgstr ""
+msgstr "%s ਅਤੇ ਕੁਝ ਹੋਰ"
 
 msgctxt "sF_USERINFO_AGE_JUST_GOT"
 msgid "Just turned %s"
@@ -1898,15 +1898,15 @@ msgstr ""
 
 msgctxt "sF_USERINFO_AGE_ALMOST"
 msgid "Last days %s"
-msgstr ""
+msgstr "ਆਖਰੀ ਦਿਨ %s"
 
 msgctxt "sCONTACT_GROUP_RECENT"
 msgid "Recently contacted"
-msgstr ""
+msgstr "ਤਾਜ਼ਾ ਸੰਪਰਕ ਕੀਤੇ"
 
 msgctxt "sF_OPTIONS_LINK_TEST_CALL"
 msgid "Make a free test call"
-msgstr ""
+msgstr "ਮੁਫ਼ਤ ਟੈਸਟ ਕਾਲ ਕਰੋ"
 
 msgctxt "sF_OPTIONS_LINK_AUDIO_HELP"
 msgid "Learn more about setting up your audio equipment"
@@ -1914,7 +1914,7 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_ABOUT2"
 msgid "About me"
-msgstr ""
+msgstr "ਮੇਰੇ ਬਾਰੇ"
 
 msgctxt "sF_USERENTRY_PROFILE_NAME"
 msgid "Full name"
@@ -1922,7 +1922,7 @@ msgstr "ਪੂਰਾ ਨਾਂ"
 
 msgctxt "sF_USERENTRY_PROFILE_COUNTRY"
 msgid "Country/Region"
-msgstr ""
+msgstr "ਦੇਸ਼/ਖੇਤ"
 
 msgctxt "sF_USERENTRY_PROFILE_CITY"
 msgid "City"
@@ -1954,11 +1954,11 @@ msgstr "ਪਾਬੰਦੀਸ਼ੁਦਾ ਸੰਪਰਕ"
 
 msgctxt "sF_USERPROFILE_PHONE_NOTE"
 msgid "Enter %s's phone number."
-msgstr ""
+msgstr "%s ਦਾ ਫੋਨ ਨੰਬਰ ਦਿਓ"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT9"
 msgid "Choose another password."
-msgstr ""
+msgstr "ਹੋਰ ਪਾਸਵਰਡ ਚੁਣੋ।"
 
 msgctxt "sFILETRANSFER_DISABLED"
 msgid ""
@@ -2055,11 +2055,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_CONNECTING"
 msgid "connecting call"
-msgstr ""
+msgstr "ਕਾਲ ਕੁਨੈਕਟ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
 
 msgctxt "sF_USERINFO_LABEL_ADD"
 msgid "Add contact"
-msgstr ""
+msgstr "ਸੰਪਰਕ ਜੋੜੋ"
 
 msgctxt "sF_USERINFO_LABEL_NOT_FOUND"
 msgid ""
@@ -2091,7 +2091,7 @@ msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_TITLE"
 msgid "File not installed"
-msgstr ""
+msgstr "ਫਾਇਲ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ"
 
 msgctxt "sF_SOUNDS_BTN_ADD"
 msgid "Browse..."
@@ -2195,7 +2195,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_SKYPENAME"
 msgid "Skype Name"
-msgstr ""
+msgstr "Skype ਨਾਂ"
 
 msgctxt "sF_USERINFO_BTN_COPY"
 msgid "Copy"
@@ -2203,11 +2203,11 @@ msgstr "ਕਾਪੀ ਕਰੋ"
 
 msgctxt "sF_USERINFO_BTN_COPY_PROFILE"
 msgid "Copy profile"
-msgstr ""
+msgstr "ਪਰੋਫਾਇਲ ਕਾਪੀ ਕਰੋ"
 
 msgctxt "sF_OPTIONS_PAGE_FORWARDINGANDVOICEMAIL"
 msgid "Call forwarding"
-msgstr ""
+msgstr "ਕਾਲ ਅੱਗੇ ਭੇਜਣੀ"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_ADVAMCED"
 msgid ""
@@ -2217,11 +2217,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_CF_ADVANCED"
 msgid "Add more phone numbers"
-msgstr ""
+msgstr "ਹੋਰ ਫੋਨ ਨੰਬਰ ਜੋੜੋ"
 
 msgctxt "sF_OPTIONS_LINK_CF_BASIC"
 msgid "One phone number only"
-msgstr ""
+msgstr "ਕੇਵਲ ਇੱਕ ਹੀ ਫੋਨ ਨੰਬਰ"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
@@ -2239,27 +2239,27 @@ msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_REJECT"
 msgid "I reject an incoming call"
-msgstr ""
+msgstr "ਮੈਂ ਆ ਰਹੀ ਕਾਲ ਰੱਦ ਕੀਤੀ"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_INCALL"
 msgid "I am already in a call"
-msgstr ""
+msgstr "ਮੈਂ ਪਹਿਲਾਂ ਹੀ ਕਾਲ ਕਰ ਰਿਹਾ ਹਾਂ"
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT"
 msgid "Enter phone number"
-msgstr ""
+msgstr "ਫੋਨ ਨੰਬਰ ਦਿਓ"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8"
 msgid "You'll need"
-msgstr ""
+msgstr "ਤੁਹਾਨੂੰ ਲੋੜ ਹੈ"
 
 msgctxt "sF_OPTIONS_SAVING_HINT1"
 msgid "Saving new settings"
-msgstr ""
+msgstr "ਨਵੀਂ ਸੈਟਿੰਗ ਸੰਭਾਲੀ ਜਾ ਰਹੀ ਹੈ"
 
 msgctxt "sF_OPTIONS_SAVING_HINT2"
 msgid "This may take a few minutes"
-msgstr ""
+msgstr "ਇਸ ਨੂੰ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ"
 
 msgctxt "sF_OPTIONS_SAVING_FAILED1"
 msgid ""
@@ -2286,7 +2286,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CF_ERROR4"
 msgid "Call forwarding information"
-msgstr ""
+msgstr "ਕਾਲ ਅੱਗੇ ਭੇਜਣ ਜਾਣਕਾਰੀ"
 
 msgctxt "sF_OPTIONS_LB_MESSAGES"
 msgid "Show messages about..."
@@ -2294,7 +2294,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_TIPS"
 msgid "Help and Skype tips"
-msgstr ""
+msgstr "ਮੱਦਦ ਤੇ Skype ਨੁਕਸੇ"
 
 msgctxt "sF_MULTICHAT_FT_NOTIFICATION_SINGLE"
 msgid "/me sent file %s"
@@ -2335,7 +2335,7 @@ msgstr ""
 
 msgctxt "sPSTN_RES_9403"
 msgid "Account blocked."
-msgstr ""
+msgstr "ਅਕਾਊਂਟ ਪਾਬੰਦੀਸ਼ੁਦਾ ਹੈ।"
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_1"
 msgid "The file %s can't be used as a picture."
@@ -2347,7 +2347,7 @@ msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_TITLE"
 msgid "File can't be used"
-msgstr ""
+msgstr "ਫਾਇਥ ਵਰਤੀ ਨਹੀਂ ਜਾ ਸਕਦੀ"
 
 msgctxt "sF_SOUNDS_MSG3_1"
 msgid "The file %s can't be used as a sound."
@@ -2363,7 +2363,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT2"
 msgid "Enter Skype Name"
-msgstr ""
+msgstr "Skype ਨਾਂ ਦਿਓ"
 
 msgctxt "sDATAPATH_REMOVED"
 msgid ""
@@ -2406,15 +2406,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VIDEO_LB1"
 msgid "Select webcam:"
-msgstr ""
+msgstr "ਵੈੱਬਕੈਮ ਚੁਣੋ:"
 
 msgctxt "sF_OPTIONS_VIDEO_ENABLE"
 msgid "Enable video"
-msgstr ""
+msgstr "ਵਿਡੀਓ ਚਾਲੂ"
 
 msgctxt "sF_OPTIONS_VIDEO_SEND_AUTOMATICALLY"
 msgid "Start my video automatically when I am in a call"
-msgstr ""
+msgstr "ਜਦੋਂ ਮੈਂ ਕਾਲ ਕਰਾ ਤਾਂ ਆਪਣੇ-ਆਪ ਹੀ ਵਿਡੀਓ ਚਾਲੂ ਕਰੋ"
 
 msgctxt "sF_OPTIONS_LBC_VIDEO"
 msgid "<b>Video settings:</b> Set up your webcam"
@@ -2438,7 +2438,7 @@ msgstr "ਬਿਨ-ਗਰੁੱਪ"
 
 msgctxt "sF_USERPROFILE_DEF_TIMEZONE"
 msgid "My computer's"
-msgstr ""
+msgstr "ਮੇਰੇ ਕੰਪਿਊਟਰ ਦੇ"
 
 msgctxt "sACL_REMOVABLE_WARNING"
 msgid ""
@@ -2600,11 +2600,11 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT25"
 msgid "Contact added"
-msgstr ""
+msgstr "ਸੰਪਰਕ ਜੋੜਿਆ"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT26"
 msgid "Contact left"
-msgstr ""
+msgstr "ਸੰਪਰਕ ਛੱਡਿਆ"
 
 msgctxt "sF_OPTIONS_SOUNDS_KNOCKING"
 msgid "knocking"
@@ -2612,7 +2612,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR1"
 msgid "call error1"
-msgstr ""
+msgstr "ਕਾਲ ਗਲਤੀ1"
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR2"
 msgid "call error2"
@@ -2640,19 +2640,19 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_LOGIN"
 msgid "I sign in"
-msgstr ""
+msgstr "ਮੈਂ ਸਾਇਨ ਇਨ"
 
 msgctxt "sF_OPTIONS_SOUNDS_LOGOUT"
 msgid "I sign out"
-msgstr ""
+msgstr "ਮੈਂ ਸਾਇਨ ਆਉਟ"
 
 msgctxt "sF_OPTIONS_SOUNDS_OFFLINE"
 msgid "my contact goes offline"
-msgstr ""
+msgstr "ਮੇਰਾ ਸੰਪਰਕ ਆਫਲਾਈਨ ਗਿਆ"
 
 msgctxt "sF_OPTIONS_SOUNDS_IM_SENT"
 msgid "I send a message"
-msgstr ""
+msgstr "ਮੈਂ ਸੁਨੇਹਾ ਭੇਜਦਾ ਹਾਂ"
 
 msgctxt "sF_OPTIONS_SOUNDS_SEND_VM"
 msgid "I send a voice message"
@@ -2660,7 +2660,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_FT_COMPLETED"
 msgid "file has been sent"
-msgstr ""
+msgstr "ਫਾਇਲ ਭੇਜੀ ਜਾ ਚੁੱਕੀ ਹੈ"
 
 msgctxt "sF_OPTIONS_SOUNDS_FT_FAILED"
 msgid "file sending failed"
@@ -2737,7 +2737,7 @@ msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_CAP1"
 msgid "Password changed"
-msgstr ""
+msgstr "ਪਾਸਵਰਡ ਬਦਲਿਆ"
 
 msgctxt "sF_CHANGE_PASSWORD_CAP2"
 msgid "Incorrect password"
@@ -2757,7 +2757,7 @@ msgstr ""
 
 msgctxt "s_FVIDEOTEST_BUTTON_SETTINGS"
 msgid "Webcam settings"
-msgstr ""
+msgstr "ਵੈੱਬਕੈਮ ਸੈਟਿੰਗ"
 
 msgctxt "sREMOVE_CONTACTS_PROMPT"
 msgid "Remove %d selected contacts?"
@@ -2838,7 +2838,7 @@ msgstr ""
 
 msgctxt "sVIDEOMENU_SETTINGS"
 msgid "Video Settings"
-msgstr ""
+msgstr "ਵਿਡੀਓ ਸੈਟਿੰਗ"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT1"
 msgid "Ringtone (Classic)"

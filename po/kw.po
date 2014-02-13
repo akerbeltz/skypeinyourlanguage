@@ -2,13 +2,13 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # nrowe <nickyrowe@gmail.com>, 2013
-# Adhyskonydh <pennboba@gmail.com>, 2013
+# Adhyskonydh <pennboba@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-12-08 12:50+0000\n"
+"PO-Revision-Date: 2014-01-19 15:37+0000\n"
 "Last-Translator: Adhyskonydh <pennboba@gmail.com>\n"
 "Language-Team: Cornish (http://www.transifex.com/projects/p/skype-translation-project/language/kw/)\n"
 "MIME-Version: 1.0\n"
@@ -245,7 +245,7 @@ msgstr "© 2003-2012 Skype Technologies S.A."
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
-msgstr "Gwithys gans lahys keswlasek. Pub gwir gwithys."
+msgstr "Gwithys gans Lahys Keswlasek. Pub gwir gwithys."
 
 msgctxt "sF_USERPROFILE_LB_FULLNAME"
 msgid "Full name"
