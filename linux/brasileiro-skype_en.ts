@@ -203,38 +203,38 @@
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>Chamada em espera</translation>
     </message>
 </context>
 <context>
     <name>Calls</name>
     <message>
         <source>Answer Call</source>
-        <translation type="unfinished"/>
+        <translation>Antender chamada</translation>
     </message>
     <message>
         <source>Reject Call</source>
-        <translation type="unfinished"/>
+        <translation>Recusar chamada</translation>
     </message>
     <message>
         <source>Ignore Call</source>
-        <translation type="unfinished"/>
+        <translation>Ignorar Chamada</translation>
     </message>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>Chamada com %1</translation>
     </message>
     <message>
         <source>Start Call</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar chamada</translation>
     </message>
     <message>
         <source>Hold Call</source>
-        <translation type="unfinished"/>
+        <translation>Chamada em espera</translation>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation type="unfinished"/>
+        <translation>Continuar chamada</translation>
     </message>
     <message>
         <source>Hangup</source>
@@ -242,35 +242,35 @@
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation type="unfinished"/>
+        <translation>Convidar para chamada em grupo</translation>
     </message>
     <message>
         <source>Call %1</source>
-        <translation type="unfinished"/>
+        <translation>Ligar para %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Duração: %1</translation>
     </message>
     <message>
         <source>Ca&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>Chamar (&amp;l)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adicionar</translation>
     </message>
     <message>
         <source>&amp;Do not add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Não adicionar</translation>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation type="unfinished"/>
+        <translation>Contatos em sua lista</translation>
     </message>
     <message>
         <source>Contacts to call</source>
@@ -278,15 +278,15 @@
     </message>
     <message>
         <source>Type a number to call</source>
-        <translation type="unfinished"/>
+        <translation>Digite um número para chamar</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"/>
+        <translation>Conectando…</translation>
     </message>
     <message>
         <source>Problem with Audio Capture</source>
-        <translation type="unfinished"/>
+        <translation>Problema com o dispositivo de gravação</translation>
     </message>
     <message>
         <source>Problem with Audio Playback</source>
@@ -294,7 +294,7 @@
     </message>
     <message>
         <source>Call Failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha na Chamada</translation>
     </message>
     <message>
         <source>Ringing...</source>
@@ -302,11 +302,11 @@
     </message>
     <message>
         <source>Call Finished</source>
-        <translation type="unfinished"/>
+        <translation>Chamada Finalizada</translation>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation type="unfinished"/>
+        <translation>Chamada Perdida</translation>
     </message>
     <message>
         <source>Call Refused</source>
@@ -326,11 +326,11 @@
     </message>
     <message>
         <source>and %1</source>
-        <translation type="unfinished"/>
+        <translation>e %1</translation>
     </message>
     <message>
         <source>%1 is calling you</source>
-        <translation type="unfinished"/>
+        <translation>%1 está te chamando</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
@@ -338,7 +338,7 @@
     </message>
     <message>
         <source>Page %1</source>
-        <translation type="unfinished"/>
+        <translation>Página %1</translation>
     </message>
     <message>
         <source>%1 per minute</source>
@@ -346,7 +346,7 @@
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation type="unfinished"/>
+        <translation>Céditos insuficientes</translation>
     </message>
     <message>
         <source>Invalid Number</source>
@@ -358,7 +358,7 @@
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>Ligar</translation>
     </message>
     <message>
         <source>Send SMS</source>
@@ -736,15 +736,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>entrou na conversa</translation>
     </message>
     <message>
         <source>left the chat (%1).</source>
-        <translation type="unfinished"/>
+        <translation>saiu do chat (%1).</translation>
     </message>
     <message>
         <source>has changed the chat guidelines to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>mudou as regras da conversa para %1.</translation>
     </message>
     <message>
         <source>Images</source>

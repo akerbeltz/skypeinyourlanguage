@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation type="unfinished"/>
+        <translation>Hižo njedźělić</translation>
     </message>
     <message>
         <source>Share screens</source>
@@ -516,11 +516,11 @@
     </message>
     <message>
         <source>Unbookmark Chat</source>
-        <translation type="unfinished"/>
+        <translation>Zapołožku za chat wotstronić</translation>
     </message>
     <message>
         <source>Bookmark Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat jako zapołožku składować</translation>
     </message>
     <message>
         <source>Start Chat with Selected Contacts</source>
@@ -564,7 +564,7 @@
     </message>
     <message>
         <source>Load previous history from the chat</source>
-        <translation type="unfinished"/>
+        <translation>Předchadnu historiju z chata začitać</translation>
     </message>
     <message>
         <source>Leave Chat</source>
@@ -787,7 +787,7 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message>
         <source>Right click here to set/unset the chat picture.</source>
-        <translation type="unfinished"/>
+        <translation>Klikńće z prawej tastu, zo byšće chatowy wobraz přidał/wotstronił.</translation>
     </message>
     <message>
         <source>Rename Group</source>
@@ -1973,51 +1973,51 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message>
         <source>Call Ended</source>
-        <translation type="unfinished"/>
+        <translation>Telefonat je skónčeny</translation>
     </message>
     <message>
         <source>First Chat Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Prěnja chatowa powěsć je so přijała</translation>
     </message>
     <message>
         <source>Chat Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Chatowa powěsć je so přijała</translation>
     </message>
     <message>
         <source>Chat Message Sent</source>
-        <translation type="unfinished"/>
+        <translation>Chatowa powěsć je so pósłała</translation>
     </message>
     <message>
         <source>Contact Joined Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt je do chata zastupił</translation>
     </message>
     <message>
         <source>Contact Left Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt je chat wopušćił</translation>
     </message>
     <message>
         <source>Contact Kicked from Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt z chata won ćisnyć</translation>
     </message>
     <message>
         <source>Contact Came Online</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt je nětko online</translation>
     </message>
     <message>
         <source>Contact Went Offline</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt je nětko offline</translation>
     </message>
     <message>
         <source>Contact Profile Updated</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt je profil zaktualizował</translation>
     </message>
     <message>
         <source>Contact Added to List</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt je so lisćinje přidał</translation>
     </message>
     <message>
         <source>Contact Deleted from List</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt je so z lisćiny zhašał</translation>
     </message>
     <message>
         <source>File Transfer Request</source>
@@ -2025,11 +2025,11 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message>
         <source>File Transfer Complete</source>
-        <translation type="unfinished"/>
+        <translation>Datajowe přenjesenje skónčene</translation>
     </message>
     <message>
         <source>File Transfer Failed</source>
-        <translation type="unfinished"/>
+        <translation>Datajowe přenjesenje njeje so poradźiło</translation>
     </message>
     <message>
         <source>Contacts Received</source>
@@ -2366,11 +2366,11 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message numerus="yes">
         <source>Clear %n Sent File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n pósłanu dataju zhašeć</numerusform><numerusform>%n pósłanej dataji zhašeć</numerusform><numerusform>%n pósłane dataje zhašeć</numerusform><numerusform>%n pósłanych datajow zhašeć</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Failed File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n njeporadźenu dataju zhašeć</numerusform><numerusform>%n njeporadźenej dataji zhašeć</numerusform><numerusform>%n njeporadźene dataje zhašeć</numerusform><numerusform>%n njeporadźenych datajow zhašeć</numerusform></translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
@@ -2398,7 +2398,7 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message>
         <source>%1 cancelled the file sending</source>
-        <translation type="unfinished"/>
+        <translation>%1 je datajowe słanje přetorhnył</translation>
     </message>
     <message>
         <source>%1 could not read the file</source>
@@ -2510,15 +2510,15 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message>
         <source>If you cancel now you will not receive this file.</source>
-        <translation type="unfinished"/>
+        <translation>Jeli nětko přetorhnješ, njedostanješ tutu dataju.</translation>
     </message>
     <message>
         <source>If you cancel now the other party will not receive this file.</source>
-        <translation type="unfinished"/>
+        <translation>Jeli nětko přetorhnješ, něchtó tutu dataju njedóstanje.</translation>
     </message>
     <message>
         <source>If you cancel now you will not receive these files.</source>
-        <translation type="unfinished"/>
+        <translation>Jeli nětko přetorhnješ, njedóstanješ tute dataje.</translation>
     </message>
 </context>
 <context>
@@ -2585,7 +2585,7 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message>
         <source>loadhistory</source>
-        <translation type="unfinished"/>
+        <translation>historiju začitać</translation>
     </message>
     <message>
         <source>Load chat history progress</source>
@@ -2593,7 +2593,7 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     </message>
     <message>
         <source>Loading chat history...</source>
-        <translation type="unfinished"/>
+        <translation>Historija chata so začituje...</translation>
     </message>
     <message>
         <source>sendprogress</source>
@@ -2620,7 +2620,7 @@ Prošu spytajće druhu dataja a zawěsćće, zo dataja ma čitanske prawa.</tran
     <name>Login</name>
     <message>
         <source>Sign me in when Skype starts</source>
-        <translation type="unfinished"/>
+        <translation>Registrować, hdyž Skype so startuje</translation>
     </message>
     <message>
         <source>Your password must be at least 6 characters.</source>
@@ -2695,7 +2695,8 @@ This shouldn&apos;t take more than a few seconds.</source>
     <message>
         <source>Server connect failed.
 Please check your internet connection and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Serwerowy zwisk njeje so poradźił.
+Prošu přepruwujće swój internetny zwisk a spytajće hišće raz.</translation>
     </message>
     <message>
         <source>Your new password can not be the same as your old password.</source>
@@ -2725,7 +2726,9 @@ Please check your internet connection and try again.</source>
         <source>An unknown error occured while changing your password.
 
 Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Při měnjenju wašeho hesła je njeznaty zmylk wustupił.
+
+Prošu spytajće pozdźišo hišće raz.</translation>
     </message>
     <message>
         <source>Sign in with a different account</source>
@@ -2737,7 +2740,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Failed to log in. Check your Skype Name or password</source>
-        <translation type="unfinished"/>
+        <translation>Přizjewjenje njeje so poradźiło. Přepruwujće Skype-mjeno abo hesło</translation>
     </message>
 </context>
 <context>
@@ -2909,7 +2912,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Compact Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kontaktowe skupiny zhušćić</translation>
     </message>
     <message>
         <source>&amp;New Contact Group...</source>
@@ -3015,7 +3018,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Messenger Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Powěstnikowe kontakty</translation>
     </message>
     <message>
         <source>Subscriptions</source>
@@ -3210,7 +3213,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
-        <translation type="unfinished"/>
+        <translation>Hdyž něchtó chat ze mnu započina...</translation>
     </message>
     <message>
         <source>Display an event notification</source>
@@ -3298,7 +3301,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Display technical call info</source>
-        <translation type="unfinished"/>
+        <translation>Techniske informacije telefonata zwobraznić</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -3346,7 +3349,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Allow my contacts to see the number of contacts I have.</source>
-        <translation type="unfinished"/>
+        <translation>Mojim kontaktam dowolić, ličbu mojich kontaktow widźeć.</translation>
     </message>
     <message>
         <source>Show when others are typing</source>
@@ -3430,7 +3433,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>When I send an SMS message, identify me by...</source>
-        <translation type="unfinished"/>
+        <translation>Hdyž SMS-powěsć sćelu, identifikuj mje přez...</translation>
     </message>
     <message>
         <source>It appears your system has PulseAudio running: to change sound settings you need to use your Desktop Manager volume control or PulseAudio volume control.</source>
@@ -3446,11 +3449,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Trying to open %1</source>
-        <translation type="unfinished"/>
+        <translation>Pospytuje so %1 wočinić</translation>
     </message>
     <message>
         <source>Failed to start %1</source>
-        <translation type="unfinished"/>
+        <translation>Startowanje %1 njeje so poradźiło</translation>
     </message>
     <message>
         <source>Enable Skype WiFi</source>
@@ -3526,7 +3529,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show Skype watermark during calls</source>
-        <translation type="unfinished"/>
+        <translation>Wodowe znamjo Skype za zawołanja pokazać</translation>
     </message>
 </context>
 <context>
@@ -3541,7 +3544,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Call a contact not in your list</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt zawołać, kotryž we wašej lisćinje njeje</translation>
     </message>
     <message>
         <source>** Add to conference by name/number</source>
@@ -3549,7 +3552,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>** Send an SMS message</source>
-        <translation type="unfinished"/>
+        <translation>** SMS-powěsć pósłać</translation>
     </message>
     <message>
         <source>** Join a public chat</source>
@@ -3592,27 +3595,27 @@ Please try again later.</source>
     <name>Screensharing</name>
     <message>
         <source>Stop screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Dźělenje wobrazowki skónčić</translation>
     </message>
     <message>
         <source>Share Your Screen</source>
-        <translation type="unfinished"/>
+        <translation>Wašu wobrazowku dźělić</translation>
     </message>
     <message>
         <source>Share Full Screen</source>
-        <translation type="unfinished"/>
+        <translation>Połnu wobrazowku dźělić</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation type="unfinished"/>
+        <translation>Wuběr dźělić</translation>
     </message>
     <message>
         <source>Start screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Dźělenje wobrazowki startować</translation>
     </message>
     <message>
         <source>Screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Dźělenje wobrazowki</translation>
     </message>
     <message>
         <source>Starting screen sharing will also start an audio call. Are you sure you want to start an audio call?</source>
@@ -3651,7 +3654,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Contacts to send</source>
-        <translation type="unfinished"/>
+        <translation>Kontakty, kotrež maja so słać</translation>
     </message>
     <message>
         <source>%1 / %2</source>
@@ -3667,7 +3670,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Contacts NOT sent to %1.</source>
-        <translation type="unfinished"/>
+        <translation>Kontakty NJEJsu so %1 pósłali.</translation>
     </message>
     <message>
         <source>Received contacts from %1 (%2)</source>
@@ -3794,7 +3797,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>You are connected to the internet.</source>
-        <translation type="unfinished"/>
+        <translation>Sće z internetom zwjazany.</translation>
     </message>
     <message>
         <source>WiFi network: %1</source>
@@ -4004,7 +4007,7 @@ Please try again later.</source>
     <name>Video</name>
     <message>
         <source>Skype Full-Screen Video</source>
-        <translation type="unfinished"/>
+        <translation>Widejo połneje wobrazowki Skype</translation>
     </message>
     <message>
         <source>%1 would like to start a video call with you</source>
@@ -4036,15 +4039,15 @@ when I am in a call</source>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Powitanje wothrać</translation>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Nowe powitanje natočić</translation>
     </message>
     <message>
         <source>Restore Default Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Standardne powitanje wobnowić</translation>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
@@ -4068,11 +4071,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation type="unfinished"/>
+        <translation>Natočenje skónčić</translation>
     </message>
     <message>
         <source>I do not answer within</source>
-        <translation type="unfinished"/>
+        <translation>Njewotmołwjam znutřka</translation>
     </message>
     <message>
         <source>Voice messaging is activated </source>

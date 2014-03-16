@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>Уçă API</translation>
     </message>
     <message>
         <source>Allowed programs:</source>
@@ -32,7 +32,7 @@
     </message>
     <message>
         <source>Enabled transports:</source>
-        <translation type="unfinished"/>
+        <translation>Пултарнă транспортсем</translation>
     </message>
     <message>
         <source>X11</source>
@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Система</translation>
     </message>
     <message>
         <source>Default</source>
@@ -179,11 +179,11 @@
     </message>
     <message>
         <source>Click this button to resume the call.</source>
-        <translation type="unfinished"/>
+        <translation>Шăнкăрава тăсма çав пускăча тапăç.</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation type="unfinished"/>
+        <translation>Палăртнине пайлаш</translation>
     </message>
 </context>
 <context>
@@ -195,7 +195,7 @@
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation type="unfinished"/>
+        <translation>Техникăллă информацине шăнкăравла</translation>
     </message>
     <message>
         <source>Held remotely</source>
@@ -242,7 +242,7 @@
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation type="unfinished"/>
+        <translation>Конференцине чĕн</translation>
     </message>
     <message>
         <source>Call %1</source>
@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнташлăху</translation>
     </message>
     <message>
         <source>Contacts to call</source>
@@ -286,11 +286,11 @@
     </message>
     <message>
         <source>Problem with Audio Capture</source>
-        <translation type="unfinished"/>
+        <translation>Микрофон çырса илми пулчĕ</translation>
     </message>
     <message>
         <source>Problem with Audio Playback</source>
-        <translation type="unfinished"/>
+        <translation>Сасă илтĕнми пулчĕ</translation>
     </message>
     <message>
         <source>Call Failed</source>
@@ -310,7 +310,7 @@
     </message>
     <message>
         <source>Call Refused</source>
-        <translation type="unfinished"/>
+        <translation>Шăнкăрав туннă</translation>
     </message>
     <message>
         <source>Busy</source>
@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Calling rates</source>
-        <translation type="unfinished"/>
+        <translation>Шăнкăрав хакĕсем</translation>
     </message>
     <message>
         <source>and %1</source>
@@ -346,7 +346,7 @@
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation type="unfinished"/>
+        <translation>Шăнкăравлама укçу çитмест</translation>
     </message>
     <message>
         <source>Invalid Number</source>
@@ -354,7 +354,7 @@
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Телефонсене шăнкăравла е смс яркала</translation>
     </message>
     <message>
         <source>Call</source>
@@ -382,7 +382,7 @@
     </message>
     <message>
         <source>Estimated cost: %1</source>
-        <translation type="unfinished"/>
+        <translation>Чухласа илнĕ хакĕ: %1</translation>
     </message>
     <message>
         <source>Voice Message Greeting</source>
@@ -410,7 +410,7 @@
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Шăнкарав кĕттер</translation>
     </message>
     <message>
         <source>Join Call</source>
@@ -426,7 +426,7 @@
     </message>
     <message>
         <source>You are receiving a conference call from %1 %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 тата %2 сана конференцине чĕнеççĕ</translation>
     </message>
     <message>
         <source>Join Conference Call</source>
@@ -434,7 +434,7 @@
     </message>
     <message>
         <source>Start Conference Call with Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Палăртнă çыхăнташсемпе конференцине пуçла</translation>
     </message>
     <message>
         <source>Invite Selected Contacts to Conference Call</source>
@@ -672,19 +672,19 @@
     </message>
     <message>
         <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
+        <translation>Ку çыру çитерсе паман-ха</translation>
     </message>
     <message>
         <source>Copy Selected Text</source>
-        <translation type="unfinished"/>
+        <translation>Палăртнине ăт</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation type="unfinished"/>
+        <translation>Каçă уç</translation>
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation type="unfinished"/>
+        <translation>Каçă вырнăçăвне ăтса ил</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -700,7 +700,7 @@
     </message>
     <message>
         <source>Loading Image Error!</source>
-        <translation type="unfinished"/>
+        <translation>Ӳкерчĕк уçласа илнинчи йăнăш!.</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
@@ -709,16 +709,17 @@ Please select a different image file.</source>
     </message>
     <message>
         <source>Image Size Error!</source>
-        <translation type="unfinished"/>
+        <translation>Ӳкерчĕк пысăкăш илнинчи йăнăш!</translation>
     </message>
     <message>
         <source>The image file you have selected is too large!
 Please use a smaller size image!</source>
-        <translation type="unfinished"/>
+        <translation>Палăртнă ӳкерчĕк ытлашши пысăк!
+Пĕчĕкрех файл усă кур, тархасшăн!</translation>
     </message>
     <message>
         <source>Internal Error!</source>
-        <translation type="unfinished"/>
+        <translation>Шалти йăнăш!</translation>
     </message>
     <message>
         <source>The selected image file could not be set as a chat picture.
@@ -727,7 +728,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Loading Image failure!</source>
-        <translation type="unfinished"/>
+        <translation>Ӳкерчĕк уçласа илми пулчĕ.</translation>
     </message>
     <message>
         <source>File could not be loaded.
@@ -966,58 +967,58 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>sent file %1.</source>
-        <translation type="unfinished"/>
+        <translation>%1 файл янă.</translation>
     </message>
     <message>
         <source>sent files %1.</source>
-        <translation type="unfinished"/>
+        <translation>%1 файлсем янă.</translation>
     </message>
     <message>
         <source>sent you a voice message.</source>
-        <translation type="unfinished"/>
+        <translation>Сана валли сасси çыру янă.</translation>
     </message>
     <message>
         <source>sent a voice message.</source>
-        <translation type="unfinished"/>
+        <translation>Сасси çыру яр.</translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Шăнкарав кĕттер</translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Кайранхи тимлĕх %s çул(сем) каялла тунă</numerusform><numerusform>Кайранхи тимлĕх %s çул(сем) каялла тунă</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n month(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Кайранхи тимлĕх %s уйăх(сем) каялла тунă</numerusform><numerusform>Кайранхи тимлĕх %s уйăх(сем) каялла тунă</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n week(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Кайранхи тимлĕх %s эрне(сем) каялла тунă</numerusform><numerusform>Кайранхи тимлĕх %s эрне(сем) каялла тунă</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n day(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Кайранхи тимлĕх %s кун(сем) каялла тунă</numerusform><numerusform>Кайранхи тимлĕх %s кун(сем) каялла тунă</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n hour(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Кайранхи тимлĕх %s сехет(сем) каялла тунă</numerusform><numerusform>Кайранхи тимлĕх %s сехет(сем) каялла тунă</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n minute(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Кайранхи тимлĕх %s минут(сем) каялла тунă</numerusform><numerusform>Кайранхи тимлĕх %s минут(сем) каялла тунă</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n second(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Кайранхи тимлĕх %s самант(сем) каялла тунă</numerusform><numerusform>Кайранхи тимлĕх %s самант(сем) каялла тунă</numerusform></translation>
     </message>
     <message>
         <source>Conference call, duration %1.</source>
@@ -1029,7 +1030,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call participants</source>
-        <translation type="unfinished"/>
+        <translation>Çынсене шăнкăравла</translation>
     </message>
 </context>
 <context>
@@ -1056,11 +1057,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Remember this selection</source>
-        <translation type="unfinished"/>
+        <translation>Ку суйланни астуса ил</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Чăнах-и?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1108,15 +1109,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Çĕнĕле</translation>
     </message>
     <message>
         <source>I agree</source>
-        <translation type="unfinished"/>
+        <translation>Мана юрать</translation>
     </message>
     <message>
         <source>I do not agree</source>
-        <translation type="unfinished"/>
+        <translation>Мана юрамасть</translation>
     </message>
     <message>
         <source>Report abuse from this person</source>
@@ -1135,11 +1136,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Say Hello to %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Салам те</translation>
     </message>
     <message>
         <source>Type a short message to introduce yourself to %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 валли ху камне кĕскĕн çырса пар</translation>
     </message>
     <message>
         <source>Please allow me to see when you are online</source>
@@ -1155,7 +1156,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source> View the profile of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Харпăр пĕлтерĕве тишкер</translation>
     </message>
     <message>
         <source>Please let me see your contact details.</source>
@@ -1163,7 +1164,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact request from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Çыхăну пирки ыйту</translation>
     </message>
     <message>
         <source>Ignore Contact Request</source>
@@ -1206,7 +1207,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Contact</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнуна шăнкăравла</translation>
     </message>
     <message>
         <source>Click this button to place a call to this contact.</source>
@@ -1214,7 +1215,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Button</source>
-        <translation type="unfinished"/>
+        <translation>Шăнкăрав пускăч</translation>
     </message>
     <message>
         <source>Chat to Contact</source>
@@ -1238,7 +1239,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Profile Button</source>
-        <translation type="unfinished"/>
+        <translation>Харпăр пĕлтерÿ пускăч</translation>
     </message>
     <message>
         <source>This contact is configured for video conferencing.</source>
@@ -1286,7 +1287,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add to Contact List</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнусен шутне кĕрт</translation>
     </message>
     <message>
         <source>Block Contact</source>
@@ -1314,7 +1315,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Profile for %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 харпăр пĕлтерĕвĕ</translation>
     </message>
     <message>
         <source>Contact Information</source>
@@ -1330,7 +1331,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Home Phone:</source>
@@ -1346,7 +1347,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="unfinished"/>
+        <translation>Хăйен пĕлтерÿ</translation>
     </message>
     <message>
         <source>Contacts:</source>
@@ -1378,7 +1379,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Region:</source>
-        <translation type="unfinished"/>
+        <translation>регион:</translation>
     </message>
     <message>
         <source>City:</source>
@@ -1402,11 +1403,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Change Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Аватарсĕне улăштар</translation>
     </message>
     <message>
         <source>Remove Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Аватарсĕне улăштар</translation>
     </message>
     <message>
         <source>Click here to read the privacy policy</source>
@@ -1414,7 +1415,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Çуралнă куне тасат</translation>
     </message>
     <message>
         <source>-- Unspecified --</source>
@@ -1422,7 +1423,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Ятне улăштарни</translation>
     </message>
     <message>
         <source>Type a new name or number for %1</source>
@@ -1434,7 +1435,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename %1</source>
-        <translation type="unfinished"/>
+        <translation>Ятне улăштарни %1</translation>
     </message>
     <message>
         <source>Type a new display name for %1</source>
@@ -1478,7 +1479,7 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n çыхăну(сем)</numerusform><numerusform>%n çыхăну(сем)</numerusform></translation>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
@@ -2554,7 +2555,7 @@ Please use a different image file!</source>
     <message>
         <source>&amp;Up</source>
         <comment>sF_FIND_DIRECTION_UP</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Çÿлелле</translation>
     </message>
     <message>
         <source>D&amp;own</source>
@@ -2651,7 +2652,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Password Changed.</source>
-        <translation type="unfinished"/>
+        <translation>Кĕме сăмаха улăштарнă</translation>
     </message>
     <message>
         <source>Your password has been successfully changed.</source>
@@ -2675,7 +2676,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Changing Password...</source>
-        <translation type="unfinished"/>
+        <translation>Кĕме сăмаха улăштаратпăр</translation>
     </message>
     <message>
         <source>Please wait while your password is changed.
@@ -2706,7 +2707,7 @@ Please check your internet connection and try again.</source>
     </message>
     <message>
         <source>Password Change Failed</source>
-        <translation type="unfinished"/>
+        <translation>Кĕме сăмаха улăштарнă пулман</translation>
     </message>
     <message>
         <source>Your password must differ from your Skype Name.</source>
@@ -2763,7 +2764,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Тух</translation>
     </message>
     <message>
         <source>Event History</source>
@@ -2779,7 +2780,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Файл куçарни</translation>
     </message>
     <message>
         <source>%1 %2%3 for Linux</source>
@@ -2792,7 +2793,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>%1 People Online</source>
-        <translation type="unfinished"/>
+        <translation>%1 халăх тетелте</translation>
     </message>
     <message>
         <source>Images</source>
@@ -2800,7 +2801,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнусем кăтарт</translation>
     </message>
     <message>
         <source>Click here to show contact list</source>
@@ -2808,7 +2809,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Кун-çул кăтарт</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
@@ -2832,7 +2833,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Майлаштару</translation>
     </message>
     <message>
         <source>Sign &amp;Out</source>
@@ -2840,7 +2841,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Тух</translation>
     </message>
     <message>
         <source>New Version Available</source>
@@ -2864,11 +2865,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Мĕнпур çыхăну</translation>
     </message>
     <message>
         <source>Online Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Тетел çыхăнусем</translation>
     </message>
     <message>
         <source>Recently Contacted Contacts</source>
@@ -2924,7 +2925,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;About Skype</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Скайп пирки</translation>
     </message>
     <message>
         <source>Total Contacts</source>
@@ -2936,7 +2937,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Ятсăр</translation>
     </message>
     <message>
         <source>Change &amp;Status</source>
@@ -2944,11 +2945,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Search Directory</source>
-        <translation type="unfinished"/>
+        <translation>Директори шыра</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Телефонсене шăнкăравла е смс яркала</translation>
     </message>
     <message>
         <source>This is the amount of credit you have on your Skype account for making phone calls.</source>
@@ -2956,19 +2957,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Requests from New Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Çĕнĕ çыхăнăмран килнĕ ыйтăм</translation>
     </message>
     <message>
         <source>Phone Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Телефун нумерсем</translation>
     </message>
     <message>
         <source>Requests to New Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Çĕнĕ çыхăнăма пана ыйтăм</translation>
     </message>
     <message>
         <source>1 free call</source>
-        <translation type="unfinished"/>
+        <translation>1 тÿлĕвсер шăнкăрав</translation>
     </message>
     <message>
         <source>Call any phone with Skype. Your first call is free.</source>
@@ -2976,7 +2977,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Buy Skype Credit</source>
-        <translation type="unfinished"/>
+        <translation>Скайпри сума ÿстер</translation>
     </message>
     <message>
         <source>Skype number expires in %1 days</source>
@@ -2988,7 +2989,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype number</source>
-        <translation type="unfinished"/>
+        <translation>Скайп нумер</translation>
     </message>
     <message>
         <source>Skype Voice Messaging</source>
@@ -3001,12 +3002,12 @@ Please try again later.</source>
     <message>
         <source>Get a subscription</source>
         <comment>This appears in case of account not having any subscriptions</comment>
-        <translation type="unfinished"/>
+        <translation>Çырăн</translation>
     </message>
     <message numerus="yes">
         <source>%n subscription(s)</source>
         <comment>This appears in case of account having subscriptions</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n Çырăнакан(усем)</numerusform><numerusform>%n Çырăнусем</numerusform></translation>
     </message>
     <message>
         <source>Messenger Contacts</source>
@@ -3014,26 +3015,26 @@ Please try again later.</source>
     </message>
     <message>
         <source>Subscriptions</source>
-        <translation type="unfinished"/>
+        <translation>Çырăнусем</translation>
     </message>
 </context>
 <context>
     <name>Options</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Пĕтĕмĕшле</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"/>
+        <translation>Вăрттăнлăх</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Систерни</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>чатсем</translation>
     </message>
     <message>
         <source>Call Forwarding</source>
@@ -3049,7 +3050,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Хушма</translation>
     </message>
     <message>
         <source>Blocked People</source>
@@ -3061,11 +3062,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Хуп</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Майлаштару</translation>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
@@ -3073,11 +3074,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Start a call</source>
-        <translation type="unfinished"/>
+        <translation>Шăнкăравла</translation>
     </message>
     <message>
         <source>Start a chat</source>
-        <translation type="unfinished"/>
+        <translation>Чатна пуçла</translation>
     </message>
     <message>
         <source>Show me as &apos;Away&apos; when I am inactive for</source>
@@ -3085,7 +3086,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>минутсем</translation>
     </message>
     <message>
         <source>Start Skype minimised in the system tray</source>
@@ -3093,7 +3094,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Set program language to:</source>
-        <translation type="unfinished"/>
+        <translation>Программăн чĕлхине ларт</translation>
     </message>
     <message>
         <source>anybody</source>
@@ -3113,19 +3114,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>яланлăха</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"/>
+        <translation>2 эрне</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"/>
+        <translation>1 уйăх</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"/>
+        <translation>3 уйăхри</translation>
     </message>
     <message>
         <source>Disable History</source>
@@ -3141,7 +3142,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Allow calls from...</source>
-        <translation type="unfinished"/>
+        <translation>Ман пата кам шăнкравлама пултарать...</translation>
     </message>
     <message>
         <source>Allow chats from...</source>
@@ -3201,7 +3202,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Сасăсем</translation>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
@@ -3221,11 +3222,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Кулашкасем кăтарт</translation>
     </message>
     <message>
         <source>Show animated emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Вылянакан кулашкасем кăтарт</translation>
     </message>
     <message>
         <source>Show others when I am typing</source>
@@ -3253,7 +3254,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>самантсĕм</translation>
     </message>
     <message>
         <source>Ringing</source>
@@ -3273,7 +3274,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>nobody</source>
-        <translation type="unfinished"/>
+        <translation>никам та</translation>
     </message>
     <message>
         <source>Automatically receive video from...</source>
@@ -3285,7 +3286,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype</source>
-        <translation type="unfinished"/>
+        <translation>Skype</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -3297,7 +3298,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>Явăçтару</translation>
     </message>
     <message>
         <source>Use port</source>
@@ -3313,19 +3314,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>HTTPS Proxy</source>
-        <translation type="unfinished"/>
+        <translation>HTTPS прокси</translation>
     </message>
     <message>
         <source>SOCKS Proxy</source>
-        <translation type="unfinished"/>
+        <translation>SOCKS прокси</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Хост</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Порт</translation>
     </message>
     <message>
         <source>User</source>
@@ -3333,7 +3334,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Кĕме сăмах</translation>
     </message>
     <message>
         <source>Unblock Selected People</source>
@@ -3349,7 +3350,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>СМС</translation>
     </message>
     <message>
         <source>Choose Sound File</source>
@@ -3389,7 +3390,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Килĕш</translation>
     </message>
     <message>
         <source>You will be charged the standard rate for one SMS message.</source>
@@ -3401,7 +3402,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Çирĕплет</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;smsrates&quot;&gt;SMS destinations and rates&lt;/a&gt;.</source>
@@ -3413,7 +3414,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Speakers</source>
-        <translation type="unfinished"/>
+        <translation>Янраткăч</translation>
     </message>
     <message>
         <source>Choose style: </source>
@@ -3437,7 +3438,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Open %1</source>
-        <translation type="unfinished"/>
+        <translation>Уç %1</translation>
     </message>
     <message>
         <source>Trying to open %1</source>
@@ -3473,7 +3474,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Аватарсенĕ кăтарт</translation>
     </message>
     <message>
         <source>Pressing Enter will...</source>
@@ -3489,7 +3490,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Voice Messages</source>
-        <translation type="unfinished"/>
+        <translation>Сасси ҫырусем</translation>
     </message>
     <message>
         <source>(requires restarting Skype)</source>
@@ -3528,7 +3529,7 @@ Please try again later.</source>
     <name>Quickfilter</name>
     <message>
         <source>Show contact list</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнусем кăтарт</translation>
     </message>
     <message>
         <source>** Show contact list with groups</source>
@@ -3591,7 +3592,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Share Your Screen</source>
-        <translation type="unfinished"/>
+        <translation>Санăн экран ÿкерчексене пар...</translation>
     </message>
     <message>
         <source>Share Full Screen</source>
@@ -3618,23 +3619,23 @@ Please try again later.</source>
     <name>Send Contacts</name>
     <message>
         <source>Send Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнăва пайлаш</translation>
     </message>
     <message>
         <source>Send contacts</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнăва пайлаш</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Яр</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Пăрахăçла</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Яр</translation>
     </message>
     <message>
         <source>Do not send</source>
@@ -3650,11 +3651,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Хуп</translation>
     </message>
     <message>
         <source>Sent contacts to %1.</source>
@@ -3670,11 +3671,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Хуш</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Йышăн</translation>
     </message>
     <message>
         <source>Do not accept</source>
@@ -3701,7 +3702,7 @@ Please try again later.</source>
     <name>SendProgress</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>тулаш</translation>
     </message>
     <message>
         <source>sentcontacts</source>
@@ -3713,7 +3714,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sending contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнăва пайлаш</translation>
     </message>
     <message>
         <source>sendprogress</source>
@@ -3725,7 +3726,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
@@ -3737,19 +3738,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Пăрахăçла</translation>
     </message>
 </context>
 <context>
     <name>Skype WiFi</name>
     <message>
         <source>Skype WiFi...</source>
-        <translation type="unfinished"/>
+        <translation>Скайп WiFi...</translation>
     </message>
     <message>
         <source>Skype WiFi</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi</translation>
     </message>
     <message>
         <source>Detecting Skype WiFi availability</source>
@@ -3773,11 +3774,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăн</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăнатпăр...</translation>
     </message>
     <message>
         <source>Skype WiFi is connecting you to %1</source>
@@ -3785,7 +3786,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"/>
+        <translation>Çыхăннă</translation>
     </message>
     <message>
         <source>You are connected to the internet.</source>
@@ -3793,15 +3794,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>WiFi network: %1</source>
-        <translation type="unfinished"/>
+        <translation>Вай-фай интернет хатĕрсен системи: %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Тăршшĕ %1</translation>
     </message>
     <message>
         <source>Cost: %1</source>
-        <translation type="unfinished"/>
+        <translation>Хак: %1</translation>
     </message>
     <message>
         <source>To disconnect and stop being charged, click the Disconnect button. Any reserved credit that you don&apos;t use will appear back in your account.</source>
@@ -3809,23 +3810,23 @@ Please try again later.</source>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>Тат</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Татнă</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has expired.</source>
-        <translation type="unfinished"/>
+        <translation>Скайп вай-фай сесси тухнă</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has ended.</source>
-        <translation type="unfinished"/>
+        <translation>Скайп вай-фай сесси петнĕ</translation>
     </message>
     <message>
         <source>Extend your Skype WiFi session</source>
-        <translation type="unfinished"/>
+        <translation>Скайп вай-фай Сессине вăрăмлат</translation>
     </message>
     <message>
         <source>Your session will expire in %1 minutes.</source>
@@ -3837,7 +3838,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Extend session</source>
-        <translation type="unfinished"/>
+        <translation>Сессине вăрăмлат</translation>
     </message>
     <message>
         <source>Skype WiFi - hotspot not supported</source>
@@ -3856,15 +3857,15 @@ Please try again later.</source>
     <name>Sms</name>
     <message>
         <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
+        <translation>Ку çыру çитерсе паман-ха</translation>
     </message>
     <message>
         <source>Delivery failed.</source>
-        <translation type="unfinished"/>
+        <translation>Çитерсе пани ăнăçман.</translation>
     </message>
     <message>
         <source>Message is delivered.</source>
-        <translation type="unfinished"/>
+        <translation>Çыру çитерсе панă</translation>
     </message>
     <message>
         <source>SMS message to %1 is sent</source>
@@ -3876,23 +3877,23 @@ Please try again later.</source>
     </message>
     <message>
         <source>Unknown SMS event</source>
-        <translation type="unfinished"/>
+        <translation>Паллă мар СМС </translation>
     </message>
     <message>
         <source>Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Мобиллĕ</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Кил</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Офис</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS яр</translation>
     </message>
     <message>
         <source>Connection to server failed.</source>
@@ -3908,7 +3909,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Invalid confirmation code.</source>
-        <translation type="unfinished"/>
+        <translation>Çирĕплетÿ юмĕ киревсĕр</translation>
     </message>
     <message>
         <source>User is blocked.</source>
@@ -3928,35 +3929,35 @@ Please try again later.</source>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Паллă мар йынăш</translation>
     </message>
     <message>
         <source>To: %1</source>
-        <translation type="unfinished"/>
+        <translation>Хăш: %1</translation>
     </message>
     <message>
         <source>To: Mobile %1</source>
-        <translation type="unfinished"/>
+        <translation>Хăш: мобиллĕ %1</translation>
     </message>
     <message>
         <source>To: Home %1</source>
-        <translation type="unfinished"/>
+        <translation>Хăш: килти %1</translation>
     </message>
     <message>
         <source>To: Office %1</source>
-        <translation type="unfinished"/>
+        <translation>Хăш: офисри %1</translation>
     </message>
     <message>
         <source>To: Other %1</source>
-        <translation type="unfinished"/>
+        <translation>Хăш: урăххи %1</translation>
     </message>
     <message>
         <source>free</source>
-        <translation type="unfinished"/>
+        <translation>Тÿлевсĕр</translation>
     </message>
     <message>
         <source>You need Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>Сана çак нумере çыру(СМС) яма скайпри укçа кирлĕ</translation>
     </message>
     <message>
         <source>You don&apos;t have enough Skype Credit to send text messages (SMS)</source>
@@ -3969,30 +3970,30 @@ Please try again later.</source>
     <message>
         <source>Message is received.</source>
         <comment>This is for the future 2-way SMS feature. The string indicates that an SMS has been received in Skype</comment>
-        <translation type="unfinished"/>
+        <translation>Çыру илнĕ.</translation>
     </message>
     <message>
         <source>SMS:</source>
-        <translation type="unfinished"/>
+        <translation>СМС:</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Урăх</translation>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation type="unfinished"/>
+        <translation>СМС яр</translation>
     </message>
 </context>
 <context>
     <name>TopicContainer</name>
     <message>
         <source>Change Picture...</source>
-        <translation type="unfinished"/>
+        <translation>Ÿкерчĕкне улăштар...</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation type="unfinished"/>
+        <translation>Ÿкерчĕкне катерт</translation>
     </message>
 </context>
 <context>
@@ -4003,11 +4004,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>%1 would like to start a video call with you</source>
-        <translation type="unfinished"/>
+        <translation>%1 санпа курасси шăнкăрав пуçăнма килет</translation>
     </message>
     <message>
         <source>Enable Skype Video</source>
-        <translation type="unfinished"/>
+        <translation>Скайп курасси пултăр</translation>
     </message>
     <message>
         <source>Start my video automatically
@@ -4016,11 +4017,11 @@ when I am in a call</source>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation type="unfinished"/>
+        <translation>Тетел камери суйла:</translation>
     </message>
     <message>
         <source>No devices found</source>
-        <translation type="unfinished"/>
+        <translation>Хатĕрĕсенĕ тупайман</translation>
     </message>
     <message>
         <source>Disable Auto-Exposure (darker video, higher frame rate)</source>
@@ -4031,19 +4032,19 @@ when I am in a call</source>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Саламласси яр</translation>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Çĕнĕ саламласси çыр</translation>
     </message>
     <message>
         <source>Restore Default Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Пирвайхи саламласи çĕнет</translation>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
-        <translation type="unfinished"/>
+        <translation>Тăршшĕ: %1 самант</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -4055,7 +4056,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>I am already on a call</source>
-        <translation type="unfinished"/>
+        <translation>Эпĕ ахаллех шăнкăрав çинчĕ</translation>
     </message>
     <message>
         <source>Stop Greeting Playback</source>
@@ -4121,7 +4122,7 @@ Personalize your voice message greeting, save messages to listen to again, and l
     </message>
     <message>
         <source>Enable voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>Сасси çыру пултăр</translation>
     </message>
 </context>
 </TS>

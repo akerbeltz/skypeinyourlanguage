@@ -1274,7 +1274,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Last Seen: %1</source>
-        <translation type="unfinished"/>
+        <translation>أخر رؤية: %1</translation>
     </message>
     <message>
         <source>Edit Contact</source>
@@ -1286,7 +1286,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add to Contact List</source>
-        <translation type="unfinished"/>
+        <translation>إضافة إلى قانمة جهات الاتصال</translation>
     </message>
     <message>
         <source>Block Contact</source>
@@ -1490,11 +1490,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>بدون اسم</translation>
     </message>
     <message>
         <source>Choose Avatar Image</source>
-        <translation type="unfinished"/>
+        <translation>تغيير صورة</translation>
     </message>
     <message>
         <source>Contact Options</source>
@@ -1598,7 +1598,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Last Seen:</source>
-        <translation type="unfinished"/>
+        <translation>أخر رؤية:</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -1606,15 +1606,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add more email addresses</source>
-        <translation type="unfinished"/>
+        <translation>أضف عناوين بريد إلكتروني أكثر</translation>
     </message>
     <message>
         <source>Offline with voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>غير متّصل ولديه رسائل صوتية</translation>
     </message>
     <message>
         <source>Offline with call forwarding</source>
-        <translation type="unfinished"/>
+        <translation>غير متّصل، لديه خدمة تحويل المكالمات</translation>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
@@ -1712,7 +1712,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Or add a Skype contact</source>
-        <translation type="unfinished"/>
+        <translation>أو إضافة جهة إتصال Skype</translation>
     </message>
     <message>
         <source>Add Number</source>
@@ -1728,11 +1728,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add a Skype contact using their Skype Name</source>
-        <translation type="unfinished"/>
+        <translation>إضافة جهة إتصال Skype باستعمال إسم Skype الخاص بهم</translation>
     </message>
     <message>
         <source>Add a phone number as a contact</source>
-        <translation type="unfinished"/>
+        <translation>إضافة رقم هاتف كجهة إتصال</translation>
     </message>
     <message>
         <source>Search the Skype directory for old and new friends. If you know their Skype Name, full name or e-mail address, enter it into the box below.</source>
@@ -1740,7 +1740,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Or add a phone number as a contact</source>
-        <translation type="unfinished"/>
+        <translation>أو إضافة رقم هاتف كجهة إتصال</translation>
     </message>
     <message>
         <source>Enter the Skype Name of the person you wish to add into the box below.</source>
@@ -1805,7 +1805,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Terms of Use</source>
-        <translation type="unfinished"/>
+        <translation>شروط الاستخدام</translation>
     </message>
 </context>
 <context>
@@ -1816,7 +1816,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
+        <translation>تعليم الكل كمقروء</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
@@ -1828,7 +1828,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Delete Event</source>
-        <translation type="unfinished"/>
+        <translation>حذف حدث</translation>
     </message>
     <message>
         <source>Delete Selected Events</source>
@@ -1836,7 +1836,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unknown event</source>
-        <translation type="unfinished"/>
+        <translation>حدث غير معروف</translation>
     </message>
     <message>
         <source>Event History</source>
@@ -1856,7 +1856,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>إرسال الملف</translation>
     </message>
     <message>
         <source>SMS</source>
@@ -1864,7 +1864,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>تواريخ الميلاد</translation>
     </message>
     <message>
         <source>%1 has appeared online</source>
@@ -1884,7 +1884,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 has a birthday</source>
-        <translation type="unfinished"/>
+        <translation>%1 لديه عيد ميلاد</translation>
     </message>
     <message>
         <source>%1, %2 turned %3</source>
@@ -1896,7 +1896,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Test Event</source>
-        <translation type="unfinished"/>
+        <translation>اختبار حدث</translation>
     </message>
     <message>
         <source>Example Chat Message</source>
@@ -1928,19 +1928,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Incoming Call Ringing</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة واردة ترن</translation>
     </message>
     <message>
         <source>Outgoing Call Ringing</source>
-        <translation type="unfinished"/>
+        <translation>مكالمة صادرة ترن</translation>
     </message>
     <message>
         <source>Call Answered</source>
-        <translation type="unfinished"/>
+        <translation>رد علئ المكالمة</translation>
     </message>
     <message>
         <source>Number Busy</source>
-        <translation type="unfinished"/>
+        <translation>الرقم مشغول</translation>
     </message>
     <message>
         <source>Call Missed</source>
@@ -2000,7 +2000,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact Went Offline</source>
-        <translation type="unfinished"/>
+        <translation>جهة اتّصال أصبحت غير متّصلة</translation>
     </message>
     <message>
         <source>Contact Profile Updated</source>
@@ -2089,12 +2089,12 @@ Please use a different image file!</source>
     <message>
         <source>%1, %2 had a birthday</source>
         <comment>Example: [Yesterday, 29/12/2008], [Andrew] had a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>%1, 2% كان لديهما عيد ميلاد</translation>
     </message>
     <message>
         <source>%1, %2 has a birthday</source>
         <comment>Example: [Tomorrow, 29/12/2008], [Andrew] has a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>%1, 2% لديهما عيد ميلاد</translation>
     </message>
     <message>
         <source>Incoming Contact Request</source>
@@ -3345,7 +3345,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show when others are typing</source>
-        <translation type="unfinished"/>
+        <translation>إظهار أثناء قيام الآخرين بالكتابة</translation>
     </message>
     <message>
         <source>SMS</source>
@@ -3353,7 +3353,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Choose Sound File</source>
-        <translation type="unfinished"/>
+        <translation>اختر ملف الصوت</translation>
     </message>
     <message>
         <source>The hassle-free way to send text messages to friends when they are offline or on the move.</source>
@@ -3489,7 +3489,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Voice Messages</source>
-        <translation type="unfinished"/>
+        <translation>الرسائل الصوتية</translation>
     </message>
     <message>
         <source>(requires restarting Skype)</source>
@@ -3501,7 +3501,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Save files to:</source>
-        <translation type="unfinished"/>
+        <translation>حفظ الملفات في:</translation>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
@@ -3528,7 +3528,7 @@ Please try again later.</source>
     <name>Quickfilter</name>
     <message>
         <source>Show contact list</source>
-        <translation type="unfinished"/>
+        <translation>إظهار قائمة جهات الاتصال</translation>
     </message>
     <message>
         <source>** Show contact list with groups</source>
@@ -3568,11 +3568,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send an SMS message</source>
-        <translation type="unfinished"/>
+        <translation>أرسل رسالة SMS</translation>
     </message>
     <message>
         <source>Enter a number or Skype Name</source>
-        <translation type="unfinished"/>
+        <translation>ادخل رقم أو إسم Skype</translation>
     </message>
     <message>
         <source>Join a public chat</source>
@@ -3603,11 +3603,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Start screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>بدأ مشاركة الشاشة</translation>
     </message>
     <message>
         <source>Screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>مشاركة الشاشة</translation>
     </message>
     <message>
         <source>Starting screen sharing will also start an audio call. Are you sure you want to start an audio call?</source>
@@ -3618,19 +3618,19 @@ Please try again later.</source>
     <name>Send Contacts</name>
     <message>
         <source>Send Contacts</source>
-        <translation type="unfinished"/>
+        <translation>إرسال جهات اتصال</translation>
     </message>
     <message>
         <source>Send contacts</source>
-        <translation type="unfinished"/>
+        <translation>إرسال جهات اتصال</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إرسال</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إلغاء</translation>
     </message>
     <message>
         <source>Send</source>
@@ -3638,15 +3638,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Do not send</source>
-        <translation type="unfinished"/>
+        <translation>&amp;لا تقم بإرسال</translation>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation type="unfinished"/>
+        <translation>جهات الإتصال في القوائم خاصتك</translation>
     </message>
     <message>
         <source>Contacts to send</source>
-        <translation type="unfinished"/>
+        <translation>جهات الاتصال التي سترسل</translation>
     </message>
     <message>
         <source>%1 / %2</source>
@@ -3654,7 +3654,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إغلاق</translation>
     </message>
     <message>
         <source>Sent contacts to %1.</source>
@@ -3713,7 +3713,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sending contacts...</source>
-        <translation type="unfinished"/>
+        <translation>إرسال جهات اتصال...</translation>
     </message>
     <message>
         <source>sendprogress</source>
@@ -3737,7 +3737,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إلغاء</translation>
     </message>
 </context>
 <context>
@@ -3757,7 +3757,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>إتصل بSkype WiFi</translation>
     </message>
     <message>
         <source>Connect to this hotspot for free internet access with %1 ¹.</source>
@@ -3781,7 +3781,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype WiFi is connecting you to %1</source>
-        <translation type="unfinished"/>
+        <translation>تم الاتصال بـSkype WiFi ب %1</translation>
     </message>
     <message>
         <source>Connected</source>
@@ -3789,11 +3789,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>You are connected to the internet.</source>
-        <translation type="unfinished"/>
+        <translation>أنت متصل بالإنترنت.</translation>
     </message>
     <message>
         <source>WiFi network: %1</source>
-        <translation type="unfinished"/>
+        <translation>شبكة WiFi: %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
@@ -3809,11 +3809,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>قطع الاتصال</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>قطع الاتصال</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has expired.</source>
@@ -3837,7 +3837,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Extend session</source>
-        <translation type="unfinished"/>
+        <translation>تمديد الجلسة</translation>
     </message>
     <message>
         <source>Skype WiFi - hotspot not supported</source>
@@ -3856,15 +3856,15 @@ Please try again later.</source>
     <name>Sms</name>
     <message>
         <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
+        <translation>لم يتم تسليم الرسالة حتى الآن.</translation>
     </message>
     <message>
         <source>Delivery failed.</source>
-        <translation type="unfinished"/>
+        <translation>فشل التسليم.</translation>
     </message>
     <message>
         <source>Message is delivered.</source>
-        <translation type="unfinished"/>
+        <translation>تم تسليم الرسالة.</translation>
     </message>
     <message>
         <source>SMS message to %1 is sent</source>
@@ -3896,7 +3896,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connection to server failed.</source>
-        <translation type="unfinished"/>
+        <translation>فشل الإتصال بالخادم.</translation>
     </message>
     <message>
         <source>No SMS capability.</source>
@@ -3908,7 +3908,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Invalid confirmation code.</source>
-        <translation type="unfinished"/>
+        <translation>رمز التأكيد غير فعّال.</translation>
     </message>
     <message>
         <source>User is blocked.</source>
@@ -3916,7 +3916,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>IP address is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>عنوان IP محظور.</translation>
     </message>
     <message>
         <source>Node is blocked.</source>
@@ -3936,19 +3936,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>To: Mobile %1</source>
-        <translation type="unfinished"/>
+        <translation>إلى: المحمول %1</translation>
     </message>
     <message>
         <source>To: Home %1</source>
-        <translation type="unfinished"/>
+        <translation>إلى: منزل %1</translation>
     </message>
     <message>
         <source>To: Office %1</source>
-        <translation type="unfinished"/>
+        <translation>إلى: عمل %1</translation>
     </message>
     <message>
         <source>To: Other %1</source>
-        <translation type="unfinished"/>
+        <translation>إلى: آخر %1</translation>
     </message>
     <message>
         <source>free</source>
@@ -3960,7 +3960,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>You don&apos;t have enough Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>ليس لديك رصيد Skype كافي لترسل رسائل (SMS)</translation>
     </message>
     <message>
         <source>None of the intended recipients has a mobile phone number saved in their profile. Please view profiles individually to add a number.</source>
@@ -3969,7 +3969,7 @@ Please try again later.</source>
     <message>
         <source>Message is received.</source>
         <comment>This is for the future 2-way SMS feature. The string indicates that an SMS has been received in Skype</comment>
-        <translation type="unfinished"/>
+        <translation>تم تلقّي الرسالة.</translation>
     </message>
     <message>
         <source>SMS:</source>
@@ -4007,7 +4007,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Enable Skype Video</source>
-        <translation type="unfinished"/>
+        <translation>تفعيل فيديو Skype</translation>
     </message>
     <message>
         <source>Start my video automatically
@@ -4020,7 +4020,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>No devices found</source>
-        <translation type="unfinished"/>
+        <translation>لم بتم اكتشاف أجهزة صوتية</translation>
     </message>
     <message>
         <source>Disable Auto-Exposure (darker video, higher frame rate)</source>
@@ -4031,15 +4031,15 @@ when I am in a call</source>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation type="unfinished"/>
+        <translation>تشغيل الترحيب</translation>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation type="unfinished"/>
+        <translation>تسجيل ترحيب جديد</translation>
     </message>
     <message>
         <source>Restore Default Greeting</source>
-        <translation type="unfinished"/>
+        <translation>إعادة تعيين الترحيب الافتراضي</translation>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
@@ -4051,55 +4051,55 @@ when I am in a call</source>
     </message>
     <message>
         <source>I reject an incoming call</source>
-        <translation type="unfinished"/>
+        <translation>رفضت المكالمات الواردة</translation>
     </message>
     <message>
         <source>I am already on a call</source>
-        <translation type="unfinished"/>
+        <translation>كان معي مكالمة في الوقت الحالي</translation>
     </message>
     <message>
         <source>Stop Greeting Playback</source>
-        <translation type="unfinished"/>
+        <translation>إبقاف تشغيل الترحيب</translation>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation type="unfinished"/>
+        <translation>إنهاء التسجيل</translation>
     </message>
     <message>
         <source>I do not answer within</source>
-        <translation type="unfinished"/>
+        <translation>لم أرد خلال</translation>
     </message>
     <message>
         <source>Voice messaging is activated </source>
-        <translation type="unfinished"/>
+        <translation>الرسائل الصوتية متاحة</translation>
     </message>
     <message>
         <source>Voice messaging is not activated</source>
-        <translation type="unfinished"/>
+        <translation>الرسائل الصوتية غير متاحة</translation>
     </message>
     <message>
         <source>Send Voice message</source>
-        <translation type="unfinished"/>
+        <translation>إرسال رسالة صوتية</translation>
     </message>
     <message>
         <source>My voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>رسالة الترحيب الصوتية الخاصة بي</translation>
     </message>
     <message>
         <source>Default voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>رسالة الترحيب الصوتية الافتراضية</translation>
     </message>
     <message>
         <source>Custom voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>تخصيص رسالة الترحيب الصوتية</translation>
     </message>
     <message>
         <source>Start recording a voice message if...</source>
-        <translation type="unfinished"/>
+        <translation>بدء تسجيل رسالة صوتية إذا...</translation>
     </message>
     <message>
         <source>Never miss another call with voice messages</source>
-        <translation type="unfinished"/>
+        <translation>لن تفوتك مكالمة مرة أخرى مطلقاً مع الرسائل الصوتية</translation>
     </message>
     <message>
         <source>Let Skype take a message if you're offline or away from your computer when someone calls.
@@ -4109,19 +4109,19 @@ Personalize your voice message greeting, save messages to listen to again, and l
     </message>
     <message>
         <source>Learn more about Skype voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>معرفة المزيد حول الرسائل الصوتية لSkype</translation>
     </message>
     <message>
         <source>Listen to this voice message</source>
-        <translation type="unfinished"/>
+        <translation>الإستماع إالى هذه الرسالة الصوتية</translation>
     </message>
     <message>
         <source>Stop playback</source>
-        <translation type="unfinished"/>
+        <translation>إبقاف تشغيل</translation>
     </message>
     <message>
         <source>Enable voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>تفعيل الرسائل الصوتية</translation>
     </message>
 </context>
 </TS>

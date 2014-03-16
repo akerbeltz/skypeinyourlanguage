@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="sv" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="vi" version="2.0">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>API</name>
     <message>
         <source>Skype API Authorisation Request</source>
-        <translation type="unfinished"/>
+        <translation>Yêu cầu xác nhận Skype API</translation>
     </message>
     <message>
         <source>Another program wants to use Skype</source>
-        <translation>Ett annat program vill använda Skype</translation>
+        <translation>Một chương trình khác muốn sử dụng Skype</translation>
     </message>
     <message>
         <source>A program &quot;%1&quot; is trying to connect to Skype. Do you want to allow it?</source>
@@ -16,23 +16,23 @@
     </message>
     <message>
         <source>Public API</source>
-        <translation>Publik API</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allowed programs:</source>
-        <translation>Tillåtna program:</translation>
+        <translation>Các chương trình được cho phép:</translation>
     </message>
     <message>
         <source>Blocked programs:</source>
-        <translation>Blockerade program:</translation>
+        <translation>Các chương trình bị khóa:</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Ta bort</translation>
+        <translation>Gỡ bỏ</translation>
     </message>
     <message>
         <source>Enabled transports:</source>
-        <translation>Möjliggör transporter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X11</source>
@@ -44,15 +44,15 @@
     </message>
     <message>
         <source>Session</source>
-        <translation>Session</translation>
+        <translation>Phiên làm việc</translation>
     </message>
     <message>
         <source>System</source>
-        <translation>System</translation>
+        <translation>Hệ thống</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Standard</translation>
+        <translation>Mặc định</translation>
     </message>
     <message>
         <source>UNIX domain socket</source>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Bus:</source>
-        <translation>Buss:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
@@ -79,12 +79,12 @@
     <name>About</name>
     <message>
         <source>Version</source>
-        <translation>Version</translation>
+        <translation>Phiên bản</translation>
     </message>
     <message>
         <source>Warning: This program is protected by copyright law and international treaties.</source>
         <comment>sF_ABOUT_WARNING_1</comment>
-        <translation type="unfinished"/>
+        <translation>Cảnh báo: Chương trình này được bảo vệ bởi luật bản quyền và thỏa thuận quốc tế.</translation>
     </message>
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
@@ -104,34 +104,34 @@
     <message>
         <source>Copyright 2003-2013 Skype and/or Microsoft</source>
         <comment>sF_ABOUT_COPYRIGHT_1_1</comment>
-        <translation type="unfinished"/>
+        <translation>Bảnh quyền 2003-2013 Skype và/hay Microsoft</translation>
     </message>
 </context>
 <context>
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation>Lägg till deltagare</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add, send and share...</source>
-        <translation>Lägg till, skicka och dela...</translation>
+        <translation>Thêm, gửi và chia sẻ...</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Avsluta samtal</translation>
+        <translation>Kết thúc cuộc gọi</translation>
     </message>
     <message>
         <source>Show chat</source>
-        <translation>Visa chatt</translation>
+        <translation>Hiệ</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
-        <translation>Göm nummerplatta</translation>
+        <translation>Ẩn bàn phím</translation>
     </message>
     <message>
         <source>Show dial pad</source>
-        <translation>Visa nummerplatta</translation>
+        <translation>Hiện bàn phím</translation>
     </message>
     <message>
         <source>Unmute your microphone</source>
@@ -139,63 +139,63 @@
     </message>
     <message>
         <source>Mute your microphone</source>
-        <translation>Tysta din mikrofon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exit fullscreen</source>
-        <translation>Avsluta fullskärm</translation>
+        <translation>Thoát toàn màn hình</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation>Fullskärm</translation>
+        <translation>Toàn màn hình</translation>
     </message>
     <message>
         <source>Turn off video</source>
-        <translation>Stäng av video</translation>
+        <translation>Tắt video</translation>
     </message>
     <message>
         <source>Turn on video</source>
-        <translation>Starta video</translation>
+        <translation>Bật video</translation>
     </message>
     <message>
         <source>Send File...</source>
-        <translation>Skicka fil...</translation>
+        <translation>Gửi tệp tin...</translation>
     </message>
     <message>
         <source>Send Contacts...</source>
-        <translation>Skicka kontakter...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation>Sluta dela</translation>
+        <translation>Dừng chia sẻ</translation>
     </message>
     <message>
         <source>Share screens</source>
-        <translation>Dela skärmar</translation>
+        <translation>Chia sẻ màn hình</translation>
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation>Lägg till personer till detta samtal</translation>
+        <translation>Thêm b</translation>
     </message>
     <message>
         <source>Click this button to resume the call.</source>
-        <translation>Klicka på denna knapp för att återuppta samtalet.</translation>
+        <translation>Nhấn nút này để tạm dừng cuộc gọi.</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation>Dela val</translation>
+        <translation>Chia sẻ lựa chọn</translation>
     </message>
 </context>
 <context>
     <name>CallView</name>
     <message>
         <source>Call with %1</source>
-        <translation>Ring med %1</translation>
+        <translation>Gọi với %1</translation>
     </message>
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation>Teknisk information för samtal</translation>
+        <translation>Thông tin kỹ thuật cuộc gọi</translation>
     </message>
     <message>
         <source>Held remotely</source>
@@ -203,122 +203,122 @@
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation>Samtal väntar</translation>
+        <translation>Cuộc gọi đang chờ</translation>
     </message>
 </context>
 <context>
     <name>Calls</name>
     <message>
         <source>Answer Call</source>
-        <translation>Lyft upp luren</translation>
+        <translation>Trả lời cuộc gọi</translation>
     </message>
     <message>
         <source>Reject Call</source>
-        <translation>Avfärda samtal</translation>
+        <translation>Từ chối cuộc gọi</translation>
     </message>
     <message>
         <source>Ignore Call</source>
-        <translation>Ignorera samtal</translation>
+        <translation>Bỏ qua cuộc gọi</translation>
     </message>
     <message>
         <source>Call with %1</source>
-        <translation>Ring med %1</translation>
+        <translation>Gọi với %1</translation>
     </message>
     <message>
         <source>Start Call</source>
-        <translation>Påbörja samtal</translation>
+        <translation>Bắt đầu cuộc gọi</translation>
     </message>
     <message>
         <source>Hold Call</source>
-        <translation>Pausa samtal</translation>
+        <translation>Giữ cuộc gọi</translation>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation>Återuppta samtal</translation>
+        <translation>Tạm dừng cuộc gọi</translation>
     </message>
     <message>
         <source>Hangup</source>
-        <translation>Lägg på luren</translation>
+        <translation>Chờ</translation>
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation>Bjud in till konferens</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call %1</source>
-        <translation>Ring %1</translation>
+        <translation>Gọi %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation>Längd: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ca&amp;ll</source>
-        <translation>Samt&amp;al</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Lägg till</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Do not add</source>
-        <translation>&amp;Lägg inte till</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts in your list</source>
-        <translation>Kontakter i din lista</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts to call</source>
-        <translation>Kontakter att ringa</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type a number to call</source>
-        <translation type="unfinished"/>
+        <translation>Nhập số để gọi</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation>Ansluter...</translation>
+        <translation>Đang kết nối...</translation>
     </message>
     <message>
         <source>Problem with Audio Capture</source>
-        <translation>Problem med ljudupptagning</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Problem with Audio Playback</source>
-        <translation>Problem med ljuduppspelning</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Failed</source>
-        <translation>Samtal misslyckades</translation>
+        <translation>Cuộc gọi thất bại</translation>
     </message>
     <message>
         <source>Ringing...</source>
-        <translation>Ringer...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Finished</source>
-        <translation>Samtal avslutat</translation>
+        <translation>Cuộc gọi kết thúc</translation>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation>Samtal missat</translation>
+        <translation>Cuộc gọi bị nhỡ</translation>
     </message>
     <message>
         <source>Call Refused</source>
-        <translation>Samtal nekat</translation>
+        <translation>Cuộc gọi bị từ chối</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation>Upptagen</translation>
+        <translation>Bận</translation>
     </message>
     <message>
         <source>Call Dropped</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi bị đứt</translation>
     </message>
     <message>
         <source>Calling rates</source>
@@ -326,23 +326,23 @@
     </message>
     <message>
         <source>and %1</source>
-        <translation>och %1</translation>
+        <translation>và %1</translation>
     </message>
     <message>
         <source>%1 is calling you</source>
-        <translation>%1 ringer till dig</translation>
+        <translation>%1 đang gọi cho bạn</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
-        <translation>En okänd kontakt ringer till dig</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page %1</source>
-        <translation>Sida %1</translation>
+        <translation>Trang %1</translation>
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation>%1 per minut</translation>
+        <translation>%1 trên phút</translation>
     </message>
     <message>
         <source>Insufficient Credit</source>
@@ -350,39 +350,39 @@
     </message>
     <message>
         <source>Invalid Number</source>
-        <translation>Ogiltigt nummer</translation>
+        <translation>Số không đúng</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Gọi điện hay Gửi tin nhắn</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation>Ring</translation>
+        <translation>Gọi</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation>Skicka SMS</translation>
+        <translation>Gửi tin nhắn</translation>
     </message>
     <message>
         <source>Skype Call</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi Skype</translation>
     </message>
     <message>
         <source>Transfer to...</source>
-        <translation>Överför till...</translation>
+        <translation>Chuyển tới...</translation>
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
-        <translation type="unfinished"/>
+        <translation>Nếu bạn gọi %1 cuộc gọi hiện tại sẽ được giữ lại.</translation>
     </message>
     <message>
         <source>You can only have one call at a time.</source>
-        <translation type="unfinished"/>
+        <translation>Bạn chỉ có thể có một cuộc gọi tại một thời điểm</translation>
     </message>
     <message>
         <source>Estimated cost: %1</source>
-        <translation>Beräknad kostnad: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Message Greeting</source>
@@ -394,7 +394,7 @@
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>Kunde inte ansluta</translation>
+        <translation>Không thể kết nối</translation>
     </message>
     <message>
         <source>Problem with legacy client</source>
@@ -402,43 +402,43 @@
     </message>
     <message>
         <source>Join call</source>
-        <translation>Anslut till samtal</translation>
+        <translation>Tham gia cuộc gọi</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Avsluta samtal</translation>
+        <translation>Kết thúc cuộc gọi</translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation>Placera ett samtal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Join Call</source>
-        <translation>Anslut till ett samtal</translation>
+        <translation>Tham gia cuộc gọi</translation>
     </message>
     <message>
         <source>Hang up</source>
-        <translation>Lägg på luren</translation>
+        <translation>Gác máy</translation>
     </message>
     <message>
         <source>Invite to Conference call</source>
-        <translation>Bjud in till konferenssamtal</translation>
+        <translation>Mời đến cuộc gọi hội nghị</translation>
     </message>
     <message>
         <source>You are receiving a conference call from %1 %2</source>
-        <translation>Du tar emot ett konferenssamtal från %1 %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Join Conference Call</source>
-        <translation>Anslut till ett konferenssamtal</translation>
+        <translation>Tham gia cuộc gọi hội nghị</translation>
     </message>
     <message>
         <source>Start Conference Call with Selected Contacts</source>
-        <translation>Starta ett konferenssamtal med valda kontakter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite Selected Contacts to Conference Call</source>
-        <translation>Bjud in valda kontakter till konferenssamtal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
@@ -446,11 +446,11 @@
     </message>
     <message>
         <source>Start a conference call</source>
-        <translation>Starta ett konferenssamtal</translation>
+        <translation>Bắt đầu một cuộc gọi hội nghị</translation>
     </message>
     <message>
         <source>Conference call topic (optional):</source>
-        <translation>Samtalsämne för konferens (valfritt):</translation>
+        <translation>Chủ đề cuộc gọi hội nghị (tùy chọn):</translation>
     </message>
     <message>
         <source>Covered by subscription</source>
@@ -458,45 +458,45 @@
     </message>
     <message>
         <source>End call with this person</source>
-        <translation>Avsluta samtal med denna person</translation>
+        <translation>Kết thúc cuộc gọi với người này</translation>
     </message>
 </context>
 <context>
     <name>Chat</name>
     <message>
         <source>sent file</source>
-        <translation>fil skickad</translation>
+        <translation>tệp tin đã gửi</translation>
     </message>
     <message>
         <source>sent files</source>
-        <translation>skickade filer</translation>
+        <translation>các tệp tin đã gửi</translation>
     </message>
     <message>
         <source>Open Chat</source>
-        <translation>Öppna chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 user(s)</source>
-        <translation>%1 användare</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No recent messages.</source>
-        <translation>Inga nuvarande meddelanden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 and %2 are writing...</source>
-        <translation>%1 och %2 skriver...</translation>
+        <translation>%1 và %2 đang viết...</translation>
     </message>
     <message>
         <source>%1 is writing...</source>
-        <translation>%1 skriver...</translation>
+        <translation>%1 đang viết...</translation>
     </message>
 </context>
 <context>
     <name>Chats</name>
     <message>
         <source>Chats</source>
-        <translation>Chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChatToolbar</source>
@@ -508,11 +508,11 @@
     </message>
     <message>
         <source>Start Chat</source>
-        <translation>Starta chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Chat</source>
-        <translation>Öppna chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unbookmark Chat</source>
@@ -520,15 +520,15 @@
     </message>
     <message>
         <source>Bookmark Chat</source>
-        <translation>Bokmärk chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Chat with Selected Contacts</source>
-        <translation>Starta chatt med valda kontakter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add to Chat</source>
-        <translation>Lägg till chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -536,31 +536,31 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
+        <translation>&amp;Hủy</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Lägg till</translation>
+        <translation>&amp;Thêm</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Ta bort</translation>
+        <translation>&amp;Gỡ bỏ</translation>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation>Välj kontakter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat participants</source>
-        <translation>Deltagare i chatten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adding users failed</source>
-        <translation>Att lägga till användare misslyckades</translation>
+        <translation>Thêm người dùng thất bại</translation>
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
-        <translation>Kunde inte lägga till några användare till chatten.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Load previous history from the chat</source>
@@ -568,27 +568,27 @@
     </message>
     <message>
         <source>Leave Chat</source>
-        <translation>Lämna chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last 24 Hours</source>
-        <translation>Senaste 24 timmar.</translation>
+        <translation>24 giờ trước</translation>
     </message>
     <message>
         <source>Last 7 Days</source>
-        <translation>Senaste 7 dagar</translation>
+        <translation>7 ngày trước</translation>
     </message>
     <message>
         <source>Last 14 Days</source>
-        <translation>Senaste 14 dagar</translation>
+        <translation>14 ngày trước</translation>
     </message>
     <message>
         <source>Last 30 Days</source>
-        <translation>Senaste 30 dagar</translation>
+        <translation>30 ngày trước</translation>
     </message>
     <message>
         <source>Forever</source>
-        <translation>För evigt</translation>
+        <translation>Mãi mãi</translation>
     </message>
     <message>
         <source>Emoticons</source>
@@ -596,7 +596,7 @@
     </message>
     <message>
         <source>Find</source>
-        <translation>Leta</translation>
+        <translation>Tìm</translation>
     </message>
     <message>
         <source>%1 / %2</source>
@@ -605,36 +605,36 @@
     </message>
     <message>
         <source>If you leave this chat, you will no longer receive any new messages from the chat.  Are you really sure you want to leave the chat?</source>
-        <translation>Om du lämnar denna chatt så kommer du inte längre att ta emot några nya meddelanden från chatten. Är du verkligen säker på att du vill lämna chatten?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click here to hide members of this chat</source>
-        <translation>Klicka här för att gömma medlemmarna av denna chatt.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click here to show members of this chat</source>
-        <translation>Klicka här för att visa medlemmarna av denna chatt.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>invited %1</source>
-        <translation>bjöd in %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>has changed the chat topic to &quot;%1&quot;</source>
-        <translation>ändrade ämnet för chatten till &quot;%1&quot;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>kicked %1 from the chat.</source>
-        <translation>sparkade ut %1 från chatten.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Information</source>
         <comment>sF_INFORM_DEFAULT_CAPTION</comment>
-        <translation>Information</translation>
+        <translation>Thông tin</translation>
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation>Kan inte hitta &quot;%1&quot; i chatten (du kan behöva visa alla tidigare meddelanden först)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot find more occurences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
@@ -643,64 +643,64 @@
     <message>
         <source>Double-click here to set chat topic.</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation>Dubbelklicka här för att ändra ämne för chatten.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Double-click here to set chat topic</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation>Dubbelklicka här för att ställa in ämnet för chatten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat with %1</source>
-        <translation>Chatta med %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has joined the chat</source>
-        <translation>%1 har anslutit till chatten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 new members were added to the chat</source>
-        <translation>%1 nya medlemmar lades till i denna chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has left the chat</source>
-        <translation>%1 har lämnat denna chatt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has set the topic to %2</source>
-        <translation>%1 har ställt in ämnet till %2</translation>
+        <translation>%1 đã đổi chủ đề thành %2</translation>
     </message>
     <message>
         <source>This message is not delivered yet.</source>
-        <translation>Detta meddelande har inte levererats än.</translation>
+        <translation>Tin nhắn này chưa được gửi</translation>
     </message>
     <message>
         <source>Copy Selected Text</source>
-        <translation>Kopiera vald text</translation>
+        <translation>Sao</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation>Öppna länk</translation>
+        <translation>Mở đường dẫn</translation>
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation>Kopiera platsen för länk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation>Ställ in ämne</translation>
+        <translation>Đặt chủ đề</translation>
     </message>
     <message>
         <source>Set Picture</source>
-        <translation>Ställ in bild</translation>
+        <translation>Đặt ảnh</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation>Ta bort bild</translation>
+        <translation>Gỡ bỏ ảnh</translation>
     </message>
     <message>
         <source>Loading Image Error!</source>
-        <translation>Fel vid laddning av bild</translation>
+        <translation>Lỗi tải ảnh!</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype!
@@ -709,16 +709,17 @@ Please select a different image file.</source>
     </message>
     <message>
         <source>Image Size Error!</source>
-        <translation>Fel bildstorlek!</translation>
+        <translation>Lỗi kích cỡ ảnh!</translation>
     </message>
     <message>
         <source>The image file you have selected is too large!
 Please use a smaller size image!</source>
-        <translation type="unfinished"/>
+        <translation>Tệp tin hình ảnh được chọn quá lớn!
+Hãy sử dụng hình ảnh có kích cỡ nhỏ hơn!</translation>
     </message>
     <message>
         <source>Internal Error!</source>
-        <translation>Internt fel!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The selected image file could not be set as a chat picture.
@@ -736,11 +737,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>joined the chat</source>
-        <translation>anslöt till chatten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>left the chat (%1).</source>
-        <translation>lämnade chatten (%1).</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>has changed the chat guidelines to &quot;%1&quot;.</source>
@@ -748,39 +749,39 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Images</source>
-        <translation>Bilder</translation>
+        <translation>Hình ảnh</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Alla filer</translation>
+        <translation>Tất cả tệp tin</translation>
     </message>
     <message>
         <source>Please select a file.</source>
-        <translation>Var god välj en fil.</translation>
+        <translation>Hãy lựa chọn một tệp tin.</translation>
     </message>
     <message>
         <source>This message has been removed by you.</source>
-        <translation>Detta meddelande har tagits bort av dig.</translation>
+        <translation>Tin nhắn này đã được bạn gỡ bỏ.</translation>
     </message>
     <message>
         <source>This message has been removed.</source>
-        <translation>Detta meddelande har tagits bort.</translation>
+        <translation>Tin nhắn này đã được gỡ bỏ.</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Välj alla</translation>
+        <translation>Chọn tất</translation>
     </message>
     <message>
         <source>Find Again</source>
-        <translation>Sök igen</translation>
+        <translation>Tìm lại</translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>Redigera meddelande</translation>
+        <translation>Sửa tin nhắn</translation>
     </message>
     <message>
         <source>Remove Message</source>
-        <translation>Ta bort meddelande</translation>
+        <translation>Gỡ bỏ tin nhắn</translation>
     </message>
     <message>
         <source>Right click here to set/unset the chat picture.</source>
@@ -788,27 +789,27 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename Group</source>
-        <translation>Döp om grupp</translation>
+        <translation>Sửa tên nhóm</translation>
     </message>
     <message>
         <source>Delete Group</source>
-        <translation>Ta bort grupp</translation>
+        <translation>Xóa nhóm</translation>
     </message>
     <message>
         <source>This message has been edited by %1 at %2</source>
-        <translation>Detta meddelande har redigerats av %1 vid %2</translation>
+        <translation>Tin nhắn này được sửa bởi %1 vào lúc %2</translation>
     </message>
     <message>
         <source>This message has been edited at %1</source>
-        <translation>Detta meddelande har redigerats vid %1</translation>
+        <translation>Tin nhắn này được sửa vào lúc %1</translation>
     </message>
     <message>
         <source>This message has been removed by %1</source>
-        <translation>Detta meddelande har tagits bort av %1</translation>
+        <translation>Tin nhắn này được gỡ bỏ bởi %1</translation>
     </message>
     <message>
         <source>Declined to be added</source>
-        <translation>Nekades att läggas till</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unsubscribed</source>
@@ -816,11 +817,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unknown reason</source>
-        <translation>Okänd anledning</translation>
+        <translation>Không rõ lý do</translation>
     </message>
     <message>
         <source>Quote message</source>
-        <translation>Citera meddelande</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This person is using a version of Skype that doesn&apos;t support group chat</source>
@@ -836,15 +837,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Last 6 Months</source>
-        <translation type="unfinished"/>
+        <translation>6 tháng trước</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"/>
+        <translation>Năm ngoái</translation>
     </message>
     <message>
         <source>Are you sure you want to call?</source>
-        <translation type="unfinished"/>
+        <translation>Bạn có thực sự muốn gọi điện?</translation>
     </message>
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
@@ -860,7 +861,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Ưa thích</translation>
     </message>
     <message>
         <source>Recent</source>
@@ -872,15 +873,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 - %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Gỡ bỏ khỏi mục ưa thích</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Thêm vào mục ưa thích</translation>
     </message>
     <message>
         <source>Pop-in chat</source>
@@ -902,11 +903,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Send Files</source>
-        <translation type="unfinished"/>
+        <translation>Gửi tệp tin</translation>
     </message>
     <message>
         <source>Add people</source>
-        <translation type="unfinished"/>
+        <translation>Thêm người</translation>
     </message>
     <message>
         <source>Chat options</source>
@@ -914,7 +915,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Remove from Bookmarks</source>
@@ -934,31 +935,31 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 has a birthday.</source>
-        <translation type="unfinished"/>
+        <translation>Sinh nhật của %1</translation>
     </message>
     <message>
         <source>Call to %1, no answer.</source>
-        <translation type="unfinished"/>
+        <translation>Gọi cho %1, không ai trả lời.</translation>
     </message>
     <message>
         <source>Missed call from %1.</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi nhỡ từ %1</translation>
     </message>
     <message>
         <source>Call to %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>Gọi cho %1, đang bận.</translation>
     </message>
     <message>
         <source>Call from %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi từ %1, đang bận</translation>
     </message>
     <message>
         <source>Call to %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi từ %1, trong khoảng %2.</translation>
     </message>
     <message>
         <source>Call from %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi từ %1, trong khoảng %2</translation>
     </message>
     <message>
         <source>blocked %1 from the chat.</source>
@@ -966,11 +967,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>sent file %1.</source>
-        <translation type="unfinished"/>
+        <translation>gửi tệp tin %1</translation>
     </message>
     <message>
         <source>sent files %1.</source>
-        <translation type="unfinished"/>
+        <translation>gửi tệp tin %1.</translation>
     </message>
     <message>
         <source>sent you a voice message.</source>
@@ -987,96 +988,96 @@ Please use a different image file!</source>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Hoạt động cuối cùng %n năm trước</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n month(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n week(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n day(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n hour(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n minute(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n second(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Conference call, duration %1.</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi hội nghị, trong khoảng %1.</translation>
     </message>
     <message>
         <source>Add to Conference Call</source>
-        <translation type="unfinished"/>
+        <translation>Thêm vào cuộc gọi hội nghị</translation>
     </message>
     <message>
         <source>Call participants</source>
-        <translation type="unfinished"/>
+        <translation>Người tham gia cuộc gọi</translation>
     </message>
 </context>
 <context>
     <name>Confirmation</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Chấp nhận</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Từ chối</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Đồng ý</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Không</translation>
     </message>
     <message>
         <source>Remember this selection</source>
-        <translation type="unfinished"/>
+        <translation>Ghi nhớ lựa chọn này</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Bạn có chắc?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Hủy</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Cập nhật</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Xóa</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Áp dụng</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1084,39 +1085,39 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Trở lại</translation>
     </message>
     <message>
         <source>Try Again</source>
-        <translation type="unfinished"/>
+        <translation>Thử lại</translation>
     </message>
     <message>
         <source>Do not ask me again</source>
-        <translation type="unfinished"/>
+        <translation>Không hỏi tôi lần nữa.</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Thay đổi mật khẩu</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Tạo</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Tái nạp</translation>
     </message>
     <message>
         <source>I agree</source>
-        <translation type="unfinished"/>
+        <translation>Tôi đồng ý</translation>
     </message>
     <message>
         <source>I do not agree</source>
-        <translation type="unfinished"/>
+        <translation>Tôi không đồng ý</translation>
     </message>
     <message>
         <source>Report abuse from this person</source>
@@ -1131,23 +1132,23 @@ Please use a different image file!</source>
     <name>Contact Authorisation</name>
     <message>
         <source>%1 people</source>
-        <translation type="unfinished"/>
+        <translation>%1 người</translation>
     </message>
     <message>
         <source>Say Hello to %1</source>
-        <translation type="unfinished"/>
+        <translation>Xin chào %1</translation>
     </message>
     <message>
         <source>Type a short message to introduce yourself to %1</source>
-        <translation type="unfinished"/>
+        <translation>Nhập một đoạn tin nhắn ngắn giới thiệu về bản thân với %1</translation>
     </message>
     <message>
         <source>Please allow me to see when you are online</source>
-        <translation type="unfinished"/>
+        <translation>Hãy cho phép tôi thấy khi bạn đang trực tuyến</translation>
     </message>
     <message>
         <source> Call %1</source>
-        <translation type="unfinished"/>
+        <translation>Gọi %1</translation>
     </message>
     <message>
         <source> Start a chat with %1</source>
@@ -1183,15 +1184,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Hide Picture</source>
-        <translation type="unfinished"/>
+        <translation>Ẩn hình ảnh</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation type="unfinished"/>
+        <translation>Hiện hình ảnh</translation>
     </message>
     <message>
         <source>Accept and Add to Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Châ</translation>
     </message>
     <message>
         <source>Accept contact request and add contact to your contact list</source>
@@ -1202,7 +1203,7 @@ Please use a different image file!</source>
     <name>Contact Information</name>
     <message>
         <source>This is the user&apos;s current mood message. </source>
-        <translation type="unfinished"/>
+        <translation>Đây là tin nhắn tâm trạng hiện thời của người dùng.</translation>
     </message>
     <message>
         <source>Call Contact</source>
@@ -1214,7 +1215,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Button</source>
-        <translation type="unfinished"/>
+        <translation>Nút gọi</translation>
     </message>
     <message>
         <source>Chat to Contact</source>
@@ -1222,7 +1223,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Click this button to start a chat with this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Nhấn nút để b</translation>
     </message>
     <message>
         <source>Chat Button</source>
@@ -1230,7 +1231,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>View Profile</source>
-        <translation type="unfinished"/>
+        <translation>Hiện thông tin cá nhân</translation>
     </message>
     <message>
         <source>Click this button to view this contact&apos;s profile.</source>
@@ -1246,23 +1247,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Trực tuyến</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Có việc</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Không làm phiền</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Ẩn</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Không trực tuyến</translation>
     </message>
     <message>
         <source>Edit Profile</source>
@@ -1274,7 +1275,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Last Seen: %1</source>
-        <translation type="unfinished"/>
+        <translation>Lần xem cuối: %1</translation>
     </message>
     <message>
         <source>Edit Contact</source>
@@ -1298,11 +1299,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Are you sure you wish to block %1?</source>
-        <translation type="unfinished"/>
+        <translation>Bạn có chắc muốn khóa %1?</translation>
     </message>
     <message>
         <source>Delete Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Xóa các số liên lạc được chọn</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected users from your contact list?</source>
@@ -1314,115 +1315,115 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Profile for %1</source>
-        <translation type="unfinished"/>
+        <translation>Hồ sơ của %1</translation>
     </message>
     <message>
         <source>Contact Information</source>
-        <translation type="unfinished"/>
+        <translation>Thông tin liên lạc</translation>
     </message>
     <message>
         <source>Skype Name:</source>
-        <translation type="unfinished"/>
+        <translation>Tên Skype</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Tên đầy đủ</translation>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Home Phone:</source>
-        <translation type="unfinished"/>
+        <translation>SĐT nhà riêng:</translation>
     </message>
     <message>
         <source>Office Phone:</source>
-        <translation type="unfinished"/>
+        <translation>SĐT văn phòng:</translation>
     </message>
     <message>
         <source>Mobile Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Di động:</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="unfinished"/>
+        <translation>Thông tin cá nhân</translation>
     </message>
     <message>
         <source>Contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Tên liên lạc:</translation>
     </message>
     <message>
         <source>Local Time:</source>
-        <translation type="unfinished"/>
+        <translation>Giờ địa phương:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Sinh nhật</translation>
     </message>
     <message>
         <source>Age:</source>
-        <translation type="unfinished"/>
+        <translation>Tuổi:</translation>
     </message>
     <message>
         <source>Gender:</source>
-        <translation type="unfinished"/>
+        <translation>Giới tính:</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Ngôn ngữ:</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Quốc gia:</translation>
     </message>
     <message>
         <source>Region:</source>
-        <translation type="unfinished"/>
+        <translation>Vùng:</translation>
     </message>
     <message>
         <source>City:</source>
-        <translation type="unfinished"/>
+        <translation>Thành phố:</translation>
     </message>
     <message>
         <source>Homepage:</source>
-        <translation type="unfinished"/>
+        <translation>Trang chủ:</translation>
     </message>
     <message>
         <source>Phone Number:</source>
-        <translation type="unfinished"/>
+        <translation>Số điện thoại:</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation type="unfinished"/>
+        <translation>Nam</translation>
     </message>
     <message>
         <source>Female</source>
-        <translation type="unfinished"/>
+        <translation>Nữ</translation>
     </message>
     <message>
         <source>Change Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Thay đổi ảnh đại diện</translation>
     </message>
     <message>
         <source>Remove Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Gỡ bỏ ảnh đại diện</translation>
     </message>
     <message>
         <source>Click here to read the privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Nhấn vào đây để đọc chính sách bảo mật</translation>
     </message>
     <message>
         <source>Clear Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Xóa ngày sinh</translation>
     </message>
     <message>
         <source>-- Unspecified --</source>
-        <translation type="unfinished"/>
+        <translation>-- Không xác định --</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Đổi tên</translation>
     </message>
     <message>
         <source>Type a new name or number for %1</source>
@@ -1430,43 +1431,43 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear Name</source>
-        <translation type="unfinished"/>
+        <translation>Xóa tên</translation>
     </message>
     <message>
         <source>Rename %1</source>
-        <translation type="unfinished"/>
+        <translation>Đổi tên %1</translation>
     </message>
     <message>
         <source>Type a new display name for %1</source>
-        <translation type="unfinished"/>
+        <translation>Đánh một tên hiển thị mới cho %1</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Tên</translation>
     </message>
     <message>
         <source>Gender</source>
-        <translation type="unfinished"/>
+        <translation>Giới tính</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"/>
+        <translation>Thành phố</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Ngôn ngữ</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished"/>
+        <translation>Đang kết nối</translation>
     </message>
     <message>
         <source>Blocked</source>
-        <translation type="unfinished"/>
+        <translation>Đã bị khóa</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Không rõ</translation>
     </message>
     <message>
         <source>Undisclosed number</source>
@@ -1478,7 +1479,7 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
@@ -1490,19 +1491,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Không được đặt tên</translation>
     </message>
     <message>
         <source>Choose Avatar Image</source>
-        <translation type="unfinished"/>
+        <translation>Chọn ảnh đại diện</translation>
     </message>
     <message>
         <source>Contact Options</source>
-        <translation type="unfinished"/>
+        <translation>Tùy chọn liên lạc</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"/>
+        <translation>Số điện thoại</translation>
     </message>
     <message>
         <source>%1 (%2) - %3 since %4</source>
@@ -1516,7 +1517,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Rename...</source>
-        <translation type="unfinished"/>
+        <translation>Đổi tên...</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
@@ -1528,7 +1529,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Block This User</source>
-        <translation type="unfinished"/>
+        <translation>Khóa người dùng này</translation>
     </message>
     <message>
         <source>Are you sure you wish to unblock %1?</source>
@@ -1540,43 +1541,43 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected group?</source>
-        <translation type="unfinished"/>
+        <translation>Bác có chắc là muốn xóa nhóm được chọn?</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Gửi tin nhắn</translation>
     </message>
     <message>
         <source>Click this button to send SMS.</source>
-        <translation type="unfinished"/>
+        <translation>Nhấn nút này để gửi tin nhắn.</translation>
     </message>
     <message>
         <source>SMS Button</source>
-        <translation type="unfinished"/>
+        <translation>Nút nhắn tin</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Create Group</source>
-        <translation type="unfinished"/>
+        <translation>Tạo nhóm</translation>
     </message>
     <message>
         <source>Enter name for new group</source>
-        <translation type="unfinished"/>
+        <translation>Nhập tên cho nhóm mới</translation>
     </message>
     <message>
         <source>Edit Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Sửa số điện thoại</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Lưu</translation>
     </message>
     <message>
         <source>Labels for %1</source>
-        <translation type="unfinished"/>
+        <translation>Nhã</translation>
     </message>
     <message>
         <source>Enter a comma separated list of labels for %1</source>
@@ -1584,12 +1585,12 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Edit Labels...</source>
-        <translation type="unfinished"/>
+        <translation>Sửa nhãn...</translation>
     </message>
     <message>
         <source>Block this user</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Khóa người dùng này</translation>
     </message>
     <message>
         <source>Unblock this user</source>
@@ -1598,15 +1599,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Last Seen:</source>
-        <translation type="unfinished"/>
+        <translation>Lần xem cuối:</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ẩn</translation>
     </message>
     <message>
         <source>Add more email addresses</source>
-        <translation type="unfinished"/>
+        <translation>Thêm nhiều địa chỉ email</translation>
     </message>
     <message>
         <source>Offline with voice messaging</source>
@@ -1618,54 +1619,54 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Trực tuyến (trên thiết bị di động)</translation>
     </message>
     <message>
         <source>Away (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Vắng mặt (trên thiết bị di động)</translation>
     </message>
     <message>
         <source>Do Not Disturb (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Không làm phiền (trên thiết bị di động)</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Sửa</translation>
     </message>
     <message>
         <source>Add phone number</source>
-        <translation type="unfinished"/>
+        <translation>Thêm số điện thoại</translation>
     </message>
     <message>
         <source>Other Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Số khác:</translation>
     </message>
 </context>
 <context>
     <name>Contact Search</name>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Thêm liên lạc</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Tìm kiếm</translation>
     </message>
     <message>
         <source>Country/Region</source>
-        <translation type="unfinished"/>
+        <translation>Quốc gia / Vùng</translation>
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Số điện thoại</translation>
     </message>
     <message>
         <source>All Countries/Regions</source>
-        <translation type="unfinished"/>
+        <translation>Tất cả quốc gia / vùng</translation>
     </message>
     <message>
         <source>Age Range</source>
-        <translation type="unfinished"/>
+        <translation>Độ tuổi</translation>
     </message>
     <message>
         <source>All Ages</source>
@@ -1673,7 +1674,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>State/Province</source>
-        <translation type="unfinished"/>
+        <translation>Bang/Tỉnh</translation>
     </message>
     <message>
         <source>Do not specify</source>
@@ -1681,26 +1682,26 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>All Languages</source>
-        <translation type="unfinished"/>
+        <translation>Tất cả ngôn ngữ</translation>
     </message>
     <message>
         <source>Full Name</source>
         <comment>Result Table Header: Full Name</comment>
-        <translation type="unfinished"/>
+        <translation>Tên đầy đủ</translation>
     </message>
     <message>
         <source>Skype Name</source>
         <comment>Result Table Header: Skype Name</comment>
-        <translation type="unfinished"/>
+        <translation>Tên trên Skype</translation>
     </message>
     <message>
         <source>City, Country</source>
         <comment>Result Table Header: City, Country</comment>
-        <translation type="unfinished"/>
+        <translation>Thành phố / Quốc gia</translation>
     </message>
     <message>
         <source>Add a Skype Contact</source>
-        <translation type="unfinished"/>
+        <translation>Thêm tên liên lạc Skype</translation>
     </message>
     <message>
         <source>Search for Skype Contacts</source>
@@ -1708,23 +1709,23 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>New Search</source>
-        <translation type="unfinished"/>
+        <translation>Tìm kiếm mới</translation>
     </message>
     <message>
         <source>Or add a Skype contact</source>
-        <translation type="unfinished"/>
+        <translation>Hay thêm tên liên lạc Skype mới</translation>
     </message>
     <message>
         <source>Add Number</source>
-        <translation type="unfinished"/>
+        <translation>Thêm số</translation>
     </message>
     <message>
         <source>Cancel Search</source>
-        <translation type="unfinished"/>
+        <translation>Hủy tìm kiếm</translation>
     </message>
     <message>
         <source>Search for Skype users</source>
-        <translation type="unfinished"/>
+        <translation>Tìm kiếm người dùng Skype</translation>
     </message>
     <message>
         <source>Add a Skype contact using their Skype Name</source>
@@ -1778,45 +1779,45 @@ Please use a different image file!</source>
     <name>Dates and Time</name>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Ngày mai</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Hôm nay</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Hôm qua</translation>
     </message>
 </context>
 <context>
     <name>EULA</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Ngôn ngữ</translation>
     </message>
     <message>
         <source>Skype Terms of Use</source>
-        <translation type="unfinished"/>
+        <translation>Điều khoản sử dụng Skype</translation>
     </message>
     <message>
         <source>To start using Skype, you must agree to the Terms of Use.</source>
-        <translation type="unfinished"/>
+        <translation>Để bắt đầu sử dụng Skype, bạn phải đồng ý với điều khoản sử dụng.</translation>
     </message>
     <message>
         <source>Terms of Use</source>
-        <translation type="unfinished"/>
+        <translation>Điều khoản sử dụng</translation>
     </message>
 </context>
 <context>
     <name>Events</name>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Hiển thị Lịch sử</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Đánh dấu đã xem tất cả</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
@@ -1824,15 +1825,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Birthday for %1</source>
-        <translation type="unfinished"/>
+        <translation>Sinh nhật của %1</translation>
     </message>
     <message>
         <source>Delete Event</source>
-        <translation type="unfinished"/>
+        <translation>Xóa Sự kiện</translation>
     </message>
     <message>
         <source>Delete Selected Events</source>
-        <translation type="unfinished"/>
+        <translation>Xóa những Sự kiện đã chọn</translation>
     </message>
     <message>
         <source>Unknown event</source>
@@ -1840,15 +1841,15 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Event History</source>
-        <translation type="unfinished"/>
+        <translation>Lịch sử Sự kiện</translation>
     </message>
     <message>
         <source>New Events</source>
-        <translation type="unfinished"/>
+        <translation>Sự kiện mới</translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation type="unfinished"/>
+        <translation>Các cuộc gọi</translation>
     </message>
     <message>
         <source>Chats</source>
@@ -1908,19 +1909,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Test Sound</source>
-        <translation type="unfinished"/>
+        <translation>Thử âm thanh</translation>
     </message>
     <message>
         <source>Skype Login</source>
-        <translation type="unfinished"/>
+        <translation>Đăng nhập Skype</translation>
     </message>
     <message>
         <source>Skype Logout</source>
-        <translation type="unfinished"/>
+        <translation>Đăng xuất Skype</translation>
     </message>
     <message>
         <source>Skype Login Failed</source>
-        <translation type="unfinished"/>
+        <translation>Đăng nhập Skype thất bại</translation>
     </message>
     <message>
         <source>Call Connecting</source>
@@ -1936,19 +1937,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Answered</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi được trả lời</translation>
     </message>
     <message>
         <source>Number Busy</source>
-        <translation type="unfinished"/>
+        <translation>Số máy bận</translation>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi bị nhỡ</translation>
     </message>
     <message>
         <source>Call Failed</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi thất bại</translation>
     </message>
     <message>
         <source>Call on Hold</source>
@@ -1956,11 +1957,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Resumed</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi bị tạm dừng</translation>
     </message>
     <message>
         <source>Call Waiting</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi đang chờ</translation>
     </message>
     <message>
         <source>Call Hungup</source>
@@ -1968,7 +1969,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Call Ended</source>
-        <translation type="unfinished"/>
+        <translation>Cuộc gọi kết thúc</translation>
     </message>
     <message>
         <source>First Chat Message Received</source>
@@ -1996,7 +1997,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact Came Online</source>
-        <translation type="unfinished"/>
+        <translation>Số liên lạc đang trực tuyến</translation>
     </message>
     <message>
         <source>Contact Went Offline</source>
@@ -2008,11 +2009,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact Added to List</source>
-        <translation type="unfinished"/>
+        <translation>Số liên lạc được thêm vào danh sách</translation>
     </message>
     <message>
         <source>Contact Deleted from List</source>
-        <translation type="unfinished"/>
+        <translation>Số liên lạc bị xóa khỏi danh sách</translation>
     </message>
     <message>
         <source>File Transfer Request</source>
@@ -2064,7 +2065,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Advertisement</source>
-        <translation type="unfinished"/>
+        <translation>Quảng cáo</translation>
     </message>
     <message>
         <source>Upsell</source>
@@ -2072,11 +2073,11 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Contact&apos;s Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Sinh nhật của số liên lạc</translation>
     </message>
     <message>
         <source>Our Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Sinh nhật của chúng tôi</translation>
     </message>
     <message>
         <source>Credit is Low</source>
@@ -2084,21 +2085,21 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Không rõ</translation>
     </message>
     <message>
         <source>%1, %2 had a birthday</source>
         <comment>Example: [Yesterday, 29/12/2008], [Andrew] had a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>Sinh nhật của %1, %2</translation>
     </message>
     <message>
         <source>%1, %2 has a birthday</source>
         <comment>Example: [Tomorrow, 29/12/2008], [Andrew] has a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>Sinh nhật của %1, %2</translation>
     </message>
     <message>
         <source>Incoming Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>Yêu</translation>
     </message>
     <message>
         <source>&amp;Unread Chats</source>
@@ -2114,7 +2115,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Mark as Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Đánh dấu như đã xem</translation>
     </message>
     <message>
         <source>Incoming</source>
@@ -2122,19 +2123,19 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Voice Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Tin nhắn thoại đã nhận</translation>
     </message>
     <message>
         <source>Voice Message Sent</source>
-        <translation type="unfinished"/>
+        <translation>Tin nhắn thoại đã gửi</translation>
     </message>
     <message>
         <source>Skype WiFi - Extend Session</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi - Phiên mở rộng</translation>
     </message>
     <message>
         <source>Your Skype WiFi session is due to expire in %1 minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Phiên làm việc Sk</translation>
     </message>
     <message>
         <source>This is an example of an SMS event popup.</source>
@@ -2357,15 +2358,15 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>Clear %n Received File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Sent File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Failed File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
@@ -2481,15 +2482,15 @@ Please use a different image file!</source>
     </message>
     <message numerus="yes">
         <source>%n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Accept %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Decline %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Incoming file from %1 isn&apos;t available yet</source>
@@ -2860,7 +2861,7 @@ Please try again later.</source>
     </message>
     <message numerus="yes">
         <source>%n new event(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>All Contacts</source>
@@ -3006,7 +3007,7 @@ Please try again later.</source>
     <message numerus="yes">
         <source>%n subscription(s)</source>
         <comment>This appears in case of account having subscriptions</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Messenger Contacts</source>

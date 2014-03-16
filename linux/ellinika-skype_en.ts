@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>Δημόσιο API</translation>
     </message>
     <message>
         <source>Allowed programs:</source>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>Mute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>Σίγαση του μικροφώνου σας</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
@@ -214,7 +214,7 @@
     </message>
     <message>
         <source>Reject Call</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη Κλήσης</translation>
     </message>
     <message>
         <source>Ignore Call</source>
@@ -246,7 +246,7 @@
     </message>
     <message>
         <source>Call %1</source>
-        <translation type="unfinished"/>
+        <translation>Κλήση %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
@@ -274,15 +274,15 @@
     </message>
     <message>
         <source>Contacts to call</source>
-        <translation type="unfinished"/>
+        <translation>Επαφές προς κλήση</translation>
     </message>
     <message>
         <source>Type a number to call</source>
-        <translation type="unfinished"/>
+        <translation>Πληκτρολογήστε τον αριθμό προς κλήση</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"/>
+        <translation>Σύνδεση...</translation>
     </message>
     <message>
         <source>Problem with Audio Capture</source>
@@ -326,11 +326,11 @@
     </message>
     <message>
         <source>and %1</source>
-        <translation type="unfinished"/>
+        <translation>και %1</translation>
     </message>
     <message>
         <source>%1 is calling you</source>
-        <translation type="unfinished"/>
+        <translation>Ο %1 σας καλεί</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
@@ -342,7 +342,7 @@
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 ανά λεπτό</translation>
     </message>
     <message>
         <source>Insufficient Credit</source>
@@ -382,7 +382,7 @@
     </message>
     <message>
         <source>Estimated cost: %1</source>
-        <translation type="unfinished"/>
+        <translation>Εκτιμώμενο κόστος: %1</translation>
     </message>
     <message>
         <source>Voice Message Greeting</source>
@@ -596,7 +596,7 @@
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Εύρεση</translation>
     </message>
     <message>
         <source>%1 / %2</source>
