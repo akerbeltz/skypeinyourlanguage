@@ -124,6 +124,10 @@ Georgian (ქართული)
 Translator(s): Unknown
 Source: http://zazuka80.ucoz.com/load/1-5-2
 
+Greek (ελληνικά)
+Translator(s): diamond_gr
+Source: Transifex
+
 Hindi (हिन्दी)
 Translators: Chandan Kumar, Pradeep Jha
 Source: Transifex
@@ -142,6 +146,10 @@ Source: Transifex
 Khmer (ភាសាខ្មែរ)
 Translator(s): Unknown, khoemsokhem
 Source: http://www.khmercity.net/profiles/blogs/skype-100 & Transifex
+
+Ladino (Judeo-Espanyol)
+Translator(s): Can Evrensel
+Source: Facebook
 
 Ligurian (Lìgure)
 Translator(s): Unknown
@@ -233,6 +241,10 @@ Translator: Michael Bauer
 Serbian (Cyrillic; српски)
 Translator: DakSrbija
 
+Sinhala (සිංහල)
+Translator: nishan
+Source: Transifex
+
 Tajik (Тоҷикӣ, تاجیکی‎)
 Translator(s): Unknown
 Source: http://www.millat.tj/AFpersian%20cirillic.lang
@@ -265,6 +277,10 @@ Uzbek (O'zbekcha)
 Translator: ualmasov
 Source: Transifex
 
+Vietnamese (Tiếng Việt)
+Translator: Duy Truong Nguyen (truongap)
+Source: Transifex
+
 Welsh (Cymraeg)
 Translator: Merlyn Cooper, huwwaters
 Source: Transifex
@@ -272,6 +288,5 @@ Source: Transifex
 Yakut (Саха тыла)
 Translator: Halan, Dorghoon, bacr
 Source: Transifex
-
 
 Enjoy!
