@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2014-02-10 15:04+0000\n"
+"PO-Revision-Date: 2014-02-21 18:34+0000\n"
 "Last-Translator: farooqraju <farooqraju_07@yahoo.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/projects/p/skype-translation-project/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -50,7 +50,7 @@ msgstr "ব্যস্ত"
 msgctxt "sQUIT_PROMPT"
 msgid ""
 "You won't be able to send or receive instant messages and calls if you do."
-msgstr "এটা করলে আপনি কল এবং তাৎক্ষনিক বার্তা পেতে বা পাঠাতে পারবেননা"
+msgstr "এটা করলে আপনি কল এবং তাৎক্ষনিক বার্তা পেতে বা পাঠাতে পারবেন না।"
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
@@ -66,7 +66,7 @@ msgstr "সাহায্য পান: উত্তর এবং সহায়�
 
 msgctxt "sMAINMENU_HELP_UPDATES"
 msgid "Check for Updates"
-msgstr "হালনাগাদ অবস্থাসমূহের জন্য দেখুন"
+msgstr "হালনাগাদের জন্য পরীক্ষা করুন"
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
@@ -102,7 +102,7 @@ msgstr "স্কাইপ খুলুন"
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr "বের হন"
+msgstr "প্রস্থান"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
@@ -130,7 +130,7 @@ msgstr "দূরে"
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
-msgstr "সুপ্রাপ্য নয়"
+msgstr "উপলব্ধ নয়"
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
@@ -175,11 +175,11 @@ msgstr "বাসার ফোন"
 
 msgctxt "sF_USERINFO_LABEL_OFFICEPHONE"
 msgid "Office phone"
-msgstr "কর্মক্ষেত্রের ফোন"
+msgstr "অফিস ফোন"
 
 msgctxt "sF_USERINFO_LABEL_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "মুঠোফোন"
+msgstr "মোবাইল ফোন"
 
 msgctxt "sF_USERINFO_LABEL_HOMEPAGE"
 msgid "Website"
@@ -223,15 +223,15 @@ msgstr "স্কাইপ নাম"
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
-msgstr "গুপ্তসংকেত"
+msgstr "পাসওয়ার্ড"
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD2"
 msgid "Repeat password"
-msgstr "পুনরায় গুপ্তসংকেত দিন"
+msgstr "পুনরায় পাসওয়ার্ড দিন"
 
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
-msgstr "পাসওয়ার্ড ভুলে গিয়েছেন?"
+msgstr "পাসওয়ার্ড ভুলে গেছেন?"
 
 msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
 msgid "Yes, send me Skype news and promotions"
@@ -239,7 +239,7 @@ msgstr "হ্যাঁ, আমাকে স্কাইপ খবর এবং 
 
 msgctxt "sF_USERENTRY_SIGNIN"
 msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
-msgstr "ইতিমধ্যে একটি স্কাইপ হিসাব আছে? <a href=\"x\">Sign in</a>"
+msgstr "ইতিমধ্যে একটি স্কাইপ অ্যাকাউন্ট আছে? <a href=\"x\">প্রবেশ করুন</a>"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2003-2013 Skype and/or Microsoft"
@@ -275,11 +275,11 @@ msgstr "শহর"
 
 msgctxt "sF_USERPROFILE_LB_OFFICEPHONE"
 msgid "Office phone"
-msgstr "কর্মক্ষেত্রের ফোন"
+msgstr "অফিস ফোন"
 
 msgctxt "sF_USERPROFILE_LB_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "মুঠোফোন"
+msgstr "মোবাইল ফোন"
 
 msgctxt "sF_USERPROFILE_LB_EMAIL"
 msgid "Email"
@@ -307,11 +307,11 @@ msgstr "একটি সংযোগে দুইবার ক্লিক ক�
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
-msgstr "উইন্ডোজ শুরু হবার সাথে সাথে স্কাইপ চালু হবে"
+msgstr "উইন্ডোজ চালু হবার সাথে সাথে স্কাইপ চালু করুন"
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "আপনার বৃত্তান্তে সংযোগ খুঁটিনাটি যোগ করুন"
+msgstr "আপনার বৃত্তান্তে সংযোগের খুঁটিনাটি যোগ করুন"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
@@ -437,11 +437,11 @@ msgstr "তাৎক্ষণিক বার্তার সাথে সময়
 
 msgctxt "sF_RENAMEUSER_LABEL"
 msgid "Enter new name for %s"
-msgstr "%s এর জন্য নতুন নাম প্রবেশ করুন"
+msgstr "%s-এর জন্য নতুন নাম প্রবেশ করান"
 
 msgctxt "sF_RENAMEUSER_CAPTION"
 msgid "Rename"
-msgstr "পুনর্নামাঙ্করণ করুন"
+msgstr "পুনঃনামকরণ"
 
 msgctxt "sF_CONFIRM_CBNOMORE"
 msgid "Do not ask me again"
@@ -477,19 +477,19 @@ msgstr "এই তথ্য পুনরায় দেখাবেন না"
 
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
-msgstr "গুপ্তসংকেত পরিবর্তন করুন"
+msgstr "পাসওয়ার্ড পরিবর্তন করুন"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT1"
 msgid "Enter current password"
-msgstr "বর্তমান গুপ্তসংকেত লিখুন"
+msgstr "বর্তমান পাসওয়ার্ড লিখুন"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT2"
 msgid "Enter new password"
-msgstr "নতুন গুপ্তসংকেত লিখুন"
+msgstr "নতুন পাসওয়ার্ড লিখুন"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT3"
 msgid "Re-enter new password"
-msgstr "নতুন গুপ্তসংকেত পুনরায় লিখুন"
+msgstr "নতুন পাসওয়ার্ড পুনরায় লিখুন"
 
 msgctxt "sF_CHANGE_PASSWORD_BTN1_TEXT"
 msgid "Apply"
@@ -503,25 +503,25 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
 "The passwords don't match. Please re-enter your new password and "
 "confirmation again"
-msgstr "গুপ্তসংকেতদ্বয় মিলছে না। আপনার নতুন গুপ্তসংকেত পুনরায় লিখুন এবং আবার নিশ্চিত করুন।"
+msgstr "পাসওয়ার্ড মিলছে না। আপনার নতুন পাসওয়ার্ড পুনরায় লিখুন এবং আবার নিশ্চিত করুন।"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
-msgstr "গুপ্তসংকেত পরিবর্তন করুন"
+msgstr "পাসওয়ার্ড পরিবর্তন করুন"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid.  Please try again."
-msgstr "আপনার দেয়া পুরনো গুপ্তসংকেতটি সঠিক নয়। দয়া করে আবার চেষ্টা করুন।"
+msgstr "আপনার দেয়া পুরনো পাসওয়ার্ড সঠিক নয়। দয়া করে আবার চেষ্টা করুন।"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
-msgstr "সংযোগ সমস্যার কারণে গুপ্তসংকেত পরিবর্তন করা সম্ভব হয়নি"
+msgstr "সংযোগ সমস্যার কারণে পাসওয়ার্ড পরিবর্তন করা সম্ভব হয়নি"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT8"
 msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
-msgstr "সফল! আপনার গুপ্তসংকেত পরিবর্তিত হয়েছে। পরবর্তীতে প্রবেশের সময় আপনার নতুন গুপ্তসংকেতটি ব্যবহার করুন।"
+msgstr "সফল! আপনার পাসওয়ার্ড পরিবর্তিত হয়েছে। পরবর্তীতে প্রবেশের সময় আপনার নতুন পাসওয়ার্ডটি ব্যবহার করুন।"
 
 msgctxt "sF_SEND_CONTACTS_TEXT1"
 msgid "Send contacts to other people on Skype"
@@ -601,7 +601,7 @@ msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SIMPLE"
 msgid ""
 "Your password needs to contain at least 1 letter and 1 number. Try a new "
 "password."
-msgstr "আপনার গপ্তশব্দটি কমপক্ষে একটি এবং একটি  নম্বর থাকতে হবে। নতুন একটি গপ্তশব্দ চেষ্টা করুন।"
+msgstr "আপনার পাসওয়ার্ডটিতে কমপক্ষে ১টি এবং ১টি  নম্বর থাকতে হবে। নতুন একটি পাসওয়ার্ড চেষ্টা করুন।"
 
 msgctxt "sF_OPTIONS_LB24"
 msgid "Use Skype to call callto: links on the web"
@@ -635,7 +635,7 @@ msgstr ""
 
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
-msgstr "স্কাইপে সম্পর্কে"
+msgstr "স্কাইপ সম্পর্কে"
 
 msgctxt "sF_OPTIONS_PAGE_KEYBOARD"
 msgid "Hotkeys"
@@ -755,7 +755,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_CAPTION"
 msgid "Language file editor"
-msgstr ""
+msgstr "ভাষার নথি সম্পাদক"
 
 msgctxt "sF_TRANSLATE_SAVE"
 msgid "Save as..."
@@ -773,7 +773,7 @@ msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE"
 msgid ""
 "The language file has been modified since last save. Do you want to exit "
 "without saving the changes?"
-msgstr ""
+msgstr "ভাষার ফাইল পূর্ববর্তী সংরক্ষণ আবস্থা হতে পরিবর্তন করা হয়েছে। আপনি পরিবর্তনগুলি সংরক্ষণ না করে প্রস্থান করতে চান?"
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
@@ -785,15 +785,15 @@ msgstr "মন্তব্য"
 
 msgctxt "sF_TRANSLATE_ORIGINAL"
 msgid "Original"
-msgstr "মুল/আসল"
+msgstr "আসল"
 
 msgctxt "sF_TRANSLATE_CURRENT"
 msgid "Current"
-msgstr "চলতি"
+msgstr "বর্তমান"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_BLOCK"
 msgid "Block this person"
-msgstr "এই ব্যক্তিকে অবরুধ করুন"
+msgstr "এই ব্যক্তিকে অবরুদ্ধ করুন"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_UNBLOCK"
 msgid "Unblock this person"
@@ -801,7 +801,7 @@ msgstr "এই ব্যক্তিকে অবরোধ মুক্ত ক�
 
 msgctxt "sF_OPTIONS_TCB10"
 msgid "Automatically pause Winamp during calls"
-msgstr ""
+msgstr "কল করার সময় স্বয়ংক্রিয়ভাবে উইনঅ্যাম্প বিরতিতে থাকবে "
 
 msgctxt "sF_OPTIONS_CB21"
 msgid "Ring PC speaker"
@@ -817,7 +817,7 @@ msgstr ""
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr "সমস্ত কল সংযোগ বিচ্ছিন্ন করা হবে। আপনি অফলাইনে যাওয়ার বিষয়ে নিশ্চিত?"
+msgstr "সমস্ত কল সংযোগ বিচ্ছিন্ন করা হবে। আপনি কি অফলাইনে যাওয়ার ব্যাপারে নিশ্চিত?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
@@ -833,7 +833,7 @@ msgstr ""
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
-msgstr ""
+msgstr "আপনি এই ব্যক্তির সঙ্গে যোগাযোগ করতে পারবেন না কারণ আপনি তাদেরকে আবরধ করেছেন"
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
@@ -841,7 +841,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG1_1"
 msgid "anyone"
-msgstr "যে কেহ"
+msgstr "যে কেউ"
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
@@ -853,7 +853,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG2_1"
 msgid "anyone"
-msgstr "যে কেহ"
+msgstr "যে কেউ"
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
@@ -885,11 +885,11 @@ msgstr "অফলাইনে যাবেন?"
 
 msgctxt "sCALLING_BLOCKED_CAP"
 msgid "Blocked"
-msgstr "অবরুদ্দ"
+msgstr "অবরুদ্ধ"
 
 msgctxt "sCALLING_BLOCKED_TITLE"
 msgid "Blocked"
-msgstr "অবরুদ্দ"
+msgstr "অবরুদ্ধ"
 
 msgctxt "sINFORM_DND_CAP"
 msgid "Warning"
@@ -1028,35 +1028,35 @@ msgid ""
 "The phone number you tried to dial was not entered correctly. You must dial "
 "+ then the country code and number you wish to call. Example: +1 212 555 "
 "1212"
-msgstr ""
+msgstr "আপনি ডায়ালকৃত ফোন নম্বরটি সঠিকভাবে প্রবেশ করানো হয় নি। আপনি প্রথমে +  তারপর দেশের কোড ও আপনার পছন্দকৃত নম্বরটি ডায়াল করতে হবে। উদাহরণ স্বরূপঃ +1 212 555 1212"
 
 msgctxt "sPSTN_ERR_UNKNOWN"
 msgid "Internal error, please try again. (#%s)"
-msgstr ""
+msgstr "অভ্যন্তরীণ ত্রুটি, আবার চেষ্টা করুন. (#% গুলি)"
 
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
-msgstr ""
+msgstr "স্কাইপে মুদ্রা নাই"
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
-msgstr ""
+msgstr "দউক্ষিত।কল করতে ব্যর্থ হয়েছে"
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
-msgstr ""
+msgstr "স্কাইপে মুদ্রা নাই"
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
-msgstr ""
+msgstr "দুঃখিত, কল করতে ব্যর্থ হয়েছে"
 
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
-msgstr ""
+msgstr "অবৈধ ফোন নম্বর"
 
 msgctxt "sPSTN_RES_10486"
 msgid "Phone number busy"
-msgstr ""
+msgstr "ফোন নম্বরটি ব্যস্ত"
 
 msgctxt "sF_OPTIONS_GREETING_RECORD"
 msgid "Record"
@@ -1096,7 +1096,7 @@ msgstr "কার্যালয় (%স)"
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr "স্কাইপে কল"
+msgstr "স্কাইপ কল"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1104,7 +1104,7 @@ msgstr "ফোন নম্বর"
 
 msgctxt "sF_CONFIRM_BLOCK"
 msgid "Block"
-msgstr ""
+msgstr "আবরধ"
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERNAME"
 msgid ""
@@ -1122,11 +1122,11 @@ msgstr "আপনার ছবি পছন্দ করুন"
 
 msgctxt "sF_OPTIONS_TCB18"
 msgid "Show emoticons"
-msgstr "আপণাড় অনুভূতি দেখান"
+msgstr "ইমোটিকন দেখান"
 
 msgctxt "sF_AVATAR_BROWSER_WRONG_FILE"
 msgid "The file you chose was invalid."
-msgstr ""
+msgstr "আপনি পছন্দের নথিটি অবৈধ ছিল"
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT_TITLE"
 msgid "Remove picture?"
@@ -1142,11 +1142,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL"
 msgid "File sent."
-msgstr "নথি পাঠানো হয়েছে"
+msgstr "ফাইল পাঠানো হয়েছে"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_RECEIVED"
 msgid "File received."
-msgstr "নথি গ্রহণ করা হয়েছে"
+msgstr "ফাইল গ্রহণ করা হয়েছে"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED"
 msgid "Sending cancelled"
@@ -1163,11 +1163,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE"
 msgid "Cancelling"
-msgstr ""
+msgstr "বাতিল হচ্ছে"
 
 msgctxt "sFILETRANSFER_CLOSE_CAP"
 msgid "Stop sending file"
-msgstr "নথি পাঠানো বন্ধ করুন"
+msgstr "ফাইল পাঠানো বন্ধ করুন"
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
@@ -1183,7 +1183,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
-msgstr ""
+msgstr "বাতিল হয়েছিল"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
@@ -1193,7 +1193,7 @@ msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
 "Are you sure you want to cancel? If you cancel now you will not receive this"
 " file."
-msgstr ""
+msgstr "আপনি কি নিশ্চিতভাবে বাতিল করতে চান? আপনি যদি বাতিল করেন আপনি আর এই নথিটি পাবেন না।"
 
 msgctxt "sFILETRANSFER_VIRUS_TEXT"
 msgid ""
@@ -1204,11 +1204,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_VIRUS_TITLE"
 msgid "Accept file"
-msgstr ""
+msgstr "নথিটি গ্রহণ করুন"
 
 msgctxt "sFILETRANSFER_VIRUS_CAP"
 msgid "Accept the file(s)"
-msgstr ""
+msgstr "নথি (গুলো) গ্রহণ করুন"
 
 msgctxt "sPSTN_RES_10403"
 msgid "You can't call this number on Skype right now."
@@ -1228,7 +1228,7 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10484"
 msgid "Invalid phone number"
-msgstr ""
+msgstr "অবৈধ ফোন নম্বর"
 
 msgctxt "sPSTN_RES_10487"
 msgid "Busy"
@@ -1236,7 +1236,7 @@ msgstr "ব্যস্ত"
 
 msgctxt "sPSTN_RES_10500"
 msgid "Phone network error"
-msgstr ""
+msgstr "ফোন নেটওয়ার্ক ত্রুটি"
 
 msgctxt "sPSTN_RES_10503"
 msgid "Service unavailable"
@@ -1244,7 +1244,7 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10504"
 msgid "Could not connect"
-msgstr "যোগাযোগ করা সম্ভব হয়নি"
+msgstr "সংযোগ করা যায়নি"
 
 msgctxt "sPSTN_RES_10600"
 msgid "Network busy"
@@ -1256,7 +1256,7 @@ msgstr "নম্বরটি ব্যস্ত"
 
 msgctxt "sPSTN_RES_10604"
 msgid "Invalid phone number"
-msgstr "নম্বরটি সঠিক নয়"
+msgstr "ফোন নম্বরটি সঠিক নয়"
 
 msgctxt "sPSTN_RES_10686"
 msgid "Network busy"
@@ -1485,7 +1485,7 @@ msgstr ""
 
 msgctxt "sNUMBER_HIDDEN"
 msgid "Unknown phone number"
-msgstr "অপরিচিত নম্বর"
+msgstr "অজানা ফোন নম্বর"
 
 msgctxt "sF_APIACL_CERTIFICATE"
 msgid "Certificate"
@@ -1493,7 +1493,7 @@ msgstr "সনদপত্র"
 
 msgctxt "sACL_FAQ_LINK"
 msgid "What does this mean?"
-msgstr "এর অর্থ কি?"
+msgstr "এটির অর্থ কি?"
 
 msgctxt "sF_MULTICHAT_SEND_FILE"
 msgid "Send file"
@@ -1545,7 +1545,7 @@ msgstr "ব্যবহারকারী নাম"
 
 msgctxt "sF_OPTIONS_SOCKS_PASSWORD"
 msgid "Password"
-msgstr "পাসওয়ার্ড:"
+msgstr "পাসওয়ার্ড"
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
@@ -1601,7 +1601,7 @@ msgstr ""
 
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
-msgstr "ফোণ নম্বরগূলো"
+msgstr "ফোন নম্বরগুলি"
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TEXT"
 msgid ""
@@ -1676,7 +1676,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_FILE"
 msgid "sends me a file"
-msgstr "আমাকে একটি নথি পাঠান"
+msgstr "আমাকে একটি ফাইল পাঠান"
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
@@ -1753,7 +1753,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_SOUNDS"
 msgid "Choose which sound to play"
-msgstr "বাজানর জন্য শব্দ পছন্দ করুন "
+msgstr "বাজানোর জন্য শব্দ পছন্দ করুন "
 
 msgctxt "sF_OPTIONS_VM_DURATION"
 msgid "Duration: %s sec"
@@ -1837,7 +1837,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG3_1"
 msgid "anyone"
-msgstr "যে কেহ"
+msgstr "যে কেউ"
 
 msgctxt "sF_OPTIONS_RG3_2"
 msgid "block calls when phone number is hidden"

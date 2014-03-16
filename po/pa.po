@@ -3,13 +3,15 @@
 # Translators:
 # A S Alam <aalam@users.sf.net>, 2013
 # A S Alam <apreet.alam@gmail.com>, 2013-2014
+# pirthi, 2014
+# pirthi, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2014-02-02 03:01+0000\n"
-"Last-Translator: A S Alam <apreet.alam@gmail.com>\n"
+"PO-Revision-Date: 2014-03-16 15:47+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/skype-translation-project/language/pa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -149,7 +151,7 @@ msgstr "ਸਾਈਨ ਇਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
 msgctxt "sINVALID_HANDLE"
 msgid ""
 "%s is not a valid Skype Name or phone number. Please check it and try again."
-msgstr ""
+msgstr "%s ਠੀਕ Skype ਨਾਂ ਜਾਂ ਫੋਨ ਨੰਬਰ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਚੈੱਕ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
 
 msgctxt "sF_USERINFO_INVALID_USER"
 msgid "Skype Name not found"
@@ -309,7 +311,7 @@ msgstr "ਜਦੋਂ ਮੈਂ ਵਿੰਡੋਜ਼ ਚਲਾਵਾਂ ਤਾਂ S
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr ""
+msgstr "ਆਪਣੇ ਪ੍ਰੋਫਾਇਲ ਵਿੱਚ ਸੰਪਰਕ ਵੇਰਵਾ ਜੋੜੋ"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
@@ -607,7 +609,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_COPY"
 msgid "Copy Selection"
-msgstr ""
+msgstr "ਚੋਣ ਦੀ ਕਾਪੀ ਕਰੋ"
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
@@ -619,11 +621,11 @@ msgstr "ਅੰਗਰੇਜ਼ੀ"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
-msgstr ""
+msgstr "ਸਪੀਡ ਡਾਇਲ ਨੰਬਰ ਸੈੱਟ ਕਰੋ"
 
 msgctxt "sF_SPEEDDIAL_LABEL"
 msgid "Enter new speed dial number for %s"
-msgstr ""
+msgstr "%s ਲਈ ਨਵਾਂ ਸਪੀਡ ਡਾਇਲ ਨੰਬਰ ਦਿਓ"
 
 msgctxt "sF_SPEEDDIAL_DUPLICATE"
 msgid ""
@@ -1686,7 +1688,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_SENDCONTACTS"
 msgid "sends me contacts"
-msgstr ""
+msgstr "ਮੈਨੂੰ ਸੰਪਰਕ ਭੇਜੋ"
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_IN"
 msgid "ringtone"
@@ -2290,7 +2292,7 @@ msgstr "ਕਾਲ ਅੱਗੇ ਭੇਜਣ ਜਾਣਕਾਰੀ"
 
 msgctxt "sF_OPTIONS_LB_MESSAGES"
 msgid "Show messages about..."
-msgstr ""
+msgstr "...ਬਾਰੇ ਸੁਨੇਹੇ ਵੇਖਾਓ"
 
 msgctxt "sF_OPTIONS_NOTIF_TIPS"
 msgid "Help and Skype tips"
@@ -2323,7 +2325,7 @@ msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR4"
 msgid "Skype can't read the file."
-msgstr ""
+msgstr "Skype ਫਾਇਲ ਪੜ੍ਹ ਨਹੀਂ ਸਕਦਾ ਹੈ।"
 
 msgctxt "sAUDIO_PLAYBACK_ERROR5"
 msgid "This sound file is in a format that is not supported by Skype."
@@ -2745,7 +2747,7 @@ msgstr "ਗਲਤ ਪਾਸਵਰਡ"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT27"
 msgid "Skype call forwarded."
-msgstr ""
+msgstr "Skype ਕਾਲ ਫਾਰਵਰਡ ਕੀਤੀ।"
 
 msgctxt "sF_OPTIONS_SOUNDS_FORWARDED"
 msgid "Call is forwarded"
@@ -2765,11 +2767,11 @@ msgstr ""
 
 msgctxt "sREMOVE_CONTACTS_TITLE"
 msgid "Remove contacts"
-msgstr ""
+msgstr "ਸੰਪਰਕ ਹਟਾਓ"
 
 msgctxt "sREMOVE_CONTACTS_CAP"
 msgid "Remove contacts"
-msgstr ""
+msgstr "ਸੰਪਰਕ ਹਟਾਓ"
 
 msgctxt "sUNSAFE_FILE"
 msgid ""
@@ -4648,7 +4650,7 @@ msgstr "ਜਵਾਬ ਦਿਓ"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
-msgstr "ਵਿਡੀਓ ਨਾਲ ਜਵਾਬ"
+msgstr "ਵੀਡੀਓ ਨਾਲ ਜਵਾਬ"
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
@@ -6024,15 +6026,15 @@ msgstr "ਤਸਵੀਰ ਲਵੋ..."
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr "ਵਿਡੀਓ ਚਾਲੂ"
+msgstr "ਵੀਡੀਓ ਚਾਲੂ"
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr "ਵਿਡੀਓ ਬੰਦ ਕਰੋ"
+msgstr "ਵੀਡੀਓ ਬੰਦ ਕਰੋ"
 
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr "ਵਿਡੀਓ"
+msgstr "ਵੀਡੀਓ"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
@@ -6040,7 +6042,7 @@ msgstr "ਵਿਡੀਓ ਬੰਦ ਕਰੋ"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr "ਵਿਡੀਓ ਚਾਲੂ ਰੱਖੋ"
+msgstr "ਵੀਡੀਓ ਚਾਲੂ ਰੱਖੋ"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -6963,7 +6965,7 @@ msgstr "ਕਾਲ ਕਰੋ"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr "ਵਿਡੀਓ ਕਾਲ"
+msgstr "ਵੀਡੀਓ ਕਾਲ"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
@@ -10929,7 +10931,7 @@ msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr "ਕਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+msgstr "ਕਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."

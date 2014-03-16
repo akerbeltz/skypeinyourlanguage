@@ -1,17 +1,19 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
+"Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2014-02-26 17:48+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"Language-Team: Lombard (http://www.transifex.com/projects/p/skype-translation-project/language/lmo/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: lmo\n"
+"Plural-Forms: nplurals=3; plural=n==0 ? 0 : n==1 ? 1 : 2;\n"
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
@@ -44,8 +46,7 @@ msgstr "Ocupad"
 msgctxt "sQUIT_PROMPT"
 msgid ""
 "You won't be able to send or receive instant messages and calls if you do."
-msgstr ""
-"Se veet fœra dal Skype te podareet plu spedir e ricever messaj o ciamade."
+msgstr "Se veet fœra dal Skype te podareet plu spedir e ricever messaj o ciamade."
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
@@ -99,29 +100,25 @@ msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
 msgstr "Va fœra"
 
-#, fuzzy
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Vegn denter"
+msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
 msgstr "Adree a coneter-s"
 
-#, fuzzy
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
-msgstr "Miga in linia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYHINT_USER_ONLINE"
 msgid "Online"
-msgstr "In linia"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_AWAY"
 msgid "Away"
@@ -131,10 +128,9 @@ msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
 msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
-msgstr "Disturbee miga"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
@@ -144,25 +140,22 @@ msgctxt "sTRAYHINT_PROFILE_LOGGED_OUT"
 msgid "Not Connected"
 msgstr "Miga Conetud"
 
-#, fuzzy
 msgctxt "sTRAYHINT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Vegn denter"
+msgstr ""
 
 msgctxt "sINVALID_HANDLE"
 msgid ""
 "%s is not a valid Skype Name or phone number. Please check it and try again."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_INVALID_USER"
 msgid "Skype Name not found"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
-msgstr "Profil"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_FULLNAME"
 msgid "Full name"
@@ -180,19 +173,17 @@ msgctxt "sF_USERINFO_LABEL_OFFICEPHONE"
 msgid "Office phone"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_LABEL_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Ciama un telefon"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPAGE"
 msgid "Website"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_LABEL_ABOUT"
 msgid "About me"
-msgstr "Informazion in su'l Skype"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_BIRTHDATE"
 msgid "Birth date"
@@ -214,24 +205,21 @@ msgctxt "sF_USERENTRY_CAPTION_CREATE_ACCOUNT"
 msgid "Create account"
 msgstr "Crea un cœnt"
 
-#, fuzzy
 msgctxt "sF_USERENTRY_INFO_CREATE_ACCOUNT"
 msgid "Create a new Skype account"
-msgstr "Crea un cœnt"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERENTRY_LABEL_CHOOSE_USERNAME"
 msgid "Create Skype Name"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
 msgstr "Nom in su'l Skype"
 
-#, fuzzy
 msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
-msgstr "Cambia la Password..."
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD2"
 msgid "Repeat password"
@@ -265,10 +253,9 @@ msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERPROFILE_LB_LANGUAGE"
 msgid "Language"
-msgstr "Lengua"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
@@ -286,10 +273,9 @@ msgctxt "sF_USERPROFILE_LB_OFFICEPHONE"
 msgid "Office phone"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERPROFILE_LB_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Ciama un telefon"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_EMAIL"
 msgid "Email"
@@ -303,10 +289,9 @@ msgctxt "sF_OPTIONS_PAGE_GENERAL"
 msgid "General"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_PAGE_PRIVACY"
 msgid "Privacy"
-msgstr "Politega de la privacy"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_DEBUG"
 msgid "Advanced"
@@ -316,10 +301,9 @@ msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
-msgstr "Piza ol Skype quand qe'l parta ol computer"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
@@ -329,15 +313,13 @@ msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
-msgstr "Sospend la ciamada"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CB_23"
 msgid "hang up"
-msgstr "Meta jo"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_25"
 msgid "contact online"
@@ -393,19 +375,17 @@ msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_MYHOLD"
 msgid "Call on hold"
-msgstr "Ciama un Telefon"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
 msgstr ""
 
-#, fuzzy
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr "Seguita la ciamada"
+msgstr ""
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
@@ -423,10 +403,9 @@ msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
 msgstr "Serra su"
 
-#, fuzzy
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
-msgstr "Seguita la ciamada"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_USERNAME"
 msgid "Skype Name"
@@ -440,10 +419,9 @@ msgctxt "sF_SEARCH_FIELD_COUNTRY"
 msgid "Country/Region"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_SEARCH_FIELD_LANGUAGE"
 msgid "Language"
-msgstr "Lengua"
+msgstr ""
 
 msgctxt "sF_SEARCH_FIELD_CITY"
 msgid "City"
@@ -481,24 +459,21 @@ msgctxt "sF_RENAMEUSER_CANCEL"
 msgid "&Cancel"
 msgstr "&Scancella"
 
-#, fuzzy
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
-msgstr "Spediss i contats..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
-msgstr "Durada"
+msgstr ""
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
-msgstr "Cambia la Password..."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT1"
 msgid "Enter current password"
@@ -526,24 +501,22 @@ msgid ""
 "confirmation again"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
-msgstr "Cambia la Password..."
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid.  Please try again."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
-msgstr "G'è un problema con la conession a l'Internet"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT8"
 msgid ""
-"Success! Your password has been changed. Use your new password the next time "
-"you sign in."
+"Success! Your password has been changed. Use your new password the next time"
+" you sign in."
 msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_TEXT1"
@@ -576,10 +549,9 @@ msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID"
 msgid "The password you have entered has invalid characters"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
-msgstr "Adree a coneter-s"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB15"
 msgid "Use port"
@@ -609,19 +581,17 @@ msgctxt "sF_OPTIONS_PAGE_DEVICES"
 msgid "Audio settings"
 msgstr "Configurazion de l'audio"
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB21"
 msgid "Speakers"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LB22"
 msgid "Ringing"
-msgstr "Adree a sonar"
+msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SIMPLE"
 msgid ""
@@ -659,10 +629,9 @@ msgid ""
 "number."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
-msgstr "Informazion in su'l Skype"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_KEYBOARD"
 msgid "Hotkeys"
@@ -688,10 +657,9 @@ msgctxt "sHOTKEY_HANGUP"
 msgid "Hang up"
 msgstr "Meta jo"
 
-#, fuzzy
 msgctxt "sHOTKEY_FOCUS"
 msgid "Focus Skype"
-msgstr "Informazion in su'l Skype"
+msgstr ""
 
 msgctxt "sHOTKEY_SEARCH"
 msgid "Search for people on Skype"
@@ -719,10 +687,9 @@ msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
 msgstr "Quieta ol microfen"
 
-#, fuzzy
 msgctxt "sAVATAR_MENUITEM_UNMUTE"
 msgid "Unmute Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
@@ -774,10 +741,9 @@ msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
 msgstr ""
 
-#, fuzzy
 msgctxt "s_MAINMENU_TOOLS_LOADLANG"
 msgid "Load Skype Language File..."
-msgstr "Modifega ol file dei lengue de'l Skype..."
+msgstr ""
 
 msgctxt "sF_USERENTRY_CB_STOREPASSWORD"
 msgid "Sign me in when Skype starts"
@@ -849,10 +815,9 @@ msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
-msgstr "Scancella dai contats"
+msgstr ""
 
 msgctxt "sTRAYMENU_LOGIN"
 msgid "Sign in"
@@ -898,35 +863,29 @@ msgctxt "sQUIT_PROMPT_TITLE"
 msgid "Quit Skype?"
 msgstr "Va fœra dal Skype?"
 
-#, fuzzy
 msgctxt "sREMOVE_BUDDY_PROMPT_CAP"
 msgid "Remove contact?"
-msgstr "Scancella dai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sREMOVE_BUDDY_PROMPT_TITLE"
 msgid "Remove contact?"
-msgstr "Scancella dai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONFIRM_OFFLINE_CAP"
 msgid "Go offline?"
-msgstr "%s l'è miga in linia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONFIRM_OFFLINE_TITLE"
 msgid "Go offline?"
-msgstr "%s l'è miga in linia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALLING_BLOCKED_CAP"
 msgid "Blocked"
-msgstr "Blocad"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALLING_BLOCKED_TITLE"
 msgid "Blocked"
-msgstr "Blocad"
+msgstr ""
 
 msgctxt "sINFORM_DND_CAP"
 msgid "Warning"
@@ -958,15 +917,13 @@ msgctxt "sF_HOTKEYEDIT_ERROR_TITLE"
 msgid "Warning"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_CAP"
 msgid "Save changes?"
-msgstr "Salva con nom"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_TITLE"
 msgid "Save changes?"
-msgstr "Salva con nom"
+msgstr ""
 
 msgctxt "sLAST_SEEN"
 msgid "last seen:"
@@ -996,20 +953,17 @@ msgctxt "sCONF_TOO_MUCH_PARTICIPANTS_TITLE"
 msgid "Error"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_BUSY"
 msgid "Busy"
-msgstr "Ocupad"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_STARTCONF_TITLE"
 msgid "Start a group call"
-msgstr "Crea un grop"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_STARTCONF_ALL_CONTACTS_LABEL"
 msgid "Choose contacts"
-msgstr "Mostra i contats"
+msgstr ""
 
 msgctxt "sF_STARTCONF_SELECTED_CONTACTS_LABEL"
 msgid "Group call participants (max. %d)"
@@ -1043,15 +997,14 @@ msgctxt "sF_BLOCK_INVALID_HANDLE_TITLE"
 msgid "Error"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_BLOCK_INVALID_HANDLE_CAP"
 msgid "Cannot block"
-msgstr "Desbloca"
+msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_TOO_MANY_ATTEMPTS"
 msgid ""
-"There were too many failed sign-in attempts, please wait 1 minute before you "
-"retry."
+"There were too many failed sign-in attempts, please wait 1 minute before you"
+" retry."
 msgstr ""
 
 msgctxt "sCALL_LB2_FAILED_SOUND_RECORDING_ERROR"
@@ -1069,40 +1022,37 @@ msgstr ""
 msgctxt "sINVALID_NUMBER"
 msgid ""
 "The phone number you tried to dial was not entered correctly. You must dial "
-"+ then the country code and number you wish to call. Example: +1 212 555 1212"
+"+ then the country code and number you wish to call. Example: +1 212 555 "
+"1212"
 msgstr ""
 
 msgctxt "sPSTN_ERR_UNKNOWN"
 msgid "Internal error, please try again. (#%s)"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_10486"
 msgid "Phone number busy"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_OPTIONS_GREETING_RECORD"
 msgid "Record"
@@ -1144,15 +1094,13 @@ msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
 msgstr "Ciamada Skype"
 
-#, fuzzy
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_CONFIRM_BLOCK"
 msgid "Block"
-msgstr "Blocad"
+msgstr ""
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERNAME"
 msgid ""
@@ -1160,20 +1108,17 @@ msgid ""
 "the list below."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_BLOCKUSERS_LABEL_USERS"
 msgid "Blocked people:"
-msgstr "Jonta persone"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERPROFILE_OPENDLG_CAPTION"
 msgid "Choose your picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_TCB18"
 msgid "Show emoticons"
-msgstr "Mostra i contats"
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_WRONG_FILE"
 msgid "The file you chose was invalid."
@@ -1187,10 +1132,9 @@ msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT_CAP"
 msgid "Remove picture?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_6009"
 msgid "Invalid phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL"
 msgid "File sent."
@@ -1200,15 +1144,13 @@ msgctxt "sFILETRANSFER_STATUS_TEXT_RECEIVED"
 msgid "File received."
 msgstr "File ricevud."
 
-#, fuzzy
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED"
 msgid "Sending cancelled"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sFILETRANSFER_SAVEDLG_TITLE"
 msgid "Save"
-msgstr "Salva"
+msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT"
 msgid ""
@@ -1219,10 +1161,9 @@ msgctxt "sFILETRANSFER_CLOSE_TITLE"
 msgid "Cancelling"
 msgstr "Adree a scancellar"
 
-#, fuzzy
 msgctxt "sFILETRANSFER_CLOSE_CAP"
 msgid "Stop sending file"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
@@ -1246,14 +1187,14 @@ msgstr "G'è un problema con la spedizion"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
-"Are you sure you want to cancel? If you cancel now you will not receive this "
-"file."
+"Are you sure you want to cancel? If you cancel now you will not receive this"
+" file."
 msgstr ""
 
 msgctxt "sFILETRANSFER_VIRUS_TEXT"
 msgid ""
-"Files can contain viruses. We strongly recommend you use anti-virus software "
-"to scan files you receive, even if you know the sender. Are you sure you "
+"Files can contain viruses. We strongly recommend you use anti-virus software"
+" to scan files you receive, even if you know the sender. Are you sure you "
 "want to accept this file?"
 msgstr ""
 
@@ -1269,10 +1210,9 @@ msgctxt "sPSTN_RES_10403"
 msgid "You can't call this number on Skype right now."
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_10408"
 msgid "Could not connect."
-msgstr "Skype ge la fa miga a coneter-s."
+msgstr ""
 
 msgctxt "sPSTN_RES_10420"
 msgid "Bad extension"
@@ -1282,15 +1222,13 @@ msgctxt "sPSTN_RES_10482"
 msgid "Phone network error"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_10484"
 msgid "Invalid phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_10487"
 msgid "Busy"
-msgstr "Ocupad"
+msgstr ""
 
 msgctxt "sPSTN_RES_10500"
 msgid "Phone network error"
@@ -1312,10 +1250,9 @@ msgctxt "sPSTN_RES_10603"
 msgid "Number busy"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_10604"
 msgid "Invalid phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sPSTN_RES_10686"
 msgid "Network busy"
@@ -1354,10 +1291,9 @@ msgctxt "sSTATUSPAGE_SKYPEOUT_NO"
 msgid "Call mobile phones and landlines at great low rates"
 msgstr ""
 
-#, fuzzy
 msgctxt "sFILETRANSFER_STATUS_TEXT_PAUSED"
 msgid "Sending paused."
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CONNECTING"
 msgid "Connecting..."
@@ -1405,10 +1341,9 @@ msgctxt "sACL_REMOVE"
 msgid "Remove"
 msgstr ""
 
-#, fuzzy
 msgctxt "sACL_ANOTHER_PROGRAM"
 msgid "Another program wants to use Skype"
-msgstr "Seet segur qe te vœl andar fœra dal Skype?"
+msgstr ""
 
 msgctxt "sACL_CHANGED_PROGRAM"
 msgid "** WARNING!** A changed program is trying to access Skype."
@@ -1418,10 +1353,9 @@ msgctxt "sACL_WHAT_TO_DO"
 msgid "What would you like to do?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sACL_NAME"
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 msgctxt "sACL_PUBLISHER"
 msgid "Publisher"
@@ -1459,19 +1393,17 @@ msgctxt "sMAINMENU_TOOLS_APIACL"
 msgid "Manage other programs' access to Skype"
 msgstr ""
 
-#, fuzzy
 msgctxt "sFILETRANSFERSEND_CAPTION"
 msgid "Sending file"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sFILETRANSFERSEND_LB_CAPTION"
 msgid "Select Skype contact"
 msgstr ""
 
-#, fuzzy
 msgctxt "sFILETRANSFERSEND_BTN_SEND"
 msgid "Send"
-msgstr "Spediss"
+msgstr ""
 
 msgctxt "sFILETRANSFERSEND_BTN_CANCEL"
 msgid "Cancel"
@@ -1489,20 +1421,17 @@ msgctxt "sF_OPTIONS_VOICEMAIL_LB_1"
 msgid "seconds"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_VOICEMAIL_RECORDING_ERROR"
 msgid "Voice message recording error"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_VOICEMAIL_PLAYBACK_ERROR"
 msgid "Voice message playback error"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_VOICEMAIL_UPLOAD_ERROR"
 msgid "Voice message upload error"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CREATING_ERROR"
 msgid "Error creating voice message greeting"
@@ -1526,10 +1455,9 @@ msgctxt "sF_BLOCK_BLOCKING_YOURSELF"
 msgid "Can't block yourself"
 msgstr ""
 
-#, fuzzy
 msgctxt "sVM_GREETING_PLAYBACK"
 msgid "Playing voice message greeting"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
@@ -1539,10 +1467,9 @@ msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this group?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONFIRM_MULTICHAT_LEAVE_TITLE"
 msgid "Leave group"
-msgstr "Crea un grop"
+msgstr ""
 
 msgctxt "sCHAT_MEMBER_ADDED"
 msgid "%s added %s"
@@ -1552,10 +1479,9 @@ msgctxt "sF_MULTICHAT_TOPIC_CHANGED"
 msgid "%s has changed the conversation topic to \"%s\""
 msgstr ""
 
-#, fuzzy
 msgctxt "sNUMBER_HIDDEN"
 msgid "Unknown phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_APIACL_CERTIFICATE"
 msgid "Certificate"
@@ -1565,24 +1491,21 @@ msgctxt "sACL_FAQ_LINK"
 msgid "What does this mean?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_SEND_FILE"
 msgid "Send file"
-msgstr "Spediss un file"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_USERS_FEW"
 msgid "%s and %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_USERS_MANY"
 msgid "%d contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_CAPTION"
 msgid "Send file to %s"
-msgstr "Spediss ol file a %s"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING"
 msgid "Are you sure you want to send file \"%s\" to %s?"
@@ -1612,15 +1535,13 @@ msgctxt "sF_OPTIONS_SOCKS_PORT"
 msgid "Port"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOCKS_USERNAME"
 msgid "Username"
-msgstr "Cambia ol nom"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOCKS_PASSWORD"
 msgid "Password"
-msgstr "Cambia la Password..."
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
@@ -1642,33 +1563,29 @@ msgctxt "sF_OPTIONS_CHAT_HISTORY_1"
 msgid "2 weeks"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CHAT_HISTORY_2"
 msgid "1 month"
-msgstr "3 mes"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CHAT_HISTORY_3"
 msgid "3 months"
-msgstr "3 mes"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_4"
 msgid "forever"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
-msgstr "Tegn ol video piz"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_NEW_TITLE"
 msgid "Start IM with group"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_STARTCHAT_TOPIC_LABEL"
 msgid "Conversation title/topic"
-msgstr "Conversazion"
+msgstr ""
 
 msgctxt "sF_STARTCHAT_START_BUTTON"
 msgid "Create"
@@ -1678,15 +1595,14 @@ msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TEXT"
 msgid ""
-"All traces of previous conversations including Instant Messages, SMS, calls, "
-"voice messages and file transfers, will be deleted from your recorded "
+"All traces of previous conversations including Instant Messages, SMS, calls,"
+" voice messages and file transfers, will be deleted from your recorded "
 "history. (This will also close all open conversations)"
 msgstr ""
 
@@ -1698,10 +1614,9 @@ msgctxt "sSKYPE_LANG_FILES"
 msgid "Skype language files (*.lang)\\|*.LANG"
 msgstr ""
 
-#, fuzzy
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
-msgstr "Conversazion"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_UNDO"
 msgid "Undo"
@@ -1719,25 +1634,21 @@ msgctxt "sF_MULTICHAT_EDIT_PASTE"
 msgid "Paste"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_EDIT_DELETE"
 msgid "Delete"
-msgstr "Scancella"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_EDIT_SELECTALL"
 msgid "Select all"
-msgstr "Salva tut"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_UNSUBSCRIBED_WARNING"
 msgid "You have left this group."
-msgstr "Persone in quell grop qì"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_PAGE_NOTIFICATIONS"
 msgid "Notifications"
-msgstr "Configurazion dei notifege"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_VIDEO"
 msgid "Video settings"
@@ -1751,33 +1662,29 @@ msgctxt "sF_OPTIONS_NOTIF_ONLINE"
 msgid "comes online"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_NOTIF_OFFLINE"
 msgid "goes offline"
-msgstr "%s l'è miga in linia"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_CHAT"
 msgid "starts an IM with me"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_NOTIF_FILE"
 msgid "sends me a file"
-msgstr "Spediss un file"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_NOTIF_VOICEMAIL"
 msgid "leaves me a voice message"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_NOTIF_SENDCONTACTS"
 msgid "sends me contacts"
-msgstr "Scond i contats"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_IN"
 msgid "ringtone"
@@ -1819,13 +1726,13 @@ msgctxt "sF_OPTIONS_LBC_DEVICES"
 msgid "Volume"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LBC_GENERAL"
 msgid "General settings"
-msgstr "Configurazion del video"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_HOTKEYS"
-msgid "<b>Hotkeys:</b> Set up keyboard shortcuts for frequently used functions"
+msgid ""
+"<b>Hotkeys:</b> Set up keyboard shortcuts for frequently used functions"
 msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_NOTIFICATIONS"
@@ -1844,10 +1751,9 @@ msgctxt "sF_OPTIONS_LBC_SOUNDS"
 msgid "Choose which sound to play"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_VM_DURATION"
 msgid "Duration: %s sec"
-msgstr "Durada"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VM_REMAIN"
 msgid "%s seconds remaining"
@@ -1857,15 +1763,13 @@ msgctxt "sF_OPTIONS_VM_DOWNLOADING"
 msgid "Loading my voice message greeting"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_VM_SET"
 msgid "My voice message greeting"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_VM_PLAYING"
 msgid "Playing my voice message greeting"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VM_RECORDING"
 msgid "Recording my voice message greeting"
@@ -1883,10 +1787,9 @@ msgctxt "sF_OPTIONS_BTN_UNMUTE"
 msgid "Enable all sounds"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
 msgid "Set up voice messaging"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
@@ -1944,10 +1847,9 @@ msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
-msgstr "Configurazion de l'audio"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_GENDER"
 msgid "Gender"
@@ -1976,10 +1878,9 @@ msgctxt "sF_USERINFO_LABEL_GENDER"
 msgid "Gender"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_LABEL_LOCATION"
 msgid "Location"
-msgstr "Durada"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_AGE"
 msgid "Age"
@@ -2009,10 +1910,9 @@ msgctxt "sF_OPTIONS_LINK_AUDIO_HELP"
 msgid "Learn more about setting up your audio equipment"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERPROFILE_LB_ABOUT2"
 msgid "About me"
-msgstr "Informazion in su'l Skype"
+msgstr ""
 
 msgctxt "sF_USERENTRY_PROFILE_NAME"
 msgid "Full name"
@@ -2030,10 +1930,9 @@ msgctxt "sF_USERENTRY_PROFILE_EMAIL"
 msgid "Email"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERPROFILE_CAPTION2"
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_DAY"
 msgid "Day"
@@ -2047,20 +1946,17 @@ msgctxt "sF_USERPROFILE_LB_YEAR"
 msgid "Year"
 msgstr "Ann"
 
-#, fuzzy
 msgctxt "sCONTACT_GROUP_BLOCKED"
 msgid "Blocked contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERPROFILE_PHONE_NOTE"
 msgid "Enter %s's phone number."
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_CHANGE_PASSWORD_TEXT9"
 msgid "Choose another password."
-msgstr "Cambia la Password..."
+msgstr ""
 
 msgctxt "sFILETRANSFER_DISABLED"
 msgid ""
@@ -2068,15 +1964,13 @@ msgid ""
 "information."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_ADDFRIEND_LABEL3_1"
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_ADDFRIEND_LABEL3_2"
 msgid "Phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_SHOW_ANIMATED_EMOTS"
 msgid "Show animated emoticons"
@@ -2126,10 +2020,9 @@ msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr "Setember"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -2158,20 +2051,18 @@ msgctxt "sF_OPTIONS_LBC_VOICEMAIL"
 msgid "Voice messages"
 msgstr "Messaj a vox"
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_CONNECTING"
 msgid "connecting call"
-msgstr "Adree a coneter-s"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_LABEL_ADD"
 msgid "Add contact"
-msgstr "Jonta un contat"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_NOT_FOUND"
 msgid ""
-"We can't show more information about this contact because they have not been "
-"online for a long time."
+"We can't show more information about this contact because they have not been"
+" online for a long time."
 msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_1"
@@ -2248,10 +2139,9 @@ msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT9"
 msgid "Skype connecting call (Modern)"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_OPENDLG_CAPTION"
 msgid "Choose your sound"
-msgstr "Cambia ol to stat de conession"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT"
 msgid ""
@@ -2259,10 +2149,9 @@ msgid ""
 "Skype Content folder."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DELETE_PROMPT_TITLE"
 msgid "Remove sound file?"
-msgstr "Scancella dai Preferids"
+msgstr ""
 
 msgctxt "sF_SOUNDS_MSG1_1"
 msgid "This sound \"%s\" belongs to %s."
@@ -2284,10 +2173,9 @@ msgctxt "sF_SOUNDS_MSG2_2"
 msgid "Please try downloading this sound again."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_MSG2_TITLE"
 msgid "Sound installation failed"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DELETE_ERROR1"
 msgid "Cannot delete Skype default sound."
@@ -2311,10 +2199,9 @@ msgctxt "sF_USERINFO_BTN_COPY"
 msgid "Copy"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_BTN_COPY_PROFILE"
 msgid "Copy profile"
-msgstr "Profil"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_FORWARDINGANDVOICEMAIL"
 msgid "Call forwarding"
@@ -2326,15 +2213,13 @@ msgid ""
 "someone calls."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LINK_CF_ADVANCED"
 msgid "Add more phone numbers"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LINK_CF_BASIC"
 msgid "One phone number only"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
@@ -2342,8 +2227,8 @@ msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB3"
 msgid ""
-"Note: If call forwarding is on, calls will be sent first to the phone number"
-"(s) you entered"
+"Note: If call forwarding is on, calls will be sent first to the phone "
+"number(s) you entered"
 msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB4"
@@ -2358,19 +2243,17 @@ msgctxt "sF_VOICEMAIL_OPTIONS_CB_INCALL"
 msgid "I am already in a call"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT"
 msgid "Enter phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8"
 msgid "You'll need"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SAVING_HINT1"
 msgid "Saving new settings"
-msgstr "Configurazion del video"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SAVING_HINT2"
 msgid "This may take a few minutes"
@@ -2403,24 +2286,21 @@ msgctxt "sF_OPTIONS_CF_ERROR4"
 msgid "Call forwarding information"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LB_MESSAGES"
 msgid "Show messages about..."
-msgstr "Mostra i messaj de: %s"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_TIPS"
 msgid "Help and Skype tips"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_FT_NOTIFICATION_SINGLE"
 msgid "/me sent file %s"
-msgstr "Spediss ol file a %s"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_FT_NOTIFICATION_MULTIPLE"
 msgid "/me sent files %s"
-msgstr "Spediss ol file a %s"
+msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR_TITLE"
 msgid "Sound playback error"
@@ -2439,10 +2319,9 @@ msgid ""
 "This sound file is too big for Skype to play (maximum file size 1.5 MB)."
 msgstr ""
 
-#, fuzzy
 msgctxt "sAUDIO_PLAYBACK_ERROR4"
 msgid "Skype can't read the file."
-msgstr "Skype ge la fa miga a coneter-s."
+msgstr ""
 
 msgctxt "sAUDIO_PLAYBACK_ERROR5"
 msgid "This sound file is in a format that is not supported by Skype."
@@ -2452,10 +2331,9 @@ msgctxt "sAUDIO_PLAYBACK_ERROR6"
 msgid "Playback not supported."
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_9403"
 msgid "Account blocked."
-msgstr "Cœnt..."
+msgstr ""
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_1"
 msgid "The file %s can't be used as a picture."
@@ -2481,10 +2359,9 @@ msgctxt "sF_SOUNDS_MSG3_TITLE"
 msgid "File can't be used"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT2"
 msgid "Enter Skype Name"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
 msgctxt "sDATAPATH_REMOVED"
 msgid ""
@@ -2506,13 +2383,13 @@ msgctxt "sDATAPATH_MISSING_TITLE"
 msgid "Skype can't continue running and will close"
 msgstr ""
 
-#, fuzzy
 msgctxt "sDATAPATH_MISSING_CAPTION"
 msgid "Information"
-msgstr "Durada"
+msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT9"
-msgid "Your call forwarding settings have been changed in another application."
+msgid ""
+"Your call forwarding settings have been changed in another application."
 msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT10"
@@ -2545,15 +2422,13 @@ msgctxt "sCONTACT_GROUP_UNKNOWN"
 msgid "Requests to new contacts"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONTACT_GROUP_PENDINGAUTH"
 msgid "Requests from new contacts"
-msgstr "Scancella dai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONTACT_GROUP_AUTHORIZED"
 msgid "Authorized contacts"
-msgstr "Scond i contats"
+msgstr ""
 
 msgctxt "sCONTACT_GROUP_UNGROUPED"
 msgid "Ungrouped"
@@ -2569,19 +2444,17 @@ msgid ""
 "be available on other computers where this devices is used."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_AUTH_BTN_BLOCK"
 msgid "Block"
-msgstr "Blocad"
+msgstr ""
 
 msgctxt "sF_AUTHQUERY_DEFAULT2"
 msgid "Hello! Please add me to your Contact list."
 msgstr ""
 
-#, fuzzy
 msgctxt "sMOODMESSAGE_HINT"
 msgid "Enter mood message"
-msgstr "Spediss un messaj"
+msgstr ""
 
 msgctxt "sSTATUS_OFFLINE_VM"
 msgid "Offline with voice messaging"
@@ -2617,7 +2490,8 @@ msgstr "Skype ge la fa miga a coneter-s."
 
 msgctxt "sF_USERENTRY_ERROR_1104"
 msgid ""
-"Your Skype Name and password were not recognized. Please check and try again."
+"Your Skype Name and password were not recognized. Please check and try "
+"again."
 msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_1107"
@@ -2654,10 +2528,9 @@ msgctxt "sF_OPTIONS_LB_WHEN"
 msgid "Select which events play a sound"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_BTN_IMPORT"
 msgid "Import sounds"
-msgstr "Importa i contats..."
+msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_ONLINESOUNDS"
 msgid "Get more ringtones and custom sounds"
@@ -2667,34 +2540,29 @@ msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT10"
 msgid "Skype knocking sound"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT11"
 msgid "Skype call error1"
-msgstr "Ciamada Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT12"
 msgid "Skype call error2"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT13"
 msgid "Skype incoming IM2"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
-msgstr "Skype ge la fa miga a coneter-s."
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT15"
 msgid "Skype incoming voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT16"
 msgid "Skype incoming file"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT17"
 msgid "Skype incoming request"
@@ -2708,39 +2576,33 @@ msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT19"
 msgid "Skype sign out sound"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT20"
 msgid "Skype contact offline"
-msgstr "Skype ge la fa miga a coneter-s."
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT21"
 msgid "Skype message sent"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT22"
 msgid "Skype voice message sent"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT23"
 msgid "Skype file sending complete"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT24"
 msgid "Skype file sending failed"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT25"
 msgid "Contact added"
-msgstr "Contat"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT26"
 msgid "Contact left"
-msgstr "Contat"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_KNOCKING"
 msgid "knocking"
@@ -2754,62 +2616,53 @@ msgctxt "sF_OPTIONS_SOUNDS_ERROR2"
 msgid "call error2"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
 msgid "incoming message"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_VOICEMAIL"
 msgid "incoming voice message"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_FILE"
 msgid "incoming file"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_AUTH"
 msgid "incoming request for my details"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_LOGIN"
 msgid "I sign in"
-msgstr "Vegn denter"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_LOGOUT"
 msgid "I sign out"
-msgstr "Va fœra"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_OFFLINE"
 msgid "my contact goes offline"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_IM_SENT"
 msgid "I send a message"
-msgstr "Spediss un messaj"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_SEND_VM"
 msgid "I send a voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_FT_COMPLETED"
 msgid "file has been sent"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUNDS_FT_FAILED"
 msgid "file sending failed"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_USER_ADDED"
 msgid "person was added to the group call"
@@ -2900,25 +2753,21 @@ msgctxt "sF_AUTHQUERY_DEFAULT3"
 msgid "Enter a message to introduce yourself."
 msgstr ""
 
-#, fuzzy
 msgctxt "s_FVIDEOTEST_BUTTON_SETTINGS"
 msgid "Webcam settings"
-msgstr "Configurazion del video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sREMOVE_CONTACTS_PROMPT"
 msgid "Remove %d selected contacts?"
-msgstr "Scancella dai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sREMOVE_CONTACTS_TITLE"
 msgid "Remove contacts"
-msgstr "Scancella dai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sREMOVE_CONTACTS_CAP"
 msgid "Remove contacts"
-msgstr "Scancella dai contats"
+msgstr ""
 
 msgctxt "sUNSAFE_FILE"
 msgid ""
@@ -2947,7 +2796,8 @@ msgid "Video source isn't delivering the stream in the correct format."
 msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_7"
-msgid "No webcam found. Connect your webcam or check it's plugged in properly."
+msgid ""
+"No webcam found. Connect your webcam or check it's plugged in properly."
 msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_8"
@@ -2972,15 +2822,13 @@ msgctxt "sPSTN_RES_10502"
 msgid "Service unavailable"
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMENU_START_SENDING"
 msgid "Turn Your Video On"
-msgstr "Piza ol video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMENU_STOP_SENDING"
 msgid "Stop My Video"
-msgstr "Varda ol mč video"
+msgstr ""
 
 msgctxt "sVIDEOMENU_HIDE_MYSELF"
 msgid "Hide My Video Automatically"
@@ -3026,29 +2874,25 @@ msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT9"
 msgid "Contact online (Classic)"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SOUND_TOO_BIG_CAPTION"
 msgid "Sound import failed"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sDIALPAD"
 msgid "Call phones"
-msgstr "Ciama un telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SMS_STATUS_CREDIT"
 msgid "Not enough Skype Credit."
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
 msgstr "Spediss un messaj SMS"
 
-#, fuzzy
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
-msgstr "Configurazion de l'audio"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_SMS"
 msgid "<b>SMS settings:</b> Send text messages directly from Skype"
@@ -3062,10 +2906,9 @@ msgctxt "sF_OPTIONS_SMS_LB3"
 msgid "Enter the code you received on your phone and click Submit"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_BTN_SEND_CODE"
 msgid "Send"
-msgstr "Spediss"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_SUBMIT_CODE"
 msgid "Submit"
@@ -3075,10 +2918,9 @@ msgctxt "sF_OPTIONS_SMS_STATUS_LB1"
 msgid "The verification code has been sent"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SMS_STATUS_LB2"
 msgid "Sending failed."
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB3"
 msgid "Try to resend confirmation code"
@@ -3108,10 +2950,9 @@ msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_PAYMENTS_CAPTION"
 msgid "Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sF_PAYMENTS_LOADING"
 msgid "Loading - %s"
@@ -3127,10 +2968,9 @@ msgid ""
 "continue with your purchase."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_PAYMENTS_BTN_CLOSE"
 msgid "Close"
-msgstr "Serra su"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_HINT"
 msgid "Type in your mobile number"
@@ -3140,15 +2980,13 @@ msgctxt "sOUTLOOK_GROUP_TITLE"
 msgid "Microsoft Office Outlook"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_TRANSLATE_SEARCH"
 msgid "Search"
-msgstr "Cerca"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_TRANSLATE_SEARCH_AGAIN"
 msgid "Search again"
-msgstr "Cerca"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_NOT_FOUND"
 msgid "Sorry, string not found."
@@ -3188,8 +3026,8 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_NORMAL_TEXT2"
 msgid ""
-"This is a <b>major release</b>, which means it is a significant update which "
-"has several new features and offers dramatic improvements."
+"This is a <b>major release</b>, which means it is a significant update which"
+" has several new features and offers dramatic improvements."
 msgstr ""
 
 msgctxt "sF_UPGRADE_INIT"
@@ -3224,29 +3062,25 @@ msgctxt "sF_UPGRADE_BTN_CANCEL"
 msgid "Cancel"
 msgstr "Scancella"
 
-#, fuzzy
 msgctxt "sF_UPGRADE_BTN_DOWNLOAD"
 msgid "Download"
-msgstr "Seguita a descaregar"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_UPGRADE_BTN_HIDE"
 msgid "Hide"
-msgstr "Scond"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_PAGE_UPDATES"
 msgid "Advanced settings"
-msgstr "Configurazion de l'audio"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_UPDATES"
 msgid "<b>Advanced settings:</b> Skype updates and external programs"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_DROPPED"
 msgid "Call dropped"
-msgstr "Ciamada finida"
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_OK"
 msgid "OK"
@@ -3288,25 +3122,22 @@ msgctxt "sF_UPGRADE_UPTODATE"
 msgid "You already have the latest version of Skype installed."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_UPGRADE_UPTODATE_CAPTION"
 msgid "Check for update"
-msgstr "Cerca i ajornaments"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING"
 msgid ""
 "There is an unsent message in this IM. Are you sure you want to close it?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_TITLE"
 msgid "Close conversation window"
-msgstr "Serra su 'sta fenestra qì"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_CAPTION"
 msgid "Close conversation window"
-msgstr "Serra su 'sta fenestra qì"
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_NO_CAPABILITY"
 msgid "The other person is on a device that doesn't let them receive files."
@@ -3320,10 +3151,9 @@ msgctxt "sF_PAYMENTS_ERROR_LINK"
 msgid "continue your payment in the Skype webstore using your web browser."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CONFIRM_DELETE"
 msgid "Delete"
-msgstr "Scancella"
+msgstr ""
 
 msgctxt "sF_CONFIRM_RESET"
 msgid "Reset"
@@ -3351,10 +3181,9 @@ msgctxt "sF_USERPROFILE_PHONE_NOTE2"
 msgid "Enter the phone number with country or region code."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_INPUT_FORM_SAVE"
 msgid "Save"
-msgstr "Salva"
+msgstr ""
 
 msgctxt "sF_INPUT_FORM_NOTE"
 msgid "Enter phone number in %s (with area code)."
@@ -3384,15 +3213,13 @@ msgctxt "sF_OPTIONS_SMS_RB1"
 msgid "My Skype Name %s. Recipients can't send SMS replies"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_EDITSKYPEOUT_CAPTION"
 msgid "Edit phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sBUDDYMENU_EDIT"
 msgid "Edit Contact..."
-msgstr "Jonta ai to contats..."
+msgstr ""
 
 msgctxt "sEDIT_MY_PROFILE"
 msgid "Edit Your Profile..."
@@ -3429,10 +3256,9 @@ msgctxt "sF_UPGRADE_FORCED_TEXT3"
 msgid "Please contact your system administrator for more information."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_FAILED_GENERAL"
 msgid "Call failed"
-msgstr "Ciama un cellular"
+msgstr ""
 
 msgctxt "sF_CONFIRM_COUNTRY_CAPTION"
 msgid "Start call"
@@ -3446,24 +3272,21 @@ msgctxt "sF_CONFIRM_COUNTRY_LBL1"
 msgid "The link you clicked will call %s phone number %s."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CONFIRM_COUNTRY_LBL2"
 msgid "Are you sure you want to continue?"
-msgstr "Seet segur qe te vœl andar fœra dal Skype?"
+msgstr ""
 
 msgctxt "sF_CONFIRM_COUNTRY_LBL3"
 msgid "Change country code for this call:"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_NOTIF_BIRTHDAY"
 msgid "has a birthday"
-msgstr "Incś al compiss i agn %s"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_TOOLBAR_FIND"
 msgid "Find:"
-msgstr "Cerca..."
+msgstr ""
 
 msgctxt "sCHAT_TOOLBAR_FIND_HINT"
 msgid "Type the phrase to search for"
@@ -3617,15 +3440,13 @@ msgctxt "sLIPSSEALED_SMILEY"
 msgid "My lips are sealed"
 msgstr ""
 
-#, fuzzy
 msgctxt "sHI_SMILEY"
 msgid "Hi"
-msgstr "Scond"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_SMILEY"
 msgid "Call"
-msgstr "Ciama"
+msgstr ""
 
 msgctxt "sDEVIL_SMILEY"
 msgid "Devil"
@@ -3711,10 +3532,9 @@ msgctxt "sHANDSHAKE_SMILEY"
 msgid "Handshake"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPE_SMILEY"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sHEART_SMILEY"
 msgid "Heart"
@@ -3752,10 +3572,9 @@ msgctxt "sMOVIE_SMILEY"
 msgid "Movie"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPHONE_SMILEY"
 msgid "Phone"
-msgstr "Ciama un Telefon"
+msgstr ""
 
 msgctxt "sCOFFEE_SMILEY"
 msgid "Coffee"
@@ -3889,10 +3708,9 @@ msgctxt "sF_CHAT_NOTIFY_TITLE"
 msgid "Notification settings"
 msgstr "Configurazion dei notifege"
 
-#, fuzzy
 msgctxt "sF_CHAT_NOTIFY_CAPTION"
 msgid "IM notification settings"
-msgstr "Configurazion dei notifege"
+msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_BTN_OK"
 msgid "OK"
@@ -3930,41 +3748,37 @@ msgstr ""
 
 msgctxt "sCHAT_STATUSMESSAGE_APPLICANT"
 msgid ""
-"Waiting to join.<br />You can't post messages in this conversation until the "
-"host has accepted you."
+"Waiting to join.<br />You can't post messages in this conversation until the"
+" host has accepted you."
 msgstr ""
 
 msgctxt "sCHAT_STATUSMESSAGE_LISTENER"
 msgid "You are currently not allowed to post messages."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_MENU_NOTIFICATIONS"
 msgid "IM Notification Settings"
-msgstr "Configurazion dei notifege"
+msgstr ""
 
 msgctxt "sCHAT_MEMBER_KICKED"
 msgid "%s removed %s from this conversation."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CHAT_PIC_CAPTION"
 msgid "Conversation picture"
-msgstr "Conversazion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_CHAT_PIC_LB_CAPTION"
 msgid "Conversation picture"
-msgstr "Conversazion"
+msgstr ""
 
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_PRIVACY_CHANGE_TITLE"
 msgid "Privacy protection"
-msgstr "Politega de la privacy"
+msgstr ""
 
 msgctxt "sF_PRIVACY_CHANGE_HEADER1"
 msgid "Do you receive unwanted calls?"
@@ -4002,10 +3816,9 @@ msgctxt "sF_PRIVACY_CHANGE_LB_OPTIONS"
 msgid "<a href=\"skype:?options#privacy\">Advanced privacy options</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
-msgstr "Crea un grop"
+msgstr ""
 
 msgctxt "sCHAT_MEMBER_JOINED"
 msgid "%s joined."
@@ -4015,10 +3828,9 @@ msgctxt "sCHAT_MEMBER_PROMOTED_TO_ADMIN"
 msgid "%s has been promoted to conversation host."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_MEMBER_APPLIED"
 msgid "%s is waiting to join."
-msgstr "%s l'è miga ind i to contats."
+msgstr ""
 
 msgctxt "sCHAT_SETPICTURE"
 msgid "%s has changed the conversation picture."
@@ -4048,10 +3860,9 @@ msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE"
 msgid "Are you sure you want to remove this message?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE_TITLE"
 msgid "Remove message?"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sCHAT_COPY_LINK"
 msgid "Copy link location"
@@ -4079,15 +3890,14 @@ msgstr ""
 
 msgctxt "sF_STARTCONF_ADD_NR_INVALID"
 msgid ""
-"The phone number you tried to add was not entered correctly. You must select "
-"the country and then enter the number you wish to add. Example: Select "
+"The phone number you tried to add was not entered correctly. You must select"
+" the country and then enter the number you wish to add. Example: Select "
 "United Kingdom and enter 020 5555 1212"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
-msgstr "Contats"
+msgstr ""
 
 msgctxt "sCHAT_STATUSMESSAGE_PWD_REQUIRED"
 msgid "Password required"
@@ -4110,10 +3920,9 @@ msgctxt "sCHAT_SETOPTIONS"
 msgid "%s has updated the moderation rules of this conversation %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CHAT_INFO_CAPTION1"
 msgid "Profile for IM:"
-msgstr "Profil"
+msgstr ""
 
 msgctxt "sF_CHAT_INFO_CAPTION2"
 msgid "Profile for public IM:"
@@ -4166,10 +3975,9 @@ msgid ""
 "window and when the host is next online you will be added to the IM."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_MENU_REMOVE_MESSAGE"
 msgid "Remove Message"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_11"
 msgid "Cannot show video. The camera may be in use."
@@ -4179,10 +3987,9 @@ msgctxt "sERROR_HINT_VIDEO_12"
 msgid "You need Windows 7, Vista or XP to use this feature."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CALL_QLT_WINDOW_TITLE"
 msgid "Call quality feedback"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
 msgctxt "sF_CALL_QLT_BGR_CAPTION3"
 msgid "Thanks for your feedback"
@@ -4196,10 +4003,9 @@ msgctxt "sF_CALL_QLT_BTN_FINISH"
 msgid "Finish"
 msgstr "Finid"
 
-#, fuzzy
 msgctxt "sF_CALL_QLT_BTN_SEND_FEEDBACK"
 msgid "Send feedback"
-msgstr "Spediss i to feedback"
+msgstr ""
 
 msgctxt "sF_CALL_QLT_LBL_RATE"
 msgid "Your feedback will help us make Skype better."
@@ -4213,10 +4019,9 @@ msgctxt "sF_CALL_QLT_LBL_TIPS"
 msgid "Get help with your call quality issues"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_ALERTS_LB1"
 msgid "Show alerts from..."
-msgstr "Mostra i messaj de: %s"
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_WRITE"
 msgid "Error. Can't save the file."
@@ -4238,10 +4043,9 @@ msgctxt "sACL_DISCONNECT"
 msgid "Disconnect"
 msgstr ""
 
-#, fuzzy
 msgctxt "sACL_DISCONNECTING"
 msgid "Disconnecting"
-msgstr "Adree a coneter-s"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_TYPING"
 msgid "Show when I am typing"
@@ -4261,10 +4065,9 @@ msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
 msgstr "Smorza ol microfen"
 
-#, fuzzy
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
 msgctxt "sSOUNDSETTINGS_RECLEVEL"
 msgid "Recording level"
@@ -4282,15 +4085,13 @@ msgctxt "sCHAT_SETOPTIONS_UNMUTED_ALL"
 msgid "%s has allowed people in this conversation to write messages"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPREMIUMCALL_WEBWINDOW_TITLE"
 msgid "Skype Prime"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
@@ -4300,10 +4101,9 @@ msgctxt "sF_OPTIONS_ALERTS_LEARNMORE"
 msgid "<a href=\"skype:?go#help.faq.alerts\">Learn more</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_TRANSLATE_SAVEAS_FILTER"
 msgid "Skype language files"
-msgstr "Modifega ol file dei lengue de'l Skype..."
+msgstr ""
 
 msgctxt "sCALL_IS_FORWARDED"
 msgid "Your call is being forwarded free of charge. Please wait."
@@ -4313,10 +4113,9 @@ msgctxt "sCALL_QUALITY_DIAL_PAD"
 msgid "Problems sending dial pad (DTMF) tones."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_QUALITY_CALL_DROPPED"
 msgid "Call dropped."
-msgstr "Ciamada finida"
+msgstr ""
 
 msgctxt "sCALL_QUALITY_CANT_HEAR_CALLER"
 msgid "Could not hear the other caller."
@@ -4342,10 +4141,9 @@ msgctxt "sCALL_QUALITY_BAD_SOUND"
 msgid "Sound quality was inconsistent."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_IMAGE_CONTENT_DELETE"
 msgid "Delete"
-msgstr "Scancella"
+msgstr ""
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TITLE"
 msgid "Image file corrupted"
@@ -4379,8 +4177,8 @@ msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_13"
 msgid ""
-"You need newer version of <a href=\"http://www.microsoft.com/directx/"
-"\">DirectX</a> to use video."
+"You need newer version of <a "
+"href=\"http://www.microsoft.com/directx/\">DirectX</a> to use video."
 msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_14"
@@ -4395,20 +4193,17 @@ msgid ""
 "landlines or mobiles."
 msgstr ""
 
-#, fuzzy
 msgctxt "sPSTN_RES_9502"
 msgid "You need Skype Credit."
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_PRIVACY_SETTINGS"
 msgid "Privacy settings"
-msgstr "Configurazion de l'audio"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_BLOCKED_USERS"
 msgid "Blocked contacts"
-msgstr "Scond i contats"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_APPEARANCE"
 msgid "IM appearance"
@@ -4459,10 +4254,9 @@ msgctxt "sF_OPTIONS_DIDNOT_HEAR"
 msgid "Didn't hear anything?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SHOW_ADVANCED_OPTIONS"
 msgid "Show advanced options"
-msgstr "Mostra i conversazion scondude"
+msgstr ""
 
 msgctxt "sF_OPTIONS_ANYONE_CAN_CONTACT"
 msgid "Allow anyone to contact me"
@@ -4476,10 +4270,9 @@ msgctxt "sF_OPTIONS_ABOUT_PRIVACY"
 msgid "Learn more about privacy and security in Skype"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_SHOW_BASIC_OPTIONS"
 msgid "Show basic options"
-msgstr "Mostra i conversazion scondude"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RESET_DEFAULT"
 msgid "Reset to defaults"
@@ -4509,10 +4302,9 @@ msgctxt "sF_OPTIONS_CHAT_LOOKS"
 msgid "<b>IM appearance:</b> Set up how IM looks"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_CALLS"
 msgid "Calls"
-msgstr "Ciama"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_BUY_WEBCAM"
 msgid "Buy a webcam from the Skype shop"
@@ -4525,10 +4317,9 @@ msgid ""
 "section</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_TAKE_SNAPSHOT"
 msgid "Change your profile picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_INFO"
 msgid ""
@@ -4554,18 +4345,18 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CALL_FORWARD3"
 msgid ""
-"You will need Skype Credit or a calling <a href=\"skype:?"
-"go&sso=1#subscriptions\">subscription</a> to forward calls from Skype."
+"You will need Skype Credit or a calling <a "
+"href=\"skype:?go&sso=1#subscriptions\">subscription</a> to forward calls "
+"from Skype."
 msgstr ""
 
 msgctxt "sF_OPTIONS_CALL_FORWARD4"
 msgid "Rates for calling phones and mobiles"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_ABOUT_CALL_FORWARD"
 msgid "Learn more about call forwarding"
-msgstr "Per savir-n de plœ in sœ la qualitaa dei ciamade"
+msgstr ""
 
 msgctxt "SF_OPTIONS_BUY_CREDIT_CALL_FRW"
 msgid "Buy Skype Credit to forward calls to phones and mobiles"
@@ -4581,14 +4372,13 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CALL_FORWARDING"
 msgid ""
-"When you're away from Skype, forward incoming calls to a phone or mobile, to "
-"another Skype account, or receive a voice message."
+"When you're away from Skype, forward incoming calls to a phone or mobile, to"
+" another Skype account, or receive a voice message."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_FORWARD_HINT8a"
 msgid "Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8b"
 msgid "or a subscription to forward calls"
@@ -4614,10 +4404,9 @@ msgctxt "sF_BLOCK_ALREADY_BLOCKED"
 msgid "This person is already blocked."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LB_CHAT_SETTINGS"
 msgid "IM settings"
-msgstr "Configurazion de l'audio"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SETUP_CALLS"
 msgid "<b>Call settings:</b> Set up your call options"
@@ -4637,10 +4426,9 @@ msgctxt "sCONTACT_LONG_HINT_LAST_SEEN"
 msgid "Last seen"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_IMAGE_CONTENT_SAVE"
 msgid "Save As"
-msgstr "Salva con nom"
+msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_SAVE_ERROR"
 msgid "Source file is invalid or does not exist"
@@ -4654,25 +4442,21 @@ msgctxt "sF_ADDFRIEND_SERTIFIED_HINT"
 msgid "This is a business contact."
 msgstr ""
 
-#, fuzzy
 msgctxt "sTOOLTIP_CHAT_THUMB"
 msgid "Play video %s"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMENU_TAKE_SNAPSHOT"
 msgid "Take a Picture"
-msgstr "Cambia la toa fotografia..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_IMG_SERTIFIED"
 msgid "Business contact"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_ADDFRIEND_IMG_SERTIFIED"
 msgid "Business contact"
-msgstr "Scond i contats"
+msgstr ""
 
 msgctxt "sCALL_LB2_FAILED_COMMERCIAL_CONTACT"
 msgid "Contact can only receive IMs."
@@ -4686,10 +4470,9 @@ msgctxt "sCHAT_REMOVED_BY_SELF_MESSAGE_TITLE"
 msgid "Removed %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_EDIT_MESSAGE"
 msgid "Edit Message"
-msgstr "Messaj video"
+msgstr ""
 
 msgctxt "sCALL_ALERT_EXAMPLE"
 msgid "This is an example of a call alert"
@@ -4699,15 +4482,13 @@ msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
 msgstr "Termina la ciamada"
 
-#, fuzzy
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
-msgstr "Jonta persone"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_STARTSEND_SELECTED_CONTACTS_LABEL"
 msgid "Contacts to send"
-msgstr "Liste dei contats"
+msgstr ""
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
@@ -4717,10 +4498,9 @@ msgctxt "sFILETRANSFER_MULTI_FAILED"
 msgid "Failed"
 msgstr ""
 
-#, fuzzy
 msgctxt "sFILETRANSFER_FILE_COUNT"
 msgid "%d files"
-msgstr "Spediss un file"
+msgstr ""
 
 msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS1"
 msgid "Call Forwarding Options"
@@ -4730,10 +4510,9 @@ msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS2"
 msgid "Set up Call Forwarding..."
 msgstr ""
 
-#, fuzzy
 msgctxt "sREDBUTTON_HINT_CANCEL_VOICEMAIL"
 msgid "Cancel voice message"
-msgstr "Scancella ol messaj"
+msgstr ""
 
 msgctxt "sTEXT_ILLFORMED_XML"
 msgid "The language string %s is invalid. Cannot load the language file."
@@ -4779,80 +4558,39 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DUMMYFULL"
 msgid ""
-msgstr ""
+msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
 
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
 msgctxt "sZAPBUTTON_DUMMYLEFT"
 msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
 
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
 msgctxt "sZAPBUTTON_DUMMYRIGHT"
 msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
 
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
 msgctxt "sZAPBUTTON_DUMMYMIDDLE"
 msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
-msgstr "Aceta"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADD"
 msgid "Add people"
-msgstr "Jonta persone"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADD2"
 msgid "Add"
-msgstr "Jonta"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDNUMBER"
 msgid "Add phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDMYNUMBER"
 msgid "Add my number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
@@ -4862,61 +4600,33 @@ msgctxt "sZAPBUTTON_ADDCONTACT"
 msgid "Add a contact"
 msgstr "Jonta un contat"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDCONTACTMENU"
 msgid "All contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
-msgstr "Jonta ai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDSKYPEOUT"
 msgid "Save number in Contacts"
-msgstr "Salva ol contat"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
-msgstr "Jonta ai contats"
+msgstr ""
 
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
 msgctxt "sZAPBUTTON_AF_PINNED"
 msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
 
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
 msgctxt "sZAPBUTTON_AF_UNPINNED"
 msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
 
 msgctxt "sZAPBUTTON_ALLCONTACTS"
 msgid ""
@@ -4954,15 +4664,13 @@ msgctxt "sZAPBUTTON_BACKGSW"
 msgid "Back"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_BLOCK"
 msgid "Block"
-msgstr "Blocad"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_BUYCREDIT"
 msgid "Buy Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sZAPBUTTON_BUYSUBSCRIPTION"
 msgid "Buy a subscription"
@@ -4972,49 +4680,41 @@ msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
 msgstr "Ciama"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
-msgstr "Ciamada video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLWHICH"
 msgid "Call"
 msgstr "Ciama"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
-msgstr "Crea un grop"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
-msgstr "Configurazion del video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_VERYGOOD"
 msgid "Check settings"
-msgstr "Configurazion del video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_GOOD"
 msgid "Check settings"
-msgstr "Configurazion del video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_VERYAVERAGE"
 msgid "Check settings"
-msgstr "Configurazion del video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_AVERAGE"
 msgid "Check settings"
-msgstr "Configurazion del video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_BAD"
 msgid "Check settings"
-msgstr "Configurazion del video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_WEBCAM_INACTIVE"
 msgid "Webcam"
@@ -5032,25 +4732,21 @@ msgctxt "sZAPBUTTON_CQ_WEBCAM_POOR"
 msgid "Webcam"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_INACTIVE"
 msgid "Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_GOOD"
 msgid "Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_AVERAGE"
 msgid "Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_POOR"
 msgid "Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_INACTIVE"
 msgid "Speaker"
@@ -5084,25 +4780,21 @@ msgctxt "sZAPBUTTON_CQ_COMPUTER_POOR"
 msgid "Computer"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_CONNECTION_INACTIVE"
 msgid "Connection"
-msgstr "Adree a coneter-s"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_CONNECTION_GOOD"
 msgid "Connection"
-msgstr "Adree a coneter-s"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_CONNECTION_AVERAGE"
 msgid "Connection"
-msgstr "Adree a coneter-s"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_CONNECTION_POOR"
 msgid "Connection"
-msgstr "Adree a coneter-s"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_SHOW"
 msgid "Show problems"
@@ -5116,45 +4808,37 @@ msgctxt "sZAPBUTTON_CQ_PLAY"
 msgid "Play"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_GIVEFEEDBACK"
 msgid "Give feedback"
-msgstr "Spediss i to feedback"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CQ_CHECK"
 msgid "Check call quality guide"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLQUALITY"
 msgid "Call Quality"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLQUALITYAVERAGE"
 msgid "Call Quality Average"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLQUALITYBAD"
 msgid "Call Quality Bad"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLQUALITYINFO"
 msgid "Call Quality"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLQUALITYWARNING"
 msgid "Call Quality Warning"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLQUALITYERROR"
 msgid "Call Quality Error"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_5STAR"
 msgid "*****"
@@ -5176,43 +4860,37 @@ msgctxt "sZAPBUTTON_CQ_1STAR"
 msgid "*"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLPHONES"
 msgid "Call phones"
-msgstr "Ciama un telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CANCEL"
 msgid "Cancel"
 msgstr "Scancella"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SUBMITPASSWORD"
 msgid "Submit"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CANCELVOICEMAIL"
 msgid "Cancel voice message"
-msgstr "Scancella ol messaj"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CHAT"
 msgid "Send message"
-msgstr "Spediss un messaj"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CHARGE"
 msgid "Charge"
-msgstr "Grand"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CLEAR"
 msgid "Clear"
@@ -5230,20 +4908,17 @@ msgctxt "sZAPBUTTON_CLOSEONBLUE"
 msgid "Close"
 msgstr "Serra su"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CLOSEEC"
 msgid "Close"
-msgstr "Serra su"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CLOSEGSW"
 msgid "Close"
-msgstr "Serra su"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONVERSATIONS"
 msgid "Conversations"
-msgstr "Conversazion"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATION"
 msgid "Display the conversation here instead"
@@ -5253,10 +4928,9 @@ msgctxt "sZAPBUTTON_CONVERSATIONCLASSIC"
 msgid "Show the window containing the conversation"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONSHOME"
 msgid "Home"
@@ -5266,10 +4940,9 @@ msgctxt "sZAPBUTTON_CONVERSATIONSMOBILE"
 msgid "Mobile"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONVERSATIONSPHONE"
 msgid "Phone"
-msgstr "Ciama un Telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONVERSATIONSOFFICE"
 msgid "Office"
@@ -5283,44 +4956,37 @@ msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
 msgstr "Contats"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONTACTSARROW"
 msgid "Contacts"
-msgstr "Contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
 msgid "Selected contacts"
-msgstr "Spediss i contats..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
-msgstr "Crea un grop"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
 msgstr "Refuda"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
-msgstr "Scancella"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_DELETEALERTMESSAGE"
 msgid "Delete"
-msgstr "Scancella"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_DELETEHIDDEN"
 msgid "Delete"
-msgstr "Scancella"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_DELETEINVERT"
 msgid "Delete"
-msgstr "Scancella"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DETAILS"
 msgid "Details"
@@ -5390,10 +5056,9 @@ msgctxt "sZAPBUTTON_DIALPAD_CALL"
 msgid " "
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_DIALNUMBER"
 msgid "Dial this phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DIRECTORY"
 msgid "Find businesses"
@@ -5407,10 +5072,9 @@ msgctxt "sZAPBUTTON_DOWN"
 msgid "Down"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_DOWNLOAD"
 msgid "Download"
-msgstr "Seguita a descaregar"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DONT"
 msgid "Don't use for Skype"
@@ -5436,10 +5100,9 @@ msgctxt "sZAPBUTTON_COUNTRYSELECTOR"
 msgid "Choose country/region"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HIDE"
 msgid "Hide"
-msgstr "Scond"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FIVE"
 msgid "5"
@@ -5449,38 +5112,33 @@ msgctxt "sZAPBUTTON_FILE"
 msgid "File"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_FULLSCREEN"
 msgid "Full screen"
-msgstr "Sqerm complet"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_FULLSCREENEXIT"
 msgid "Exit fullscreen"
-msgstr "Sqerm complet"
+msgstr ""
 
 msgctxt "sZAPBUTTON_POPOUTEXIT"
 msgid "Exit popout mode"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "Help"
-msgstr "Aiut"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_FILETRANSFER"
 msgid "File Transfer"
-msgstr "File spedid."
+msgstr ""
 
 msgctxt "sZAPBUTTON_CHATBOOK"
 msgid "Facebook"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_TRANSFERCALL"
 msgid "Transfer this call"
-msgstr "Respond a la ciamada"
+msgstr ""
 
 msgctxt "sZAPBUTTON_EDIT"
 msgid "Edit"
@@ -5502,10 +5160,9 @@ msgctxt "sZAPBUTTON_FINDCONTACTSKYPE"
 msgid "Find this person on Skype"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLNUMBER"
 msgid "Call this number"
-msgstr "Ciama un Telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SHOWHISTORY"
 msgid "Show history"
@@ -5515,20 +5172,17 @@ msgctxt "sZAPBUTTON_HIDEHISTORY"
 msgid "Hide history"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HIDECONTACTLIST"
 msgid "Hide Contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SHOWCONTACTLIST"
 msgid "Show Contacts"
-msgstr "Mostra i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HISTORYFILTER"
 msgid "All messages"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FOUR"
 msgid "4"
@@ -5550,10 +5204,9 @@ msgctxt "sZAPBUTTON_FINDPREVIOUS"
 msgid "<ks>P</ks>revious"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "My account"
-msgstr "Crea un cœnt"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FORWARD"
 msgid "Forward"
@@ -5575,10 +5228,9 @@ msgctxt "sZAPBUTTON_GENERAL"
 msgid "General"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_UNREADMESSAGES"
 msgid "%d new messages"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GETPREMIUMVIDEO"
 msgid "Get group video"
@@ -5596,10 +5248,9 @@ msgctxt "sZAPBUTTON_GETSTARTED"
 msgid "<b><font type=\"Arial\">Get started</font></b>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_GROUPCALLSKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_GROUPCALLHOME"
 msgid "Home"
@@ -5617,15 +5268,13 @@ msgctxt "sZAPBUTTON_GROUPCALLOTHER"
 msgid "Other"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLTRANSFER"
 msgid "Call transfer"
-msgstr "Ciamada a %s, miga de resposta."
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CALLTRANSFERSKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLTRANSFERHOME"
 msgid "Home"
@@ -5643,10 +5292,9 @@ msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPEOPLEHOME"
 msgid "Home"
@@ -5664,30 +5312,25 @@ msgctxt "sZAPBUTTON_ADDPEOPLEOTHER"
 msgid "Other"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_ACTIVE"
 msgid "Show contacts"
-msgstr "Mostra i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_INACTIVE"
 msgid "Show contacts"
-msgstr "Mostra i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_ACTIVE"
 msgid "Hide contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_INACTIVE"
 msgid "Hide contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SAVEGROUP"
 msgid "Save group in Contacts"
-msgstr "Salva ol contat"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
@@ -5697,30 +5340,25 @@ msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
 msgstr "Ciama"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_INSTANTMESSAGE"
 msgid "Instant Message"
-msgstr "Messaj instantani"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HISTORYSLIDER"
 msgid "Last message"
-msgstr "Spediss un messaj"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HIDEDETAILS"
 msgid "Hide details"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HOLD"
 msgid "Hold call"
-msgstr "Fin de la ciamada"
+msgstr ""
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
@@ -5730,15 +5368,13 @@ msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
 msgid "Add to contacts"
-msgstr "Jonta ai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
-msgstr "Aiut"
+msgstr ""
 
 msgctxt "sZAPBUTTON_INFOALT"
 msgid "Info"
@@ -5748,20 +5384,17 @@ msgctxt "sZAPBUTTON_INFO"
 msgid "Info"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_IGNORE"
 msgid "Ignore"
-msgstr "Ignora"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_JOINCALL"
 msgid "Join call"
-msgstr "Ciamada adree a rivar"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_JOINCALLWITHVIDEO"
 msgid "Join call with video"
-msgstr "Respond cont ol video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
@@ -5803,20 +5436,17 @@ msgctxt "sZAPBUTTON_MPV_ALONE"
 msgid "MPV alone"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
-msgstr "Inseriss un emoticon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MESSAGEFROWN"
 msgid "Choose emoticon"
-msgstr "Inseriss un emoticon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MESSAGEFILE"
 msgid "Send file"
-msgstr "Spediss un file"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESHARE"
 msgid "Share"
@@ -5826,10 +5456,9 @@ msgctxt "sZAPBUTTON_MESSAGEEXTRAS"
 msgid "Extras"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MESSAGESMS"
 msgid "Group SMS"
-msgstr "Grop"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESMS_ON"
 msgid "SMS"
@@ -5847,10 +5476,9 @@ msgctxt "sZAPBUTTON_MESSAGEFROM"
 msgid "From"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr "Va fœra dal Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGETO"
 msgid "To"
@@ -5868,42 +5496,17 @@ msgctxt "sZAPBUTTON_MONITORAUDIOCLOSE"
 msgid "Close call monitor"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
-msgstr "Microfen disativad"
+msgstr ""
 
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
 msgctxt "sZAPBUTTON_MYSELFTOP"
 msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
 
-# Translation of Skype into unsupported languages
-# Copyright (C) 2013 Kevin P. Scannell
-#, fuzzy
 msgctxt "sZAPBUTTON_MYSELFBOTTOM"
 msgid ""
-msgstr ""
-"Project-Id-Version: SkypeInYourLang\n"
-"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: XXXX-XX-XX XX:XX-XXXX\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+msgstr "7abe095518b8b0837fc38d15a401089f_tr"
 
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
@@ -5961,24 +5564,21 @@ msgctxt "sZAPBUTTON_ONE"
 msgid "1"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
-msgstr "Spediss un file"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_OPTIONS"
 msgid "Options"
-msgstr "- Opzion"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PAUSE"
 msgid "Pause"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PAUSEUPGRADEDOWNLOAD"
 msgid "Pause download"
-msgstr "Seguita a descaregar"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PHONES"
 msgid "Call"
@@ -5988,10 +5588,9 @@ msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PLAYVIDEO"
 msgid "Play video"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PREVIEW"
 msgid "Preview"
@@ -6009,10 +5608,9 @@ msgctxt "sZAPBUTTON_PREVIOUSPAGE"
 msgid "Previous page"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILE"
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILENOTAUTHORIZED"
 msgid "Contact not authorized"
@@ -6022,25 +5620,21 @@ msgctxt "sZAPBUTTON_PROFILEGENERAL"
 msgid "General info"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILEHIDE"
 msgid "Hide profile"
-msgstr "Varda ol profil"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILEMIN"
 msgid "Minimize Profile"
-msgstr "Varda ol profil"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILEMINCENT"
 msgid "Minimize Profile"
-msgstr "Varda ol profil"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILEMAX"
 msgid "Maximize Profile"
-msgstr "Varda ol profil"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILENEXT"
 msgid "Next page"
@@ -6058,29 +5652,25 @@ msgctxt "sZAPBUTTON_PROFILEPREVIOUS"
 msgid "Previous page"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILESHOW"
 msgid "Show profile"
-msgstr "Varda ol profil"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PROFILETEXT"
 msgid "Additional info"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILEPUBLIC"
 msgid "Public profile"
-msgstr "Profil"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILEFULL"
 msgid "Full profile"
-msgstr "Profil"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_PROFILECONTACTS"
 msgid "Contacts only"
-msgstr "Contats"
+msgstr ""
 
 msgctxt "sZAPBUTTON_READ"
 msgid "Read"
@@ -6094,19 +5684,17 @@ msgctxt "sZAPBUTTON_TESTRECORD"
 msgid "Test"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_RECORDING"
 msgid "Recording..."
-msgstr "Adree a collegar-s..."
+msgstr ""
 
 msgctxt "sZAPBUTTON_PLAYRECORDED"
 msgid "Playing..."
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_RECORDVOICEMAIL"
 msgid "Re-record voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
 msgctxt "sZAPBUTTON_STOPVOICEMAIL"
 msgid "Stop recording"
@@ -6124,10 +5712,9 @@ msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_RESENDREQUEST"
 msgid "Resend contact request"
-msgstr "Spediss i contats..."
+msgstr ""
 
 msgctxt "sZAPBUTTON_RESET"
 msgid "Reset"
@@ -6149,15 +5736,13 @@ msgctxt "sZAPBUTTON_RIGHT"
 msgid "<b><font color=\"#475358\">Right</font></b>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SAVE"
 msgid "Save"
-msgstr "Salva"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SAVEALL"
 msgid "Save all"
-msgstr "Salva tut"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ROSTERINACTIVEPAGE"
 msgid "Page"
@@ -6203,57 +5788,49 @@ msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
 msgstr "Varda ol mč video"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_HIDEVIDEO"
 msgid "Hide my video"
-msgstr "Varda ol mč video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
 msgstr "Spediss un file"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Spediss i contats..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SENDMESSAGE"
 msgid "Send message"
-msgstr "Spediss un messaj"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SENDSMS"
 msgid "Send SMS"
-msgstr "Spediss un SMS"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SEARCH"
 msgid "Search"
-msgstr "Cerca"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SEARCHHISTORY"
 msgid "Search History"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SEARCHEMAILCONTACTS"
 msgid "Search email contacts"
-msgstr "Mostra i contats"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SEARCHSKYPEDIRECTORY"
 msgid "Search Skype directory"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SETPICTURE"
 msgid "Set as my picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CHOOSEPICTURE"
 msgid "Choose a different picture"
@@ -6263,29 +5840,25 @@ msgctxt "sZAPBUTTON_SIGNIN"
 msgid "Sign in"
 msgstr "Vegn denter"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_STOPSEARCH"
 msgid "Stop search"
-msgstr "Cerca"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ADDCONTACTS"
 msgid "Add to Contacts"
-msgstr "Jonta ai contats"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SELECTCONTACTS"
 msgid "Select contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SELECTALL"
 msgid "Select all"
-msgstr "Salva tut"
+msgstr ""
 
 msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
@@ -6299,19 +5872,17 @@ msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SEARCHAGAIN"
 msgid "Search again"
-msgstr "Cerca"
+msgstr ""
 
 msgctxt "sZAPBUTTON_TRYAGAIN"
 msgid "Try again"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CHANGESETTINGS"
 msgid "Change settings"
-msgstr "Configurazion del video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SHOP"
 msgid "Shop"
@@ -6321,39 +5892,33 @@ msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SHOWMESSAGES"
 msgid "Show messages"
-msgstr "Mostra i messaj precedents"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SIX"
 msgid "6"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SKIPVERSION"
 msgid "Skip version"
-msgstr "Scond la conversazion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SKYPEFINDADD"
 msgid "Add"
-msgstr "Jonta"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SKYPEIN"
 msgid "Skype number"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SKYPEHOME"
 msgid "Skype Home"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SKYPEOUT"
 msgid "Call phones"
-msgstr "Ciama un telefon"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
@@ -6383,10 +5948,9 @@ msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
 msgstr "Scolta ol messaj video"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_STARTVIDEO"
 msgid "Start video"
-msgstr "Varda ol mč video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
@@ -6428,38 +5992,33 @@ msgctxt "sZAPBUTTON_UP"
 msgid "Up"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_USE"
 msgid "Use for Skype"
-msgstr "Derva Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_UPDATE"
 msgid "Update now"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_VIEWMESSAGES"
 msgid "View older messages"
-msgstr "Varda i messaj vegg"
+msgstr ""
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
 msgstr "Varda ol profil"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View account"
-msgstr "Crea un cœnt"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_VIDEOSNAPSHOT"
 msgid "Video snapshot"
-msgstr "Fa una foto dal video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
@@ -6469,10 +6028,9 @@ msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
 msgstr "Smorza ol video"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_VIDEO"
 msgid "Video"
-msgstr "Ciamada Video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
@@ -6482,15 +6040,13 @@ msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
 msgstr "Tegn ol video piz"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
-msgstr "Spediss un messaj"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_MSNUPGRADESENDMESSAGE"
 msgid "Send download message"
-msgstr "Spediss un messaj"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREWINDOW"
 msgid "Show selected window"
@@ -6500,29 +6056,25 @@ msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
 msgstr "Spartiss i monitor"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
 msgid "Close"
-msgstr "Serra su"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCHANGESELECTION"
 msgid "Change selection"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SCREENSHARINGSELECTWINDOW"
 msgid "Select window"
-msgstr "Serra su 'sta fenestra qì"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SCREENSHARINGSTOPSHARING"
 msgid "Stop sharing"
-msgstr "Ferma la spartizion del monitor"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SCREENSHARINGMENUCANCEL"
 msgid "Cancel"
-msgstr "Scancella"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTART"
 msgid "Start"
@@ -6544,20 +6096,17 @@ msgctxt "sZAPBUTTON_CT_SCREENSHARING"
 msgid "Share"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CT_ADDCONTACT"
 msgid "Add people"
-msgstr "Jonta persone"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CT_VIDEO"
 msgid "My video"
-msgstr "Varda ol mč video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CT_VIDEOOFF"
 msgid "My video"
-msgstr "Varda ol mč video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CT_MESSAGE"
 msgid "IM"
@@ -6571,38 +6120,33 @@ msgctxt "sZAPBUTTON_CT_MESSAGENEW"
 msgid "IM"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CT_MUTE"
 msgid "Mute"
-msgstr "Microfen disativad"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CT_UNMUTE"
 msgid "Unmute"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CT_RERECORD"
 msgid "Re-record voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CT_CHARGE"
 msgid "Charge"
-msgstr "Grand"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CT_CANCEL"
 msgid "Cancel"
-msgstr "Scancella"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CT_RESUME"
 msgid "Resume call"
-msgstr "Seguita la ciamada"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CT_VOLUME0"
 msgid "Volume 0"
@@ -6628,33 +6172,29 @@ msgctxt "sZAPBUTTON_VIEWALL"
 msgid "View all new events"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_VIEWMENU"
 msgid "View menu"
-msgstr "Varda"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_VOLUMEDOWN"
 msgid "Volume down"
-msgstr "Seguita a descaregar"
+msgstr ""
 
 msgctxt "sZAPBUTTON_VOLUMEUP"
 msgid "Volume up"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_VOICEMAIL"
 msgid "Voice messages"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sZAPBUTTON_TEST"
 msgid "Test"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_WEBCAMMIC"
 msgid "Use webcam microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sZAPBUTTON_WHATSNEW"
 msgid "See what's new in Skype"
@@ -6684,15 +6224,13 @@ msgctxt "sZAPBUTTON_FEEDBACK"
 msgid "Give feedback"
 msgstr "Spediss i to feedback"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_ALERTS"
 msgid "Notifications"
-msgstr "Configurazion dei notifege"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_WINDOWCLOSE"
 msgid "Close"
-msgstr "Serra su"
+msgstr ""
 
 msgctxt "sZAPBUTTON_WINDOWMINIMIZE"
 msgid "Minimize"
@@ -6710,10 +6248,9 @@ msgctxt "sZAPBUTTON_WINDOWUNITE"
 msgid "Unite"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_UNMUTEMIC"
 msgid "Unmute your microphone"
-msgstr "Smorza ol microfen"
+msgstr ""
 
 msgctxt "sZAPBUTTON_UNMUTESPEAKERS"
 msgid "Unmute your speakers"
@@ -6727,35 +6264,29 @@ msgctxt "sZAPBUTTON_INVITEDONTADD"
 msgid "No, thanks"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_INVITEADDMORE"
 msgid "Add more contacts"
-msgstr "Jonta ai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_INVITENOTIFACCEPT"
 msgid "Add to contacts"
-msgstr "Jonta ai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_INVITENOTIFIGNORE"
 msgid "Ignore"
-msgstr "Ignora"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_CHANGEINVALIDHOTKEYS"
 msgid "Change"
-msgstr "Cambia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_AVATARVIEWSMALL"
 msgid "Small view"
-msgstr "Picinin"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_AVATARVIEWLARGE"
 msgid "Large view"
-msgstr "Grand"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CONNECTTOFACEBOOK"
 msgid "Connect to Facebook"
@@ -6765,15 +6296,13 @@ msgctxt "sZAPBUTTON_RECONNECTTOFACEBOOK"
 msgid "Reconnect to Facebook"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_RECONNECTTOXMPP"
 msgid "Reconnect"
-msgstr "Adree a coneter-s"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_SKYPEWIFICONNECT"
 msgid "Connect"
-msgstr "Adree a coneter-s"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SKYPEWIFIDISCONNECT"
 msgid "Disconnect"
@@ -6783,10 +6312,9 @@ msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
 msgstr "Ciamada video"
 
-#, fuzzy
 msgctxt "sZAPBUTTON_RERECORDVIDM"
 msgid "Re-record message"
-msgstr "Spediss un messaj"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CANCELVIDM"
 msgid "Cancel message"
@@ -6802,20 +6330,17 @@ msgid ""
 "out and try again."
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPCONTACT_PHONE"
 msgid "Phone"
-msgstr "Ciama un Telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALLPHONES_PHONE_EDIT_HINT"
 msgid "Enter number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALLPHONES_RATES_LOADING"
 msgid "Loading..."
-msgstr "Adree a collegar-s..."
+msgstr ""
 
 msgctxt "sCALLPHONES_RATES_SELECT_COUNTRY"
 msgid "Select a country/region"
@@ -6833,20 +6358,18 @@ msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
 msgstr "Ciamada a %s"
 
-#, fuzzy
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
-msgstr "Grop"
+msgstr ""
 
-#, fuzzy
 msgctxt "sFLOW_CALL_END"
 msgid "Call ended"
-msgstr "Ciamada finida"
+msgstr ""
 
 msgctxt "sCONFIRM_MUST_UPGRADE_HQVIDEO"
 msgid ""
-"You need to download the latest webcam software to ensure you can make video "
-"calls. <a href=\"%s\">Read more</a>"
+"You need to download the latest webcam software to ensure you can make video"
+" calls. <a href=\"%s\">Read more</a>"
 msgstr ""
 
 msgctxt "sCONFIRM_MUST_UPGRADE_HQVIDEO_CAPTION"
@@ -6861,29 +6384,25 @@ msgctxt "sOPTIONS_CLEAR_COKIES_CAPTION"
 msgid "Delete Skype cookies?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONV_BOOKMARK"
 msgid "Save Group in Your Contacts"
-msgstr "%s l'è miga ind i to contats."
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONV_UNBOOKMARK"
 msgid "Remove From Your Contacts"
-msgstr "Scancella dai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_DROPPED"
 msgid "Call with %s dropped."
-msgstr "Ciamada a %s, durada %s."
+msgstr ""
 
 msgctxt "sCALL_CANNOT_CONNECT"
 msgid "Cannot connect to %s."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_INTERNAL_ERROR"
 msgid "Call with %s failed."
-msgstr "Ciamada de %s refudada"
+msgstr ""
 
 msgctxt "sCALL_OTHER_LIVE"
 msgid "You can only have one call at a time."
@@ -6915,24 +6434,21 @@ msgid ""
 "friend."
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEO_FULLSCREEN_CAPTION"
 msgid "Full-screen"
-msgstr "Sqerm complet"
+msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEO_EXIT_FULLSCREEN_CAPTION"
 msgid "Exit fullscreen"
-msgstr "Sqerm complet"
+msgstr ""
 
 msgctxt "sF_STARTCONF_OK_BUTTON"
 msgid "OK"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_ADDTOCONF_TITLE"
 msgid "Add more people"
-msgstr "Jonta persone"
+msgstr ""
 
 msgctxt "sCALL_IN_PROGRESS"
 msgid "If you call %s your current call will be put on hold."
@@ -6946,15 +6462,13 @@ msgctxt "sCALL_RESUME_OTHERS_LIVE"
 msgid "Resuming this call will put other calls on hold."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TOOLBAR_RESUME"
 msgid "Resume this call"
-msgstr "Seguita la ciamada"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TOOLBAR_UNMUTE"
 msgid "Unmute your microphone"
-msgstr "Smorza ol microfen"
+msgstr ""
 
 msgctxt "sCONVERSATION_MISSING_ITEM"
 msgid "Item has been deleted from conversation history."
@@ -6964,15 +6478,13 @@ msgctxt "sCONVERSATIONSEARCH_TEXT"
 msgid "Text"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONVERSATIONSEARCH_FILES"
 msgid "Files"
-msgstr "File spedid."
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONVERSATIONSEARCH_CALLS"
 msgid "Calls"
-msgstr "Ciama"
+msgstr ""
 
 msgctxt "sCONVERSATIONSEARCH_VOICEMAILS"
 msgid "Voice messages"
@@ -6982,25 +6494,21 @@ msgctxt "sCONVERSATIONSEARCH_SMS"
 msgid "SMS"
 msgstr ""
 
-#, fuzzy
 msgctxt "sZAPCONTACT_SKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_VM_RERECORD"
 msgid "Re-record the voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TOOLBAR_VM_RECORD"
 msgid "Re-record the voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TOOLBAR_VM_CANCEL"
 msgid "Cancel recording."
-msgstr "Adree a scancellar"
+msgstr ""
 
 msgctxt "sACL_PROGRAM_BLACKLISTED"
 msgid ""
@@ -7010,8 +6518,8 @@ msgstr ""
 
 msgctxt "sACL_PROGRAM_WHITELISTED"
 msgid ""
-"This program is certified by Skype, so don't worry, there is no risk to your "
-"computer's security."
+"This program is certified by Skype, so don't worry, there is no risk to your"
+" computer's security."
 msgstr ""
 
 msgctxt "sACL_PROGRAM_UNLISTED"
@@ -7029,10 +6537,9 @@ msgctxt "sCONVERSATION_MARK_UNREAD"
 msgid "Mark as Unread"
 msgstr "Marca come anc'mò da lejer"
 
-#, fuzzy
 msgctxt "sCONVERSATION_PICTURE_CHANGE"
 msgid "Change"
-msgstr "Cambia"
+msgstr ""
 
 msgctxt "sDEVICES_NEW_DETECTED1"
 msgid "New audio device found."
@@ -7052,10 +6559,9 @@ msgid ""
 "like to use."
 msgstr ""
 
-#, fuzzy
 msgctxt "sDEVICES_NEW_MIC1"
 msgid "Your webcam has a microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sCONTACTS_PSTN_INLIST"
 msgid "The phone number %s you entered is already in your Contacts"
@@ -7103,10 +6609,9 @@ msgctxt "sSMS_STATUS_SENT_MULTIPLE"
 msgid "%d delivered"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSMS_STATUS_FAILED_MULTIPLE"
 msgid "%d failed"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sSMS_FAILED_RETRY"
 msgid "Try again"
@@ -7114,8 +6619,8 @@ msgstr ""
 
 msgctxt "sSMS_NO_CREDIT"
 msgid ""
-"You need Skype Credit to send text messages (SMS). <a href=\"skype:?payments"
-"\">Buy Skype Credit now</a>"
+"You need Skype Credit to send text messages (SMS). <a "
+"href=\"skype:?payments\">Buy Skype Credit now</a>"
 msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_TOO_MANY"
@@ -7124,8 +6629,7 @@ msgstr ""
 
 msgctxt "sINTERVAL_TIME_UNITS"
 msgid ""
-"second\\seconds\\\\minute\\minutes\\\\hour\\hours\\\\day\\days\\\\week\\weeks"
-"\\\\month\\months\\\\year\\years"
+"second\\seconds\\\\minute\\minutes\\\\hour\\hours\\\\day\\days\\\\week\\weeks\\\\month\\months\\\\year\\years"
 msgstr ""
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER"
@@ -7162,15 +6666,13 @@ msgctxt "sFILETRANSFER_SUMMARY_COMPLETED"
 msgid "%d completed"
 msgstr ""
 
-#, fuzzy
 msgctxt "sFILETRANSFER_SUMMARY_CANCELLED"
 msgid "%d cancelled"
-msgstr "Scancellad"
+msgstr ""
 
-#, fuzzy
 msgctxt "sFILETRANSFER_SUMMARY_FAILED"
 msgid "%d failed"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sTRANSFER_CHOOSE_FOLDER"
 msgid "Choose destination folder."
@@ -7194,20 +6696,17 @@ msgctxt "sOPTIONS_AUTO_SAVE_FILE"
 msgid "save all files to:"
 msgstr ""
 
-#, fuzzy
 msgctxt "sOPTIONS_CHANGE_DIR"
 msgid "Change folder"
-msgstr "Cambia lengua"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_NO_FUNDS"
 msgid "No Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_INSUFFISIENT_FUNDS"
 msgid "Not enough Skype Credit."
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sMESSAGE_NOT_DELIVERED"
 msgid "Not delivered yet."
@@ -7225,10 +6724,9 @@ msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
 msgstr "Ciamada a %s, durada %s."
 
-#, fuzzy
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sOPTIONS_AUDIO_SPEAKERS"
 msgid "Speakers"
@@ -7262,10 +6760,9 @@ msgctxt "sAUTHORIZE_COPY_REQUEST"
 msgid "Copy"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_AUTH_BTN_UNBLOCK"
 msgid "Unblock"
-msgstr "Desbloca"
+msgstr ""
 
 msgctxt "sOPTIONS_AUDIO_ADVANCED_LBL"
 msgid ""
@@ -7298,10 +6795,9 @@ msgctxt "sF_IMPORTCONTACTS_LB_TITLE"
 msgid "Find your friends"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMAINMENU_SKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
@@ -7391,10 +6887,9 @@ msgctxt "sMAINMENU_CONTACTS_RESTORE"
 msgid "Restore Contacts from File..."
 msgstr ""
 
-#, fuzzy
 msgctxt "sMAINMENU_CONTACTS_MANAGE_BLOCKED"
 msgid "Manage Blocked Contacts..."
-msgstr "Spediss i contats..."
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION"
 msgid "Conversation"
@@ -7416,10 +6911,9 @@ msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMAINMENU_CONVERSATION_SEND_FILE"
 msgid "File..."
-msgstr "Spediss un File..."
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VOICEMAIL"
 msgid "Voice Message"
@@ -7433,10 +6927,9 @@ msgctxt "sMAINMENU_CONVERSATION_PROFILE_HIDE"
 msgid "Hide"
 msgstr "Scond"
 
-#, fuzzy
 msgctxt "sMAINMENU_CONVERSATION_ADD_TO_CONTACTS"
 msgid "Save Group to Contacts"
-msgstr "Salva ol contat"
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_RENAME"
 msgid "Rename..."
@@ -7482,10 +6975,9 @@ msgctxt "sMAINMENU_CALL_MUTE"
 msgid "Mute Microphone"
 msgstr "Quieta ol microfen"
 
-#, fuzzy
 msgctxt "sMAINMENU_CALL_UNMUTE"
 msgid "Unmute Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sMAINMENU_CALL_TRANSFER"
 msgid "Transfer"
@@ -7495,10 +6987,9 @@ msgctxt "sMAINMENU_CALL_HOLD"
 msgid "Hold"
 msgstr "Atend in linia"
 
-#, fuzzy
 msgctxt "sMAINMENU_CALL_RESUME"
 msgid "Resume"
-msgstr "Seguita la ciamada"
+msgstr ""
 
 msgctxt "sMAINMENU_CALL_HANG_UP"
 msgid "Hang up"
@@ -7508,10 +6999,9 @@ msgctxt "sMAINMENU_CALL_AUDIO"
 msgid "Audio Settings..."
 msgstr "Configurazion de l'audio..."
 
-#, fuzzy
 msgctxt "sMAINMENU_CALL_VIDEO"
 msgid "Video"
-msgstr "Ciamada Video"
+msgstr ""
 
 msgctxt "sMAINMENU_CALL_VIDEO_SNAPSHOT"
 msgid "Video Snapshot"
@@ -7593,15 +7083,13 @@ msgctxt "sCHAT_GRANTED_AUTH"
 msgid "%s has shared contact details with %s."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_CANNOT_CONNECT"
 msgid "Call failed"
-msgstr "Ciama un cellular"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_INTERNET_LOST"
 msgid "Internet connection lost"
-msgstr "G'è un problema con la conession a l'Internet"
+msgstr ""
 
 msgctxt "sCALL_LB2_SKYPEOUT_BLOCKED"
 msgid "Account blocked"
@@ -7633,10 +7121,9 @@ msgctxt "sVOICEMAIL"
 msgid "<b>Voice message</b>, duration %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCOMPLETED_GROUP_CALL"
 msgid "Group call, duration %s"
-msgstr "Ciamada a %s, durada %s."
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_LEAVE"
 msgid "Leave Conversation"
@@ -7646,10 +7133,9 @@ msgctxt "sOPTIONS_WEBCAM_LABEL"
 msgid "Webcam:"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_STATUSMESSAGE_DOWNLOADING_MESSAGES"
 msgid "Downloading messages"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sCALL_PHONES_EMERGENCY1"
 msgid "No Emergency Calls"
@@ -7689,10 +7175,9 @@ msgctxt "sCONVERSATION_MENU_NOTIFICATIONS"
 msgid "Notification Settings..."
 msgstr "Configurazion dei notifege..."
 
-#, fuzzy
 msgctxt "sCONTEXTMENU_CREATE_GROUP"
 msgid "New Group Conversation"
-msgstr "Scond la conversazion"
+msgstr ""
 
 msgctxt "sTRANSFER_FAILED_CAPTION"
 msgid "File transfer failed"
@@ -7712,26 +7197,23 @@ msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
 msgid "Too many parallel file sendings"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_BLOCKED"
 msgid "Call failed"
-msgstr "Ciama un cellular"
+msgstr ""
 
-#, fuzzy
 msgctxt "sZAPBUTTON_UNREADMESSAGE"
 msgid "New message"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sCONVERSATION_STATUS_LEGACY"
 msgid ""
 "Instant messaging isn't currently available. This may be resolved shortly "
-"once the chat has updated, or the other person may be using an older version "
-"of Skype which doesn't support calling and IM at the same time."
+"once the chat has updated, or the other person may be using an older version"
+" of Skype which doesn't support calling and IM at the same time."
 msgstr ""
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS2"
@@ -7744,10 +7226,9 @@ msgid ""
 "and click up to %s people in the list below."
 msgstr ""
 
-#, fuzzy
 msgctxt "sINBOX_DIALOG_FILE_TRANSFER"
 msgid "New file transfer: %s"
-msgstr "Spediss ol file a %s"
+msgstr ""
 
 msgctxt "sINBOX_CONFERENCE_FILE_TRANSFER"
 msgid "%s sent %s"
@@ -7773,10 +7254,9 @@ msgctxt "sCALL_LB2_UNAVAILABLE"
 msgid "The number is unavailable"
 msgstr ""
 
-#, fuzzy
 msgctxt "sGROUP_AVATAR_BROWSER_DEFAULT_PIC"
 msgid "No picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sFEEDBACK_TITLE"
 msgid "Leave feedback about Skype™"
@@ -7810,25 +7290,21 @@ msgctxt "sFILETRANSFER_GROUP_STATUS"
 msgid "%d recipients: %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sINBOX_PINNED_CONVERSATIONS"
 msgid "Pinned conversations"
-msgstr "Scond la conversazion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sINBOX_CLEAR_CONVERSATIONS"
 msgid "Hide read conversations"
-msgstr "Scond la conversazion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_CONVERSATIONS_MANY"
 msgid "%d conversations"
-msgstr "Scond la conversazion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
 msgid "Finished"
-msgstr "Finid"
+msgstr ""
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
@@ -7837,8 +7313,8 @@ msgstr ""
 msgctxt "sINFORM_IO_ERROR"
 msgid ""
 "Disk I/O error. Right-click the Skype icon in the Windows taskbar at the "
-"bottom right of your screen and choose Quit. Then restart Skype. If you keep "
-"seeing this error, please contact Skype customer support."
+"bottom right of your screen and choose Quit. Then restart Skype. If you keep"
+" seeing this error, please contact Skype customer support."
 msgstr ""
 
 msgctxt "sINFORM_DB_CORRUPT"
@@ -7849,10 +7325,9 @@ msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
 msgstr "Spediss ol file a %s"
 
-#, fuzzy
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
-msgstr "Scond la conversazion"
+msgstr ""
 
 msgctxt "sCONVERSATIONS_NEW_SINGULAR"
 msgid "%d new"
@@ -7862,34 +7337,29 @@ msgctxt "sCONVERSATIONS_NEW_PLURAL"
 msgid "%d new"
 msgstr ""
 
-#, fuzzy
 msgctxt "sINBOX_MARK_ALL_READ"
 msgid "Mark all read"
-msgstr "Marca come anc'mò da lejer"
+msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYALERT_ISONLINE"
 msgid "is online"
-msgstr "%s l'è miga in linia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYALERT_ISOFFLINE"
 msgid "went offline"
-msgstr "I enn miga in linia"
+msgstr ""
 
 msgctxt "sTRAYALERT_EXAMPLE"
 msgid "Example"
 msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYALERT_ALLMESSAGES2"
 msgid "View all messages"
-msgstr "Varda i messaj vegg"
+msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYALERT_ALLMESSAGES"
 msgid "View all %d new conversations"
-msgstr "Scond la conversazion"
+msgstr ""
 
 msgctxt "sMAINMENU_VIEW_SINGLE_WINDOW_MODE"
 msgid "Default View"
@@ -7899,10 +7369,9 @@ msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
 msgid "Compact View"
 msgstr "Vista compata"
 
-#, fuzzy
 msgctxt "sTRAYALERT_NONEW"
 msgid "No new conversations"
-msgstr "Scond la conversazion"
+msgstr ""
 
 msgctxt "sTRAYALERT_CQ_HIGH_ECHO"
 msgid "High sound coming from the speakers"
@@ -7912,10 +7381,9 @@ msgctxt "sTRAYALERT_CQ_HIGH_NOISE"
 msgid "You've got a lot of background noise"
 msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYALERT_CQ_MUTED_INPUT"
 msgid "Check your microphone is plugged in"
-msgstr "Smorza ol microfen"
+msgstr ""
 
 msgctxt "sTRAYALERT_CQ_LOW_INPUT"
 msgid "Your microphone is really quiet"
@@ -7925,24 +7393,21 @@ msgctxt "sCONTACT_GROUP_NEW"
 msgid "New List"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONTACTGROUPS_NEW"
 msgid "Create New List..."
-msgstr "Crea un grop nœv..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sREMOVEGROUP_CAPTION"
 msgid "Delete List?"
-msgstr "Scancella"
+msgstr ""
 
 msgctxt "sREMOVEGROUP_WARNING"
 msgid "Do you want to delete the list \"%s\"?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sREMOVEGROUP_TITLE"
 msgid "Delete list"
-msgstr "Scancella"
+msgstr ""
 
 msgctxt "sCONTACT_PROFILE_EDIT_PHONE"
 msgid "Edit number"
@@ -7952,15 +7417,15 @@ msgctxt "sCONTACT_PROFILE_ADD_PHONE"
 msgid "Add a number to this profile"
 msgstr ""
 
-#, fuzzy
 msgctxt "sNOTIFY_API_AUTHORIZATION"
 msgid "%s wants to use Skype"
-msgstr "Seet segur qe te vœl andar fœra dal Skype?"
+msgstr ""
 
 msgctxt "sDEVICES_NEW_MIC4"
 msgid ""
 "It will be useful if you don't have a headset or a microphone. Change your "
-"<a href=\"skype:?options#sounddevices\">sound settings</a> to start using it."
+"<a href=\"skype:?options#sounddevices\">sound settings</a> to start using "
+"it."
 msgstr ""
 
 msgctxt "sSHOP_CAPTION"
@@ -7979,24 +7444,21 @@ msgctxt "sF_COM_CAPTION"
 msgid "Application access"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_COM_MULTIPLE"
 msgid "%s messages"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sCONTACT_ADD_TO_GROUP"
 msgid "Add to List"
 msgstr "Jonta a la lista"
 
-#, fuzzy
 msgctxt "sCONTACT_MANAGE_GROUP"
 msgid "Manage Lists"
-msgstr "Liste dei contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sPFOFILE_HEADER_GROUP_SAVED"
 msgid "Group saved"
-msgstr "Grop"
+msgstr ""
 
 msgctxt "sINBOX_HINT_ONE"
 msgid "New conversation, last activity %s ago"
@@ -8006,10 +7468,9 @@ msgctxt "sINBOX_HINT_MULTIPLE"
 msgid "%d conversations with new messages, last activity %s ago"
 msgstr ""
 
-#, fuzzy
 msgctxt "sINBOX_ITEM_HINT_ONE"
 msgid "New message %s ago"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sINBOX_ITEM_HINT_MULTIPLE"
 msgid "%d new messages, last activity %s ago"
@@ -8023,29 +7484,25 @@ msgctxt "sCONVERSATION_SPAWNED_CONFERENCE"
 msgid "%s created a group conversation with %s."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONVERSATION_SPAWNED_CONF_LINK"
 msgid "Show group conversation"
-msgstr "Mostra i conversazion scondude"
+msgstr ""
 
 msgctxt "sCONTACTGROUPS_DELETE_SELECTED"
 msgid "Delete List \"%s\"..."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONTACTGROUPS_RENAME_SELECTED"
 msgid "Rename List \"%s\"..."
-msgstr "Cambia ol nom..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_CALLQUALITYGUIDE_WINDOW_TITLE"
 msgid "Call Quality Guide"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_CALLQUALITYGUIDE_BGR_CAPTION"
 msgid "Call Quality Guide"
-msgstr "Guida a la qualitaa dei ciamade"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RING_ALL_DEVICES"
 msgid "Ring on all devices"
@@ -8053,23 +7510,21 @@ msgstr ""
 
 msgctxt "sAUTHORIZATION_PANEL_TIP"
 msgid ""
-"You can control who can contact you in your <a href=\"skype:?options#privacy"
-"\">privacy settings</a>."
+"You can control who can contact you in your <a "
+"href=\"skype:?options#privacy\">privacy settings</a>."
 msgstr ""
 
 msgctxt "sAUTHORIZATION_PANEL_COMMENT"
 msgid "Clicking Add to Contacts means this person can see when you are online"
 msgstr ""
 
-#, fuzzy
 msgctxt "sAUTHORIZE_BLOCKED_CAPTION2"
 msgid "%s is on your blocked list"
-msgstr "%s l'è miga ind i to contats."
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONVERSATION_SPAWNED_CONFERENCE2"
 msgid "%s created a group conversation"
-msgstr "Abandona la conversazion"
+msgstr ""
 
 msgctxt "sBUDDYMENU_BLOCK_MULTIPLE"
 msgid "Block These People..."
@@ -8089,10 +7544,9 @@ msgid ""
 "to sign up for auto-recharge next time you buy some Skype Credit!"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OUTLOOK_CAPTION"
 msgid "Import contacts"
-msgstr "Importa i contats..."
+msgstr ""
 
 msgctxt "sTRAYALERT_CQ_MUTED_OUTPUT"
 msgid "Speakers are on mute."
@@ -8104,38 +7558,33 @@ msgstr ""
 
 msgctxt "sNOTIFY_API_ATTACH_HIGH_IL"
 msgid ""
-"Another application (%s) is attempting to access Skype, but we are unable to "
-"respond. Please try to restart the application."
+"Another application (%s) is attempting to access Skype, but we are unable to"
+" respond. Please try to restart the application."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONVERSATION_RECEIVED_VM"
 msgid "Sent a voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONVERSATION_RECEIVED_VM_CONF"
 msgid "%s sent a voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
 msgctxt "sFILESIZE_UNIT"
 msgid "B"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_LB2_FINISHED2"
 msgid "Call ended, duration %s"
-msgstr "Ciamada a %s, durada %s."
+msgstr ""
 
-#, fuzzy
 msgctxt "sEMPTY_GROUP_LABEL2"
 msgid "Drag contacts that you want to add here"
-msgstr "Ruza qì i to contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sSAVE_GROUP_CAPTION"
 msgid "Save group"
-msgstr "Crea un grop"
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_SMALL"
 msgid "Small"
@@ -8145,10 +7594,9 @@ msgctxt "sMAINMENU_CONVERSATION_PROFILE_LARGE"
 msgid "Large"
 msgstr "Grand"
 
-#, fuzzy
 msgctxt "sPARTICIPANT_REMOVE_FROM_CONVERSATION"
 msgid "Remove person from this group"
-msgstr "Persone in quell grop qì"
+msgstr ""
 
 msgctxt "sHISTORY_QF_HINT"
 msgid "Search history"
@@ -8158,20 +7606,17 @@ msgctxt "sHISTORY_FILTER_ALL_EVENTS"
 msgid "All events"
 msgstr ""
 
-#, fuzzy
 msgctxt "sHISTORY_FILTER_ALL_CALLS"
 msgid "All calls"
-msgstr "Ciamada adree a rivar"
+msgstr ""
 
-#, fuzzy
 msgctxt "sHISTORY_FILTER_MISSED_CALLS"
 msgid "Missed calls"
-msgstr "Ciamada persa"
+msgstr ""
 
-#, fuzzy
 msgctxt "sHISTORY_FILTER_INCOMING_CALLS"
 msgid "Incoming calls"
-msgstr "Ciamada adree a rivar"
+msgstr ""
 
 msgctxt "sHISTORY_FILTER_OUTGOING_CALLS"
 msgid "Outgoing calls"
@@ -8181,20 +7626,17 @@ msgctxt "sHISTORY_FILTER_VOICEMAILS"
 msgid "Voice messages"
 msgstr "Messaj a vox"
 
-#, fuzzy
 msgctxt "sHISTORY_FILTER_FILETRANSFERS"
 msgid "Files sent and received"
-msgstr "File spedids e ricevuds"
+msgstr ""
 
-#, fuzzy
 msgctxt "sHISTORY_FILTER_IMS"
 msgid "Instant messages"
-msgstr "Messaj instantani"
+msgstr ""
 
-#, fuzzy
 msgctxt "sHISTORY_FILTER_SMSES"
 msgid "SMS messages"
-msgstr "Messaj SMS"
+msgstr ""
 
 msgctxt "sBROWSER_LOADING"
 msgid "Please wait while the page loads..."
@@ -8206,19 +7648,17 @@ msgstr ""
 
 msgctxt "sBROWSER_ERROR_TEXT"
 msgid ""
-"You don't seem to have an active internet connection.<br />Please check your "
-"connection and try again."
+"You don't seem to have an active internet connection.<br />Please check your"
+" connection and try again."
 msgstr ""
 
-#, fuzzy
 msgctxt "sHISTORY_VM_DURATION"
 msgid "Duration %s"
-msgstr "Durada"
+msgstr ""
 
-#, fuzzy
 msgctxt "sDIALPAD_CALL"
 msgid "Call"
-msgstr "Ciama"
+msgstr ""
 
 msgctxt "sDIALPAD_SMS"
 msgid "SMS"
@@ -8236,8 +7676,8 @@ msgstr ""
 
 msgctxt "sBLOCK_ABUSE_TEXT2"
 msgid ""
-"You can also report abuse from this user. <a href=\"skype:?go#help.faq.abuse"
-"\">Learn more</a>"
+"You can also report abuse from this user. <a "
+"href=\"skype:?go#help.faq.abuse\">Learn more</a>"
 msgstr ""
 
 msgctxt "sBLOCK_ABUSE_REPORT"
@@ -8246,8 +7686,8 @@ msgstr ""
 
 msgctxt "sBLOCK_ABUSE_TEXT2_MULTI"
 msgid ""
-"You can also report abuse from these users. <a href=\"skype:?go#help.faq."
-"abuse\">Learn more</a>"
+"You can also report abuse from these users. <a "
+"href=\"skype:?go#help.faq.abuse\">Learn more</a>"
 msgstr ""
 
 msgctxt "sBLOCK_ABUSE_REPORT_MULTI"
@@ -8266,15 +7706,13 @@ msgctxt "sBLOCK_CAPTION_MULTI"
 msgid "Block these people"
 msgstr ""
 
-#, fuzzy
 msgctxt "sBLOCK_PEOPLE"
 msgid "%s people"
-msgstr "Jonta persone"
+msgstr ""
 
-#, fuzzy
 msgctxt "sBLOCK_REMOVE"
 msgid "Remove from your Contact list"
-msgstr "Scancella dai contats"
+msgstr ""
 
 msgctxt "sBLOCK_TEXT_MULTI"
 msgid ""
@@ -8282,15 +7720,13 @@ msgid ""
 "you and won't appear in your Contact List."
 msgstr ""
 
-#, fuzzy
 msgctxt "sBUDDYMENU_CALLGROUP"
 msgid "Call Group"
-msgstr "Grop"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_HOME"
 msgid "Call home"
-msgstr "Ciama un Telefon"
+msgstr ""
 
 msgctxt "sCALL_MOBILE"
 msgid "Call mobile"
@@ -8304,15 +7740,13 @@ msgctxt "sCALL_PHONE"
 msgid "Call phone"
 msgstr "Ciama un telefon"
 
-#, fuzzy
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
 msgid "Add phone number..."
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sOPTIONS_CHANGE_FONT"
 msgid "Change font"
-msgstr "Cambia"
+msgstr ""
 
 msgctxt "sOPTIONS_FONT_LABEL"
 msgid "Font:"
@@ -8354,20 +7788,17 @@ msgctxt "sF_CALL_QLT_LBL2_VERY_BAD"
 msgid "<b>Very bad</b><br />Problems so bad the call was impossible"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_LBL_VISUAL_STYLE"
 msgid "Visual style of the window"
-msgstr "Serra su 'sta fenestra qì"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_RB_CHROME_SKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_RB_CHROME_DEFAULT"
 msgid "Classic Windows"
-msgstr "Serra su 'sta fenestra qì"
+msgstr ""
 
 msgctxt "sF_CALL_QLT_LBL_CHOOSE_PROBLEMS"
 msgid "Choose all that apply."
@@ -8409,10 +7840,9 @@ msgctxt "sCONVERSATION_BLOCKED"
 msgid "%s blocked %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPARTICIPANT_ACTIVE_PHONE"
 msgid "Calling"
-msgstr "Adree a ciamar"
+msgstr ""
 
 msgctxt "sOPTIONS_UPNP"
 msgid "Enable uPnP"
@@ -8441,15 +7871,13 @@ msgctxt "sPLUGIN_MANAGER_NOT_AVAILABLE"
 msgid "You need the Skype Extras Manager installed to run this extra."
 msgstr ""
 
-#, fuzzy
 msgctxt "sUNNAMED_SKYPEOUT_CONTACT"
 msgid "Unnamed contact"
-msgstr "Salva ol contat"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONVERSATION_MARK_READ"
 msgid "Mark as Read"
-msgstr "Marca come anc'mò da lejer"
+msgstr ""
 
 msgctxt "sCHAT_POSTED_CONTACTS"
 msgid "%d contacts sent to %s"
@@ -8493,10 +7921,9 @@ msgctxt "sSMS_TARGET_UNDISCLOSED"
 msgid "The contact must have a valid phone number for you to send SMS"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_MENU_COPY_MESSAGE"
 msgid "Copy Message"
-msgstr "Messaj video"
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_TOPIC"
 msgid "Topic"
@@ -8506,10 +7933,9 @@ msgctxt "sMAINMENU_CONVERSATION_SETTOPIC"
 msgid "Set Topic..."
 msgstr ""
 
-#, fuzzy
 msgctxt "sMAINMENU_CONVERSATION_SETPICTURE"
 msgid "Set Picture..."
-msgstr "Cambia la toa fotografia..."
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_PEOPLE"
 msgid "Add People..."
@@ -8519,10 +7945,9 @@ msgctxt "sPUBLICCHAT_NOT_SUPPORTED"
 msgid "Public chats are not supported in this version"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPROFILE_OUTLOOK_CONTACT"
 msgid "Outlook Contact"
-msgstr "Mostra i contats de l'Outlook"
+msgstr ""
 
 msgctxt "sCALL_LB2_BLOCKED_BY_US"
 msgid "Destination is temporarily blocked"
@@ -8532,10 +7957,9 @@ msgctxt "sPASTE_AS_QUOTE_LBL"
 msgid "Pressing Ctrl+V will..."
 msgstr ""
 
-#, fuzzy
 msgctxt "sPASTE_AS_QUOTE"
 msgid "quote copied message"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sPASTE_AS_QUOTE_NOT"
 msgid "paste message as plain text"
@@ -8557,19 +7981,17 @@ msgctxt "sF_MULTICHAT_EDIT_SHOWASTEXT"
 msgid "Show as Plain Text"
 msgstr ""
 
-#, fuzzy
 msgctxt "sOPTIONS_AUDIO_CHECK_SPEAKERS"
 msgid "Check speakers"
-msgstr "Cerca i ajornaments"
+msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_EDIT"
 msgid "Edit"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPFOFILE_HEADER_SAVE"
 msgid "Save"
-msgstr "Salva"
+msgstr ""
 
 msgctxt "sPFOFILE_HEADER_CANCEL"
 msgid "Cancel"
@@ -8627,19 +8049,18 @@ msgctxt "sFLOW_CALL_UNANSWERED_OUT"
 msgid "Call to %s, no answer."
 msgstr "Ciamada a %s, miga de resposta."
 
-#, fuzzy
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
-msgstr "Ciamada persa"
+msgstr ""
 
-#, fuzzy
 msgctxt "sGROUP_CALL_UNANSWERED_OUT"
 msgid "Group call, no answer."
-msgstr "Ciamada a %s, miga de resposta."
+msgstr ""
 
 msgctxt "sF_OPTIONS_CF_ERROR5"
 msgid ""
-"You can't forward calls to a person who hasn't accepted your contact request."
+"You can't forward calls to a person who hasn't accepted your contact "
+"request."
 msgstr ""
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_LONG"
@@ -8682,10 +8103,9 @@ msgid ""
 "replacement service and cannot be used for emergency calling from %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPROFILE_CHANGE_COUNTRY_BUTTON"
 msgid "Change your country/region"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sPROFILE_DEFAULT_LOCATION_BUTTON"
 msgid "Set your country/region"
@@ -8705,15 +8125,13 @@ msgctxt "sSINGLE_WINDOW_MODE_BUTTON_HINT"
 msgid "Default View"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMULTI_WINDOW_MODE_BUTTON_HINT"
 msgid "Compact View"
-msgstr "Vista compata"
+msgstr ""
 
-#, fuzzy
 msgctxt "sPROFILE_HEADER_EMERGENCY_CALL"
 msgid "Emergency Call"
-msgstr "Termina la ciamada"
+msgstr ""
 
 msgctxt "sCALL_LB2_EMERGENCY_DENIED"
 msgid "Emergency calls not supported"
@@ -8739,35 +8157,29 @@ msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
 msgstr "Spediss i contats..."
 
-#, fuzzy
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
-msgstr "Scond la conversazion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_HIDE_CONVERSATION_PROFILE"
 msgid "Hide conversation profile"
-msgstr "Scond la conversazion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_SHOW_CONTACT_PROFILE"
 msgid "Display contact profile"
-msgstr "Ruza qì i to contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_HIDE_CONTACT_PROFILE"
 msgid "Hide contact profile"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_PROFILE_MOODMESSAGE"
 msgid "MoodMessage"
-msgstr "Messaj SMS"
+msgstr ""
 
-#, fuzzy
 msgctxt "sINVITE_HEADING1"
 msgid "Add <b>%s</b> to your contacts"
-msgstr "Jonta ai contats"
+msgstr ""
 
 msgctxt "sINVITE_HEADING2"
 msgid "1 new contact added"
@@ -8826,19 +8238,17 @@ msgctxt "sCHAT_RECEIVED_SINGLE_CONTACT"
 msgid "Contact received from %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_POSTED_SINGLE_CONTACT"
 msgid "Contact sent to %s"
-msgstr "Liste dei contats"
+msgstr ""
 
 msgctxt "sCHAT_RECEIVED_CONTACTS"
 msgid "%d contacts received from %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sHISTORY_FILTER_CONTACTTRANSFERS"
 msgid "Contacts sent and received"
-msgstr "File spedids e ricevuds"
+msgstr ""
 
 msgctxt "sTRAYALERT_CQ_PLAYBACK_ERROR"
 msgid "No speakers detected."
@@ -8860,15 +8270,13 @@ msgctxt "sACC_MYSELF_MOOD_DESCRIPTION"
 msgid "To edit use spacebar"
 msgstr ""
 
-#, fuzzy
 msgctxt "sNOTIF_RECEIVED_SINGLE_CONTACT"
 msgid "New contact: %s"
-msgstr "Mostra i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sNOTIF_RECEIVED_CONTACTS"
 msgid "%d new contacts"
-msgstr "Scond i contats"
+msgstr ""
 
 msgctxt "sCHAT_POSTED_SINGLE_CONTACT_TO_GROUP"
 msgid "Contact sent to the group"
@@ -8910,20 +8318,17 @@ msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPARTICIPANT_CALL_STATE_VMPLAYING"
 msgid "Playing voice message"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sPARTICIPANT_CALL_STATE_VMRECORDED"
 msgid "Recording voice message"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sHOTKEY_ANSWER_WITH_VIDEO"
 msgid "Answer call with video"
-msgstr "Respond cont ol video"
+msgstr ""
 
 msgctxt "INVALID_HOTKEY_TITLE"
 msgid "Invalid hotkeys detected"
@@ -8933,15 +8338,13 @@ msgctxt "INVALID_HOTKEY_WARNING"
 msgid "WinKey cannot be used as a hotkey for %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sUSER_IN_CONTACTS"
 msgid "This user is already in your contact list"
-msgstr "%s l'è miga ind i to contats."
+msgstr ""
 
-#, fuzzy
 msgctxt "sCHATITEM_DESCRIPTION_FROM"
 msgid "From %s"
-msgstr "Ciamada da %s"
+msgstr ""
 
 msgctxt "sCHATITEM_DESCRIPTION_TIMESTAMP"
 msgid "at %s"
@@ -8979,9 +8382,9 @@ msgstr ""
 
 msgctxt "sOPTIONS_LIMITED_EMERGENCY_CALLS2"
 msgid ""
-"Geographical, software version and other limitations apply - see our <a href="
-"\"skype:?go#tos\">Terms of Service</a>. Make alternative emergency service "
-"access arrangements through a traditional telephone service."
+"Geographical, software version and other limitations apply - see our <a "
+"href=\"skype:?go#tos\">Terms of Service</a>. Make alternative emergency "
+"service access arrangements through a traditional telephone service."
 msgstr ""
 
 msgctxt "sBROWSER_OFFLINE_CAPTION"
@@ -9002,30 +8405,25 @@ msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
 msgstr "Inseriss un emoticon"
 
-#, fuzzy
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
-msgstr "%s l'è miga ind i to contats."
+msgstr ""
 
-#, fuzzy
 msgctxt "sSAVE_GROUP_TITLE"
 msgid "Save group in your Contact list"
-msgstr "%s l'è miga ind i to contats."
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_FAILED"
 msgid "Call failed"
-msgstr "Ciama un cellular"
+msgstr ""
 
-#, fuzzy
 msgctxt "sNOTIF_POSTED_SINGLE_CONTACT"
 msgid "Contact sent: %s"
-msgstr "Liste dei contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sNOTIF_POSTED_CONTACTS"
 msgid "%d contacts sent"
-msgstr "Scond i contats"
+msgstr ""
 
 msgctxt "sCALL_TOOLBAR_TECHNICAL_INFO"
 msgid "Call Technical Info"
@@ -9072,33 +8470,29 @@ msgctxt "sSKYACCESS_TRAYMENU_STATUS"
 msgid "View Skype WiFi"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYACCESS_TRAYMENU_CONNECT"
 msgid "Connect"
-msgstr "Adree a coneter-s"
+msgstr ""
 
 msgctxt "sSKYACCESS_TRAYMENU_DISCONNECT"
 msgid "Disconnect"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYACCESS_TRAYMENU_QUIT"
 msgid "Quit Skype WiFi"
-msgstr "Va fœra dal Skype"
+msgstr ""
 
 msgctxt "sSKYACCESS_WARN_QUIT_SKYPE"
 msgid "Quitting Skype will end your Skype WiFi session. Continue?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sALERTS_TITLE"
 msgid "Notifications"
-msgstr "Configurazion dei notifege"
+msgstr ""
 
 msgctxt "sUSERCREATE_NAME_HINT"
 msgid "6-32 characters needed"
@@ -9172,29 +8566,25 @@ msgctxt "sUSERENTRY_GETHELP"
 msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_NOTIF_ALERT"
 msgid "sends me a message"
-msgstr "Spediss un messaj"
+msgstr ""
 
 msgctxt "sOPTIONS_CHAT_OPEN_WHEN_CLOSED"
 msgid "Open a window when I receive a new message"
 msgstr ""
 
-#, fuzzy
 msgctxt "sBUDDYMENU_CALL_TRANSFER"
 msgid "Transfer Call..."
-msgstr "Respond a la Ciamada"
+msgstr ""
 
-#, fuzzy
 msgctxt "sBUDDYMENU_CALL_TRANSFER_OTHER"
 msgid "A different contact..."
-msgstr "Spediss i contats..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TRANSFER_DLG_CAPTION"
 msgid "Transfer a call"
-msgstr "Respond a la ciamada"
+msgstr ""
 
 msgctxt "sCALL_TRANSFER_BTN_TEXT"
 msgid "Transfer"
@@ -9204,10 +8594,9 @@ msgctxt "sCALL_TRANSFER_TO"
 msgid "Select who to transfer <b>%s</b> to"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TRANSFER_ANOTHER_PHONE_NO"
 msgid "Enter another phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sCALL_TRANSFER_ENTER_MESSAGE"
 msgid "Enter a message for the person you are transferring the call to"
@@ -9219,10 +8608,9 @@ msgid ""
 "apply."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TRANSFER_ENTER_PHONE_NO"
 msgid "Enter the phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sCALL_TRANSFER_SELECT_CONTACT"
 msgid "Select a contact from your Contact list"
@@ -9236,19 +8624,17 @@ msgctxt "sCALL_TRANSFER_SELECT_DIFF_CONTACT"
 msgid "Select a different contact"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TRANSFER_ENTER_MSG"
 msgid "Enter a message for %s"
-msgstr "Mostra i messaj de: %s"
+msgstr ""
 
 msgctxt "sCQ_ADJUST_SPEAKERS"
 msgid "Adjust speaker settings"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_ADJUST_MIC"
 msgid "Adjust microphone settings"
-msgstr "Configurazion de l'audio"
+msgstr ""
 
 msgctxt "sCQ_ADJUST_VIDEO"
 msgid "Choose the camera you want to use"
@@ -9286,15 +8672,13 @@ msgctxt "sF_OPTIONS_LB_NOTIFICATIONS_1"
 msgid "Display a notification in the Windows tray when Skype..."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERENTRY_BUTTON_CREATE"
 msgid "Create account"
-msgstr "Crea un cœnt"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERENTRY_BUTTON_AGREE"
 msgid "I agree - create account"
-msgstr "Crea un cœnt"
+msgstr ""
 
 msgctxt "sF_USERENTRY_BUTTON_CONTINUE"
 msgid "OK"
@@ -9328,13 +8712,13 @@ msgstr ""
 
 msgctxt "sF_USERENTRY_HINT4"
 msgid ""
-"Note: only your contacts can see this information. Filling it in is optional."
+"Note: only your contacts can see this information. Filling it in is "
+"optional."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERENTRY_PHONE_HINT"
 msgid "Enter %s's phone number."
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_USERENTRY_PHONE_HINT2"
 msgid "Enter the phone number with country or region code."
@@ -9365,15 +8749,13 @@ msgctxt "sF_USERENTRY_BIRTHDAY"
 msgid "Birthday"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERENTRY_PHONE"
 msgid "Mobile phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERENTRY_PHONE_ERROR"
 msgid "Invalid phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_USERENTRY_EMAIL_OK"
 msgid "Email OK"
@@ -9403,10 +8785,9 @@ msgctxt "sCHAT_HISTORY_12M"
 msgid "1 year"
 msgstr "1 ann"
 
-#, fuzzy
 msgctxt "sCQ_SENDING_VIDEO"
 msgid "Sending video"
-msgstr "G'è un problema con la spedizion"
+msgstr ""
 
 msgctxt "sCQ_RECEIVING_VIDEO"
 msgid "Receiving video"
@@ -9420,15 +8801,13 @@ msgctxt "sF_SEND_CONTACTS_CANCEL_BTN_TEXT"
 msgid "Cancel"
 msgstr "Scancella"
 
-#, fuzzy
 msgctxt "sF_SEND_CONTACTS_DLG_CAPTION"
 msgid "Send contacts"
-msgstr "Spediss i contats..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_SEND_CONTACTS_TO"
 msgid "Send contacts to <b>%s</b>"
-msgstr "Spediss i contats..."
+msgstr ""
 
 msgctxt "sCALL_TOOLBAR_TRANSFERRING"
 msgid "Call is being transferred"
@@ -9454,10 +8833,9 @@ msgctxt "sSKYACCESS_TRAYICON_HINT_CONNECTED"
 msgid "Skype WiFi connected (%s / %s)"
 msgstr ""
 
-#, fuzzy
 msgctxt "sGROUP_CALL_REJECTED_IN"
 msgid "Group call declined."
-msgstr "Ciamada de %s refudada"
+msgstr ""
 
 msgctxt "sAUTH_REQUEST_MSG_HEADER"
 msgid "This person would like to connect with you"
@@ -9475,33 +8853,29 @@ msgctxt "sTASKBAR_MENU_QUIT"
 msgid "Quit Skype"
 msgstr "Va fœra dal Skype"
 
-#, fuzzy
 msgctxt "sTASKBAR_MENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYALERT_AUTH_REQUEST"
 msgid "New contact request"
-msgstr "Mostra i contats"
+msgstr ""
 
 msgctxt "sLIVE_B_FULLSCREEN"
 msgid "Full screen"
 msgstr "Sqerm complet"
 
-#, fuzzy
 msgctxt "sLIVE_B_FULLSCREENEXIT"
 msgid "Exit fullscreen"
-msgstr "Sqerm complet"
+msgstr ""
 
 msgctxt "sLIVE_B_ACTUALSIZE"
 msgid "Actual size"
 msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_B_NONACTUALSIZE"
 msgid "Fit screen"
-msgstr "Sqerm complet"
+msgstr ""
 
 msgctxt "sLIVE_B_SEPARATE"
 msgid "Separate Window"
@@ -9513,9 +8887,9 @@ msgstr ""
 
 msgctxt "sCQ_CANT_DETECT_SOUNDCARD_DESC"
 msgid ""
-"Your computer needs a sound card to make audio calls. Try our <a href="
-"\"skype:?go#help.guides.soundsetupguide\">sound setup guides</a> or plug in "
-"a headset that comes with its own sound card."
+"Your computer needs a sound card to make audio calls. Try our <a "
+"href=\"skype:?go#help.guides.soundsetupguide\">sound setup guides</a> or "
+"plug in a headset that comes with its own sound card."
 msgstr ""
 
 msgctxt "sCQ_CANT_ACCESS_SOUNDCARD_TITLE"
@@ -9528,23 +8902,22 @@ msgid ""
 "restarting your computer to help Skype find your sound card."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_MIC_ON_MUTE_OFF_CALL_TITLE"
 msgid "Your microphone is on mute"
-msgstr "Smorza ol microfen"
+msgstr ""
 
 msgctxt "sCQ_MIC_ON_MUTE_OFF_CALL_DESC"
 msgid ""
 "You need to un-mute your microphone to make a call. Select Automatically "
-"adjust microphone settings on this screen. Then <a href=\"skype:?go#help."
-"guides.soundsetupguide\">check your microphone setup</a> on your computer to "
-"make sure it's not muted in your volume settings."
+"adjust microphone settings on this screen. Then <a "
+"href=\"skype:?go#help.guides.soundsetupguide\">check your microphone "
+"setup</a> on your computer to make sure it's not muted in your volume "
+"settings."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_MIC_ON_MUTE_ON_CALL_TITLE"
 msgid "Check your microphone"
-msgstr "Smorza ol microfen"
+msgstr ""
 
 msgctxt "sCQ_MIC_ON_MUTE_ON_CALL_DESC"
 msgid ""
@@ -9569,10 +8942,9 @@ msgctxt "sCQ_CANT_ADJUST_MIC_ON_CALL_DESC"
 msgid "Say something so Skype can detect your microphone."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_TURN_MIC_UP_TITLE"
 msgid "Turn your microphone up"
-msgstr "Smorza ol microfen"
+msgstr ""
 
 msgctxt "sCQ_TURN_MIC_UP_DESC"
 msgid ""
@@ -9597,8 +8969,8 @@ msgstr ""
 msgctxt "sCQ_MIC_WORKING_CORRECTLY_DESC"
 msgid ""
 "It's worth double-checking your microphone is switched on and correctly "
-"plugged in. Plus check it's not on mute, and that the volume is high enough. "
-"For more help, visit the call quality guide."
+"plugged in. Plus check it's not on mute, and that the volume is high enough."
+" For more help, visit the call quality guide."
 msgstr ""
 
 msgctxt "sCQ_SPEAKERS_ON_MUTE_OFF_CALL_TITLE"
@@ -9607,15 +8979,14 @@ msgstr ""
 
 msgctxt "sCQ_SPEAKERS_ON_MUTE_OFF_CALL_DESC"
 msgid ""
-"You need to unmute your speakers to make a call. Select Automatically adjust "
-"speaker settings on this screen. Then open your computer's volume controls "
+"You need to unmute your speakers to make a call. Select Automatically adjust"
+" speaker settings on this screen. Then open your computer's volume controls "
 "and make sure no devices are muted."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_SPEAKERS_ON_MUTE_ON_CALL_TITLE"
 msgid "Check your speakers"
-msgstr "Cerca i ajornaments"
+msgstr ""
 
 msgctxt "sCQ_SPEAKERS_ON_MUTE_ON_CALL_DESC"
 msgid ""
@@ -9640,9 +9011,9 @@ msgstr ""
 
 msgctxt "sCQ_SPEAKERS_WORKING_CORRECTLY_DESC"
 msgid ""
-"It's worth checking that your speakers are switched on and correctly plugged "
-"in. Plus check they're not on mute, and that the volume is high enough. For "
-"more help, visit the call quality guide."
+"It's worth checking that your speakers are switched on and correctly plugged"
+" in. Plus check they're not on mute, and that the volume is high enough. For"
+" more help, visit the call quality guide."
 msgstr ""
 
 msgctxt "sCQ_CANT_DETECT_WEBCAM_TITLE"
@@ -9652,20 +9023,19 @@ msgstr ""
 msgctxt "sCQ_CANT_DETECT_WEBCAM_DESC"
 msgid ""
 "If you have a webcam, make sure it's plugged in, switched on and you've "
-"installed the latest drivers. Also try plugging it into a different USB port "
-"on your computer, then restart Skype. For more help, go to the call quality "
-"guide."
+"installed the latest drivers. Also try plugging it into a different USB port"
+" on your computer, then restart Skype. For more help, go to the call quality"
+" guide."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_CANT_CONNECT_TO_WEBCAM_TITLE"
 msgid "Skype can't connect to your webcam"
-msgstr "Skype ge la fa miga a coneter-s."
+msgstr ""
 
 msgctxt "sCQ_CANT_CONNECT_TO_WEBCAM_DESC"
 msgid ""
-"Close any other applications that might be using your webcam. You could also "
-"plug your webcam into a different USB port on your computer, then restart. "
+"Close any other applications that might be using your webcam. You could also"
+" plug your webcam into a different USB port on your computer, then restart. "
 "For more help, check the call quality guide."
 msgstr ""
 
@@ -9690,17 +9060,16 @@ msgid ""
 "sure you don't have a bright light or sunny window right behind you."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_CAM_RECV_LOW_TITLE"
 msgid "You're receiving low quality video"
-msgstr "La qualitaa del to video l'è bassa"
+msgstr ""
 
 msgctxt "sCQ_CAM_RECV_LOW_DESC"
 msgid ""
 "This is down to limitations of the other person's webcam, internet "
 "connection or computer speed. Not seeing their video? They should try "
-"turning it off then on again, or plug their webcam into a different USB port "
-"and restarting."
+"turning it off then on again, or plug their webcam into a different USB port"
+" and restarting."
 msgstr ""
 
 msgctxt "sCQ_CAM_SEND_LOW_OFF_CALL_TITLE"
@@ -9709,8 +9078,8 @@ msgstr "La qualitaa del to video l'è bassa"
 
 msgctxt "sCQ_CAM_SEND_LOW_OFF_CALL_DESC"
 msgid ""
-"Your webcam, internet connection or computer speed may be limiting the video "
-"quality you're able to send. Can't see your video? Make sure you've "
+"Your webcam, internet connection or computer speed may be limiting the video"
+" quality you're able to send. Can't see your video? Make sure you've "
 "installed the latest drivers, or plug your webcam into a different USB port "
 "and restart Skype."
 msgstr ""
@@ -9727,10 +9096,9 @@ msgid ""
 "restart."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_CAM_RECV_MEDIUM_TITLE"
 msgid "You're receiving medium quality video"
-msgstr "La qualitaa del to video l'è bassa"
+msgstr ""
 
 msgctxt "sCQ_CAM_RECV_MEDIUM_DESC"
 msgid ""
@@ -9746,8 +9114,8 @@ msgstr "La qualitaa del to video l'è media"
 
 msgctxt "sCQ_CAM_SEND_MEDIUM_OFF_CALL_DESC"
 msgid ""
-"Speed up your computer or internet connection to improve your video or use a "
-"high quality webcam. Can't see your video? Make sure you've installed the "
+"Speed up your computer or internet connection to improve your video or use a"
+" high quality webcam. Can't see your video? Make sure you've installed the "
 "latest drivers, or plug your webcam into a different USB port and restart "
 "Skype."
 msgstr ""
@@ -9774,10 +9142,9 @@ msgid ""
 "plugging their webcam into a different USB port and restarting."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_CAM_SEND_HIGH_OFF_CALL_TITLE"
 msgid "Your video quality is high"
-msgstr "La qualitaa del to video l'è bassa"
+msgstr ""
 
 msgctxt "sCQ_CAM_SEND_HIGH_OFF_CALL_DESC"
 msgid ""
@@ -9786,10 +9153,9 @@ msgid ""
 "webcam into a different USB port and restart Skype."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_CAM_SEND_HIGH_ON_CALL_TITLE"
 msgid "Your video quality is high"
-msgstr "La qualitaa del to video l'è bassa"
+msgstr ""
 
 msgctxt "sCQ_CAM_SEND_HIGH_ON_CALL_DESC"
 msgid ""
@@ -9799,7 +9165,7 @@ msgstr ""
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
 msgid ""
-msgstr ""
+msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
 
 msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
 msgid ""
@@ -9854,8 +9220,8 @@ msgstr ""
 msgctxt "sCQ_YOUR_COMP_SPEED_SLOW_DESC"
 msgid ""
 "Your computer is fast enough to make audio calls and low quality video "
-"calls. You can improve your computer speed by closing any other applications "
-"you have running."
+"calls. You can improve your computer speed by closing any other applications"
+" you have running."
 msgstr ""
 
 msgctxt "sCQ_YOUR_COMP_SPEED_MEDIUM_TITLE"
@@ -9865,8 +9231,8 @@ msgstr ""
 msgctxt "sCQ_YOUR_COMP_SPEED_MEDIUM_DESC"
 msgid ""
 "Your computer is fast enough to make audio calls and medium quality video "
-"calls. You can improve your computer speed by closing any other applications "
-"you have running."
+"calls. You can improve your computer speed by closing any other applications"
+" you have running."
 msgstr ""
 
 msgctxt "sCQ_YOUR_COMP_SPEED_FAST_TITLE"
@@ -9895,8 +9261,8 @@ msgstr ""
 
 msgctxt "sCQ_YOUR_CONNECTION_VERY_SLOW_DESC"
 msgid ""
-"The internet connection between you may be too slow for a good quality call. "
-"Each one of you should close file sharing programs you have open and stop "
+"The internet connection between you may be too slow for a good quality call."
+" Each one of you should close file sharing programs you have open and stop "
 "any downloads or uploads to improve your connection."
 msgstr ""
 
@@ -9906,9 +9272,9 @@ msgstr ""
 
 msgctxt "sCQ_SKYPE_RESTRICTED_WEB_ACCESS_DESC"
 msgid ""
-"Your security firewall might be affecting your calls. Use our <a href="
-"\"skype:?go#help.guide.firewall\">guide to change your firewall settings</a> "
-"or if you're at work, contact your system administrator."
+"Your security firewall might be affecting your calls. Use our <a "
+"href=\"skype:?go#help.guide.firewall\">guide to change your firewall "
+"settings</a> or if you're at work, contact your system administrator."
 msgstr ""
 
 msgctxt "sCQ_RESTRICTED_WEB_ACCESS_TITLE"
@@ -9933,10 +9299,9 @@ msgid ""
 "your connection."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_WEB_CONNECTION_SLOW_TITLE"
 msgid "Your internet connection is slow"
-msgstr "G'è un problema con la conession a l'Internet"
+msgstr ""
 
 msgctxt "sCQ_WEB_CONNECTION_SLOW_DESC"
 msgid ""
@@ -9978,10 +9343,9 @@ msgid ""
 "it is turned off."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_ADJUST_MIC_POS_TITLE"
 msgid "Adjust your microphone position"
-msgstr "Smorza ol microfen"
+msgstr ""
 
 msgctxt "sCQ_ADJUST_MIC_POS_DESC"
 msgid ""
@@ -9989,10 +9353,9 @@ msgid ""
 "headset or move your microphone further away from your mouth."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_TURN_MIC_VOL_DOWN_TITLE"
 msgid "Turn your microphone volume down"
-msgstr "Smorza ol microfen"
+msgstr ""
 
 msgctxt "sCQ_TURN_MIC_VOL_DOWN_DESC"
 msgid ""
@@ -10022,10 +9385,9 @@ msgctxt "sCALL_TRANSFER_FAILED2"
 msgid "You need Skype Credit to call this number"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_NON_VIDEO_CALL_TITLE"
 msgid "Video not available"
-msgstr "Ciamada Video"
+msgstr ""
 
 msgctxt "sCQ_NON_VIDEO_CALL_GEN_DESC"
 msgid "Video isn't supported by this call."
@@ -10049,47 +9411,41 @@ msgctxt "sFLOW_CALLTRANSFER_INCOMING"
 msgid "Call transferred by %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sFLOW_CALLTRANSFER_WITH_IN"
 msgid "Call transferred by %s, duration %s."
-msgstr "Ciamada da %s, durada %s."
+msgstr ""
 
-#, fuzzy
 msgctxt "sFLOW_CALLTRANSFER_REJECTED_IN"
 msgid "Call transferred by %s declined."
-msgstr "Ciamada de %s refudada"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LB_PROGRESS"
 msgid "Checking your Skype Name is available"
 msgstr ""
 
-#, fuzzy
 msgctxt "sTRANSFER_THIS_CALL"
 msgid "Transfer this call"
-msgstr "Respond a la ciamada"
+msgstr ""
 
 msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
 msgid "Failed to log in. Check your Skype Name or password"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sCQ_INDICATOR_SPK_BUTTON_HINT"
 msgid "Speakers"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_INDICATOR_CAM_BUTTON_HINT"
 msgid "Video"
-msgstr "Ciamada Video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_INDICATOR_NET_BUTTON_HINT"
 msgid "Internet connection"
-msgstr "G'è un problema con la conession a l'Internet"
+msgstr ""
 
 msgctxt "sCQ_INDICATOR_CPU_BUTTON_HINT"
 msgid "Computer speed"
@@ -10099,20 +9455,17 @@ msgctxt "sFLOW_CALLTRANSFER_OUTGOING"
 msgid "Call transferred by %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sFLOW_CALLTRANSFER_WITH_OUT"
 msgid "Call transferred by %s, duration %s."
-msgstr "Ciamada da %s, durada %s."
+msgstr ""
 
-#, fuzzy
 msgctxt "sFLOW_CALLTRANSFER_MIDDLEMAN"
 msgid "Call from %s transferred to %s"
-msgstr "Ciamada da %s, durada %s."
+msgstr ""
 
-#, fuzzy
 msgctxt "sFLOW_CALLTRANSFER_MIDDLE_IN"
 msgid "Call from %s transferred to %s, duration %s."
-msgstr "Ciamada da %s (%s), durada %s."
+msgstr ""
 
 msgctxt "sINFORM_UNSUPPORTED_VERSION"
 msgid ""
@@ -10122,8 +9475,8 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CF_ERROR7"
 msgid ""
-"Calls can't be forwarded to the number you entered. Please enter a different "
-"number."
+"Calls can't be forwarded to the number you entered. Please enter a different"
+" number."
 msgstr ""
 
 msgctxt "sHOTKEY_FLOATING"
@@ -10156,10 +9509,9 @@ msgctxt "sCQ_MANUAL_NET_TEST_START"
 msgid "Test now"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_MANUAL_NET_TEST_IN_PROGRESS"
 msgid "Testing..."
-msgstr "Adree a collegar-s..."
+msgstr ""
 
 msgctxt "sCQ_OLD_REMOTE_CLIENT_DESC"
 msgid ""
@@ -10215,26 +9567,24 @@ msgctxt "sUSERCREATE_ERROR_NOFULLNAME"
 msgid "Please fill in your full name"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSMS_FAILED_CHECK"
 msgid "Check number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CALLFORWARD_INFO"
 msgid ""
-"Calls forwarded to a phone number will be charged at <a href=\"skype:?"
-"go#rates\">our rates</a> for calling phones and mobiles or may be included "
-"as part of your subscription"
+"Calls forwarded to a phone number will be charged at <a "
+"href=\"skype:?go#rates\">our rates</a> for calling phones and mobiles or may"
+" be included as part of your subscription"
 msgstr ""
 
 msgctxt "sMAINMENU_VIEW_FULLSCREEN"
 msgid "Full Screen"
 msgstr "Sqerm complet"
 
-#, fuzzy
 msgctxt "sUNBOOKMARK_PROMPT"
 msgid "Remove %s from contacts?"
-msgstr "Scancella dai contats"
+msgstr ""
 
 msgctxt "sUNBOOKMARK_TITLE"
 msgid "Remove Group"
@@ -10248,15 +9598,13 @@ msgctxt "sUNBOOKMARK_MULTIPLE_PROMPT"
 msgid "Remove %d selected groups?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sUNBOOKMARK_MULTIPLE_TITLE"
 msgid "Remove Groups"
-msgstr "Scancella dai contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sUNBOOKMARK_MULTIPLE_CAP"
 msgid "Remove Groups"
-msgstr "Scancella dai contats"
+msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_15"
 msgid "Can't detect webcam. Check your webcam is plugged in properly."
@@ -10282,8 +9630,8 @@ msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_19"
 msgid ""
-"Can't start video. Check your webcam is plugged in properly, and install the "
-"latest drivers."
+"Can't start video. Check your webcam is plugged in properly, and install the"
+" latest drivers."
 msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_20"
@@ -10321,10 +9669,9 @@ msgctxt "sNO_WEBCAM_FORM_CAPTION"
 msgid "Can't detect a webcam"
 msgstr ""
 
-#, fuzzy
 msgctxt "sNO_WEBCAM_FORM_HEADER"
 msgid "Skype can't detect any webcam"
-msgstr "Skype ge la fa miga a coneter-s."
+msgstr ""
 
 msgctxt "sNO_WEBCAM_FORM_BODY_TEXT"
 msgid ""
@@ -10346,8 +9693,8 @@ msgstr "Ciamada video"
 
 msgctxt "sERROR_HINT_VIDEO_24"
 msgid ""
-"Can't start video renderer. Try updating display adapter drivers and DirectX "
-"runtime."
+"Can't start video renderer. Try updating display adapter drivers and DirectX"
+" runtime."
 msgstr ""
 
 msgctxt "sLIVE_GROUP_NOT_ON_CALL"
@@ -10360,20 +9707,17 @@ msgid ""
 "try again a little later."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_UPGRADE_CHECK_FAILED_CAP"
 msgid "Check for updates"
-msgstr "Cerca i ajornaments"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_UPGRADE_CHECK_FAILED_HEADER"
 msgid "Can't check for updates"
-msgstr "Cerca i ajornaments"
+msgstr ""
 
-#, fuzzy
 msgctxt "sMAINMENU_MARK_AS_READ"
 msgid "Mark as Read"
-msgstr "Marca come anc'mò da lejer"
+msgstr ""
 
 msgctxt "sLIVE_CANTSEEYOU"
 msgid ""
@@ -10395,19 +9739,17 @@ msgctxt "sOPTIONS_SMS_STATUS_LB11"
 msgid "This number has already been verified"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMAINMENU_FLAMINGO_OPEN"
 msgid "Facebook Updates"
-msgstr "Cerca i ajornaments"
+msgstr ""
 
 msgctxt "sFLAMINGO_CAPTION"
 msgid "Facebook"
 msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_ADD_NUMBER_SEARCH_TEXT"
 msgid "Add this number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "s_OPTIONS_KEEP_TASKBAR_ICON"
 msgid "Keep Skype in the taskbar while I'm signed in."
@@ -10425,52 +9767,45 @@ msgctxt "sCHAT_MEMBER_CANT_ADD"
 msgid "%s can't be added until they accept your contact request."
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEO_IMAGE_DELETE_MENUITEM"
 msgid "Delete"
-msgstr "Scancella"
+msgstr ""
 
 msgctxt "sVIDEO_IMAGE_NR_OF_PARTICIPANTS"
 msgid "%d participants"
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEO_IMAGE_SET_AS_MY_AVATAR"
 msgid "My picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEO_IMAGE_SEND_TO_MANY"
 msgid "Send to..."
-msgstr "Spediss un File..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEO_IMAGE_SEND_TO_ONE"
 msgid "Send to %s"
-msgstr "Spediss ol file a %s"
+msgstr ""
 
 msgctxt "sVIDEO_IMAGE_WINDOW_TITLE"
 msgid "Snapshots gallery"
 msgstr "Galleria fotografega"
 
-#, fuzzy
 msgctxt "sLIVE_MUTE"
 msgid "Microphone muted"
-msgstr "Quieta ol microfen"
+msgstr ""
 
 msgctxt "sLIVE_ADD_CONTACTS_SHOW"
 msgid "Show"
 msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_ADD_CONTACTS_HIDE"
 msgid "Hide"
-msgstr "Scond"
+msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_SS_SEPARATE_CAPTION"
 msgid "Share screens"
-msgstr "Spartiss i monitor"
+msgstr ""
 
 msgctxt "sLIVE_INVALID_PHONE_NO"
 msgid "%s is not a valid phone number."
@@ -10484,10 +9819,9 @@ msgctxt "sLIVE_CALL_IS_IN_SEPARATE_WINDOW"
 msgid "Call is in a separate window"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMAINMENU_VIEW_HOME"
 msgid "Skype Home"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
 msgctxt "sACCOUNT_PANEL_NO_SUBSCRIPTION"
 msgid "No subscription"
@@ -10515,8 +9849,8 @@ msgstr ""
 
 msgctxt "sPREM_VIDEO_MSG_SG"
 msgid ""
-"You're seeing video on this call because %s has group video calling. <a href="
-"\"skype:?go#groupvideocalling\"> Find out all about it</a>"
+"You're seeing video on this call because %s has group video calling. <a "
+"href=\"skype:?go#groupvideocalling\"> Find out all about it</a>"
 msgstr ""
 
 msgctxt "sPREM_VIDEO_UPRGADE"
@@ -10528,10 +9862,9 @@ msgctxt "sPREM_VIDEO_TOO_MANY_PARTICIPANTS"
 msgid "Video is only supported on calls with up to %d people."
 msgstr ""
 
-#, fuzzy
 msgctxt "sPREM_VIDEO_WEB_WINDOW_CAPTION"
 msgid "Group video calling"
-msgstr "Ciamada video"
+msgstr ""
 
 msgctxt "sPREM_VIDEO_DLG_CAPTION"
 msgid "Introducing group video calling"
@@ -10555,14 +9888,13 @@ msgstr ""
 
 msgctxt "sSEND_MSG_DEFAULT_MSG"
 msgid ""
-"Hi there! I've got group video calling - a great new feature that means you, "
-"me and at least one other person can get together on a video call."
+"Hi there! I've got group video calling - a great new feature that means you,"
+" me and at least one other person can get together on a video call."
 msgstr ""
 
-#, fuzzy
 msgctxt "sHOME_CAPTION"
 msgid "Skype Home"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
 msgctxt "sSEND_MSG_TEXT"
 msgid "Choose who you'd like to call with group video."
@@ -10584,20 +9916,17 @@ msgid ""
 "group video calls again from next month."
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_LOCATION"
 msgid "Location"
-msgstr "Durada"
+msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_CONTACTS"
 msgid "Contacts"
-msgstr "Contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_VOICEMAIL_LINK"
 msgid "Set up voice messaging"
-msgstr "Spediss un messaj a vox"
+msgstr ""
 
 msgctxt "sMYSELF_PROFILE_CALLER_ID_LINK"
 msgid "Set up caller ID"
@@ -10623,10 +9952,9 @@ msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
 msgstr "Cerca"
 
-#, fuzzy
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
-msgstr "Ciamada adree a rivar"
+msgstr ""
 
 msgctxt "sCALL_TOOLBAR_ADD_TO_CONFERENCE_TEXT"
 msgid "Answering this call will put your current call on hold"
@@ -10639,8 +9967,8 @@ msgstr ""
 
 msgctxt "sPREM_VIDEO_MSG_2_SPONSORS"
 msgid ""
-"You're seeing video on this call because %s and %s have group video calling. "
-"<a href=\"skype:?go#groupvideocalling\">Find out all about it</a>"
+"You're seeing video on this call because %s and %s have group video calling."
+" <a href=\"skype:?go#groupvideocalling\">Find out all about it</a>"
 msgstr ""
 
 msgctxt "sPREM_VIDEO_MSG_MANY_SPONSORS"
@@ -10657,10 +9985,9 @@ msgctxt "sCALL_TOOLBAR_SHOW_IM_HINT"
 msgid "Show IM"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_TOOLBAR_HIDE_IM_HINT"
 msgid "Hide IM"
-msgstr "Scond"
+msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_DIALPAD_HINT"
 msgid "Show dial pad"
@@ -10678,10 +10005,9 @@ msgctxt "sPROFILE_PRIVACY_PUBLIC_LONG"
 msgid "Public - visible to everyone on Skype"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPROFILE_PRIVACY_BUDDIES_SHORT"
 msgid "Contacts"
-msgstr "Contats"
+msgstr ""
 
 msgctxt "sPROFILE_PRIVACY_BUDDIES_LONG"
 msgid "Contacts only - visible just to your contacts"
@@ -10711,10 +10037,9 @@ msgctxt "sPROFILE_ADD_EMAIL_LINK"
 msgid "Add another email address"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPROFILE_ACCOUNT_LABEL"
 msgid "Account"
-msgstr "Cœnt..."
+msgstr ""
 
 msgctxt "sMAINMENU_SHOW_HIDDEN_CONV"
 msgid "Show Hidden Conversations"
@@ -10742,15 +10067,13 @@ msgid ""
 "Hidden Conversations from the main menu."
 msgstr ""
 
-#, fuzzy
 msgctxt "sINFO_CONV_HIDE_CAPTION"
 msgid "Show conversations"
-msgstr "Mostra i conversazion scondude"
+msgstr ""
 
-#, fuzzy
 msgctxt "sINFO_CONV_WINDOW_TEXT"
 msgid "Show hidden conversations"
-msgstr "Mostra i conversazion scondude"
+msgstr ""
 
 msgctxt "sINFO_CONV_HIDE_MSG"
 msgid "Don't show this message"
@@ -10780,15 +10103,13 @@ msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
 msgstr "Serra su %s"
 
-#, fuzzy
 msgctxt "sCONTACT_NOTIFICATION"
 msgid "Contact request"
-msgstr "Liste dei contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONTACT_NOTIFICATION_MANY"
 msgid "Contact requests"
-msgstr "Liste dei contats"
+msgstr ""
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_VIDEO_TITLE"
 msgid "The connection between you is too slow for good video."
@@ -10806,15 +10127,13 @@ msgctxt "sCQ_MSG_NET_SLOW_FOR_SS_TEXT"
 msgid "Stop sharing screens for better audio quality."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_MSG_NET_SLOW_FOR_SS_B1"
 msgid "Stop sharing screens"
-msgstr "Ferma la spartizion del monitor"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_MSG_NET_SLOW_FOR_SS_B2"
 msgid "Continue sharing screens"
-msgstr "Ferma la spartizion del monitor"
+msgstr ""
 
 msgctxt "sCQ_MSG_CALL_PROBLEM_TITLE"
 msgid "There's a problem with this call"
@@ -10859,10 +10178,9 @@ msgctxt "sAUTH_REQUEST_EMAIL"
 msgid "<b>%s</b> registered with Skype under the email <b>%s</b>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sNO_CONVERSATIONS"
 msgid "No recent conversations"
-msgstr "Mostra i conversazion scondude"
+msgstr ""
 
 msgctxt "sINBOX_OLDER_THAN_A_WEEK"
 msgid "Older than a week"
@@ -10880,24 +10198,21 @@ msgctxt "sACCOUNT_PANEL_ONE_SUBSCRIPTION"
 msgid "1 subscription"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELFPROFILE_SKYPEIN_LINK"
 msgid "Get a Skype Number"
-msgstr "Nom in su'l Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_CREDIT_LINK"
 msgid "Buy Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sMYSELF_PROFILE_SUBSCRIPTION_LINK"
 msgid "Get a subscription"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_HAS_VOICEMAIL_LINK"
 msgid "Voice messaging is available"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sPREM_VIDEO_NO_SUBS_2"
 msgid "Want to make a group video call?"
@@ -10933,10 +10248,9 @@ msgctxt "sAUTH_REQUEST_COMPANY"
 msgid "<b>%s</b> registered with Skype as an employee of <b>%s</b>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_GROUP_TOO_BIG_TITLE"
 msgid "Too many people on this call"
-msgstr "G'è un problema con quella ciamada qì"
+msgstr ""
 
 msgctxt "sCQ_GROUP_TOO_BIG_DESC"
 msgid ""
@@ -10944,10 +10258,9 @@ msgid ""
 "call and try again."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCT_MUTE_ACC_NAME"
 msgid "Mute"
-msgstr "Microfen disativad"
+msgstr ""
 
 msgctxt "sCT_UNMUTE_ACC_NAME"
 msgid "Unmute"
@@ -10969,19 +10282,17 @@ msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_ASSISTED"
 msgid "Screen Reader Mode"
 msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_MOBILE"
 msgid "(mobile)"
-msgstr "Ciama un cellular"
+msgstr ""
 
 msgctxt "sLIVE_HOME"
 msgid "(home)"
 msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_OFFICE"
 msgid "(office)"
-msgstr "Ciama ofici"
+msgstr ""
 
 msgctxt "sLIVE_PHONE"
 msgid "(phone)"
@@ -10999,17 +10310,16 @@ msgctxt "sCALLPHONES_RATES_SUBSCR_PER"
 msgid "%s for %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_NOT_SPECIFIED"
 msgid "Not specified"
-msgstr "Miga conetud"
+msgstr ""
 
 msgctxt "sSEND_MSG_FOOTER_MSG_3"
 msgid ""
 "You'll need Skype 5.0 or higher to join in.<br/>Get the latest version of "
 "Skype: <a href=\"skype:?go#download\">skype.com/go/download</a><br/>Want to "
-"start your own group video calls? <a href=\"skype:?go#groupvideocalling"
-"\">Find out how</a>."
+"start your own group video calls? <a "
+"href=\"skype:?go#groupvideocalling\">Find out how</a>."
 msgstr ""
 
 msgctxt "sFREE_CALL_INFO"
@@ -11018,13 +10328,14 @@ msgstr ""
 
 msgctxt "sFREE_CALL_WILL_END_SOON"
 msgid ""
-"You have less than 1 minute left. Your free call to a phone number is almost "
-"over. We hope you enjoyed it."
+"You have less than 1 minute left. Your free call to a phone number is almost"
+" over. We hope you enjoyed it."
 msgstr ""
 
 msgctxt "sCREDIT_RUNNING_LOW"
 msgid ""
-"You have less than %d minutes left for this call. Your credit is running low."
+"You have less than %d minutes left for this call. Your credit is running "
+"low."
 msgstr ""
 
 msgctxt "sSUBS_EXPIRES"
@@ -11045,10 +10356,9 @@ msgctxt "sCALLTO_SKYPE_PROMPT_CAP"
 msgid "You are about to make a call."
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_LOCAL_USER_CONNECTING_TITLE"
 msgid "There's a problem with your internet connection"
-msgstr "G'è un problema con quella ciamada qì"
+msgstr ""
 
 msgctxt "sCQ_LOCAL_USER_CONNECTING_DESC"
 msgid ""
@@ -11059,19 +10369,17 @@ msgctxt "sMYSELF_PROFILE_ADD_FULLNAME"
 msgid "Add full name"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_ADD_NUMBER"
 msgid "Add number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sMYSELF_PROFILE_ADD_EMAIL"
 msgid "Add email address"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_ADD_HOMEPAGE"
 msgid "Add homepage"
-msgstr "Jonta persone"
+msgstr ""
 
 msgctxt "sMYSELF_PROFILE_ADD_ABOUTME"
 msgid "Write a few words..."
@@ -11081,10 +10389,9 @@ msgctxt "sMYSELF_PROFILE_ADD_STATE"
 msgid "Add state or province"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PROFILE_ADD_CITY"
 msgid "Add city"
-msgstr "Jonta a la lista"
+msgstr ""
 
 msgctxt "sLIVE_PRICE_FORMAT"
 msgid "%s/min"
@@ -11094,16 +10401,16 @@ msgctxt "sOPTIONS_DISPLAY_AVATARS"
 msgid "Show profile pictures in Contact List"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCQ_CPU_GDI_RENDERING_TITLE"
 msgid "There's a problem with your video"
-msgstr "G'è un problema con quella ciamada qì"
+msgstr ""
 
 msgctxt "sCQ_CPU_GDI_RENDERING_DESC"
 msgid ""
 "To improve your video, make sure that you've updated your graphics card "
-"drivers, and check your computer can support DirectX 9.0c. <a href=\"http://"
-"www.skype.com/go/help.faq.directx\">Get more help with this issue</a>"
+"drivers, and check your computer can support DirectX 9.0c. <a "
+"href=\"http://www.skype.com/go/help.faq.directx\">Get more help with this "
+"issue</a>"
 msgstr ""
 
 msgctxt "sCQ_MESH_PROBLEM_LOCAL_CPU_TITLE"
@@ -11166,8 +10473,8 @@ msgstr ""
 
 msgctxt "sOPTIONS_AD_POLICY"
 msgid ""
-"Allow Microsoft targeted ads, including use of Skype profile age and gender. "
-"<a href=\"skype:?go#legal.privacy\">Learn more</a>"
+"Allow Microsoft targeted ads, including use of Skype profile age and gender."
+" <a href=\"skype:?go#legal.privacy\">Learn more</a>"
 msgstr ""
 
 msgctxt "sADD_CONTACT_LONG"
@@ -11222,20 +10529,17 @@ msgctxt "sSMSPOPUP_DESC_NOCREDIT"
 msgid "You need Skype Credit to send SMS"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYSELF_PANEL_PROF_ACCOUNT"
 msgid "Professional account"
-msgstr "Crea un cœnt"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_CALL_FAILURE_TITLE"
 msgid "Call phones and mobiles"
-msgstr "Ciama un cellular"
+msgstr ""
 
-#, fuzzy
 msgctxt "sF_CALL_FAILURE_HEADER"
 msgid "Call phones and mobiles"
-msgstr "Ciama un cellular"
+msgstr ""
 
 msgctxt "sF_CALL_FAILURE_TEXT1"
 msgid ""
@@ -11243,19 +10547,17 @@ msgid ""
 "Skype. Call anywhere in the world at the same low rates, day or night."
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CALL_FAILURE_TEXT2"
 msgid "Show rates to"
-msgstr "Mostra i contats"
+msgstr ""
 
 msgctxt "sF_CALL_FAILURE_CREDIT_TEXT"
 msgid "Pay As You Go"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_CALL_FAILURE_SUBSCRIPTION_TEXT"
 msgid "Pay monthly"
-msgstr "3 mes"
+msgstr ""
 
 msgctxt "sF_CALL_FAILURE_RATES_PAYG_MINUTE"
 msgid "From %s/min"
@@ -11277,10 +10579,9 @@ msgctxt "sAVATAR_VIEW_ONE_PERSON"
 msgid "%d person"
 msgstr ""
 
-#, fuzzy
 msgctxt "sAVATAR_VIEW_MULTIPLE_PERSONS"
 msgid "%d people"
-msgstr "Jonta persone"
+msgstr ""
 
 msgctxt "sF_OPTIONS_VIDEO_DISABLED"
 msgid "This feature is disabled by your administrator."
@@ -11316,10 +10617,9 @@ msgctxt "sCALLPHONES_RATES_LNK"
 msgid "<a href=\"skype:?go#prices\">See all rates</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALLPHONES_CREDIT_CAPTION"
 msgid "Your Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sCALLPHONES_TBYB_TITLE"
 msgid "Free trial call to a mobile or landline"
@@ -11393,10 +10693,9 @@ msgctxt "sMENU_EDIT_COLUMN_ACCNAME"
 msgid "Edit"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_DROPDOWN_TEXT"
 msgid "More calling options"
-msgstr "Opzion de connession..."
+msgstr ""
 
 msgctxt "sPFOFILE_HEADER_HOST"
 msgid "You are hosting this call"
@@ -11410,15 +10709,14 @@ msgctxt "sMAINMENU_HIDE_FLAMINGO_CONTACTS"
 msgid "Hide Facebook Friends"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALLPHONES_PRO_TITLE"
 msgid "Professional account"
-msgstr "Crea un cœnt"
+msgstr ""
 
 msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
 msgid ""
-"%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">Request more "
-"credit</a>"
+"%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">Request more"
+" credit</a>"
 msgstr ""
 
 msgctxt "sCALLPHONES_PRO_CREDIT_WARNING"
@@ -11447,10 +10745,9 @@ msgctxt "sF_CALL_FAILURE_CREDIT_INFO_LNK"
 msgid "<a href=\"skype:?go#skypecredit\">What's Skype Credit?</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_CONV_VOICEMAIL_RECORDING"
 msgid "Recording voice message %s"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sFLAMINGO_EASY_TO_CONNECT"
 msgid "We've made it easy to message your Facebook friends."
@@ -11482,7 +10779,8 @@ msgstr "Adree a collegar-s..."
 
 msgctxt "sFLAMINGO_OTHER_ERROR"
 msgid ""
-"Your list of friends isn't available right now. Try reconnecting to Facebook."
+"Your list of friends isn't available right now. Try reconnecting to "
+"Facebook."
 msgstr ""
 
 msgctxt "sFLAMINGO_DISABLED"
@@ -11611,7 +10909,8 @@ msgid "Close this window"
 msgstr "Serra su 'sta fenestra qì"
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_TEXT"
-msgid "You haven't saved your changes. Do you still want to close this window?"
+msgid ""
+"You haven't saved your changes. Do you still want to close this window?"
 msgstr ""
 
 msgctxt "sF_CONFIRM_NO_BTN"
@@ -11622,10 +10921,9 @@ msgctxt "sDELETE_VOICEMAIL_ERROR"
 msgid "Please wait a few moments and try deleting the message again."
 msgstr ""
 
-#, fuzzy
 msgctxt "sDELETE_VOICEMAIL_DLG_CAPTION"
 msgid "Voice message not deleted"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
@@ -11635,15 +10933,13 @@ msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
 msgstr ""
 
-#, fuzzy
 msgctxt "sAVATAR_CAPTURE_CHANGE_PICTURE"
 msgid "Change picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
-#, fuzzy
 msgctxt "sPLUS_MENU_ADD_PEOPLE"
 msgid "Add people..."
-msgstr "Jonta persone..."
+msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
@@ -11653,15 +10949,13 @@ msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_TITLE"
 msgid "Share Screens"
-msgstr "Spartizion del monitor..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_OK"
 msgid "Call"
-msgstr "Ciama"
+msgstr ""
 
 msgctxt "sMAINMENU_HIDE_DIALPAD"
 msgid "Hide dial pad"
@@ -11675,33 +10969,29 @@ msgctxt "sMENU_EXTRAS_GET_APPS_CAPTION"
 msgid "Get Apps..."
 msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_PLUS_MENU_ADD_PEOPLE"
 msgid "Add People to This Call..."
-msgstr "Jonta persone..."
+msgstr ""
 
 msgctxt "sOPTIONS_CALL_CONTROLS"
 msgid "Show call controls when Skype is in the background"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_POPUP_CALL_SKYPE_ITEM"
 msgid "Call"
-msgstr "Ciama"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_MONITOR_ON_HOLD"
 msgid "On hold"
-msgstr "Sospend la ciamada"
+msgstr ""
 
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCALL_PHONES"
 msgid "Call phones"
-msgstr "Ciama un telefon"
+msgstr ""
 
 msgctxt "sNEW_ACCOUNT_NOTIFY"
 msgid "New account notification"
@@ -11711,10 +11001,9 @@ msgctxt "sNEW_ACCOUNT_NOTIFY_MANY"
 msgid "New account notifications"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHANGE_SHARING_OPTIONS_HINT"
 msgid "Change sharing options"
-msgstr "Opzion de connession..."
+msgstr ""
 
 msgctxt "sSCRSHARINGSEL_TITLE_SINGLE_DESKTOP"
 msgid "Start sharing your screen with %s"
@@ -11742,8 +11031,8 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SETUP_LABEL3"
 msgid ""
-"Set your profile picture – so friends, family and colleagues can easily find "
-"you."
+"Set your profile picture – so friends, family and colleagues can easily find"
+" you."
 msgstr ""
 
 msgctxt "sGETTING_STARTED_SETUP_BUTTON"
@@ -11782,10 +11071,9 @@ msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_2"
 msgid "Check your speakers are switched on."
 msgstr ""
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_3"
 msgid "Check your volume is turned up."
-msgstr "Ol video l'è smorz"
+msgstr ""
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEMS"
 msgid "<b>Problems with your microphone?</b>"
@@ -11834,21 +11122,19 @@ msgctxt "sGETTING_STARTED_INTRO_CONTENT3"
 msgid "You can easily update your picture later."
 msgstr ""
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_INTRO_ADD_LATER"
 msgid "Add later"
-msgstr "Jonta persone"
+msgstr ""
 
 msgctxt "sGETTING_STARTED_SET_PICTURE_LABEL"
 msgid ""
-"Take a picture of yourself with your webcam, or browse for a picture on your "
-"computer."
+"Take a picture of yourself with your webcam, or browse for a picture on your"
+" computer."
 msgstr ""
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_TAKE_SNAPSHOT_BUTTON"
 msgid "Take a picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sGETTING_STARTED_CHOOSE_FILE_BUTTON"
 msgid "Browse..."
@@ -11892,19 +11178,17 @@ msgctxt "sGETTING_STARTED_CLOSE"
 msgid "Close"
 msgstr "Serra su"
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_SET_PICTURE_TITLE"
 msgid "Set your profile picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sSCREEN_SHARING_CHANGE_SETTINGS"
 msgid "Change screen sharing settings"
 msgstr ""
 
-#, fuzzy
 msgctxt "sFLOW_CALL_REJECTED_OUT"
 msgid "Call to %s, busy."
-msgstr "Ciamada a %s"
+msgstr ""
 
 msgctxt "sHOTKEY_PUSHTOTALK"
 msgid "Toggle mute (Push-to-talk)"
@@ -11934,10 +11218,9 @@ msgid ""
 "their return call or try again later."
 msgstr ""
 
-#, fuzzy
 msgctxt "sFBPLUGIN_INSTALL_FORM_CAPTION"
 msgid "Calling %s"
-msgstr "Adree a ciamar"
+msgstr ""
 
 msgctxt "sFBPLUGIN_INSTALL_BGR_CAPTION"
 msgid "Facebook needs a plugin"
@@ -11967,10 +11250,9 @@ msgctxt "sSTATUSMENU_FLAMINGO"
 msgid "Facebook"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSTATUSMENU_FLAMINGO_SAMEASSKYPE"
 msgid "Same as on Skype"
-msgstr "Derva Skype"
+msgstr ""
 
 msgctxt "sUNNAMED_GROUP"
 msgid "Unnamed group"
@@ -12012,15 +11294,13 @@ msgctxt "sSMS_REPLY_TO_NONE"
 msgid "To receive replies, add a From number"
 msgstr ""
 
-#, fuzzy
 msgctxt "sLIVE_SO_PLUS_BUTTON_HINT"
 msgid "Add participants"
-msgstr "Jonta partecipants nœv, spediss un file o olter"
+msgstr ""
 
-#, fuzzy
 msgctxt "sSO_PLUS_MENU_HINT"
 msgid "Add participants"
-msgstr "Jonta partecipants nœv, spediss un file o olter"
+msgstr ""
 
 msgctxt "sLIVE_CALLING_FLAMINGO"
 msgid "calling on Facebook (Beta)"
@@ -12030,25 +11310,21 @@ msgctxt "sHOTKEY_SNAPSHOT"
 msgid "Take a snapshot during video calls"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSMS_FROM_MORE_OPTIONS"
 msgid "More options"
-msgstr "- Opzion"
+msgstr ""
 
-#, fuzzy
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
-#, fuzzy
 msgctxt "sSMS_FROM_MY_PHONE"
 msgid "My mobile"
-msgstr "Ciama un cellular"
+msgstr ""
 
-#, fuzzy
 msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sSMS_FROM_SKYPE_DISABLED"
 msgid "Skype (not available)"
@@ -12086,10 +11362,9 @@ msgctxt "sF_OPTIONS_SMS_VER_CAPTION"
 msgid "Please verify your mobile number below:"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_USERINFO_AGE_JUST_GOT_NOYEAR"
 msgid "It's %s's birthday today"
-msgstr "Incś al compiss i agn %s"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
@@ -12101,14 +11376,14 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL1"
 msgid ""
-"With automatic updates, Skype will upgrade itself, so you'll always have the "
-"latest version without needing to do anything."
+"With automatic updates, Skype will upgrade itself, so you'll always have the"
+" latest version without needing to do anything."
 msgstr ""
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL2"
 msgid ""
-"You need administrator access to change this setting, which affects everyone "
-"using Skype on this machine."
+"You need administrator access to change this setting, which affects everyone"
+" using Skype on this machine."
 msgstr ""
 
 msgctxt "sF_OPTIONS_UPGRADE_TURN_ON"
@@ -12125,31 +11400,30 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL4"
 msgid ""
-"<a href=\"skype:?go#automaticupdate\">More about Skype and Microsoft Update</"
-"a>"
+"<a href=\"skype:?go#automaticupdate\">More about Skype and Microsoft "
+"Update</a>"
 msgstr ""
 
 msgctxt "sSEND_ONE_CONTACT_CONFIRMATION_TEXT"
 msgid ""
-"Do you want to send %s's contact details to the people in this conversation?"
-"<br /><br />This doesn't add %s to the conversation."
+"Do you want to send %s's contact details to the people in this "
+"conversation?<br /><br />This doesn't add %s to the conversation."
 msgstr ""
 
 msgctxt "sSEND_MANY_CONTACT_CONFIRMATION_TEXT"
 msgid ""
-"Do you want to send these contact details to the people in this conversation?"
-"<br /><br />This doesn't add them to the conversation."
+"Do you want to send these contact details to the people in this "
+"conversation?<br /><br />This doesn't add them to the conversation."
 msgstr ""
 
-#, fuzzy
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
 msgid "&Send contact details"
-msgstr "Spediss i contats..."
+msgstr ""
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
-"Sorry, you can't call %s right now because they're signed into more than one "
-"Skype account linked to Facebook."
+"Sorry, you can't call %s right now because they're signed into more than one"
+" Skype account linked to Facebook."
 msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
@@ -12196,10 +11470,9 @@ msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
 msgstr "Tuts"
 
-#, fuzzy
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sSELECTED_LIST_HINT"
 msgid "Change Contact list"
@@ -12227,8 +11500,8 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_INTRO_DESC"
 msgid ""
-"Get online at public WiFi hotspots and pay only for the minutes you use with "
-"Skype Credit."
+"Get online at public WiFi hotspots and pay only for the minutes you use with"
+" Skype Credit."
 msgstr ""
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT1"
@@ -12297,24 +11570,21 @@ msgid ""
 "the minutes you use with Skype Credit."
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_NOCREDIT_BUTTON"
 msgid "Connect"
-msgstr "Adree a coneter-s"
+msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_NOCREDIT_BUTTON2"
 msgid "Get Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sSKYPEWIFI_NOCREDIT_PRICE"
 msgid "%s per minute"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
 msgid "Buy Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_DESC"
 msgid ""
@@ -12441,10 +11711,9 @@ msgid ""
 "the minutes you use with Skype Credit."
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_READY_BUTTON"
 msgid "Connect"
-msgstr "Adree a coneter-s"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
 msgid "%s per minute"
@@ -12456,27 +11725,25 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
-"By connecting, you agree to the provider's <a href=\"%s\">Terms of Service</"
-"a>."
+"By connecting, you agree to the provider's <a href=\"%s\">Terms of "
+"Service</a>."
 msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_TOS_NOTOS"
 msgid "By connecting, you agree to the provider's Terms of Service"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_CONNECTING_HEADER"
 msgid "Connecting…"
-msgstr "Adree a coneter-s"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_DESC"
 msgid "Please wait, your connection will start momentarily"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_CONNECTING_BUTTON"
 msgid "Connecting…"
-msgstr "Adree a coneter-s"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_PRICE"
 msgid "%s per minute"
@@ -12514,14 +11781,13 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_EXTEND_DESC"
 msgid ""
-"Your Internet connection will time out in {MINUTES_REMAINING} minutes unless "
-"you wish to stay online."
+"Your Internet connection will time out in {MINUTES_REMAINING} minutes unless"
+" you wish to stay online."
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_EXTEND_BUTTON"
 msgid "Stay connected"
-msgstr "Miga Conetud"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_EXTEND_BUTTON_DISCONNECT"
 msgid "Disconnect"
@@ -12547,19 +11813,17 @@ msgctxt "sSKYPEWIFI_FLOATER_REMAINING_ONE"
 msgid "1 minute remaining"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_FLOATER_NOTIME"
 msgid "Connected"
-msgstr "Miga Conetud"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_FLOATER_AVAILABLE"
 msgid "Available"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_FLOATER_CONNECTING"
 msgid "Connecting..."
-msgstr "Adree a collegar-s..."
+msgstr ""
 
 msgctxt "sSKYPEWIFI_FLOATER_EXTEND"
 msgid "Click here to extend your session"
@@ -12580,36 +11844,35 @@ msgid ""
 "fantastic way to browse the internet at public Skype hotspots around the "
 "world, using your Skype Credit as payment. No more fumbling with credit "
 "cards or cumbersome sign up processes when you’re on the move - you can "
-"simply use your Skype Credit to get online. You only pay per minute for what "
-"you use. There’s no need to buy an internet day-pass if all you need is a "
+"simply use your Skype Credit to get online. You only pay per minute for what"
+" you use. There’s no need to buy an internet day-pass if all you need is a "
 "few minutes of access.<br /><br /><b><font size=\"13px\">2. How much does "
 "Skype WiFi cost?</font></b><br/>Skype WiFi prices vary by provider and will "
 "be displayed when you connect to supported hotspots.<br /><br /><b><font "
 "size=\"13px\">3. How do I use Skype WiFi?</font></b><br/>You must first "
-"connect to a Skype network in a public hotspot. If the hotspot is supported, "
-"you will be prompted to use your Skype Credit to pay for Internet access on "
-"a per-minute-basis.<br /><br /><b><font size=\"13px\">4. How does Skype WiFi "
-"work?</font></b><br/>Once you click “Connect”, Skype WiFi reserves enough "
-"credit for up to 30 minutes use. You will only pay for what you use, so if "
-"you connect for 10 minutes, you’ll only pay for 10 minutes and your "
-"remaining credits will be available in your Skype Credit account.<br /><br /"
-"><b><font size=\"13px\">5. I’m connected, now what?</font></b><br/>Once you "
-"connect with Skype WiFi you use your device as normal. You can check your "
+"connect to a Skype network in a public hotspot. If the hotspot is supported,"
+" you will be prompted to use your Skype Credit to pay for Internet access on"
+" a per-minute-basis.<br /><br /><b><font size=\"13px\">4. How does Skype "
+"WiFi work?</font></b><br/>Once you click “Connect”, Skype WiFi reserves "
+"enough credit for up to 30 minutes use. You will only pay for what you use, "
+"so if you connect for 10 minutes, you’ll only pay for 10 minutes and your "
+"remaining credits will be available in your Skype Credit account.<br /><br "
+"/><b><font size=\"13px\">5. I’m connected, now what?</font></b><br/>Once you"
+" connect with Skype WiFi you use your device as normal. You can check your "
 "email, surf the web or run apps that need data connectivity. For your "
 "convenience, we’ll count down the minutes. This way you can see how much "
-"time you have remaining to stay online.<br /><br /><b><font size=\"13px\">6. "
-"What happens if I forget to disconnect?</font></b><br/>For your protection, "
-"Skype WiFi will time-out after 30 minutes.</font><br />"
+"time you have remaining to stay online.<br /><br /><b><font size=\"13px\">6."
+" What happens if I forget to disconnect?</font></b><br/>For your protection,"
+" Skype WiFi will time-out after 30 minutes.</font><br />"
 msgstr ""
 
 msgctxt "sSKYPEWIFI_FAQ_BUTTON_CLOSE"
 msgid "Close"
 msgstr "Serra su"
 
-#, fuzzy
 msgctxt "sDELETE_THIS_VOICEMAIL_HINT"
 msgid "Delete this voice message"
-msgstr "Messaj a vox"
+msgstr ""
 
 msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
@@ -12617,34 +11880,29 @@ msgid ""
 "\"All\""
 msgstr ""
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
-msgstr "Ol video l'è smorz"
+msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADING"
 msgid "Sending"
-msgstr "Spediss"
+msgstr ""
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_FAILED"
 msgid "Video message not sent"
-msgstr "Messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_DELETED"
 msgid "Video message removed"
-msgstr "Messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_STATUS_TEXT_EXPIRED"
 msgid "Video message expired"
-msgstr "Messaj video"
+msgstr ""
 
 msgctxt "sVIDEOMSG_LEGACY_MESSAGE"
 msgid ""
@@ -12652,10 +11910,9 @@ msgid ""
 "<a href=\"%1\">watch your video message here</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_DEFAULT_TITLE"
 msgid "You've got a video message"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
 msgctxt "sVIDEOMSG_MESSAGES_REMAINING"
 msgid ""
@@ -12676,10 +11933,9 @@ msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
 msgid "Sorry, this video message is unavailable."
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_TITLE"
 msgid "Video Message Unavailable"
-msgstr "Messaj video"
+msgstr ""
 
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
@@ -12713,24 +11969,21 @@ msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
 msgstr ""
 
-#, fuzzy
 msgctxt "sSEND_SMS_TARGET_MENU_TITLE"
 msgid "Send SMS to"
-msgstr "Spediss un SMS"
+msgstr ""
 
-#, fuzzy
 msgctxt "sSEND_SMS_REPLYTO_TITLE"
 msgid "Reply to %s"
-msgstr "Ciamada a %s"
+msgstr ""
 
 msgctxt "sSEND_SMS_REPLYTO_PROPOSE_MOBILE_VERIFICATION"
 msgid "Receive replies on your mobile"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCONTACT_PROFILE_ADD_PHONE_TO"
 msgid "Add a number for %s"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sCONTACT_GROUP_MESSENGER"
 msgid "Messenger"
@@ -12746,8 +11999,8 @@ msgstr ""
 msgctxt "sOPTIONS_ALLOW_DATA_COLLECTION2"
 msgid ""
 "The reports may contain your Skype ID and/or Microsoft account ID, but we "
-"will not use it to identify you or contact you. <a href=\"skype:?go#privacy"
-"\">Learn More</a>"
+"will not use it to identify you or contact you. <a "
+"href=\"skype:?go#privacy\">Learn More</a>"
 msgstr ""
 
 msgctxt "sLIVE_LOGIN_BACK"
@@ -12774,10 +12027,9 @@ msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE2"
 msgid "If you wanted a line break use CTRL+ENTER."
 msgstr ""
 
-#, fuzzy
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_SENDNOW"
 msgid "Send"
-msgstr "Spediss"
+msgstr ""
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_NOTYET"
 msgid "Cancel"
@@ -12785,32 +12037,29 @@ msgstr "Scancella"
 
 msgctxt "sSMS_VERIFY_NUMBER_PROMPT"
 msgid ""
-"To send SMS to this number, you need to <a href=\"skype:?options#sms"
-"\">verify your mobile number</a>."
+"To send SMS to this number, you need to <a "
+"href=\"skype:?options#sms\">verify your mobile number</a>."
 msgstr ""
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
 msgstr ""
 
-#, fuzzy
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER"
 msgid "Add number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sADD_PHONES_FORM_ADD_NAME"
 msgid "Add name"
-msgstr "Jonta un contat"
+msgstr ""
 
 msgctxt "sADD_PHONES_FORM_NUMBER"
 msgid "Number"
 msgstr ""
 
-#, fuzzy
 msgctxt "sADD_PHONES_FORM_NAME"
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 msgctxt "sADD_PHONES_FORM_TYPE"
 msgid "Type"
@@ -12822,8 +12071,8 @@ msgstr ""
 
 msgctxt "sMSN_UPSELL_PANEL_MESSAGE"
 msgid ""
-"%s isn’t using Skype. Help them download it now. <a href=\"x\">Learn more.</"
-"a>"
+"%s isn’t using Skype. Help them download it now. <a href=\"x\">Learn "
+"more.</a>"
 msgstr ""
 
 msgctxt "sMSN_UPSELL_PANEL_POPUP_MESSAGE"
@@ -12862,30 +12111,27 @@ msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
 msgid "No results for %s"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSTATUS_UNKNOWN2"
 msgid "This person isn't in your Contact list."
-msgstr "%s l'è miga ind i to contats."
+msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_CONTENT_ACC_TYPING"
 msgid "%s is typing"
-msgstr "%s l'è miga in linia"
+msgstr ""
 
 msgctxt "sQUICK_FILTER_ADD_SKYPEOUT"
 msgid ""
-"<a href=\"skype:?show_add_phone&number=%s\">Save phone number</a> or<a href="
-"\"skype:%s?call\"> call phone number</a>"
+"<a href=\"skype:?show_add_phone&number=%s\">Save phone number</a> or<a "
+"href=\"skype:%s?call\"> call phone number</a>"
 msgstr ""
 
 msgctxt "sQUICK_FILTER_ADD_SKYPE"
 msgid "Search all people on Skype"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_SKYPE"
 msgid "Skype"
-msgstr "Ciamada Skype"
+msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_SMS"
 msgid "SMS"
@@ -12927,10 +12173,9 @@ msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
 msgid "via <a href=\"x\">Lync</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
-msgstr "Va fœra dal Skype"
+msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SMS"
 msgid "Switch to SMS"
@@ -12956,10 +12201,9 @@ msgctxt "sSEND_SMS_FROM_SKYPE_STATUS"
 msgid "Send SMS from Skype"
 msgstr ""
 
-#, fuzzy
 msgctxt "sGETTING_STARTED_INTRO_CAPTION2"
 msgid "Set your profile picture"
-msgstr "Cambia la to fotografia"
+msgstr ""
 
 msgctxt "sGETTING_STARTED_INTRO_CONTENT4"
 msgid ""
@@ -12982,23 +12226,22 @@ msgstr ""
 
 msgctxt "sBROWSER_ERROR_ACCOUNT"
 msgid ""
-"If you are connected to the internet, <a href=\"skype:?go&sso=1#myaccount"
-"\">click here</a> to connect to your account."
+"If you are connected to the internet, <a "
+"href=\"skype:?go&sso=1#myaccount\">click here</a> to connect to your "
+"account."
 msgstr ""
 
-#, fuzzy
 msgctxt "sMIC_WEBWINDOW_TITLE"
 msgid "Account"
-msgstr "Cœnt..."
+msgstr ""
 
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
 msgstr ""
 
-#, fuzzy
 msgctxt "sCHAT_SEND_HINT"
 msgid "Send"
-msgstr "Spediss"
+msgstr ""
 
 msgctxt "sPARTICIPANTS_HAVE_NO_NUMBER_STATUS"
 msgid "You can only send an SMS to people with saved numbers."
@@ -13014,15 +12257,13 @@ msgid ""
 "Facebook."
 msgstr ""
 
-#, fuzzy
 msgctxt "sSEND_CONTACT_REQUEST"
 msgid "Send %s a contact request"
-msgstr "Spediss i contats..."
+msgstr ""
 
-#, fuzzy
 msgctxt "sMYINFO_PREMIUM_ACCOUNT"
 msgid "Premium account"
-msgstr "Crea un cœnt"
+msgstr ""
 
 msgctxt "sMYINFO_MANAGE_PREMIUM_ACCOUNT"
 msgid "Manage Premium"
@@ -13038,16 +12279,15 @@ msgctxt "sMYINFO_CREDIT"
 msgid "Credit"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYINFO_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sMYINFO_BUY_SKYPE_CREDIT"
 msgid ""
 "Call who you want, when you want<br/>• Call mobiles and landlines "
-"worldwide<br/>• Send text messages and access WiFi hotspots<br/><a href=\"%s"
-"\">Add Skype Credit</a>"
+"worldwide<br/>• Send text messages and access WiFi hotspots<br/><a "
+"href=\"%s\">Add Skype Credit</a>"
 msgstr ""
 
 msgctxt "sMYINFO_SUBSCRIPTIONS"
@@ -13068,10 +12308,9 @@ msgid ""
 "commitments<br/><a href=\"%s\">Get a subscription</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage account"
-msgstr "Crea un cœnt"
+msgstr ""
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
@@ -13141,10 +12380,9 @@ msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
 msgid "select type of number"
 msgstr ""
 
-#, fuzzy
 msgctxt "sACC_CONTACT_PHONE_EDIT_ENTER_NUMBER_HINT"
 msgid "enter number"
-msgstr "Setember"
+msgstr ""
 
 msgctxt "sCONVERSATION_PASSPORT_PARTNER_BLOCKED_LINK"
 msgid ""
@@ -13156,24 +12394,21 @@ msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
 msgstr ""
 
-#, fuzzy
 msgctxt "sHIDE_FULL_PROFILE"
 msgid "Hide full profile"
-msgstr "Varda ol profil"
+msgstr ""
 
-#, fuzzy
 msgctxt "sPROFILE_ACCOUNTS"
 msgid "Accounts"
-msgstr "Cœnt..."
+msgstr ""
 
 msgctxt "sPROFILE_MANAGE"
 msgid "Manage"
 msgstr ""
 
-#, fuzzy
 msgctxt "sTOPUP_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
-msgstr "Crompa credit per ol Skype..."
+msgstr ""
 
 msgctxt "sTOPUP_INTRO_PARAGRAPH"
 msgid ""
@@ -13181,10 +12416,9 @@ msgid ""
 "Auto-recharge so you never run low again."
 msgstr ""
 
-#, fuzzy
 msgctxt "sTOPUP_LOADING"
 msgid "Loading..."
-msgstr "Adree a collegar-s..."
+msgstr ""
 
 msgctxt "sTOPUP_PAYING"
 msgid "Paying with:"
@@ -13218,8 +12452,8 @@ msgstr ""
 
 msgctxt "sTOPUP_GENERIC_ERROR"
 msgid ""
-"Sorry, we couldn't complete your payment. Please check your payment settings "
-"and try again."
+"Sorry, we couldn't complete your payment. Please check your payment settings"
+" and try again."
 msgstr ""
 
 msgctxt "sTOPUP_GENERIC_ERROR_BUTTON"
@@ -13266,10 +12500,9 @@ msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
 msgstr ""
 
-#, fuzzy
 msgctxt "sF_OPTIONS_RB_3"
 msgid "send message"
-msgstr "Spediss un messaj"
+msgstr ""
 
 msgctxt "sF_OPTIONS_RB_4"
 msgid "insert line break"
@@ -13334,8 +12567,8 @@ msgstr ""
 msgctxt "sERROR_HINT_VIDEO_SSE2_TEXT"
 msgid ""
 "We've improved video calling, but unfortunately your computer doesn't "
-"support our latest version.<br/><br/>Don't worry, we have another version so "
-"you can still make video calls."
+"support our latest version.<br/><br/>Don't worry, we have another version so"
+" you can still make video calls."
 msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_SSE2_LINK"
@@ -13376,14 +12609,13 @@ msgstr ""
 
 msgctxt "sOPTIONS_HIDE_IP_ADDRESS_HINT"
 msgid ""
-"When you call someone who isn't a contact, we'll keep your IP address hidden."
-"<br/><br/>This may delay your call setup time."
+"When you call someone who isn't a contact, we'll keep your IP address "
+"hidden.<br/><br/>This may delay your call setup time."
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_DOWNLOAD_HINT"
 msgid "Download video message"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
 msgctxt "sVIDEOMSG_BACK_HINT"
 msgid "Go back to chat"
@@ -13393,10 +12625,9 @@ msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
 msgid "Close"
 msgstr "Serra su"
 
-#, fuzzy
 msgctxt "sVIDEOMSG_SEND"
 msgid "Send video message"
-msgstr "Spediss un messaj video"
+msgstr ""
 
 msgctxt "sCALL_LYNC"
 msgid "Lync"
@@ -13406,15 +12637,13 @@ msgctxt "sCALL_POPUP_LYNC"
 msgid "Lync"
 msgstr ""
 
-#, fuzzy
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
-#, fuzzy
 msgctxt "sADD_PHONE_NUMBER_CAPTION"
 msgid "Save a phone number"
-msgstr "Jonta un numer de telefon"
+msgstr ""
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
@@ -13436,15 +12665,13 @@ msgctxt "sCQ_VIDEO_MESSAGE_DESC"
 msgid "To see your camera, close your video message first."
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
-msgstr "Spediss un messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sAC_SEND_REQ"
 msgid "%s is not in your Contacts"
-msgstr "%s l'è miga ind i to contats."
+msgstr ""
 
 msgctxt "sAC_RESEND_REQ"
 msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
@@ -13454,10 +12681,9 @@ msgctxt "sAC_ACCEPT_REQ"
 msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
 msgstr ""
 
-#, fuzzy
 msgctxt "sAC_REQ_SENT"
 msgid "Contact request sent"
-msgstr "Liste dei contats"
+msgstr ""
 
 msgctxt "sAC_UNBLOCK"
 msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
@@ -13503,24 +12729,21 @@ msgctxt "sVIDEOMSG_LOOKING_GOOD_DESC"
 msgid "Hit record when you're ready."
 msgstr ""
 
-#, fuzzy
 msgctxt "DECLINE_POPUP_CAPTION"
 msgid "Decline contact request"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "DECLINE_POPUP_BLOCK_CAPTION"
 msgid "Block"
-msgstr "Blocad"
+msgstr ""
 
 msgctxt "DECLINE_POPUP_SPAM_CAPTION"
 msgid "Report as spam"
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_SEND_CAPTION"
 msgid "Send video message"
-msgstr "Spediss un messaj video"
+msgstr ""
 
 msgctxt "sVIDEOMSG_CANCEL_CAPTION"
 msgid "Cancel"
@@ -13534,10 +12757,9 @@ msgctxt "sECHO_DISPLAY_NAME"
 msgid "Echo/Sound Test Service"
 msgstr ""
 
-#, fuzzy
 msgctxt "sTASKBAR_MENU_SIGN_OUT"
 msgid "Sign Out"
-msgstr "Va fœra"
+msgstr ""
 
 msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
 msgid "recording a video message or sharing screens"
@@ -13551,49 +12773,41 @@ msgctxt "sVIDEOMSG_STOP_RECORD_CAPTION"
 msgid "Stop recording"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPREM_VIDEO_MESSAGE_WEB_WINDOW_CAPTION"
 msgid "Video messaging"
-msgstr "Messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
 msgid "sends me a video message"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sTRAYALERT_VIDEO_MESSAGE"
 msgid "New video message"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UNAVAILABLE"
 msgid "Video message is unavailable"
 msgstr ""
 
-#, fuzzy
 msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
 msgid "Send video message..."
-msgstr "Spediss un messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sCONVERSATION_VIDEO_MESSAGE"
 msgid "New video message"
-msgstr "Scolta ol messaj video"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_MYSELF_HEADER"
 msgid "Me"
-msgstr "Mas'c"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_QF"
 msgid "Search"
-msgstr "Cerca"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_CONVERSATIONS"
 msgid "Conversations"
-msgstr "Conversazion"
+msgstr ""
 
 msgctxt "sACC_NAME_COMMUNICATOR"
 msgid "Application access"
@@ -13603,44 +12817,37 @@ msgctxt "sACC_NAME_PARTNER_BUTTONS"
 msgid "Partner"
 msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_CONTACTS_TAB"
 msgid "All contacts"
-msgstr "Scond i contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_CONVERSATION_LIST"
 msgid "Contacts"
-msgstr "Contats"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_CONVERSATIONS_TAB"
 msgid "All recent messages"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_INBOX_LIST"
 msgid "Recent messages"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_CONVERSATION_FAVORITE"
 msgid "Favorite"
-msgstr "Preferids"
+msgstr ""
 
 msgctxt "sACC_NAME_ONLINE_STATUS"
 msgid "%0:s, select to change status"
 msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
 msgid "Hide message"
-msgstr "Messaj a vox"
+msgstr ""
 
-#, fuzzy
 msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
 msgid "All %0:s contacts"
-msgstr "Jonta un contat"
+msgstr ""
 
 msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
 msgid "All %0:s"
@@ -13650,10 +12857,9 @@ msgctxt "sVIDEOMSG_UPSELL"
 msgid "Would you like to leave a video message?"
 msgstr ""
 
-#, fuzzy
 msgctxt "sVIDEOMSG_UPSELL_BUTTON"
 msgid "Video message"
-msgstr "Messaj video"
+msgstr ""
 
 msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
 msgid "Clear search input"
@@ -13667,10 +12873,9 @@ msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
 msgid "You're online with Skype WiFi"
 msgstr ""
 
-#, fuzzy
 msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
 msgid "Connection expires soon"
-msgstr "Opzion de connession..."
+msgstr ""
 
 msgctxt "sSKYPEWIFI_LESS_THAN_MINUTE"
 msgid ""

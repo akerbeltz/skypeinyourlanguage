@@ -1,18 +1,19 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
+# mirontoli <mirontoli@gmail.com>, 2014
 # pentile <pentile@ya.ru>, 2013
 # pentile <pentile@ya.ru>, 2013
 # Дима <rastamaf@gmail.com>, 2013
 # Дима <rastamaf@gmail.com>, 2013
-# Дима <rastamaf@gmail.com>, 2013
+# Дима <rastamaf@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-11-20 10:55+0000\n"
-"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"PO-Revision-Date: 2014-02-21 06:47+0000\n"
+"Last-Translator: Дима <rastamaf@gmail.com>\n"
 "Language-Team: Chuvash (http://www.transifex.com/projects/p/skype-translation-project/language/cv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -248,7 +249,7 @@ msgstr "© 2003-2012 Skype and/or Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
-msgstr ""
+msgstr "Çĕршывсем хушшинчи саккунсемпе хӳтеленĕ. "
 
 msgctxt "sF_USERPROFILE_LB_FULLNAME"
 msgid "Full name"
@@ -360,21 +361,21 @@ msgctxt "sF_ABOUT_WARNING_1"
 msgid ""
 "Warning: This program is protected by copyright law and international "
 "treaties."
-msgstr ""
+msgstr "Асăрха: ку программа копирайт саккунĕпе те çĕршывсем хушшинчи килĕштерӳсемпе хӳтĕленĕ."
 
 msgctxt "sF_ABOUT_WARNING_2"
 msgid ""
 "Unauthorized reproduction or distribution of this program, or any portions "
 "of it, may result in severe civil and criminal penalties, and will be "
 "prosecuted to the maximum extent possible under the law."
-msgstr ""
+msgstr "Ирĕк паман программăна ăтнипе саратни штрафлама пултарать."
 
 msgctxt "sF_ABOUT_VERSION"
 msgid ""
 "Unauthorized reproduction or distribution of this program, or any portions "
 "of it, may result in severe civil and criminal penalties, and will be "
 "prosecuted to the maximum extent possible under the law."
-msgstr ""
+msgstr "Ирĕк паман программăна ăтнипе саратни штрафлама пултарать."
 
 msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
@@ -512,7 +513,7 @@ msgstr "Кĕме сăмаха улăштар"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid.  Please try again."
-msgstr ""
+msgstr "Скайпри кĕме сăмахуна палламан. Тĕрĕслесе тепре хăтланса пăх."
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
@@ -522,7 +523,7 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT8"
 msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
-msgstr ""
+msgstr "Ăнăçу! Вăрттăн сăмах улăштарнă. Тепре скайпа кĕнĕ чух çĕнĕ вăрттăн сăмах усă кур."
 
 msgctxt "sF_SEND_CONTACTS_TEXT1"
 msgid "Send contacts to other people on Skype"
@@ -576,7 +577,7 @@ msgstr "Юрăхсăр порт"
 
 msgctxt "sF_OPTIONS_CONNDATA_CHANGED"
 msgid "Your changes will be applied the next time you start Skype"
-msgstr ""
+msgstr "Улшăнусем Скайп çĕнĕрен тапратнă чух курма пулать."
 
 msgctxt "sF_OPTIONS_SOUNDDEVICESETTING_FAILED"
 msgid "Your sound devices aren't working. Please check your settings."
@@ -622,17 +623,17 @@ msgstr "Акăлчанла"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
-msgstr ""
+msgstr "Васкавлă номерсене суйласа ил"
 
 msgctxt "sF_SPEEDDIAL_LABEL"
 msgid "Enter new speed dial number for %s"
-msgstr ""
+msgstr "%s валли çĕнĕ васкавлă номер кĕрт"
 
 msgctxt "sF_SPEEDDIAL_DUPLICATE"
 msgid ""
 "Speed dial number &lt;%s&gt; is already used for %s. Please choose another "
 "number."
-msgstr ""
+msgstr "&lt;%s&gt; васкавлă номерĕ %s валли усă курнă ĕнтĕ. Урăх номер суйласа ил, тархасшăн."
 
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
@@ -744,7 +745,7 @@ msgstr "Чарса хунă"
 
 msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
-msgstr ""
+msgstr "(усă куракан кĕртнĕ)"
 
 msgctxt "s_MAINMENU_TOOLS_LOADLANG"
 msgid "Load Skype Language File..."
@@ -774,7 +775,7 @@ msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE"
 msgid ""
 "The language file has been modified since last save. Do you want to exit "
 "without saving the changes?"
-msgstr ""
+msgstr "Юлашки çырса хурнă хыççăн чĕлхе файлĕ улăштарнă. Улăштарусене пăрăхăçласа тухасшăн-и?"
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
@@ -834,7 +835,7 @@ msgstr ""
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
-msgstr ""
+msgstr "Ху çав çына чарнине кура унпа калаçаймастăн."
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
@@ -904,7 +905,7 @@ msgctxt "sLANGUAGE_ERROR"
 msgid ""
 "Error %s|Skype can't load custom language file. Please make sure it is a "
 "valid Skype language file, and try again."
-msgstr ""
+msgstr "%s йăнăш | Скайп чĕлхе файлне вулаймасть. Тĕрĕсле вара тепре хăтланса пăх."
 
 msgctxt "sLANGUAGE_ERROR_TITLE"
 msgid "Error"
@@ -2949,7 +2950,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB9"
 msgid "Sorry, the number failed. Please try again."
-msgstr ""
+msgstr "Шел, номĕрĕ ĕçлеместь. Тепре хăтланса пăх."
 
 msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
@@ -3283,7 +3284,7 @@ msgstr "Эсĕ чăн та малалла тăсасшăн-и?"
 
 msgctxt "sF_CONFIRM_COUNTRY_LBL3"
 msgid "Change country code for this call:"
-msgstr ""
+msgstr "Шăнкăравăн çĕршыв улăштар:"
 
 msgctxt "sF_OPTIONS_NOTIF_BIRTHDAY"
 msgid "has a birthday"
@@ -3898,7 +3899,7 @@ msgid ""
 "The phone number you tried to add was not entered correctly. You must select"
 " the country and then enter the number you wish to add. Example: Select "
 "United Kingdom and enter 020 5555 1212"
-msgstr ""
+msgstr "Хушнă телефон нумерĕ тĕрĕс мар. Çĕршыв суйла, ун хыççăн хушмалли нумер кĕрт. Тĕслĕхрен: Аслă Британи суйла тата 020 5555 1212 кĕрт"
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
@@ -4190,7 +4191,7 @@ msgctxt "sERROR_HINT_VIDEO_14"
 msgid ""
 "Can't start video. Try closing other programs that might be using your "
 "webcam."
-msgstr ""
+msgstr "Видео пуçланаймасть. Видео усă куракан урăх программисене хупса пăх."
 
 msgctxt "sERROR_HINT_9502"
 msgid ""
@@ -6315,7 +6316,7 @@ msgstr "Тат"
 
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
-msgstr ""
+msgstr "Курăмлă шăнкăрав"
 
 msgctxt "sZAPBUTTON_RERECORDVIDM"
 msgid "Re-record message"
@@ -6333,7 +6334,7 @@ msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
 "Can't open Skype. You are already signed in on this computer. Please sign "
 "out and try again."
-msgstr ""
+msgstr "Скайпа çĕклейместпĕр. Ку компьютерта эсĕ кĕнĕ пулмалла ĕнтĕ. Тухса тепре хăтланса пăх, тархасшăн."
 
 msgctxt "sZAPCONTACT_PHONE"
 msgid "Phone"
@@ -9838,7 +9839,7 @@ msgstr "%d çырăнусем"
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT"
 msgid "Add Contact"
-msgstr ""
+msgstr "Çыхăну хуш"
 
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
@@ -11726,7 +11727,7 @@ msgstr "%s минутра"
 
 msgctxt "sSKYPEWIFI_READY_FREE"
 msgid "FREE"
-msgstr ""
+msgstr "Тÿлевсĕр"
 
 msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
@@ -11820,7 +11821,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_FLOATER_NOTIME"
 msgid "Connected"
-msgstr ""
+msgstr "Çыхăннă"
 
 msgctxt "sSKYPEWIFI_FLOATER_AVAILABLE"
 msgid "Available"
@@ -11891,7 +11892,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADING"
 msgid "Sending"
-msgstr ""
+msgstr "Яратпăр"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
@@ -12072,7 +12073,7 @@ msgstr ""
 
 msgctxt "sSMS_FAILED_BUY_CREDIT"
 msgid "<a href=\"skype:?payments\">Buy Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments>Скайпри сума ÿстер</a>"
 
 msgctxt "sMSN_UPSELL_PANEL_MESSAGE"
 msgid ""
@@ -12397,7 +12398,7 @@ msgstr ""
 
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
-msgstr ""
+msgstr "Тулли харпăр пĕлтерÿ кăтарт"
 
 msgctxt "sHIDE_FULL_PROFILE"
 msgid "Hide full profile"
@@ -12539,7 +12540,7 @@ msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
 msgid ""
 "The WiFi network you're connected to is not responding correctly. Try "
 "connecting to a different network."
-msgstr ""
+msgstr "Çаклатнă WiFi тетелĕ тĕрĕс хуравламасть. Урăх тетеле çаклатса пăх."
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_CONNECT"
 msgid ""
@@ -12698,19 +12699,19 @@ msgctxt "sVIDEOMSG_ERROR_START_DEVICE"
 msgid ""
 "Your camera or microphone is already in use.<br/>Please close any app or "
 "Skype chat that might be using it, then try again."
-msgstr ""
+msgstr "Камера е микрофон урăх программăра усă курнă пулмалла ĕнтĕ. Çав программăна хупса пăх, тархасшăн."
 
 msgctxt "sVIDEOMSG_ERROR_NO_CAM"
 msgid ""
 "You need a camera to record video messages.<br/>Please check your camera is "
 "connected and try again."
-msgstr ""
+msgstr "Видео çырса илес тесен камера кирлĕ,<br/> вăл тапратнине тĕрĕсле те тепре хăтланса пăх."
 
 msgctxt "sVIDEOMSG_ERROR_UNKNOWN"
 msgid ""
 "Oops, something went wrong.<br/>Please try again, or get in touch if you "
 "need help."
-msgstr ""
+msgstr "Апапап. Темскер ĕçлемест. Тепре хăтланса пăх, е пулăшу кирлĕ пулсан пирĕнпе çыхăн."
 
 msgctxt "sVIDEOMSG_ERROR_DEVICE_LOST"
 msgid ""
