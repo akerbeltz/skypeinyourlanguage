@@ -4157,10 +4157,6 @@ msgctxt "sZAPBUTTON_NONE"
 msgid "none"
 msgstr ""
 
-msgctxt "sZAPBUTTON_DUMMYFULL"
-msgid ""
-msgstr ""
-
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
 msgstr ""
@@ -4195,10 +4191,6 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
-msgstr ""
-
-msgctxt "sZAPBUTTON_ALLCONTACTS"
-msgid ""
 msgstr ""
 
 msgctxt "sZAPBUTTON_ANSWER"
@@ -7539,14 +7531,6 @@ msgstr ""
 
 msgctxt "sCQ_CAM_SEND_HIGH_ON_CALL_DESC"
 msgid "Not seeing each other's video? You should both turn your video off then on again, or plug your webcams into a different USB port and restart."
-msgstr ""
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
-msgid ""
-msgstr ""
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
-msgid ""
 msgstr ""
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_TITLE"
