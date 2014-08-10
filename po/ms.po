@@ -2,14 +2,14 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # abuyop <abuyop@gmail.com>, 2013
-# abuyop <abuyop@gmail.com>, 2013
-# Michael Bauer <fios@akerbeltz.org>, 2013
+# abuyop <abuyop@gmail.com>, 2013-2014
+# Michael Bauer, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-12-31 17:35+0000\n"
+"POT-Creation-Date: 2014-05-27 21:14:03+0100\n"
+"PO-Revision-Date: 2014-08-05 16:54+0000\n"
 "Last-Translator: abuyop <abuyop@gmail.com>\n"
 "Language-Team: Malay (Malaysia) (http://www.transifex.com/projects/p/skype-translation-project/language/ms_MY/)\n"
 "MIME-Version: 1.0\n"
@@ -200,22 +200,6 @@ msgctxt "sSEX_FEMALE"
 msgid "Female"
 msgstr "Perempuan"
 
-msgctxt "sF_USERENTRY_BUTTON_CANCEL"
-msgid "Cancel"
-msgstr "Batal"
-
-msgctxt "sF_USERENTRY_CAPTION_CREATE_ACCOUNT"
-msgid "Create account"
-msgstr "Cipta akaun"
-
-msgctxt "sF_USERENTRY_INFO_CREATE_ACCOUNT"
-msgid "Create a new Skype account"
-msgstr "Cipta akaun Skype baharu"
-
-msgctxt "sF_USERENTRY_LABEL_CHOOSE_USERNAME"
-msgid "Create Skype Name"
-msgstr "Cipta Nama Skype"
-
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
 msgstr "Nama Skype"
@@ -224,33 +208,17 @@ msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
 msgstr "Kata Laluan"
 
-msgctxt "sF_USERENTRY_LABEL_PASSWORD2"
-msgid "Repeat password"
-msgstr "Ulang Kata Laluan"
-
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
 msgstr "Lupa kata laluan anda?"
 
-msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
-msgid "Yes, send me Skype news and promotions"
-msgstr "Ya, hantar berita dan promosi Skype"
-
-msgctxt "sF_USERENTRY_SIGNIN"
-msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
-msgstr "Sudah mempunyai akaun Skype? <a href=\"x\">Daftar masuk</a>"
-
 msgctxt "sF_SPLASH_COPYRIGHT1"
-msgid "© 2003-2013 Skype and/or Microsoft"
-msgstr "© 2003-2013 Skype dan/atau Microsoft"
+msgid "© 2014 Skype and/or Microsoft"
+msgstr "© 2014 Skype dan/atau Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
 msgstr "Dilindungi oleh Perundangan Antarabangsa. Hakcipta Terpelihara."
-
-msgctxt "sF_USERPROFILE_LB_FULLNAME"
-msgid "Full name"
-msgstr "Nama penuh"
 
 msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
@@ -263,10 +231,6 @@ msgstr "Bahasa"
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
 msgstr "Negara/Wilayah"
-
-msgctxt "sF_USERPROFILE_LB_PROVINCE"
-msgid "State/Province"
-msgstr "Negeri/Daerah"
 
 msgctxt "sF_USERPROFILE_LB_CITY"
 msgid "City"
@@ -341,8 +305,8 @@ msgid "- Options"
 msgstr "- Pilihan"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
-msgid "© 2003 - 2013 Skype and/or Microsoft"
-msgstr "© 2003 - 2013 Skype dan/atau Microsoft"
+msgid "© 2014 Skype and/or Microsoft"
+msgstr "© 2014 Skype dan/atau Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -409,26 +373,6 @@ msgstr "Tutup"
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
 msgstr "menyambung semula panggilan"
-
-msgctxt "sF_SEARCH_FIELD_USERNAME"
-msgid "Skype Name"
-msgstr "Nama Skype"
-
-msgctxt "sF_SEARCH_FIELD_FULLNAME"
-msgid "Full name"
-msgstr "Nama penuh"
-
-msgctxt "sF_SEARCH_FIELD_COUNTRY"
-msgid "Country/Region"
-msgstr "Negara/Wilayah"
-
-msgctxt "sF_SEARCH_FIELD_LANGUAGE"
-msgid "Language"
-msgstr "Bahasa"
-
-msgctxt "sF_SEARCH_FIELD_CITY"
-msgid "City"
-msgstr "Bandar"
 
 msgctxt "sF_OPTIONS_TCB2"
 msgid "Show timestamp next to instant messages"
@@ -509,7 +453,7 @@ msgid "Change password"
 msgstr "Ubah kata laluan"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
-msgid "The old password you entered is not valid.  Please try again."
+msgid "The old password you entered is not valid. Please try again."
 msgstr "Kata laluan lama yang anda masukkan tidak sah. Sila cuba lagi."
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
@@ -521,10 +465,6 @@ msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
 msgstr "Berjaya! Kata laluan anda telah berubah. Guna kata laluan baharu anda dilain masa anda mendaftar masuk."
-
-msgctxt "sF_SEND_CONTACTS_TEXT1"
-msgid "Send contacts to other people on Skype"
-msgstr "Hantar kenalan kepada individu lain di Skype"
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -548,10 +488,6 @@ msgid ""
 "password."
 msgstr "Kata laluan anda terlalu pendek. Ia mestilah 6-20 aksara panjang. Cuba kata laluan baharu."
 
-msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID"
-msgid "The password you have entered has invalid characters"
-msgstr "Kata laluan anda masukkan mengandungi aksara tidak sah"
-
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
 msgstr "Sambungan"
@@ -565,8 +501,8 @@ msgid "for incoming connections"
 msgstr "untuk sambungan masuk"
 
 msgctxt "sF_OPTIONS_TCB8"
-msgid "Use port 80 and 443 as alternatives for incoming connections"
-msgstr "Guna port 80 dan 443 sebagai pengganti untuk sambungan masuk"
+msgid "Use port 80 and 443 for additional incoming connections"
+msgstr "Guna port 80 dan 443 untuk sambungan masuk tambahan"
 
 msgctxt "sF_OPTIONS_CONNDATA_INVALIDPORT"
 msgid "Invalid port"
@@ -1030,8 +966,8 @@ msgid ""
 msgstr "Nombor telefon yang anda dail tidak dimasukkan dengan betul. Anda mesti dail + kemudian kod negara dan nombor yang anda mahu buat panggilan. Contohnya +60 019 999 9999"
 
 msgctxt "sPSTN_ERR_UNKNOWN"
-msgid "Internal error, please try again. (#%s)"
-msgstr "Ralat dalaman, sila cuba sekali lagi. (#%s)"
+msgid "Sorry, there was a problem. Please try again."
+msgstr "Maaf. ada masalah. Sila cuba sekali lagi."
 
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
@@ -1177,8 +1113,8 @@ msgid "You have a relayed connection. This means that sending will be slow."
 msgstr "Anda mempunyai sambungan tertangguh. Ia bermaksud penghantaran akan menjadi perlahan."
 
 msgctxt "sBUDDYMENU_SENDFILE"
-msgid "Send File..."
-msgstr "Hantar Fail..."
+msgid "Send files..."
+msgstr "Hantar fail..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
@@ -1263,10 +1199,8 @@ msgstr "Rangkaian sibuk"
 
 msgctxt "sINFORM_PASSWORD_OUTDATED_LOGOFF"
 msgid ""
-"You recently changed your password. Sign in with the new password to call a "
-"phone or mobile. This is a security measure to prevent your Skype account "
-"being abused."
-msgstr "Anda baru sahaja mengubah kata laluan anda. Daftar masuk dengan kata laluan baharu untuk membuat panggilan telefon atau telefon bimbit. Ia adalah langkah keselamatan untuk menghindari akaun Skype anda disalah guna."
+"You recently changed your password. Please sign in with your new password."
+msgstr "Anda telah mengubah kata laluan anda. Sila daftar masuk dengan kata laluan baharu anda."
 
 msgctxt "sINFORM_UIC_FAILED_LOGOFF"
 msgid ""
@@ -1467,12 +1401,12 @@ msgid "Send Voice Message"
 msgstr "Hantar Mesej Bersuara"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
-msgid "Are you sure you want to leave this group?"
-msgstr "Anda pasti ingin meninggalkan kumpulan ini?"
+msgid "Are you sure you want to leave this conversation?"
+msgstr "Anda pasti ingin meninggalkan perbualan ini?"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE_TITLE"
-msgid "Leave group"
-msgstr "Tinggalkan kumpulan"
+msgid "Leave conversation"
+msgstr "Tinggalkan perbualan"
 
 msgctxt "sCHAT_MEMBER_ADDED"
 msgid "%s added %s"
@@ -1582,17 +1516,9 @@ msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
 msgstr "Kekalkan sejarah selama"
 
-msgctxt "sF_MULTICHAT_NEW_TITLE"
-msgid "Start IM with group"
-msgstr "Mulakan IM dengan kumpulan"
-
 msgctxt "sF_STARTCHAT_TOPIC_LABEL"
 msgid "Conversation title/topic"
 msgstr "Tajuk/Topik perbualan"
-
-msgctxt "sF_STARTCHAT_START_BUTTON"
-msgid "Create"
-msgstr "Cipta"
 
 msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
@@ -1702,8 +1628,8 @@ msgid "busy signal"
 msgstr "isyarat sibuk"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE"
-msgid "incoming IM"
-msgstr "IM masuk"
+msgid "incoming IM in recent chat"
+msgstr "IM masuk dalam sembang baru-baru ini"
 
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS"
 msgid "Display a notification in the Windows tray when someone..."
@@ -1916,22 +1842,6 @@ msgstr "Ketahui lebih lanjut penetapan peralatan audio anda"
 msgctxt "sF_USERPROFILE_LB_ABOUT2"
 msgid "About me"
 msgstr "Perihal saya"
-
-msgctxt "sF_USERENTRY_PROFILE_NAME"
-msgid "Full name"
-msgstr "Nama penuh"
-
-msgctxt "sF_USERENTRY_PROFILE_COUNTRY"
-msgid "Country/Region"
-msgstr "Negara/Wilayah"
-
-msgctxt "sF_USERENTRY_PROFILE_CITY"
-msgid "City"
-msgstr "Bandar"
-
-msgctxt "sF_USERENTRY_PROFILE_EMAIL"
-msgid "Email"
-msgstr "Emel"
 
 msgctxt "sF_USERPROFILE_CAPTION2"
 msgid "Profile"
@@ -2228,16 +2138,6 @@ msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
 msgstr "Mulakan rakaman mesej bersuara jika..."
 
-msgctxt "sF_VOICEMAIL_OPTIONS_LB3"
-msgid ""
-"Note: If call forwarding is on, calls will be sent first to the phone "
-"number(s) you entered"
-msgstr "Perhatian: Jika pemajuan panggilan hidup, kali pertama panggilan akan dihantar ke nombor telefon(s) yang anda telah masukkan"
-
-msgctxt "sF_VOICEMAIL_OPTIONS_LB4"
-msgid "If there is no answer, calls will be recorded as a voice message"
-msgstr "Jika tiada balasan, panggilan akan dirakam sebagai mesej bersuara"
-
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_REJECT"
 msgid "I reject an incoming call"
 msgstr "Saya menolak panggilan masuk"
@@ -2447,10 +2347,6 @@ msgid ""
 "be available on other computers where this devices is used."
 msgstr "Anda kini menjalankan Skype melalui pemacu pena USB. Mana-mana data yang disimpan oleh %s tidak akan tersedia pada komputer lain yang mana peranti digunakan."
 
-msgctxt "sF_AUTH_BTN_BLOCK"
-msgid "Block"
-msgstr "Sekat"
-
 msgctxt "sF_AUTHQUERY_DEFAULT2"
 msgid "Hello! Please add me to your Contact list."
 msgstr "Hello! Sila tambah saya ke dalam senarai Kenalan anda."
@@ -2497,20 +2393,6 @@ msgid ""
 "again."
 msgstr "Nama Skype dan kata laluan anda tidak dikenali. Sila periksa ia sekali dan cuba lagi."
 
-msgctxt "sF_USERENTRY_ERROR_1107"
-msgid "Invalid address"
-msgstr "Alamat tidak sah"
-
-msgctxt "sF_USERENTRY_ERROR_1109"
-msgid "Skype Name contains invalid characters."
-msgstr "Nama Skype mengandungi aksara tidak sah."
-
-msgctxt "sF_USERENTRY_LB_EXPLAIN"
-msgid ""
-"Sorry - the Skype Name you've entered is already taken. Enter a new Skype "
-"Name or choose one of these suggestions:"
-msgstr "Maaf - Nama Skype yang anda masukkan subah diguna oleh orang lain. Masukkan Nama Skype baru atau pilih salah satu dari saranan ini:"
-
 msgctxt "sF_OPTIONS_CB_WEBPRESENCE"
 msgid "Allow my online status to be shown on the web"
 msgstr "Benarkan status atas talian saya ditunjukkan dalam sesawang."
@@ -2550,10 +2432,6 @@ msgstr "Ralat panggilan Skype 1"
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT12"
 msgid "Skype call error2"
 msgstr "Ralat panggilan Skype2"
-
-msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT13"
-msgid "Skype incoming IM2"
-msgstr "IM masukan Skype2"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
@@ -2620,8 +2498,8 @@ msgid "call error2"
 msgstr "ralat panggilan2"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
-msgid "incoming message"
-msgstr "mesej masuk"
+msgid "incoming IM in current chat"
+msgstr "IM masuk dalam sembang semasa"
 
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
@@ -2687,18 +2565,6 @@ msgctxt "sF_OPTIONS_RC_REC_VIDEO3"
 msgid "anyone"
 msgstr "sesiapa sahaja"
 
-msgctxt "sF_OPTIONS_RC_AD_VIDEO1"
-msgid "no one"
-msgstr "tiada sesiapa"
-
-msgctxt "sF_OPTIONS_RC_AD_VIDEO2"
-msgid "people in my Contact list only"
-msgstr "individu dalam senarai Kenalan saya sahaja"
-
-msgctxt "sF_OPTIONS_VIDEO_LB4"
-msgid "Show that I have video to..."
-msgstr "Tunjuk saya mempunyai video kepada..."
-
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
 msgstr "Tetap semula semua bunyi?"
@@ -2751,10 +2617,6 @@ msgstr "Panggilan Skype dimajukan."
 msgctxt "sF_OPTIONS_SOUNDS_FORWARDED"
 msgid "Call is forwarded"
 msgstr "Panggilan dimajukan"
-
-msgctxt "sF_AUTHQUERY_DEFAULT3"
-msgid "Enter a message to introduce yourself."
-msgstr "Masukkan mesej untuk pengenalan diri anda."
 
 msgctxt "s_FVIDEOTEST_BUTTON_SETTINGS"
 msgid "Webcam settings"
@@ -2953,24 +2815,6 @@ msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
 msgstr "Ketahui lebih lanjut mengenai SMS"
 
-msgctxt "sF_PAYMENTS_CAPTION"
-msgid "Skype Credit"
-msgstr "Kredit Skype"
-
-msgctxt "sF_PAYMENTS_LOADING"
-msgid "Loading - %s"
-msgstr "Memuatkan - %s"
-
-msgctxt "sF_PAYMENTS_ERROR_CAPTION"
-msgid "Check your connection"
-msgstr "Periksa sambungan anda"
-
-msgctxt "sF_PAYMENTS_ERROR_TEXT"
-msgid ""
-"Sorry, you don't seem to have an active internet connection, so you can't "
-"continue with your purchase."
-msgstr "Maaf, anda kelihatan tidak mempunyai sambungan internet yang aktif, oleh itu anda tidak dapat teruskan pembelian anda."
-
 msgctxt "sF_PAYMENTS_BTN_CLOSE"
 msgid "Close"
 msgstr "Tutup"
@@ -3113,10 +2957,6 @@ msgctxt "sF_UPGRADE_FAILED_LINK"
 msgid "Click here"
 msgstr "Klik di sini"
 
-msgctxt "sF_SEARCH_RESULTS"
-msgid "Search results"
-msgstr "Keputusan gelintar"
-
 msgctxt "sF_OPTIONS_SMS_STATUS_LB10"
 msgid "You do not have enough Skype Credit to send a code"
 msgstr "Anda tidak mempunyai Kredit Skype yang mencukupi untuk menghantar kod"
@@ -3145,14 +2985,6 @@ msgstr "Tutup tetingkap perbualan"
 msgctxt "sFILETRANSFER_STATUS_NO_CAPABILITY"
 msgid "The other person is on a device that doesn't let them receive files."
 msgstr "Individu lain pada peranti tidak membenarkannya menerima fail."
-
-msgctxt "sF_PAYMENTS_ERROR2_TEXT"
-msgid "Due to technical issues, please"
-msgstr "Kerana masalah teknikal, sila"
-
-msgctxt "sF_PAYMENTS_ERROR_LINK"
-msgid "continue your payment in the Skype webstore using your web browser."
-msgstr "teruskan pembayaran anda di dalam kedai sesawang Skype menggunakan pelayar sesawang anda."
 
 msgctxt "sF_CONFIRM_DELETE"
 msgid "Delete"
@@ -3235,13 +3067,6 @@ msgstr "Ubah Gambar Anda..."
 msgctxt "sCHANGE_SOUNDS"
 msgid "Change Sounds..."
 msgstr "Ubah Bunyi..."
-
-msgctxt "sF_USERENTRY_LB_EULA3"
-msgid ""
-"Yes, I have read and I accept the <a href=\"skype:?go#eula\">Skype End User "
-"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of Use</a> "
-"and the <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>"
-msgstr "Ya, saya telah baca dan menerima <a href=\"skype:?go#eula\">Perjanjian Lesen Pengguna Akhir Skype</a>, <a href=\"skype:?go#tos\">Terma Penggunaan Skype</a> dan <a href=\"skype:?go#privacy\">Penyataan Kerahsiaan Skype</a>"
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
 msgid "You can't send a file to yourself."
@@ -3755,10 +3580,6 @@ msgid ""
 " host has accepted you."
 msgstr "Menunggu untuk sertai.<br />Anda tidak boleh pos mesej ini dalam perbualan sehinggalah hos menerima anda."
 
-msgctxt "sCHAT_STATUSMESSAGE_LISTENER"
-msgid "You are currently not allowed to post messages."
-msgstr "Anda kini tidak dibenarkan mengepos mesej."
-
 msgctxt "sCHAT_MENU_NOTIFICATIONS"
 msgid "IM Notification Settings"
 msgstr "Tetapan Pemberitahuan IM"
@@ -3778,46 +3599,6 @@ msgstr "Gambar perbualan"
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
 msgstr "Pustaka gambar"
-
-msgctxt "sF_PRIVACY_CHANGE_TITLE"
-msgid "Privacy protection"
-msgstr "Perlindungan kerahsiaan"
-
-msgctxt "sF_PRIVACY_CHANGE_HEADER1"
-msgid "Do you receive unwanted calls?"
-msgstr "Anda mahu terima panggilan tidak dikehendaki?"
-
-msgctxt "sF_PRIVACY_CHANGE_HEADER2"
-msgid "Do you receive unwanted IM messages?"
-msgstr "Andakah anda menerima mesej IM yang tidak dikehendaki?"
-
-msgctxt "sF_PRIVACY_CHANGE_BTN_OK"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "sF_PRIVACY_CHANGE_BTN_CANCEL"
-msgid "Cancel"
-msgstr "Batal"
-
-msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE1"
-msgid "Allow calls from everyone."
-msgstr "Benarkan panggilan dari sesiapa sahaja."
-
-msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE2"
-msgid "Allow IMs from everyone."
-msgstr "Benarkan IM dari sesiapa sahaja."
-
-msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS1"
-msgid "Allow calls only from my contacts."
-msgstr "Hanya benarkan panggilan dari kenalan saya."
-
-msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS2"
-msgid "Allow IM from my contacts only."
-msgstr "Benarkan IM dari kenalan saya sahaja."
-
-msgctxt "sF_PRIVACY_CHANGE_LB_OPTIONS"
-msgid "<a href=\"skype:?options#privacy\">Advanced privacy options</a>"
-msgstr "<a href=\"skype:?options#privacy\">Pilihan kerahsiaan lanjutan</a>"
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
@@ -4053,12 +3834,6 @@ msgstr "Diputuskan"
 msgctxt "sF_OPTIONS_CB_TYPING"
 msgid "Show when I am typing"
 msgstr "Tunjuk bila saya sedang menaip"
-
-msgctxt "sF_SENDMONEY_LOAD_ERROR"
-msgid ""
-"You don't seem to have an active internet connection. Please check your "
-"connection and try again."
-msgstr "Anda kelihatan tidak mempunyai sambungan internet yang aktif. Sila semak sambungan anda dan cuba lagi."
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
@@ -4397,12 +4172,6 @@ msgid ""
 "forwarded to a phone number or another Skype account."
 msgstr "Bila anda tidak menggunakan Skype, pemanggil boleh tinggalkan mesej bersuara atau dimajukan ke nombor telefon atau atau ke akaun Skype yang lain."
 
-msgctxt "sF_VOICEMAIL_OPTIONS_LB5"
-msgid ""
-"Call forwarding is active. Calls will be sent first to the phone number(s) "
-"set."
-msgstr "Pemajuan panggilan adalah aktif. Panggilan akan dihantar dahulu ke nombor telefon(s) yang telah ditetapkan."
-
 msgctxt "sF_BLOCK_ALREADY_BLOCKED"
 msgid "This person is already blocked."
 msgstr "Individu ini telah disekat."
@@ -4421,10 +4190,6 @@ msgid ""
 "and leave voice messages for your contacts if you can't get hold of them."
 msgstr "Peribadikan aluan mesej bersuara anda, simpan mesej untuk dengar kembali, tinggalkan mesej bersuara ke kenalan anda jika tidak dapat membalasnya."
 
-msgctxt "sF_OPTIONS_UPGRADE_SKYPPRO"
-msgid "Get a subscription"
-msgstr "Dapatkan langganan"
-
 msgctxt "sCONTACT_LONG_HINT_LAST_SEEN"
 msgid "Last seen"
 msgstr "Terakhir dilihat"
@@ -4441,23 +4206,11 @@ msgctxt "sF_USERINFO_SERTIFIED_HINT"
 msgid "This is a business contact."
 msgstr "Ini adalah kenalan perniagaan."
 
-msgctxt "sF_ADDFRIEND_SERTIFIED_HINT"
-msgid "This is a business contact."
-msgstr "Ini adalah kenalan perniagaan."
-
-msgctxt "sTOOLTIP_CHAT_THUMB"
-msgid "Play video %s"
-msgstr "Main video %s"
-
 msgctxt "sVIDEOMENU_TAKE_SNAPSHOT"
 msgid "Take a Picture"
 msgstr "Ambil Gambar"
 
 msgctxt "sF_USERINFO_IMG_SERTIFIED"
-msgid "Business contact"
-msgstr "Kenalan perniagaan"
-
-msgctxt "sF_ADDFRIEND_IMG_SERTIFIED"
 msgid "Business contact"
 msgstr "Kenalan perniagaan"
 
@@ -4488,10 +4241,6 @@ msgstr "Tamatkan Panggilan"
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
 msgstr "Tambah lagi individu"
-
-msgctxt "sF_STARTSEND_SELECTED_CONTACTS_LABEL"
-msgid "Contacts to send"
-msgstr "Kenalan untuk dihantar"
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
@@ -4559,22 +4308,6 @@ msgctxt "sZAPBUTTON_NONE"
 msgid "none"
 msgstr "tiada"
 
-msgctxt "sZAPBUTTON_DUMMYFULL"
-msgid ""
-msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
-
-msgctxt "sZAPBUTTON_DUMMYLEFT"
-msgid ""
-msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
-
-msgctxt "sZAPBUTTON_DUMMYRIGHT"
-msgid ""
-msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
-
-msgctxt "sZAPBUTTON_DUMMYMIDDLE"
-msgid ""
-msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
-
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
 msgstr "Terima"
@@ -4591,10 +4324,6 @@ msgctxt "sZAPBUTTON_ADDNUMBER"
 msgid "Add phone number"
 msgstr "Tambah nombor telefon"
 
-msgctxt "sZAPBUTTON_ADDMYNUMBER"
-msgid "Add my number"
-msgstr "Tambah nombor saya"
-
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
 msgstr "Tambah ke Kenalan"
@@ -4603,17 +4332,9 @@ msgctxt "sZAPBUTTON_ADDCONTACT"
 msgid "Add a contact"
 msgstr "Tambah kenalan"
 
-msgctxt "sZAPBUTTON_ADDCONTACTMENU"
-msgid "All contacts"
-msgstr "Semua Kenalan"
-
 msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
 msgstr "Tambah semua ke Kenalan"
-
-msgctxt "sZAPBUTTON_ADDSKYPEOUT"
-msgid "Save number in Contacts"
-msgstr "Simpan nombor dalam Kenalan"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -4622,26 +4343,6 @@ msgstr "Tambah ke panggilan kumpulan"
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
 msgstr "Tambah ke Kenalan"
-
-msgctxt "sZAPBUTTON_AF_PINNED"
-msgid ""
-msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
-
-msgctxt "sZAPBUTTON_AF_UNPINNED"
-msgid ""
-msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
-
-msgctxt "sZAPBUTTON_ALLCONTACTS"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_ALLOW"
-msgid "Allow"
-msgstr "Benarkan"
-
-msgctxt "sZAPBUTTON_ALLOWNOT"
-msgid "Do not allow"
-msgstr "Jangan benarkan"
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
@@ -4662,14 +4363,6 @@ msgstr "Tetapan audio"
 msgctxt "sZAPBUTTON_BACK"
 msgid "Back"
 msgstr "Kembali"
-
-msgctxt "sZAPBUTTON_BACKGSW"
-msgid "Back"
-msgstr "Kembali"
-
-msgctxt "sZAPBUTTON_BLOCK"
-msgid "Block"
-msgstr "Sekat"
 
 msgctxt "sZAPBUTTON_BUYCREDIT"
 msgid "Buy Skype Credit"
@@ -4799,49 +4492,13 @@ msgctxt "sZAPBUTTON_CQ_CONNECTION_POOR"
 msgid "Connection"
 msgstr "Sambungan"
 
-msgctxt "sZAPBUTTON_CQ_SHOW"
-msgid "Show problems"
-msgstr "Tunjuk masalah"
-
-msgctxt "sZAPBUTTON_CQ_HIDE"
-msgid "Hide problems"
-msgstr "Sembunyi masalah"
-
 msgctxt "sZAPBUTTON_CQ_PLAY"
 msgid "Play"
 msgstr "Main"
 
-msgctxt "sZAPBUTTON_GIVEFEEDBACK"
-msgid "Give feedback"
-msgstr "Beri maklumbalas"
-
 msgctxt "sZAPBUTTON_CQ_CHECK"
 msgid "Check call quality guide"
 msgstr "Semak panduan kualiti panggilan"
-
-msgctxt "sZAPBUTTON_CALLQUALITY"
-msgid "Call Quality"
-msgstr "Kualiti Panggilan"
-
-msgctxt "sZAPBUTTON_CALLQUALITYAVERAGE"
-msgid "Call Quality Average"
-msgstr "Purata Kualiti Sederhana"
-
-msgctxt "sZAPBUTTON_CALLQUALITYBAD"
-msgid "Call Quality Bad"
-msgstr "Kualiti Panggilan Teruk"
-
-msgctxt "sZAPBUTTON_CALLQUALITYINFO"
-msgid "Call Quality"
-msgstr "Kualiti Panggilan"
-
-msgctxt "sZAPBUTTON_CALLQUALITYWARNING"
-msgid "Call Quality Warning"
-msgstr "Amaran Kualiti Panggilan"
-
-msgctxt "sZAPBUTTON_CALLQUALITYERROR"
-msgid "Call Quality Error"
-msgstr "Ralat Kualiti Panggilan"
 
 msgctxt "sZAPBUTTON_CQ_5STAR"
 msgid "*****"
@@ -4887,10 +4544,6 @@ msgctxt "sZAPBUTTON_CHAT"
 msgid "Send message"
 msgstr "Hantar mesej"
 
-msgctxt "sZAPBUTTON_CHARGE"
-msgid "Charge"
-msgstr "Cas"
-
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
 msgstr "Ubah wilayah/negara anda"
@@ -4911,45 +4564,9 @@ msgctxt "sZAPBUTTON_CLOSEONBLUE"
 msgid "Close"
 msgstr "Tutup"
 
-msgctxt "sZAPBUTTON_CLOSEEC"
-msgid "Close"
-msgstr "Tutup"
-
-msgctxt "sZAPBUTTON_CLOSEGSW"
-msgid "Close"
-msgstr "Tutup"
-
-msgctxt "sZAPBUTTON_CONVERSATIONS"
-msgid "Conversations"
-msgstr "Perbualan"
-
-msgctxt "sZAPBUTTON_CONVERSATION"
-msgid "Display the conversation here instead"
-msgstr "Papar perbualan di sini"
-
-msgctxt "sZAPBUTTON_CONVERSATIONCLASSIC"
-msgid "Show the window containing the conversation"
-msgstr "Tunjuk tetingkap yang mengandungi perbualan"
-
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
 msgstr "Skype"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSHOME"
-msgid "Home"
-msgstr "Rumah"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSMOBILE"
-msgid "Mobile"
-msgstr "Bimbit"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSPHONE"
-msgid "Phone"
-msgstr "Telefon"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSOFFICE"
-msgid "Office"
-msgstr "Pejabat"
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
@@ -4958,14 +4575,6 @@ msgstr "Kenalan"
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
 msgstr "Kenalan"
-
-msgctxt "sZAPBUTTON_CONTACTSARROW"
-msgid "Contacts"
-msgstr "Kenalan"
-
-msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
-msgid "Selected contacts"
-msgstr "Kenalan terpilih"
 
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
@@ -4978,22 +4587,6 @@ msgstr "Nafi"
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
 msgstr "Padam"
-
-msgctxt "sZAPBUTTON_DELETEALERTMESSAGE"
-msgid "Delete"
-msgstr "Padam"
-
-msgctxt "sZAPBUTTON_DELETEHIDDEN"
-msgid "Delete"
-msgstr "Padam"
-
-msgctxt "sZAPBUTTON_DELETEINVERT"
-msgid "Delete"
-msgstr "Padam"
-
-msgctxt "sZAPBUTTON_DETAILS"
-msgid "Details"
-msgstr "Perincian"
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
@@ -5047,10 +4640,6 @@ msgctxt "sZAPBUTTON_DIALPAD_HASH"
 msgid " "
 msgstr " "
 
-msgctxt "sZAPBUTTON_DIALPAD_ADDCONTACT"
-msgid " "
-msgstr " "
-
 msgctxt "sZAPBUTTON_DIALPAD_SMS"
 msgid " "
 msgstr " "
@@ -5062,18 +4651,6 @@ msgstr " "
 msgctxt "sZAPBUTTON_DIALNUMBER"
 msgid "Dial this phone number"
 msgstr "Dail nombor telefon ini"
-
-msgctxt "sZAPBUTTON_DIRECTORY"
-msgid "Find businesses"
-msgstr "Cari perniagaan"
-
-msgctxt "sZAPBUTTON_DOLATER"
-msgid "Do it later"
-msgstr "Buat kemudian"
-
-msgctxt "sZAPBUTTON_DOWN"
-msgid "Down"
-msgstr "Turun"
 
 msgctxt "sZAPBUTTON_DOWNLOAD"
 msgid "Download"
@@ -5091,10 +4668,6 @@ msgctxt "sZAPBUTTON_REPLY"
 msgid "Reply"
 msgstr "Balas"
 
-msgctxt "sZAPBUTTON_DIALADRECENT"
-msgid "Recent numbers"
-msgstr "Nombor baru-baru ini"
-
 msgctxt "sZAPBUTTON_DIALPADSHOW"
 msgid "Show dial pad"
 msgstr "Tunjuk pad dail"
@@ -5102,18 +4675,6 @@ msgstr "Tunjuk pad dail"
 msgctxt "sZAPBUTTON_COUNTRYSELECTOR"
 msgid "Choose country/region"
 msgstr "Pilih wilayah/negara"
-
-msgctxt "sZAPBUTTON_HIDE"
-msgid "Hide"
-msgstr "Sembunyi"
-
-msgctxt "sZAPBUTTON_FIVE"
-msgid "5"
-msgstr "5"
-
-msgctxt "sZAPBUTTON_FILE"
-msgid "File"
-msgstr "Fail"
 
 msgctxt "sZAPBUTTON_FULLSCREEN"
 msgid "Full screen"
@@ -5123,17 +4684,9 @@ msgctxt "sZAPBUTTON_FULLSCREENEXIT"
 msgid "Exit fullscreen"
 msgstr "Keluar dari skrin penuh"
 
-msgctxt "sZAPBUTTON_POPOUTEXIT"
-msgid "Exit popout mode"
-msgstr "Keluar dari mod timbul"
-
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "Help"
 msgstr "Bantuan"
-
-msgctxt "sZAPBUTTON_FILETRANSFER"
-msgid "File Transfer"
-msgstr "Pemindahan Fail"
 
 msgctxt "sZAPBUTTON_CHATBOOK"
 msgid "Facebook"
@@ -5147,10 +4700,6 @@ msgctxt "sZAPBUTTON_EDIT"
 msgid "Edit"
 msgstr "Sunting"
 
-msgctxt "sZAPBUTTON_EXITGSW"
-msgid "Exit this guide"
-msgstr "Keluar dari panduan ini"
-
 msgctxt "sZAPBUTTON_FINDOUTMORE"
 msgid "Find out more"
 msgstr "Cari lagi"
@@ -5163,42 +4712,6 @@ msgctxt "sZAPBUTTON_FINDCONTACTSKYPE"
 msgid "Find this person on Skype"
 msgstr "Cari inidividu ini dalam Skype"
 
-msgctxt "sZAPBUTTON_CALLNUMBER"
-msgid "Call this number"
-msgstr "Panggil nombor ini"
-
-msgctxt "sZAPBUTTON_SHOWHISTORY"
-msgid "Show history"
-msgstr "Tunjuk sejarah"
-
-msgctxt "sZAPBUTTON_HIDEHISTORY"
-msgid "Hide history"
-msgstr "Sembunyi sejarah"
-
-msgctxt "sZAPBUTTON_HIDECONTACTLIST"
-msgid "Hide Contacts"
-msgstr "Sembunyi Kenalan"
-
-msgctxt "sZAPBUTTON_SHOWCONTACTLIST"
-msgid "Show Contacts"
-msgstr "Tunjuk Kenalan"
-
-msgctxt "sZAPBUTTON_HISTORYFILTER"
-msgid "All messages"
-msgstr "Semua mesej"
-
-msgctxt "sZAPBUTTON_FOUR"
-msgid "4"
-msgstr "4"
-
-msgctxt "sZAPBUTTON_FINDFRIENDS"
-msgid "Find friends"
-msgstr "Cari rakan"
-
-msgctxt "sZAPBUTTON_FINDFRIENDSNEW"
-msgid "FindFriends"
-msgstr "CariRakan"
-
 msgctxt "sZAPBUTTON_FINDNEXT"
 msgid "<ks>N</ks>ext"
 msgstr "<ks>B</ks>erikutnya"
@@ -5210,10 +4723,6 @@ msgstr "<ks>T</ks>erdahulu"
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "My account"
 msgstr "Akaun saya"
-
-msgctxt "sZAPBUTTON_FORWARD"
-msgid "Forward"
-msgstr "Maju"
 
 msgctxt "sZAPBUTTON_GALLERY"
 msgid "Gallery"
@@ -5246,10 +4755,6 @@ msgstr "Tatar sekarang"
 msgctxt "sZAPBUTTON_SENDFREEUPGRADELINK"
 msgid "Send upgrade link"
 msgstr "Hantar pautan tatar"
-
-msgctxt "sZAPBUTTON_GETSTARTED"
-msgid "<b><font type=\"Arial\">Get started</font></b>"
-msgstr "<b><font type=\"Arial\">Memulakan</font></b>"
 
 msgctxt "sZAPBUTTON_GROUPCALLSKYPE"
 msgid "Skype"
@@ -5315,17 +4820,9 @@ msgctxt "sZAPBUTTON_ADDPEOPLEOTHER"
 msgid "Other"
 msgstr "Lain-lain"
 
-msgctxt "sZAPBUTTON_CONTACTLISTOPEN_ACTIVE"
-msgid "Show contacts"
-msgstr "Tunjuk kenalan"
-
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_INACTIVE"
 msgid "Show contacts"
 msgstr "Tunjuk kenalan"
-
-msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_ACTIVE"
-msgid "Hide contacts"
-msgstr "Sembunyi kenalan"
 
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_INACTIVE"
 msgid "Hide contacts"
@@ -5342,18 +4839,6 @@ msgstr "Tamatkan panggilan"
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
 msgstr "Panggilan"
-
-msgctxt "sZAPBUTTON_INSTANTMESSAGE"
-msgid "Instant Message"
-msgstr "Mesej Segera"
-
-msgctxt "sZAPBUTTON_HISTORYSLIDER"
-msgid "Last message"
-msgstr "Mesej terakhir"
-
-msgctxt "sZAPBUTTON_HIDEDETAILS"
-msgid "Hide details"
-msgstr "Sembunyi perincian"
 
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
@@ -5379,14 +4864,6 @@ msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
 msgstr "Bantuan"
 
-msgctxt "sZAPBUTTON_INFOALT"
-msgid "Info"
-msgstr "Maklumat"
-
-msgctxt "sZAPBUTTON_INFO"
-msgid "Info"
-msgstr "Maklumat"
-
 msgctxt "sZAPBUTTON_IGNORE"
 msgid "Ignore"
 msgstr "Abai"
@@ -5403,37 +4880,9 @@ msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
 msgstr "Ketahui lebih lanjut"
 
-msgctxt "sZAPBUTTON_SEEHOW"
-msgid "See how"
-msgstr "Lihat bagaimana"
-
-msgctxt "sZAPBUTTON_LEFT"
-msgid "<b><font color=\"#475358\">Left</font></b>"
-msgstr "<b><font color=\"#475358\">Berbaki</font></b>"
-
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
 msgstr "Cari"
-
-msgctxt "sZAPBUTTON_MAKEDEMOCALL"
-msgid "Make test call"
-msgstr "Buat panggilan uji"
-
-msgctxt "sZAPBUTTON_MENU"
-msgid "Menu"
-msgstr "Menu"
-
-msgctxt "sZAPBUTTON_MPV_LEFT"
-msgid "MPV left"
-msgstr "MPV kiri"
-
-msgctxt "sZAPBUTTON_MPV_CENTER"
-msgid "MPV center"
-msgstr "MPV tengah"
-
-msgctxt "sZAPBUTTON_MPV_RIGHT"
-msgid "MPV right"
-msgstr "MPV kanan"
 
 msgctxt "sZAPBUTTON_MPV_ALONE"
 msgid "MPV alone"
@@ -5451,41 +4900,13 @@ msgctxt "sZAPBUTTON_MESSAGEFILE"
 msgid "Send file"
 msgstr "Hantar fail"
 
-msgctxt "sZAPBUTTON_MESSAGESHARE"
-msgid "Share"
-msgstr "Kongsi"
-
-msgctxt "sZAPBUTTON_MESSAGEEXTRAS"
-msgid "Extras"
-msgstr "Ekstra"
-
 msgctxt "sZAPBUTTON_MESSAGESMS"
 msgid "Group SMS"
 msgstr "SMS kumpulan"
 
-msgctxt "sZAPBUTTON_MESSAGESMS_ON"
-msgid "SMS"
-msgstr "SMS"
-
-msgctxt "sZAPBUTTON_MESSAGESMSDROPDOWN"
-msgid "SMS"
-msgstr "SMS"
-
-msgctxt "sZAPBUTTON_MESSAGEIM"
-msgid "IM"
-msgstr "IM"
-
-msgctxt "sZAPBUTTON_MESSAGEFROM"
-msgid "From"
-msgstr "Daripada"
-
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
 msgstr "melalui Skype"
-
-msgctxt "sZAPBUTTON_MESSAGETO"
-msgid "To"
-msgstr "Kepada"
 
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
@@ -5503,77 +4924,21 @@ msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
 msgstr "Senyap"
 
-msgctxt "sZAPBUTTON_MYSELFTOP"
-msgid ""
-msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
-
-msgctxt "sZAPBUTTON_MYSELFBOTTOM"
-msgid ""
-msgstr "7abe095518b8b0837fc38d15a401089f_tr"
-
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
 msgstr "Suarakan"
-
-msgctxt "sZAPBUTTON_SMSSELECTFROM"
-msgid "Set your caller ID"
-msgstr "Tetapkan ID pemanggil anda"
-
-msgctxt "sZAPBUTTON_SMSSELECTTO"
-msgid "SMS select to"
-msgstr "SMS dipilih ke"
-
-msgctxt "sZAPBUTTON_NEW"
-msgid "New"
-msgstr "Baharu"
 
 msgctxt "sZAPBUTTON_NEXT"
 msgid "Next"
 msgstr "Berikutnya"
 
-msgctxt "sZAPBUTTON_CLOSEWS"
-msgid "Close this welcome screen and start using Skype"
-msgstr "Tutup skrin aluan ini dan mula mengguna Skype"
-
-msgctxt "sZAPBUTTON_PAGENEXT"
-msgid "Next page"
-msgstr "Halaman berikutnya"
-
-msgctxt "sZAPBUTTON_PAGEPREVIOUS"
-msgid "Previous page"
-msgstr "Halaman terdahulu"
-
-msgctxt "sZAPBUTTON_NEXTINACTIVE"
-msgid "Next"
-msgstr "Berikutnya"
-
-msgctxt "sZAPBUTTON_NEXTPAGE"
-msgid "Next page"
-msgstr "Halaman berikutnya"
-
-msgctxt "sZAPBUTTON_OTHERACTIONS"
-msgid "Other call functions"
-msgstr "Lain-lain fungsi panggilan"
-
-msgctxt "sZAPBUTTON_OKAY"
-msgid "Okay"
-msgstr "Setuju"
-
 msgctxt "sZAPBUTTON_OKUSEDEVICE"
 msgid "OK"
 msgstr "OK"
 
-msgctxt "sZAPBUTTON_ONE"
-msgid "1"
-msgstr "1"
-
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
 msgstr "Buka fail"
-
-msgctxt "sZAPBUTTON_OPTIONS"
-msgid "Options"
-msgstr "Pilihan"
 
 msgctxt "sZAPBUTTON_PAUSE"
 msgid "Pause"
@@ -5583,45 +4948,17 @@ msgctxt "sZAPBUTTON_PAUSEUPGRADEDOWNLOAD"
 msgid "Pause download"
 msgstr "Jeda muat turun"
 
-msgctxt "sZAPBUTTON_PHONES"
-msgid "Call"
-msgstr "Panggilan"
-
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
 msgstr "Main"
-
-msgctxt "sZAPBUTTON_PLAYVIDEO"
-msgid "Play video"
-msgstr "Main video"
-
-msgctxt "sZAPBUTTON_PREVIEW"
-msgid "Preview"
-msgstr "Pratonton"
 
 msgctxt "sZAPBUTTON_PREVIOUS"
 msgid "Previous"
 msgstr "Terdahulu"
 
-msgctxt "sZAPBUTTON_PREVIOUSINACTIVE"
-msgid "Previous"
-msgstr "Terdahulu"
-
-msgctxt "sZAPBUTTON_PREVIOUSPAGE"
-msgid "Previous page"
-msgstr "Halaman terdahulu"
-
 msgctxt "sZAPBUTTON_PROFILE"
 msgid "Profile"
 msgstr "Profil"
-
-msgctxt "sZAPBUTTON_PROFILENOTAUTHORIZED"
-msgid "Contact not authorized"
-msgstr "Kenalan tidak diberi keizinan"
-
-msgctxt "sZAPBUTTON_PROFILEGENERAL"
-msgid "General info"
-msgstr "Maklumat am"
 
 msgctxt "sZAPBUTTON_PROFILEHIDE"
 msgid "Hide profile"
@@ -5631,49 +4968,9 @@ msgctxt "sZAPBUTTON_PROFILEMIN"
 msgid "Minimize Profile"
 msgstr "Minimumkan Profil"
 
-msgctxt "sZAPBUTTON_PROFILEMINCENT"
-msgid "Minimize Profile"
-msgstr "Minimumkan Profil"
-
 msgctxt "sZAPBUTTON_PROFILEMAX"
 msgid "Maximize Profile"
 msgstr "Maksimumkan Profil"
-
-msgctxt "sZAPBUTTON_PROFILENEXT"
-msgid "Next page"
-msgstr "Halaman berikutnya"
-
-msgctxt "sZAPBUTTON_PROFILEAVATAR"
-msgid "Show avatar"
-msgstr "Tunjuk avatar"
-
-msgctxt "sZAPBUTTON_PROFILENUMBER"
-msgid "Numbers"
-msgstr "Nombor"
-
-msgctxt "sZAPBUTTON_PROFILEPREVIOUS"
-msgid "Previous page"
-msgstr "Halaman terdahulu"
-
-msgctxt "sZAPBUTTON_PROFILESHOW"
-msgid "Show profile"
-msgstr "Tunjuk profil"
-
-msgctxt "sZAPBUTTON_PROFILETEXT"
-msgid "Additional info"
-msgstr "Maklumat tambahan"
-
-msgctxt "sZAPBUTTON_PROFILEPUBLIC"
-msgid "Public profile"
-msgstr "Profil awam"
-
-msgctxt "sZAPBUTTON_PROFILEFULL"
-msgid "Full profile"
-msgstr "Profil penuh"
-
-msgctxt "sZAPBUTTON_PROFILECONTACTS"
-msgid "Contacts only"
-msgstr "Kenalan sahaja"
 
 msgctxt "sZAPBUTTON_READ"
 msgid "Read"
@@ -5695,21 +4992,9 @@ msgctxt "sZAPBUTTON_PLAYRECORDED"
 msgid "Playing..."
 msgstr "Memainkan..."
 
-msgctxt "sZAPBUTTON_RECORDVOICEMAIL"
-msgid "Re-record voice message"
-msgstr "Rakam semula mesej bersuara"
-
-msgctxt "sZAPBUTTON_STOPVOICEMAIL"
-msgid "Stop recording"
-msgstr "Henti merakam"
-
 msgctxt "sZAPBUTTON_REDIAL"
 msgid "Redial"
 msgstr "Dail semula"
-
-msgctxt "sZAPBUTTON_REJECT"
-msgid "Reject"
-msgstr "Tolak"
 
 msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
@@ -5735,10 +5020,6 @@ msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
 msgstr "Main bunyi ini"
 
-msgctxt "sZAPBUTTON_RIGHT"
-msgid "<b><font color=\"#475358\">Right</font></b>"
-msgstr "<b><font color=\"#475358\">Kanan</font></b>"
-
 msgctxt "sZAPBUTTON_SAVE"
 msgid "Save"
 msgstr "Simpan"
@@ -5746,30 +5027,6 @@ msgstr "Simpan"
 msgctxt "sZAPBUTTON_SAVEALL"
 msgid "Save all"
 msgstr "Simpan semua"
-
-msgctxt "sZAPBUTTON_ROSTERINACTIVEPAGE"
-msgid "Page"
-msgstr "Halaman"
-
-msgctxt "sZAPBUTTON_ROSTERACTIVEPAGE"
-msgid "Current page"
-msgstr "Halaman semasa"
-
-msgctxt "sZAPBUTTON_ROSTERRIGHT"
-msgid "Right"
-msgstr "Kanan"
-
-msgctxt "sZAPBUTTON_ROSTERLEFT"
-msgid "Left"
-msgstr "Kiri"
-
-msgctxt "sZAPBUTTON_ROSTERUP"
-msgid "Up"
-msgstr "Atas"
-
-msgctxt "sZAPBUTTON_ROSTERDOWN"
-msgid "Down"
-msgstr "Bawah"
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
@@ -5791,65 +5048,17 @@ msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
 msgstr "Lihat video saya"
 
-msgctxt "sZAPBUTTON_HIDEVIDEO"
-msgid "Hide my video"
-msgstr "Sembunyi video saya"
-
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
 msgstr "Hantar fail"
-
-msgctxt "sZAPBUTTON_SENDCONTACTS"
-msgid "Send Contacts..."
-msgstr "Hantar Kenalan..."
-
-msgctxt "sZAPBUTTON_SENDMESSAGE"
-msgid "Send message"
-msgstr "Hantar mesej"
-
-msgctxt "sZAPBUTTON_SENDSMS"
-msgid "Send SMS"
-msgstr "Hantar SMS"
-
-msgctxt "sZAPBUTTON_SEARCH"
-msgid "Search"
-msgstr "Gelintar"
-
-msgctxt "sZAPBUTTON_SEARCHHISTORY"
-msgid "Search History"
-msgstr "Gelintar Sejarah"
-
-msgctxt "sZAPBUTTON_SEARCHEMAILCONTACTS"
-msgid "Search email contacts"
-msgstr "Gelintar kenalan emel"
-
-msgctxt "sZAPBUTTON_SEARCHSKYPEDIRECTORY"
-msgid "Search Skype directory"
-msgstr "Gelintar direktori Skype"
 
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
 msgstr "Tetapkan sebagai gambar saya"
 
-msgctxt "sZAPBUTTON_SETPICTURE"
-msgid "Set as my picture"
-msgstr "Tetapkan sebagai gambar saya"
-
-msgctxt "sZAPBUTTON_CHOOSEPICTURE"
-msgid "Choose a different picture"
-msgstr "Pilih gambar lain"
-
 msgctxt "sZAPBUTTON_SIGNIN"
 msgid "Sign in"
 msgstr "Daftar masuk"
-
-msgctxt "sZAPBUTTON_STOPSEARCH"
-msgid "Stop search"
-msgstr "Henti menggelintar"
-
-msgctxt "sZAPBUTTON_ADDCONTACTS"
-msgid "Add to Contacts"
-msgstr "Tambah ke Kenalan"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5871,22 +5080,6 @@ msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
 msgstr "Hantar"
 
-msgctxt "sZAPBUTTON_DONE"
-msgid "Done"
-msgstr "Selesai"
-
-msgctxt "sZAPBUTTON_SEARCHAGAIN"
-msgid "Search again"
-msgstr "Gelintar lagi"
-
-msgctxt "sZAPBUTTON_TRYAGAIN"
-msgid "Try again"
-msgstr "Cuba lagi"
-
-msgctxt "sZAPBUTTON_CHANGESETTINGS"
-msgid "Change settings"
-msgstr "Ubah tetapan"
-
 msgctxt "sZAPBUTTON_SHOP"
 msgid "Shop"
 msgstr "Beli-belah"
@@ -5899,37 +5092,17 @@ msgctxt "sZAPBUTTON_SHOWMESSAGES"
 msgid "Show messages"
 msgstr "Tunjuk mesej"
 
-msgctxt "sZAPBUTTON_SIX"
-msgid "6"
-msgstr "6"
-
 msgctxt "sZAPBUTTON_SKIPVERSION"
 msgid "Skip version"
 msgstr "Langkau versi"
-
-msgctxt "sZAPBUTTON_SKYPEFINDADD"
-msgid "Add"
-msgstr "Tambah"
-
-msgctxt "sZAPBUTTON_SKYPEIN"
-msgid "Skype number"
-msgstr "Nombor Skype"
 
 msgctxt "sZAPBUTTON_SKYPEHOME"
 msgid "Skype Home"
 msgstr "Rumah Skype"
 
-msgctxt "sZAPBUTTON_SKYPEOUT"
-msgid "Call phones"
-msgstr "Buat panggilan telefon"
-
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
 msgstr "Hantar SMS"
-
-msgctxt "sZAPBUTTON_SOUNDOUT"
-msgid "<center>Press Me</center>"
-msgstr "<center>Tekan Saya</center>"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
@@ -5951,25 +5124,13 @@ msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
 msgstr "Main mesej video"
 
-msgctxt "sZAPBUTTON_STARTVIDEO"
-msgid "Start video"
-msgstr "Mulakan video"
-
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
 msgstr "Tunjuk Gambar"
 
-msgctxt "sZAPBUTTON_HIDEPICTURE"
-msgid "Hide Picture"
-msgstr "Sembunyi Gambar"
-
 msgctxt "sZAPBUTTON_STOP"
 msgid "Stop"
 msgstr "Henti"
-
-msgctxt "sZAPBUTTON_SEARCHNUMBERDIRECTORY"
-msgid "Search number from Directory"
-msgstr "Gelintar nombor dari Direktori"
 
 msgctxt "sZAPBUTTON_SEARCHDIRECTORY"
 msgid "Search Directory"
@@ -5983,18 +5144,6 @@ msgctxt "sZAPBUTTON_STOPPLAY"
 msgid "Stop"
 msgstr "Henti"
 
-msgctxt "sZAPBUTTON_THREE"
-msgid "3"
-msgstr "3"
-
-msgctxt "sZAPBUTTON_TWO"
-msgid "2"
-msgstr "2"
-
-msgctxt "sZAPBUTTON_UP"
-msgid "Up"
-msgstr "Naik"
-
 msgctxt "sZAPBUTTON_USE"
 msgid "Use for Skype"
 msgstr "Guna untuk Skype"
@@ -6003,10 +5152,6 @@ msgctxt "sZAPBUTTON_UPDATE"
 msgid "Update now"
 msgstr "Kemaskini sekarang"
 
-msgctxt "sZAPBUTTON_VIEWMESSAGES"
-msgid "View older messages"
-msgstr "Lihat mesej lebih lama"
-
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
 msgstr "Lihat Profil"
@@ -6014,10 +5159,6 @@ msgstr "Lihat Profil"
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View account"
 msgstr "Lihat akaun"
-
-msgctxt "sZAPBUTTON_VIDEOSNAPSHOT"
-msgid "Video snapshot"
-msgstr "Petikan video"
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -6030,10 +5171,6 @@ msgstr "Hidupkan video"
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
 msgstr "Matikan video"
-
-msgctxt "sZAPBUTTON_VIDEO"
-msgid "Video"
-msgstr "Video"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
@@ -6051,33 +5188,13 @@ msgctxt "sZAPBUTTON_MSNUPGRADESENDMESSAGE"
 msgid "Send download message"
 msgstr "Hantar mesej muat turun"
 
-msgctxt "sZAPBUTTON_SCREENSHARINGSHAREWINDOW"
-msgid "Show selected window"
-msgstr "Tunjuk tetingkap terpilih"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
 msgstr "Kongsi skrin..."
 
-msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
-msgid "Close"
-msgstr "Tutup"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGCHANGESELECTION"
-msgid "Change selection"
-msgstr "Ubah pemilihan"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGSELECTWINDOW"
-msgid "Select window"
-msgstr "Pilih tetingkap"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGSTOPSHARING"
 msgid "Stop sharing"
 msgstr "Henti berkongsi"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGMENUCANCEL"
-msgid "Cancel"
-msgstr "Batal"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTART"
 msgid "Start"
@@ -6087,61 +5204,13 @@ msgctxt "sZAPBUTTON_SCREENSHARINGCANCEL"
 msgid "Cancel"
 msgstr "Batal"
 
-msgctxt "sZAPBUTTON_SCREENSHARINGWINDOW"
-msgid "Show screensharing window"
-msgstr "Tunjuk tetingkap perkongsian skrin"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGOPTIONS"
 msgid "Screensharing options"
 msgstr "Pilihan perkongsian skrin"
 
-msgctxt "sZAPBUTTON_CT_SCREENSHARING"
-msgid "Share"
-msgstr "Kongsi"
-
-msgctxt "sZAPBUTTON_CT_ADDCONTACT"
-msgid "Add people"
-msgstr "Tambah individu"
-
-msgctxt "sZAPBUTTON_CT_VIDEO"
-msgid "My video"
-msgstr "Video saya"
-
-msgctxt "sZAPBUTTON_CT_VIDEOOFF"
-msgid "My video"
-msgstr "Video saya"
-
 msgctxt "sZAPBUTTON_CT_MESSAGE"
 msgid "IM"
 msgstr "IM"
-
-msgctxt "sZAPBUTTON_CT_DIALPAD"
-msgid "Dial pad"
-msgstr "Pad dail"
-
-msgctxt "sZAPBUTTON_CT_MESSAGENEW"
-msgid "IM"
-msgstr "IM"
-
-msgctxt "sZAPBUTTON_CT_MUTE"
-msgid "Mute"
-msgstr "Senyap"
-
-msgctxt "sZAPBUTTON_CT_UNMUTE"
-msgid "Unmute"
-msgstr "Suarakan"
-
-msgctxt "sZAPBUTTON_CT_RERECORD"
-msgid "Re-record voice message"
-msgstr "Rakam semula mesej bersuara"
-
-msgctxt "sZAPBUTTON_CT_CHARGE"
-msgid "Charge"
-msgstr "Cas"
-
-msgctxt "sZAPBUTTON_CT_CANCEL"
-msgid "Cancel"
-msgstr "Batal"
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -6150,22 +5219,6 @@ msgstr "Tambah ke panggilan kumpulan"
 msgctxt "sZAPBUTTON_CT_RESUME"
 msgid "Resume call"
 msgstr "Sambung semula panggilan"
-
-msgctxt "sZAPBUTTON_CT_VOLUME0"
-msgid "Volume 0"
-msgstr "Volum 0"
-
-msgctxt "sZAPBUTTON_CT_VOLUME1"
-msgid "Volume 1"
-msgstr "Volum 1"
-
-msgctxt "sZAPBUTTON_CT_VOLUME2"
-msgid "Volume 2"
-msgstr "Volum 2"
-
-msgctxt "sZAPBUTTON_CT_VOLUME3"
-msgid "Volume 3"
-msgstr "Volum 3"
 
 msgctxt "sZAPBUTTON_DIALPADRECENT"
 msgid "Recently dialed numbers"
@@ -6179,18 +5232,6 @@ msgctxt "sZAPBUTTON_VIEWMENU"
 msgid "View menu"
 msgstr "Lihat menu"
 
-msgctxt "sZAPBUTTON_VOLUMEDOWN"
-msgid "Volume down"
-msgstr "Volum turun"
-
-msgctxt "sZAPBUTTON_VOLUMEUP"
-msgid "Volume up"
-msgstr "Volum naik"
-
-msgctxt "sZAPBUTTON_VOICEMAIL"
-msgid "Voice messages"
-msgstr "Mesej bersuara"
-
 msgctxt "sZAPBUTTON_TEST"
 msgid "Test"
 msgstr "Uji"
@@ -6198,18 +5239,6 @@ msgstr "Uji"
 msgctxt "sZAPBUTTON_WEBCAMMIC"
 msgid "Use webcam microphone"
 msgstr "Guna mikrofon kamera sesawang"
-
-msgctxt "sZAPBUTTON_WHATSNEW"
-msgid "See what's new in Skype"
-msgstr "Lihat apa yang baharu dalam Skype"
-
-msgctxt "sZAPBUTTON_RETURN"
-msgid "Return"
-msgstr "Kembali"
-
-msgctxt "sZAPBUTTON_MAKECALL"
-msgid "Make call with Skype"
-msgstr "Buat panggilan dengan Skype"
 
 msgctxt "sZAPBUTTON_ALLOWACCESS"
 msgid "Allow access"
@@ -6226,50 +5255,6 @@ msgstr "Rakan"
 msgctxt "sZAPBUTTON_FEEDBACK"
 msgid "Give feedback"
 msgstr "Beri maklumbalas"
-
-msgctxt "sZAPBUTTON_ALERTS"
-msgid "Notifications"
-msgstr "Pemberitahuan"
-
-msgctxt "sZAPBUTTON_WINDOWCLOSE"
-msgid "Close"
-msgstr "Tutup"
-
-msgctxt "sZAPBUTTON_WINDOWMINIMIZE"
-msgid "Minimize"
-msgstr "Minimumkan"
-
-msgctxt "sZAPBUTTON_WINDOWMAXIMIZE"
-msgid "Maximize"
-msgstr "Maksimumkan"
-
-msgctxt "sZAPBUTTON_WINDOWSEPARATE"
-msgid "Separate"
-msgstr "Pisahkan"
-
-msgctxt "sZAPBUTTON_WINDOWUNITE"
-msgid "Unite"
-msgstr "Satukan"
-
-msgctxt "sZAPBUTTON_UNMUTEMIC"
-msgid "Unmute your microphone"
-msgstr "Suarakan mikrofon anda"
-
-msgctxt "sZAPBUTTON_UNMUTESPEAKERS"
-msgid "Unmute your speakers"
-msgstr "Suarakan pembesar suara anda"
-
-msgctxt "sZAPBUTTON_INVITEADDCONTACT"
-msgid "Yes, please"
-msgstr "Ya, sila teruskan"
-
-msgctxt "sZAPBUTTON_INVITEDONTADD"
-msgid "No, thanks"
-msgstr "Tidak, terima kasih"
-
-msgctxt "sZAPBUTTON_INVITEADDMORE"
-msgid "Add more contacts"
-msgstr "Tambah lagi kenalan"
 
 msgctxt "sZAPBUTTON_INVITENOTIFACCEPT"
 msgid "Add to contacts"
@@ -6306,10 +5291,6 @@ msgstr "Sambung Semula"
 msgctxt "sZAPBUTTON_SKYPEWIFICONNECT"
 msgid "Connect"
 msgstr "Sambung"
-
-msgctxt "sZAPBUTTON_SKYPEWIFIDISCONNECT"
-msgid "Disconnect"
-msgstr "Putuskan"
 
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
@@ -6573,7 +5554,7 @@ msgstr "Nombor telefon %s yang anda masuk sudah ada dalam Kenalan anda"
 msgctxt "sF_OPTIONS_WEBCAM_NOT_FOUND"
 msgid ""
 "Skype couldn't find a webcam. With a webcam, you can make free video calls "
-"to anyone else on Skype, anywere in the world."
+"to anyone else on Skype, anywhere in the world."
 msgstr "Skype tidak dapat cari kamera sesawang. Dengan kamera sesawang, anda boleh membuat panggilan video ke sesiapa sahaja yang menggunakan Skype, dimana sahaja di seluruh dunia."
 
 msgctxt "sF_OPTIONS_ABOUT_VIDEO_CALL"
@@ -6619,12 +5600,6 @@ msgstr "%d gagal"
 msgctxt "sSMS_FAILED_RETRY"
 msgid "Try again"
 msgstr "Cuba lagi"
-
-msgctxt "sSMS_NO_CREDIT"
-msgid ""
-"You need Skype Credit to send text messages (SMS). <a "
-"href=\"skype:?payments\">Buy Skype Credit now</a>"
-msgstr "Anda perlukan Kredit Skype untuk menghantar mesej teks (SMS). <a href=\"skype:?payments\"> Beli Kredit Skype sekarang</a>"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_TOO_MANY"
 msgid "Sending too many files at once."
@@ -6755,18 +5730,6 @@ msgctxt "sOPTIONS_AUDIO_DEVICE_NONE"
 msgid "None"
 msgstr "Tiada"
 
-msgctxt "sAUTHORIZE_REQUEST_CAPTION"
-msgid "%s has added you as a contact."
-msgstr "%d telah menambah anda sebagai kenalan"
-
-msgctxt "sAUTHORIZE_COPY_REQUEST"
-msgid "Copy"
-msgstr "Salin"
-
-msgctxt "sF_AUTH_BTN_UNBLOCK"
-msgid "Unblock"
-msgstr "Nyahsekat"
-
 msgctxt "sOPTIONS_AUDIO_ADVANCED_LBL"
 msgid ""
 "List your audio devices in order of preference. Skype will use the first "
@@ -6793,10 +5756,6 @@ msgstr "atau pindahkan panggilan ini kepada orang lain"
 msgctxt "sCALLALERT_ADDTOCONF"
 msgid "Add to group call"
 msgstr "Tambah ke panggilan kumpulan"
-
-msgctxt "sF_IMPORTCONTACTS_LB_TITLE"
-msgid "Find your friends"
-msgstr "Cari rakan anda"
 
 msgctxt "sMAINMENU_SKYPE"
 msgid "Skype"
@@ -7042,25 +6001,9 @@ msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
 msgstr "Alatan"
 
-msgctxt "sMAINMENU_TOOLS_EXTRAS"
-msgid "Apps"
-msgstr "Apl"
-
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
 msgstr "Ubah Bahasa"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY"
-msgid "Accessibility"
-msgstr "Kebolebcapaian"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_NAVIGATION"
-msgid "Extended Keyboard Navigation"
-msgstr "Navigasi Papan Kekunci Tambahan"
-
-msgctxt "sMAINMENU_TOOLS_SHARE"
-msgid "Share Skype with a Friend..."
-msgstr "Kongsi Skype dengan Rakan..."
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
@@ -7511,20 +6454,6 @@ msgctxt "sF_OPTIONS_RING_ALL_DEVICES"
 msgid "Ring on all devices"
 msgstr "Dering pada semua peranti"
 
-msgctxt "sAUTHORIZATION_PANEL_TIP"
-msgid ""
-"You can control who can contact you in your <a "
-"href=\"skype:?options#privacy\">privacy settings</a>."
-msgstr "Anda boleh mengawal siapa yang dapat menghubungi anda di dalam <a href=\"skype:?options#privacy\">tetapan kerahsiaan</a>."
-
-msgctxt "sAUTHORIZATION_PANEL_COMMENT"
-msgid "Clicking Add to Contacts means this person can see when you are online"
-msgstr "Mengklik Tambah ke Kenalan bermaksud individu ini dapat melihat sama ada anda berada diatas-talian"
-
-msgctxt "sAUTHORIZE_BLOCKED_CAPTION2"
-msgid "%s is on your blocked list"
-msgstr "%s berada dalam senarai disekat anda"
-
 msgctxt "sCONVERSATION_SPAWNED_CONFERENCE2"
 msgid "%s created a group conversation"
 msgstr "%s mencipta perbualan kumpulan"
@@ -7663,10 +6592,6 @@ msgctxt "sDIALPAD_CALL"
 msgid "Call"
 msgstr "Panggilan"
 
-msgctxt "sDIALPAD_SMS"
-msgid "SMS"
-msgstr "SMS"
-
 msgctxt "sFILESIZE_PREFIXES"
 msgid "\\k\\M\\G\\T"
 msgstr "\\k\\M\\G\\T"
@@ -7790,18 +6715,6 @@ msgstr "<b>Teruk</b><br />Mempunyai beberapa masalah; memang menjejaskan panggil
 msgctxt "sF_CALL_QLT_LBL2_VERY_BAD"
 msgid "<b>Very bad</b><br />Problems so bad the call was impossible"
 msgstr "<b>Sangat teruk</b><br />Masalah terlalu teruk yang mana membuat panggilan adalah mustahil"
-
-msgctxt "sF_OPTIONS_LBL_VISUAL_STYLE"
-msgid "Visual style of the window"
-msgstr "Gaya visual tetingkap"
-
-msgctxt "sF_OPTIONS_RB_CHROME_SKYPE"
-msgid "Skype"
-msgstr "Skype"
-
-msgctxt "sF_OPTIONS_RB_CHROME_DEFAULT"
-msgid "Classic Windows"
-msgstr "Tetingkap Klasik"
 
 msgctxt "sF_CALL_QLT_LBL_CHOOSE_PROBLEMS"
 msgid "Choose all that apply."
@@ -8124,14 +7037,6 @@ msgctxt "sPROFILE_EMERGENCY_CALL2"
 msgid "You appear to be attempting to make an emergency call (%s) in %s"
 msgstr "Anda kelihatan cuba membuat panggilan kecemasan (%s) dalam %s"
 
-msgctxt "sSINGLE_WINDOW_MODE_BUTTON_HINT"
-msgid "Default View"
-msgstr "Paparan Lalai"
-
-msgctxt "sMULTI_WINDOW_MODE_BUTTON_HINT"
-msgid "Compact View"
-msgstr "Paparan Padat"
-
 msgctxt "sPROFILE_HEADER_EMERGENCY_CALL"
 msgid "Emergency Call"
 msgstr "Panggilan Kecemasan"
@@ -8168,48 +7073,14 @@ msgctxt "sACC_HIDE_CONVERSATION_PROFILE"
 msgid "Hide conversation profile"
 msgstr "Sembunyi profil perbualan"
 
-msgctxt "sACC_SHOW_CONTACT_PROFILE"
-msgid "Display contact profile"
-msgstr "Papar profil kenalan"
-
-msgctxt "sACC_HIDE_CONTACT_PROFILE"
-msgid "Hide contact profile"
-msgstr "Sembunyi profil kenalan"
-
-msgctxt "sACC_PROFILE_MOODMESSAGE"
-msgid "MoodMessage"
-msgstr "Mesej Mood"
-
 msgctxt "sINVITE_HEADING1"
 msgid "Add <b>%s</b> to your contacts"
 msgstr "Tambah <b>%s</b> ke dalam kenalan anda"
-
-msgctxt "sINVITE_HEADING2"
-msgid "1 new contact added"
-msgstr "1 kenalan baharu ditambah"
-
-msgctxt "sINVITE_CONTACT_CAPTION"
-msgid ""
-"You received an email invitation from <b>%s</b>.<br />Would you like to add "
-"this person as a contact on Skype?"
-msgstr "%s telah menerima jemputan emel daripada <b>%s</b>.<br />Anda ingin menambah individu ini sebagai kenalan di Skype?"
 
 msgctxt "sINVITE_REQUEST_TEXT"
 msgid ""
 "Your email contact %s is now on Skype. Please add them to your Contact list."
 msgstr "Kenalan emel anda %s kini sudah mempunyai Skype. Sila tambah mereka ke dalam senarai Kenalan anda."
-
-msgctxt "sINVITE_ADDED_CAPTION1"
-msgid "Find them in your Contact list and send them messages"
-msgstr "Cari mereka di dalam senarai Kenalan anda hantar kepada mereka mesej"
-
-msgctxt "sINVITE_ADDED_CAPTION2"
-msgid "Until they OK you as a contact, they look like this"
-msgstr "Sehingga mereka menerima anda sebagai kenalan iaitu OK, mereka akan kelihatan seperti ini"
-
-msgctxt "sINVITE_ADDED_CAPTION3"
-msgid "When they OK you, see when they're online and call them for free"
-msgstr "Bila mereka OK dan menerima anda, anda dapat melihat mereka diatas talian dan menelefon mereka secara percuma"
 
 msgctxt "sINVITE_NOTIFICATION"
 msgid ""
@@ -8265,14 +7136,6 @@ msgctxt "sVIDEO_BTN_SHOW_HERE"
 msgid "Show here"
 msgstr "Tunjuk di sini"
 
-msgctxt "sACC_DROPDOWBUTTON_DESCIPTION"
-msgid "To press use spacebar"
-msgstr "Untuk menekan guna spacebar"
-
-msgctxt "sACC_MYSELF_MOOD_DESCRIPTION"
-msgid "To edit use spacebar"
-msgstr "Untuk menyunting guna spacebar"
-
 msgctxt "sNOTIF_RECEIVED_SINGLE_CONTACT"
 msgid "New contact: %s"
 msgstr "Kenalan baharu: %s"
@@ -8292,22 +7155,6 @@ msgstr "%d kenalan dihantar ke kumpulan"
 msgctxt "sF_OPTIONS_CF_ERROR6"
 msgid "You are not allowed to forward calls to Skype Test Call"
 msgstr "Anda tidak dibenarkan memajukan panggilan ke Panggilan Uji Skype"
-
-msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
-msgid "In call"
-msgstr "Sedang memanggil"
-
-msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
-msgid "On hold"
-msgstr "Ditangguh"
-
-msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
-msgid "Muted"
-msgstr "Disenyapkan"
-
-msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
-msgid "Missed call"
-msgstr "Panggilan terlepas"
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
@@ -8344,14 +7191,6 @@ msgstr "Kekunci Win tidak dapat digunakan sebagai kekunci panas untuk %s"
 msgctxt "sUSER_IN_CONTACTS"
 msgid "This user is already in your contact list"
 msgstr "Pengguna ini sudah ada dalam kenalan anda"
-
-msgctxt "sCHATITEM_DESCRIPTION_FROM"
-msgid "From %s"
-msgstr "Daripada %s"
-
-msgctxt "sCHATITEM_DESCRIPTION_TIMESTAMP"
-msgid "at %s"
-msgstr "pada %s"
 
 msgctxt "sCHATITEM_DESCRIPTION_REMOVED"
 msgid "Removed by %s at %s"
@@ -8493,33 +7332,9 @@ msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype WiFi..."
 msgstr "WiFi Skype..."
 
-msgctxt "sALERTS_TITLE"
-msgid "Notifications"
-msgstr "Pemberitahuan"
-
-msgctxt "sUSERCREATE_NAME_HINT"
-msgid "6-32 characters needed"
-msgstr "6-32 aksara diperlukan"
-
 msgctxt "sUSERCREATE_PWD_HINT"
 msgid "6-20 characters needed"
 msgstr "6-20 aksara diperlukan"
-
-msgctxt "sUSERCREATE_FULLNAME_HINT"
-msgid "Enter your name"
-msgstr "Masukkan nama anda"
-
-msgctxt "sUSERCREATE_ERROR_NAMETOOSHORT"
-msgid "Too short: 6 characters min."
-msgstr "Terlalu pendek: minimum 6 aksara."
-
-msgctxt "sUSERCREATE_ERROR_NAMETOOLONG"
-msgid "Too long: 32 characters max."
-msgstr "Terlalu panjang: maksimum 32 aksara"
-
-msgctxt "sUSERCREATE_ERROR_NAMEINVALIDCHAR"
-msgid "Can only contain A-z 0-9 - _ ."
-msgstr "Hanya boleh mengandungi A-z 0-9 - _."
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid "Too short: 6 characters min."
@@ -8564,10 +7379,6 @@ msgstr "Kata laluan tidak sepadan"
 msgctxt "sUSERCREATE_ERROR_WRONGFIRSTCHAR"
 msgid "Must begin with a letter (A-z)"
 msgstr "Mesti bermula dengan abjad (A-z)"
-
-msgctxt "sUSERENTRY_GETHELP"
-msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
-msgstr "<a href=\"skype:?go#help.password.faq1\">Dapatkan bantuan</a>"
 
 msgctxt "sF_OPTIONS_NOTIF_ALERT"
 msgid "sends me a message"
@@ -8663,118 +7474,9 @@ msgctxt "SCQGUIDE_BACK_TO_MAINSCREEN"
 msgid "Return to main screen"
 msgstr "Kembali ke skrin utama"
 
-msgctxt "sCQGUIDE_ACC_EXPAND"
-msgid "Use spacebar to expand"
-msgstr "Guna spacebar untuk kembangkan"
-
-msgctxt "sCQGUIDE_ACC_COLLAPSE"
-msgid "Use spacebar to collapse"
-msgstr "Guna spacebar untuk kuncupkan"
-
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS_1"
 msgid "Display a notification in the Windows tray when Skype..."
 msgstr "Papar pemberitahuan dalam talam Windows bila Skype..."
-
-msgctxt "sF_USERENTRY_BUTTON_CREATE"
-msgid "Create account"
-msgstr "Cipta akaun"
-
-msgctxt "sF_USERENTRY_BUTTON_AGREE"
-msgid "I agree - create account"
-msgstr "Saya setuju - cipta akaun"
-
-msgctxt "sF_USERENTRY_BUTTON_CONTINUE"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "sF_USERENTRY_ERROR_GENERAL"
-msgid "There was a problem creating your account. Please try again."
-msgstr "Terdapat masalah ketika mencipta akaun anda. Sila cuba lagi."
-
-msgctxt "sF_USERENTRY_EMAIL_HINT"
-msgid "Enter a valid email address"
-msgstr "Masukkan alamat emel yang sah"
-
-msgctxt "sF_USERENTRY_REPEAT_EMAIL"
-msgid "Repeat email"
-msgstr "Ulang emel"
-
-msgctxt "sF_USERENTRY_HINT1"
-msgid "Note: anyone can see this information. Please fill in all fields."
-msgstr "Perhatian: sesiapa sahaja dapat melihat maklumat ini. Sila ia dalam semua medan."
-
-msgctxt "sF_USERENTRY_HINT2"
-msgid "Note: only you can see this information. Please fill in all fields."
-msgstr "Perhatian: hanya anda dapat melihat maklumat ini. Sila ia dalam semua medan."
-
-msgctxt "sF_USERENTRY_HINT3"
-msgid ""
-"Note: anyone can see this information. It's optional, so you don't have to "
-"enter it."
-msgstr "Perhatian: sesiapa sahaja dapat melihat maklumat ini. Ia adalah pilihan, jadi anda tidak diwajbkan masukkannya."
-
-msgctxt "sF_USERENTRY_HINT4"
-msgid ""
-"Note: only your contacts can see this information. Filling it in is "
-"optional."
-msgstr "Perhatian: hanya kenalan anda dapat melihat maklumat ini. Pengisiannya adalah pilihan."
-
-msgctxt "sF_USERENTRY_PHONE_HINT"
-msgid "Enter %s's phone number."
-msgstr "Masukkan nombor telefon %s."
-
-msgctxt "sF_USERENTRY_PHONE_HINT2"
-msgid "Enter the phone number with country or region code."
-msgstr "Masukkan nombor telefon dengan kod negara dan wilayah."
-
-msgctxt "sF_USERENTRY_PROFILE_HINT1"
-msgid ""
-"When your friends search for you on Skype, this information helps you stand "
-"out from other people who share your name."
-msgstr "Bila rakan anda mengelintar anda di Skype, maklumat ini dapat membantu anda lebih menonjol berbanding orang yang mempunyai nama yang serupa."
-
-msgctxt "sF_USERENTRY_PROFILE_HINT2"
-msgid ""
-"If you enter your birth date, Skype sends your friends a reminder when it's "
-"your birthday."
-msgstr "Jika anda masukkan tarikh lahir anda, Skype dapat menghantar peringatan kepada rakan anda bila tarikh lahir anda."
-
-msgctxt "sF_USERENTRY_PROFILE_HINT3"
-msgid ""
-"Enter your mobile number so your contacts can call you when you're offline."
-msgstr "Masukkan nombor telefon anda supaya kenalan anda dapat menelefon anda bila anda berada diluar talian."
-
-msgctxt "sF_USERENTRY_SUGGEST1"
-msgid "Skype Name not available"
-msgstr "Nama Skype tidak tersedia"
-
-msgctxt "sF_USERENTRY_BIRTHDAY"
-msgid "Birthday"
-msgstr "Hari Lahir"
-
-msgctxt "sF_USERENTRY_PHONE"
-msgid "Mobile phone number"
-msgstr "Nombor telefon bimbit"
-
-msgctxt "sF_USERENTRY_PHONE_ERROR"
-msgid "Invalid phone number"
-msgstr "Nombor telefon tidak sah"
-
-msgctxt "sF_USERENTRY_EMAIL_OK"
-msgid "Email OK"
-msgstr "Emel OK"
-
-msgctxt "sF_USERENTRY_EMAIL_INVALID"
-msgid "Invalid email address"
-msgstr "Alamat emel tidak sah"
-
-msgctxt "sF_USERENTRY_EMAIL_MATCH"
-msgid "Emails match"
-msgstr "Emel sepadan"
-
-msgctxt "sF_USERENTRY_EMAIL_NO_MATCH"
-msgid "Emails don't match"
-msgstr "Emel tidak sepadan"
 
 msgctxt "sCHAT_HISTORY_3M"
 msgid "3 months"
@@ -8816,14 +7518,6 @@ msgctxt "sCALL_TOOLBAR_TRANSFERRING"
 msgid "Call is being transferred"
 msgstr "Panggilan telah dipindahkan"
 
-msgctxt "sACC_CQGUIDE_LIST_BOX_DESC"
-msgid "Use Up or Down arrows to navigate through list items"
-msgstr "Guna anak panah Atas atau Bawah untuk dinavigasi menerusi item senarai"
-
-msgctxt "sF_USERENTRY_INFO_PROFILE"
-msgid "Set up your Skype profile"
-msgstr "Sediakan profil Skype anda"
-
 msgctxt "sCALLALERT_TRANSFER_BY"
 msgid "Call transfer from <b>%s</b>"
 msgstr "Panggilan dipindah dari <b>%s</b>"
@@ -8840,10 +7534,6 @@ msgctxt "sGROUP_CALL_REJECTED_IN"
 msgid "Group call declined."
 msgstr "Panggilan kumpulan ditolak."
 
-msgctxt "sAUTH_REQUEST_MSG_HEADER"
-msgid "This person would like to connect with you"
-msgstr "Individu ini mahu berhubung dengan anda"
-
 msgctxt "sSKYACCESS_TRAY_HOTSPOT_DETECTED"
 msgid "You can use Skype Credit to pay for internet access."
 msgstr "Anda boleh guna Kredit Skype untuk membayar capaian internet."
@@ -8859,10 +7549,6 @@ msgstr "Keluar dari Skype"
 msgctxt "sTASKBAR_MENU_SKYACCESS"
 msgid "Skype WiFi..."
 msgstr "WiFi Skype..."
-
-msgctxt "sTRAYALERT_AUTH_REQUEST"
-msgid "New contact request"
-msgstr "Permintaan kenalan baharu"
 
 msgctxt "sLIVE_B_FULLSCREEN"
 msgid "Full screen"
@@ -8926,7 +7612,7 @@ msgctxt "sCQ_MIC_ON_MUTE_ON_CALL_DESC"
 msgid ""
 "Plug in your microphone, switch it on, and check you've selected it in your "
 "microphone settings. Check your mic isn't muted in your computer's volume "
-"settings, or check  your microphone for a mute switch and press it."
+"settings, or check your microphone for a mute switch and press it."
 msgstr "Palamkan mikrofon anda, hidupkannya, dan periksa sama ada anda telah memilihnya di dalam tetapan mikrofon anda. Pastikan mikrofon anda tidak disenyapkan di dalam tetapan volum komputer anda, atau periksa mikrofon anda jika ada suis senyap dan tekan ia."
 
 msgctxt "sCQ_CANT_ADJUST_MIC_OFF_CALL_TITLE"
@@ -9165,14 +7851,6 @@ msgid ""
 "Not seeing each other's video? You should both turn your video off then on "
 "again, or plug your webcams into a different USB port and restart."
 msgstr "Tidak dapat melihat video diantara satu sama lain? Kedua-duanya patut matikan dahulu kemudian hidupkan kembali, atau palam kamera sesawang ke port USB yang lain kemudian mulakan semula."
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
-msgid ""
-msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
-msgid ""
-msgstr ""
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_TITLE"
 msgid "Your computer speed is very slow"
@@ -9422,10 +8100,6 @@ msgctxt "sFLOW_CALLTRANSFER_REJECTED_IN"
 msgid "Call transferred by %s declined."
 msgstr "Panggilan dipindah oleh %s telah ditolak."
 
-msgctxt "sF_USERENTRY_LB_PROGRESS"
-msgid "Checking your Skype Name is available"
-msgstr "Pemeriksaan Nama Skype anda sudah tersedia"
-
 msgctxt "sTRANSFER_THIS_CALL"
 msgid "Transfer this call"
 msgstr "Pindah panggilan ini"
@@ -9565,10 +8239,6 @@ msgctxt "sCALL_TRANSFER_NO_FUNDS2"
 msgid ""
 "Try calling back. The person who transferred the call has run out of credit."
 msgstr "Cuba memanggil balik. Individu yang memindahkan panggilan telah kehabisan kredit."
-
-msgctxt "sUSERCREATE_ERROR_NOFULLNAME"
-msgid "Please fill in your full name"
-msgstr "Sila isi nama penuh anda"
 
 msgctxt "sSMS_FAILED_CHECK"
 msgid "Check number"
@@ -9728,12 +8398,6 @@ msgid ""
 "video."
 msgstr "Lain-lain kumpulan tidak dapat lihat anda lagi. Tekan butang dibawah untuk mulakan video anda."
 
-msgctxt "sCONVERSATION_PARTNER_NOT_BUDDY"
-msgid ""
-"Want to message this person? <a href=\"skype:%s?add\">Add them as a contact "
-"first</a>."
-msgstr "Ingin mesej ke individu ini? <a href=\"skype:%s?add\">Tambah mereka sebagai kenalan terlebih dahulu</a>."
-
 msgctxt "sSNAPSHOT_OF_ME"
 msgid "Picture of me"
 msgstr "Gambar saya"
@@ -9741,10 +8405,6 @@ msgstr "Gambar saya"
 msgctxt "sOPTIONS_SMS_STATUS_LB11"
 msgid "This number has already been verified"
 msgstr "Nombor ini telah disahkan"
-
-msgctxt "sMAINMENU_FLAMINGO_OPEN"
-msgid "Facebook Updates"
-msgstr "Kemaskini Facebook"
 
 msgctxt "sFLAMINGO_CAPTION"
 msgid "Facebook"
@@ -9858,8 +8518,9 @@ msgstr "Anda melihat video pada panggilan ini kerana %s mempunyai panggilan vide
 
 msgctxt "sPREM_VIDEO_UPRGADE"
 msgid ""
-"Some people on the call need to get Skype 5.0 or higher to use group video."
-msgstr "Sesetengah orang dalam panggilan perlu dapatkan Skype 5.0 atau yang lebih tinggi untuk guna video kumpulan."
+"Some people on the call are unable to see group video. They may need to "
+"update Skype or use a supported device."
+msgstr "Sesetengah pemanggil tidak dapat melihat video kumpulan. Mereka perlu mengemaskini Skype atau guna peranti yang disokong."
 
 msgctxt "sPREM_VIDEO_TOO_MANY_PARTICIPANTS"
 msgid "Video is only supported on calls with up to %d people."
@@ -9919,10 +8580,6 @@ msgid ""
 "group video calls again from next month."
 msgstr "Anda sudah mencapai had 100-jam untuk bulan ini, Anda boleh membuat panggilan video kumpulan lagi pada bukan berikutnya."
 
-msgctxt "sMYSELF_PROFILE_LOCATION"
-msgid "Location"
-msgstr "Lokasi"
-
 msgctxt "sMYSELF_PROFILE_CONTACTS"
 msgid "Contacts"
 msgstr "Kenalan"
@@ -9930,14 +8587,6 @@ msgstr "Kenalan"
 msgctxt "sMYSELF_PROFILE_VOICEMAIL_LINK"
 msgid "Set up voice messaging"
 msgstr "Tetapkan pemesejan bersuara"
-
-msgctxt "sMYSELF_PROFILE_CALLER_ID_LINK"
-msgid "Set up caller ID"
-msgstr "Pasang ID pemanggil"
-
-msgctxt "sMYSELF_PROFILE_CALL_FORWARD_LINK"
-msgid "Set up call forwarding"
-msgstr "Pasang pemajuan panggilan"
 
 msgctxt "sMYSELF_PROFILE_CALL_TIME"
 msgid "Time"
@@ -10024,25 +8673,9 @@ msgctxt "sPROFILE_PRIVACY_PRIVATE_LONG"
 msgid "Private - visible only to you"
 msgstr "Persendirian - hanya kelihatan pada anda sahaja"
 
-msgctxt "sPROFILE_AVARAR_LABEL"
-msgid "Picture"
-msgstr "Gambar"
-
 msgctxt "sPROFILE_MOOD_LABEL"
 msgid "Mood"
 msgstr "Mood"
-
-msgctxt "sPROFILE_SKYPENAME_LABEL"
-msgid "Skype Name"
-msgstr "Nama Skype"
-
-msgctxt "sPROFILE_ADD_EMAIL_LINK"
-msgid "Add another email address"
-msgstr "Tambah alamat emel yang lain"
-
-msgctxt "sPROFILE_ACCOUNT_LABEL"
-msgid "Account"
-msgstr "Akaun"
 
 msgctxt "sMAINMENU_SHOW_HIDDEN_CONV"
 msgid "Show Hidden Conversations"
@@ -10066,9 +8699,9 @@ msgstr "Sembunyi Perbualan"
 
 msgctxt "sINFO_CONV_HIDE_TEXT"
 msgid ""
-"To add a hidden conversations back to the Recent list, select View » Show "
+"To add a hidden conversation back to the Recent list, select View » Show "
 "Hidden Conversations from the main menu."
-msgstr "Untuk menambah perbualan tersembunyi kembali ke senarai Baru-Baru ini, pilih Lihat » Tunjuk Perbualan Tersembunyi dari menu utama."
+msgstr "Untuk menambah perbualan kembali ke senarai Baru-baru ini, pilih Lihat » Tunjuk Perbualan Tersembunyi dari menu utama."
 
 msgctxt "sINFO_CONV_HIDE_CAPTION"
 msgid "Show conversations"
@@ -10105,14 +8738,6 @@ msgstr "%s tiada dalam Kenalan anda."
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
 msgstr "Tutup %s"
-
-msgctxt "sCONTACT_NOTIFICATION"
-msgid "Contact request"
-msgstr "Permintaan kenalan"
-
-msgctxt "sCONTACT_NOTIFICATION_MANY"
-msgid "Contact requests"
-msgstr "Permintaan kenalan"
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_VIDEO_TITLE"
 msgid "The connection between you is too slow for good video."
@@ -10172,15 +8797,6 @@ msgid ""
 "while we try to get the call back."
 msgstr "Terdapat masalah dengan sambungan internet diantara anda berdua. Tunggu sebentar ketika kami cuba dapatkan balik panggilan."
 
-msgctxt "sAUTH_REQUEST_EMAIL_COMPANY"
-msgid ""
-"<b>%s</b> registered with Skype as an employee of <b>%s</b> under <b>%s</b>"
-msgstr "<b>%s</b> berdaftar dengan Skype sebagai pekerja <b>%s</b> dibawah <b>%s</b>"
-
-msgctxt "sAUTH_REQUEST_EMAIL"
-msgid "<b>%s</b> registered with Skype under the email <b>%s</b>"
-msgstr "<b>%s</b> berdaftar dengan Skype dibawah emel <b>%s</b>"
-
 msgctxt "sNO_CONVERSATIONS"
 msgid "No recent conversations"
 msgstr "Tiada perbualan baru-baru ini"
@@ -10188,10 +8804,6 @@ msgstr "Tiada perbualan baru-baru ini"
 msgctxt "sINBOX_OLDER_THAN_A_WEEK"
 msgid "Older than a week"
 msgstr "Lebih lama dari seminggu"
-
-msgctxt "sPROFILE_ADD_EMAIL_TEXT"
-msgid "(Makes it easier to find you)"
-msgstr "(Jadikannya lebih mudah mencari anda)"
 
 msgctxt "sLIVE_ADD_TO_CONTACTS"
 msgid "Add to Contacts..."
@@ -10247,10 +8859,6 @@ msgctxt "sMANUAL_FOCUS"
 msgid "Normal view"
 msgstr "Paparan biasa"
 
-msgctxt "sAUTH_REQUEST_COMPANY"
-msgid "<b>%s</b> registered with Skype as an employee of <b>%s</b>"
-msgstr "<b>%s</b> berdaftar dengan Skype sebagai pekerja <b>%s</b>"
-
 msgctxt "sCQ_GROUP_TOO_BIG_TITLE"
 msgid "Too many people on this call"
 msgstr "Terlalu banyak orang pada panggilan ini"
@@ -10280,10 +8888,6 @@ msgstr "Galeri Petikan"
 msgctxt "sMAINMENU_CALL_CALL_A_PHONE_NUMBER"
 msgid "Call Phones"
 msgstr "Telefon"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_ASSISTED"
-msgid "Screen Reader Mode"
-msgstr "Mod Pembaca Skrin"
 
 msgctxt "sLIVE_MOBILE"
 msgid "(mobile)"
@@ -10480,22 +9084,6 @@ msgid ""
 " <a href=\"skype:?go#legal.privacy\">Learn more</a>"
 msgstr "Benarkan Microsoft mensasarkan iklan, termasuklah penggunaan usia dan jantina profil Skype. <a href=\"skype:?go#legal.privacy\">Ketahui lebih lanjut</a>"
 
-msgctxt "sADD_CONTACT_LONG"
-msgid "Add a contact"
-msgstr "Tambah kenalan"
-
-msgctxt "sADD_CONTACT_SHORT"
-msgid "Contact"
-msgstr "Kenalan"
-
-msgctxt "sCREATE_GROUP_LONG"
-msgid "Create a group"
-msgstr "Cipta satu kumpulan"
-
-msgctxt "sCREATE_GROUP_SHORT"
-msgid "Group"
-msgstr "Kumpulan"
-
 msgctxt "sFEATURE_DISABLED"
 msgid "This feature is disabled by your administrator"
 msgstr "Fitur ini dilumpuhkan oleh pentadbir anda"
@@ -10531,10 +9119,6 @@ msgstr "Tambah nombor telefon individu ini untuk menghantar mesej berteks (SMS)"
 msgctxt "sSMSPOPUP_DESC_NOCREDIT"
 msgid "You need Skype Credit to send SMS"
 msgstr "Anda perlukan Kredit Skype untuk menghantar SMS"
-
-msgctxt "sMYSELF_PANEL_PROF_ACCOUNT"
-msgid "Professional account"
-msgstr "Akaun profesional"
 
 msgctxt "sF_CALL_FAILURE_TITLE"
 msgid "Call phones and mobiles"
@@ -10594,27 +9178,9 @@ msgctxt "sCALLPHONES_PAYG_CAPTION"
 msgid "Pay As You Go rates from"
 msgstr "Kadar Bayar Bila Anda Guna bermula"
 
-msgctxt "sCALLPHONES_PAYG_LNK"
-msgid "<a href=\"skype:?payments#skypeout\">Buy Skype Credit</a>"
-msgstr "<a href=\"skype:?payments#skypeout\">Beli Kredit Skype</a>"
-
-msgctxt "sCALLPHONES_PAYG_MORE_LNK"
-msgid "<a href=\"skype:?payments#skypeout\">Buy more credit</a>"
-msgstr "<a href=\"skype:?payments#skypeout\">Beli lagi kredit</a>"
-
 msgctxt "sCALLPHONES_SUBSCR_CAPTION"
 msgid "Pay monthly from"
 msgstr "Bayar secara bulanan bermula"
-
-msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
-msgid ""
-"<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get another "
-"subscription</a>"
-msgstr "<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Dapatkan langganan lain</a>"
-
-msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
-msgid "<a href=\"skype:?mic\">View your subscription(s)</a>"
-msgstr "<a href=\"skype:?mic\">Lihat langganan anda(s)</a>"
 
 msgctxt "sCALLPHONES_RATES_LNK"
 msgid "<a href=\"skype:?go#prices\">See all rates</a>"
@@ -10640,10 +9206,6 @@ msgid ""
 "Pay As You Go calls only."
 msgstr "Sedikit <a href=\"skype:?go#connectionfee\">yuran sambungan</a> dikenakan untuk panggilan Bayar Bila Anda Guna sahaja."
 
-msgctxt "sSMS_TO_BUTTON"
-msgid "To %s"
-msgstr "Kepada %s"
-
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
 msgstr "(%s/min termasuk VAT)"
@@ -10660,10 +9222,6 @@ msgctxt "sCALLPHONES_SUBSCR_EXPIRING"
 msgid "Expiring soon"
 msgstr "Akan luput tidak lama lagi"
 
-msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
-msgid "• <a href=\"%s\">Renew</a>"
-msgstr "• <a href=\"%s\">Perbaharui</a>"
-
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
 msgstr "Telefon"
@@ -10676,10 +9234,6 @@ msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
 msgstr "Panggilan pertama anda adalah percuma"
 
-msgctxt "sCALL_POPUP_VOICEMAIL"
-msgid "Voice message"
-msgstr "Mesej bersuara"
-
 msgctxt "sPROFILE_STATUS_OFFLINE_CF"
 msgid "Offline. Calls forwarded at no cost to you."
 msgstr "Diluar talian. Panggilan dimajukan tanpa kos."
@@ -10691,10 +9245,6 @@ msgstr "Diluar talian. Panggilan akan diterima sebagai mesej bersuara."
 msgctxt "sCALLPHONES_AUTOCOMPLETE_ITEM"
 msgid "%s (%s: %s)"
 msgstr "%s (%s: %s)"
-
-msgctxt "sMENU_EDIT_COLUMN_ACCNAME"
-msgid "Edit"
-msgstr "Sunting"
 
 msgctxt "sCALL_DROPDOWN_TEXT"
 msgid "More calling options"
@@ -10716,12 +9266,6 @@ msgctxt "sCALLPHONES_PRO_TITLE"
 msgid "Professional account"
 msgstr "Akaun profesional"
 
-msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
-msgid ""
-"%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">Request more"
-" credit</a>"
-msgstr "%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">Mohon lagi kredit</a>"
-
 msgctxt "sCALLPHONES_PRO_CREDIT_WARNING"
 msgid "Low on credit!"
 msgstr "Kekurangan kredit!"
@@ -10733,12 +9277,6 @@ msgstr "Anda mempunyai %d langganan"
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_PLUR"
 msgid "You have %d subscriptions"
 msgstr "Anda mempunyai %d langganan"
-
-msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
-msgid ""
-"<a href=\"skype:?go&sso=1#skype.manager.request-products\">Request a "
-"subscription</a>"
-msgstr "<a href=\"skype:?go&sso=1#skype.manager.request-products\">Mohon langgan</a>"
 
 msgctxt "sCALL_POPUP_EDIT_EXTENSION"
 msgid "Choose country code for this phone"
@@ -10764,10 +9302,6 @@ msgctxt "sLIVE_VIDEO_OFF"
 msgid "Your video is turned off"
 msgstr "Video anda dimatikan"
 
-msgctxt "sLIVE_PLUS_BUTTON_HINT"
-msgid "Add, send and share..."
-msgstr "Tambah, hantar dan kongsi..."
-
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
 msgstr "Pilih skrin untuk panggilan ini"
@@ -10789,11 +9323,6 @@ msgstr "Senarai rakan anda tidak tersedia buat masa ini. Cuba menyambung semula 
 msgctxt "sFLAMINGO_DISABLED"
 msgid "You're not able to see Facebook friends in Skype at the moment."
 msgstr "Anda tidak boleh melihat rakan Facebook dalam Skype buat masa ini."
-
-msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
-msgid ""
-"<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get a subscription</a>"
-msgstr "<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Dapatkan langganan</a>"
 
 msgctxt "sCALLPHONES_COUNTRY_DROPDOWN_HINT"
 msgid "Choose country/region"
@@ -10973,16 +9502,12 @@ msgid "Get Apps..."
 msgstr "Dapatkan Apl..."
 
 msgctxt "sLIVE_PLUS_MENU_ADD_PEOPLE"
-msgid "Add People to This Call..."
-msgstr "Tambah Individu ke Panggilan Ini..."
+msgid "Add people to this call..."
+msgstr "Tambah Individu ke panggilan Ini..."
 
 msgctxt "sOPTIONS_CALL_CONTROLS"
 msgid "Show call controls when Skype is in the background"
 msgstr "Tunjuk kawalan panggilan bila Skype dibelakang"
-
-msgctxt "sCALL_POPUP_CALL_SKYPE_ITEM"
-msgid "Call"
-msgstr "Panggil"
 
 msgctxt "sCALL_MONITOR_ON_HOLD"
 msgid "On hold"
@@ -10991,18 +9516,6 @@ msgstr "Ditangguh"
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
 msgstr "Panggilan pertama adalah percuma"
-
-msgctxt "sCALL_PHONES"
-msgid "Call phones"
-msgstr "Buat panggilan telefon"
-
-msgctxt "sNEW_ACCOUNT_NOTIFY"
-msgid "New account notification"
-msgstr "Pemberitahuan akaun baharu"
-
-msgctxt "sNEW_ACCOUNT_NOTIFY_MANY"
-msgid "New account notifications"
-msgstr "Pemberitahuan akaun baharu"
 
 msgctxt "sCHANGE_SHARING_OPTIONS_HINT"
 msgid "Change sharing options"
@@ -11159,10 +9672,6 @@ msgctxt "sGETTING_STARTED_SAVE_BUTTON"
 msgid "Use this picture"
 msgstr "Guna gambar ini"
 
-msgctxt "sZAPCONTACT_XMPP"
-msgid "Facebook"
-msgstr "Facebook"
-
 msgctxt "sGETTING_STARTED_TRY_AGAIN"
 msgid "Try again"
 msgstr "Cuba lagi"
@@ -11217,7 +9726,7 @@ msgstr "Panggilan ke %s gagal. Pemalam diperlukan"
 
 msgctxt "sFBPLUGIN_INSTALL_WARNING"
 msgid ""
-"Your friend needs to install a plugin before you can chat.  Please wait for "
+"Your friend needs to install a plugin before you can chat. Please wait for "
 "their return call or try again later."
 msgstr "Rakan anda perlu memasang pemalam sebelum anda boleh bersembang. Tunggu panggilan mereka dan cuba lagi kemudian."
 
@@ -11285,18 +9794,6 @@ msgctxt "sTEST_SOUND_STOP_ACC_DESC"
 msgid "Click to stop playing test sound"
 msgstr "Klik untuk henti mainkan bunyi uji"
 
-msgctxt "sSMS_REPLY_TO_CHAT"
-msgid "Replies will be shown here"
-msgstr "Balasan tidak akan ditunjuk di sini"
-
-msgctxt "sSMS_REPLY_TO_NUM"
-msgid "Replies will be sent to %s"
-msgstr "Balasan akan dihantar ke %s"
-
-msgctxt "sSMS_REPLY_TO_NONE"
-msgid "To receive replies, add a From number"
-msgstr "Untuk menerima balasan, tambah nombor Daripada"
-
 msgctxt "sLIVE_SO_PLUS_BUTTON_HINT"
 msgid "Add participants"
 msgstr "Tambah peserta"
@@ -11313,10 +9810,6 @@ msgctxt "sHOTKEY_SNAPSHOT"
 msgid "Take a snapshot during video calls"
 msgstr "Ambil petikan semasa panggilan video"
 
-msgctxt "sSMS_FROM_MORE_OPTIONS"
-msgid "More options"
-msgstr "Lagi pilihan"
-
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
 msgstr "Skype"
@@ -11329,45 +9822,9 @@ msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
 msgstr "Tambah nombor"
 
-msgctxt "sSMS_FROM_SKYPE_DISABLED"
-msgid "Skype (not available)"
-msgstr "Skype (tidak tersedia)"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION1"
-msgid "To receive SMS replies directly in Skype"
-msgstr "Untuk menerima balasan SMS secara langsung dalam Skype"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION2"
-msgid "Below the chat box, select <b>Reply to</b> and choose <b>Skype</b>."
-msgstr "Dibawah kotak sembang, pilih <b>Balas ke</b> dan pilih <b>Skype</b>."
-
-msgctxt "sF_OPTIONS_SMS_CAPTION3"
-msgid "(Not available with some mobile numbers.)"
-msgstr "(Tidak tersedia dengan beberapa nombor telefon bimbit.)"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION4"
-msgid "To receive SMS replies on your mobile"
-msgstr "Untuk menerima balasan SMS pada telefon bimbit anda"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION5"
-msgid "Below the chat box, select <b>Reply to</b> and choose <b>Mobile</b>."
-msgstr "Dibawah kotak sembang, pilih <b>Balas ke</b> dan pilih <b>Bimbit</b>."
-
-msgctxt "sF_OPTIONS_SMS_VER_NUMBERS"
-msgid "Your verified numbers:"
-msgstr "Nombah sah anda:"
-
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
 msgstr "OK"
-
-msgctxt "sF_OPTIONS_SMS_VER_CAPTION"
-msgid "Please verify your mobile number below:"
-msgstr "Sila sahkan nombor telefon bimbit anda dibawah:"
-
-msgctxt "sF_USERINFO_AGE_JUST_GOT_NOYEAR"
-msgid "It's %s's birthday today"
-msgstr "%s mempunyai hari lahir pada hari ini"
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
@@ -11654,8 +10111,8 @@ msgstr "Keselamatan"
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_VAT"
 msgid ""
-"VAT (value added taxes) is applicable to residents of the EU and calculated "
-"at the Luxembourg VAT rate. If you live outside the EU, you will not be "
+"VAT (value added tax) is applicable to residents of the EU and calculated at"
+" the Luxembourg VAT rate. If you live outside the EU, you will not be "
 "charged the VAT."
 msgstr "VAT (cukai berdasarkan nilai) dikenakan kepada penduduk EU dan dikira mengikut kadar VAT Luxembourg. Jika anda tinggal diluar EU, anda tidak akan dikenakan VAT."
 
@@ -11760,23 +10217,9 @@ msgctxt "sSKYPEWIFI_ONLINE_HEADER"
 msgid "You're online with Skype WiFi"
 msgstr "Anda berada diatas talian dengan WiFi Skype"
 
-msgctxt "sSKYPEWIFI_ONLINE_DESC"
-msgid ""
-"Your Internet connection will time out in {MINUTES_REMAINING} minutes. You "
-"can disconnect at any time and you'll only be charged for the minutes used."
-msgstr "Sambungan Internet anda akan tamat dalam tempoh {MINUTES_REMAINING} minit. Anda boleh putuskan bila-bila masa dan hanya dicas mengikut minit penggunaan."
-
 msgctxt "sSKYPEWIFI_ONLINE_BUTTON"
 msgid "Disconnect"
 msgstr "Putuskan"
-
-msgctxt "sSKYPEWIFI_ONLINE_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "{MINUTES_REMAINING} minit berbaki"
-
-msgctxt "sSKYPEWIFI_ONLINE_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "1 minit berbaki"
 
 msgctxt "sSKYPEWIFI_EXTEND_HEADER"
 msgid "Your connection is about to time out"
@@ -11796,29 +10239,9 @@ msgctxt "sSKYPEWIFI_EXTEND_BUTTON_DISCONNECT"
 msgid "Disconnect"
 msgstr "Putuskan"
 
-msgctxt "sSKYPEWIFI_EXTEND_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "{MINUTES_REMAINING} minit berbaki"
-
-msgctxt "sSKYPEWIFI_EXTEND_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "1 minit berbaki"
-
 msgctxt "sSKYPEWIFI_FLOATER_TITLE"
 msgid "Skype WiFi"
 msgstr "WiFi Skype"
-
-msgctxt "sSKYPEWIFI_FLOATER_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "{MINUTES_REMAINING} minit berbaki"
-
-msgctxt "sSKYPEWIFI_FLOATER_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "1 minit berbaki"
-
-msgctxt "sSKYPEWIFI_FLOATER_NOTIME"
-msgid "Connected"
-msgstr "Bersambung"
 
 msgctxt "sSKYPEWIFI_FLOATER_AVAILABLE"
 msgid "Available"
@@ -11827,10 +10250,6 @@ msgstr "Tersedia"
 msgctxt "sSKYPEWIFI_FLOATER_CONNECTING"
 msgid "Connecting..."
 msgstr "Menyambung..."
-
-msgctxt "sSKYPEWIFI_FLOATER_EXTEND"
-msgid "Click here to extend your session"
-msgstr "Klik di sini untuk lanjutkan sesi anda"
 
 msgctxt "sSKYPEWIFI_FAQ_CAPTION"
 msgid "Skype WiFi"
@@ -11842,32 +10261,32 @@ msgstr "FAQ"
 
 msgctxt "sSKYPEWIFI_FAQ"
 msgid ""
-"<font size=\"11px\" color=\"#6e6e73\" name=\"Tahoma\"><br /><br /><b><font "
-"size=\"13px\">1. What is Skype WiFi?</font></b><br/>Skype WiFi is a "
-"fantastic way to browse the internet at public Skype hotspots around the "
-"world, using your Skype Credit as payment. No more fumbling with credit "
-"cards or cumbersome sign up processes when you’re on the move - you can "
-"simply use your Skype Credit to get online. You only pay per minute for what"
-" you use. There’s no need to buy an internet day-pass if all you need is a "
-"few minutes of access.<br /><br /><b><font size=\"13px\">2. How much does "
-"Skype WiFi cost?</font></b><br/>Skype WiFi prices vary by provider and will "
-"be displayed when you connect to supported hotspots.<br /><br /><b><font "
-"size=\"13px\">3. How do I use Skype WiFi?</font></b><br/>You must first "
-"connect to a Skype network in a public hotspot. If the hotspot is supported,"
-" you will be prompted to use your Skype Credit to pay for Internet access on"
-" a per-minute-basis.<br /><br /><b><font size=\"13px\">4. How does Skype "
-"WiFi work?</font></b><br/>Once you click “Connect”, Skype WiFi reserves "
-"enough credit for up to 30 minutes use. You will only pay for what you use, "
-"so if you connect for 10 minutes, you’ll only pay for 10 minutes and your "
-"remaining credits will be available in your Skype Credit account.<br /><br "
-"/><b><font size=\"13px\">5. I’m connected, now what?</font></b><br/>Once you"
-" connect with Skype WiFi you use your device as normal. You can check your "
-"email, surf the web or run apps that need data connectivity. For your "
-"convenience, we’ll count down the minutes. This way you can see how much "
-"time you have remaining to stay online.<br /><br /><b><font size=\"13px\">6."
-" What happens if I forget to disconnect?</font></b><br/>For your protection,"
-" Skype WiFi will time-out after 30 minutes.</font><br />"
-msgstr "<font size=\"11px\" color=\"#6e6e73\" name=\"Tahoma\"><br /><br /><b><font size=\"13px\">1. Apakah itu WiFi Skype?</font></b><br/>WiFi Skype adalah satu cara yang menarik untuk melayari internet melalui pusat panas Skype awam yang ada seluruh dunia, dengan menggunakan kredit Skype anda sebagai bayaran. Tidak memerlukan kad kredit atau proses menandatangan yang menyusahkan bila anda mahu guna - anda hanya guna Kredit Skype anda untuk berada diatas talian. Anda hanya bayar per minit yang anda guna. Tidak perlu beli laluan-harian internet jika anda perlu capaian beberapa minit sahaja.<br /><br /><b><font size=\"13px\">2. Berapakah kos penggunaan WiFi Skype?</font></b><br/>Harga WiFi Skype berbeza mengikut penyedia dan akan dipaparkan bila anda bersambung ke pusat panas yang disokong.<br /><br /><b><font size=\"13px\">3. Bagaimanakah saya dapat gunakan WiFi Skype?</font></b><br/>Terlebih dahulu anda mesti sambung ke rangkaian Skype di dalam pusat panas awam. Jika pusat panasa disokong, anda akan dimaklumkan boleh gunakan Kredit  Skype anda untuk bayar capaian Internet berdasarkan per-minit.<br /><br /><b><font size=\"13px\">4. Bagaimanakah WiFi Skype berfungsi?</font></b><br/>Bilamana anda mengklik “Sambung”, WiFi Skype akan tetapkan kredit yang mencukupi sehingga penggunaan selama 30 minit. Anda hanya bayar sebanyak mana yang anda guna, oleh itu jika anda sambung selama 10 minit, pembayaran hanya sebanyak penggunaan 10 minit dan baki kredit akan akan tersedia di dalam akaun Skype anda.<br /><br /><b><font size=\"13px\">5. Saya sudah bersambung, nak buat apa?</font></b><br/>Jika anda bersambung dengan WiFi Skype anda boleh guna seperti biasa. Anda boleh semak emel, layari sesawang atau jalankan apl yang memerlukan kesambungan data. Untuk memudahkan pengiraan, kami sertakan kiraan minit. Dengan cara ini anda boleh lihat berapa lama masa berbaki untuk berada diatas talian.<br /><br /><b><font size=\"13px\">6. Apa akan berlaku jika saya terlupa untuk putuskan?</font></b><br/>Sebagai perlindungan anda, WiFi Skype akan tamat dalam tempoh 30 minit.</font><br />"
+"<br /><br /><b><font size=\"13px\">1. What is Skype "
+"WiFi?</font></b><br/>Skype WiFi is a fantastic way to browse the internet at"
+" public Skype hotspots around the world, using your Skype Credit as payment."
+" No more fumbling with credit cards or cumbersome sign up processes when "
+"you’re on the move - you can simply use your Skype Credit to get online. You"
+" only pay per minute for what you use. There’s no need to buy an internet "
+"day-pass if all you need is a few minutes of access.<br /><br /><b><font "
+"size=\"13px\">2. How much does Skype WiFi cost?</font></b><br/>Skype WiFi "
+"prices vary by provider and will be displayed when you connect to supported "
+"hotspots.<br /><br /><b><font size=\"13px\">3. How do I use Skype "
+"WiFi?</font></b><br/>You must first connect to a Skype network in a public "
+"hotspot. If the hotspot is supported, you will be prompted to use your Skype"
+" Credit to pay for Internet access on a per-minute-basis.<br /><br "
+"/><b><font size=\"13px\">4. How does Skype WiFi work?</font></b><br/>Once "
+"you click “Connect”, Skype WiFi reserves enough credit for up to 30 minutes "
+"use. You will only pay for what you use, so if you connect for 10 minutes, "
+"you’ll only pay for 10 minutes and your remaining credits will be available "
+"in your Skype Credit account.<br /><br /><b><font size=\"13px\">5. I’m "
+"connected, now what?</font></b><br/>Once you connect with Skype WiFi you use"
+" your device as normal. You can check your email, surf the web or run apps "
+"that need data connectivity. For your convenience, we’ll count down the "
+"minutes. This way you can see how much time you have remaining to stay "
+"online.<br /><br /><b><font size=\"13px\">6. What happens if I forget to "
+"disconnect?</font></b><br/>For your protection, Skype WiFi will time-out "
+"after 30 minutes.<br />"
+msgstr "<br /><br /><b><font size=\"13px\">1. Apa itu WiFi Skype?</font></b><br/>WiFi Skype adalah satu cara yang menarik untuk melayari internet melalui pusat panas Skype awam yang ada seluruh dunia, dengan menggunakan kredit Skype anda sebagai bayaran. Tidak memerlukan kad kredit atau proses menandatangan yang menyusahkan bila anda mahu guna - anda hanya guna Kredit Skype anda untuk berada diatas talian. Anda hanya bayar per minit yang anda guna. Tidak perlu beli laluan-harian internet jika anda perlu capaian beberapa minit sahaja.<br /><br /><b><font size=\"13px\">2. Berapakah kos penggunaan WiFi Skype?</font></b><br/>Harga WiFi Skype berbeza mengikut penyedia dan akan dipaparkan bila anda bersambung ke pusat panas yang disokong.<br /><br /><b><font size=\"13px\">3. Bagaimanakah saya dapat gunakan WiFi Skype?</font></b><br/>Terlebih dahulu anda mesti sambung ke rangkaian Skype di dalam pusat panas awam. Jika pusat panasa disokong, anda akan dimaklumkan boleh gunakan Kredit  Skype anda untuk bayar capaian Internet berdasarkan per-minit.<br /><br /><b><font size=\"13px\">4. Bagaimanakah WiFi Skype berfungsi?</font></b><br/>Bilamana anda mengklik “Sambung”, WiFi Skype akan tetapkan kredit yang mencukupi sehingga penggunaan selama 30 minit. Anda hanya bayar sebanyak mana yang anda guna, oleh itu jika anda sambung selama 10 minit, pembayaran hanya sebanyak penggunaan 10 minit dan baki kredit akan akan tersedia di dalam akaun Skype anda.<br /><br /><b><font size=\"13px\">5. Saya sudah bersambung, nak buat apa?</font></b><br/>Jika anda bersambung dengan WiFi Skype anda boleh guna seperti biasa. Anda boleh semak emel, layari sesawang atau jalankan apl yang memerlukan kesambungan data. Untuk memudahkan pengiraan, kami sertakan kiraan minit. Dengan cara ini anda boleh lihat berapa lama masa berbaki untuk berada diatas talian.<br /><br /><b><font size=\"13px\">6. Apa akan berlaku jika saya terlupa untuk putuskan?</font></b><br/>Sebagai perlindungan anda, WiFi Skype akan tamat dalam tempoh 30 minit.</font><br />"
 
 msgctxt "sSKYPEWIFI_FAQ_BUTTON_CLOSE"
 msgid "Close"
@@ -11894,14 +10313,6 @@ msgstr "Menghantar"
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
 msgstr "Hantar"
-
-msgctxt "sVIDEOMSG_STATUS_TEXT_FAILED"
-msgid "Video message not sent"
-msgstr "Mesej video tidak dihantar"
-
-msgctxt "sVIDEOMSG_STATUS_TEXT_DELETED"
-msgid "Video message removed"
-msgstr "Mesej video dibuang"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_EXPIRED"
 msgid "Video message expired"
@@ -11964,17 +10375,9 @@ msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
 msgstr "Hantar SMS"
 
-msgctxt "sSEND_SMS_TARGET_HINT"
-msgid "Change where you send SMS."
-msgstr "Ubah lokasi anda menghantar SMS."
-
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
 msgstr "Ubah lokasi anda menerima balsan SMS."
-
-msgctxt "sSEND_SMS_TARGET_MENU_TITLE"
-msgid "Send SMS to"
-msgstr "Hantar SMS kepada"
 
 msgctxt "sSEND_SMS_REPLYTO_TITLE"
 msgid "Reply to %s"
@@ -12030,19 +10433,9 @@ msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE2"
 msgid "If you wanted a line break use CTRL+ENTER."
 msgstr "Jika anda mahu guna hentian baris gunakan kekunci CTRL+ENTER."
 
-msgctxt "sSEND_SMS_ENTER_INFO_TIP_SENDNOW"
-msgid "Send"
-msgstr "Hantar"
-
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_NOTYET"
 msgid "Cancel"
 msgstr "Batal"
-
-msgctxt "sSMS_VERIFY_NUMBER_PROMPT"
-msgid ""
-"To send SMS to this number, you need to <a "
-"href=\"skype:?options#sms\">verify your mobile number</a>."
-msgstr "Untuk menghantar SMS ke nombor ini, anda perlu <a href=\"skype:?options#sms\">sahkan nombor telefon bimbit anda</a>."
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
@@ -12223,21 +10616,6 @@ msgctxt "sGETTING_STARTED_INTRO_NEW_PICTURE"
 msgid "New picture"
 msgstr "Gambar baharu"
 
-msgctxt "sF_PAYMENTS_FRM_CAPTION"
-msgid "Buy credit - %s"
-msgstr "Beli kredit - %s"
-
-msgctxt "sBROWSER_ERROR_ACCOUNT"
-msgid ""
-"If you are connected to the internet, <a "
-"href=\"skype:?go&sso=1#myaccount\">click here</a> to connect to your "
-"account."
-msgstr "Jika anda bersambung ke internet, <a href=\"skype:?go&sso=1#myaccount\">klik di sini</a> untuk sambung ke akaun anda."
-
-msgctxt "sMIC_WEBWINDOW_TITLE"
-msgid "Account"
-msgstr "Akaun"
-
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
 msgstr "Buat lagi Skype kepada Skype"
@@ -12275,8 +10653,8 @@ msgstr "Urus Perdana"
 msgctxt "sMYINFO_GET_PREMIUM"
 msgid ""
 "Upgrade and unlock more features<br/>• Unlimited calls<br/>• Group video "
-"calls<br/><a href=\"%s\">Get Premium</a>"
-msgstr "Tatar dan dapatkan lagi fitur<br/>• Panggilan tanpa had<br/>• Panggilan video kumpulan<br/><a href=\"%s\">Dapatan Perdana</a>"
+"calls<br/>• No advertising<br/><a href=\"%s\">Get Premium</a>"
+msgstr "Tatar dan dapatkan lagi fitur<br/>• Panggilan tanpa had<br/>• Panggilan video kumpulan<br/>• Tiada iklan<br/><a href=\"%s\">Dapatan Perdana</a>"
 
 msgctxt "sMYINFO_CREDIT"
 msgid "Credit"
@@ -12343,37 +10721,13 @@ msgid ""
 "a phone number</a>."
 msgstr "Gelintar mengikut nama, Nama Skype, emel atau <a href=\"skype:?show_add_phone\">simpan nombor telefon</a>."
 
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SKYPE_HINT"
-msgid "via Skype, use the channel switcher to change to via SMS and more"
-msgstr "melalui Skype, guna penukar saluran untuk tukar ke melalui SMS dan banyak lagi"
+msgctxt "sACC_ADD_PHONE_POPUP_NAME"
+msgid "Add a phone number"
+msgstr "Tambah nombor telefon"
 
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_SKYPE_HINT"
-msgid "via SMS, use the channel switcher to change to via Skype and more"
-msgstr "melalui SMS, guna penukar saluran untuk tukar ke melalui Skype dan banyak lagi"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_FACEBOOK_HINT"
-msgid "via Facebook, use the channel switcher to change to via SMS and more"
-msgstr "melalui Facebook, guna penukar saluran untuk tukar ke melalui SMS dan banyak lagi"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_FACEBOOK_HINT"
-msgid "via SMS, use the channel switcher to change to via Facebook and more"
-msgstr "melalui SMS, guna penukar saluran untuk tukar ke melalui Facebook dan banyak lagi"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_PASSPORT_HINT"
-msgid "via Messenger, use the channel switcher to change to via SMS and more"
-msgstr "melalui Pemesej, guna penukar saluran untuk tukar ke melalui SMS dan banyak lagi"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_PASSPORT_HINT"
-msgid "via SMS, use the channel switcher to change to via Messenger and more"
-msgstr "melalui SMS, guna penukar saluran untuk tukar ke melalui Pemesej dan banyak lagi"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_LYNC_HINT"
-msgid "via Lync, use the channel switcher to change to via SMS and more"
-msgstr "melalui Lync, guna penukar saluran untuk tukar ke melalui SMS dan banyak lagi"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_LYNC_HINT"
-msgid "via SMS, use the channel switcher to change to via Lync and more"
-msgstr "melalui SMS, guna penukar saluran untuk tukar ke melalui Lync dan banyak lagi"
+msgctxt "sACC_CHANNEL_SWITCHER_NAME"
+msgid "Message type"
+msgstr "Jenis mesej"
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
 msgid "select country"
@@ -12563,9 +10917,9 @@ msgstr "<a href=\"%s\">Kaedah pembayaran baharu</a>"
 
 msgctxt "sBDCARD_NOTIFICATION"
 msgid ""
-"<b>It's %s's birthday today.</b><br />Forgot the card? Make it up with a <a "
-"href=\"%s\">Skype Gift Card</a>."
-msgstr "<b>Hari ini adalah hari lahir %s.</b><br />Terlupa beri kad ucapan? Beri kepadanya <a href=\"%s\">Kad Hadiah Skype</a>."
+"<b>It's %s's birthday today.</b><br />Give the gift of birthday calls to "
+"mobiles and landlines with a <a href=\"%s\">Skype Gift Card</a>."
+msgstr "<b>Hari ini adalah hari lahir %s.</b><br />Beri kepadanya panggilan hari lahir ke talian telefon dan telefon bimbit dengan <a href=\"%s\">Kad Hadiah Skype</a>."
 
 msgctxt "sERROR_HINT_VIDEO_SSE2_TEXT"
 msgid ""
@@ -12624,19 +10978,11 @@ msgctxt "sVIDEOMSG_BACK_HINT"
 msgid "Go back to chat"
 msgstr "Kembali ke sembang"
 
-msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
-msgid "Close"
-msgstr "Tutup"
-
 msgctxt "sVIDEOMSG_SEND"
 msgid "Send video message"
 msgstr "Hantar mesej video"
 
 msgctxt "sCALL_LYNC"
-msgid "Lync"
-msgstr "Lync"
-
-msgctxt "sCALL_POPUP_LYNC"
 msgid "Lync"
 msgstr "Lync"
 
@@ -12659,14 +11005,6 @@ msgstr "Tambah ke kegemaran"
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
 msgstr "Hantar Mesej Video"
-
-msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
-msgid "Camera in use"
-msgstr "Kamera sedang digunakan"
-
-msgctxt "sCQ_VIDEO_MESSAGE_DESC"
-msgid "To see your camera, close your video message first."
-msgstr "Untuk melihat kamera anda, tutup mesej video anda dahulu."
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
@@ -12716,14 +11054,6 @@ msgid ""
 "disconnected. Record your message again, or send it now if you're ready."
 msgstr "Anda perlu hentikan merakam mesej video.<br/>Kamera atau mikrofon anda telah terputus. Rakam mesej anda lagi, atau hantar ia sekarang jika anda sudah sedia."
 
-msgctxt "sVIDEOMSG_PREMIUM_UPSELL_TITLE"
-msgid "You have no free video messages left"
-msgstr "Anda tidak mempunyai mesej video percuma berbaki"
-
-msgctxt "sVIDEOMSG_PREMIUM_UPSELL_MESSAGE"
-msgid "Upgrade to a Premium account to enjoy unlimited video messages."
-msgstr "Tatar ke akaun Perdana untuk menikmati mesej video tanpa had."
-
 msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
 msgid "Looking good!"
 msgstr "Kelihatan bagus!"
@@ -12755,10 +11085,6 @@ msgstr "Batal"
 msgctxt "sVIDEOMSG_RECORD_CAPTION"
 msgid "Record"
 msgstr "Rakam"
-
-msgctxt "sECHO_DISPLAY_NAME"
-msgid "Echo/Sound Test Service"
-msgstr "Perkhidmatan Uji Gema/Bunyi"
 
 msgctxt "sTASKBAR_MENU_SIGN_OUT"
 msgid "Sign Out"
@@ -12801,24 +11127,12 @@ msgid "New video message"
 msgstr "Mesej video baharu"
 
 msgctxt "sACC_NAME_MYSELF_HEADER"
-msgid "Me"
-msgstr "Saya"
+msgid "My profile"
+msgstr "Profil saya"
 
 msgctxt "sACC_NAME_QF"
 msgid "Search"
 msgstr "Gelintar"
-
-msgctxt "sACC_NAME_CONVERSATIONS"
-msgid "Conversations"
-msgstr "Perbualan"
-
-msgctxt "sACC_NAME_COMMUNICATOR"
-msgid "Application access"
-msgstr "Capaian aplikasi"
-
-msgctxt "sACC_NAME_PARTNER_BUTTONS"
-msgid "Partner"
-msgstr "Rakan"
 
 msgctxt "sACC_NAME_CONTACTS_TAB"
 msgid "All contacts"
@@ -12829,8 +11143,8 @@ msgid "Contacts"
 msgstr "Kenalan"
 
 msgctxt "sACC_NAME_CONVERSATIONS_TAB"
-msgid "All recent messages"
-msgstr "Semua mesej baru-baru ini"
+msgid "All recent messages."
+msgstr "Semua mesej baru-baru ini."
 
 msgctxt "sACC_NAME_INBOX_LIST"
 msgid "Recent messages"
@@ -12848,10 +11162,6 @@ msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
 msgid "Hide message"
 msgstr "Sembunyi mesej"
 
-msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
-msgid "All %0:s contacts"
-msgstr "Semua %0:s kenalan"
-
 msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
 msgid "All %0:s"
 msgstr "Semua %0:s"
@@ -12868,9 +11178,17 @@ msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
 msgid "Clear search input"
 msgstr "Kosongkan input gelintar"
 
-msgctxt "sACC_NAME_SEARCH_ALL"
-msgid "Search all people on Skype"
-msgstr "Gelintar semua orang di dalam Skype"
+msgctxt "sACC_NAME_SEARCH_EDIT"
+msgid "Search by name, Skype name or email"
+msgstr "Gelintar mengikut nama, Nama Skype atau emel"
+
+msgctxt "sACC_NAME_SEARCH_RESULTS"
+msgid "Search results"
+msgstr "Keputusan gelintar"
+
+msgctxt "sACC_NAME_ADD_CONTACT_PANEL_CLOSE"
+msgid "Exit add contacts"
+msgstr "Keluar dari tambah kenalan"
 
 msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
 msgid "You're online with Skype WiFi"
@@ -12897,3 +11215,1368 @@ msgid ""
 "You've been online for about %d minutes. You can disconnect at any time and "
 "you'll only be charged for the minutes used."
 msgstr "Anda telah berada diatas talian kira-kira %d minit. Anda boleh putuskan bila-bila masa dan anda hanya dicas minit yang anda guna."
+
+msgctxt "sACC_NAME_SELECTED_GROUP_ALL_BUDDIES"
+msgid "All contacts"
+msgstr "Semua Kenalan"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_SKYPE_BUDDIES"
+msgid "All Skype contacts"
+msgstr "Semua kenalan Skype"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_ONLINE_BUDDIES"
+msgid "All online contacts"
+msgstr "Semua kenalan atas-talian"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_EXTERNAL_CONTACTS"
+msgid "All Outlook contacts"
+msgstr "Semua kenalan Outlook"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_XMPP_CONTACTS"
+msgid "All Facebook contacts"
+msgstr "Semua kenalan Facebook"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_PASSPORT_CONTACTS"
+msgid "All Messenger contacts"
+msgstr "Semua kenalan Pemesej"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
+msgid "All Lync contacts"
+msgstr "Semua kenalan Lync"
+
+msgctxt "sACC_CALL_POPUP_NAME"
+msgid "Call options"
+msgstr "Pilihan panggilan"
+
+msgctxt "sACC_CALL_EDIT_NUMBER_BUTTON"
+msgid "Edit number"
+msgstr "Sunting nombor"
+
+msgctxt "sACC_CALL_PHONES_SELECTED_COUNTRY_COMBO_NAME"
+msgid "Select country/region to call"
+msgstr "Pilih negara/wilayah untuk membuat panggilan"
+
+msgctxt "sACC_CALL_PHONES_ENTER_PHONE_NUMBER_EDIT_NAME"
+msgid "Enter phone number"
+msgstr "Masukkan nombor telefon"
+
+msgctxt "sACC_CALL_PHONES_CLEAR_BUTTON"
+msgid "Clear phone number"
+msgstr "Kosongkan nombor telefon"
+
+msgctxt "sACC_CALL_PHONES_SEND_SMS_BUTTON"
+msgid "Write SMS"
+msgstr "Tulis SMS"
+
+msgctxt "sACC_CALL_PHONES_QUALITY_BUTTON"
+msgid "Check connection settings"
+msgstr "Semak tetapan sambungan"
+
+msgctxt "sACC_CALL_PHONES_REQUEST_CREDIT_NAME"
+msgid "You have %s Skype Credit, Buy more credit"
+msgstr "Anda mempunyai %s Kredit Skype, Beli lagi kredit"
+
+msgctxt "sACC_CALL_PHONES_REQEUST_SUBSCRIPTION_NAME"
+msgid "You have %d subscriptions. Get a subscription"
+msgstr "Anda mempunyai %d langganan. Dapatkan langganan"
+
+msgctxt "sACC_CALL_PHONES_RECENT_CALLS_POPUP_NAME"
+msgid "Recent calls"
+msgstr "Panggilan baru-baru ini"
+
+msgctxt "sACC_NAME_HISTORY_LIST"
+msgid "History"
+msgstr "Sejarah"
+
+msgctxt "sACC_NAME_ALREADY_CONTACT"
+msgid "Already a contact"
+msgstr "Sudah ada dalam kenalan anda"
+
+msgctxt "sACC_NAME_SEND_CONTACT_REQUEST_TEXT"
+msgid "Introductory message"
+msgstr "Mesej pengenalan"
+
+msgctxt "sACC_MYSELF_PROFILE_TIMEZONE_COMBO_NAME"
+msgid "Timezone"
+msgstr "Zon Waktu"
+
+msgctxt "sACC_MYSELF_PROFILE_COUNTRY_COMBO_NAME"
+msgid "Country/Region"
+msgstr "Negara/Wilayah"
+
+msgctxt "sACC_MYSELF_PROFILE_GENDER_COMBO_NAME"
+msgid "Gender"
+msgstr "Jantina"
+
+msgctxt "sACC_MYSELF_PROFILE_LANGUAGE_COMBO_NAME"
+msgid "Language"
+msgstr "Bahasa"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_DAY_COMBO_NAME"
+msgid "Day"
+msgstr "Hari"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_MONTH_COMBO_NAME"
+msgid "Month"
+msgstr "Bulan"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_YEAR_COMBO_NAME"
+msgid "Year"
+msgstr "Tahun"
+
+msgctxt "sACC_NAME_CHAT_ENTRY"
+msgid "Type a message here"
+msgstr "Taip mesej di sini"
+
+msgctxt "sACC_NAME_CHAT_MESSAGE"
+msgid "From %0:s, %1:s, sent on %2:s"
+msgstr "Daripada %0:s, %1:s, menghantar pada %2:s"
+
+msgctxt "sCALLPHONES_PAYG_LNK"
+msgid "Buy Skype Credit"
+msgstr "Beli Kredit Skype"
+
+msgctxt "sCALLPHONES_PAYG_MORE_LNK"
+msgid "Buy more credit"
+msgstr "Beli lagi kredit"
+
+msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
+msgid "Get another subscription"
+msgstr "Dapatkan langganan lain"
+
+msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
+msgid "View your subscription(s)"
+msgstr "Lihat langganan anda"
+
+msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
+msgid "Renew"
+msgstr "Baharu semula"
+
+msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
+msgid "Get a subscription"
+msgstr "Dapatkan langganan"
+
+msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
+msgid "Request more credit"
+msgstr "Mohon lagi kredit"
+
+msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
+msgid "Request a subscription"
+msgstr "Mohon langganan"
+
+msgctxt "sSMS_NO_CREDIT"
+msgid ""
+"You need Skype Credit to send text messages (SMS). %0:sBuy Skype Credit "
+"now%1:s"
+msgstr "Anda perlukan Kredit Skype untuk menghantar mesej teks (SMS).  %0:shref=\"skype:?payments\"> Beli Kredit Skype sekarang %1:s"
+
+msgctxt "sACC_CALL_EDIT_HOME_NUMBER_BUTTON"
+msgid "Edit home number"
+msgstr "Sunting nombor telefon rumah"
+
+msgctxt "sACC_CALL_EDIT_OFFICE_NUMBER_BUTTON"
+msgid "Edit office number"
+msgstr "Sunting nombor telefon pejabat"
+
+msgctxt "sACC_CALL_EDIT_MOBILE_NUMBER_BUTTON"
+msgid "Edit mobile number"
+msgstr "Sunting nombor telefon bimbit"
+
+msgctxt "sACC_CALL_EDIT_OTHER_NUMBER_BUTTON"
+msgid "Edit other number"
+msgstr "Sunting nombor telefon lain"
+
+msgctxt "sACC_CALL_PHONES_AUTO_COMPLETE_POPUP_NAME"
+msgid "Suggested numbers"
+msgstr "Nombor telefon saranan"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_VOICE_MESSAGE"
+msgid "Incoming voice message"
+msgstr "Mesej bersuara masuk"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_VOICE_MESSAGE"
+msgid "Outgoing voice message"
+msgstr "Mesej bersuara keluar"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_FILE"
+msgid "Incoming file"
+msgstr "Fail masuk"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_FILE"
+msgid "Outgoing file"
+msgstr "Fail keluar"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_SMS_MESSAGE"
+msgid "Incoming sms"
+msgstr "Sms masuk"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_SMS_MESSAGE"
+msgid "Outgoing sms"
+msgstr "Sms keluar"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_CHAT_MESSAGE"
+msgid "Incoming chat message"
+msgstr "Mesej sembang masuk"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_CHAT_MESSAGE"
+msgid "Outgoing chat message"
+msgstr "Mesej sembang keluar"
+
+msgctxt "sACC_NAME_LIVE_LIST"
+msgid "Active calls"
+msgstr "Panggilan aktif"
+
+msgctxt "sACC_NAME_LIVE_ITEM_VIDM_REC_INDICATOR"
+msgid "Recording video message"
+msgstr "Mesej video dirakam"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_RINGING"
+msgid "Incoming call"
+msgstr "Panggilan masuk"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_CALL"
+msgid "Active call"
+msgstr "Panggilan aktif"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_ENDED"
+msgid "Call ended"
+msgstr "Panggilan tamat"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_ON_HOLD"
+msgid "Call on hold"
+msgstr "Panggilan ditangguh"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_MUTED"
+msgid "Call muted"
+msgstr "Panggilan disenyapkan"
+
+msgctxt "sACC_NAME_CONVERSATION_ITEM_HAS_EVENTS"
+msgid "Unread messages"
+msgstr "Mesej belum dibaca"
+
+msgctxt "sACC_NAME_INBOX_ITEM_MISSED_CALL_EVENT"
+msgid "Missed call"
+msgstr "Panggilan terlepas"
+
+msgctxt "sACC_NAME_INBOX_ITEM_BIRTHDAY_EVENT"
+msgid "Birthday"
+msgstr "Hari lahir"
+
+msgctxt "sACC_NAME_CONVERSATIONS_CONTROL_TABS"
+msgid "Contacts and recents"
+msgstr "Kenalan dan baru-baru ini"
+
+msgctxt "sACC_NAME_SMS_ENTRY"
+msgid "Write an SMS to %s"
+msgstr "Tulis SMS kepada %s"
+
+msgctxt "sHOTKEY_REJECT"
+msgid "Decline incoming call"
+msgstr "Panggilan masuk ditolak"
+
+msgctxt "sF_OPTIONS_PLAY_CUSTOM_ACCNAME"
+msgid "Play my voice message greeting, duration: %d seconds"
+msgstr "Mainkan aluan mesej bersuara saya, jangkamasa: %d saat"
+
+msgctxt "sF_OPTIONS_PLAY_DEFAULT_ACCNAME"
+msgid "Play default voice message greeting, duration: %d seconds"
+msgstr "Memainkan aluan mesej bersuara lalai, jangkamasa: %d saat"
+
+msgctxt "sF_OPTIONS_RECORD_ACCNAME"
+msgid "Record new voice message"
+msgstr "Rakam mesej bersuara baharu"
+
+msgctxt "sF_OPTIONS_DELETE_ACCNAME"
+msgid "Reset to default voice message greeting"
+msgstr "Tetap semula ke aluan mel bersuara lalai"
+
+msgctxt "sACC_OPTIONS_VOICEMAIL_SETTINGS"
+msgid "Voice message settings"
+msgstr "Tetapan mesej bersuara"
+
+msgctxt "sACC_OPTIONS_CALL_FORWARDING_SETTINGS"
+msgid "Call forwarding settings"
+msgstr "Tetapan pemajuan panggilan"
+
+msgctxt "sACC_OPTIONS_SMS_SETTINGS"
+msgid "SMS settings"
+msgstr "Tetapan SMS"
+
+msgctxt "sACC_OPTIONS_CALL_FORWARDING_ENTER_PHONE_COMBO_NAME"
+msgid "Enter phone number"
+msgstr "Masukkan nombor telefon"
+
+msgctxt "sACC_NAME_LIVE_SELECT_CONTACTS_LABELED_EDIT"
+msgid "Select people to add to this call"
+msgstr "Tambah Individu untuk ditambah ke panggilan ini."
+
+msgctxt "sNOTIFY_API_DEPRECATION_MESSAGE"
+msgid ""
+"It appears you're using %0:s with Skype.  To see how 3rd party applications "
+"work with Skype, please see our <a href=\"%1:s\">FAQs</a>."
+msgstr "Kelihatan anda guna %0:s dengan Skype.  Untuk mengetahui bagaimana aplikasi pihak ke-3 berfungsi dengan Skype, sila rujuk <a href=\"%1:s\">FAQ</a> kami."
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SMS"
+msgid "Chat via SMS, switch message type"
+msgstr "Sembang melalui SMS, tukar jenis mesej"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SKYPE"
+msgid "Chat via Skype, switch message type"
+msgstr "Sembang melalui Skype, tukar jenis mesej"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_FACEBOOK"
+msgid "Chat via Facebook, switch message type"
+msgstr "Sembang melalui Facebook, tukar jenis mesej"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_PASSPORT"
+msgid "Chat via Messenger, switch message type"
+msgstr "Sembang melalui Pemesej, tukar jenis mesej"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
+msgid "Chat via Lync, switch message type"
+msgstr "Sembang melalui Lync, tukar jenis mesej"
+
+msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
+msgid ""
+"Note: Call forwarding is active. Calls will be sent first to the phone "
+"number(s) set. If there is no answer, calls will be recorded as a voice "
+"message."
+msgstr "Perhatian: Pemajuan panggilan adalah aktif. Panggilan akan dihantar ke nombor telefon(s) yang ditetapkan. Jika tiada balasan, panggilan akan dirakam sebagai mesej bersuara."
+
+msgctxt "sF_VOICEMAIL_OPTIONS_INFO_NO_CALL_FORWARDING"
+msgid ""
+"Note: If call forwarding is on, calls will be sent first to the phone "
+"number(s) you entered. If there is no answer, calls will be recorded as a "
+"voice message."
+msgstr "Perhatian: Pemajuan panggilan hidup. Panggilan akan dihantar ke nombor telefon(s) yang anda masukkan. Jika tiada balasan, panggilan akan dirakam sebagai mesej bersuara."
+
+msgctxt "sACC_ACTION_EXPAND"
+msgid "Expand"
+msgstr "Kembang"
+
+msgctxt "sACC_ACTION_COLLAPSE"
+msgid "Collapse"
+msgstr "Kuncup"
+
+msgctxt "sACC_ACTION_BUTTON_CLICK"
+msgid "Click"
+msgstr "Klik"
+
+msgctxt "sACC_ACTION_LINK_CLICK"
+msgid "Click"
+msgstr "Klik"
+
+msgctxt "sACC_ACTION_CHECK"
+msgid "Check"
+msgstr "Tanda"
+
+msgctxt "sACC_NAME_STATUS_UNKNOWN2"
+msgid "This person isn't in your Contact list."
+msgstr "Individu ini tidak ada dalam senarai Kenalan anda."
+
+msgctxt "sACC_NAME_STATUS_PENDING"
+msgid "This person has not shared their details with you."
+msgstr "Individu ini tidak berkongsi perinciannya dengan anda."
+
+msgctxt "sACC_NAME_STATUS_BLOCKED"
+msgid "Blocked"
+msgstr "Disekat"
+
+msgctxt "sACC_NAME_STATUS_PSTN"
+msgid "Phone number"
+msgstr "Nombor telefon"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE"
+msgid "Offline"
+msgstr "Luar Talian"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_VM"
+msgid "Offline with voice messaging"
+msgstr "Luar talian dengan pemesejan bersuara"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_CF"
+msgid "Offline with call forwarding"
+msgstr "Luar talian dengan pemajuan panggilan"
+
+msgctxt "sACC_NAME_STATUS_ONLINE"
+msgid "Online"
+msgstr "Atas Talian"
+
+msgctxt "sACC_NAME_STATUS_AWAY"
+msgid "Away"
+msgstr "Keluar"
+
+msgctxt "sACC_NAME_STATUS_DND"
+msgid "Do Not Disturb"
+msgstr "Jangan Ganggu"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_MOBILE"
+msgid "Online on a mobile device"
+msgstr "Atas Talian dengan peranti bimbit"
+
+msgctxt "sACC_NAME_STATUS_AWAY_MOBILE"
+msgid "Away on a mobile device"
+msgstr "Keluar dengan peranti bimbit"
+
+msgctxt "sACC_NAME_STATUS_DND_MOBILE"
+msgid "Do Not Disturb status on a mobile device"
+msgstr "Status Jangan Ganggu dengan peranti bimbit"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_FLAMINGO"
+msgid "Facebook contact Blocked"
+msgstr "Kenalan Facebook Disekat"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_FLAMINGO"
+msgid "Facebook contact Offline"
+msgstr "Kenalan Facebook Luar Talian"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_FLAMINGO"
+msgid "Facebook contact Online"
+msgstr "Kenalan Facebook Atas Talian"
+
+msgctxt "sACC_NAME_STATUS_AWAY_FLAMINGO"
+msgid "Facebook contact Away"
+msgstr "Kenalan Facebook Keluar"
+
+msgctxt "sACC_NAME_STATUS_DND_FLAMINGO"
+msgid "Facebook contact on Do Not Disturb"
+msgstr "Kenalan Facebook dengan Jangan Ganggu"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_PASSPORT"
+msgid "Messenger contact Blocked"
+msgstr "Kenalan Pemesej Disekat"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_PASSPORT"
+msgid "Messenger contact Offline"
+msgstr "Kenalan Pemesej Luar Talian"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_PASSPORT"
+msgid "Messenger contact Online"
+msgstr "Kenalan Pemesej Atas Talian"
+
+msgctxt "sACC_NAME_STATUS_AWAY_PASSPORT"
+msgid "Messenger contact Away"
+msgstr "Kenalan Pemesej Keluar"
+
+msgctxt "sACC_NAME_STATUS_DND_PASSPORT"
+msgid "Messenger contact on Do Not Disturb"
+msgstr "Kenalan Pemesej dengan Jangan Ganggu"
+
+msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
+msgid "This person has not shared their details with you. Lync"
+msgstr "Individu ini tidak berkongsi perinciannya dengan anda. Lync"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
+msgid "Lync contact Blocked"
+msgstr "Kenalan Lync Disekat"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
+msgid "Lync contact Offline"
+msgstr "Kenalan Lync Luar Talian"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
+msgid "Lync contact Online"
+msgstr "Kenalan Lync Atas Talian"
+
+msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
+msgid "Lync contact Away"
+msgstr "Kenalan Lync Keluar"
+
+msgctxt "sACC_NAME_STATUS_DND_LYNC"
+msgid "Lync contact on Do Not Disturb"
+msgstr "Kenalan Kenalan dengan Jangan Ganggu"
+
+msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
+msgid "Use Skype to call tel: links on the web"
+msgstr "Guna Skype untuk panggil tel: pautan di sesawang"
+
+msgctxt "sCALL_POPUP_CALL_FLAMINGO"
+msgid "Call Facebook"
+msgstr "Panggilan Facebook"
+
+msgctxt "sCALL_POPUP_CALL_LYNC"
+msgid "Call Lync"
+msgstr "Panggilan Lync"
+
+msgctxt "sCALL_POPUP_CALL_SKYPE"
+msgid "Call Skype"
+msgstr "Panggilan Skype"
+
+msgctxt "sCALL_POPUP_CALL_HOME"
+msgid "Call home%0:s (%1:s)"
+msgstr "Panggilan rumah%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE"
+msgid "Call office%0:s (%1:s)"
+msgstr "Panggilan pejabat%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE"
+msgid "Call mobile%0:s (%1:s)"
+msgstr "Panggilan bimbit%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER"
+msgid "Call other%0:s (%1:s)"
+msgstr "Panggilan lain%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE"
+msgid "Call phone %0:s (%1:s)"
+msgstr "Panggilan telefon %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME"
+msgid "SMS home %0:s (%1:s)"
+msgstr "SMS rumah %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE"
+msgid "SMS office %0:s (%1:s)"
+msgstr "SMS pejabat %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE"
+msgid "SMS mobile %0:s (%1:s)"
+msgstr "SMS bimbit %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER"
+msgid "SMS other %0:s (%1:s)"
+msgstr "SMS lain %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE"
+msgid "SMS phone %0:s (%1:s)"
+msgstr "SMS telefon %0:s (%1:s)"
+
+msgctxt "sACC_NAME_CHAT_PARTICIPANT_LIST"
+msgid "Participant List"
+msgstr "Senarai Peserta"
+
+msgctxt "sACC_NAME_CHAT_CONTENT_LIST"
+msgid "Chat Content List"
+msgstr "Senarai Kandungan Sembang"
+
+msgctxt "sACC_NAME_FILE_MESSAGE"
+msgid "From %0:s, file transfer: %1:s, on %2:s"
+msgstr "Daripada %0:s, pemindahan fail: %1:s, pada %2:s"
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE"
+msgid "From %0:s, video message, sent on %1:s"
+msgstr "Daripada %0:s, mesej video, hantar pada %1:s"
+
+msgctxt "sACC_NAME_SMS_MESSAGE"
+msgid "From %0:s, SMS message: %1:s, sent on %2:s"
+msgstr "Daripada %0:s, mesej SMS: %1:s, hantar pada %2:s"
+
+msgctxt "sACC_NAME_SMS_MESSAGE2"
+msgid "From %0:s, SMS message: %1:s, %2:s, on %3:s"
+msgstr "Daripada %0:s, mesej SMS: %1:s, %2:s, pada %3:s"
+
+msgctxt "sF_OPTIONS_PAGE_ACCESSIBILITY"
+msgid "Accessibility"
+msgstr "Kebolebcapaian"
+
+msgctxt "sF_OPTIONS_LBC_ACCESSIBILITY"
+msgid "<b>Accessibility:</b> Make Skype more accessible for you"
+msgstr "<b>Kebolehcapaian:</b> Jadikan Skype lebih mudah dicapai untuk anda"
+
+msgctxt "sF_ACC_SETTINGS"
+msgid "Enable accessible mode"
+msgstr "Benarkan mod boleh capai"
+
+msgctxt "sACC_NAME_PIN_ICON"
+msgid "Add %s to favorites"
+msgstr "Tambah %s ke kegemaran"
+
+msgctxt "sACC_NAME_UNPIN_ICON"
+msgid "Remove %s from favorites"
+msgstr "Buang %s dari kegemaran"
+
+msgctxt "sF_ACC_NAME_CHOOSE_CONTACTS_LIST"
+msgid "Choose contacts"
+msgstr "Pilih kenalan"
+
+msgctxt "sF_ACC_NAME_SELECTED_CONTACTS_LIST"
+msgid "Selected contacts"
+msgstr "Kenalan terpilih"
+
+msgctxt "sF_ACC_ENTER_PHONE"
+msgid "Enter phone"
+msgstr "Masukkan nombor telefon"
+
+msgctxt "sF_ACC_SMS_CONFIRM_SEND"
+msgid "Confirm sending"
+msgstr "Pengesahan dihantar"
+
+msgctxt "sACC_CHAT_HISTORY_MESSAGE_CUSTOM"
+msgid "Messages from %s. Press tab to change history period."
+msgstr "Mesej daripada %s. Tekan tab untuk ubah kala sejarah."
+
+msgctxt "sACC_CHAT_HISTORY_YESTERDAY"
+msgid "Messages from yesterday. Press tab to change history period."
+msgstr "Mesej semalam. Tekan tab untuk ubah kala sejarah."
+
+msgctxt "sACC_CHAT_HISTORY_7DAYS"
+msgid "Messages for the last 7 days. Press tab to change history period."
+msgstr "Mesej 7 hari lepas. Tekan tab untuk ubah kala sejarah."
+
+msgctxt "sACC_CHAT_HISTORY_30DAYS"
+msgid "Messages for the last 30 days. Press tab to change history period."
+msgstr "Mesej 30 hari lepas. Tekan tab untuk ubah kala sejarah."
+
+msgctxt "sACC_CHAT_HISTORY_3M"
+msgid "Messages for the last 3 months. Press tab to change history period."
+msgstr "Mesej 3 bulan lepas. Tekan tab untuk ubah kala sejarah."
+
+msgctxt "sACC_CHAT_HISTORY_6M"
+msgid "Messages for the last 6 months. Press tab to change history period."
+msgstr "Mesej 6 bulan lepas. Tekan tab untuk ubah kala sejarah."
+
+msgctxt "sACC_CHAT_HISTORY_12M"
+msgid "Messages for the last year. Press tab to change history period."
+msgstr "Mesej tahun lepas. Tekan tab untuk ubah kala sejarah."
+
+msgctxt "sACC_CHAT_HISTORY_BEGINNING"
+msgid "Messages from the beginning. Press tab to change history period."
+msgstr "Mesej dari permulaan. Tekan tab untuk ubah kala sejarah."
+
+msgctxt "sACC_SHOW_CONTACT_PROFILE_HEADER"
+msgid "Chatting with %s, press enter to show contact profile"
+msgstr "Bersembang dengan %s, tekan enter untuk tunjuk profil kenalan"
+
+msgctxt "sACC_HIDE_CONTACT_PROFILE_HEADER"
+msgid "Chatting with %s, press enter to hide contact profile"
+msgstr "Bersembang dengan %s, tekan enter untuk sembunyi profil kenalan"
+
+msgctxt "sACC_GSW_SELECT_SPEAKER"
+msgid "Select speaker"
+msgstr "Pilih pembesar suara"
+
+msgctxt "sACC_GSW_SELECT_MIC"
+msgid "Select microphone"
+msgstr "Pilih mikrofon"
+
+msgctxt "sACC_GSW_PROFILE_PICTURE"
+msgid "Profile picture"
+msgstr "Gambar profil"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P"
+msgid ""
+"has updated this group with a better chat experience. To join and keep "
+"chatting get the latest download. Go to skype.com/updateme. %0:sLearn more "
+"about new group chat%1:s."
+msgstr "telah mengemaskini kumpulan ini dengan pengalaman sembang yang lebih baik. Untuk sertai dan terus bersembang sila dapat muat turun yang terkini. Pergi ke skype.com/updateme. %0:sKetahui lebih lanjut mengenai sembang kumpulan baharu%1:s."
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_DOGFOOD"
+msgid ""
+"has a new version of Skype with a better chat experience. To join and keep "
+"chatting get the latest download. Go to %0:s"
+msgstr "telah mempunyai versi baharu Skype dengan pengalaman sembang yang lebih baik. Untuk sertai dan terus bersembang dapatkan muat turun terkini. Sila pergi ke %0:s"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_INPUT"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%0:s\">Go to the new chat</a>."
+msgstr "Sembang ini telah dikemaskini ke versi baharu. <a href=\"skype:?chat&id=%0:s\">Terus ke sembang baharu</a>."
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%1\">Go to the new chat</a>."
+msgstr "Sembang ini telah dikemaskini ke versi baharu. <a href=\"skype:?chat&id=%1\">Terus ke sembang baharu</a>."
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHATEX"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%0:s\">Go to the new chat</a>."
+msgstr "Sembang ini telah dikemaskini ke versi baharu. <a href=\"skype:?chat&id=%0:s\">Terus ke sembang baharu</a>."
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
+msgid "Show messages from <a href=\"skype:?chat&id=%1\">older chat</a>."
+msgstr "Tunjuk mesej daripada <a href=\"skype:?chat&id=%1\">sembang lebih lama</a>."
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASEDEX"
+msgid "Show messages from <a href=\"skype:?chat&id=%0:s\">older chat</a>."
+msgstr "Tunjuk mesej daripada <a href=\"skype:?chat&id=%0:s\">sembang lebih lama</a>."
+
+msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
+msgid ""
+"This chat has been updated to a new version. Press tab to go to the new "
+"chat."
+msgstr "Sembang ini telah dikemaskini ke versi baharu. Tekan tab untuk pergi ke sembang baharu."
+
+msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
+msgid ""
+"This chat has been updated to a new version. Press tab to show messages from"
+" older chat."
+msgstr "Sembang ini telah dikemaskini ke versi baharu. Tekan tab untuk tunjuk mesej dari sembang lebih lama."
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_SINGLE"
+msgid ""
+"%0:s needs to update Skype to participate in this chat. Help by sending them"
+" to skype.com/updateme. %1:sLearn more about new group chat%2:s."
+msgstr "%0:s perlu kemaskini Skype supaya dapat menyertai sembang ini. Beri bantuan dengan menghantar mereka ke skype.com/updateme. %1:sKetahui lebih lanjut mengenai sembang kumpulan baharu%2:s."
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_SINGLE_DOGFOOD"
+msgid ""
+"%0:s needs to update Skype to participate in this chat. Help by sending them"
+" to %1:s"
+msgstr "%0:s perlu kemaskini Skype supaya dapat menyertai sembang ini. Beri bantuan dengan menghantar mereka ke %1:s"
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_PLURAL"
+msgid ""
+"%0:s need to update Skype to participate in this chat. Help by sending them "
+"to skype.com/updateme. %1:sLearn more about new group chat%2:s."
+msgstr "%0:s perlu kemaskini Skype supaya dapat menyertai sembang ini. Beri bantuan dengan menghantar mereka ke skype.com/updateme. %1:sKetahui lebih lanjut mengenai sembang kumpulan baharu%2:s."
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_PLURAL_DOGFOOD"
+msgid ""
+"%0:s need to update Skype to participate in this chat. Help by sending them "
+"to %1:s"
+msgstr "%0:s perlu kemaskini Skype supaya dapat menyertai sembang ini. Beri bantuan dengan menghantar mereka ke %1:s"
+
+msgctxt "sCHAT_LEGACY_MEMBER_UPGRADED"
+msgid "%0:s can now participate in this chat."
+msgstr "%0:s kini boleh menyertai sembang ini."
+
+msgctxt "sACC_GSW_SPEAKER_HELP_BUTTON"
+msgid "Speakers help button"
+msgstr "Butang bantuan pembesar suara"
+
+msgctxt "sACC_GSW_MIC_HELP_BUTTON"
+msgid "Microphone help button"
+msgstr "Butang bantuan mikrofon"
+
+msgctxt "sACC_GSW_SELECT_WEBCAM"
+msgid "Select web camera"
+msgstr "Pilih kamera sesawang"
+
+msgctxt "sVP8LEGACY_CLIENT_GVC_CAPABLE"
+msgid ""
+"%s needs to get the latest version of Skype at skype.com/updateme to "
+"experience group video and sharing."
+msgstr "%s perlu dapatkan versi terkini Skype di skype.com/updateme untuk mengalami video dan perkongsian kumpulan."
+
+msgctxt "sVP8LEGACY_CLIENT_GVC_NOT_CAPABLE"
+msgid ""
+"%s can't experience group video calling because their device doesn't support"
+" it."
+msgstr "%s tidak dapat mengalami panggilan video kumpulan kerana peranti mereka tidak dapat menyokongnya."
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_DESC"
+msgid ""
+"are using versions of Skype that don't support group video and "
+"sharing.<br/>Would you like to send a link to update?"
+msgstr "menggunakan versi Skype yang tidak menyokong video dan perkongsian kumpulan.<br/>Anda mahu hantar pautan kemaskini?"
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_DESC_SINGLE"
+msgid ""
+"is using a version of Skype that doesn't support group video and "
+"sharing.<br/>Would you like to send a link to update?"
+msgstr "menggunakan versi Skype yang tidak menyokong video dan perkongsian kumpulan.<br/>Anda mahu hantar pautan kemaskini?"
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_SEND"
+msgid "Send"
+msgstr "Hantar"
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_CANCEL"
+msgid "Not now"
+msgstr "Bukan sekarang"
+
+msgctxt "sVP8LEGACY_UPGRADE_MESSAGE"
+msgid ""
+"You need to update Skype to participate in this group video call. Get the "
+"latest version at skype.com/updateme."
+msgstr "Anda perlu kemaskini Skype untuk sertai dalam panggilan video kumpulan ini. Dapatkan versi terkini di skype.com/updateme."
+
+msgctxt "sLIVE_TOGGLE_ORIGINAL_VIDEO_SIZE"
+msgid "Show Full Size Video"
+msgstr "Tunjuk Video Bersaiz Penuh"
+
+msgctxt "sVP8LEGACY_UPGRADE_LEGACY_HOST"
+msgid ""
+"In order to receive video from everyone in this call, %s and other "
+"participants may need to update Skype or use a supported device. <a "
+"href=\"%s\">Find out more</a>"
+msgstr "Untuk dapat menerima video daripada seseiapa sahaja di dalam panggilan inil, %s dan peserta lain perlu mengemaskini Skype atau guna peranti yang disokong. <a href=\"%s\">Ketahui lebih lanjut</a>"
+
+msgctxt "sCONFIRM_FILE_TRANSFER_OK"
+msgid "Ok"
+msgstr "Ok"
+
+msgctxt "sCONFIRM_FILE_TRANSFER_CANCEL"
+msgid "Close"
+msgstr "Tutup"
+
+msgctxt "sF_OPTIONS_CALLFORWARDING_ONE_INFO"
+msgid ""
+"You'll need <a href=\"%0:s\">Skype Credit</a> or a subscription to forward "
+"calls.<br/><br/>Calls forwarded to a phone number will be charged at <a "
+"href=\"%1:s\">our rates</a> for calling phones and mobiles or may be "
+"included as part of your subscription."
+msgstr "Anda perlukan <a href=\"%0:s\">Kredit Skype</a> atau langganan untuk majukan panggilan.<br/><br/>Panggilan yang dimajukan ke nombor telefon akan dikira mengikut <a href=\"%1:s\">kadar kami</a> untuk panggilan telefon dan telefon bimbit atau disertakan sebagai sebahagian dari langganan anda."
+
+msgctxt "sF_OPTIONS_CALLFORWARDING_ALL_INFO"
+msgid ""
+"You'll need <a href=\"%0:s\">Skype Credit</a> or a subscription to forward "
+"calls.<br/><br/>Calls will be forwarded to all phone numbers at the same "
+"time.<br/>Calls forwarded to a phone number will be charged at <a "
+"href=\"%1:s\">our rates</a> for calling phones and mobiles or may be "
+"included as part of your subscription."
+msgstr "Anda perlukan <a href=\"%0:s\">Kredit Skype</a> atau langganan untuk majukan panggilan.<br/><br/>Panggilan yang dimajukan ke semua nombor telefon pada masa yang sama.<br/>Panggilan dimajukan ke nombor telefon akan dikira mengikut <a href=\"%1:s\">kadar kami</a> untuk panggilan telefon dan telefon bimbit atau disertakan sebagai sebahagian dari langganan anda."
+
+msgctxt "sCALL_POPUP_CALL_HOME_FIRST"
+msgid "Call home (%0:s)"
+msgstr "Panggilan rumah (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE_FIRST"
+msgid "Call office (%0:s)"
+msgstr "Panggilan pejabat (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE_FIRST"
+msgid "Call mobile (%0:s)"
+msgstr "Panggilan bimbit (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER_FIRST"
+msgid "Call other (%0:s)"
+msgstr "Panggilan lain (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE_FIRST"
+msgid "Call phone (%0:s)"
+msgstr "Panggilan telefon (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_HOME_SUBSEQUENT"
+msgid "Call home %0:s (%1:s)"
+msgstr "Panggilan rumah %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE_SUBSEQUENT"
+msgid "Call office %0:s (%1:s)"
+msgstr "Panggilan pejabat %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE_SUBSEQUENT"
+msgid "Call mobile %0:s (%1:s)"
+msgstr "Panggilan bimbit %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER_SUBSEQUENT"
+msgid "Call other %0:s (%1:s)"
+msgstr "Panggilan lain %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE_SUBSEQUENT"
+msgid "Call phone %0:s (%1:s)"
+msgstr "Panggilan telefon %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME_FIRST"
+msgid "SMS home (%0:s)"
+msgstr "SMS rumah (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE_FIRST"
+msgid "SMS office (%0:s)"
+msgstr "SMS pejabat (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE_FIRST"
+msgid "SMS mobile (%0:s)"
+msgstr "SMS bimbit (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER_FIRST"
+msgid "SMS other (%0:s)"
+msgstr "SMS lain (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE_FIRST"
+msgid "SMS phone (%0:s)"
+msgstr "SMS telefon (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME_SUBSEQUENT"
+msgid "SMS home %0:s (%1:s)"
+msgstr "SMS rumah %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE_SUBSEQUENT"
+msgid "SMS office %0:s (%1:s)"
+msgstr "SMS pejabat %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE_SUBSEQUENT"
+msgid "SMS mobile %0:s (%1:s)"
+msgstr "SMS bimbit %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER_SUBSEQUENT"
+msgid "SMS other %0:s (%1:s)"
+msgstr "SMS lain %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE_SUBSEQUENT"
+msgid "SMS phone %0:s (%1:s)"
+msgstr "SMS telefon %0:s (%1:s)"
+
+msgctxt "sPROFILE_FACEBOOK_PRESENCE"
+msgid "Facebook > %s"
+msgstr "Facebook > %s"
+
+msgctxt "sPROFILE_MESSENGER_PRESENCE"
+msgid "Messenger > %s"
+msgstr "Pemesej > %s"
+
+msgctxt "sPROFILE_LYNC_PRESENCE"
+msgid "Lync > %s"
+msgstr "Lync > %s"
+
+msgctxt "sCHAT_PROFILE_ONE_PERSON"
+msgid "%d person"
+msgstr "%d orang"
+
+msgctxt "sCHAT_PROFILE_MANY_PERSONS"
+msgid "%d people"
+msgstr "%d orang"
+
+msgctxt "sCHAT_PROFILE_ZERO_PERSONS"
+msgid "0 people"
+msgstr "0 orang"
+
+msgctxt "sCHAT_PROFILE_AVATAR_ACC_NAME"
+msgid "Conversation with %s, view profile"
+msgstr "Perbualan dengan %s, lihat profil"
+
+msgctxt "sCHAT_HISTORY_P2P_CHAT"
+msgid "older chat"
+msgstr "sembang lebih lama"
+
+msgctxt "sPARTICIPANT_CONTEXT_MENU_SEND"
+msgid "Send"
+msgstr "Hantar"
+
+msgctxt "sPARTICIPANT_CONTEXT_MENU_SETNUMBER"
+msgid "Group call to..."
+msgstr "Panggilan kumpulan kepada..."
+
+msgctxt "sMAIN_MENU_DOGFOOD_FEEDBACK"
+msgid "Dogfood feedback"
+msgstr "Maklumbalas Dogfood"
+
+msgctxt "sPLUS_MENU_SEND_SMS"
+msgid "Send SMS..."
+msgstr "Hantar SMS..."
+
+msgctxt "sCHANNEL_SWITCHER_VIA_SMS_MULTIPLE"
+msgid "Send SMS to %s"
+msgstr "Hantar SMS kepada %s"
+
+msgctxt "sFLOW_AUTH_REQUEST_HEADER"
+msgid "<b>%s</b> would like to add you on Skype"
+msgstr "<b>%s</b> mahu menambah anda dalam Skype"
+
+msgctxt "sCHAT_HISTORY_JUMPBACK"
+msgid "Jump back"
+msgstr "Lompat balik"
+
+msgctxt "sMSNP24_MERGE_MESSAGE"
+msgid "From now on your chats will sync on all your devices."
+msgstr "Mulai sekarang sembang anda akan disegerak pada semua peranti anda."
+
+msgctxt "sCHAT_TYPING_ONE"
+msgid "%s is typing..."
+msgstr "%s sedang menaip..."
+
+msgctxt "sCHAT_TYPING_TWO"
+msgid "%s and %s are typing..."
+msgstr "%s dan %s sedang menaip..."
+
+msgctxt "sCHAT_TYPING_MANY"
+msgid "%s, %s and others are typing..."
+msgstr "%s, %s dan yang lain sedang menaip..."
+
+msgctxt "sRMC_NONE"
+msgid "How was the quality of this call?"
+msgstr "Bagaimanakah kualiti panggilan ini?"
+
+msgctxt "sRMC_ONE_STAR"
+msgid "Really poor. <a href=\"%s\">Tell us more.</a>"
+msgstr "Sangat teruk. <a href=\"%s\">Beritahu kami.</a>"
+
+msgctxt "sRMC_TWO_STARS"
+msgid "Poor. <a href=\"%s\">Help us to fix it.</a>"
+msgstr "Teruk. <a href=\"%s\">Bantu kami menambahbaik ia.</a>"
+
+msgctxt "sRMC_THREE_STARS"
+msgid "Fair. <a href=\"%s\">Help us to fix it.</a>"
+msgstr "Sederhana. <a href=\"%s\">Bantu kami menambahbaik ia.</a>"
+
+msgctxt "sRMC_FOUR_STARS"
+msgid "Good. <a href=\"%s\">Help us to fix it.</a>"
+msgstr "Baik. <a href=\"%s\">Bantu kami menambahbaik ia.</a>"
+
+msgctxt "sRMC_FIVE_STARS"
+msgid "Excellent."
+msgstr "Terbaik."
+
+msgctxt "sTHANKS_FOR_YOUR_FEEDBACK"
+msgid "Many thanks. You've just made some engineers at Skype very happy..."
+msgstr "Terima kasih. Sumbangan anda dapat menggembirakan beberapa orang jurutera di Skype..."
+
+msgctxt "sINBOX_PENDING_CONTACT_REQUESTS"
+msgid "Pending contact requests"
+msgstr "Permintaan kenalan tertangguh"
+
+msgctxt "stalktothehand_SMILEY"
+msgid "Talk to the hand"
+msgstr "Talk to the hand"
+
+msgctxt "sidea_SMILEY"
+msgid "Idea"
+msgstr "Idea"
+
+msgctxt "ssheep_SMILEY"
+msgid "Sheep"
+msgstr "Biri-biri"
+
+msgctxt "scat_SMILEY"
+msgid "Cat"
+msgstr "Kucing"
+
+msgctxt "sbike_SMILEY"
+msgid "Bicycle"
+msgstr "Basikal"
+
+msgctxt "sdog_SMILEY"
+msgid "Dog"
+msgstr "Anjing"
+
+msgctxt "scaptain_SMILEY"
+msgid "Captain America"
+msgstr "Captain America"
+
+msgctxt "sbucky_SMILEY"
+msgid "Bucky"
+msgstr "Bucky"
+
+msgctxt "sblackwidow_SMILEY"
+msgid "Black Widow"
+msgstr "Labah-labah Black Widow"
+
+msgctxt "snickfury_SMILEY"
+msgid "Nick Fury"
+msgstr "Nick Fury"
+
+msgctxt "sshielddeflect_SMILEY"
+msgid "Shield"
+msgstr "Perisai"
+
+msgctxt "sCALLNOTIF_TITLE_V2"
+msgid "%s calling..."
+msgstr "%s memanggil..."
+
+msgctxt "sSCREENSHARE_OPTION_DESKTOP"
+msgid "Share your screen"
+msgstr "Kongsi skrin anda"
+
+msgctxt "sSCREENSHARE_OPTION_WINDOW"
+msgid "Share a window"
+msgstr "Kongsi tetingkap"
+
+msgctxt "sLIVE_CONVERSATION_HEADER_PARTICIPANTS"
+msgid "%d participants"
+msgstr "%d peserta"
+
+msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
+msgid "Show images in conversations"
+msgstr "Tunjuk imej dalam perbualan"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
+msgid "Sent"
+msgstr "Hantar"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2_ASYNC"
+msgid "Transfer failed"
+msgstr "Pemindahan gagal"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_SENDING_2_ASYNC"
+msgid "Sending failed"
+msgstr "Penghantaran gagal"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_ASYNC"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_FOR_ACCEPT"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "sFILETRANSFER_PROGRESS_ASYNC"
+msgid "%s of %s..."
+msgstr "%s dari %s..."
+
+msgctxt "sFILETRANSFER_PROGRESS_ASYNC_GROUP"
+msgid "%s of %s"
+msgstr "%s dari %s"
+
+msgctxt "sFILETRANSFER_FILE_MOVED"
+msgid "File moved"
+msgstr "Fail dipindahkan"
+
+msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
+msgid "SHOW IN FOLDER"
+msgstr "TUNJUK DALAM FOLDER"
+
+msgctxt "sFILETRANSFER_AUTO_ACCEPT"
+msgid "Automatically accept incoming files"
+msgstr "Terima fail masuk secara automatik"
+
+msgctxt "sFILETRANSFER_INLINE_IMAGES"
+msgid "Show images in conversations"
+msgstr "Tunjuk imej dalam perbualan"
+
+msgctxt "sFILETRANSFER_PHOTO_COUNT_SINGLE"
+msgid "photo"
+msgstr "foto"
+
+msgctxt "sFILETRANSFER_PHOTO_COUNT_MANY"
+msgid "photos"
+msgstr "foto"
+
+msgctxt "sFILETRANSFER_FILE_COUNT_SINGLE"
+msgid "file"
+msgstr "fail"
+
+msgctxt "sFILETRANSFER_FILE_COUNT_MANY"
+msgid "files"
+msgstr "fail"
+
+msgctxt "sFILETRANSFER_FILES_SENT"
+msgid "Files sent"
+msgstr "Fail dihantar"
+
+msgctxt "sFILETRANSFER_FILES_RECEIVED"
+msgid "Files received"
+msgstr "Fail diterima"
+
+msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
+msgid "DOWNLOAD ALL"
+msgstr "MUAT TURUN SEMUA"
+
+msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
+msgid "CANCEL ALL"
+msgstr "BATAL SEMUA"
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
+msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
+msgstr "(hantar kepada <a href=\"{%link%}\">{%n%} orang</a>)"
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_MANY"
+msgid "(sent to <a href=\"{%link%}\">{%n%} people</a>)"
+msgstr "(hantar kepada <a href=\"{%link%}\">{%n%} orang</a>)"
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_EVERYONE"
+msgid "(sent to <a href=\"{%link%}\">everyone</a>)"
+msgstr "(hantar kepada <a href=\"{%link%}\">semua orang</a>)"
+
+msgctxt "sFILETRANSFER_SENT_TO_ONE"
+msgid "Sent to <a href=\"{%link%}\">{%n%} person</a>"
+msgstr "Hantar kepada <a href=\"{%link%}\">{%n%} orang</a>"
+
+msgctxt "sFILETRANSFER_SENT_TO_MANY"
+msgid "Sent to <a href=\"{%link%}\">{%n%} people</a>"
+msgstr "Hantar kepada <a href=\"{%link%}\">{%n%} orang</a>"
+
+msgctxt "sFILETRANSFER_SENT_TO_EVERYONE"
+msgid "Sent to <a href=\"{%link%}\">everyone</a>"
+msgstr "Hantar kepada <a href=\"{%link%}\">semua orang</a>"
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_ONE"
+msgid "(sending to <a href=\"{%link%}\">{%n%} person</a>)"
+msgstr "(menghantar kepada <a href=\"{%link%}\">{%n%} orang</a>)"
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_MANY"
+msgid "(sending to <a href=\"{%link%}\">{%n%} people</a>)"
+msgstr "(menghantar kepada <a href=\"{%link%}\">{%n%} orang</a>)"
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_EVERYONE"
+msgid "(sending to <a href=\"{%link%}\">everyone</a>)"
+msgstr "(menghantar kepada <a href=\"{%link%}\">semua orang</a>)"
+
+msgctxt "sFILETRANSFER_SENDING_TO_ONE"
+msgid "to <a href=\"{%link%}\">{%n%} person</a>..."
+msgstr "kepada <a href=\"{%link%}\">{%n%} orang</a>..."
+
+msgctxt "sFILETRANSFER_SENDING_TO_MANY"
+msgid "to <a href=\"{%link%}\">{%n%} people</a>..."
+msgstr "kepada <a href=\"{%link%}\">{%n%} orang</a>..."
+
+msgctxt "sFILETRANSFER_SENDING_TO_EVERYONE"
+msgid "to <a href=\"{%link%}\">everyone</a>..."
+msgstr "kepada <a href=\"{%link%}\">semua orang</a>..."
+
+msgctxt "sFILETRANSFER_SUMMARY_MORE_FILES"
+msgid "%d more file(s)"
+msgstr "%d fail lagi"
+
+msgctxt "sFILESIZE_PREFIXES_ASYNC"
+msgid "\\K\\M\\G\\T"
+msgstr "\\K\\M\\G\\T"
+
+msgctxt "sFILESIZE_UNIT_ASYNC"
+msgid "B"
+msgstr "B"
+
+msgctxt "sCONTACT_MSG_MULTIPLE_SENT"
+msgid "contacts sent"
+msgstr "kenalan hantar"
+
+msgctxt "sCONTACT_MSG_MULTIPLE_RECEIVED"
+msgid "contacts received"
+msgstr "kenalan terima"
+
+msgctxt "sCONTACT_MSG_CONTACT_SENT"
+msgid "Contact sent"
+msgstr "Kenalan hantar"
+
+msgctxt "sCONTACT_MSG_CONTACT_EXISTING"
+msgid "Already a contact"
+msgstr "Sudah ada dalam kenalan anda"
+
+msgctxt "sCONTACT_MSG_CONTACT_NEW"
+msgid "Add to contacts"
+msgstr "Tambah ke kenalan"
+
+msgctxt "sF_USERPROFILE_SKYPE"
+msgid "Skype:"
+msgstr "Skype:"
+
+msgctxt "sF_USERPROFILE_HOME_FIRST"
+msgid "Home:"
+msgstr "Rumah:"
+
+msgctxt "sF_USERPROFILE_OFFICE_FIRST"
+msgid "Office:"
+msgstr "Pejabat:"
+
+msgctxt "sF_USERPROFILE_MOBILE_FIRST"
+msgid "Mobile:"
+msgstr "Bimbit:"
+
+msgctxt "sF_USERPROFILE_OTHER_FIRST"
+msgid "Other:"
+msgstr "Lain-lain:"
+
+msgctxt "sF_USERPROFILE_PHONE_FIRST"
+msgid "Phone:"
+msgstr "Telefon:"
+
+msgctxt "sF_USERPROFILE_HOME_SUBSEQUENT"
+msgid "Home %0:s:"
+msgstr "Rumah %0:s:"
+
+msgctxt "sF_USERPROFILE_OFFICE_SUBSEQUENT"
+msgid "Office %0:s:"
+msgstr "Pejabat %0:s:"
+
+msgctxt "sF_USERPROFILE_MOBILE_SUBSEQUENT"
+msgid "Mobile %0:s:"
+msgstr "Bimbit %0:s:"
+
+msgctxt "sF_USERPROFILE_OTHER_SUBSEQUENT"
+msgid "Other %0:s:"
+msgstr "Lain-lain %0:s:"
+
+msgctxt "sF_USERPROFILE_PHONE_SUBSEQUENT"
+msgid "Phone %0:s:"
+msgstr "Telefon %0:s:"
+
+msgctxt "sF_USERPROFILE_ADD_NUMBER"
+msgid "Add Number"
+msgstr "Tambah Nombor"
+
+msgctxt "sF_CHAT_INFO_PEOPLE"
+msgid "%0:s people"
+msgstr "%0:s orang"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS"
+msgid "Conversation notifications"
+msgstr "Pemberitahuan perbualan"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS_NOTIFY"
+msgid "Notify me when something new happens"
+msgstr "Maklum saya bila sesuatu yang baharu berlaku"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS"
+msgid "Creator settings"
+msgstr "Tetapan pencipta"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
+msgid "Make chat history available to new joiners"
+msgstr "Jadikan sejarah sembang tersedia untuk peserta baharu"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_CHANGE"
+msgid "Allow this group's picture and name to be changed"
+msgstr "Benarkan gambar dan nama kumpulan ini diubah"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOIN"
+msgid "Allow people to join this group"
+msgstr "Benarkan orang lain menyertai kumpulan ini"
+
+msgctxt "sF_CHAT_INFO_COPY_LINK"
+msgid "Copy conversation link"
+msgstr "Salin pautan perbualan"
+
+msgctxt "sF_CHAT_INFO_LEAVE"
+msgid "Leave this conversation?"
+msgstr "Tinggalkan perbualan ini?"
+
+msgctxt "sF_CHAT_INFO_LEAVE_ASK"
+msgid "Always ask"
+msgstr "Sentiasa tanya"
+
+msgctxt "sSIDEBAR_HOME_TOOLTIP"
+msgid "See updates from your contacts in Skype Home."
+msgstr "Lihat kemaskini dari kenalan anda dalam Rumah Skype."
+
+msgctxt "sSIDEBAR_DIAL_TOOLTIP"
+msgid "Call mobiles and landlines from the dial pad."
+msgstr "Panggilan telefon dan telefon bimbit menerusi pad dail."
+
+msgctxt "sSIDEBAR_CHAT_TOOLTIP"
+msgid "Start a new chat. Create a group, send instant messages and files."
+msgstr "Mulakan sembang baharu. Cipta kumpulan, hantar mesej segera dan fail."
+
+msgctxt "sSIDEBAR_RECENTS_TOOLTIP"
+msgid "See your recent messages."
+msgstr "Lihat mesej baru-baru ini anda."
+
+msgctxt "sSIDEBAR_FAVORITES_TOOLTIP"
+msgid "See your favorite contacts."
+msgstr "Lihat kenalan kegemaran anda."
+
+msgctxt "sSIDEBAR_CONTACTS_TOOLTIP"
+msgid "See your contacts."
+msgstr "Lihat kenalan anda."
+
+msgctxt "sSIDEBAR_GROUP_TOOLTIP"
+msgid "Create a new group."
+msgstr "Cipta kumpulan baharu."
+
+msgctxt "sADFORM_TITLE"
+msgid "Advertisement"
+msgstr "Pengiklanan"
+
+msgctxt "sSIDEBAR_AVATAR_TOOLTIP"
+msgid "See your profile"
+msgstr "Lihat profil anda"
+
+msgctxt "sSIDEBAR_AVATAR_STATUS_TOOLTIP"
+msgid "Change your status"
+msgstr "Ubah status anda"
+
+msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TITLE"
+msgid "File transfers will start automatically from now on."
+msgstr "Pemindahan fail akan bermula secara automatik dari sekarang."
+
+msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TEXT"
+msgid ""
+"You can revert this change or choose a different destination folder in <a "
+"href=\"skype:?options#chatsettings:advanced\">settings</a>."
+msgstr "Anda boleh undur perubahan ini atau pilih folder destinasi lain di dalam <a href=\"skype:?options#chatsettings:advanced\">tetapan</a>."
+
+msgctxt "sBUBBLE_POPOVER_OK"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "sCHAT_HISTORY_TODAY"
+msgid "Today"
+msgstr "Hari ini"
+
+msgctxt "sCHAT_HISTORY_MOST_RECENT"
+msgid "Most Recent"
+msgstr "Terkini"
+
+msgctxt "sMAINMENU_VIEW_FAVORITES"
+msgid "Favourites"
+msgstr "Kegemaran"

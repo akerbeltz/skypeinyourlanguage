@@ -991,908 +991,910 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Aktiviteti i fundëm %n vit(e) më parë</numerusform><numerusform>Aktiviteti i fundëm %n vit(e) më parë</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n month(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Aktiviteti i fundëm %n muaj() më parë</numerusform><numerusform>Aktiviteti i fundëm %n muaj() më parë</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n week(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Aktiviteti i fundëm %n javë() më parë</numerusform><numerusform>Aktiviteti i fundëm %n javë() më parë</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n day(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Aktiviteti i fundëm %n ditë() më parë</numerusform><numerusform>Aktiviteti i fundëm %n ditë() më parë</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n hour(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Aktiviteti i fundëm %n orë() më parë</numerusform><numerusform>Aktiviteti i fundëm %n orë() më parë</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n minute(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Aktiviteti i fundëm %n minut() më parë</numerusform><numerusform>Aktiviteti i fundëm %n minut() më parë</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n second(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Aktiviteti i fundëm %n sekond(ë) më parë</numerusform><numerusform>Aktiviteti i fundëm %n sekond(ë) më parë</numerusform></translation>
     </message>
     <message>
         <source>Conference call, duration %1.</source>
-        <translation type="unfinished"/>
+        <translation>Thirrja konferencë, kohëzgjatja %1.</translation>
     </message>
     <message>
         <source>Add to Conference Call</source>
-        <translation type="unfinished"/>
+        <translation>Shto në Thirrje konferencë</translation>
     </message>
     <message>
         <source>Call participants</source>
-        <translation type="unfinished"/>
+        <translation>Pjesëmarrësit e Bisedimit</translation>
     </message>
 </context>
 <context>
     <name>Confirmation</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Prano</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Refuzo</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Mbyll</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Po</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Jo</translation>
     </message>
     <message>
         <source>Remember this selection</source>
-        <translation type="unfinished"/>
+        <translation>Mbajë në mend këtë përzgjedhje</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>A jeni të sigurtë ?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anulo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Përditësim</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Pastro</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Zbato</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Rivë</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Mirë</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Mbrapa</translation>
     </message>
     <message>
         <source>Try Again</source>
-        <translation type="unfinished"/>
+        <translation>Provo përsëri</translation>
     </message>
     <message>
         <source>Do not ask me again</source>
-        <translation type="unfinished"/>
+        <translation>Mos më pyet më përsëri</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Ndërro fjalëkalimin</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Krijo</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Ringarko</translation>
     </message>
     <message>
         <source>I agree</source>
-        <translation type="unfinished"/>
+        <translation>Pajtoj</translation>
     </message>
     <message>
         <source>I do not agree</source>
-        <translation type="unfinished"/>
+        <translation>Nuk pajtoj</translation>
     </message>
     <message>
         <source>Report abuse from this person</source>
-        <translation type="unfinished"/>
+        <translation>Raporto keqpërdorim për këtë person</translation>
     </message>
     <message>
         <source>You can also report abuse from this user. &lt;a href=&quot;%1&quot;&gt;Learn more&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Mund të raportoni keqpërdorim nga ky përdorues. &lt;a href=&quot;%1&quot;&gt;Mëso më tepër&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>Contact Authorisation</name>
     <message>
         <source>%1 people</source>
-        <translation type="unfinished"/>
+        <translation>%1 njerëz</translation>
     </message>
     <message>
         <source>Say Hello to %1</source>
-        <translation type="unfinished"/>
+        <translation>Përshëndete %1</translation>
     </message>
     <message>
         <source>Type a short message to introduce yourself to %1</source>
-        <translation type="unfinished"/>
+        <translation>Shkruaj një mesazh për të prezantuar veten te %1</translation>
     </message>
     <message>
         <source>Please allow me to see when you are online</source>
-        <translation type="unfinished"/>
+        <translation>Të lutem më lejo kur të jesh në linjë</translation>
     </message>
     <message>
         <source> Call %1</source>
-        <translation type="unfinished"/>
+        <translation>Thirr %1</translation>
     </message>
     <message>
         <source> Start a chat with %1</source>
-        <translation type="unfinished"/>
+        <translation>Bisedo me %1</translation>
     </message>
     <message>
         <source> View the profile of %1</source>
-        <translation type="unfinished"/>
+        <translation>Shih profilin e %1</translation>
     </message>
     <message>
         <source>Please let me see your contact details.</source>
-        <translation type="unfinished"/>
+        <translation>Të lutem më lejo të shoh detajet e kontaktit.</translation>
     </message>
     <message>
         <source>Contact request from %1</source>
-        <translation type="unfinished"/>
+        <translation>Kërkesë kontakti nga %1</translation>
     </message>
     <message>
         <source>Ignore Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>Injoro kërkesë kontakti</translation>
     </message>
     <message>
         <source>Ignore the contact request</source>
-        <translation type="unfinished"/>
+        <translation>Injoro kërkesë kontakti</translation>
     </message>
     <message>
         <source>Send Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>Dërgo kërkesë kontakti</translation>
     </message>
     <message>
         <source>Accept Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>Prano kërkesë kontakti</translation>
     </message>
     <message>
         <source>Hide Picture</source>
-        <translation type="unfinished"/>
+        <translation>Fsheh fotografinë</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation type="unfinished"/>
+        <translation>Shfaq fotografinë</translation>
     </message>
     <message>
         <source>Accept and Add to Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Prano dhe shto te Kontaktet</translation>
     </message>
     <message>
         <source>Accept contact request and add contact to your contact list</source>
-        <translation type="unfinished"/>
+        <translation>Prano kërkesë kontakti dhe shto kontaktin në listën e kotnakteve tuaj</translation>
     </message>
 </context>
 <context>
     <name>Contact Information</name>
     <message>
         <source>This is the user&apos;s current mood message. </source>
-        <translation type="unfinished"/>
+        <translation>Ky ësht humori i tanishëm i përdoruesit.</translation>
     </message>
     <message>
         <source>Call Contact</source>
-        <translation type="unfinished"/>
+        <translation>Thirr kontaktin</translation>
     </message>
     <message>
         <source>Click this button to place a call to this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Kliko këtë pullë që ta thërrasësh këtë kontakt.</translation>
     </message>
     <message>
         <source>Call Button</source>
-        <translation type="unfinished"/>
+        <translation>Pulla thirrëse</translation>
     </message>
     <message>
         <source>Chat to Contact</source>
-        <translation type="unfinished"/>
+        <translation>Bisedo me kontatktin</translation>
     </message>
     <message>
         <source>Click this button to start a chat with this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Kliko këtë pullë që të nisësh një bisedë këtë kontakt.</translation>
     </message>
     <message>
         <source>Chat Button</source>
-        <translation type="unfinished"/>
+        <translation>Pulla e bisedimit</translation>
     </message>
     <message>
         <source>View Profile</source>
-        <translation type="unfinished"/>
+        <translation>Shih profilin</translation>
     </message>
     <message>
         <source>Click this button to view this contact&apos;s profile.</source>
-        <translation type="unfinished"/>
+        <translation>Kliko këtë pullë për të parë profilin e kontaktit.</translation>
     </message>
     <message>
         <source>Profile Button</source>
-        <translation type="unfinished"/>
+        <translation>Pulla e profilit</translation>
     </message>
     <message>
         <source>This contact is configured for video conferencing.</source>
-        <translation type="unfinished"/>
+        <translation>Ky kontakt është konfiguruar për video konferencë.</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Në linjë</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Larg</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Mos pengo</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Padukshëm</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Shkëputur</translation>
     </message>
     <message>
         <source>Edit Profile</source>
-        <translation type="unfinished"/>
+        <translation>Redakto profilin</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
-        <translation type="unfinished"/>
+        <translation>Numër i fshehur</translation>
     </message>
     <message>
         <source>Last Seen: %1</source>
-        <translation type="unfinished"/>
+        <translation>Parë së fundi %1</translation>
     </message>
     <message>
         <source>Edit Contact</source>
-        <translation type="unfinished"/>
+        <translation>Redakto kontakt...</translation>
     </message>
     <message>
         <source>Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>Grupet e kontakteve</translation>
     </message>
     <message>
         <source>Add to Contact List</source>
-        <translation type="unfinished"/>
+        <translation>Shto te Lista e kontaktet</translation>
     </message>
     <message>
         <source>Block Contact</source>
-        <translation type="unfinished"/>
+        <translation>Blloko kontaktin</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete %1 from your contact list?</source>
-        <translation type="unfinished"/>
+        <translation>A je i/e sigurt që do ta fshish %1 nga lista e kontakteve tuaja?</translation>
     </message>
     <message>
         <source>Are you sure you wish to block %1?</source>
-        <translation type="unfinished"/>
+        <translation>A je i/e sigurt që do ta bllokosh %1?</translation>
     </message>
     <message>
         <source>Delete Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Fshij kontaktet e përzgjedhura</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected users from your contact list?</source>
-        <translation type="unfinished"/>
+        <translation>A je i/e sigurt që do ta fshish persona të përzgjedhur nga lista e kontakteve tuaja?</translation>
     </message>
     <message>
         <source>This contact is using a mobile device that does not support chats.</source>
-        <translation type="unfinished"/>
+        <translation>Ky kontakt është duke përdorur një pajisje mobile që nuk e përkrah bisedimet.</translation>
     </message>
     <message>
         <source>Profile for %1</source>
-        <translation type="unfinished"/>
+        <translation>Profili për %1</translation>
     </message>
     <message>
         <source>Contact Information</source>
-        <translation type="unfinished"/>
+        <translation>Informatat e kontaktit</translation>
     </message>
     <message>
         <source>Skype Name:</source>
-        <translation type="unfinished"/>
+        <translation>Emri Skype:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Emri i plotë:</translation>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Home Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Telefoni i shtëpisë</translation>
     </message>
     <message>
         <source>Office Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Telefoni i punës</translation>
     </message>
     <message>
         <source>Mobile Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Telefoni celular</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="unfinished"/>
+        <translation>Informatat personale</translation>
     </message>
     <message>
         <source>Contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktet:</translation>
     </message>
     <message>
         <source>Local Time:</source>
-        <translation type="unfinished"/>
+        <translation>Koha lokale:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Ditëlindja:</translation>
     </message>
     <message>
         <source>Age:</source>
-        <translation type="unfinished"/>
+        <translation>Mosha:</translation>
     </message>
     <message>
         <source>Gender:</source>
-        <translation type="unfinished"/>
+        <translation>Gjinia:</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Gjuha:</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Shteti:</translation>
     </message>
     <message>
         <source>Region:</source>
-        <translation type="unfinished"/>
+        <translation>Rajoni:</translation>
     </message>
     <message>
         <source>City:</source>
-        <translation type="unfinished"/>
+        <translation>Qyteti</translation>
     </message>
     <message>
         <source>Homepage:</source>
-        <translation type="unfinished"/>
+        <translation>Ueb faqja:</translation>
     </message>
     <message>
         <source>Phone Number:</source>
-        <translation type="unfinished"/>
+        <translation>Numri telefonik</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation type="unfinished"/>
+        <translation>Mashkull</translation>
     </message>
     <message>
         <source>Female</source>
-        <translation type="unfinished"/>
+        <translation>Femër</translation>
     </message>
     <message>
         <source>Change Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Ndërro avatarin</translation>
     </message>
     <message>
         <source>Remove Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Largo avatarin</translation>
     </message>
     <message>
         <source>Click here to read the privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Kliko këtu që të lexosh politikën e privatësisë</translation>
     </message>
     <message>
         <source>Clear Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Fshij ditëlindjen</translation>
     </message>
     <message>
         <source>-- Unspecified --</source>
-        <translation type="unfinished"/>
+        <translation>-- E përcaktuar --</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Riemërto</translation>
     </message>
     <message>
         <source>Type a new name or number for %1</source>
-        <translation type="unfinished"/>
+        <translation>Shkruaj një emër ose numër të ri për %1</translation>
     </message>
     <message>
         <source>Clear Name</source>
-        <translation type="unfinished"/>
+        <translation>Fshij emrin</translation>
     </message>
     <message>
         <source>Rename %1</source>
-        <translation type="unfinished"/>
+        <translation>Riemërto %1</translation>
     </message>
     <message>
         <source>Type a new display name for %1</source>
-        <translation type="unfinished"/>
+        <translation>Shkruaj një emër të ri paraqitës për %1</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Emri</translation>
     </message>
     <message>
         <source>Gender</source>
-        <translation type="unfinished"/>
+        <translation>Gjinia</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"/>
+        <translation>Qyteti</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Gjuha</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished"/>
+        <translation>Duke u lidhur</translation>
     </message>
     <message>
         <source>Blocked</source>
-        <translation type="unfinished"/>
+        <translation>I/e bllokuar</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>I/e panjohur</translation>
     </message>
     <message>
         <source>Undisclosed number</source>
-        <translation type="unfinished"/>
+        <translation>Numër i fshehur</translation>
     </message>
     <message>
         <source>Echo Test Service</source>
-        <translation type="unfinished"/>
+        <translation>Shërbimi testues i jehonës</translation>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n kontakt</numerusform><numerusform>%n kontakte</numerusform></translation>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
-        <translation type="unfinished"/>
+        <translation>Ky kontakt e ka sot ditëlindjen.</translation>
     </message>
     <message>
         <source>This contact is currently using a mobile device.</source>
-        <translation type="unfinished"/>
+        <translation>Ky kontakt është duke përdorur një pajisje mobile.</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>I/e pa emërtuar</translation>
     </message>
     <message>
         <source>Choose Avatar Image</source>
-        <translation type="unfinished"/>
+        <translation>Përzgjedh imazhin e avatarit</translation>
     </message>
     <message>
         <source>Contact Options</source>
-        <translation type="unfinished"/>
+        <translation>Opsionet e kontaktit</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"/>
+        <translation>Numri telefonik</translation>
     </message>
     <message>
         <source>%1 (%2) - %3 since %4</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2) - %3 që nga %4</translation>
     </message>
     <message>
         <source>&lt;br&gt;
 &lt;br&gt;
 &lt;u&gt;%1 is typing a message&lt;/u&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;br&gt;
+&lt;br&gt;
+&lt;u&gt;%1 është duke shkruar një mesazh&lt;/u&gt;</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation type="unfinished"/>
+        <translation>Riemërto...</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Largo nga kontaktet</translation>
     </message>
     <message>
         <source>Unblock This User</source>
-        <translation type="unfinished"/>
+        <translation>Zhblloko këtë përdorues</translation>
     </message>
     <message>
         <source>Block This User</source>
-        <translation type="unfinished"/>
+        <translation>Blloko këtë përdorues</translation>
     </message>
     <message>
         <source>Are you sure you wish to unblock %1?</source>
-        <translation type="unfinished"/>
+        <translation>A je i/e sigurt që do ta zhbllokosh %1?</translation>
     </message>
     <message>
         <source>Pending contact request</source>
-        <translation type="unfinished"/>
+        <translation>Kërkesat kontakti në pritje</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected group?</source>
-        <translation type="unfinished"/>
+        <translation>A je i/e sigurt që do ta fshish grupin e përzgjedhur?</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Dërgo SMS</translation>
     </message>
     <message>
         <source>Click this button to send SMS.</source>
-        <translation type="unfinished"/>
+        <translation>Kliko këtë pullë që të dërgosh SMS.</translation>
     </message>
     <message>
         <source>SMS Button</source>
-        <translation type="unfinished"/>
+        <translation>Pulla e SMS-ve</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Mirë</translation>
     </message>
     <message>
         <source>Create Group</source>
-        <translation type="unfinished"/>
+        <translation>Krijo grup</translation>
     </message>
     <message>
         <source>Enter name for new group</source>
-        <translation type="unfinished"/>
+        <translation>Shkruaj emrin për grupin e ri</translation>
     </message>
     <message>
         <source>Edit Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Redakto numër telefonik</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Ruaj</translation>
     </message>
     <message>
         <source>Labels for %1</source>
-        <translation type="unfinished"/>
+        <translation>Emërtimet për %1</translation>
     </message>
     <message>
         <source>Enter a comma separated list of labels for %1</source>
-        <translation type="unfinished"/>
+        <translation>Fute një listë të ndarë me presje për %1</translation>
     </message>
     <message>
         <source>Edit Labels...</source>
-        <translation type="unfinished"/>
+        <translation>Redakto emërtimet...</translation>
     </message>
     <message>
         <source>Block this user</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Blloko këtë përdorues</translation>
     </message>
     <message>
         <source>Unblock this user</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Zhblloko këtë përdorues</translation>
     </message>
     <message>
         <source>Last Seen:</source>
-        <translation type="unfinished"/>
+        <translation>Parë së fundi:</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Fshih</translation>
     </message>
     <message>
         <source>Add more email addresses</source>
-        <translation type="unfinished"/>
+        <translation>Shto më tepër adresën e postës elektronike</translation>
     </message>
     <message>
         <source>Offline with voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>Jashtë linje me Mesazh zanor</translation>
     </message>
     <message>
         <source>Offline with call forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Jashtë linje me përcjellje të thirrjes</translation>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Në linjë (në pajisje të lëvizshme)</translation>
     </message>
     <message>
         <source>Away (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Larg (në pajisje të lëvizshme)</translation>
     </message>
     <message>
         <source>Do Not Disturb (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Mos pengo (në pajisje të lëvizshme)</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Redakto</translation>
     </message>
     <message>
         <source>Add phone number</source>
-        <translation type="unfinished"/>
+        <translation>Shto numër telefonik</translation>
     </message>
     <message>
         <source>Other Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Tjetër telefon:</translation>
     </message>
 </context>
 <context>
     <name>Contact Search</name>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Shto kontakt</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Kërko</translation>
     </message>
     <message>
         <source>Country/Region</source>
-        <translation type="unfinished"/>
+        <translation>Shteti/Rajoni</translation>
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Numri telefonik</translation>
     </message>
     <message>
         <source>All Countries/Regions</source>
-        <translation type="unfinished"/>
+        <translation>Të gjitha Shtetet/Rajonet</translation>
     </message>
     <message>
         <source>Age Range</source>
-        <translation type="unfinished"/>
+        <translation>Rangu i moshës</translation>
     </message>
     <message>
         <source>All Ages</source>
-        <translation type="unfinished"/>
+        <translation>Të gjitha moshat</translation>
     </message>
     <message>
         <source>State/Province</source>
-        <translation type="unfinished"/>
+        <translation>Shteti/Krahina</translation>
     </message>
     <message>
         <source>Do not specify</source>
-        <translation type="unfinished"/>
+        <translation>Mos e specifiko</translation>
     </message>
     <message>
         <source>All Languages</source>
-        <translation type="unfinished"/>
+        <translation>Të gjitha gjuhët</translation>
     </message>
     <message>
         <source>Full Name</source>
         <comment>Result Table Header: Full Name</comment>
-        <translation type="unfinished"/>
+        <translation>Emri i plotë</translation>
     </message>
     <message>
         <source>Skype Name</source>
         <comment>Result Table Header: Skype Name</comment>
-        <translation type="unfinished"/>
+        <translation>Emri Skype</translation>
     </message>
     <message>
         <source>City, Country</source>
         <comment>Result Table Header: City, Country</comment>
-        <translation type="unfinished"/>
+        <translation>Qytet, Shteti</translation>
     </message>
     <message>
         <source>Add a Skype Contact</source>
-        <translation type="unfinished"/>
+        <translation>Shto një Kontakt Skype</translation>
     </message>
     <message>
         <source>Search for Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kërko për Kontaktet Skype</translation>
     </message>
     <message>
         <source>New Search</source>
-        <translation type="unfinished"/>
+        <translation>Kërkim i ri</translation>
     </message>
     <message>
         <source>Or add a Skype contact</source>
-        <translation type="unfinished"/>
+        <translation>Ose shto një kontakt Skype</translation>
     </message>
     <message>
         <source>Add Number</source>
-        <translation type="unfinished"/>
+        <translation>Shto numër</translation>
     </message>
     <message>
         <source>Cancel Search</source>
-        <translation type="unfinished"/>
+        <translation>Anulo kërkimin</translation>
     </message>
     <message>
         <source>Search for Skype users</source>
-        <translation type="unfinished"/>
+        <translation>Kërko për përdoruesit e Skype</translation>
     </message>
     <message>
         <source>Add a Skype contact using their Skype Name</source>
-        <translation type="unfinished"/>
+        <translation>Shto një kontakt Skype duke përdorur Emrin Skype</translation>
     </message>
     <message>
         <source>Add a phone number as a contact</source>
-        <translation type="unfinished"/>
+        <translation>Shto një numër telefonik si një kontakt</translation>
     </message>
     <message>
         <source>Search the Skype directory for old and new friends. If you know their Skype Name, full name or e-mail address, enter it into the box below.</source>
-        <translation type="unfinished"/>
+        <translation>Kërko në dosjen e Skype-s për miq të vjetër e të rinj. Nëse e di Emrin Skype të tyre, emrin e plotë ose adresën e postës elektronike, shkruaji ato në kutinë e mëposhtme.</translation>
     </message>
     <message>
         <source>Or add a phone number as a contact</source>
-        <translation type="unfinished"/>
+        <translation>Ose shto një numër telefoni si një kontakt</translation>
     </message>
     <message>
         <source>Enter the Skype Name of the person you wish to add into the box below.</source>
-        <translation type="unfinished"/>
+        <translation>Shto Emrin Skype të personit që do ta shtosh në kutinë e mëposhtme.</translation>
     </message>
     <message>
         <source>Add a Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Shto një numër telefonik</translation>
     </message>
     <message>
         <source>The phone number %1 you entered is already in your contacts</source>
-        <translation type="unfinished"/>
+        <translation>Numri telefonik %1 që ju e keni dhënë është tashmë te kontaktet tuaja</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"/>
+        <translation>%1 tashmë është në kontaktet tuaja</translation>
     </message>
     <message>
         <source>Search Again</source>
-        <translation type="unfinished"/>
+        <translation>Kërko përsëri</translation>
     </message>
 </context>
 <context>
     <name>Controls</name>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+M</translation>
     </message>
 </context>
 <context>
     <name>Dates and Time</name>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Nesër</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Sot</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Dje</translation>
     </message>
 </context>
 <context>
     <name>EULA</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Gjuha</translation>
     </message>
     <message>
         <source>Skype Terms of Use</source>
-        <translation type="unfinished"/>
+        <translation>Kushtet e përdorimit të Skype</translation>
     </message>
     <message>
         <source>To start using Skype, you must agree to the Terms of Use.</source>
-        <translation type="unfinished"/>
+        <translation>Që të fillosh ta përdorësh Skype, duhet të pajtohesh me Kushtet e përdorimit.</translation>
     </message>
     <message>
         <source>Terms of Use</source>
-        <translation type="unfinished"/>
+        <translation>Kushtet e përdorimit</translation>
     </message>
 </context>
 <context>
     <name>Events</name>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Shfaq historinë</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Shëno të gjitha të lexuara</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
-        <translation type="unfinished"/>
+        <translation>Numër i fshehur</translation>
     </message>
     <message>
         <source>Birthday for %1</source>
-        <translation type="unfinished"/>
+        <translation>Ditëlindja për %1</translation>
     </message>
     <message>
         <source>Delete Event</source>
-        <translation type="unfinished"/>
+        <translation>Fshij ngjarjen</translation>
     </message>
     <message>
         <source>Delete Selected Events</source>
-        <translation type="unfinished"/>
+        <translation>Fshij ngjarjet e përzgjedhura</translation>
     </message>
     <message>
         <source>Unknown event</source>
-        <translation type="unfinished"/>
+        <translation>Ngjarje e panjohur</translation>
     </message>
     <message>
         <source>Event History</source>
-        <translation type="unfinished"/>
+        <translation>Historia e ngjarjes</translation>
     </message>
     <message>
         <source>New Events</source>
-        <translation type="unfinished"/>
+        <translation>Ngjarjet e reja</translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation type="unfinished"/>
+        <translation>Thirrjet</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Bisedimet</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Transferimet e skedarëve</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>Ditëlindjet</translation>
     </message>
     <message>
         <source>%1 has appeared online</source>
-        <translation type="unfinished"/>
+        <translation>%1 u paraqit në linjë</translation>
     </message>
     <message>
         <source>%1 has gone offline</source>
-        <translation type="unfinished"/>
+        <translation>%1 është shkëputur</translation>
     </message>
     <message>
         <source>%1 has been added to your contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 është shtuar në listën tuaj të kontakteve</translation>
     </message>
     <message>
         <source>%1 has been deleted from your contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 është fshirë nga lista juaj e kontakteve.</translation>
     </message>
     <message>
         <source>%1 has a birthday</source>
-        <translation type="unfinished"/>
+        <translation>%1 e ka ditëlindjen</translation>
     </message>
     <message>
         <source>%1, %2 turned %3</source>
-        <translation type="unfinished"/>
+        <translation>%1, %2 sapo i bënë %s</translation>
     </message>
     <message>
         <source>%1, %2 turns %3</source>
@@ -2964,7 +2966,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Phone Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Numrat e telefonit</translation>
     </message>
     <message>
         <source>Requests to New Contacts</source>
@@ -2972,15 +2974,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>1 free call</source>
-        <translation type="unfinished"/>
+        <translation>Një thirrje falas</translation>
     </message>
     <message>
         <source>Call any phone with Skype. Your first call is free.</source>
-        <translation type="unfinished"/>
+        <translation>Thirr çfarëdo telefoni me Skype. Thirrja juaj e parë është falas</translation>
     </message>
     <message>
         <source>Buy Skype Credit</source>
-        <translation type="unfinished"/>
+        <translation>Blejë Kredi Skype</translation>
     </message>
     <message>
         <source>Skype number expires in %1 days</source>
@@ -2992,7 +2994,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype number</source>
-        <translation type="unfinished"/>
+        <translation>Numri Skype</translation>
     </message>
     <message>
         <source>Skype Voice Messaging</source>
@@ -3000,7 +3002,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Start a &amp;Conference Call...</source>
-        <translation type="unfinished"/>
+        <translation>Nis një &amp;Thirrje konferencë...</translation>
     </message>
     <message>
         <source>Get a subscription</source>
@@ -3014,106 +3016,106 @@ Please try again later.</source>
     </message>
     <message>
         <source>Messenger Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktet Mesengerit</translation>
     </message>
     <message>
         <source>Subscriptions</source>
-        <translation type="unfinished"/>
+        <translation>Abonimet</translation>
     </message>
 </context>
 <context>
     <name>Options</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Gjenerale</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"/>
+        <translation>Privatësia</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Njoftimet</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Biseda</translation>
     </message>
     <message>
         <source>Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Përcjellja e thirrjes</translation>
     </message>
     <message>
         <source>Sound Devices</source>
-        <translation type="unfinished"/>
+        <translation>Pajisjet e zërimit</translation>
     </message>
     <message>
         <source>Video Devices</source>
-        <translation type="unfinished"/>
+        <translation>Pajisjet e videos</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Avancuar</translation>
     </message>
     <message>
         <source>Blocked People</source>
-        <translation type="unfinished"/>
+        <translation>Njerëzit e bllokuar</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>API publike</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Mbyll</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opsionet</translation>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
-        <translation type="unfinished"/>
+        <translation>Kur të klikoj dyherë në një kontakt ose përdor fushën e adresës </translation>
     </message>
     <message>
         <source>Start a call</source>
-        <translation type="unfinished"/>
+        <translation>Nis një thirrje</translation>
     </message>
     <message>
         <source>Start a chat</source>
-        <translation type="unfinished"/>
+        <translation>Nis një bisedë</translation>
     </message>
     <message>
         <source>Show me as &apos;Away&apos; when I am inactive for</source>
-        <translation type="unfinished"/>
+        <translation>Më shfaq &apos;Larg&apos; kur të kem qenë joaktiv për</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>minutë</translation>
     </message>
     <message>
         <source>Start Skype minimised in the system tray</source>
-        <translation type="unfinished"/>
+        <translation>Nis Skype-n të minimizuar në pragun e sistemit</translation>
     </message>
     <message>
         <source>Set program language to:</source>
-        <translation type="unfinished"/>
+        <translation>Cakto gjuhën e programit në:</translation>
     </message>
     <message>
         <source>anybody</source>
-        <translation type="unfinished"/>
+        <translation>çdokush</translation>
     </message>
     <message>
         <source>only people I have allowed</source>
-        <translation type="unfinished"/>
+        <translation>lejohen vetëm njerëzit që i kam</translation>
     </message>
     <message>
         <source>anybody with a visible number</source>
-        <translation type="unfinished"/>
+        <translation>çdokush me numër të dukshëm</translation>
     </message>
     <message>
         <source>only numbers of my Contacts</source>
-        <translation type="unfinished"/>
+        <translation>vetëm numrat e Kontakteve të mia</translation>
     </message>
     <message>
         <source>Forever</source>
