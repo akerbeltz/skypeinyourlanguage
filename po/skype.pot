@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SkypeInYourLang\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-05-27 21:14:03+0100\n"
+"POT-Creation-Date: 2014-08-12 01:59:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4157,10 +4157,6 @@ msgctxt "sZAPBUTTON_NONE"
 msgid "none"
 msgstr ""
 
-msgctxt "sZAPBUTTON_DUMMYFULL"
-msgid ""
-msgstr ""
-
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
 msgstr ""
@@ -4195,10 +4191,6 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
-msgstr ""
-
-msgctxt "sZAPBUTTON_ALLCONTACTS"
-msgid ""
 msgstr ""
 
 msgctxt "sZAPBUTTON_ANSWER"
@@ -6902,7 +6894,7 @@ msgid "No speakers detected."
 msgstr ""
 
 msgctxt "sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3"
-msgid "Automatically receive video and share screens with..."
+msgid "Automatically receive video and share screens with"
 msgstr ""
 
 msgctxt "sVIDEO_BTN_SHOW_HERE"
@@ -7539,14 +7531,6 @@ msgstr ""
 
 msgctxt "sCQ_CAM_SEND_HIGH_ON_CALL_DESC"
 msgid "Not seeing each other's video? You should both turn your video off then on again, or plug your webcams into a different USB port and restart."
-msgstr ""
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
-msgid ""
-msgstr ""
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
-msgid ""
 msgstr ""
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_TITLE"
@@ -9746,7 +9730,7 @@ msgid "Delete this voice message"
 msgstr ""
 
 msgctxt "sREMOVE_GROUP_INFO2"
-msgid "Contacts in this list will not be deleted. You can still find them under \"All\""
+msgid "Contacts in this list will not be deleted. You can still find them under All Contacts"
 msgstr ""
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
@@ -10190,7 +10174,7 @@ msgid "Paying with:"
 msgstr ""
 
 msgctxt "sTOPUP_AUTO_RECHARGE"
-msgid "Enable Auto-recharge"
+msgid "Enable Auto-recharge when I'm running low on credit"
 msgstr ""
 
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
@@ -10274,7 +10258,7 @@ msgid "How Auto-recharge works"
 msgstr ""
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
-msgid "Don't worry about running out of credit, we'll add more when you're running low."
+msgid "Auto-recharge saves you time and hassle. We’ll charge your preferred payment method and credit your account with the amount selected above when your balance is low. You can disable Auto-recharge any time in My Account, under Billing and Payments. For more information read <a href=\"http://www.skype.com/go/tou.refund\">Skype’s refund policy</a>."
 msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
@@ -11890,6 +11874,54 @@ msgid "Most Recent"
 msgstr ""
 
 msgctxt "sMAINMENU_VIEW_FAVORITES"
-msgid "Favourites"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "sCONTACT_GROUP_ALLCONTACTS"
+msgid "All Contacts"
+msgstr ""
+
+msgctxt "sCHAT_JUMPBACK_HEADER"
+msgid "Jump Back:"
+msgstr ""
+
+msgctxt "sSEARCH_WITH_BING"
+msgid "Search with Bing"
+msgstr ""
+
+msgctxt "sF_OPTIONS_CB_AUTO_CORRECT"
+msgid "Auto correct and highlight misspelled words"
+msgstr ""
+
+msgctxt "sF_OPTIONS_LB_AUTO_CORRECT"
+msgid "To enable the spell checker, %0:sgo to your PC settings%1:s"
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_AUDIO"
+msgid "Make this a group video call. It's free."
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_VIDEO"
+msgid "Add more people to your video call for free."
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_GROUP"
+msgid "Get more out of your conversation with a free group video call."
+msgstr ""
+
+msgctxt "sOPTIONS_SHOW_PROFILE_PICTURES"
+msgid "Show profile pictures"
+msgstr ""
+
+msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
+msgid "%s for 1 month"
+msgstr ""
+
+msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
+msgid "From %s for 1 month"
+msgstr ""
+
+msgctxt "sCALLPHONES_PAYG_CAPTION_NO_RATE"
+msgid "Pay As You Go"
 msgstr ""
 
