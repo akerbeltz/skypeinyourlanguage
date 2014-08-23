@@ -239,10 +239,11 @@ Scottish Gaelic (Gàidhlig)
 Translator: Michael Bauer
 
 Serbian (Cyrillic; српски)
-Translator: DakSrbija
+Translator: DakSrbija, markosm, mite71
+Source: Transifex
 
 Sinhala (සිංහල)
-Translator: nishan
+Translator: nishan, Pasindu Kavinda, irosh enzer, Rasika Karunarathne, sanuka, siddhana
 Source: Transifex
 
 Tajik (Тоҷикӣ, تاجیکی‎)
