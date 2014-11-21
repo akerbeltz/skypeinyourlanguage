@@ -2,14 +2,15 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # DakSrbija <vlabotami@gmail.com>, 2013
-# Mitko Krstev <m.krstev@hotmail.com>, 2013
+# mite71 <m.krstev@hotmail.com>, 2013
+# markosm <pausovic@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-11-28 20:29+0000\n"
-"Last-Translator: Mitko Krstev <m.krstev@hotmail.com>\n"
+"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
+"PO-Revision-Date: 2014-11-19 17:48+0000\n"
+"Last-Translator: Michael Bauer\n"
 "Language-Team: Serbian (Serbia) (http://www.transifex.com/projects/p/skype-translation-project/language/sr_RS/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -199,22 +200,6 @@ msgctxt "sSEX_FEMALE"
 msgid "Female"
 msgstr "Женско"
 
-msgctxt "sF_USERENTRY_BUTTON_CANCEL"
-msgid "Cancel"
-msgstr "Откажи"
-
-msgctxt "sF_USERENTRY_CAPTION_CREATE_ACCOUNT"
-msgid "Create account"
-msgstr "Направи налог"
-
-msgctxt "sF_USERENTRY_INFO_CREATE_ACCOUNT"
-msgid "Create a new Skype account"
-msgstr "Направи нови Skype налог"
-
-msgctxt "sF_USERENTRY_LABEL_CHOOSE_USERNAME"
-msgid "Create Skype Name"
-msgstr "Направи Skype име"
-
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
 msgstr "Skype име"
@@ -223,33 +208,17 @@ msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
 msgstr "Лозинка"
 
-msgctxt "sF_USERENTRY_LABEL_PASSWORD2"
-msgid "Repeat password"
-msgstr "Поновите лозинку"
-
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
 msgstr "Заборавили сте лозинку?"
 
-msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
-msgid "Yes, send me Skype news and promotions"
-msgstr "Да, шаљите ми Skype вести и промоције"
-
-msgctxt "sF_USERENTRY_SIGNIN"
-msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
-msgstr "Да ли већ имате Skype налог? <a href=\"x\">Пријави се</a>"
-
 msgctxt "sF_SPLASH_COPYRIGHT1"
-msgid "© 2003-2013 Skype and/or Microsoft"
-msgstr "© 2003-2013 Skype и/или Microsoft"
+msgid "© 2014 Skype and/or Microsoft"
+msgstr "© 2014 Skype и/или Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
 msgstr "Заштићено међународним законима. Сва права су задржана."
-
-msgctxt "sF_USERPROFILE_LB_FULLNAME"
-msgid "Full name"
-msgstr "Име и презиме"
 
 msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
@@ -262,10 +231,6 @@ msgstr "Језик"
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
 msgstr "Земља/регион"
-
-msgctxt "sF_USERPROFILE_LB_PROVINCE"
-msgid "State/Province"
-msgstr "Држава/покрајина"
 
 msgctxt "sF_USERPROFILE_LB_CITY"
 msgid "City"
@@ -340,8 +305,8 @@ msgid "- Options"
 msgstr "- Опције"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
-msgid "© 2003 - 2013 Skype and/or Microsoft"
-msgstr "© 2003 - 2013 Skype и/или Microsoft"
+msgid "© 2014 Skype and/or Microsoft"
+msgstr "© 2014 Skype и/или Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -408,26 +373,6 @@ msgstr "Затвори"
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
 msgstr "настављање позива"
-
-msgctxt "sF_SEARCH_FIELD_USERNAME"
-msgid "Skype Name"
-msgstr "Skype име"
-
-msgctxt "sF_SEARCH_FIELD_FULLNAME"
-msgid "Full name"
-msgstr "Име и презиме"
-
-msgctxt "sF_SEARCH_FIELD_COUNTRY"
-msgid "Country/Region"
-msgstr "Земља/регион"
-
-msgctxt "sF_SEARCH_FIELD_LANGUAGE"
-msgid "Language"
-msgstr "Језик"
-
-msgctxt "sF_SEARCH_FIELD_CITY"
-msgid "City"
-msgstr "Град"
 
 msgctxt "sF_OPTIONS_TCB2"
 msgid "Show timestamp next to instant messages"
@@ -508,7 +453,7 @@ msgid "Change password"
 msgstr "Промените лозинку"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
-msgid "The old password you entered is not valid.  Please try again."
+msgid "The old password you entered is not valid. Please try again."
 msgstr "Стара лозинка коју сте унели није важећа. Покушајте поново."
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
@@ -520,10 +465,6 @@ msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
 msgstr "Успело је! Ваша лозинка је промењена. Користите нову лозинку приликом наредног пријављивања."
-
-msgctxt "sF_SEND_CONTACTS_TEXT1"
-msgid "Send contacts to other people on Skype"
-msgstr "Пошаљите контакте другим особама на Skypeу"
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -547,10 +488,6 @@ msgid ""
 "password."
 msgstr "Лозинка је прекратка. Мора да има 6-20 знакова. Пробајте нову лозинку."
 
-msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID"
-msgid "The password you have entered has invalid characters"
-msgstr "Лозинка коју сте унели садржи неважеће знакове"
-
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
 msgstr "Повезивање"
@@ -564,7 +501,7 @@ msgid "for incoming connections"
 msgstr "за долазне везе"
 
 msgctxt "sF_OPTIONS_TCB8"
-msgid "Use port 80 and 443 as alternatives for incoming connections"
+msgid "Use port 80 and 443 for additional incoming connections"
 msgstr "Користи порт 80 и 443 као алтернативе за долазне везе"
 
 msgctxt "sF_OPTIONS_CONNDATA_INVALIDPORT"
@@ -1029,8 +966,8 @@ msgid ""
 msgstr "Број телефона који сте покушали да позовете није исправно унет. Морате унети +, затим позивни број за земљу и број који желите да позовете. Пример: +1 212 555 1212"
 
 msgctxt "sPSTN_ERR_UNKNOWN"
-msgid "Internal error, please try again. (#%s)"
-msgstr "Унутрашња грешка, покушајте поново. (#%s)"
+msgid "Sorry, there was a problem. Please try again."
+msgstr "Жао нам је, дошло је до проблема. Покушајте поново."
 
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
@@ -1176,8 +1113,8 @@ msgid "You have a relayed connection. This means that sending will be slow."
 msgstr "Имате пренету везу. То значи да ће слање бити споро."
 
 msgctxt "sBUDDYMENU_SENDFILE"
-msgid "Send File..."
-msgstr "Слање датотеке..."
+msgid "Send files..."
+msgstr "Пошаљи фајлове..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
@@ -1262,10 +1199,8 @@ msgstr "Мрежа је заузета"
 
 msgctxt "sINFORM_PASSWORD_OUTDATED_LOGOFF"
 msgid ""
-"You recently changed your password. Sign in with the new password to call a "
-"phone or mobile. This is a security measure to prevent your Skype account "
-"being abused."
-msgstr "Недавно сте променили лозинку. Пријавите се са новом лозинком да бисте позивали фиксне или мобилне телефоне. Ово је мера безбедности за спречавање злоупотребе вашег Skype налога."
+"You recently changed your password. Please sign in with your new password."
+msgstr ""
 
 msgctxt "sINFORM_UIC_FAILED_LOGOFF"
 msgid ""
@@ -1466,12 +1401,12 @@ msgid "Send Voice Message"
 msgstr "Пошаљи говорну поруку"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
-msgid "Are you sure you want to leave this group?"
-msgstr "Јесте ли сигурни да желите да напустите ову групу?"
+msgid "Are you sure you want to leave this conversation?"
+msgstr "Да ли сте сигурни да желите напустити ово ћаскање?"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE_TITLE"
-msgid "Leave group"
-msgstr "Напусти групу"
+msgid "Leave conversation"
+msgstr "Напусти разговор"
 
 msgctxt "sCHAT_MEMBER_ADDED"
 msgid "%s added %s"
@@ -1581,17 +1516,9 @@ msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
 msgstr "Чувај историју за"
 
-msgctxt "sF_MULTICHAT_NEW_TITLE"
-msgid "Start IM with group"
-msgstr "Покрени размену тренутних порука са групом"
-
 msgctxt "sF_STARTCHAT_TOPIC_LABEL"
 msgid "Conversation title/topic"
 msgstr "Наслов/тема разговора"
-
-msgctxt "sF_STARTCHAT_START_BUTTON"
-msgid "Create"
-msgstr "Направи"
 
 msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
@@ -1701,8 +1628,8 @@ msgid "busy signal"
 msgstr "заузет сигнал"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE"
-msgid "incoming IM"
-msgstr "долазна тренутна порука"
+msgid "incoming IM in recent chat"
+msgstr "долазни IM у скорашњи разговор"
 
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS"
 msgid "Display a notification in the Windows tray when someone..."
@@ -1791,7 +1718,7 @@ msgstr "Омогући све звукове"
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
 msgid "Set up voice messaging"
-msgstr ""
+msgstr "Подесите гласовне поруке"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
@@ -1915,22 +1842,6 @@ msgstr "Сазнајте више о подешавању ваше аудио о
 msgctxt "sF_USERPROFILE_LB_ABOUT2"
 msgid "About me"
 msgstr "О мени"
-
-msgctxt "sF_USERENTRY_PROFILE_NAME"
-msgid "Full name"
-msgstr "Име и презиме"
-
-msgctxt "sF_USERENTRY_PROFILE_COUNTRY"
-msgid "Country/Region"
-msgstr "Земља/регион"
-
-msgctxt "sF_USERENTRY_PROFILE_CITY"
-msgid "City"
-msgstr "Град"
-
-msgctxt "sF_USERENTRY_PROFILE_EMAIL"
-msgid "Email"
-msgstr "Е-порука"
 
 msgctxt "sF_USERPROFILE_CAPTION2"
 msgid "Profile"
@@ -2227,16 +2138,6 @@ msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
 msgstr "Започни снимање говорне поруке ако..."
 
-msgctxt "sF_VOICEMAIL_OPTIONS_LB3"
-msgid ""
-"Note: If call forwarding is on, calls will be sent first to the phone "
-"number(s) you entered"
-msgstr "Напомена: Ако је прослеђивање позива укључено, позиви ће прво бити послати на унете број(еве) телефона"
-
-msgctxt "sF_VOICEMAIL_OPTIONS_LB4"
-msgid "If there is no answer, calls will be recorded as a voice message"
-msgstr "Ако се нико не јавља, позив ће бити забележен као говорна порука"
-
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_REJECT"
 msgid "I reject an incoming call"
 msgstr "Одбијам долазни позив"
@@ -2446,10 +2347,6 @@ msgid ""
 "be available on other computers where this devices is used."
 msgstr "Руннинг Skype са УСБ флеш диска. Сви подаци који се чувају на %s можда неће бити доступни на другим рачунарима на којима се користи овај уређај."
 
-msgctxt "sF_AUTH_BTN_BLOCK"
-msgid "Block"
-msgstr "Блокирај"
-
 msgctxt "sF_AUTHQUERY_DEFAULT2"
 msgid "Hello! Please add me to your Contact list."
 msgstr "Здраво! Додај ме у своју Листу контаката."
@@ -2496,20 +2393,6 @@ msgid ""
 "again."
 msgstr "Ваше Skype име и лозинка нису препознати. Проверите и покушајте поново."
 
-msgctxt "sF_USERENTRY_ERROR_1107"
-msgid "Invalid address"
-msgstr "Неважећа адреса"
-
-msgctxt "sF_USERENTRY_ERROR_1109"
-msgid "Skype Name contains invalid characters."
-msgstr "Skype име садржи неважеће знакове."
-
-msgctxt "sF_USERENTRY_LB_EXPLAIN"
-msgid ""
-"Sorry - the Skype Name you've entered is already taken. Enter a new Skype "
-"Name or choose one of these suggestions:"
-msgstr "Жао нам је - Skype име које сте унели је већ заузето. Унесите ново Skype име или изаберите један од ових предлога:"
-
 msgctxt "sF_OPTIONS_CB_WEBPRESENCE"
 msgid "Allow my online status to be shown on the web"
 msgstr "Дозволи да мој статус на мрежи буде приказан на Вебу"
@@ -2549,10 +2432,6 @@ msgstr "Skype грешка позива1"
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT12"
 msgid "Skype call error2"
 msgstr "Skype грешка позива2"
-
-msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT13"
-msgid "Skype incoming IM2"
-msgstr "Skype долазна тренутна порука2"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
@@ -2619,8 +2498,8 @@ msgid "call error2"
 msgstr "грешка позива2"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
-msgid "incoming message"
-msgstr "долазна порука"
+msgid "incoming IM in current chat"
+msgstr "долазни IM у тренутни разговор"
 
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
@@ -2676,7 +2555,7 @@ msgstr "особа је напустила конференцијски пози
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO1"
 msgid "no one"
-msgstr "никим"
+msgstr "ни са ким"
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO2"
 msgid "people in my Contact list only"
@@ -2685,18 +2564,6 @@ msgstr "само особама из моје листе контаката"
 msgctxt "sF_OPTIONS_RC_REC_VIDEO3"
 msgid "anyone"
 msgstr "свима"
-
-msgctxt "sF_OPTIONS_RC_AD_VIDEO1"
-msgid "no one"
-msgstr "нико"
-
-msgctxt "sF_OPTIONS_RC_AD_VIDEO2"
-msgid "people in my Contact list only"
-msgstr "свим особама из моје листе контаката"
-
-msgctxt "sF_OPTIONS_VIDEO_LB4"
-msgid "Show that I have video to..."
-msgstr "Прикажи да имам видео..."
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
@@ -2750,10 +2617,6 @@ msgstr "Skype позив је прослеђен."
 msgctxt "sF_OPTIONS_SOUNDS_FORWARDED"
 msgid "Call is forwarded"
 msgstr "Позив је прослеђен"
-
-msgctxt "sF_AUTHQUERY_DEFAULT3"
-msgid "Enter a message to introduce yourself."
-msgstr "Унесите поруку да бисте се представили."
 
 msgctxt "s_FVIDEOTEST_BUTTON_SETTINGS"
 msgid "Webcam settings"
@@ -2952,24 +2815,6 @@ msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
 msgstr "Сазнајте више о СМС порукама"
 
-msgctxt "sF_PAYMENTS_CAPTION"
-msgid "Skype Credit"
-msgstr "Skype кредит"
-
-msgctxt "sF_PAYMENTS_LOADING"
-msgid "Loading - %s"
-msgstr "Учитавање - %s"
-
-msgctxt "sF_PAYMENTS_ERROR_CAPTION"
-msgid "Check your connection"
-msgstr "Проверите везу"
-
-msgctxt "sF_PAYMENTS_ERROR_TEXT"
-msgid ""
-"Sorry, you don't seem to have an active internet connection, so you can't "
-"continue with your purchase."
-msgstr "Жао нам је, изгледа као да немате активну интернет везу, тако да не можете да наставите са куповином."
-
 msgctxt "sF_PAYMENTS_BTN_CLOSE"
 msgid "Close"
 msgstr "Затвори"
@@ -3112,10 +2957,6 @@ msgctxt "sF_UPGRADE_FAILED_LINK"
 msgid "Click here"
 msgstr "Кликните овде"
 
-msgctxt "sF_SEARCH_RESULTS"
-msgid "Search results"
-msgstr "Резултати претраге"
-
 msgctxt "sF_OPTIONS_SMS_STATUS_LB10"
 msgid "You do not have enough Skype Credit to send a code"
 msgstr "Немате довољно Skype кредита да бисте послали кôд"
@@ -3144,14 +2985,6 @@ msgstr "Затвори прозор разговора"
 msgctxt "sFILETRANSFER_STATUS_NO_CAPABILITY"
 msgid "The other person is on a device that doesn't let them receive files."
 msgstr "Друга особа користи уређај који јој не дозвољава да прима датотеке."
-
-msgctxt "sF_PAYMENTS_ERROR2_TEXT"
-msgid "Due to technical issues, please"
-msgstr "Због техничких проблема,"
-
-msgctxt "sF_PAYMENTS_ERROR_LINK"
-msgid "continue your payment in the Skype webstore using your web browser."
-msgstr "наставите уплату у Skype веб продавници коришћењем Веб прегледача."
 
 msgctxt "sF_CONFIRM_DELETE"
 msgid "Delete"
@@ -3234,13 +3067,6 @@ msgstr "Мењање слике..."
 msgctxt "sCHANGE_SOUNDS"
 msgid "Change Sounds..."
 msgstr "Мењање звукова..."
-
-msgctxt "sF_USERENTRY_LB_EULA3"
-msgid ""
-"Yes, I have read and I accept the <a href=\"skype:?go#eula\">Skype End User "
-"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of Use</a> "
-"and the <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>"
-msgstr ""
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
 msgid "You can't send a file to yourself."
@@ -3754,10 +3580,6 @@ msgid ""
 " host has accepted you."
 msgstr "Чека да се придружи.<br/>Није могуће објављивати поруке у овом разговору све док вас домаћин не прихвати."
 
-msgctxt "sCHAT_STATUSMESSAGE_LISTENER"
-msgid "You are currently not allowed to post messages."
-msgstr "Тренутно вам није дозвољено да објављујете поруке."
-
 msgctxt "sCHAT_MENU_NOTIFICATIONS"
 msgid "IM Notification Settings"
 msgstr "Поставке обавештења тренутних порука"
@@ -3777,46 +3599,6 @@ msgstr "Слика разговора"
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
 msgstr "Библиотека слика"
-
-msgctxt "sF_PRIVACY_CHANGE_TITLE"
-msgid "Privacy protection"
-msgstr "Заштита приватности"
-
-msgctxt "sF_PRIVACY_CHANGE_HEADER1"
-msgid "Do you receive unwanted calls?"
-msgstr "Да ли примате нежељене позиве?"
-
-msgctxt "sF_PRIVACY_CHANGE_HEADER2"
-msgid "Do you receive unwanted IM messages?"
-msgstr "Да ли примате нежељене тренутне поруке?"
-
-msgctxt "sF_PRIVACY_CHANGE_BTN_OK"
-msgid "OK"
-msgstr "У реду"
-
-msgctxt "sF_PRIVACY_CHANGE_BTN_CANCEL"
-msgid "Cancel"
-msgstr "Откажи"
-
-msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE1"
-msgid "Allow calls from everyone."
-msgstr "Дозволи позиве од свих."
-
-msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE2"
-msgid "Allow IMs from everyone."
-msgstr "Дозволи тренутне поруке од свих."
-
-msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS1"
-msgid "Allow calls only from my contacts."
-msgstr "Дозволи позиве само од мојих контаката."
-
-msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS2"
-msgid "Allow IM from my contacts only."
-msgstr "Дозволи тренутне поруке само од мојих контаката."
-
-msgctxt "sF_PRIVACY_CHANGE_LB_OPTIONS"
-msgid "<a href=\"skype:?options#privacy\">Advanced privacy options</a>"
-msgstr "<a href=\"Skype:?options#privacy\">Напредне опције приватности</a>"
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
@@ -3942,6 +3724,10 @@ msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
 msgstr "Аутор:"
 
+msgctxt "sF_CHAT_INFO_LB_ADMIN"
+msgid "Administrators:"
+msgstr ""
+
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
 msgstr "Правила модерације:"
@@ -4052,12 +3838,6 @@ msgstr "Прекидање везе"
 msgctxt "sF_OPTIONS_CB_TYPING"
 msgid "Show when I am typing"
 msgstr "Прикажи кад куцам"
-
-msgctxt "sF_SENDMONEY_LOAD_ERROR"
-msgid ""
-"You don't seem to have an active internet connection. Please check your "
-"connection and try again."
-msgstr "Изгледа као да немате активну Интернет везу. Проверите везу и покушајте поново."
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
@@ -4396,12 +4176,6 @@ msgid ""
 "forwarded to a phone number or another Skype account."
 msgstr "Када не користите Skype, позиваоци могу да оставе говорну поруку или буду прослеђени на број телефона или други Skype налог."
 
-msgctxt "sF_VOICEMAIL_OPTIONS_LB5"
-msgid ""
-"Call forwarding is active. Calls will be sent first to the phone number(s) "
-"set."
-msgstr "Прослеђивање позива је активно. Позиви ће прво бити послати на одређене број(еве) телефона."
-
 msgctxt "sF_BLOCK_ALREADY_BLOCKED"
 msgid "This person is already blocked."
 msgstr "Ова особа је већ блокирана."
@@ -4420,10 +4194,6 @@ msgid ""
 "and leave voice messages for your contacts if you can't get hold of them."
 msgstr "Персонализујте поздравну говорну поруку, сачувајте поруке да бисте их поново преслушали и оставите контактима говорну поруку ако не можете да их добијете."
 
-msgctxt "sF_OPTIONS_UPGRADE_SKYPPRO"
-msgid "Get a subscription"
-msgstr "Набавите претплату"
-
 msgctxt "sCONTACT_LONG_HINT_LAST_SEEN"
 msgid "Last seen"
 msgstr "Последњи пут виђено"
@@ -4440,23 +4210,11 @@ msgctxt "sF_USERINFO_SERTIFIED_HINT"
 msgid "This is a business contact."
 msgstr "Ово је пословни контакт."
 
-msgctxt "sF_ADDFRIEND_SERTIFIED_HINT"
-msgid "This is a business contact."
-msgstr "Ово је пословни контакт."
-
-msgctxt "sTOOLTIP_CHAT_THUMB"
-msgid "Play video %s"
-msgstr "Репродукуј видео %s"
-
 msgctxt "sVIDEOMENU_TAKE_SNAPSHOT"
 msgid "Take a Picture"
 msgstr "Направи фотографију"
 
 msgctxt "sF_USERINFO_IMG_SERTIFIED"
-msgid "Business contact"
-msgstr "Пословни контакт"
-
-msgctxt "sF_ADDFRIEND_IMG_SERTIFIED"
 msgid "Business contact"
 msgstr "Пословни контакт"
 
@@ -4487,10 +4245,6 @@ msgstr "Заврши позив"
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
 msgstr "Додај још особа"
-
-msgctxt "sF_STARTSEND_SELECTED_CONTACTS_LABEL"
-msgid "Contacts to send"
-msgstr "Контакти за слање"
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
@@ -4558,22 +4312,6 @@ msgctxt "sZAPBUTTON_NONE"
 msgid "none"
 msgstr "ниједан"
 
-msgctxt "sZAPBUTTON_DUMMYFULL"
-msgid ""
-msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
-
-msgctxt "sZAPBUTTON_DUMMYLEFT"
-msgid ""
-msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
-
-msgctxt "sZAPBUTTON_DUMMYRIGHT"
-msgid ""
-msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
-
-msgctxt "sZAPBUTTON_DUMMYMIDDLE"
-msgid ""
-msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
-
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
 msgstr "Прихвати"
@@ -4590,10 +4328,6 @@ msgctxt "sZAPBUTTON_ADDNUMBER"
 msgid "Add phone number"
 msgstr "Додај број телефона"
 
-msgctxt "sZAPBUTTON_ADDMYNUMBER"
-msgid "Add my number"
-msgstr "Додај мој број"
-
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
 msgstr "Додај у контакте"
@@ -4602,45 +4336,29 @@ msgctxt "sZAPBUTTON_ADDCONTACT"
 msgid "Add a contact"
 msgstr "Додај контакт"
 
-msgctxt "sZAPBUTTON_ADDCONTACTMENU"
-msgid "All contacts"
-msgstr "Сви контакти"
-
 msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
 msgstr "Додај све у контакте"
 
-msgctxt "sZAPBUTTON_ADDSKYPEOUT"
-msgid "Save number in Contacts"
-msgstr "Сачувај број у контактима"
+msgctxt "sZAPBUTTON_ADDTOGROUP"
+msgid "Add to Group"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
 msgstr "Додај у конференцијски позив"
 
+msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
+msgid "Add to group call"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCERINGING"
+msgid "Add to group call"
+msgstr ""
+
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
 msgstr "Додај у контакте"
-
-msgctxt "sZAPBUTTON_AF_PINNED"
-msgid ""
-msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
-
-msgctxt "sZAPBUTTON_AF_UNPINNED"
-msgid ""
-msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
-
-msgctxt "sZAPBUTTON_ALLCONTACTS"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_ALLOW"
-msgid "Allow"
-msgstr "Дозволи"
-
-msgctxt "sZAPBUTTON_ALLOWNOT"
-msgid "Do not allow"
-msgstr "Не дозволи"
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
@@ -4662,14 +4380,6 @@ msgctxt "sZAPBUTTON_BACK"
 msgid "Back"
 msgstr "Назад"
 
-msgctxt "sZAPBUTTON_BACKGSW"
-msgid "Back"
-msgstr "Назад"
-
-msgctxt "sZAPBUTTON_BLOCK"
-msgid "Block"
-msgstr "Блокирај"
-
 msgctxt "sZAPBUTTON_BUYCREDIT"
 msgid "Buy Skype Credit"
 msgstr "Купи Skype кредит"
@@ -4682,17 +4392,21 @@ msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
 msgstr "Позови"
 
+msgctxt "sZAPBUTTON_CALLMULTIPLE"
+msgid "Call"
+msgstr ""
+
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
 msgstr "Додај позиву"
 
-msgctxt "sZAPBUTTON_CALLWHICH"
-msgid "Call"
-msgstr "Позови"
-
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
 msgstr "Позови групу"
+
+msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
+msgid "Copy conversation link"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
@@ -4798,49 +4512,13 @@ msgctxt "sZAPBUTTON_CQ_CONNECTION_POOR"
 msgid "Connection"
 msgstr "Веза"
 
-msgctxt "sZAPBUTTON_CQ_SHOW"
-msgid "Show problems"
-msgstr "Прикажи проблеме"
-
-msgctxt "sZAPBUTTON_CQ_HIDE"
-msgid "Hide problems"
-msgstr "Сакриј проблеме"
-
 msgctxt "sZAPBUTTON_CQ_PLAY"
 msgid "Play"
 msgstr "Репродукуј"
 
-msgctxt "sZAPBUTTON_GIVEFEEDBACK"
-msgid "Give feedback"
-msgstr "Пошаљите повратне информације"
-
 msgctxt "sZAPBUTTON_CQ_CHECK"
 msgid "Check call quality guide"
 msgstr "Проверите водич за квалитет позива"
-
-msgctxt "sZAPBUTTON_CALLQUALITY"
-msgid "Call Quality"
-msgstr "Квалитет позива"
-
-msgctxt "sZAPBUTTON_CALLQUALITYAVERAGE"
-msgid "Call Quality Average"
-msgstr "Просечан квалитет позива"
-
-msgctxt "sZAPBUTTON_CALLQUALITYBAD"
-msgid "Call Quality Bad"
-msgstr "Лош квалитет позива"
-
-msgctxt "sZAPBUTTON_CALLQUALITYINFO"
-msgid "Call Quality"
-msgstr "Квалитет позива"
-
-msgctxt "sZAPBUTTON_CALLQUALITYWARNING"
-msgid "Call Quality Warning"
-msgstr "Упозорење за квалитет позива"
-
-msgctxt "sZAPBUTTON_CALLQUALITYERROR"
-msgid "Call Quality Error"
-msgstr "Грешка квалитета позива"
 
 msgctxt "sZAPBUTTON_CQ_5STAR"
 msgid "*****"
@@ -4886,10 +4564,6 @@ msgctxt "sZAPBUTTON_CHAT"
 msgid "Send message"
 msgstr "Пошаљи поруку"
 
-msgctxt "sZAPBUTTON_CHARGE"
-msgid "Charge"
-msgstr "Наплати"
-
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
 msgstr "Промените државу"
@@ -4910,45 +4584,9 @@ msgctxt "sZAPBUTTON_CLOSEONBLUE"
 msgid "Close"
 msgstr "Затвори"
 
-msgctxt "sZAPBUTTON_CLOSEEC"
-msgid "Close"
-msgstr "Затвори"
-
-msgctxt "sZAPBUTTON_CLOSEGSW"
-msgid "Close"
-msgstr "Затвори"
-
-msgctxt "sZAPBUTTON_CONVERSATIONS"
-msgid "Conversations"
-msgstr "Разговори"
-
-msgctxt "sZAPBUTTON_CONVERSATION"
-msgid "Display the conversation here instead"
-msgstr "Уместо тога овде прикажи разговор"
-
-msgctxt "sZAPBUTTON_CONVERSATIONCLASSIC"
-msgid "Show the window containing the conversation"
-msgstr "Прикажи прозор који садржи разговор"
-
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
 msgstr "Skype"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSHOME"
-msgid "Home"
-msgstr "Кућа"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSMOBILE"
-msgid "Mobile"
-msgstr "Мобилни"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSPHONE"
-msgid "Phone"
-msgstr "Телефон"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSOFFICE"
-msgid "Office"
-msgstr "Канцеларија"
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
@@ -4958,14 +4596,6 @@ msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
 msgstr "Контакти"
 
-msgctxt "sZAPBUTTON_CONTACTSARROW"
-msgid "Contacts"
-msgstr "Контакти"
-
-msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
-msgid "Selected contacts"
-msgstr "Изабрани контакти"
-
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
 msgstr "Направи групу"
@@ -4974,105 +4604,21 @@ msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
 msgstr "Одбиј"
 
+msgctxt "sZAPBUTTON_DECLINECALL"
+msgid "Decline"
+msgstr ""
+
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
 msgstr "Избриши"
-
-msgctxt "sZAPBUTTON_DELETEALERTMESSAGE"
-msgid "Delete"
-msgstr "Избриши"
-
-msgctxt "sZAPBUTTON_DELETEHIDDEN"
-msgid "Delete"
-msgstr "Избриши"
-
-msgctxt "sZAPBUTTON_DELETEINVERT"
-msgid "Delete"
-msgstr "Избриши"
-
-msgctxt "sZAPBUTTON_DETAILS"
-msgid "Details"
-msgstr "Детаљи"
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
 msgstr "Нумеричка тастатура"
 
-msgctxt "sZAPBUTTON_DIALPAD_0"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_1"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_2"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_3"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_4"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_5"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_6"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_7"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_8"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_9"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_ASTERIX"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_HASH"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_ADDCONTACT"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_SMS"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_CALL"
-msgid " "
-msgstr " "
-
 msgctxt "sZAPBUTTON_DIALNUMBER"
 msgid "Dial this phone number"
 msgstr "Бирај овај број телефона"
-
-msgctxt "sZAPBUTTON_DIRECTORY"
-msgid "Find businesses"
-msgstr "Пронађи предузећа"
-
-msgctxt "sZAPBUTTON_DOLATER"
-msgid "Do it later"
-msgstr "Уради касније"
-
-msgctxt "sZAPBUTTON_DOWN"
-msgid "Down"
-msgstr "Доле"
 
 msgctxt "sZAPBUTTON_DOWNLOAD"
 msgid "Download"
@@ -5090,10 +4636,6 @@ msgctxt "sZAPBUTTON_REPLY"
 msgid "Reply"
 msgstr "Одговори"
 
-msgctxt "sZAPBUTTON_DIALADRECENT"
-msgid "Recent numbers"
-msgstr "Недавни бројеви"
-
 msgctxt "sZAPBUTTON_DIALPADSHOW"
 msgid "Show dial pad"
 msgstr "Прикажи нумеричку тастатуру"
@@ -5101,18 +4643,6 @@ msgstr "Прикажи нумеричку тастатуру"
 msgctxt "sZAPBUTTON_COUNTRYSELECTOR"
 msgid "Choose country/region"
 msgstr "Изаберите земљу"
-
-msgctxt "sZAPBUTTON_HIDE"
-msgid "Hide"
-msgstr "Сакриј"
-
-msgctxt "sZAPBUTTON_FIVE"
-msgid "5"
-msgstr "5"
-
-msgctxt "sZAPBUTTON_FILE"
-msgid "File"
-msgstr "Датотека"
 
 msgctxt "sZAPBUTTON_FULLSCREEN"
 msgid "Full screen"
@@ -5122,17 +4652,9 @@ msgctxt "sZAPBUTTON_FULLSCREENEXIT"
 msgid "Exit fullscreen"
 msgstr "Изађи из приказа преко целог екрана"
 
-msgctxt "sZAPBUTTON_POPOUTEXIT"
-msgid "Exit popout mode"
-msgstr "Изађи из режима искачућег прозора"
-
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "Help"
 msgstr "Помоћ"
-
-msgctxt "sZAPBUTTON_FILETRANSFER"
-msgid "File Transfer"
-msgstr "Пренос датотека"
 
 msgctxt "sZAPBUTTON_CHATBOOK"
 msgid "Facebook"
@@ -5146,10 +4668,6 @@ msgctxt "sZAPBUTTON_EDIT"
 msgid "Edit"
 msgstr "Уреди"
 
-msgctxt "sZAPBUTTON_EXITGSW"
-msgid "Exit this guide"
-msgstr "Изађи из овог водича"
-
 msgctxt "sZAPBUTTON_FINDOUTMORE"
 msgid "Find out more"
 msgstr "Сазнај више"
@@ -5162,42 +4680,6 @@ msgctxt "sZAPBUTTON_FINDCONTACTSKYPE"
 msgid "Find this person on Skype"
 msgstr "Пронађи ову особу на Skypeу"
 
-msgctxt "sZAPBUTTON_CALLNUMBER"
-msgid "Call this number"
-msgstr "Позови овај број"
-
-msgctxt "sZAPBUTTON_SHOWHISTORY"
-msgid "Show history"
-msgstr "Прикажи историју"
-
-msgctxt "sZAPBUTTON_HIDEHISTORY"
-msgid "Hide history"
-msgstr "Сакриј историју"
-
-msgctxt "sZAPBUTTON_HIDECONTACTLIST"
-msgid "Hide Contacts"
-msgstr "Сакриј контакте"
-
-msgctxt "sZAPBUTTON_SHOWCONTACTLIST"
-msgid "Show Contacts"
-msgstr "Прикажи контакте"
-
-msgctxt "sZAPBUTTON_HISTORYFILTER"
-msgid "All messages"
-msgstr "Све поруке"
-
-msgctxt "sZAPBUTTON_FOUR"
-msgid "4"
-msgstr "4"
-
-msgctxt "sZAPBUTTON_FINDFRIENDS"
-msgid "Find friends"
-msgstr "Пронађи пријатеље"
-
-msgctxt "sZAPBUTTON_FINDFRIENDSNEW"
-msgid "FindFriends"
-msgstr "ПронађиПријатеље"
-
 msgctxt "sZAPBUTTON_FINDNEXT"
 msgid "<ks>N</ks>ext"
 msgstr "<ks>Следеће</ks>"
@@ -5209,10 +4691,6 @@ msgstr "<ks>Претходно</ks>"
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "My account"
 msgstr "Мој налог"
-
-msgctxt "sZAPBUTTON_FORWARD"
-msgid "Forward"
-msgstr "Проследи"
 
 msgctxt "sZAPBUTTON_GALLERY"
 msgid "Gallery"
@@ -5245,10 +4723,6 @@ msgstr "Надогради сада"
 msgctxt "sZAPBUTTON_SENDFREEUPGRADELINK"
 msgid "Send upgrade link"
 msgstr "Пошаљи везу надоградње"
-
-msgctxt "sZAPBUTTON_GETSTARTED"
-msgid "<b><font type=\"Arial\">Get started</font></b>"
-msgstr "<b>Први кораци</b>"
 
 msgctxt "sZAPBUTTON_GROUPCALLSKYPE"
 msgid "Skype"
@@ -5294,6 +4768,10 @@ msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
 msgstr "Остало"
 
+msgctxt "sZAPBUTTON_ADDPEOPLE"
+msgid "Add people"
+msgstr ""
+
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
 msgstr "Skype"
@@ -5314,17 +4792,9 @@ msgctxt "sZAPBUTTON_ADDPEOPLEOTHER"
 msgid "Other"
 msgstr "Остало"
 
-msgctxt "sZAPBUTTON_CONTACTLISTOPEN_ACTIVE"
-msgid "Show contacts"
-msgstr "Прикажи контакте"
-
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_INACTIVE"
 msgid "Show contacts"
 msgstr "Прикажи контакте"
-
-msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_ACTIVE"
-msgid "Hide contacts"
-msgstr "Сакриј контакте"
 
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_INACTIVE"
 msgid "Hide contacts"
@@ -5342,18 +4812,6 @@ msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
 msgstr "Позови"
 
-msgctxt "sZAPBUTTON_INSTANTMESSAGE"
-msgid "Instant Message"
-msgstr "Тренутна порука"
-
-msgctxt "sZAPBUTTON_HISTORYSLIDER"
-msgid "Last message"
-msgstr "Последња порука"
-
-msgctxt "sZAPBUTTON_HIDEDETAILS"
-msgid "Hide details"
-msgstr "Сакриј детаље"
-
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
 msgstr "Сакриј поруке"
@@ -5368,7 +4826,7 @@ msgstr "Кућа"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
-msgstr ""
+msgstr "Skype Матична страница, нова ажурирања"
 
 msgctxt "sZAPBUTTON_ADDCONTACTSEMIACTIVE"
 msgid "Add to contacts"
@@ -5377,14 +4835,6 @@ msgstr "Додај у контакте"
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
 msgstr "Помоћ"
-
-msgctxt "sZAPBUTTON_INFOALT"
-msgid "Info"
-msgstr "Информације"
-
-msgctxt "sZAPBUTTON_INFO"
-msgid "Info"
-msgstr "Информације"
 
 msgctxt "sZAPBUTTON_IGNORE"
 msgid "Ignore"
@@ -5402,41 +4852,21 @@ msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
 msgstr "Сазнајте више"
 
-msgctxt "sZAPBUTTON_SEEHOW"
-msgid "See how"
-msgstr "Сазнајте како"
-
-msgctxt "sZAPBUTTON_LEFT"
-msgid "<b><font color=\"#475358\">Left</font></b>"
-msgstr "<b><font color=\"#475358\">Лево</font></b>"
+msgctxt "sZAPBUTTON_LEAVECONVERSATION"
+msgid "Leave conversation"
+msgstr ""
 
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
 msgstr "Пронађи"
 
-msgctxt "sZAPBUTTON_MAKEDEMOCALL"
-msgid "Make test call"
-msgstr "Обавите тест позив"
-
-msgctxt "sZAPBUTTON_MENU"
-msgid "Menu"
-msgstr "Мени"
-
-msgctxt "sZAPBUTTON_MPV_LEFT"
-msgid "MPV left"
-msgstr "МПВ лево"
-
-msgctxt "sZAPBUTTON_MPV_CENTER"
-msgid "MPV center"
-msgstr "МПВ средина"
-
-msgctxt "sZAPBUTTON_MPV_RIGHT"
-msgid "MPV right"
-msgstr "МПВ десно"
-
 msgctxt "sZAPBUTTON_MPV_ALONE"
 msgid "MPV alone"
 msgstr "Само МПВ"
+
+msgctxt "sZAPBUTTON_MERGECALLS"
+msgid "Merge calls"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
@@ -5450,129 +4880,37 @@ msgctxt "sZAPBUTTON_MESSAGEFILE"
 msgid "Send file"
 msgstr "Пошаљи датотеку"
 
-msgctxt "sZAPBUTTON_MESSAGESHARE"
-msgid "Share"
-msgstr "Дели"
-
-msgctxt "sZAPBUTTON_MESSAGEEXTRAS"
-msgid "Extras"
-msgstr "Додаци"
-
 msgctxt "sZAPBUTTON_MESSAGESMS"
 msgid "Group SMS"
 msgstr "Групни СМС"
-
-msgctxt "sZAPBUTTON_MESSAGESMS_ON"
-msgid "SMS"
-msgstr "СМС"
-
-msgctxt "sZAPBUTTON_MESSAGESMSDROPDOWN"
-msgid "SMS"
-msgstr "СМС"
-
-msgctxt "sZAPBUTTON_MESSAGEIM"
-msgid "IM"
-msgstr "Тренутна порука"
-
-msgctxt "sZAPBUTTON_MESSAGEFROM"
-msgid "From"
-msgstr "Од"
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
 msgstr "путем Skypeа"
 
-msgctxt "sZAPBUTTON_MESSAGETO"
-msgid "To"
-msgstr "За"
-
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
 msgstr "Више"
-
-msgctxt "sZAPBUTTON_MONITORVIDEOCLOSE"
-msgid "Close call monitor"
-msgstr "Затвори монитор позива"
-
-msgctxt "sZAPBUTTON_MONITORAUDIOCLOSE"
-msgid "Close call monitor"
-msgstr "Затвори монитор позива"
 
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
 msgstr "Привремено искључи микрофон"
 
-msgctxt "sZAPBUTTON_MYSELFTOP"
-msgid ""
-msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
-
-msgctxt "sZAPBUTTON_MYSELFBOTTOM"
-msgid ""
-msgstr "7abe095518b8b0837fc38d15a401089f_tr"
-
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
 msgstr "Поново укључи микрофон"
-
-msgctxt "sZAPBUTTON_SMSSELECTFROM"
-msgid "Set your caller ID"
-msgstr "Подесите ИД позиваоца"
-
-msgctxt "sZAPBUTTON_SMSSELECTTO"
-msgid "SMS select to"
-msgstr "СМС изабран за"
-
-msgctxt "sZAPBUTTON_NEW"
-msgid "New"
-msgstr "Ново"
 
 msgctxt "sZAPBUTTON_NEXT"
 msgid "Next"
 msgstr "Даље"
 
-msgctxt "sZAPBUTTON_CLOSEWS"
-msgid "Close this welcome screen and start using Skype"
-msgstr "Затворите овај поздравни екран и почните да користите Skype"
-
-msgctxt "sZAPBUTTON_PAGENEXT"
-msgid "Next page"
-msgstr "Следећа страница"
-
-msgctxt "sZAPBUTTON_PAGEPREVIOUS"
-msgid "Previous page"
-msgstr "Претходна страница"
-
-msgctxt "sZAPBUTTON_NEXTINACTIVE"
-msgid "Next"
-msgstr "Даље"
-
-msgctxt "sZAPBUTTON_NEXTPAGE"
-msgid "Next page"
-msgstr "Следећа страница"
-
-msgctxt "sZAPBUTTON_OTHERACTIONS"
-msgid "Other call functions"
-msgstr "Остале функције позива"
-
-msgctxt "sZAPBUTTON_OKAY"
-msgid "Okay"
-msgstr "У реду"
-
 msgctxt "sZAPBUTTON_OKUSEDEVICE"
 msgid "OK"
 msgstr "У реду"
 
-msgctxt "sZAPBUTTON_ONE"
-msgid "1"
-msgstr "1"
-
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
 msgstr "Отвори датотеку"
-
-msgctxt "sZAPBUTTON_OPTIONS"
-msgid "Options"
-msgstr "Опције"
 
 msgctxt "sZAPBUTTON_PAUSE"
 msgid "Pause"
@@ -5582,45 +4920,17 @@ msgctxt "sZAPBUTTON_PAUSEUPGRADEDOWNLOAD"
 msgid "Pause download"
 msgstr "Паузирај преузимање"
 
-msgctxt "sZAPBUTTON_PHONES"
-msgid "Call"
-msgstr "Позови"
-
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
 msgstr "Репродукуј"
-
-msgctxt "sZAPBUTTON_PLAYVIDEO"
-msgid "Play video"
-msgstr "Репродукуј видео"
-
-msgctxt "sZAPBUTTON_PREVIEW"
-msgid "Preview"
-msgstr "Прегледај"
 
 msgctxt "sZAPBUTTON_PREVIOUS"
 msgid "Previous"
 msgstr "Претходно"
 
-msgctxt "sZAPBUTTON_PREVIOUSINACTIVE"
-msgid "Previous"
-msgstr "Претходно"
-
-msgctxt "sZAPBUTTON_PREVIOUSPAGE"
-msgid "Previous page"
-msgstr "Претходна страница"
-
 msgctxt "sZAPBUTTON_PROFILE"
 msgid "Profile"
 msgstr "Профил"
-
-msgctxt "sZAPBUTTON_PROFILENOTAUTHORIZED"
-msgid "Contact not authorized"
-msgstr "Контакт није овлашћен"
-
-msgctxt "sZAPBUTTON_PROFILEGENERAL"
-msgid "General info"
-msgstr "Општи подаци"
 
 msgctxt "sZAPBUTTON_PROFILEHIDE"
 msgid "Hide profile"
@@ -5630,49 +4940,9 @@ msgctxt "sZAPBUTTON_PROFILEMIN"
 msgid "Minimize Profile"
 msgstr "Умањи профил"
 
-msgctxt "sZAPBUTTON_PROFILEMINCENT"
-msgid "Minimize Profile"
-msgstr "Умањи профил"
-
 msgctxt "sZAPBUTTON_PROFILEMAX"
 msgid "Maximize Profile"
 msgstr "Увећај профил"
-
-msgctxt "sZAPBUTTON_PROFILENEXT"
-msgid "Next page"
-msgstr "Следећа страница"
-
-msgctxt "sZAPBUTTON_PROFILEAVATAR"
-msgid "Show avatar"
-msgstr "Прикажи аватар"
-
-msgctxt "sZAPBUTTON_PROFILENUMBER"
-msgid "Numbers"
-msgstr "Бројеви"
-
-msgctxt "sZAPBUTTON_PROFILEPREVIOUS"
-msgid "Previous page"
-msgstr "Претходна страница"
-
-msgctxt "sZAPBUTTON_PROFILESHOW"
-msgid "Show profile"
-msgstr "Прикажи профил"
-
-msgctxt "sZAPBUTTON_PROFILETEXT"
-msgid "Additional info"
-msgstr "Додатне информације"
-
-msgctxt "sZAPBUTTON_PROFILEPUBLIC"
-msgid "Public profile"
-msgstr "Јавни профил"
-
-msgctxt "sZAPBUTTON_PROFILEFULL"
-msgid "Full profile"
-msgstr "Пун профил"
-
-msgctxt "sZAPBUTTON_PROFILECONTACTS"
-msgid "Contacts only"
-msgstr "Само контакти"
 
 msgctxt "sZAPBUTTON_READ"
 msgid "Read"
@@ -5694,21 +4964,9 @@ msgctxt "sZAPBUTTON_PLAYRECORDED"
 msgid "Playing..."
 msgstr "Репродукција..."
 
-msgctxt "sZAPBUTTON_RECORDVOICEMAIL"
-msgid "Re-record voice message"
-msgstr "Поново сними говорну поруку"
-
-msgctxt "sZAPBUTTON_STOPVOICEMAIL"
-msgid "Stop recording"
-msgstr "Заустави снимање"
-
 msgctxt "sZAPBUTTON_REDIAL"
 msgid "Redial"
 msgstr "Поново бирај"
-
-msgctxt "sZAPBUTTON_REJECT"
-msgid "Reject"
-msgstr "Одбаци"
 
 msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
@@ -5734,10 +4992,6 @@ msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
 msgstr "Репродукуј овај звук"
 
-msgctxt "sZAPBUTTON_RIGHT"
-msgid "<b><font color=\"#475358\">Right</font></b>"
-msgstr "<b><font color=\"#475358\">Десно</font></b>"
-
 msgctxt "sZAPBUTTON_SAVE"
 msgid "Save"
 msgstr "Сачувај"
@@ -5745,30 +4999,6 @@ msgstr "Сачувај"
 msgctxt "sZAPBUTTON_SAVEALL"
 msgid "Save all"
 msgstr "Сачувај све"
-
-msgctxt "sZAPBUTTON_ROSTERINACTIVEPAGE"
-msgid "Page"
-msgstr "Страница"
-
-msgctxt "sZAPBUTTON_ROSTERACTIVEPAGE"
-msgid "Current page"
-msgstr "Тренутна страница"
-
-msgctxt "sZAPBUTTON_ROSTERRIGHT"
-msgid "Right"
-msgstr "Десно"
-
-msgctxt "sZAPBUTTON_ROSTERLEFT"
-msgid "Left"
-msgstr "Лево"
-
-msgctxt "sZAPBUTTON_ROSTERUP"
-msgid "Up"
-msgstr "Горе"
-
-msgctxt "sZAPBUTTON_ROSTERDOWN"
-msgid "Down"
-msgstr "Доле"
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
@@ -5790,65 +5020,33 @@ msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
 msgstr "Погледај мој видео"
 
-msgctxt "sZAPBUTTON_HIDEVIDEO"
-msgid "Hide my video"
-msgstr "Сакриј мој видео"
-
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
 msgstr "Пошаљи датотеку"
 
+msgctxt "sZAPBUTTON_SENDIMAGE"
+msgid "Send image"
+msgstr ""
+
 msgctxt "sZAPBUTTON_SENDCONTACTS"
-msgid "Send Contacts..."
-msgstr "Пошаљи конакте..."
+msgid "Send contacts"
+msgstr ""
 
-msgctxt "sZAPBUTTON_SENDMESSAGE"
-msgid "Send message"
-msgstr "Пошаљи поруку"
+msgctxt "sZAPBUTTON_ENTRYTOOLBAREXPAND"
+msgid "More"
+msgstr ""
 
-msgctxt "sZAPBUTTON_SENDSMS"
-msgid "Send SMS"
-msgstr "Пошаљи СМС"
-
-msgctxt "sZAPBUTTON_SEARCH"
-msgid "Search"
-msgstr "Претражи"
-
-msgctxt "sZAPBUTTON_SEARCHHISTORY"
-msgid "Search History"
-msgstr "Претражи историју"
-
-msgctxt "sZAPBUTTON_SEARCHEMAILCONTACTS"
-msgid "Search email contacts"
-msgstr "Претражи контакте е-поште"
-
-msgctxt "sZAPBUTTON_SEARCHSKYPEDIRECTORY"
-msgid "Search Skype directory"
-msgstr "Претражи Skype именик"
+msgctxt "sZAPBUTTON_ENTRYTOOLBARCOLLAPSE"
+msgid "Less"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
 msgstr "Постави као моју слику"
 
-msgctxt "sZAPBUTTON_SETPICTURE"
-msgid "Set as my picture"
-msgstr "Постави као моју слику"
-
-msgctxt "sZAPBUTTON_CHOOSEPICTURE"
-msgid "Choose a different picture"
-msgstr "Изабери другу слику"
-
 msgctxt "sZAPBUTTON_SIGNIN"
 msgid "Sign in"
 msgstr "Пријави се"
-
-msgctxt "sZAPBUTTON_STOPSEARCH"
-msgid "Stop search"
-msgstr "Заустави претрагу"
-
-msgctxt "sZAPBUTTON_ADDCONTACTS"
-msgid "Add to Contacts"
-msgstr "Додај у контакте"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5866,29 +5064,13 @@ msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
 msgstr "Уклони"
 
+msgctxt "sZAPBUTTON_PLUS"
+msgid "More"
+msgstr ""
+
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
 msgstr "Пошаљи"
-
-msgctxt "sZAPBUTTON_DONE"
-msgid "Done"
-msgstr "Довршено"
-
-msgctxt "sZAPBUTTON_SEARCHAGAIN"
-msgid "Search again"
-msgstr "Претражи поново"
-
-msgctxt "sZAPBUTTON_TRYAGAIN"
-msgid "Try again"
-msgstr "Покушај поново"
-
-msgctxt "sZAPBUTTON_CHANGESETTINGS"
-msgid "Change settings"
-msgstr "Промени поставке"
-
-msgctxt "sZAPBUTTON_SHOP"
-msgid "Shop"
-msgstr "Купуј"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5898,37 +5080,17 @@ msgctxt "sZAPBUTTON_SHOWMESSAGES"
 msgid "Show messages"
 msgstr "Прикажи поруке"
 
-msgctxt "sZAPBUTTON_SIX"
-msgid "6"
-msgstr "6"
-
 msgctxt "sZAPBUTTON_SKIPVERSION"
 msgid "Skip version"
 msgstr "Прескочи верзију"
-
-msgctxt "sZAPBUTTON_SKYPEFINDADD"
-msgid "Add"
-msgstr "Додај"
-
-msgctxt "sZAPBUTTON_SKYPEIN"
-msgid "Skype number"
-msgstr "Skype број"
 
 msgctxt "sZAPBUTTON_SKYPEHOME"
 msgid "Skype Home"
 msgstr "Skype матична страница"
 
-msgctxt "sZAPBUTTON_SKYPEOUT"
-msgid "Call phones"
-msgstr "Позивај телефоне"
-
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
 msgstr "Пошаљи СМС"
-
-msgctxt "sZAPBUTTON_SOUNDOUT"
-msgid "<center>Press Me</center>"
-msgstr "<center>Притисни ме</center>"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
@@ -5950,25 +5112,29 @@ msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
 msgstr "Репродукуј видео поруку"
 
-msgctxt "sZAPBUTTON_STARTVIDEO"
-msgid "Start video"
-msgstr "Покрени видео"
+msgctxt "sZAPBUTTON_POPOUTPLAY"
+msgid "Play voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTPAUSE"
+msgid "Pause voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTSTOP"
+msgid "Stop voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTRELOAD"
+msgid "Reload voice message"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
 msgstr "Прикажи слику"
 
-msgctxt "sZAPBUTTON_HIDEPICTURE"
-msgid "Hide Picture"
-msgstr "Сакриј слику"
-
 msgctxt "sZAPBUTTON_STOP"
 msgid "Stop"
 msgstr "Заустави"
-
-msgctxt "sZAPBUTTON_SEARCHNUMBERDIRECTORY"
-msgid "Search number from Directory"
-msgstr "Претражи број из именика"
 
 msgctxt "sZAPBUTTON_SEARCHDIRECTORY"
 msgid "Search Directory"
@@ -5982,18 +5148,6 @@ msgctxt "sZAPBUTTON_STOPPLAY"
 msgid "Stop"
 msgstr "Заустави"
 
-msgctxt "sZAPBUTTON_THREE"
-msgid "3"
-msgstr "3"
-
-msgctxt "sZAPBUTTON_TWO"
-msgid "2"
-msgstr "2"
-
-msgctxt "sZAPBUTTON_UP"
-msgid "Up"
-msgstr "Горе"
-
 msgctxt "sZAPBUTTON_USE"
 msgid "Use for Skype"
 msgstr "Користи за Skype"
@@ -6002,21 +5156,13 @@ msgctxt "sZAPBUTTON_UPDATE"
 msgid "Update now"
 msgstr "Ажурирај сада"
 
-msgctxt "sZAPBUTTON_VIEWMESSAGES"
-msgid "View older messages"
-msgstr "Прикажи старије поруке"
-
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
 msgstr "Прикажи профил"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
-msgid "View account"
-msgstr "Прикажи налог"
-
-msgctxt "sZAPBUTTON_VIDEOSNAPSHOT"
-msgid "Video snapshot"
-msgstr "Видео снимак"
+msgid "View my account"
+msgstr ""
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -6029,10 +5175,6 @@ msgstr "Укључи видео"
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
 msgstr "Искључи видео"
-
-msgctxt "sZAPBUTTON_VIDEO"
-msgid "Video"
-msgstr "Видео"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
@@ -6050,33 +5192,13 @@ msgctxt "sZAPBUTTON_MSNUPGRADESENDMESSAGE"
 msgid "Send download message"
 msgstr "Пошаљите поруку за преузимање"
 
-msgctxt "sZAPBUTTON_SCREENSHARINGSHAREWINDOW"
-msgid "Show selected window"
-msgstr "Прикажи изабрани прозор"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
 msgstr "Дељење екрана..."
 
-msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
-msgid "Close"
-msgstr "Затвори"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGCHANGESELECTION"
-msgid "Change selection"
-msgstr "Промени избор"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGSELECTWINDOW"
-msgid "Select window"
-msgstr "Изабери прозор"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGSTOPSHARING"
 msgid "Stop sharing"
 msgstr "Заустави дељење"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGMENUCANCEL"
-msgid "Cancel"
-msgstr "Откажи"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTART"
 msgid "Start"
@@ -6086,61 +5208,17 @@ msgctxt "sZAPBUTTON_SCREENSHARINGCANCEL"
 msgid "Cancel"
 msgstr "Откажи"
 
-msgctxt "sZAPBUTTON_SCREENSHARINGWINDOW"
-msgid "Show screensharing window"
-msgstr "Прикажи прозор за дељење екрана"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGOPTIONS"
 msgid "Screensharing options"
 msgstr "Опције дељења екрана"
-
-msgctxt "sZAPBUTTON_CT_SCREENSHARING"
-msgid "Share"
-msgstr "Дели"
-
-msgctxt "sZAPBUTTON_CT_ADDCONTACT"
-msgid "Add people"
-msgstr "Додај људе"
-
-msgctxt "sZAPBUTTON_CT_VIDEO"
-msgid "My video"
-msgstr "Мој видео"
-
-msgctxt "sZAPBUTTON_CT_VIDEOOFF"
-msgid "My video"
-msgstr "Мој видео"
 
 msgctxt "sZAPBUTTON_CT_MESSAGE"
 msgid "IM"
 msgstr "Тренутна порука"
 
-msgctxt "sZAPBUTTON_CT_DIALPAD"
-msgid "Dial pad"
-msgstr "Нумеричка тастатура"
-
-msgctxt "sZAPBUTTON_CT_MESSAGENEW"
+msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
 msgid "IM"
-msgstr "Тренутна порука"
-
-msgctxt "sZAPBUTTON_CT_MUTE"
-msgid "Mute"
-msgstr "Привремено искључи микрофон"
-
-msgctxt "sZAPBUTTON_CT_UNMUTE"
-msgid "Unmute"
-msgstr "Поново укључи микрофон"
-
-msgctxt "sZAPBUTTON_CT_RERECORD"
-msgid "Re-record voice message"
-msgstr "Поново сними говорну поруку"
-
-msgctxt "sZAPBUTTON_CT_CHARGE"
-msgid "Charge"
-msgstr "Наплати"
-
-msgctxt "sZAPBUTTON_CT_CANCEL"
-msgid "Cancel"
-msgstr "Откажи"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -6149,22 +5227,6 @@ msgstr "Додај у конференцијски позив"
 msgctxt "sZAPBUTTON_CT_RESUME"
 msgid "Resume call"
 msgstr "Настави позив"
-
-msgctxt "sZAPBUTTON_CT_VOLUME0"
-msgid "Volume 0"
-msgstr "Јачина звука 0"
-
-msgctxt "sZAPBUTTON_CT_VOLUME1"
-msgid "Volume 1"
-msgstr "Јачина звука 1"
-
-msgctxt "sZAPBUTTON_CT_VOLUME2"
-msgid "Volume 2"
-msgstr "Јачина звука 2"
-
-msgctxt "sZAPBUTTON_CT_VOLUME3"
-msgid "Volume 3"
-msgstr "Јачина звука 3"
 
 msgctxt "sZAPBUTTON_DIALPADRECENT"
 msgid "Recently dialed numbers"
@@ -6178,18 +5240,6 @@ msgctxt "sZAPBUTTON_VIEWMENU"
 msgid "View menu"
 msgstr "Прикажи мени"
 
-msgctxt "sZAPBUTTON_VOLUMEDOWN"
-msgid "Volume down"
-msgstr "Смањи звук"
-
-msgctxt "sZAPBUTTON_VOLUMEUP"
-msgid "Volume up"
-msgstr "Појачај звук"
-
-msgctxt "sZAPBUTTON_VOICEMAIL"
-msgid "Voice messages"
-msgstr "Говорне поруке"
-
 msgctxt "sZAPBUTTON_TEST"
 msgid "Test"
 msgstr "Тестирај"
@@ -6197,18 +5247,6 @@ msgstr "Тестирај"
 msgctxt "sZAPBUTTON_WEBCAMMIC"
 msgid "Use webcam microphone"
 msgstr "Користи микрофон Веб камере"
-
-msgctxt "sZAPBUTTON_WHATSNEW"
-msgid "See what's new in Skype"
-msgstr "Погледај шта је ново у Skypeу"
-
-msgctxt "sZAPBUTTON_RETURN"
-msgid "Return"
-msgstr "Врати"
-
-msgctxt "sZAPBUTTON_MAKECALL"
-msgid "Make call with Skype"
-msgstr "Позови помоћу Skypeа"
 
 msgctxt "sZAPBUTTON_ALLOWACCESS"
 msgid "Allow access"
@@ -6225,50 +5263,6 @@ msgstr "Партнер"
 msgctxt "sZAPBUTTON_FEEDBACK"
 msgid "Give feedback"
 msgstr "Пошаљите повратне информације"
-
-msgctxt "sZAPBUTTON_ALERTS"
-msgid "Notifications"
-msgstr "Обавештења"
-
-msgctxt "sZAPBUTTON_WINDOWCLOSE"
-msgid "Close"
-msgstr "Затвори"
-
-msgctxt "sZAPBUTTON_WINDOWMINIMIZE"
-msgid "Minimize"
-msgstr "Умањи"
-
-msgctxt "sZAPBUTTON_WINDOWMAXIMIZE"
-msgid "Maximize"
-msgstr "Увећај"
-
-msgctxt "sZAPBUTTON_WINDOWSEPARATE"
-msgid "Separate"
-msgstr "Раздвоји"
-
-msgctxt "sZAPBUTTON_WINDOWUNITE"
-msgid "Unite"
-msgstr "Сједини"
-
-msgctxt "sZAPBUTTON_UNMUTEMIC"
-msgid "Unmute your microphone"
-msgstr "Поново укључите микрофон"
-
-msgctxt "sZAPBUTTON_UNMUTESPEAKERS"
-msgid "Unmute your speakers"
-msgstr "Поново укључите звучнике"
-
-msgctxt "sZAPBUTTON_INVITEADDCONTACT"
-msgid "Yes, please"
-msgstr "Да, молим"
-
-msgctxt "sZAPBUTTON_INVITEDONTADD"
-msgid "No, thanks"
-msgstr "Не, хвала"
-
-msgctxt "sZAPBUTTON_INVITEADDMORE"
-msgid "Add more contacts"
-msgstr "Додај још контаката"
 
 msgctxt "sZAPBUTTON_INVITENOTIFACCEPT"
 msgid "Add to contacts"
@@ -6306,10 +5300,6 @@ msgctxt "sZAPBUTTON_SKYPEWIFICONNECT"
 msgid "Connect"
 msgstr "Успостави везу"
 
-msgctxt "sZAPBUTTON_SKYPEWIFIDISCONNECT"
-msgid "Disconnect"
-msgstr "Прекини везу"
-
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
 msgstr "Видео позив"
@@ -6325,6 +5315,34 @@ msgstr "Откажи поруку"
 msgctxt "sZAPBUTTON_NOVIDM"
 msgid "No, thanks"
 msgstr "Не, хвала"
+
+msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
+msgid "Send quality feedback"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CLOSEWINDOW"
+msgid "Close"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CM_RESUME"
+msgid "Resume call"
+msgstr ""
+
+msgctxt "sZAPBUTTON_REMOVEFROMFAVOURITESBTN"
+msgid "Remove contact from favourites"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ADDTOFAVOURITESBTN"
+msgid "Add contact to favourites"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SEARCHSKYPE"
+msgid "Search Skype"
+msgstr ""
+
+msgctxt "sZAPBUTTON_DONE"
+msgid "Done"
+msgstr ""
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -6572,7 +5590,7 @@ msgstr "Број телефона %s који сте унели се већ на
 msgctxt "sF_OPTIONS_WEBCAM_NOT_FOUND"
 msgid ""
 "Skype couldn't find a webcam. With a webcam, you can make free video calls "
-"to anyone else on Skype, anywere in the world."
+"to anyone else on Skype, anywhere in the world."
 msgstr "Skype није могао да пронађе веб камеру. Помоћу веб камере можете да обављате бесплатне видео позиве са свима који користе Skype, било где у свету."
 
 msgctxt "sF_OPTIONS_ABOUT_VIDEO_CALL"
@@ -6618,12 +5636,6 @@ msgstr "Неуспело %d"
 msgctxt "sSMS_FAILED_RETRY"
 msgid "Try again"
 msgstr "Покушај поново"
-
-msgctxt "sSMS_NO_CREDIT"
-msgid ""
-"You need Skype Credit to send text messages (SMS). <a "
-"href=\"skype:?payments\">Buy Skype Credit now</a>"
-msgstr "Да бисте слали текстуалне поруке (СМС) потребан вам је Skype кредит. <a href=\"Skype:?payments\">Купи Skype кредит сада</a>"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_TOO_MANY"
 msgid "Sending too many files at once."
@@ -6754,18 +5766,6 @@ msgctxt "sOPTIONS_AUDIO_DEVICE_NONE"
 msgid "None"
 msgstr "Ниједан"
 
-msgctxt "sAUTHORIZE_REQUEST_CAPTION"
-msgid "%s has added you as a contact."
-msgstr "Корисник %s вас је додао као контакт."
-
-msgctxt "sAUTHORIZE_COPY_REQUEST"
-msgid "Copy"
-msgstr "Копирај"
-
-msgctxt "sF_AUTH_BTN_UNBLOCK"
-msgid "Unblock"
-msgstr "Деблокирај"
-
 msgctxt "sOPTIONS_AUDIO_ADVANCED_LBL"
 msgid ""
 "List your audio devices in order of preference. Skype will use the first "
@@ -6793,10 +5793,6 @@ msgctxt "sCALLALERT_ADDTOCONF"
 msgid "Add to group call"
 msgstr "Додај у конференцијски позив"
 
-msgctxt "sF_IMPORTCONTACTS_LB_TITLE"
-msgid "Find your friends"
-msgstr "Пронађите пријатеље"
-
 msgctxt "sMAINMENU_SKYPE"
 msgid "Skype"
 msgstr "Skype"
@@ -6814,8 +5810,8 @@ msgid "Privacy..."
 msgstr "Приватност..."
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
-msgid "Account..."
-msgstr "Налог..."
+msgid "My account"
+msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -7041,25 +6037,9 @@ msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
 msgstr "Алатке"
 
-msgctxt "sMAINMENU_TOOLS_EXTRAS"
-msgid "Apps"
-msgstr "Апликације"
-
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
 msgstr "Промени језик"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY"
-msgid "Accessibility"
-msgstr "Приступачност"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_NAVIGATION"
-msgid "Extended Keyboard Navigation"
-msgstr "Проширена навигација на тастатури"
-
-msgctxt "sMAINMENU_TOOLS_SHARE"
-msgid "Share Skype with a Friend..."
-msgstr "Поделите Skype са пријатељем..."
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
@@ -7117,11 +6097,11 @@ msgstr "%s је блокиран/а и не може да одговори. <a h
 
 msgctxt "sVOICEMAIL_NEW"
 msgid "<b>New voice message</b>, duration %s"
-msgstr ""
+msgstr "<b>Нова гласовна порука</b>, трајање %s"
 
 msgctxt "sVOICEMAIL"
 msgid "<b>Voice message</b>, duration %s"
-msgstr ""
+msgstr "<b>Гласовна порука</b>, трајање %s"
 
 msgctxt "sCOMPLETED_GROUP_CALL"
 msgid "Group call, duration %s"
@@ -7196,8 +6176,10 @@ msgid ""
 msgstr "Слање није успело. Можете слати само датотеке које не користе други програми, а не можете слати фасцикле."
 
 msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
-msgid "Too many parallel file sendings"
-msgstr "Превише упоредних слања датотека"
+msgid ""
+"You cannot send any more files until your existing file transfers have "
+"finished."
+msgstr ""
 
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
@@ -7305,8 +6287,8 @@ msgid "%d conversations"
 msgstr "%d разговора"
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
-msgid "Finished"
-msgstr "Довршено"
+msgid "Call ended"
+msgstr ""
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
@@ -7368,8 +6350,8 @@ msgid "Default View"
 msgstr "Подразумевани приказ"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
-msgid "Compact View"
-msgstr "Компактни приказ"
+msgid "Split Window View"
+msgstr ""
 
 msgctxt "sTRAYALERT_NONEW"
 msgid "No new conversations"
@@ -7510,20 +6492,6 @@ msgctxt "sF_OPTIONS_RING_ALL_DEVICES"
 msgid "Ring on all devices"
 msgstr "Звони на свим уређајима"
 
-msgctxt "sAUTHORIZATION_PANEL_TIP"
-msgid ""
-"You can control who can contact you in your <a "
-"href=\"skype:?options#privacy\">privacy settings</a>."
-msgstr "Можете контролисати ко може да вас контактира у вашим <a href=\"Skype:?options#privacy\">поставкама приватности.</a>"
-
-msgctxt "sAUTHORIZATION_PANEL_COMMENT"
-msgid "Clicking Add to Contacts means this person can see when you are online"
-msgstr "Ако кликнете на „Додај у контакте“ значи да ће ова особа моћи да види када сте на мрежи"
-
-msgctxt "sAUTHORIZE_BLOCKED_CAPTION2"
-msgid "%s is on your blocked list"
-msgstr "Корисник %s се налази на вашој листи блокираних контаката"
-
 msgctxt "sCONVERSATION_SPAWNED_CONFERENCE2"
 msgid "%s created a group conversation"
 msgstr "Корисник %s је креирао групни разговор"
@@ -7662,10 +6630,6 @@ msgctxt "sDIALPAD_CALL"
 msgid "Call"
 msgstr "Позови"
 
-msgctxt "sDIALPAD_SMS"
-msgid "SMS"
-msgstr "СМС"
-
 msgctxt "sFILESIZE_PREFIXES"
 msgid "\\k\\M\\G\\T"
 msgstr "\\к\\М\\Г\\Т"
@@ -7728,19 +6692,19 @@ msgstr "Позови групу"
 
 msgctxt "sCALL_HOME"
 msgid "Call home"
-msgstr ""
+msgstr "Позови кућу"
 
 msgctxt "sCALL_MOBILE"
 msgid "Call mobile"
-msgstr ""
+msgstr "Позови мобилни телефон"
 
 msgctxt "sCALL_OFFICE"
 msgid "Call office"
-msgstr ""
+msgstr "Позови канцеларију"
 
 msgctxt "sCALL_PHONE"
 msgid "Call phone"
-msgstr ""
+msgstr "Позови фиксни телефон"
 
 msgctxt "sGROUP_ADD_PHONE_MENU_ITEM"
 msgid "Add phone number..."
@@ -7789,18 +6753,6 @@ msgstr "<b>Лоше<br/></b>Било је доста проблема; знат�
 msgctxt "sF_CALL_QLT_LBL2_VERY_BAD"
 msgid "<b>Very bad</b><br />Problems so bad the call was impossible"
 msgstr "<b>Веома лоше<br/></b>Проблеми су били тако озбиљни да је било немогуће обавити позив"
-
-msgctxt "sF_OPTIONS_LBL_VISUAL_STYLE"
-msgid "Visual style of the window"
-msgstr "Визуелни стил прозора"
-
-msgctxt "sF_OPTIONS_RB_CHROME_SKYPE"
-msgid "Skype"
-msgstr "Skype"
-
-msgctxt "sF_OPTIONS_RB_CHROME_DEFAULT"
-msgid "Classic Windows"
-msgstr "Класичан Windows"
 
 msgctxt "sF_CALL_QLT_LBL_CHOOSE_PROBLEMS"
 msgid "Choose all that apply."
@@ -8123,14 +7075,6 @@ msgctxt "sPROFILE_EMERGENCY_CALL2"
 msgid "You appear to be attempting to make an emergency call (%s) in %s"
 msgstr "Изгледа да покушавате да обавите хитан позив (%s) у %s"
 
-msgctxt "sSINGLE_WINDOW_MODE_BUTTON_HINT"
-msgid "Default View"
-msgstr "Подразумевани приказ"
-
-msgctxt "sMULTI_WINDOW_MODE_BUTTON_HINT"
-msgid "Compact View"
-msgstr "Компактни приказ"
-
 msgctxt "sPROFILE_HEADER_EMERGENCY_CALL"
 msgid "Emergency Call"
 msgstr "Хитан позив"
@@ -8167,48 +7111,14 @@ msgctxt "sACC_HIDE_CONVERSATION_PROFILE"
 msgid "Hide conversation profile"
 msgstr "Сакриј профил разговора"
 
-msgctxt "sACC_SHOW_CONTACT_PROFILE"
-msgid "Display contact profile"
-msgstr "Прикажи профил контакта"
-
-msgctxt "sACC_HIDE_CONTACT_PROFILE"
-msgid "Hide contact profile"
-msgstr "Сакриј профил контакта"
-
-msgctxt "sACC_PROFILE_MOODMESSAGE"
-msgid "MoodMessage"
-msgstr "Порука расположења"
-
 msgctxt "sINVITE_HEADING1"
 msgid "Add <b>%s</b> to your contacts"
 msgstr "Додали сте корисника <b>%s</b> у ваше контакте"
-
-msgctxt "sINVITE_HEADING2"
-msgid "1 new contact added"
-msgstr "Додат је 1 нови контакт"
-
-msgctxt "sINVITE_CONTACT_CAPTION"
-msgid ""
-"You received an email invitation from <b>%s</b>.<br />Would you like to add "
-"this person as a contact on Skype?"
-msgstr "Добили сте позивницу е-поштом од корисника <b>%s</b>.<br/>Да ли бисте желели да додате ову особу као контакт на Skypeу?"
 
 msgctxt "sINVITE_REQUEST_TEXT"
 msgid ""
 "Your email contact %s is now on Skype. Please add them to your Contact list."
 msgstr "Ваш контакт е-поште %s је сада на Skypeу. Додајте их у вашу листу контаката."
-
-msgctxt "sINVITE_ADDED_CAPTION1"
-msgid "Find them in your Contact list and send them messages"
-msgstr "Пронађите их у листи контаката и пошаљите им поруке"
-
-msgctxt "sINVITE_ADDED_CAPTION2"
-msgid "Until they OK you as a contact, they look like this"
-msgstr "Док вас не потврде као контакт, изгледају овако"
-
-msgctxt "sINVITE_ADDED_CAPTION3"
-msgid "When they OK you, see when they're online and call them for free"
-msgstr "Када вас потврде, погледајте када су на мрежи и бесплатно их позивајте"
 
 msgctxt "sINVITE_NOTIFICATION"
 msgid ""
@@ -8257,20 +7167,12 @@ msgid "No speakers detected."
 msgstr "Звучници нису пронађени."
 
 msgctxt "sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3"
-msgid "Automatically receive video and share screens with..."
-msgstr "Аутоматски примајте видео и делите екране са..."
+msgid "Automatically receive video and share screens with"
+msgstr "Аутоматски примајте видео и делите екране са"
 
 msgctxt "sVIDEO_BTN_SHOW_HERE"
 msgid "Show here"
 msgstr "Прикажи овде"
-
-msgctxt "sACC_DROPDOWBUTTON_DESCIPTION"
-msgid "To press use spacebar"
-msgstr "Притисните помоћу размакнице"
-
-msgctxt "sACC_MYSELF_MOOD_DESCRIPTION"
-msgid "To edit use spacebar"
-msgstr "Измените помоћу размакнице"
 
 msgctxt "sNOTIF_RECEIVED_SINGLE_CONTACT"
 msgid "New contact: %s"
@@ -8291,22 +7193,6 @@ msgstr "%d контаката је послато групи"
 msgctxt "sF_OPTIONS_CF_ERROR6"
 msgid "You are not allowed to forward calls to Skype Test Call"
 msgstr "Није вам дозвољено да прослеђујете позиве на Skype тест позив"
-
-msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
-msgid "In call"
-msgstr "Разговор у току"
-
-msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
-msgid "On hold"
-msgstr "На чекању"
-
-msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
-msgid "Muted"
-msgstr "Привремено искључен микрофон"
-
-msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
-msgid "Missed call"
-msgstr "Пропуштен позив"
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
@@ -8343,14 +7229,6 @@ msgstr "Тастер WинКеy се не може користити као и�
 msgctxt "sUSER_IN_CONTACTS"
 msgid "This user is already in your contact list"
 msgstr "Овај корисник је већ на вашој листи контаката"
-
-msgctxt "sCHATITEM_DESCRIPTION_FROM"
-msgid "From %s"
-msgstr "Од корисника %s"
-
-msgctxt "sCHATITEM_DESCRIPTION_TIMESTAMP"
-msgid "at %s"
-msgstr "у %s"
 
 msgctxt "sCHATITEM_DESCRIPTION_REMOVED"
 msgid "Removed by %s at %s"
@@ -8492,33 +7370,9 @@ msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype WiFi..."
 msgstr "Skype Wifi..."
 
-msgctxt "sALERTS_TITLE"
-msgid "Notifications"
-msgstr "Обавештења"
-
-msgctxt "sUSERCREATE_NAME_HINT"
-msgid "6-32 characters needed"
-msgstr "Потребно је 6-32 знака"
-
 msgctxt "sUSERCREATE_PWD_HINT"
 msgid "6-20 characters needed"
 msgstr "Потребно је 6-20 знакова"
-
-msgctxt "sUSERCREATE_FULLNAME_HINT"
-msgid "Enter your name"
-msgstr "Унесите своје име"
-
-msgctxt "sUSERCREATE_ERROR_NAMETOOSHORT"
-msgid "Too short: 6 characters min."
-msgstr "Превише кратко: најмање 6 знакова."
-
-msgctxt "sUSERCREATE_ERROR_NAMETOOLONG"
-msgid "Too long: 32 characters max."
-msgstr "Превише дугачко: највише 32 знака."
-
-msgctxt "sUSERCREATE_ERROR_NAMEINVALIDCHAR"
-msgid "Can only contain A-z 0-9 - _ ."
-msgstr "Може да садржи само А-з 0-9 - _ ."
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid "Too short: 6 characters min."
@@ -8563,10 +7417,6 @@ msgstr "Лозинке се не подударају"
 msgctxt "sUSERCREATE_ERROR_WRONGFIRSTCHAR"
 msgid "Must begin with a letter (A-z)"
 msgstr "Мора да почиње словом (А-з)"
-
-msgctxt "sUSERENTRY_GETHELP"
-msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
-msgstr "<a href=\"Skype:?go#help.password.faq1\">Добијте помоћ</a>"
 
 msgctxt "sF_OPTIONS_NOTIF_ALERT"
 msgid "sends me a message"
@@ -8662,118 +7512,9 @@ msgctxt "SCQGUIDE_BACK_TO_MAINSCREEN"
 msgid "Return to main screen"
 msgstr "Вратите се на главни екран"
 
-msgctxt "sCQGUIDE_ACC_EXPAND"
-msgid "Use spacebar to expand"
-msgstr "Помоћу размакнице раширите"
-
-msgctxt "sCQGUIDE_ACC_COLLAPSE"
-msgid "Use spacebar to collapse"
-msgstr "Помоћу размакнице скупите"
-
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS_1"
 msgid "Display a notification in the Windows tray when Skype..."
 msgstr "Прикажи обавештење у Windows системској палети када Skype..."
-
-msgctxt "sF_USERENTRY_BUTTON_CREATE"
-msgid "Create account"
-msgstr "Направи налог"
-
-msgctxt "sF_USERENTRY_BUTTON_AGREE"
-msgid "I agree - create account"
-msgstr "Слажем се - Направи налог"
-
-msgctxt "sF_USERENTRY_BUTTON_CONTINUE"
-msgid "OK"
-msgstr "У реду"
-
-msgctxt "sF_USERENTRY_ERROR_GENERAL"
-msgid "There was a problem creating your account. Please try again."
-msgstr "Дошло је до проблема са креирањем вашег налога. Покушајте поново."
-
-msgctxt "sF_USERENTRY_EMAIL_HINT"
-msgid "Enter a valid email address"
-msgstr "Унесите важећу е-адресу"
-
-msgctxt "sF_USERENTRY_REPEAT_EMAIL"
-msgid "Repeat email"
-msgstr "Поновите е-поруку"
-
-msgctxt "sF_USERENTRY_HINT1"
-msgid "Note: anyone can see this information. Please fill in all fields."
-msgstr "Напомена: сви могу да виде ове информације. Попуните сва поља."
-
-msgctxt "sF_USERENTRY_HINT2"
-msgid "Note: only you can see this information. Please fill in all fields."
-msgstr "Напомена: само ви можете да видите ове информације. Попуните сва поља."
-
-msgctxt "sF_USERENTRY_HINT3"
-msgid ""
-"Note: anyone can see this information. It's optional, so you don't have to "
-"enter it."
-msgstr "Напомена: сви могу да виде ове информације. Није обавезно, тако да не морате да их унесете."
-
-msgctxt "sF_USERENTRY_HINT4"
-msgid ""
-"Note: only your contacts can see this information. Filling it in is "
-"optional."
-msgstr "Напомена: само ваши контакти могу да виде ове информације. Попуњавање није обавезно."
-
-msgctxt "sF_USERENTRY_PHONE_HINT"
-msgid "Enter %s's phone number."
-msgstr "Унесите број телефона корисника %s"
-
-msgctxt "sF_USERENTRY_PHONE_HINT2"
-msgid "Enter the phone number with country or region code."
-msgstr "Унесите број телефона са позивним бројем земље или региона."
-
-msgctxt "sF_USERENTRY_PROFILE_HINT1"
-msgid ""
-"When your friends search for you on Skype, this information helps you stand "
-"out from other people who share your name."
-msgstr "Када вас пријатељи траже на Skypeу, ове информације олакшавају да се издвојите од других особа које имају исто име као ви."
-
-msgctxt "sF_USERENTRY_PROFILE_HINT2"
-msgid ""
-"If you enter your birth date, Skype sends your friends a reminder when it's "
-"your birthday."
-msgstr "Ако унесете датум рођења, Skype шаље вашим пријатељима подсетник када је ваш рођендан."
-
-msgctxt "sF_USERENTRY_PROFILE_HINT3"
-msgid ""
-"Enter your mobile number so your contacts can call you when you're offline."
-msgstr "Унесите свој број мобилног телефона како би ваши контакти могли да вас позивају када сте ван мреже."
-
-msgctxt "sF_USERENTRY_SUGGEST1"
-msgid "Skype Name not available"
-msgstr "Skype име није доступно"
-
-msgctxt "sF_USERENTRY_BIRTHDAY"
-msgid "Birthday"
-msgstr "Рођендан"
-
-msgctxt "sF_USERENTRY_PHONE"
-msgid "Mobile phone number"
-msgstr "Број мобилног телефона"
-
-msgctxt "sF_USERENTRY_PHONE_ERROR"
-msgid "Invalid phone number"
-msgstr "Неважећи број телефона"
-
-msgctxt "sF_USERENTRY_EMAIL_OK"
-msgid "Email OK"
-msgstr "Е-адреса је у реду"
-
-msgctxt "sF_USERENTRY_EMAIL_INVALID"
-msgid "Invalid email address"
-msgstr "Неважећа е-адреса"
-
-msgctxt "sF_USERENTRY_EMAIL_MATCH"
-msgid "Emails match"
-msgstr "Е-адресе се подударају"
-
-msgctxt "sF_USERENTRY_EMAIL_NO_MATCH"
-msgid "Emails don't match"
-msgstr "Е-адресе се не подударају"
 
 msgctxt "sCHAT_HISTORY_3M"
 msgid "3 months"
@@ -8815,14 +7556,6 @@ msgctxt "sCALL_TOOLBAR_TRANSFERRING"
 msgid "Call is being transferred"
 msgstr "Позив се прослеђује"
 
-msgctxt "sACC_CQGUIDE_LIST_BOX_DESC"
-msgid "Use Up or Down arrows to navigate through list items"
-msgstr "Користите стрелице нагоре или надоле за кретање кроз ставке листе"
-
-msgctxt "sF_USERENTRY_INFO_PROFILE"
-msgid "Set up your Skype profile"
-msgstr "Подесите Skype профил"
-
 msgctxt "sCALLALERT_TRANSFER_BY"
 msgid "Call transfer from <b>%s</b>"
 msgstr "Позив пренео/ла <b>%s</b>"
@@ -8839,10 +7572,6 @@ msgctxt "sGROUP_CALL_REJECTED_IN"
 msgid "Group call declined."
 msgstr "Конференцијски позив одбијен."
 
-msgctxt "sAUTH_REQUEST_MSG_HEADER"
-msgid "This person would like to connect with you"
-msgstr "Ова особа жели да се повеже са вама"
-
 msgctxt "sSKYACCESS_TRAY_HOTSPOT_DETECTED"
 msgid "You can use Skype Credit to pay for internet access."
 msgstr "Можете да користите Skype кредит да платите приступ Интернету."
@@ -8858,10 +7587,6 @@ msgstr "Затвори Skype"
 msgctxt "sTASKBAR_MENU_SKYACCESS"
 msgid "Skype WiFi..."
 msgstr "Skype Wifi..."
-
-msgctxt "sTRAYALERT_AUTH_REQUEST"
-msgid "New contact request"
-msgstr "Нови захтев за контакт"
 
 msgctxt "sLIVE_B_FULLSCREEN"
 msgid "Full screen"
@@ -8925,7 +7650,7 @@ msgctxt "sCQ_MIC_ON_MUTE_ON_CALL_DESC"
 msgid ""
 "Plug in your microphone, switch it on, and check you've selected it in your "
 "microphone settings. Check your mic isn't muted in your computer's volume "
-"settings, or check  your microphone for a mute switch and press it."
+"settings, or check your microphone for a mute switch and press it."
 msgstr "Прикључите микрофон, укључите га и проверите да ли је изабран у поставкама микрофона. Проверите у поставкама јачине звука да микрофон није привремено искључен, или проверите прекидач за привремено искључивање звука на микрофону и притисните га."
 
 msgctxt "sCQ_CANT_ADJUST_MIC_OFF_CALL_TITLE"
@@ -9164,14 +7889,6 @@ msgid ""
 "Not seeing each other's video? You should both turn your video off then on "
 "again, or plug your webcams into a different USB port and restart."
 msgstr "Ви и саговорник не видите један другог? Требало би да покушате да искључите и поново укључите видео, или прикључите Веб камере у други УСБ порт и поново их покренете."
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
-msgid ""
-msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
-msgid ""
-msgstr ""
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_TITLE"
 msgid "Your computer speed is very slow"
@@ -9421,17 +8138,15 @@ msgctxt "sFLOW_CALLTRANSFER_REJECTED_IN"
 msgid "Call transferred by %s declined."
 msgstr "Позив који је пренео корисник %s је одбијен."
 
-msgctxt "sF_USERENTRY_LB_PROGRESS"
-msgid "Checking your Skype Name is available"
-msgstr "Проверава се да ли је ваше Skype име доступно"
-
 msgctxt "sTRANSFER_THIS_CALL"
 msgid "Transfer this call"
 msgstr "Пренеси овај позив"
 
 msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
-msgid "Failed to log in. Check your Skype Name or password"
-msgstr "Неуспело пријављивање. Проверите Skype име и лозинку"
+msgid ""
+"Unable to sign in, Check your Skype Name and password are correct and try "
+"again."
+msgstr ""
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
@@ -9564,10 +8279,6 @@ msgctxt "sCALL_TRANSFER_NO_FUNDS2"
 msgid ""
 "Try calling back. The person who transferred the call has run out of credit."
 msgstr "Покушајте да га поново позовете. Особа која је пренела позив је остала без кредита."
-
-msgctxt "sUSERCREATE_ERROR_NOFULLNAME"
-msgid "Please fill in your full name"
-msgstr "Унесите име и презиме"
 
 msgctxt "sSMS_FAILED_CHECK"
 msgid "Check number"
@@ -9727,12 +8438,6 @@ msgid ""
 "video."
 msgstr "Саговорник још увек не може да вас види. Притисните дугме испод да бисте покренули видео."
 
-msgctxt "sCONVERSATION_PARTNER_NOT_BUDDY"
-msgid ""
-"Want to message this person? <a href=\"skype:%s?add\">Add them as a contact "
-"first</a>."
-msgstr "Желите да пошаљете поруку овој особи? <a href=\"Skype:%s?add\">Најпре их додајте као контакт.</a>"
-
 msgctxt "sSNAPSHOT_OF_ME"
 msgid "Picture of me"
 msgstr "Моја слика"
@@ -9740,10 +8445,6 @@ msgstr "Моја слика"
 msgctxt "sOPTIONS_SMS_STATUS_LB11"
 msgid "This number has already been verified"
 msgstr "Овај број је већ верификован"
-
-msgctxt "sMAINMENU_FLAMINGO_OPEN"
-msgid "Facebook Updates"
-msgstr "Facebook исправке"
 
 msgctxt "sFLAMINGO_CAPTION"
 msgid "Facebook"
@@ -9857,8 +8558,9 @@ msgstr "У овом позиву се приказује видео запис �
 
 msgctxt "sPREM_VIDEO_UPRGADE"
 msgid ""
-"Some people on the call need to get Skype 5.0 or higher to use group video."
-msgstr "Неке особе овом у позиву морају да набаве Skype 5.0 или новију верзију да би користили групни видео."
+"Some people on the call are unable to see group video. They may need to "
+"update Skype or use a supported device."
+msgstr ""
 
 msgctxt "sPREM_VIDEO_TOO_MANY_PARTICIPANTS"
 msgid "Video is only supported on calls with up to %d people."
@@ -9918,10 +8620,6 @@ msgid ""
 "group video calls again from next month."
 msgstr "Достигли се границу од 100 сати за овај месец. Од наредног месеца ћете поново моћи да обављате групне видео позиве."
 
-msgctxt "sMYSELF_PROFILE_LOCATION"
-msgid "Location"
-msgstr "Локација"
-
 msgctxt "sMYSELF_PROFILE_CONTACTS"
 msgid "Contacts"
 msgstr "Контакти"
@@ -9929,14 +8627,6 @@ msgstr "Контакти"
 msgctxt "sMYSELF_PROFILE_VOICEMAIL_LINK"
 msgid "Set up voice messaging"
 msgstr "Подесите гласовне поруке"
-
-msgctxt "sMYSELF_PROFILE_CALLER_ID_LINK"
-msgid "Set up caller ID"
-msgstr "Подесите ИД позиваоца"
-
-msgctxt "sMYSELF_PROFILE_CALL_FORWARD_LINK"
-msgid "Set up call forwarding"
-msgstr "Подесите прослеђивање позива"
 
 msgctxt "sMYSELF_PROFILE_CALL_TIME"
 msgid "Time"
@@ -10023,25 +8713,9 @@ msgctxt "sPROFILE_PRIVACY_PRIVATE_LONG"
 msgid "Private - visible only to you"
 msgstr "Приватно - можете видети само ви"
 
-msgctxt "sPROFILE_AVARAR_LABEL"
-msgid "Picture"
-msgstr "Слика"
-
 msgctxt "sPROFILE_MOOD_LABEL"
 msgid "Mood"
 msgstr "Расположење"
-
-msgctxt "sPROFILE_SKYPENAME_LABEL"
-msgid "Skype Name"
-msgstr "Skype име"
-
-msgctxt "sPROFILE_ADD_EMAIL_LINK"
-msgid "Add another email address"
-msgstr "Додај још једну е-адресу"
-
-msgctxt "sPROFILE_ACCOUNT_LABEL"
-msgid "Account"
-msgstr "Налог"
 
 msgctxt "sMAINMENU_SHOW_HIDDEN_CONV"
 msgid "Show Hidden Conversations"
@@ -10065,9 +8739,9 @@ msgstr "Сакриј разговор"
 
 msgctxt "sINFO_CONV_HIDE_TEXT"
 msgid ""
-"To add a hidden conversations back to the Recent list, select View » Show "
+"To add a hidden conversation back to the Recent list, select View » Show "
 "Hidden Conversations from the main menu."
-msgstr "Да бисте вратили скривене разговоре у листу „Недавно“, у главном менију изаберите „Прикажи » Прикажи скривене разговоре“."
+msgstr "Да бисте вратили скривене разговоре у листу Недавно, у главном менију изаберите Прикажи » Прикажи скривене разговоре“."
 
 msgctxt "sINFO_CONV_HIDE_CAPTION"
 msgid "Show conversations"
@@ -10104,14 +8778,6 @@ msgstr "Корисник %s није у вашим контактима."
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
 msgstr "Затвори %s"
-
-msgctxt "sCONTACT_NOTIFICATION"
-msgid "Contact request"
-msgstr "Захтев за контакт"
-
-msgctxt "sCONTACT_NOTIFICATION_MANY"
-msgid "Contact requests"
-msgstr "Захтеви за контакт"
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_VIDEO_TITLE"
 msgid "The connection between you is too slow for good video."
@@ -10171,15 +8837,6 @@ msgid ""
 "while we try to get the call back."
 msgstr "Постоји проблем са Интернет везом између вас двоје. Сачекајте док покушавамо да обавимо повратни позив."
 
-msgctxt "sAUTH_REQUEST_EMAIL_COMPANY"
-msgid ""
-"<b>%s</b> registered with Skype as an employee of <b>%s</b> under <b>%s</b>"
-msgstr "Корисник <b>%s</b> се регистровао на Skypeу као запослени <b>%s</b> у оквиру <b>%s</b>"
-
-msgctxt "sAUTH_REQUEST_EMAIL"
-msgid "<b>%s</b> registered with Skype under the email <b>%s</b>"
-msgstr "Корисник <b>%s</b> се регистровао на Skypeу са е-адресом <b>%s</b>"
-
 msgctxt "sNO_CONVERSATIONS"
 msgid "No recent conversations"
 msgstr "Нема недавних разговора"
@@ -10187,10 +8844,6 @@ msgstr "Нема недавних разговора"
 msgctxt "sINBOX_OLDER_THAN_A_WEEK"
 msgid "Older than a week"
 msgstr "Старије од недељу дана"
-
-msgctxt "sPROFILE_ADD_EMAIL_TEXT"
-msgid "(Makes it easier to find you)"
-msgstr "(тако вам је лакше да пронађете)"
 
 msgctxt "sLIVE_ADD_TO_CONTACTS"
 msgid "Add to Contacts..."
@@ -10246,10 +8899,6 @@ msgctxt "sMANUAL_FOCUS"
 msgid "Normal view"
 msgstr "Нормалан приказ"
 
-msgctxt "sAUTH_REQUEST_COMPANY"
-msgid "<b>%s</b> registered with Skype as an employee of <b>%s</b>"
-msgstr "Корисник <b>%s</b> се регистровао на Skypeу као запослени <b>%s</b>"
-
 msgctxt "sCQ_GROUP_TOO_BIG_TITLE"
 msgid "Too many people on this call"
 msgstr "У овом позиву има превише особа"
@@ -10279,10 +8928,6 @@ msgstr "Галерија снимака"
 msgctxt "sMAINMENU_CALL_CALL_A_PHONE_NUMBER"
 msgid "Call Phones"
 msgstr "Позивај телефоне"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_ASSISTED"
-msgid "Screen Reader Mode"
-msgstr "Режим читача екрана"
 
 msgctxt "sLIVE_MOBILE"
 msgid "(mobile)"
@@ -10479,22 +9124,6 @@ msgid ""
 " <a href=\"skype:?go#legal.privacy\">Learn more</a>"
 msgstr "Дозволи Microsoftове циљане огласе, укључујући коришћење узраста и пола из Skype профила. <a href=\"Skype:?go#legal.privacy\">Сазнајте више</a>"
 
-msgctxt "sADD_CONTACT_LONG"
-msgid "Add a contact"
-msgstr "Додај контакт"
-
-msgctxt "sADD_CONTACT_SHORT"
-msgid "Contact"
-msgstr "Контакт"
-
-msgctxt "sCREATE_GROUP_LONG"
-msgid "Create a group"
-msgstr "Направи групу"
-
-msgctxt "sCREATE_GROUP_SHORT"
-msgid "Group"
-msgstr "Група"
-
 msgctxt "sFEATURE_DISABLED"
 msgid "This feature is disabled by your administrator"
 msgstr "Ову функцију је онемогућио ваш администратор"
@@ -10530,10 +9159,6 @@ msgstr "Додајте број телефона ове особе да бист
 msgctxt "sSMSPOPUP_DESC_NOCREDIT"
 msgid "You need Skype Credit to send SMS"
 msgstr "За слање СМС порука потребан вам је Skype кредит."
-
-msgctxt "sMYSELF_PANEL_PROF_ACCOUNT"
-msgid "Professional account"
-msgstr "Професионални налог"
 
 msgctxt "sF_CALL_FAILURE_TITLE"
 msgid "Call phones and mobiles"
@@ -10593,27 +9218,9 @@ msgctxt "sCALLPHONES_PAYG_CAPTION"
 msgid "Pay As You Go rates from"
 msgstr "Цене услуге „Платите што потрошите“ од"
 
-msgctxt "sCALLPHONES_PAYG_LNK"
-msgid "<a href=\"skype:?payments#skypeout\">Buy Skype Credit</a>"
-msgstr "<a href=\"Skype:?payments#Skypeout\">Купите Skype кредит</a>"
-
-msgctxt "sCALLPHONES_PAYG_MORE_LNK"
-msgid "<a href=\"skype:?payments#skypeout\">Buy more credit</a>"
-msgstr "<a href=\"Skype:?payments#Skypeout\">Купите још кредита</a>"
-
 msgctxt "sCALLPHONES_SUBSCR_CAPTION"
 msgid "Pay monthly from"
 msgstr "Плаћајте месечно од"
-
-msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
-msgid ""
-"<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get another "
-"subscription</a>"
-msgstr "<a href=\"Skype:?go&sso=1&country=%s#subscriptions\">Набавите још једну претплату</a>"
-
-msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
-msgid "<a href=\"skype:?mic\">View your subscription(s)</a>"
-msgstr "<a href=\"Skype:?mic\">Прикажите своју претплату/претплате</a>"
 
 msgctxt "sCALLPHONES_RATES_LNK"
 msgid "<a href=\"skype:?go#prices\">See all rates</a>"
@@ -10639,10 +9246,6 @@ msgid ""
 "Pay As You Go calls only."
 msgstr "Мала <a href=\"Skype:?go#connectionfee\">накнада за повезивање примењује се само на позиве у услузи „Платите што потрошите“.</a>"
 
-msgctxt "sSMS_TO_BUTTON"
-msgid "To %s"
-msgstr "За %s"
-
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
 msgstr "(%s/мин укљ. ПДВ)"
@@ -10659,10 +9262,6 @@ msgctxt "sCALLPHONES_SUBSCR_EXPIRING"
 msgid "Expiring soon"
 msgstr "Ускоро истиче"
 
-msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
-msgid "• <a href=\"%s\">Renew</a>"
-msgstr "• <a href=\"%s\">Обнови</a>"
-
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
 msgstr "Позови фиксни телефон"
@@ -10675,10 +9274,6 @@ msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
 msgstr "Први позив је бесплатан"
 
-msgctxt "sCALL_POPUP_VOICEMAIL"
-msgid "Voice message"
-msgstr "Говорна порука"
-
 msgctxt "sPROFILE_STATUS_OFFLINE_CF"
 msgid "Offline. Calls forwarded at no cost to you."
 msgstr "Ван мреже. Позив је бесплатно прослеђен."
@@ -10690,10 +9285,6 @@ msgstr "Ван мреже. Позиви ће бити примљени као г
 msgctxt "sCALLPHONES_AUTOCOMPLETE_ITEM"
 msgid "%s (%s: %s)"
 msgstr "%s (%s: %s)"
-
-msgctxt "sMENU_EDIT_COLUMN_ACCNAME"
-msgid "Edit"
-msgstr "Уреди"
 
 msgctxt "sCALL_DROPDOWN_TEXT"
 msgid "More calling options"
@@ -10715,12 +9306,6 @@ msgctxt "sCALLPHONES_PRO_TITLE"
 msgid "Professional account"
 msgstr "Професионални налог"
 
-msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
-msgid ""
-"%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">Request more"
-" credit</a>"
-msgstr "%s • <a href=\"Skype:?go&sso=1#skype.manager.request-products\">Затражи још кредита</a>"
-
 msgctxt "sCALLPHONES_PRO_CREDIT_WARNING"
 msgid "Low on credit!"
 msgstr "Кредит на измаку!"
@@ -10732,12 +9317,6 @@ msgstr "Имате %d претплату"
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_PLUR"
 msgid "You have %d subscriptions"
 msgstr "Имате %d претплате(а)"
-
-msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
-msgid ""
-"<a href=\"skype:?go&sso=1#skype.manager.request-products\">Request a "
-"subscription</a>"
-msgstr "<a href=\"Skype:?go&sso=1#skype.manager.request-products\">Затражите претплату</a>"
 
 msgctxt "sCALL_POPUP_EDIT_EXTENSION"
 msgid "Choose country code for this phone"
@@ -10763,10 +9342,6 @@ msgctxt "sLIVE_VIDEO_OFF"
 msgid "Your video is turned off"
 msgstr "Ваш видео је искључен"
 
-msgctxt "sLIVE_PLUS_BUTTON_HINT"
-msgid "Add, send and share..."
-msgstr "Додавање, слање и дељење..."
-
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
 msgstr "Опције екрана за овај позив"
@@ -10788,11 +9363,6 @@ msgstr "Ваша листа пријатеља није тренутно дос�
 msgctxt "sFLAMINGO_DISABLED"
 msgid "You're not able to see Facebook friends in Skype at the moment."
 msgstr "Тренутно не можете да видите Facebook пријатеље у Skypeу."
-
-msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
-msgid ""
-"<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get a subscription</a>"
-msgstr "<a href=\"Skype:?go&sso=1&country=%s#subscriptions\">Набавите претплату</a>"
 
 msgctxt "sCALLPHONES_COUNTRY_DROPDOWN_HINT"
 msgid "Choose country/region"
@@ -10866,7 +9436,7 @@ msgstr "Котрљани"
 
 msgctxt "sWTF_SMILEY"
 msgid "What the..."
-msgstr ""
+msgstr "Шта кој мој..."
 
 msgctxt "sWFH_SMILEY"
 msgid "Working from home"
@@ -10972,16 +9542,12 @@ msgid "Get Apps..."
 msgstr "Набави апликације..."
 
 msgctxt "sLIVE_PLUS_MENU_ADD_PEOPLE"
-msgid "Add People to This Call..."
+msgid "Add people to this call..."
 msgstr "Додај особе у овај позив..."
 
 msgctxt "sOPTIONS_CALL_CONTROLS"
 msgid "Show call controls when Skype is in the background"
 msgstr "Прикажи контроле позива када је Skype у позадини"
-
-msgctxt "sCALL_POPUP_CALL_SKYPE_ITEM"
-msgid "Call"
-msgstr "Позови"
 
 msgctxt "sCALL_MONITOR_ON_HOLD"
 msgid "On hold"
@@ -10990,18 +9556,6 @@ msgstr "На чекању"
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
 msgstr "Први позив је бесплатан"
-
-msgctxt "sCALL_PHONES"
-msgid "Call phones"
-msgstr "Зови телефоне"
-
-msgctxt "sNEW_ACCOUNT_NOTIFY"
-msgid "New account notification"
-msgstr "Обавештење о новом налогу"
-
-msgctxt "sNEW_ACCOUNT_NOTIFY_MANY"
-msgid "New account notifications"
-msgstr "Обавештења о новом налогу"
 
 msgctxt "sCHANGE_SHARING_OPTIONS_HINT"
 msgid "Change sharing options"
@@ -11158,10 +9712,6 @@ msgctxt "sGETTING_STARTED_SAVE_BUTTON"
 msgid "Use this picture"
 msgstr "Користи ову слику"
 
-msgctxt "sZAPCONTACT_XMPP"
-msgid "Facebook"
-msgstr "Facebook"
-
 msgctxt "sGETTING_STARTED_TRY_AGAIN"
 msgid "Try again"
 msgstr "Покушај поново"
@@ -11216,7 +9766,7 @@ msgstr "Позива се %s, није успело. Захтева се дод�
 
 msgctxt "sFBPLUGIN_INSTALL_WARNING"
 msgid ""
-"Your friend needs to install a plugin before you can chat.  Please wait for "
+"Your friend needs to install a plugin before you can chat. Please wait for "
 "their return call or try again later."
 msgstr "Ваш пријатељ мора да инсталира додатну компоненту пре него што будете могли да ћаскате. Сачекајте његов повратни позив или покушајте поново касније."
 
@@ -11284,18 +9834,6 @@ msgctxt "sTEST_SOUND_STOP_ACC_DESC"
 msgid "Click to stop playing test sound"
 msgstr "Кликните да бисте зауставили репродукцију пробног звука"
 
-msgctxt "sSMS_REPLY_TO_CHAT"
-msgid "Replies will be shown here"
-msgstr "Одговори ће бити приказани овде"
-
-msgctxt "sSMS_REPLY_TO_NUM"
-msgid "Replies will be sent to %s"
-msgstr "Одговори ће бити послати %s"
-
-msgctxt "sSMS_REPLY_TO_NONE"
-msgid "To receive replies, add a From number"
-msgstr "Да бисте примали одговоре, додајте опцију „Са броја“"
-
 msgctxt "sLIVE_SO_PLUS_BUTTON_HINT"
 msgid "Add participants"
 msgstr "Додај учеснике"
@@ -11312,10 +9850,6 @@ msgctxt "sHOTKEY_SNAPSHOT"
 msgid "Take a snapshot during video calls"
 msgstr "Направи снимак током видео позива"
 
-msgctxt "sSMS_FROM_MORE_OPTIONS"
-msgid "More options"
-msgstr "Више опција"
-
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
 msgstr "Skype"
@@ -11328,45 +9862,9 @@ msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
 msgstr "Додајте број"
 
-msgctxt "sSMS_FROM_SKYPE_DISABLED"
-msgid "Skype (not available)"
-msgstr "Skype (није доступно)"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION1"
-msgid "To receive SMS replies directly in Skype"
-msgstr "Да бисте примали одговоре на СМС директно на Skype"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION2"
-msgid "Below the chat box, select <b>Reply to</b> and choose <b>Skype</b>."
-msgstr "Испод оквира за ћаскање, изаберите <b>Одговори кориснику</b> и одаберите <b>Skype</b>."
-
-msgctxt "sF_OPTIONS_SMS_CAPTION3"
-msgid "(Not available with some mobile numbers.)"
-msgstr "(Није доступно код неких бројева мобилних телефона.)"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION4"
-msgid "To receive SMS replies on your mobile"
-msgstr "Да бисте примали одговоре на СМС на мобилни телефон"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION5"
-msgid "Below the chat box, select <b>Reply to</b> and choose <b>Mobile</b>."
-msgstr "Испод оквира за ћаскање, изаберите <b>Одговори кориснику</b> и одаберите <b>Мобилни</b>."
-
-msgctxt "sF_OPTIONS_SMS_VER_NUMBERS"
-msgid "Your verified numbers:"
-msgstr "Ваши верификовани бројеви:"
-
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
 msgstr "У реду"
-
-msgctxt "sF_OPTIONS_SMS_VER_CAPTION"
-msgid "Please verify your mobile number below:"
-msgstr "Верификујте испод број вашег мобилног телефона:"
-
-msgctxt "sF_USERINFO_AGE_JUST_GOT_NOYEAR"
-msgid "It's %s's birthday today"
-msgstr "%s слави данас рођендан"
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
@@ -11582,7 +10080,7 @@ msgstr "Набавите Skype кредит"
 
 msgctxt "sSKYPEWIFI_NOCREDIT_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s по минуту"
 
 msgctxt "sSKYPEWIFI_PAYMENT_HEADER"
 msgid "Buy Skype Credit"
@@ -11629,7 +10127,7 @@ msgstr "Омогући аутоматску допуну"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_TOS"
 msgid "I agree to Skype's <a href=\"%s\">Terms of Use</a>"
-msgstr ""
+msgstr "Слажем се са Skype <a href=\"%s\">Условима коришћења</a>"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_NAME"
 msgid "Cardholder name"
@@ -11653,8 +10151,8 @@ msgstr "Безбедност"
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_VAT"
 msgid ""
-"VAT (value added taxes) is applicable to residents of the EU and calculated "
-"at the Luxembourg VAT rate. If you live outside the EU, you will not be "
+"VAT (value added tax) is applicable to residents of the EU and calculated at"
+" the Luxembourg VAT rate. If you live outside the EU, you will not be "
 "charged the VAT."
 msgstr "ПДВ (порез на додату вредност) важи за становнике земаља ЕУ и рачуна се према стопи ПДВ-а у Луксембургу. Ако живите ван ЕУ, ПДВ вам неће бити наплаћен."
 
@@ -11673,7 +10171,7 @@ msgctxt "sSKYPEWIFI_PAYMENT_HINT_AUTORECHARGE"
 msgid ""
 "If auto-recharge is enabled, your card will automatically be charged when "
 "your Skype Credit balance falls below %s"
-msgstr ""
+msgstr "Ако је омогућена аутоматска допуна, картица ће бити аутоматски задужена када ваш салдо Skype кредита падне испод %s"
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
 msgid "Thank you"
@@ -11719,7 +10217,7 @@ msgstr "Успостави везу"
 
 msgctxt "sSKYPEWIFI_READY_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s по минуту"
 
 msgctxt "sSKYPEWIFI_READY_FREE"
 msgid "FREE"
@@ -11729,7 +10227,7 @@ msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
 "By connecting, you agree to the provider's <a href=\"%s\">Terms of "
 "Service</a>."
-msgstr ""
+msgstr "Успостављањем везе, пристајете на <a href=\"%s\">Услове коришћења услуге добављача услуге</a>."
 
 msgctxt "sSKYPEWIFI_READY_TOS_NOTOS"
 msgid "By connecting, you agree to the provider's Terms of Service"
@@ -11749,7 +10247,7 @@ msgstr "Успостављање везе..."
 
 msgctxt "sSKYPEWIFI_CONNECTING_PRICE"
 msgid "%s per minute"
-msgstr ""
+msgstr "%s по минуту"
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
 msgid "FREE"
@@ -11759,23 +10257,9 @@ msgctxt "sSKYPEWIFI_ONLINE_HEADER"
 msgid "You're online with Skype WiFi"
 msgstr "На мрежи сте помоћу Skype Wifi-ја"
 
-msgctxt "sSKYPEWIFI_ONLINE_DESC"
-msgid ""
-"Your Internet connection will time out in {MINUTES_REMAINING} minutes. You "
-"can disconnect at any time and you'll only be charged for the minutes used."
-msgstr "Ваша Интернет веза ће истећи за {МИНУТЕС_РЕМАИНИНГ} минута. Можете прекинути везу у било ком тренутку и биће вам наплаћени само потрошени минути."
-
 msgctxt "sSKYPEWIFI_ONLINE_BUTTON"
 msgid "Disconnect"
 msgstr "Прекини везу"
-
-msgctxt "sSKYPEWIFI_ONLINE_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "Преостало је {МИНУТЕС_РЕМАИНИНГ} минута"
-
-msgctxt "sSKYPEWIFI_ONLINE_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "Преостао је 1 минут"
 
 msgctxt "sSKYPEWIFI_EXTEND_HEADER"
 msgid "Your connection is about to time out"
@@ -11795,29 +10279,9 @@ msgctxt "sSKYPEWIFI_EXTEND_BUTTON_DISCONNECT"
 msgid "Disconnect"
 msgstr "Прекини везу"
 
-msgctxt "sSKYPEWIFI_EXTEND_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "Преостало је {МИНУТЕС_РЕМАИНИНГ} минута"
-
-msgctxt "sSKYPEWIFI_EXTEND_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "Још 1 минут"
-
 msgctxt "sSKYPEWIFI_FLOATER_TITLE"
 msgid "Skype WiFi"
 msgstr "Skype Wifi"
-
-msgctxt "sSKYPEWIFI_FLOATER_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "Преостало је {МИНУТЕС_РЕМАИНИНГ} минута"
-
-msgctxt "sSKYPEWIFI_FLOATER_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "Још 1 минут"
-
-msgctxt "sSKYPEWIFI_FLOATER_NOTIME"
-msgid "Connected"
-msgstr "Веза је успостављена"
 
 msgctxt "sSKYPEWIFI_FLOATER_AVAILABLE"
 msgid "Available"
@@ -11826,10 +10290,6 @@ msgstr "Доступно"
 msgctxt "sSKYPEWIFI_FLOATER_CONNECTING"
 msgid "Connecting..."
 msgstr "Успостављање везе..."
-
-msgctxt "sSKYPEWIFI_FLOATER_EXTEND"
-msgid "Click here to extend your session"
-msgstr "Кликните овде да бисте продужили сесију"
 
 msgctxt "sSKYPEWIFI_FAQ_CAPTION"
 msgid "Skype WiFi"
@@ -11841,32 +10301,32 @@ msgstr "Најцешћа питања"
 
 msgctxt "sSKYPEWIFI_FAQ"
 msgid ""
-"<font size=\"11px\" color=\"#6e6e73\" name=\"Tahoma\"><br /><br /><b><font "
-"size=\"13px\">1. What is Skype WiFi?</font></b><br/>Skype WiFi is a "
-"fantastic way to browse the internet at public Skype hotspots around the "
-"world, using your Skype Credit as payment. No more fumbling with credit "
-"cards or cumbersome sign up processes when you’re on the move - you can "
-"simply use your Skype Credit to get online. You only pay per minute for what"
-" you use. There’s no need to buy an internet day-pass if all you need is a "
-"few minutes of access.<br /><br /><b><font size=\"13px\">2. How much does "
-"Skype WiFi cost?</font></b><br/>Skype WiFi prices vary by provider and will "
-"be displayed when you connect to supported hotspots.<br /><br /><b><font "
-"size=\"13px\">3. How do I use Skype WiFi?</font></b><br/>You must first "
-"connect to a Skype network in a public hotspot. If the hotspot is supported,"
-" you will be prompted to use your Skype Credit to pay for Internet access on"
-" a per-minute-basis.<br /><br /><b><font size=\"13px\">4. How does Skype "
-"WiFi work?</font></b><br/>Once you click “Connect”, Skype WiFi reserves "
-"enough credit for up to 30 minutes use. You will only pay for what you use, "
-"so if you connect for 10 minutes, you’ll only pay for 10 minutes and your "
-"remaining credits will be available in your Skype Credit account.<br /><br "
-"/><b><font size=\"13px\">5. I’m connected, now what?</font></b><br/>Once you"
-" connect with Skype WiFi you use your device as normal. You can check your "
-"email, surf the web or run apps that need data connectivity. For your "
-"convenience, we’ll count down the minutes. This way you can see how much "
-"time you have remaining to stay online.<br /><br /><b><font size=\"13px\">6."
-" What happens if I forget to disconnect?</font></b><br/>For your protection,"
-" Skype WiFi will time-out after 30 minutes.</font><br />"
-msgstr "<font size=\"11px\" color=\"#6E6E73\" name=\"Tahoma\"><br/><br/><b><font size=\"13px\">1. Шта је Skype Wifi?</font></b><br/>Skype Wifi је фантастичан начин да прегледате Интернет на јавним Skype приступним тачкама широм света, при чему као средство плаћања користите Skype кредит. Нема више мучења са кредитнним картицама или незграпног процеса пријављивања када сте у покрету - можете једноставно користити Skype кредит за повезивање на мрежу. Платићете само минуте које потрошите. Не морате да купујете дневну претплату на Интернет ако вам је потребно само неколико минута приступа.<br/><br/><b><font size=\"13px\">2. Колико кошта Skype Wifi?</font></b><br/>Цене услуге Skype Wifi разликују се од добављача до добављача услуга и приказаће се када се будете повезали на подржану приступну тачку.<br/><br/><b><font size=\"13px\">3. Како да користим Skype Wifi?</font></b><br/>Најпре морате да успоставите везу са Skype мрежом на јавној приступној тачки. Ако је приступна тачка подржана, од вас ће се затражити да употребите свој Skype кредит за плаћање Интернет приступа по минуту.<br/><br/><b><font size=\"13px\">4. Како функционише Skype Wifi?</font></b><br/>Када кликнете на дугме „Успостави везу“, Skype Wifi резервише довољно кредита за 30 минута коришћења. Платићете само оно што потрошите, тако да ако успоставите везу на 10 минута, платићете за 10 минута док ће преостали кредит бити доступан на вашем Skype кредит налогу.<br/><br/><b><font size=\"13px\">5. Повезао/ла сам се, шта сада?</font></b><br/>Када успоставите везу помоћу услуге Skype Wifi користите уређај као и обично. Можете проверавати своју е-пошту, крстарити Вебом или покретати апликације којима је потребан пренос података. Ради ваше удобности, одбројаваћемо минуте. На овај начин можете да видите колико вам је времена преостало за боравак на мрежи.<br/><br/><b><font size=\"13px\">6. Шта се дешава ако заборавим да прекинем везу?</font></b><br/>Ради ваше заштите, веза путем услуге Skype Wifi ће истећи након 30 минута.<br/></font>"
+"<br /><br /><b><font size=\"13px\">1. What is Skype "
+"WiFi?</font></b><br/>Skype WiFi is a fantastic way to browse the internet at"
+" public Skype hotspots around the world, using your Skype Credit as payment."
+" No more fumbling with credit cards or cumbersome sign up processes when "
+"you’re on the move - you can simply use your Skype Credit to get online. You"
+" only pay per minute for what you use. There’s no need to buy an internet "
+"day-pass if all you need is a few minutes of access.<br /><br /><b><font "
+"size=\"13px\">2. How much does Skype WiFi cost?</font></b><br/>Skype WiFi "
+"prices vary by provider and will be displayed when you connect to supported "
+"hotspots.<br /><br /><b><font size=\"13px\">3. How do I use Skype "
+"WiFi?</font></b><br/>You must first connect to a Skype network in a public "
+"hotspot. If the hotspot is supported, you will be prompted to use your Skype"
+" Credit to pay for Internet access on a per-minute-basis.<br /><br "
+"/><b><font size=\"13px\">4. How does Skype WiFi work?</font></b><br/>Once "
+"you click “Connect”, Skype WiFi reserves enough credit for up to 30 minutes "
+"use. You will only pay for what you use, so if you connect for 10 minutes, "
+"you’ll only pay for 10 minutes and your remaining credits will be available "
+"in your Skype Credit account.<br /><br /><b><font size=\"13px\">5. I’m "
+"connected, now what?</font></b><br/>Once you connect with Skype WiFi you use"
+" your device as normal. You can check your email, surf the web or run apps "
+"that need data connectivity. For your convenience, we’ll count down the "
+"minutes. This way you can see how much time you have remaining to stay "
+"online.<br /><br /><b><font size=\"13px\">6. What happens if I forget to "
+"disconnect?</font></b><br/>For your protection, Skype WiFi will time-out "
+"after 30 minutes.<br />"
+msgstr "<br/><br/><b><font size=\"13px\">1. Шта је Skype Wifi?</font></b><br/>Skype Wifi је фантастичан начин да прегледате Интернет на јавним Skype приступним тачкама широм света, при чему као средство плаћања користите Skype кредит. Нема више мучења са кредитнним картицама или незграпног процеса пријављивања када сте у покрету - можете једноставно користити Skype кредит за повезивање на мрежу. Платићете само минуте које потрошите. Не морате да купујете дневну претплату на Интернет ако вам је потребно само неколико минута приступа.<br/><br/><b><font size=\"13px\">2. Колико кошта Skype Wifi?</font></b><br/>Цене услуге Skype Wifi разликују се од добављача до добављача услуга и приказаће се када се будете повезали на подржану приступну тачку.<br/><br/><b><font size=\"13px\">3. Како да користим Skype Wifi?</font></b><br/>Најпре морате да успоставите везу са Skype мрежом на јавној приступној тачки. Ако је приступна тачка подржана, од вас ће се затражити да употребите свој Skype кредит за плаћање Интернет приступа по минуту.<br/><br/><b><font size=\"13px\">4. Како функционише Skype Wifi?</font></b><br/>Када кликнете на дугме „Успостави везу“, Skype Wifi резервише довољно кредита за 30 минута коришћења. Платићете само оно што потрошите, тако да ако успоставите везу на 10 минута, платићете за 10 минута док ће преостали кредит бити доступан на вашем Skype кредит налогу.<br/><br/><b><font size=\"13px\">5. Повезао/ла сам се, шта сада?</font></b><br/>Када успоставите везу помоћу услуге Skype Wifi користите уређај као и обично. Можете проверавати своју е-пошту, крстарити Вебом или покретати апликације којима је потребан пренос података. Ради ваше удобности, одбројаваћемо минуте. На овај начин можете да видите колико вам је времена преостало за боравак на мрежи.<br/><br/><b><font size=\"13px\">6. Шта се дешава ако заборавим да прекинем везу?</font></b><br/>Ради ваше заштите, веза путем услуге Skype Wifi ће истећи након 30 минута.<br/>"
 
 msgctxt "sSKYPEWIFI_FAQ_BUTTON_CLOSE"
 msgid "Close"
@@ -11880,7 +10340,7 @@ msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
 "Contacts in this list will not be deleted. You can still find them under "
 "\"All\""
-msgstr "Контакти у овој листи неће бити избрисани. Можете их још увек наћи под ставком „Сви“."
+msgstr ""
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
@@ -11893,14 +10353,6 @@ msgstr "Слање"
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
 msgstr "Послато"
-
-msgctxt "sVIDEOMSG_STATUS_TEXT_FAILED"
-msgid "Video message not sent"
-msgstr "Видео порука није послата"
-
-msgctxt "sVIDEOMSG_STATUS_TEXT_DELETED"
-msgid "Video message removed"
-msgstr "Видео порука је уклоњена"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_EXPIRED"
 msgid "Video message expired"
@@ -11929,15 +10381,15 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_EXPIRED_TITLE"
 msgid "Sorry, this video message has expired."
-msgstr ""
+msgstr "Жао нам је, ова видео порука је истекла."
 
 msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
 msgid "Sorry, this video message is unavailable."
-msgstr ""
+msgstr "Жао нам је, ова видео порука је недоступна."
 
 msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_TITLE"
 msgid "Video Message Unavailable"
-msgstr ""
+msgstr "Видео порука није доступна"
 
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
@@ -11956,24 +10408,16 @@ msgid "Search for <a href=\"x\">%s</a> on Skype."
 msgstr "Потражите корисника <a href=\"x\">%s на Skypeу</a>"
 
 msgctxt "sCHAT_SEND_MESSAGE"
-msgid "Send a message"
-msgstr "Пошаљи поруку"
+msgid "Type a message here"
+msgstr ""
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
 msgstr "Пошаљи СМС"
 
-msgctxt "sSEND_SMS_TARGET_HINT"
-msgid "Change where you send SMS."
-msgstr "Промените број на који шаљете СМС."
-
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
 msgstr "Промените број на који примате одговоре на СМС."
-
-msgctxt "sSEND_SMS_TARGET_MENU_TITLE"
-msgid "Send SMS to"
-msgstr "Пошаљи СМС кориснику"
 
 msgctxt "sSEND_SMS_REPLYTO_TITLE"
 msgid "Reply to %s"
@@ -12029,19 +10473,9 @@ msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE2"
 msgid "If you wanted a line break use CTRL+ENTER."
 msgstr "Ако желите нови ред откуцајте CTRL+ENTER."
 
-msgctxt "sSEND_SMS_ENTER_INFO_TIP_SENDNOW"
-msgid "Send"
-msgstr "Пошаљи"
-
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_NOTYET"
 msgid "Cancel"
 msgstr "Откажи"
-
-msgctxt "sSMS_VERIFY_NUMBER_PROMPT"
-msgid ""
-"To send SMS to this number, you need to <a "
-"href=\"skype:?options#sms\">verify your mobile number</a>."
-msgstr "Да бисте послали СМС на овај број, треба да <a href=\"Skype:?options#sms\">потврдите свој број мобилног телефона.</a>"
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
@@ -12111,7 +10545,7 @@ msgstr "Messenger"
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
 msgid "No results for %s"
-msgstr ""
+msgstr "Без резултата за %s"
 
 msgctxt "sSTATUS_UNKNOWN2"
 msgid "This person isn't in your Contact list."
@@ -12222,21 +10656,6 @@ msgctxt "sGETTING_STARTED_INTRO_NEW_PICTURE"
 msgid "New picture"
 msgstr "Нова слика"
 
-msgctxt "sF_PAYMENTS_FRM_CAPTION"
-msgid "Buy credit - %s"
-msgstr "Купите кредит - %s"
-
-msgctxt "sBROWSER_ERROR_ACCOUNT"
-msgid ""
-"If you are connected to the internet, <a "
-"href=\"skype:?go&sso=1#myaccount\">click here</a> to connect to your "
-"account."
-msgstr "Ако сте повезани на Интернет, <a href=\"Skype:?go&sso=1#myaccount\">кликните овде</a> да бисте се повезали на ваш налог."
-
-msgctxt "sMIC_WEBWINDOW_TITLE"
-msgid "Account"
-msgstr "Налог"
-
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
 msgstr "Користите више Skype на Skype"
@@ -12274,8 +10693,8 @@ msgstr "Управљајте Премијумом"
 msgctxt "sMYINFO_GET_PREMIUM"
 msgid ""
 "Upgrade and unlock more features<br/>• Unlimited calls<br/>• Group video "
-"calls<br/><a href=\"%s\">Get Premium</a>"
-msgstr "Надоградите и откључајте још могућности<br/>• Неограничени позиви<br/>• Групни видео позиви<br/><a href=\"%s\">Купите Премијум</a>"
+"calls<br/>• No advertising<br/><a href=\"%s\">Get Premium</a>"
+msgstr "Надоградите и откључајте још могућности<br/>• Неограничени позиви<br/>• Без реклама<br/><a href=\"%s\">Купите Премијум</a>"
 
 msgctxt "sMYINFO_CREDIT"
 msgid "Credit"
@@ -12311,8 +10730,8 @@ msgid ""
 msgstr "Зовете често? Уштедите много...<br/>• Најниже цене звања<br/>• Без дугорочних обавеза<br/><a href=\"%s\">Преплатите се</a>"
 
 msgctxt "sMYINFO_MY_ACCOUNT"
-msgid "Manage account"
-msgstr "Управљајте налогом"
+msgid "Manage my account"
+msgstr ""
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
@@ -12342,37 +10761,13 @@ msgid ""
 "a phone number</a>."
 msgstr "Тражите по имену, корисничког имену, електрноској пошти или <a href=\"skype:?show_add_phone\">сачувајте број телефона</a>."
 
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SKYPE_HINT"
-msgid "via Skype, use the channel switcher to change to via SMS and more"
-msgstr "путем Skype-а, користите мењач канала да промените на СМС и више"
+msgctxt "sACC_ADD_PHONE_POPUP_NAME"
+msgid "Add a phone number"
+msgstr "Додај број телефона"
 
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_SKYPE_HINT"
-msgid "via SMS, use the channel switcher to change to via Skype and more"
-msgstr "путем СМС-а, користите мењач канала да промените на Skype и друго"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_FACEBOOK_HINT"
-msgid "via Facebook, use the channel switcher to change to via SMS and more"
-msgstr "путем Facebookа, користите мењач канала да промените на СМС и друго"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_FACEBOOK_HINT"
-msgid "via SMS, use the channel switcher to change to via Facebook and more"
-msgstr "путем СМС-а, користите мењач канала да промените на Facebook и друго"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_PASSPORT_HINT"
-msgid "via Messenger, use the channel switcher to change to via SMS and more"
-msgstr "путем Messenger-а, користите мењач канала да промените на СМС и друго"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_PASSPORT_HINT"
-msgid "via SMS, use the channel switcher to change to via Messenger and more"
-msgstr "путем СМС-а, користите мењач канала да промените на Messenger и друго"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_LYNC_HINT"
-msgid "via Lync, use the channel switcher to change to via SMS and more"
-msgstr "путем Lync-а, користите мењач канала да промените на СМС и друго"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_LYNC_HINT"
-msgid "via SMS, use the channel switcher to change to via Lync and more"
-msgstr "путем СМС-а, користите мењач канала да промените на Lync и друго"
+msgctxt "sACC_CHANNEL_SWITCHER_NAME"
+msgid "Message type"
+msgstr "Тип поруке"
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
 msgid "select country"
@@ -12385,12 +10780,6 @@ msgstr "изабери тип броја"
 msgctxt "sACC_CONTACT_PHONE_EDIT_ENTER_NUMBER_HINT"
 msgid "enter number"
 msgstr "унеси број"
-
-msgctxt "sCONVERSATION_PASSPORT_PARTNER_BLOCKED_LINK"
-msgid ""
-"%s is blocked and can't answer. If you want to chat, <a href=\"%s\">unblock "
-"them from the web profile</a>."
-msgstr "%s је блокиран и не може да одговори. Ако желите да ћаскате, <a href=\"%s\">деблокирајте га/је са свог веб профила</a>."
 
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
@@ -12427,8 +10816,8 @@ msgid "Paying with:"
 msgstr "Платите са:"
 
 msgctxt "sTOPUP_AUTO_RECHARGE"
-msgid "Enable Auto-recharge"
-msgstr "Укључи Ауто-допуну"
+msgid "Enable Auto-recharge when I'm running low on credit"
+msgstr ""
 
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
 msgid "Accept <a href=\"%s\">Terms of Use</a>"
@@ -12520,9 +10909,12 @@ msgstr "Како ради Ауто-допуна"
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
 msgid ""
-"Don't worry about running out of credit, we'll add more when you're running "
-"low."
-msgstr "Не брините да ће вам нестати кредита, ми ћемо додати још када вам понестане."
+"Auto-recharge saves you time and hassle. We’ll charge your preferred payment"
+" method and credit your account with the amount selected above when your "
+"balance is low. You can disable Auto-recharge any time in My Account, under "
+"Billing and Payments. For more information read <a "
+"href=\"http://www.skype.com/go/tou.refund\">Skype’s refund policy</a>."
+msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
 msgid "Skype WiFi"
@@ -12562,9 +10954,9 @@ msgstr "<a href=\"%s\">Нова метода плаћања</a>"
 
 msgctxt "sBDCARD_NOTIFICATION"
 msgid ""
-"<b>It's %s's birthday today.</b><br />Forgot the card? Make it up with a <a "
-"href=\"%s\">Skype Gift Card</a>."
-msgstr "<b>Данас је %s рођендан.</b><br />Заборавили сте да честитате? Надокнадите то са <a href=\"%s\">Skype поклон картицом</a>."
+"<b>It's %s's birthday today.</b><br />Give the gift of birthday calls to "
+"mobiles and landlines with a <a href=\"%s\">Skype Gift Card</a>."
+msgstr ""
 
 msgctxt "sERROR_HINT_VIDEO_SSE2_TEXT"
 msgid ""
@@ -12607,7 +10999,7 @@ msgstr ""
 
 msgctxt "sOPTIONS_HIDE_IP_ADDRESS"
 msgid "Allow direct connections to your contacts only."
-msgstr ""
+msgstr "Омогући директно повезивање само за своје контакте."
 
 msgctxt "sOPTIONS_HIDE_IP_ADDRESS_HINT"
 msgid ""
@@ -12621,21 +11013,13 @@ msgstr "Пошаљи видео поруку"
 
 msgctxt "sVIDEOMSG_BACK_HINT"
 msgid "Go back to chat"
-msgstr ""
-
-msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
-msgid "Close"
-msgstr "Затвори"
+msgstr "Идите назад у ћаскање"
 
 msgctxt "sVIDEOMSG_SEND"
 msgid "Send video message"
 msgstr "Пошаљи видео поруку"
 
 msgctxt "sCALL_LYNC"
-msgid "Lync"
-msgstr "Lync"
-
-msgctxt "sCALL_POPUP_LYNC"
 msgid "Lync"
 msgstr "Lync"
 
@@ -12653,27 +11037,19 @@ msgstr "Уклони из омиљених локација"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr ""
+msgstr "Додај у омиљено"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
-
-msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
-msgid "Camera in use"
-msgstr ""
-
-msgctxt "sCQ_VIDEO_MESSAGE_DESC"
-msgid "To see your camera, close your video message first."
-msgstr ""
+msgstr "Пошаљи видео поруку"
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
-msgstr ""
+msgstr "Пошаљи видео поруку"
 
 msgctxt "sAC_SEND_REQ"
 msgid "%s is not in your Contacts"
-msgstr ""
+msgstr "%s није у вашим контактима."
 
 msgctxt "sAC_RESEND_REQ"
 msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
@@ -12681,15 +11057,15 @@ msgstr ""
 
 msgctxt "sAC_ACCEPT_REQ"
 msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
-msgstr ""
+msgstr "%s није у вашим контактима - <a href=\"%s\">Додај у контакте</a>"
 
 msgctxt "sAC_REQ_SENT"
 msgid "Contact request sent"
-msgstr ""
+msgstr "Послат захтев за контакт"
 
 msgctxt "sAC_UNBLOCK"
 msgid "You have blocked this contact - <a href=\"%s\">Unblock</a>"
-msgstr ""
+msgstr "Блокирали сте овај контакт - <a href=\"%s\">Одблокирај</a>"
 
 msgctxt "sVIDEOMSG_ERROR_START_DEVICE"
 msgid ""
@@ -12715,14 +11091,6 @@ msgid ""
 "disconnected. Record your message again, or send it now if you're ready."
 msgstr ""
 
-msgctxt "sVIDEOMSG_PREMIUM_UPSELL_TITLE"
-msgid "You have no free video messages left"
-msgstr ""
-
-msgctxt "sVIDEOMSG_PREMIUM_UPSELL_MESSAGE"
-msgid "Upgrade to a Premium account to enjoy unlimited video messages."
-msgstr ""
-
 msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
 msgid "Looking good!"
 msgstr ""
@@ -12733,7 +11101,7 @@ msgstr ""
 
 msgctxt "DECLINE_POPUP_CAPTION"
 msgid "Decline contact request"
-msgstr ""
+msgstr "Одбијен захтев за контакт"
 
 msgctxt "DECLINE_POPUP_BLOCK_CAPTION"
 msgid "Block"
@@ -12741,7 +11109,7 @@ msgstr "Блокирај"
 
 msgctxt "DECLINE_POPUP_SPAM_CAPTION"
 msgid "Report as spam"
-msgstr ""
+msgstr "Пријави нежељено"
 
 msgctxt "sVIDEOMSG_SEND_CAPTION"
 msgid "Send video message"
@@ -12755,21 +11123,17 @@ msgctxt "sVIDEOMSG_RECORD_CAPTION"
 msgid "Record"
 msgstr "Сними"
 
-msgctxt "sECHO_DISPLAY_NAME"
-msgid "Echo/Sound Test Service"
-msgstr ""
-
 msgctxt "sTASKBAR_MENU_SIGN_OUT"
 msgid "Sign Out"
 msgstr "Одјави ме"
 
 msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
 msgid "recording a video message or sharing screens"
-msgstr ""
+msgstr "снимање видео поруке или дељење екрана"
 
 msgctxt "sOPTIONS_RECORDING_VIDEO_MESSAGE"
 msgid "Do not show notifications when:"
-msgstr ""
+msgstr "Не приказуј обавештења када:"
 
 msgctxt "sVIDEOMSG_STOP_RECORD_CAPTION"
 msgid "Stop recording"
@@ -12777,7 +11141,7 @@ msgstr "Заустави снимање"
 
 msgctxt "sPREM_VIDEO_MESSAGE_WEB_WINDOW_CAPTION"
 msgid "Video messaging"
-msgstr ""
+msgstr "Видео поруке"
 
 msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
 msgid "sends me a video message"
@@ -12789,7 +11153,7 @@ msgstr "Нова видео порука"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UNAVAILABLE"
 msgid "Video message is unavailable"
-msgstr ""
+msgstr "Видео порука није доступна"
 
 msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
 msgid "Send video message..."
@@ -12797,102 +11161,1857 @@ msgstr "Пошаљи видео поруку..."
 
 msgctxt "sCONVERSATION_VIDEO_MESSAGE"
 msgid "New video message"
-msgstr ""
+msgstr "Нова видео порука"
 
 msgctxt "sACC_NAME_MYSELF_HEADER"
-msgid "Me"
-msgstr ""
+msgid "My profile"
+msgstr "Мој профил"
 
 msgctxt "sACC_NAME_QF"
 msgid "Search"
-msgstr ""
-
-msgctxt "sACC_NAME_CONVERSATIONS"
-msgid "Conversations"
-msgstr ""
-
-msgctxt "sACC_NAME_COMMUNICATOR"
-msgid "Application access"
-msgstr ""
-
-msgctxt "sACC_NAME_PARTNER_BUTTONS"
-msgid "Partner"
-msgstr ""
+msgstr "Претражи"
 
 msgctxt "sACC_NAME_CONTACTS_TAB"
 msgid "All contacts"
-msgstr ""
+msgstr "Сви контакти"
 
 msgctxt "sACC_NAME_CONVERSATION_LIST"
 msgid "Contacts"
-msgstr ""
+msgstr "Контакти"
 
 msgctxt "sACC_NAME_CONVERSATIONS_TAB"
-msgid "All recent messages"
-msgstr ""
+msgid "All recent messages."
+msgstr "Све недавне поруке."
 
 msgctxt "sACC_NAME_INBOX_LIST"
 msgid "Recent messages"
-msgstr ""
+msgstr "Недавне поруке"
 
 msgctxt "sACC_NAME_CONVERSATION_FAVORITE"
 msgid "Favorite"
-msgstr ""
+msgstr "Омиљено"
 
 msgctxt "sACC_NAME_ONLINE_STATUS"
 msgid "%0:s, select to change status"
-msgstr ""
+msgstr "%0:s, одабери за промену статуса"
 
 msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
 msgid "Hide message"
-msgstr ""
-
-msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
-msgid "All %0:s contacts"
-msgstr ""
+msgstr "Сакриј поруку"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
 msgid "All %0:s"
-msgstr ""
+msgstr "Све %0:s"
 
 msgctxt "sVIDEOMSG_UPSELL"
 msgid "Would you like to leave a video message?"
-msgstr ""
+msgstr "Желите ли да оставите видео поруку?"
 
 msgctxt "sVIDEOMSG_UPSELL_BUTTON"
 msgid "Video message"
-msgstr ""
+msgstr "Видео порука"
 
 msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
 msgid "Clear search input"
-msgstr ""
+msgstr "Очисти претрагу"
 
-msgctxt "sACC_NAME_SEARCH_ALL"
-msgid "Search all people on Skype"
-msgstr ""
+msgctxt "sACC_NAME_SEARCH_EDIT"
+msgid "Search by name, Skype name or email"
+msgstr "Претражи по имену, Скајп имену или е-пошти"
+
+msgctxt "sACC_NAME_SEARCH_RESULTS"
+msgid "Search results"
+msgstr "Резултати претраге"
+
+msgctxt "sACC_NAME_ADD_CONTACT_PANEL_CLOSE"
+msgid "Exit add contacts"
+msgstr "Напусти додавање контаката"
 
 msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
 msgid "You're online with Skype WiFi"
-msgstr ""
+msgstr "На мрежи сте помоћу Skype Wifi-ја"
 
 msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
 msgid "Connection expires soon"
-msgstr ""
+msgstr "Веза истиче ускоро"
 
 msgctxt "sSKYPEWIFI_LESS_THAN_MINUTE"
 msgid ""
 "You've been online for less than a minute. You can disconnect at any time "
 "and you'll only be charged for the minutes used."
-msgstr ""
+msgstr "Ваша Интернет веза ће истећи за мање од минута. Можете прекинути везу у било ком тренутку и биће вам наплаћени само потрошени минути."
 
 msgctxt "sSKYPEWIFI_ABOUT_A_MINUTE"
 msgid ""
 "You've been online for about a minute. You can disconnect at any time and "
 "you'll only be charged for the minutes used."
-msgstr ""
+msgstr "Ваша Интернет веза ће истећи за мање од минута. Можете прекинути везу у било ком тренутку и биће вам наплаћени само потрошени минути."
 
 msgctxt "sSKYPEWIFI_MORE_THAN_MINUTE"
 msgid ""
 "You've been online for about %d minutes. You can disconnect at any time and "
 "you'll only be charged for the minutes used."
+msgstr "Ваша Интернет веза ће истећи за око %d минута. Можете прекинути везу у било ком тренутку и биће вам наплаћени само потрошени минути."
+
+msgctxt "sACC_NAME_SELECTED_GROUP_ALL_BUDDIES"
+msgid "All contacts"
+msgstr "Сви контакти"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_SKYPE_BUDDIES"
+msgid "All Skype contacts"
+msgstr "Сви Skype контакти"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_ONLINE_BUDDIES"
+msgid "All online contacts"
+msgstr "Сви контакти на мрежи"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_EXTERNAL_CONTACTS"
+msgid "All Outlook contacts"
+msgstr "Сви Outlook контакти"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_XMPP_CONTACTS"
+msgid "All Facebook contacts"
+msgstr "Сви Facebook контакти"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_PASSPORT_CONTACTS"
+msgid "All Messenger contacts"
+msgstr "Сви Messenger контакти"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
+msgid "All Lync contacts"
+msgstr "Сви Lync контакти"
+
+msgctxt "sACC_CALL_POPUP_NAME"
+msgid "Call options"
+msgstr "Опције позива"
+
+msgctxt "sACC_CALL_EDIT_NUMBER_BUTTON"
+msgid "Edit number"
+msgstr "Уреди број"
+
+msgctxt "sACC_CALL_PHONES_SELECTED_COUNTRY_COMBO_NAME"
+msgid "Select country/region to call"
+msgstr "Одабери државу/регион за позив"
+
+msgctxt "sACC_CALL_PHONES_ENTER_PHONE_NUMBER_EDIT_NAME"
+msgid "Enter phone number"
+msgstr "Унесите број телефона"
+
+msgctxt "sACC_CALL_PHONES_CLEAR_BUTTON"
+msgid "Clear phone number"
+msgstr "Обриши број телефона"
+
+msgctxt "sACC_CALL_PHONES_SEND_SMS_BUTTON"
+msgid "Write SMS"
+msgstr "Пиши СМС"
+
+msgctxt "sACC_CALL_PHONES_QUALITY_BUTTON"
+msgid "Check connection settings"
+msgstr "Провери поставке везе"
+
+msgctxt "sACC_CALL_PHONES_REQUEST_CREDIT_NAME"
+msgid "You have %s Skype Credit, Buy more credit"
+msgstr "Имате %s Skype кредита, купите још кредита"
+
+msgctxt "sACC_CALL_PHONES_REQEUST_SUBSCRIPTION_NAME"
+msgid "You have %d subscriptions. Get a subscription"
+msgstr "Имате %d претплата. Додајте претплату"
+
+msgctxt "sACC_CALL_PHONES_RECENT_CALLS_POPUP_NAME"
+msgid "Recent calls"
+msgstr "Недавни позиви"
+
+msgctxt "sACC_NAME_HISTORY_LIST"
+msgid "History"
+msgstr "Историја"
+
+msgctxt "sACC_NAME_ALREADY_CONTACT"
+msgid "Already a contact"
+msgstr "Већ је контакт"
+
+msgctxt "sACC_NAME_SEND_CONTACT_REQUEST_TEXT"
+msgid "Introductory message"
+msgstr "Уводна порука"
+
+msgctxt "sACC_MYSELF_PROFILE_TIMEZONE_COMBO_NAME"
+msgid "Timezone"
+msgstr "Временска зона"
+
+msgctxt "sACC_MYSELF_PROFILE_COUNTRY_COMBO_NAME"
+msgid "Country/Region"
+msgstr "Држава/Регион"
+
+msgctxt "sACC_MYSELF_PROFILE_GENDER_COMBO_NAME"
+msgid "Gender"
+msgstr "Пол"
+
+msgctxt "sACC_MYSELF_PROFILE_LANGUAGE_COMBO_NAME"
+msgid "Language"
+msgstr "Језик"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_DAY_COMBO_NAME"
+msgid "Day"
+msgstr "Дан"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_MONTH_COMBO_NAME"
+msgid "Month"
+msgstr "Месец"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_YEAR_COMBO_NAME"
+msgid "Year"
+msgstr "Година"
+
+msgctxt "sACC_NAME_CHAT_ENTRY"
+msgid "Type a message here"
+msgstr "Унесите поруку овде"
+
+msgctxt "sACC_NAME_CHAT_MESSAGE"
+msgid "From %0:s, %1:s, sent on %2:s"
+msgstr "Од %0:s, %1:s, послато на %2:s"
+
+msgctxt "sCALLPHONES_PAYG_LNK"
+msgid "Buy Skype Credit"
+msgstr "Купите Skype кредит"
+
+msgctxt "sCALLPHONES_PAYG_MORE_LNK"
+msgid "Buy more credit"
+msgstr "Купите више кредита"
+
+msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
+msgid "Get another subscription"
+msgstr "Набавите још претплате"
+
+msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
+msgid "View your subscription(s)"
+msgstr "Преглед ваше претплате(а)"
+
+msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
+msgid "Renew"
+msgstr "Обнови"
+
+msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
+msgid "Get a subscription"
+msgstr "Набавите претплату"
+
+msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
+msgid "Request more credit"
+msgstr "Захтевајте више кредита"
+
+msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
+msgid "Request a subscription"
+msgstr "Захтев за претплатом"
+
+msgctxt "sSMS_NO_CREDIT"
+msgid ""
+"You need Skype Credit to send text messages (SMS). %0:sBuy Skype Credit "
+"now%1:s"
+msgstr "Потребан вам је Skype кредит за слање текстуалних порука (SMS). %0:sКупите Skype кредит сада%1:s"
+
+msgctxt "sACC_CALL_EDIT_HOME_NUMBER_BUTTON"
+msgid "Edit home number"
+msgstr "Уреди број кућног телефона"
+
+msgctxt "sACC_CALL_EDIT_OFFICE_NUMBER_BUTTON"
+msgid "Edit office number"
+msgstr "Уреди број телефона на послу"
+
+msgctxt "sACC_CALL_EDIT_MOBILE_NUMBER_BUTTON"
+msgid "Edit mobile number"
+msgstr "Уреди мобилни број"
+
+msgctxt "sACC_CALL_EDIT_OTHER_NUMBER_BUTTON"
+msgid "Edit other number"
+msgstr "Уреди остале бројеве"
+
+msgctxt "sACC_CALL_PHONES_AUTO_COMPLETE_POPUP_NAME"
+msgid "Suggested numbers"
+msgstr "Предложени бројеви"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_VOICE_MESSAGE"
+msgid "Incoming voice message"
+msgstr "Долазна говорна порука"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_VOICE_MESSAGE"
+msgid "Outgoing voice message"
+msgstr "Одлазна говорна порука"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_FILE"
+msgid "Incoming file"
+msgstr "Долазни фајл"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_FILE"
+msgid "Outgoing file"
+msgstr "Одлазни фајл"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_SMS_MESSAGE"
+msgid "Incoming sms"
+msgstr "Долазни СМС"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_SMS_MESSAGE"
+msgid "Outgoing sms"
+msgstr "Одлазни СМС"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_CHAT_MESSAGE"
+msgid "Incoming chat message"
+msgstr "Долазна говорна порука"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_CHAT_MESSAGE"
+msgid "Outgoing chat message"
+msgstr "Одлазна говорна порука"
+
+msgctxt "sACC_NAME_LIVE_LIST"
+msgid "Active calls"
+msgstr "Активни позиви"
+
+msgctxt "sACC_NAME_LIVE_ITEM_VIDM_REC_INDICATOR"
+msgid "Recording video message"
+msgstr "Снимање видео поруке"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_RINGING"
+msgid "Incoming call"
+msgstr "Долазни позив"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_CALL"
+msgid "Active call"
+msgstr "Активан позив"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_ENDED"
+msgid "Call ended"
+msgstr "Позив завршен"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_ON_HOLD"
+msgid "Call on hold"
+msgstr "Позив на чекању"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_MUTED"
+msgid "Call muted"
+msgstr "Позив је искључен"
+
+msgctxt "sACC_NAME_CONVERSATION_ITEM_HAS_EVENTS"
+msgid "Unread messages"
+msgstr "Непрочитане поруке"
+
+msgctxt "sACC_NAME_INBOX_ITEM_MISSED_CALL_EVENT"
+msgid "Missed call"
+msgstr "Пропуштен позив"
+
+msgctxt "sACC_NAME_INBOX_ITEM_BIRTHDAY_EVENT"
+msgid "Birthday"
+msgstr "Рођендан"
+
+msgctxt "sACC_NAME_CONVERSATIONS_CONTROL_TABS"
+msgid "Contacts and recents"
+msgstr "Контакти и скорашње"
+
+msgctxt "sACC_NAME_SMS_ENTRY"
+msgid "Write an SMS to %s"
+msgstr "Пиши SMS за %s"
+
+msgctxt "sHOTKEY_REJECT"
+msgid "Decline incoming call"
+msgstr "Одбијен долазни позив"
+
+msgctxt "sF_OPTIONS_PLAY_CUSTOM_ACCNAME"
+msgid "Play my voice message greeting, duration: %d seconds"
+msgstr "Репродукција моје поздравне поруке, трајање: %d секунди"
+
+msgctxt "sF_OPTIONS_PLAY_DEFAULT_ACCNAME"
+msgid "Play default voice message greeting, duration: %d seconds"
+msgstr "Репродукција подразумеване поздравне поруке, трајање: %d секунди"
+
+msgctxt "sF_OPTIONS_RECORD_ACCNAME"
+msgid "Record new voice message"
+msgstr "Снимање нове говорне поруке"
+
+msgctxt "sF_OPTIONS_DELETE_ACCNAME"
+msgid "Reset to default voice message greeting"
+msgstr "Поново постави на подразумевану поздравну поруку говорне поште"
+
+msgctxt "sACC_OPTIONS_VOICEMAIL_SETTINGS"
+msgid "Voice message settings"
+msgstr "Подешавање говорне поруке"
+
+msgctxt "sACC_OPTIONS_CALL_FORWARDING_SETTINGS"
+msgid "Call forwarding settings"
+msgstr "Опције прослеђивања позива"
+
+msgctxt "sACC_OPTIONS_SMS_SETTINGS"
+msgid "SMS settings"
+msgstr "СМС поставке"
+
+msgctxt "sACC_OPTIONS_CALL_FORWARDING_ENTER_PHONE_COMBO_NAME"
+msgid "Enter phone number"
+msgstr "Унесите број телефона"
+
+msgctxt "sACC_NAME_LIVE_SELECT_CONTACTS_LABELED_EDIT"
+msgid "Select people to add to this call"
+msgstr "Одабери особе за додавање у овај позив"
+
+msgctxt "sNOTIFY_API_DEPRECATION_MESSAGE"
+msgid ""
+"It appears you're using %0:s with Skype.  To see how 3rd party applications "
+"work with Skype, please see our <a href=\"%1:s\">FAQs</a>."
+msgstr ""
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SMS"
+msgid "Chat via SMS, switch message type"
+msgstr "Разговор преко СМС, пребаци тип поруке"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SKYPE"
+msgid "Chat via Skype, switch message type"
+msgstr "Разговор преко Skype, пребаци тип поруке"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_FACEBOOK"
+msgid "Chat via Facebook, switch message type"
+msgstr "Разговор преко Facebook, пребаци тип поруке"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_PASSPORT"
+msgid "Chat via Messenger, switch message type"
+msgstr "Разговор преко Messenger, пребаци тип поруке"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
+msgid "Chat via Lync, switch message type"
+msgstr "Разговор преко Lync, пребаци тип поруке"
+
+msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
+msgid ""
+"Note: Call forwarding is active. Calls will be sent first to the phone "
+"number(s) set. If there is no answer, calls will be recorded as a voice "
+"message."
+msgstr ""
+
+msgctxt "sF_VOICEMAIL_OPTIONS_INFO_NO_CALL_FORWARDING"
+msgid ""
+"Note: If call forwarding is on, calls will be sent first to the phone "
+"number(s) you entered. If there is no answer, calls will be recorded as a "
+"voice message."
+msgstr ""
+
+msgctxt "sACC_ACTION_EXPAND"
+msgid "Expand"
+msgstr "Прошири"
+
+msgctxt "sACC_ACTION_COLLAPSE"
+msgid "Collapse"
+msgstr "Скупи"
+
+msgctxt "sACC_ACTION_BUTTON_CLICK"
+msgid "Click"
+msgstr "Клик"
+
+msgctxt "sACC_ACTION_LINK_CLICK"
+msgid "Click"
+msgstr "Клик"
+
+msgctxt "sACC_ACTION_CHECK"
+msgid "Check"
+msgstr "Провери"
+
+msgctxt "sACC_NAME_STATUS_UNKNOWN2"
+msgid "This person isn't in your Contact list."
+msgstr "Ова особа није у вашој листи контаката."
+
+msgctxt "sACC_NAME_STATUS_PENDING"
+msgid "This person has not shared their details with you."
+msgstr "Ова особа не дели своје детаље са вама."
+
+msgctxt "sACC_NAME_STATUS_BLOCKED"
+msgid "Blocked"
+msgstr "Блокиран"
+
+msgctxt "sACC_NAME_STATUS_PSTN"
+msgid "Phone number"
+msgstr "Број телефона"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE"
+msgid "Offline"
+msgstr "Ван мреже"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_VM"
+msgid "Offline with voice messaging"
+msgstr "Ван мреже са говорним порукама"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_CF"
+msgid "Offline with call forwarding"
+msgstr "Ван мреже са прослеђивањем позива"
+
+msgctxt "sACC_NAME_STATUS_ONLINE"
+msgid "Online"
+msgstr "На мрежи"
+
+msgctxt "sACC_NAME_STATUS_AWAY"
+msgid "Away"
+msgstr "Нисам ту"
+
+msgctxt "sACC_NAME_STATUS_DND"
+msgid "Do Not Disturb"
+msgstr "Не узнемиравај"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_MOBILE"
+msgid "Online on a mobile device"
+msgstr "На мрежи (на мобилном уређају)"
+
+msgctxt "sACC_NAME_STATUS_AWAY_MOBILE"
+msgid "Away on a mobile device"
+msgstr "Нисам ту на мобилном уређају"
+
+msgctxt "sACC_NAME_STATUS_DND_MOBILE"
+msgid "Do Not Disturb status on a mobile device"
+msgstr "Не узнемиравај на мобилном уређају"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_FLAMINGO"
+msgid "Facebook contact Blocked"
+msgstr "Facebook контакти су блокирани"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_FLAMINGO"
+msgid "Facebook contact Offline"
+msgstr "Facebook контакти су ван мреже"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_FLAMINGO"
+msgid "Facebook contact Online"
+msgstr "Facebook контакти су на мрежи"
+
+msgctxt "sACC_NAME_STATUS_AWAY_FLAMINGO"
+msgid "Facebook contact Away"
+msgstr "Facebook контакти су одсутни"
+
+msgctxt "sACC_NAME_STATUS_DND_FLAMINGO"
+msgid "Facebook contact on Do Not Disturb"
+msgstr "Facebook контакти су на Не узнемиравај"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_PASSPORT"
+msgid "Messenger contact Blocked"
+msgstr "Messenger контакти су блокирани"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_PASSPORT"
+msgid "Messenger contact Offline"
+msgstr "Messenger контакти су ван мреже"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_PASSPORT"
+msgid "Messenger contact Online"
+msgstr "Messenger контакти су на мрежи"
+
+msgctxt "sACC_NAME_STATUS_AWAY_PASSPORT"
+msgid "Messenger contact Away"
+msgstr "Messenger контакти су одсутни"
+
+msgctxt "sACC_NAME_STATUS_DND_PASSPORT"
+msgid "Messenger contact on Do Not Disturb"
+msgstr "Messenger контакти су на Не узнемиравај"
+
+msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
+msgid "This person has not shared their details with you. Lync"
+msgstr "Ова особа не дели своје детаље са Lync"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
+msgid "Lync contact Blocked"
+msgstr "Lync контакти су блокирани"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
+msgid "Lync contact Offline"
+msgstr "Lync контакти су ван мреже"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
+msgid "Lync contact Online"
+msgstr "Lync контакти су на мрежи"
+
+msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
+msgid "Lync contact Away"
+msgstr "Lync контакти су одсутни"
+
+msgctxt "sACC_NAME_STATUS_DND_LYNC"
+msgid "Lync contact on Do Not Disturb"
+msgstr "Lync контакти су на Не узнемиравај"
+
+msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
+msgid "Use Skype to call tel: links on the web"
+msgstr "Користите Skype за телефонске позиве: везе на вебу"
+
+msgctxt "sCALL_POPUP_CALL_FLAMINGO"
+msgid "Call Facebook"
+msgstr "Позови Facebook"
+
+msgctxt "sCALL_POPUP_CALL_LYNC"
+msgid "Call Lync"
+msgstr "Позови Lync"
+
+msgctxt "sCALL_POPUP_CALL_SKYPE"
+msgid "Call Skype"
+msgstr "Позови Skype"
+
+msgctxt "sCALL_POPUP_CALL_HOME"
+msgid "Call home%0:s (%1:s)"
+msgstr "Позив кући%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE"
+msgid "Call office%0:s (%1:s)"
+msgstr "Позив на посао%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE"
+msgid "Call mobile%0:s (%1:s)"
+msgstr "Позив на мобилни%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER"
+msgid "Call other%0:s (%1:s)"
+msgstr "Позив за остало%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE"
+msgid "Call phone %0:s (%1:s)"
+msgstr "Позив за фиксни телефон %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME"
+msgid "SMS home %0:s (%1:s)"
+msgstr "SMS кући %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE"
+msgid "SMS office %0:s (%1:s)"
+msgstr "SMS на посао %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE"
+msgid "SMS mobile %0:s (%1:s)"
+msgstr "SMS на мобилни %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER"
+msgid "SMS other %0:s (%1:s)"
+msgstr "SMS за остало %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE"
+msgid "SMS phone %0:s (%1:s)"
+msgstr "SMS за телефон %0:s (%1:s)"
+
+msgctxt "sACC_NAME_CHAT_PARTICIPANT_LIST"
+msgid "Participant List"
+msgstr "Листа учесника"
+
+msgctxt "sACC_NAME_CHAT_CONTENT_LIST"
+msgid "Chat Content List"
+msgstr "Садржај листе за ћаскање"
+
+msgctxt "sACC_NAME_FILE_MESSAGE"
+msgid "From %0:s, file transfer: %1:s, on %2:s"
+msgstr "Од %0:s, фајл трансфер: %1:s, на %2:s"
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE"
+msgid "From %0:s, video message, sent on %1:s"
+msgstr "Од %0:s, видео порука, послата на %1:s"
+
+msgctxt "sACC_NAME_SMS_MESSAGE"
+msgid "From %0:s, SMS message: %1:s, sent on %2:s"
+msgstr "Од %0:s, SMS порука: %1:s, послата на %2:s"
+
+msgctxt "sACC_NAME_SMS_MESSAGE2"
+msgid "From %0:s, SMS message: %1:s, %2:s, on %3:s"
+msgstr "од %0:s, SMS порука: %1:s, %2:s, на %3:s"
+
+msgctxt "sF_OPTIONS_PAGE_ACCESSIBILITY"
+msgid "Accessibility"
+msgstr "Приступачност"
+
+msgctxt "sF_OPTIONS_LBC_ACCESSIBILITY"
+msgid "<b>Accessibility:</b> Make Skype more accessible for you"
+msgstr "<b>Приступачност:</b> Направи Skype више приступачан"
+
+msgctxt "sF_ACC_SETTINGS"
+msgid "Enable accessible mode"
+msgstr "Омогући режим приступачности"
+
+msgctxt "sACC_NAME_PIN_ICON"
+msgid "Add %s to favorites"
+msgstr "Додај %s у омиљено"
+
+msgctxt "sACC_NAME_UNPIN_ICON"
+msgid "Remove %s from favorites"
+msgstr "Уклони %s из омиљеног"
+
+msgctxt "sF_ACC_NAME_CHOOSE_CONTACTS_LIST"
+msgid "Choose contacts"
+msgstr "Изаберите контакте"
+
+msgctxt "sF_ACC_NAME_SELECTED_CONTACTS_LIST"
+msgid "Selected contacts"
+msgstr "Изабрани контакти"
+
+msgctxt "sF_ACC_ENTER_PHONE"
+msgid "Enter phone"
+msgstr "Унесите број телефона"
+
+msgctxt "sF_ACC_SMS_CONFIRM_SEND"
+msgid "Confirm sending"
+msgstr "Потврди слање"
+
+msgctxt "sACC_CHAT_HISTORY_MESSAGE_CUSTOM"
+msgid "Messages from %s. Press tab to change history period."
+msgstr "Поруке од %s. Притисни таб за промену периода историје."
+
+msgctxt "sACC_CHAT_HISTORY_YESTERDAY"
+msgid "Messages from yesterday. Press tab to change history period."
+msgstr "Поруке од јуче. Притисни таб за промену периода историје."
+
+msgctxt "sACC_CHAT_HISTORY_7DAYS"
+msgid "Messages for the last 7 days. Press tab to change history period."
+msgstr "Поруке од последњих 7 дана. Притисни таб за промену периода историје."
+
+msgctxt "sACC_CHAT_HISTORY_30DAYS"
+msgid "Messages for the last 30 days. Press tab to change history period."
+msgstr "Поруке од последњих 30 дана. Притисни таб за промену периода историје."
+
+msgctxt "sACC_CHAT_HISTORY_3M"
+msgid "Messages for the last 3 months. Press tab to change history period."
+msgstr "Поруке од последњих 3 месеца. Притисни таб за промену периода историје."
+
+msgctxt "sACC_CHAT_HISTORY_6M"
+msgid "Messages for the last 6 months. Press tab to change history period."
+msgstr "Поруке од последњих 6 месеци. Притисни таб за промену периода историје."
+
+msgctxt "sACC_CHAT_HISTORY_12M"
+msgid "Messages for the last year. Press tab to change history period."
+msgstr "Поруке од последње године. Притисни таб за промену периода историје."
+
+msgctxt "sACC_CHAT_HISTORY_BEGINNING"
+msgid "Messages from the beginning. Press tab to change history period."
+msgstr "Поруке од почетка. Притисни таб за промену периода историје."
+
+msgctxt "sACC_SHOW_CONTACT_PROFILE_HEADER"
+msgid "Chatting with %s, press enter to show contact profile"
+msgstr "Ћаскање са %s, притисни ентер за приказ контактовог профила"
+
+msgctxt "sACC_HIDE_CONTACT_PROFILE_HEADER"
+msgid "Chatting with %s, press enter to hide contact profile"
+msgstr "Ћаскање са %s, притисни ентер за сакривање контактовог профила"
+
+msgctxt "sACC_GSW_SELECT_SPEAKER"
+msgid "Select speaker"
+msgstr "Одабери звучник"
+
+msgctxt "sACC_GSW_SELECT_MIC"
+msgid "Select microphone"
+msgstr "Одабери микрофон"
+
+msgctxt "sACC_GSW_PROFILE_PICTURE"
+msgid "Profile picture"
+msgstr "Слика профила"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P"
+msgid ""
+"has updated this group with a better chat experience. To join and keep "
+"chatting get the latest download. Go to skype.com/updateme. %0:sLearn more "
+"about new group chat%1:s."
+msgstr ""
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_DOGFOOD"
+msgid ""
+"has a new version of Skype with a better chat experience. To join and keep "
+"chatting get the latest download. Go to %0:s"
+msgstr ""
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_INPUT"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%0:s\">Go to the new chat</a>."
+msgstr ""
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%1\">Go to the new chat</a>."
+msgstr ""
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHATEX"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%0:s\">Go to the new chat</a>."
+msgstr ""
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
+msgid "Show messages from <a href=\"skype:?chat&id=%1\">older chat</a>."
+msgstr ""
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASEDEX"
+msgid "Show messages from <a href=\"skype:?chat&id=%0:s\">older chat</a>."
+msgstr ""
+
+msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
+msgid ""
+"This chat has been updated to a new version. Press tab to go to the new "
+"chat."
+msgstr ""
+
+msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
+msgid ""
+"This chat has been updated to a new version. Press tab to show messages from"
+" older chat."
+msgstr ""
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_SINGLE"
+msgid ""
+"%0:s needs to update Skype to participate in this chat. Help by sending them"
+" to skype.com/updateme. %1:sLearn more about new group chat%2:s."
+msgstr ""
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_SINGLE_DOGFOOD"
+msgid ""
+"%0:s needs to update Skype to participate in this chat. Help by sending them"
+" to %1:s"
+msgstr ""
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_PLURAL"
+msgid ""
+"%0:s need to update Skype to participate in this chat. Help by sending them "
+"to skype.com/updateme. %1:sLearn more about new group chat%2:s."
+msgstr ""
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_PLURAL_DOGFOOD"
+msgid ""
+"%0:s need to update Skype to participate in this chat. Help by sending them "
+"to %1:s"
+msgstr ""
+
+msgctxt "sCHAT_LEGACY_MEMBER_UPGRADED"
+msgid "%0:s can now participate in this chat."
+msgstr "%0:s сада могу да учествују у овом ћаскању."
+
+msgctxt "sACC_GSW_SPEAKER_HELP_BUTTON"
+msgid "Speakers help button"
+msgstr "Дугме помоћи за звучник"
+
+msgctxt "sACC_GSW_MIC_HELP_BUTTON"
+msgid "Microphone help button"
+msgstr "Дугме помоћи за микрофон"
+
+msgctxt "sACC_GSW_SELECT_WEBCAM"
+msgid "Select web camera"
+msgstr "Изаберите веб камеру:"
+
+msgctxt "sVP8LEGACY_CLIENT_GVC_CAPABLE"
+msgid ""
+"%s needs to get the latest version of Skype at skype.com/updateme to "
+"experience group video and sharing."
+msgstr "%s потребно је да набавите последњи Skype на  skype.com/updateme да би користили групни видео и дељење."
+
+msgctxt "sVP8LEGACY_CLIENT_GVC_NOT_CAPABLE"
+msgid ""
+"%s can't experience group video calling because their device doesn't support"
+" it."
+msgstr ""
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_DESC"
+msgid ""
+"are using versions of Skype that don't support group video and "
+"sharing.<br/>Would you like to send a link to update?"
+msgstr ""
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_DESC_SINGLE"
+msgid ""
+"is using a version of Skype that doesn't support group video and "
+"sharing.<br/>Would you like to send a link to update?"
+msgstr ""
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_SEND"
+msgid "Send"
+msgstr "Пошаљи"
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_CANCEL"
+msgid "Not now"
+msgstr "Не сада"
+
+msgctxt "sVP8LEGACY_UPGRADE_MESSAGE"
+msgid ""
+"You need to update Skype to participate in this group video call. Get the "
+"latest version at skype.com/updateme."
+msgstr ""
+
+msgctxt "sLIVE_TOGGLE_ORIGINAL_VIDEO_SIZE"
+msgid "Show Full Size Video"
+msgstr "Прикажи видео на пуном екрану"
+
+msgctxt "sVP8LEGACY_UPGRADE_LEGACY_HOST"
+msgid ""
+"In order to receive video from everyone in this call, %s and other "
+"participants may need to update Skype or use a supported device. <a "
+"href=\"%s\">Find out more</a>"
+msgstr ""
+
+msgctxt "sCONFIRM_FILE_TRANSFER_OK"
+msgid "Ok"
+msgstr "У реду"
+
+msgctxt "sCONFIRM_FILE_TRANSFER_CANCEL"
+msgid "Close"
+msgstr "Затвори"
+
+msgctxt "sF_OPTIONS_CALLFORWARDING_ONE_INFO"
+msgid ""
+"You'll need <a href=\"%0:s\">Skype Credit</a> or a subscription to forward "
+"calls.<br/><br/>Calls forwarded to a phone number will be charged at <a "
+"href=\"%1:s\">our rates</a> for calling phones and mobiles or may be "
+"included as part of your subscription."
+msgstr ""
+
+msgctxt "sF_OPTIONS_CALLFORWARDING_ALL_INFO"
+msgid ""
+"You'll need <a href=\"%0:s\">Skype Credit</a> or a subscription to forward "
+"calls.<br/><br/>Calls will be forwarded to all phone numbers at the same "
+"time.<br/>Calls forwarded to a phone number will be charged at <a "
+"href=\"%1:s\">our rates</a> for calling phones and mobiles or may be "
+"included as part of your subscription."
+msgstr ""
+
+msgctxt "sCALL_POPUP_CALL_HOME_FIRST"
+msgid "Call home (%0:s)"
+msgstr "Позив кући (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE_FIRST"
+msgid "Call office (%0:s)"
+msgstr "Позив на посао (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE_FIRST"
+msgid "Call mobile (%0:s)"
+msgstr "Позив на мобилни (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER_FIRST"
+msgid "Call other (%0:s)"
+msgstr "Позив за остало (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE_FIRST"
+msgid "Call phone (%0:s)"
+msgstr "Позив на телефон (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_HOME_SUBSEQUENT"
+msgid "Call home %0:s (%1:s)"
+msgstr "Позив кући %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE_SUBSEQUENT"
+msgid "Call office %0:s (%1:s)"
+msgstr "Позив на посао %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE_SUBSEQUENT"
+msgid "Call mobile %0:s (%1:s)"
+msgstr "Позив на мобилни %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER_SUBSEQUENT"
+msgid "Call other %0:s (%1:s)"
+msgstr "Позив за остало %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE_SUBSEQUENT"
+msgid "Call phone %0:s (%1:s)"
+msgstr "Позив на телефон %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME_FIRST"
+msgid "SMS home (%0:s)"
+msgstr "SMS кући (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE_FIRST"
+msgid "SMS office (%0:s)"
+msgstr "SMS на посао (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE_FIRST"
+msgid "SMS mobile (%0:s)"
+msgstr "SMS на мобилни (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER_FIRST"
+msgid "SMS other (%0:s)"
+msgstr "SMS за остале (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE_FIRST"
+msgid "SMS phone (%0:s)"
+msgstr "SMS за телефон (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME_SUBSEQUENT"
+msgid "SMS home %0:s (%1:s)"
+msgstr "SMS кући %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE_SUBSEQUENT"
+msgid "SMS office %0:s (%1:s)"
+msgstr "SMS за посао %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE_SUBSEQUENT"
+msgid "SMS mobile %0:s (%1:s)"
+msgstr "SMS за мобилни %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER_SUBSEQUENT"
+msgid "SMS other %0:s (%1:s)"
+msgstr "SMS за остало %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE_SUBSEQUENT"
+msgid "SMS phone %0:s (%1:s)"
+msgstr "SMS за телефон %0:s (%1:s)"
+
+msgctxt "sPROFILE_FACEBOOK_PRESENCE"
+msgid "Facebook > %s"
+msgstr "Facebook > %s"
+
+msgctxt "sPROFILE_MESSENGER_PRESENCE"
+msgid "Messenger > %s"
+msgstr "Messenger > %s"
+
+msgctxt "sPROFILE_LYNC_PRESENCE"
+msgid "Lync > %s"
+msgstr "Lync > %s"
+
+msgctxt "sCHAT_PROFILE_ONE_PERSON"
+msgid "%d person"
+msgstr "%d особа"
+
+msgctxt "sCHAT_PROFILE_MANY_PERSONS"
+msgid "%d people"
+msgstr "%d особа"
+
+msgctxt "sCHAT_PROFILE_ZERO_PERSONS"
+msgid "0 people"
+msgstr "0 особа"
+
+msgctxt "sCHAT_PROFILE_AVATAR_ACC_NAME"
+msgid "Conversation with %s, view profile"
+msgstr ""
+
+msgctxt "sCHAT_HISTORY_P2P_CHAT"
+msgid "older chat"
+msgstr "старије ћаскање"
+
+msgctxt "sPARTICIPANT_CONTEXT_MENU_SEND"
+msgid "Send"
+msgstr "Пошаљи"
+
+msgctxt "sPARTICIPANT_CONTEXT_MENU_SETNUMBER"
+msgid "Group call to..."
+msgstr "Конференцијски позив за..."
+
+msgctxt "sMAIN_MENU_DOGFOOD_FEEDBACK"
+msgid "Dogfood feedback"
+msgstr ""
+
+msgctxt "sPLUS_MENU_SEND_SMS"
+msgid "Send SMS..."
+msgstr "Пошаљи СМС"
+
+msgctxt "sCHANNEL_SWITCHER_VIA_SMS_MULTIPLE"
+msgid "Send SMS to %s"
+msgstr "пошаљи SMS за %s"
+
+msgctxt "sFLOW_AUTH_REQUEST_HEADER"
+msgid "<b>%s</b> would like to add you on Skype"
+msgstr ""
+
+msgctxt "sCHAT_HISTORY_JUMPBACK"
+msgid "Jump Back"
+msgstr ""
+
+msgctxt "sMSNP24_MERGE_MESSAGE"
+msgid "From now on your chats will sync on all your devices."
+msgstr ""
+
+msgctxt "sCHAT_TYPING_ONE"
+msgid "%s is typing..."
+msgstr ""
+
+msgctxt "sCHAT_TYPING_TWO"
+msgid "%s and %s are typing..."
+msgstr ""
+
+msgctxt "sCHAT_TYPING_MANY"
+msgid "%s, %s and others are typing..."
+msgstr ""
+
+msgctxt "sRMC_NONE"
+msgid "How was the quality of this call?"
+msgstr "Какав је био квалитет овог позива?"
+
+msgctxt "sRMC_ONE_STAR"
+msgid "Really poor. <a href=\"%s\">Tell us more.</a>"
+msgstr ""
+
+msgctxt "sRMC_TWO_STARS"
+msgid "Poor. <a href=\"%s\">Help us to fix it.</a>"
+msgstr ""
+
+msgctxt "sRMC_THREE_STARS"
+msgid "Fair. <a href=\"%s\">Help us to fix it.</a>"
+msgstr ""
+
+msgctxt "sRMC_FOUR_STARS"
+msgid "Good. <a href=\"%s\">Help us to fix it.</a>"
+msgstr "Добар. <a href=\"%s\">Помозите нам да то поправимо.</a>"
+
+msgctxt "sRMC_FIVE_STARS"
+msgid "Excellent."
+msgstr "Одличан."
+
+msgctxt "sTHANKS_FOR_YOUR_FEEDBACK"
+msgid "Many thanks. You've just made some engineers at Skype very happy..."
+msgstr ""
+
+msgctxt "sINBOX_PENDING_CONTACT_REQUESTS"
+msgid "Pending contact requests"
+msgstr ""
+
+msgctxt "stalktothehand_SMILEY"
+msgid "Talk to the hand"
+msgstr ""
+
+msgctxt "sidea_SMILEY"
+msgid "Idea"
+msgstr ""
+
+msgctxt "ssheep_SMILEY"
+msgid "Sheep"
+msgstr ""
+
+msgctxt "scat_SMILEY"
+msgid "Cat"
+msgstr "Мачка"
+
+msgctxt "sbike_SMILEY"
+msgid "Bicycle"
+msgstr "Бицикл"
+
+msgctxt "sdog_SMILEY"
+msgid "Dog"
+msgstr "Пас"
+
+msgctxt "scaptain_SMILEY"
+msgid "Captain America"
+msgstr ""
+
+msgctxt "sbucky_SMILEY"
+msgid "Bucky"
+msgstr ""
+
+msgctxt "sblackwidow_SMILEY"
+msgid "Black Widow"
+msgstr "Црни прозор"
+
+msgctxt "snickfury_SMILEY"
+msgid "Nick Fury"
+msgstr ""
+
+msgctxt "sshielddeflect_SMILEY"
+msgid "Shield"
+msgstr "Штит"
+
+msgctxt "sCALLNOTIF_TITLE_V2"
+msgid "%s calling..."
+msgstr ""
+
+msgctxt "sSCREENSHARE_OPTION_DESKTOP"
+msgid "Share your screen"
+msgstr "Дели екран"
+
+msgctxt "sSCREENSHARE_OPTION_WINDOW"
+msgid "Share a window"
+msgstr "Дели прозор"
+
+msgctxt "sLIVE_CONVERSATION_HEADER_PARTICIPANTS"
+msgid "%d participants"
+msgstr "%d учесника"
+
+msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
+msgid "Show images in conversations"
+msgstr "Прикажи слике у разговорима"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
+msgid "Sent"
+msgstr "Послато"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2_ASYNC"
+msgid "Transfer failed"
+msgstr "Несуспео пренос фајлова"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_SENDING_2_ASYNC"
+msgid "Sending failed"
+msgstr "Слање није успело"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_ASYNC"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_FOR_ACCEPT"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "sFILETRANSFER_PROGRESS_ASYNC"
+msgid "%s of %s..."
+msgstr "%s од %s..."
+
+msgctxt "sFILETRANSFER_PROGRESS_ASYNC_GROUP"
+msgid "%s of %s"
+msgstr "%s од %s"
+
+msgctxt "sFILETRANSFER_FILE_MOVED"
+msgid "File moved"
+msgstr ""
+
+msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
+msgid "Show in folder"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTO_ACCEPT"
+msgid "Automatically accept incoming files"
+msgstr "Аутоматски прихвати долазне фајлове"
+
+msgctxt "sFILETRANSFER_INLINE_IMAGES"
+msgid "Show images in conversations"
+msgstr "Прикажи слике у разговорима"
+
+msgctxt "sFILETRANSFER_PHOTO_COUNT_SINGLE"
+msgid "photo"
+msgstr "слика"
+
+msgctxt "sFILETRANSFER_PHOTO_COUNT_MANY"
+msgid "photos"
+msgstr "слике"
+
+msgctxt "sFILETRANSFER_FILE_COUNT_SINGLE"
+msgid "file"
+msgstr "фајл"
+
+msgctxt "sFILETRANSFER_FILE_COUNT_MANY"
+msgid "files"
+msgstr "фајлови"
+
+msgctxt "sFILETRANSFER_FILES_SENT"
+msgid "Files sent"
+msgstr "фајлови послати"
+
+msgctxt "sFILETRANSFER_FILES_RECEIVED"
+msgid "Files received"
+msgstr "Фајлови примљени"
+
+msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
+msgid "Download all"
+msgstr ""
+
+msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
+msgid "Cancel all"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
+msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_MANY"
+msgid "(sent to <a href=\"{%link%}\">{%n%} people</a>)"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_EVERYONE"
+msgid "(sent to <a href=\"{%link%}\">everyone</a>)"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENT_TO_ONE"
+msgid "Sent to <a href=\"{%link%}\">{%n%} person</a>"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENT_TO_MANY"
+msgid "Sent to <a href=\"{%link%}\">{%n%} people</a>"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENT_TO_EVERYONE"
+msgid "Sent to <a href=\"{%link%}\">everyone</a>"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_ONE"
+msgid "(sending to <a href=\"{%link%}\">{%n%} person</a>)"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_MANY"
+msgid "(sending to <a href=\"{%link%}\">{%n%} people</a>)"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_EVERYONE"
+msgid "(sending to <a href=\"{%link%}\">everyone</a>)"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENDING_TO_ONE"
+msgid "to <a href=\"{%link%}\">{%n%} person</a>..."
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENDING_TO_MANY"
+msgid "to <a href=\"{%link%}\">{%n%} people</a>..."
+msgstr ""
+
+msgctxt "sFILETRANSFER_SENDING_TO_EVERYONE"
+msgid "to <a href=\"{%link%}\">everyone</a>..."
+msgstr ""
+
+msgctxt "sFILETRANSFER_SUMMARY_MORE_FILES"
+msgid "%d more file(s)"
+msgstr "%d више фајл(ова)"
+
+msgctxt "sFILESIZE_PREFIXES_ASYNC"
+msgid "\\K\\M\\G\\T"
+msgstr "\\K\\M\\G\\T"
+
+msgctxt "sFILESIZE_UNIT_ASYNC"
+msgid "B"
+msgstr ""
+
+msgctxt "sCONTACT_MSG_MULTIPLE_SENT"
+msgid "contacts sent"
+msgstr "послати контакти"
+
+msgctxt "sCONTACT_MSG_MULTIPLE_RECEIVED"
+msgid "contacts received"
+msgstr "примљени контакти"
+
+msgctxt "sCONTACT_MSG_CONTACT_SENT"
+msgid "Contact sent"
+msgstr "Послат контакт"
+
+msgctxt "sCONTACT_MSG_CONTACT_EXISTING"
+msgid "Already a contact"
+msgstr "Већ је контакт"
+
+msgctxt "sCONTACT_MSG_CONTACT_NEW"
+msgid "Add to contacts"
+msgstr "Додај у контакте"
+
+msgctxt "sF_USERPROFILE_SKYPE"
+msgid "Skype:"
+msgstr "Skype"
+
+msgctxt "sF_USERPROFILE_HOME_FIRST"
+msgid "Home:"
+msgstr "Кућа:"
+
+msgctxt "sF_USERPROFILE_OFFICE_FIRST"
+msgid "Office:"
+msgstr "Посао:"
+
+msgctxt "sF_USERPROFILE_MOBILE_FIRST"
+msgid "Mobile:"
+msgstr "Мобилни:"
+
+msgctxt "sF_USERPROFILE_OTHER_FIRST"
+msgid "Other:"
+msgstr "Остало:"
+
+msgctxt "sF_USERPROFILE_PHONE_FIRST"
+msgid "Phone:"
+msgstr "Телефон:"
+
+msgctxt "sF_USERPROFILE_HOME_SUBSEQUENT"
+msgid "Home %0:s:"
+msgstr "Кућа %0:s:"
+
+msgctxt "sF_USERPROFILE_OFFICE_SUBSEQUENT"
+msgid "Office %0:s:"
+msgstr "Канцеларија %0:s:"
+
+msgctxt "sF_USERPROFILE_MOBILE_SUBSEQUENT"
+msgid "Mobile %0:s:"
+msgstr "Мобилни %0:s:"
+
+msgctxt "sF_USERPROFILE_OTHER_SUBSEQUENT"
+msgid "Other %0:s:"
+msgstr "Остало %0:s:"
+
+msgctxt "sF_USERPROFILE_PHONE_SUBSEQUENT"
+msgid "Phone %0:s:"
+msgstr "Телефон %0:s:"
+
+msgctxt "sF_USERPROFILE_ADD_NUMBER"
+msgid "Add Number"
+msgstr "Додај број"
+
+msgctxt "sF_CHAT_INFO_PEOPLE"
+msgid "%0:s people"
+msgstr "%0:s особа"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS"
+msgid "Conversation notifications"
+msgstr "Обавештења о разговору"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS_NOTIFY"
+msgid "Notify me when something new happens"
+msgstr "Обавести ме када се нешто ново догоди"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS"
+msgid "Creator settings"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
+msgid "Make chat history available to new joiners"
+msgstr "Направи историју ћаскања доступну за нове учеснике"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOIN"
+msgid "Allow people to join this group"
+msgstr "Омогући људима да приступе овој групи"
+
+msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
+msgid "Administrator settings"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_COPY_LINK"
+msgid "Copy conversation link"
+msgstr "Копирај линк за разговор"
+
+msgctxt "sF_CHAT_INFO_LEAVE"
+msgid "Leave this conversation?"
+msgstr "Напуштате разговор?"
+
+msgctxt "sF_CHAT_INFO_LEAVE_ASK"
+msgid "Always ask"
+msgstr "Увек питај"
+
+msgctxt "sSIDEBAR_HOME_TOOLTIP"
+msgid "See updates from your contacts in Skype Home."
+msgstr ""
+
+msgctxt "sSIDEBAR_DIAL_TOOLTIP"
+msgid "Call mobiles and landlines from the dial pad."
+msgstr ""
+
+msgctxt "sSIDEBAR_CHAT_TOOLTIP"
+msgid "Start a new chat. Create a group, send instant messages and files."
+msgstr ""
+
+msgctxt "sSIDEBAR_RECENTS_TOOLTIP"
+msgid "See your recent messages."
+msgstr "Погледај недавне поруке"
+
+msgctxt "sSIDEBAR_FAVORITES_TOOLTIP"
+msgid "See your favorite contacts."
+msgstr "Погледа омиљене контакте."
+
+msgctxt "sSIDEBAR_CONTACTS_TOOLTIP"
+msgid "See your contacts."
+msgstr "Погледај контакте."
+
+msgctxt "sSIDEBAR_GROUP_TOOLTIP"
+msgid "Create a new group."
+msgstr "Направи нову групу."
+
+msgctxt "sADFORM_TITLE"
+msgid "Advertisement"
+msgstr "Рекламе"
+
+msgctxt "sSIDEBAR_AVATAR_TOOLTIP"
+msgid "See your profile"
+msgstr "Види профил"
+
+msgctxt "sSIDEBAR_AVATAR_STATUS_TOOLTIP"
+msgid "Change your status"
+msgstr "Промени статус"
+
+msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TITLE"
+msgid "File transfers will start automatically from now on."
+msgstr "Трансфер фајлова ће почети аутоматски од сада."
+
+msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TEXT"
+msgid ""
+"You can revert this change or choose a different destination folder in <a "
+"href=\"skype:?options#chatsettings:advanced\">settings</a>."
+msgstr ""
+
+msgctxt "sBUBBLE_POPOVER_OK"
+msgid "OK"
+msgstr "У реду"
+
+msgctxt "sCHAT_HISTORY_TODAY"
+msgid "Today"
+msgstr "Данас"
+
+msgctxt "sCHAT_HISTORY_MOST_RECENT"
+msgid "Most Recent"
+msgstr ""
+
+msgctxt "sMAINMENU_VIEW_FAVORITES"
+msgid "Favorites"
+msgstr "Омиљено"
+
+msgctxt "sCONTACT_GROUP_ALLCONTACTS"
+msgid "All Contacts"
+msgstr "Сви контакти"
+
+msgctxt "sCHAT_JUMPBACK_HEADER"
+msgid "Jump Back:"
+msgstr ""
+
+msgctxt "sSEARCH_WITH_BING"
+msgid "Search with Bing"
+msgstr "Претражи са Bing"
+
+msgctxt "sF_OPTIONS_CB_AUTO_CORRECT"
+msgid "Auto correct and highlight misspelled words"
+msgstr ""
+
+msgctxt "sF_OPTIONS_LB_AUTO_CORRECT"
+msgid "To enable the spell checker, %0:sgo to your PC settings%1:s"
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_AUDIO"
+msgid "Make this a group video call. It's free."
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_VIDEO"
+msgid "Add more people to your video call for free."
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_GROUP"
+msgid "Get more out of your conversation with a free group video call."
+msgstr ""
+
+msgctxt "sOPTIONS_SHOW_PROFILE_PICTURES"
+msgid "Show profile pictures"
+msgstr "Прикажи слику профила"
+
+msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
+msgid "%s for 1 month"
+msgstr "%s за 1 месец"
+
+msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
+msgid "From %s for 1 month"
+msgstr "Од %s за 1 месец"
+
+msgctxt "sCALLPHONES_PAYG_CAPTION_NO_RATE"
+msgid "Pay As You Go"
+msgstr ""
+
+msgctxt "sVOICEMAIL_PROMPT"
+msgid "Are you sure you want to send a voice message to<b>%s</b>?"
+msgstr ""
+
+msgctxt "sVOICEMAIL_PROMPT_TITLE"
+msgid "Send voice message"
+msgstr ""
+
+msgctxt "sVOICEMAIL_PROMPT_CAP"
+msgid "Voice message"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
+msgid "Phone:"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER"
+msgid "Edit"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
+msgid "Edit %s"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
+msgid "Leave Conversation"
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
+msgid "Limited emergency calling"
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2"
+msgid ""
+"Emergency calling is only supported by certain countries/regions. Please, go"
+" to Call settings to set your default location."
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
+msgid "SMS sent to <a href=\"x\">%d person</a>"
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
+msgid "Select no more than %d participants to be able to start a video call"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_SO_CONTACT_HINT"
+msgid "You cannot place video calls to mobile or land lines"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_ECHO_CONTACT_HINT"
+msgid "You cannot place test video calls"
+msgstr ""
+
+msgctxt "sCONTACTS_LINK_CAPS"
+msgid "CONTACTS"
+msgstr ""
+
+msgctxt "sRECENTS_LINK_CAPS"
+msgid "RECENT"
+msgstr ""
+
+msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
+msgid "This photo is unavailable"
+msgstr ""
+
+msgctxt "sACC_NAME_PHOTO_MESSAGE"
+msgid "From %0:s, new photo, sent on %1:s"
+msgstr ""
+
+msgctxt "sTRAYALERT_PHOTO_MESSAGE"
+msgid "New photo"
+msgstr ""
+
+msgctxt "sPHOTO_SAVE_AS"
+msgid "Save as..."
+msgstr ""
+
+msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
+msgid "To view this shared photo, go to: %1"
+msgstr ""
+
+msgctxt "sACC_NAME_MYSELF_GRAPHIC"
+msgid "My profile picture"
+msgstr ""
+
+msgctxt "sSEARCHING_SKYPE_DIRECTORY"
+msgid "Searching Skype directory..."
+msgstr ""
+
+msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
+msgid "Show message previews in the sidebar"
+msgstr ""
+
+msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
+msgid "Simple List View"
+msgstr ""
+
+msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
+msgid "Give Feedback"
+msgstr ""
+
+msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
+msgid "No results found for %s"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_SINGLE"
+msgid "Sent you files"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
+msgid "Shared a photo"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
+msgid "Shared a location"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_SINGLE"
+msgid "Sent you a voice message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_SINGLE"
+msgid "Sent you a video message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_SINGLE"
+msgid "Sent you contacts"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
+msgid "%s sent files"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
+msgid "%s shared a photo"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_MULTI"
+msgid "%s shared a location"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_MULTI"
+msgid "%s sent a voice message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_MULTI"
+msgid "%s sent a video message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_MULTI"
+msgid "%s sent contacts"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_REQUESTED_AUTH"
+msgid "Sent you a contact request"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_GRANTED_AUTH"
+msgid "Contact request accepted"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
+msgid "Birthday today"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT"
+msgid "Are you sure you want to add contacts: <b>%s</b>?"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT_TITLE"
+msgid "Add contacts"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT_CAP"
+msgid "Add contacts"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_1"
+msgid "1"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_2"
+msgid "2"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_3"
+msgid "3"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_4"
+msgid "4"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_5"
+msgid "5"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_6"
+msgid "6"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_7"
+msgid "7"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_8"
+msgid "8"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_9"
+msgid "9"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_ASTERISK"
+msgid "*"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_0"
+msgid "0"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_HASH"
+msgid "#"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_2"
+msgid "ABC"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_3"
+msgid "DEF"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_4"
+msgid "GHI"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_5"
+msgid "JKL"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_6"
+msgid "MNO"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_7"
+msgid "PQRS"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_8"
+msgid "TUV"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_9"
+msgid "WXYZ"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_0"
+msgid "+"
+msgstr ""
+
+msgctxt "sDIALPAD_COUNTRY_SELECTOR"
+msgid "%s (+%d)"
+msgstr ""
+
+msgctxt "sBUDDYMENU_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr ""
+
+msgctxt "sF_CHANGE_TOPIC_CAPTION"
+msgid "Change topic"
+msgstr ""
+
+msgctxt "sMAINMENU_CONVERSATION_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr ""
+
+msgctxt "sF_CHANGE_TOPIC_LABEL"
+msgid "Enter new topic"
+msgstr ""
+
+msgctxt "sFRE_TITLE"
+msgid "Welcome Tour"
+msgstr ""
+
+msgctxt "sFRE_START"
+msgid "Welcome to the new Skype for Windows."
+msgstr ""
+
+msgctxt "sFRE_CHAT"
+msgid "Redesigned for a richer chat experience."
+msgstr ""
+
+msgctxt "sFRE_PHOTO"
+msgid "Share your favourite photos and bring chats to life."
+msgstr ""
+
+msgctxt "sFRE_GROUP"
+msgid "Get everyone together with free group video calling."
+msgstr ""
+
+msgctxt "sFRE_PHONE"
+msgid "Keep the conversation going and take Skype with you."
+msgstr ""
+
+msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
+msgid "File transfer limit"
+msgstr ""
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
+msgid "Emergency numbers"
+msgstr ""
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
+msgid ""
+"Set your default country/region to check if Skype supports emergency calls "
+"in your country/region."
+msgstr ""
+
+msgctxt "sCALL_PHONES_EMERGENCY2_INLINE"
+msgid "Emergency calls are not supported in your country/region."
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2_INLINE"
+msgid ""
+"Only use Skype as an absolute last resort for emergency calling. <a "
+"href=\"%s\">Learn more</a>."
+msgstr ""
+
+msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
+msgid "Your Country/Region:"
+msgstr ""
+
+msgctxt "sSEND_MEDIA_MENU_HINT"
+msgid "Send contacts and media"
+msgstr ""
+
+msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
+msgid "Advertisement"
 msgstr ""

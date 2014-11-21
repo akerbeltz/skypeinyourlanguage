@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-05-27 21:14:03+0100\n"
-"PO-Revision-Date: 2014-08-05 14:14+0000\n"
-"Last-Translator: gleki <gleki.is.my.name@gmail.com>\n"
+"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
+"PO-Revision-Date: 2014-11-19 17:48+0000\n"
+"Last-Translator: Michael Bauer\n"
 "Language-Team: Lojban (http://www.transifex.com/projects/p/skype-translation-project/language/jbo/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -104,7 +104,7 @@ msgstr "co'u pilno lo proga"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr ""
+msgstr "ca'o troci lo ka pilno lo jaspu"
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
@@ -112,7 +112,7 @@ msgstr "la .skaip."
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
-msgstr ""
+msgstr "ca'o troci lo ka jorne"
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
@@ -124,11 +124,11 @@ msgstr "jorne"
 
 msgctxt "sTRAYHINT_USER_AWAY"
 msgid "Away"
-msgstr ""
+msgstr "na'e zvati"
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
-msgstr ""
+msgstr "na gubni"
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
@@ -136,15 +136,15 @@ msgstr ""
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
-msgstr ""
+msgstr "na se viska"
 
 msgctxt "sTRAYHINT_PROFILE_LOGGED_OUT"
 msgid "Not Connected"
-msgstr ""
+msgstr "na jorne"
 
 msgctxt "sTRAYHINT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr ""
+msgstr "ca'o troci lo ka pilno lo jaspu"
 
 msgctxt "sINVALID_HANDLE"
 msgid ""
@@ -169,19 +169,19 @@ msgstr "lo bangu"
 
 msgctxt "sF_USERINFO_LABEL_HOMEPHONE"
 msgid "Home phone"
-msgstr ""
+msgstr "lo zdani fonxa namcu"
 
 msgctxt "sF_USERINFO_LABEL_OFFICEPHONE"
 msgid "Office phone"
-msgstr ""
+msgstr "lo briju fonxa namcu"
 
 msgctxt "sF_USERINFO_LABEL_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr ""
+msgstr "lo se bevri fonxa namcu"
 
 msgctxt "sF_USERINFO_LABEL_HOMEPAGE"
 msgid "Website"
-msgstr ""
+msgstr "lo kibro stuzi"
 
 msgctxt "sF_USERINFO_LABEL_ABOUT"
 msgid "About me"
@@ -189,31 +189,31 @@ msgstr "pe mi"
 
 msgctxt "sF_USERINFO_LABEL_BIRTHDATE"
 msgid "Birth date"
-msgstr ""
+msgstr "detri lo nu jbena"
 
 msgctxt "sSEX_MALE"
 msgid "Male"
-msgstr ""
+msgstr "nanmu"
 
 msgctxt "sSEX_FEMALE"
 msgid "Female"
-msgstr ""
+msgstr "ninmu"
 
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
-msgstr ""
+msgstr "lo cmene be fi la .skaip."
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
-msgstr ""
+msgstr "lo ckiku"
 
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "co'u morji tu'a lo ckiku pe do"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2014 Skype and/or Microsoft"
-msgstr ""
+msgstr "fukpi krali  de'i li 2014 fa la'oi Skype ja la'oi Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -221,35 +221,35 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
-msgstr ""
+msgstr "detri lo nu jbena"
 
 msgctxt "sF_USERPROFILE_LB_LANGUAGE"
 msgid "Language"
-msgstr ""
+msgstr "lo bangu"
 
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
-msgstr ""
+msgstr "gugde ja tumla"
 
 msgctxt "sF_USERPROFILE_LB_CITY"
 msgid "City"
-msgstr ""
+msgstr "lo tcadu"
 
 msgctxt "sF_USERPROFILE_LB_OFFICEPHONE"
 msgid "Office phone"
-msgstr ""
+msgstr "lo briju fonxa namcu"
 
 msgctxt "sF_USERPROFILE_LB_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr ""
+msgstr "lo se bevri fonxa namcu"
 
 msgctxt "sF_USERPROFILE_LB_EMAIL"
 msgid "Email"
-msgstr ""
+msgstr "lo ve mrilu"
 
 msgctxt "sF_USERPROFILE_LB_HOMEPAGE"
 msgid "Website"
-msgstr ""
+msgstr "lo kibro stuzi"
 
 msgctxt "sF_OPTIONS_PAGE_GENERAL"
 msgid "General"
@@ -281,11 +281,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
-msgstr ""
+msgstr "ca'o de'a jikca"
 
 msgctxt "sF_OPTIONS_CB_23"
 msgid "hang up"
-msgstr ""
+msgstr "co'u jikca"
 
 msgctxt "sF_OPTIONS_CB_25"
 msgid "contact online"
@@ -293,15 +293,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "zbasu lo fukpi"
 
 msgctxt "sF_OPTIONS_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "co'u"
 
 msgctxt "sF_OPTIONS_CAPTION"
 msgid "- Options"
-msgstr ""
+msgstr "lo te cuxna"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
 msgid "© 2014 Skype and/or Microsoft"
@@ -339,7 +339,7 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
-msgstr ""
+msgstr "lo zdani fonxa namcu"
 
 msgctxt "sCALL_LB2_MYHOLD"
 msgid "Call on hold"
@@ -351,7 +351,7 @@ msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr ""
+msgstr "di'a jikca"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
@@ -363,7 +363,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_SOUNDS2"
 msgid "Sounds"
-msgstr ""
+msgstr "loi sance"
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
@@ -371,7 +371,7 @@ msgstr "vimcu lo canko"
 
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
-msgstr ""
+msgstr "ca'o di'a jikca"
 
 msgctxt "sF_OPTIONS_TCB2"
 msgid "Show timestamp next to instant messages"
@@ -383,7 +383,7 @@ msgstr ""
 
 msgctxt "sF_RENAMEUSER_CAPTION"
 msgid "Rename"
-msgstr ""
+msgstr "cnegau lo cmene"
 
 msgctxt "sF_CONFIRM_CBNOMORE"
 msgid "Do not ask me again"
@@ -391,27 +391,27 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_YES"
 msgid "Yes"
-msgstr ""
+msgstr "je'u"
 
 msgctxt "sF_CONFIRM_CANCEL"
 msgid "&Cancel"
-msgstr ""
+msgstr "co'u"
 
 msgctxt "sF_RENAMEUSER_OK"
 msgid "OK"
-msgstr ""
+msgstr "je'e"
 
 msgctxt "sF_RENAMEUSER_CANCEL"
 msgid "&Cancel"
-msgstr ""
+msgstr "co'u"
 
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
-msgstr ""
+msgstr "za'ure'u cpedu lo ka co'a pendo"
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
-msgstr ""
+msgstr "lo info"
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
@@ -419,27 +419,27 @@ msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
-msgstr ""
+msgstr "cnegau lo ckiku"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT1"
 msgid "Enter current password"
-msgstr ""
+msgstr "ko ciska lo ckiku poi cabna"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT2"
 msgid "Enter new password"
-msgstr ""
+msgstr "ko ciska lo ckiku poi cnino"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT3"
 msgid "Re-enter new password"
-msgstr ""
+msgstr "ko za'ure'u ciska lo ckiku poi cnino"
 
 msgctxt "sF_CHANGE_PASSWORD_BTN1_TEXT"
 msgid "Apply"
-msgstr ""
+msgstr "pilno"
 
 msgctxt "sF_CHANGE_PASSWORD_BTN2_TEXT"
 msgid "Cancel"
-msgstr ""
+msgstr "co'u"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
@@ -449,7 +449,7 @@ msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
-msgstr ""
+msgstr "cnegau lo ckiku"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid. Please try again."
@@ -489,7 +489,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
-msgstr ""
+msgstr "lo nu jorne"
 
 msgctxt "sF_OPTIONS_LB15"
 msgid "Use port"
@@ -521,7 +521,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
-msgstr ""
+msgstr "snaveitci"
 
 msgctxt "sF_OPTIONS_LB21"
 msgid "Speakers"
@@ -529,7 +529,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LB22"
 msgid "Ringing"
-msgstr ""
+msgstr "ca'o troci lo ka jorne"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SIMPLE"
 msgid ""
@@ -547,7 +547,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
-msgstr ""
+msgstr "cuxna ro da"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
@@ -585,15 +585,15 @@ msgstr ""
 
 msgctxt "sHOTKEY_ANSWER"
 msgid "Answer call"
-msgstr ""
+msgstr "co'a jikca"
 
 msgctxt "sHOTKEY_IGNORE"
 msgid "Ignore call"
-msgstr ""
+msgstr "na jikca"
 
 msgctxt "sHOTKEY_HANGUP"
 msgid "Hang up"
-msgstr ""
+msgstr "co'u jikca"
 
 msgctxt "sHOTKEY_FOCUS"
 msgid "Focus Skype"
@@ -601,7 +601,7 @@ msgstr ""
 
 msgctxt "sHOTKEY_SEARCH"
 msgid "Search for people on Skype"
-msgstr ""
+msgstr "mitysisku lo prenu poi se jaspu fi la .skaip."
 
 msgctxt "sF_HOTKEYEDIT_CAPTION"
 msgid "Set hotkey for %s"
@@ -623,19 +623,19 @@ msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
-msgstr ""
+msgstr "na pilno lo snaveitci pe do"
 
 msgctxt "sAVATAR_MENUITEM_UNMUTE"
 msgid "Unmute Microphone"
-msgstr ""
+msgstr "di'a pilno lo snaveitci pe do"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
-msgstr ""
+msgstr "lo se zukte"
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
-msgstr ""
+msgstr "akti"
 
 msgctxt "sF_OPTIONS_HK_HOTKEY"
 msgid "Hotkey"
@@ -693,7 +693,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SAVE"
 msgid "Save as..."
-msgstr ""
+msgstr "zbasu lo fukpi"
 
 msgctxt "sF_TRANSLATE_APPLY"
 msgid "Apply"
@@ -711,19 +711,19 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
-msgstr ""
+msgstr "je'unai"
 
 msgctxt "sF_TRANSLATE_COMMENT"
 msgid "Comment"
-msgstr ""
+msgstr "lo se piksku"
 
 msgctxt "sF_TRANSLATE_ORIGINAL"
 msgid "Original"
-msgstr ""
+msgstr "lo krasi"
 
 msgctxt "sF_TRANSLATE_CURRENT"
 msgid "Current"
-msgstr ""
+msgstr "lo cabna"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_BLOCK"
 msgid "Block this person"
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CB21"
 msgid "Ring PC speaker"
-msgstr ""
+msgstr "jai gau rinrine fai lo janbe pe lo skami"
 
 msgctxt "sBUDDYMENU_SPEEDDIAL"
 msgid "Set Speed Dial..."
@@ -747,7 +747,7 @@ msgstr ""
 
 msgctxt "sTRAYHINT_PROFILE_NOT_LOGGED_IN"
 msgid "Not signed in"
-msgstr ""
+msgstr "ca'o na pilno lo jaspu"
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
@@ -775,11 +775,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG1_1"
 msgid "anyone"
-msgstr ""
+msgstr "ro prenu"
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
-msgstr ""
+msgstr "lo po'o prenu poi pendo mi"
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
@@ -787,7 +787,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG2_1"
 msgid "anyone"
-msgstr ""
+msgstr "ro prenu"
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
@@ -3723,6 +3723,10 @@ msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
 msgstr ""
 
+msgctxt "sF_CHAT_INFO_LB_ADMIN"
+msgid "Administrators:"
+msgstr ""
+
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
 msgstr ""
@@ -4335,7 +4339,19 @@ msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
 msgstr ""
 
+msgctxt "sZAPBUTTON_ADDTOGROUP"
+msgid "Add to Group"
+msgstr ""
+
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
+msgid "Add to group call"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
+msgid "Add to group call"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCERINGING"
 msgid "Add to group call"
 msgstr ""
 
@@ -4375,16 +4391,20 @@ msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
 msgstr "jikca"
 
+msgctxt "sZAPBUTTON_CALLMULTIPLE"
+msgid "Call"
+msgstr ""
+
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
 msgstr ""
 
-msgctxt "sZAPBUTTON_CALLWHICH"
-msgid "Call"
-msgstr "jikca"
-
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
+msgstr ""
+
+msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
+msgid "Copy conversation link"
 msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
@@ -4429,19 +4449,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_INACTIVE"
 msgid "Microphone"
-msgstr ""
+msgstr "snaveitci"
 
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_GOOD"
 msgid "Microphone"
-msgstr ""
+msgstr "snaveitci"
 
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_AVERAGE"
 msgid "Microphone"
-msgstr ""
+msgstr "snaveitci"
 
 msgctxt "sZAPBUTTON_CQ_MICROPHONE_POOR"
 msgid "Microphone"
-msgstr ""
+msgstr "snaveitci"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_INACTIVE"
 msgid "Speaker"
@@ -4461,19 +4481,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_INACTIVE"
 msgid "Computer"
-msgstr ""
+msgstr "skami"
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_GOOD"
 msgid "Computer"
-msgstr ""
+msgstr "skami"
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_AVERAGE"
 msgid "Computer"
-msgstr ""
+msgstr "skami"
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_POOR"
 msgid "Computer"
-msgstr ""
+msgstr "skami"
 
 msgctxt "sZAPBUTTON_CQ_CONNECTION_INACTIVE"
 msgid "Connection"
@@ -4541,7 +4561,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CHAT"
 msgid "Send message"
-msgstr ""
+msgstr "benji lo notci"
 
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
@@ -4583,68 +4603,16 @@ msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
 msgstr "na randa"
 
+msgctxt "sZAPBUTTON_DECLINECALL"
+msgid "Decline"
+msgstr ""
+
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
-msgstr ""
+msgstr "vimcu"
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_0"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_1"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_2"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_3"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_4"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_5"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_6"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_7"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_8"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_9"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_ASTERIX"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_HASH"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_SMS"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_CALL"
-msgid " "
 msgstr ""
 
 msgctxt "sZAPBUTTON_DIALNUMBER"
@@ -4665,7 +4633,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REPLY"
 msgid "Reply"
-msgstr ""
+msgstr "spusku"
 
 msgctxt "sZAPBUTTON_DIALPADSHOW"
 msgid "Show dial pad"
@@ -4685,7 +4653,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "Help"
-msgstr ""
+msgstr "sidju"
 
 msgctxt "sZAPBUTTON_CHATBOOK"
 msgid "Facebook"
@@ -4757,23 +4725,23 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_GROUPCALLSKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "la .skaip."
 
 msgctxt "sZAPBUTTON_GROUPCALLHOME"
 msgid "Home"
-msgstr ""
+msgstr "pe lo zdani"
 
 msgctxt "sZAPBUTTON_GROUPCALLMOBILE"
 msgid "Mobile"
-msgstr ""
+msgstr "pe lo se bevri"
 
 msgctxt "sZAPBUTTON_GROUPCALLOFFICE"
 msgid "Office"
-msgstr ""
+msgstr "pe lo briju"
 
 msgctxt "sZAPBUTTON_GROUPCALLOTHER"
 msgid "Other"
-msgstr ""
+msgstr "pe lo drata"
 
 msgctxt "sZAPBUTTON_CALLTRANSFER"
 msgid "Call transfer"
@@ -4781,43 +4749,47 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLTRANSFERSKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "la .skaip."
 
 msgctxt "sZAPBUTTON_CALLTRANSFERHOME"
 msgid "Home"
-msgstr ""
+msgstr "pe lo zdani"
 
 msgctxt "sZAPBUTTON_CALLTRANSFERMOBILE"
 msgid "Mobile"
-msgstr ""
+msgstr "lo se bevri"
 
 msgctxt "sZAPBUTTON_CALLTRANSFEROFFICE"
 msgid "Office"
-msgstr ""
+msgstr "pe lo briju"
 
 msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
+msgstr "pe lo drata"
+
+msgctxt "sZAPBUTTON_ADDPEOPLE"
+msgid "Add people"
 msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "la .skaip."
 
 msgctxt "sZAPBUTTON_ADDPEOPLEHOME"
 msgid "Home"
-msgstr ""
+msgstr "pe lo zdani"
 
 msgctxt "sZAPBUTTON_ADDPEOPLEMOBILE"
 msgid "Mobile"
-msgstr ""
+msgstr "pe lo se bevri"
 
 msgctxt "sZAPBUTTON_ADDPEOPLEOFFICE"
 msgid "Office"
-msgstr ""
+msgstr "pe lo briju"
 
 msgctxt "sZAPBUTTON_ADDPEOPLEOTHER"
 msgid "Other"
-msgstr ""
+msgstr "pe lo drata"
 
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_INACTIVE"
 msgid "Show contacts"
@@ -4849,7 +4821,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr ""
+msgstr "pe lo zdani"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -4861,11 +4833,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
-msgstr ""
+msgstr "sidju"
 
 msgctxt "sZAPBUTTON_IGNORE"
 msgid "Ignore"
-msgstr ""
+msgstr "na jikca"
 
 msgctxt "sZAPBUTTON_JOINCALL"
 msgid "Join call"
@@ -4879,12 +4851,20 @@ msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
 msgstr ""
 
+msgctxt "sZAPBUTTON_LEAVECONVERSATION"
+msgid "Leave conversation"
+msgstr ""
+
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
 msgstr ""
 
 msgctxt "sZAPBUTTON_MPV_ALONE"
 msgid "MPV alone"
+msgstr ""
+
+msgctxt "sZAPBUTTON_MERGECALLS"
+msgid "Merge calls"
 msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
@@ -4909,15 +4889,7 @@ msgstr "sepi'o la .skaip."
 
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
-msgstr ""
-
-msgctxt "sZAPBUTTON_MONITORVIDEOCLOSE"
-msgid "Close call monitor"
-msgstr ""
-
-msgctxt "sZAPBUTTON_MONITORAUDIOCLOSE"
-msgid "Close call monitor"
-msgstr ""
+msgstr "za'u da"
 
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
@@ -4933,7 +4905,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_OKUSEDEVICE"
 msgid "OK"
-msgstr ""
+msgstr "je'e"
 
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
@@ -4973,7 +4945,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_READ"
 msgid "Read"
-msgstr ""
+msgstr "tcidu"
 
 msgctxt "sZAPBUTTON_RECORD"
 msgid "Record"
@@ -4981,7 +4953,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_TESTRECORD"
 msgid "Test"
-msgstr ""
+msgstr "lo cipra"
 
 msgctxt "sZAPBUTTON_RECORDING"
 msgid "Recording..."
@@ -5021,11 +4993,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "gau stodi"
 
 msgctxt "sZAPBUTTON_SAVEALL"
 msgid "Save all"
-msgstr ""
+msgstr "ro da gau stodi"
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
@@ -5051,13 +5023,29 @@ msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
 msgstr "benji lo vreji"
 
+msgctxt "sZAPBUTTON_SENDIMAGE"
+msgid "Send image"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SENDCONTACTS"
+msgid "Send contacts"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ENTRYTOOLBAREXPAND"
+msgid "More"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ENTRYTOOLBARCOLLAPSE"
+msgid "Less"
+msgstr ""
+
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
 msgstr ""
 
 msgctxt "sZAPBUTTON_SIGNIN"
 msgid "Sign in"
-msgstr ""
+msgstr "pilno lo jaspu"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5073,15 +5061,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
+msgstr "vimcu"
+
+msgctxt "sZAPBUTTON_PLUS"
+msgid "More"
 msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
 msgstr "benji"
-
-msgctxt "sZAPBUTTON_SHOP"
-msgid "Shop"
-msgstr ""
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5123,6 +5111,22 @@ msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
 msgstr "zgana lo se viska notci"
 
+msgctxt "sZAPBUTTON_POPOUTPLAY"
+msgid "Play voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTPAUSE"
+msgid "Pause voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTSTOP"
+msgid "Stop voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTRELOAD"
+msgid "Reload voice message"
+msgstr ""
+
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
 msgstr ""
@@ -5149,14 +5153,14 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_UPDATE"
 msgid "Update now"
-msgstr ""
+msgstr "ko ca ningau"
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
 msgstr "zgana lo tcila"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
-msgid "View account"
+msgid "View my account"
 msgstr ""
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
@@ -5197,11 +5201,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTART"
 msgid "Start"
-msgstr ""
+msgstr "co'a"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "co'u"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGOPTIONS"
 msgid "Screensharing options"
@@ -5211,13 +5215,17 @@ msgctxt "sZAPBUTTON_CT_MESSAGE"
 msgid "IM"
 msgstr ""
 
+msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
+msgid "IM"
+msgstr ""
+
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
 msgstr ""
 
 msgctxt "sZAPBUTTON_CT_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "di'a jikca"
 
 msgctxt "sZAPBUTTON_DIALPADRECENT"
 msgid "Recently dialed numbers"
@@ -5233,7 +5241,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_TEST"
 msgid "Test"
-msgstr ""
+msgstr "lo cipra"
 
 msgctxt "sZAPBUTTON_WEBCAMMIC"
 msgid "Use webcam microphone"
@@ -5261,11 +5269,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_INVITENOTIFIGNORE"
 msgid "Ignore"
-msgstr ""
+msgstr "na jikca"
 
 msgctxt "sZAPBUTTON_CHANGEINVALIDHOTKEYS"
 msgid "Change"
-msgstr ""
+msgstr "cnegau"
 
 msgctxt "sZAPBUTTON_AVATARVIEWSMALL"
 msgid "Small view"
@@ -5285,11 +5293,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RECONNECTTOXMPP"
 msgid "Reconnect"
-msgstr ""
+msgstr "za'ure'u jorne"
 
 msgctxt "sZAPBUTTON_SKYPEWIFICONNECT"
 msgid "Connect"
-msgstr ""
+msgstr "jorne"
 
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
@@ -5307,6 +5315,34 @@ msgctxt "sZAPBUTTON_NOVIDM"
 msgid "No, thanks"
 msgstr ""
 
+msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
+msgid "Send quality feedback"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CLOSEWINDOW"
+msgid "Close"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CM_RESUME"
+msgid "Resume call"
+msgstr ""
+
+msgctxt "sZAPBUTTON_REMOVEFROMFAVOURITESBTN"
+msgid "Remove contact from favourites"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ADDTOFAVOURITESBTN"
+msgid "Add contact to favourites"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SEARCHSKYPE"
+msgid "Search Skype"
+msgstr ""
+
+msgctxt "sZAPBUTTON_DONE"
+msgid "Done"
+msgstr ""
+
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
 "Can't open Skype. You are already signed in on this computer. Please sign "
@@ -5315,7 +5351,7 @@ msgstr ""
 
 msgctxt "sZAPCONTACT_PHONE"
 msgid "Phone"
-msgstr ""
+msgstr "lo fonxa"
 
 msgctxt "sCALLPHONES_PHONE_EDIT_HINT"
 msgid "Enter number"
@@ -5427,7 +5463,7 @@ msgstr ""
 
 msgctxt "sF_STARTCONF_OK_BUTTON"
 msgid "OK"
-msgstr ""
+msgstr "je'e"
 
 msgctxt "sF_ADDTOCONF_TITLE"
 msgid "Add more people"
@@ -5773,7 +5809,7 @@ msgid "Privacy..."
 msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
-msgid "Account..."
+msgid "My account"
 msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
@@ -6139,7 +6175,9 @@ msgid ""
 msgstr ""
 
 msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
-msgid "Too many parallel file sendings"
+msgid ""
+"You cannot send any more files until your existing file transfers have "
+"finished."
 msgstr ""
 
 msgctxt "sMESSAGE_FAILED"
@@ -6248,7 +6286,7 @@ msgid "%d conversations"
 msgstr ""
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
-msgid "Finished"
+msgid "Call ended"
 msgstr ""
 
 msgctxt "sINFORM_DISK_FULL"
@@ -6311,7 +6349,7 @@ msgid "Default View"
 msgstr ""
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
-msgid "Compact View"
+msgid "Split Window View"
 msgstr ""
 
 msgctxt "sTRAYALERT_NONEW"
@@ -6757,7 +6795,7 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_ACTIVE_PHONE"
 msgid "Calling"
-msgstr ""
+msgstr "ca'o jorne lo se jikca"
 
 msgctxt "sOPTIONS_UPNP"
 msgid "Enable uPnP"
@@ -6788,7 +6826,7 @@ msgstr ""
 
 msgctxt "sUNNAMED_SKYPEOUT_CONTACT"
 msgid "Unnamed contact"
-msgstr ""
+msgstr "lo se cmene be no da"
 
 msgctxt "sCONVERSATION_MARK_READ"
 msgid "Mark as Read"
@@ -6842,19 +6880,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_TOPIC"
 msgid "Topic"
-msgstr ""
+msgstr "lo se casnu"
 
 msgctxt "sMAINMENU_CONVERSATION_SETTOPIC"
 msgid "Set Topic..."
-msgstr ""
+msgstr "segau tu'a lo se casnu"
 
 msgctxt "sMAINMENU_CONVERSATION_SETPICTURE"
 msgid "Set Picture..."
-msgstr ""
+msgstr "segau tu'a lo pixra"
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_PEOPLE"
 msgid "Add People..."
-msgstr ""
+msgstr "jmina lo prenu"
 
 msgctxt "sPUBLICCHAT_NOT_SUPPORTED"
 msgid "Public chats are not supported in this version"
@@ -6906,11 +6944,11 @@ msgstr ""
 
 msgctxt "sPFOFILE_HEADER_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "stogau"
 
 msgctxt "sPFOFILE_HEADER_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "co'u"
 
 msgctxt "sPFOFILE_HEADER_EDIT"
 msgid "Edit"
@@ -6940,11 +6978,11 @@ msgstr ""
 
 msgctxt "SGROUP_PROFILE_NEXT_BUTTON"
 msgid "Next"
-msgstr ""
+msgstr "se lidne"
 
 msgctxt "SGROUP_PROFILE_PREV_BUTTON"
 msgid "Previous"
-msgstr ""
+msgstr "lidne"
 
 msgctxt "sUSERINFO_LABEL_EXTERNAL_NOT_FOUND"
 msgid ""
@@ -7046,7 +7084,7 @@ msgstr ""
 
 msgctxt "sVERSION"
 msgid "Version"
-msgstr ""
+msgstr "lo versio"
 
 msgctxt "sCALL_CONF_NO_EMERGENCY"
 msgid "Group calling with emergency services is not supported"
@@ -7128,7 +7166,7 @@ msgid "No speakers detected."
 msgstr ""
 
 msgctxt "sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3"
-msgid "Automatically receive video and share screens with..."
+msgid "Automatically receive video and share screens with"
 msgstr ""
 
 msgctxt "sVIDEO_BTN_SHOW_HERE"
@@ -8104,7 +8142,9 @@ msgid "Transfer this call"
 msgstr ""
 
 msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
-msgid "Failed to log in. Check your Skype Name or password"
+msgid ""
+"Unable to sign in, Check your Skype Name and password are correct and try "
+"again."
 msgstr ""
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
@@ -9311,7 +9351,7 @@ msgstr ""
 
 msgctxt "sFLAMINGO_CONNECTING"
 msgid "Connecting..."
-msgstr ""
+msgstr "ca'o troci lo ka jorne"
 
 msgctxt "sFLAMINGO_OTHER_ERROR"
 msgid ""
@@ -9333,7 +9373,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_PHONE_EDIT_RECENT_HINT"
 msgid "Recent numbers"
-msgstr ""
+msgstr "lo puzi namcu"
 
 msgctxt "sERROR_CLIPBOARD_TITLE"
 msgid "Cannot open clipboard"
@@ -9351,7 +9391,7 @@ msgstr ""
 
 msgctxt "sFLAMINGO_PRESENCE_HINT"
 msgid "(Facebook)"
-msgstr ""
+msgstr "(to la'oi Facebook toi)"
 
 msgctxt "sF_OPTIONS_NOTIF_FLAMINGO_ONLINE"
 msgid "comes online (on Facebook)"
@@ -9375,7 +9415,7 @@ msgstr ""
 
 msgctxt "sWAITING_SMILEY"
 msgid "Waiting"
-msgstr ""
+msgstr "ca'o denpa"
 
 msgctxt "sHIGHFIVE_SMILEY"
 msgid "High five"
@@ -9433,7 +9473,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_NOTNOW"
 msgid "Not now"
-msgstr ""
+msgstr "canai"
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_CAPTION"
 msgid "Close this window"
@@ -9446,7 +9486,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_NO_BTN"
 msgid "No"
-msgstr ""
+msgstr "je'unai"
 
 msgctxt "sDELETE_VOICEMAIL_ERROR"
 msgid "Please wait a few moments and try deleting the message again."
@@ -9466,11 +9506,11 @@ msgstr ""
 
 msgctxt "sAVATAR_CAPTURE_CHANGE_PICTURE"
 msgid "Change picture"
-msgstr ""
+msgstr "cnegau lo pixra"
 
 msgctxt "sPLUS_MENU_ADD_PEOPLE"
 msgid "Add people..."
-msgstr ""
+msgstr "jmina lo prenu"
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
@@ -9486,7 +9526,7 @@ msgstr ""
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_OK"
 msgid "Call"
-msgstr ""
+msgstr "troci lo ka jorne"
 
 msgctxt "sMAINMENU_HIDE_DIALPAD"
 msgid "Hide dial pad"
@@ -9510,7 +9550,7 @@ msgstr ""
 
 msgctxt "sCALL_MONITOR_ON_HOLD"
 msgid "On hold"
-msgstr ""
+msgstr "ca'o de'a jikca"
 
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
@@ -9552,7 +9592,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SETUP_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "di'a"
 
 msgctxt "sGETTING_STARTED_TITLE"
 msgid "<b>Setting up Skype</b>"
@@ -9612,7 +9652,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_MORE_HELP"
 msgid "More help"
-msgstr ""
+msgstr "za'u lo te sidju"
 
 msgctxt "sGETTING_STARTED_PLAY_SOUND"
 msgid "Test sound"
@@ -9673,7 +9713,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_TRY_AGAIN"
 msgid "Try again"
-msgstr ""
+msgstr "za'ure'u troci"
 
 msgctxt "sGETTING_STARTED_TRY_DONE_LABEL"
 msgid ""
@@ -9755,11 +9795,11 @@ msgstr ""
 
 msgctxt "sCALL_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "la'oi Facebook"
 
 msgctxt "sSTATUSMENU_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "la'oi Facebook"
 
 msgctxt "sSTATUSMENU_FLAMINGO_SAMEASSKYPE"
 msgid "Same as on Skype"
@@ -9811,7 +9851,7 @@ msgstr ""
 
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "la .skaip."
 
 msgctxt "sSMS_FROM_MY_PHONE"
 msgid "My mobile"
@@ -9819,11 +9859,11 @@ msgstr ""
 
 msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
-msgstr ""
+msgstr "jmina lo namcu"
 
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
-msgstr ""
+msgstr "je'e"
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
@@ -10367,8 +10407,8 @@ msgid "Search for <a href=\"x\">%s</a> on Skype."
 msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
-msgid "Send a message"
-msgstr "benji lo notci"
+msgid "Type a message here"
+msgstr ""
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -10689,7 +10729,7 @@ msgid ""
 msgstr ""
 
 msgctxt "sMYINFO_MY_ACCOUNT"
-msgid "Manage account"
+msgid "Manage my account"
 msgstr ""
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
@@ -10740,12 +10780,6 @@ msgctxt "sACC_CONTACT_PHONE_EDIT_ENTER_NUMBER_HINT"
 msgid "enter number"
 msgstr ""
 
-msgctxt "sCONVERSATION_PASSPORT_PARTNER_BLOCKED_LINK"
-msgid ""
-"%s is blocked and can't answer. If you want to chat, <a href=\"%s\">unblock "
-"them from the web profile</a>."
-msgstr ""
-
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
 msgstr ""
@@ -10781,7 +10815,7 @@ msgid "Paying with:"
 msgstr ""
 
 msgctxt "sTOPUP_AUTO_RECHARGE"
-msgid "Enable Auto-recharge"
+msgid "Enable Auto-recharge when I'm running low on credit"
 msgstr ""
 
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
@@ -10874,8 +10908,11 @@ msgstr ""
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
 msgid ""
-"Don't worry about running out of credit, we'll add more when you're running "
-"low."
+"Auto-recharge saves you time and hassle. We’ll charge your preferred payment"
+" method and credit your account with the amount selected above when your "
+"balance is low. You can disable Auto-recharge any time in My Account, under "
+"Billing and Payments. For more information read <a "
+"href=\"http://www.skype.com/go/tou.refund\">Skype’s refund policy</a>."
 msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
@@ -12155,7 +12192,7 @@ msgid "<b>%s</b> would like to add you on Skype"
 msgstr ""
 
 msgctxt "sCHAT_HISTORY_JUMPBACK"
-msgid "Jump back"
+msgid "Jump Back"
 msgstr ""
 
 msgctxt "sMSNP24_MERGE_MESSAGE"
@@ -12303,7 +12340,7 @@ msgid "File moved"
 msgstr ""
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
-msgid "SHOW IN FOLDER"
+msgid "Show in folder"
 msgstr ""
 
 msgctxt "sFILETRANSFER_AUTO_ACCEPT"
@@ -12339,11 +12376,11 @@ msgid "Files received"
 msgstr ""
 
 msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
-msgid "DOWNLOAD ALL"
+msgid "Download all"
 msgstr ""
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
-msgid "CANCEL ALL"
+msgid "Cancel all"
 msgstr ""
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
@@ -12494,12 +12531,12 @@ msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
 msgid "Make chat history available to new joiners"
 msgstr ""
 
-msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_CHANGE"
-msgid "Allow this group's picture and name to be changed"
-msgstr ""
-
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOIN"
 msgid "Allow people to join this group"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
+msgid "Administrator settings"
 msgstr ""
 
 msgctxt "sF_CHAT_INFO_COPY_LINK"
@@ -12577,5 +12614,403 @@ msgid "Most Recent"
 msgstr ""
 
 msgctxt "sMAINMENU_VIEW_FAVORITES"
-msgid "Favourites"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "sCONTACT_GROUP_ALLCONTACTS"
+msgid "All Contacts"
+msgstr ""
+
+msgctxt "sCHAT_JUMPBACK_HEADER"
+msgid "Jump Back:"
+msgstr ""
+
+msgctxt "sSEARCH_WITH_BING"
+msgid "Search with Bing"
+msgstr ""
+
+msgctxt "sF_OPTIONS_CB_AUTO_CORRECT"
+msgid "Auto correct and highlight misspelled words"
+msgstr ""
+
+msgctxt "sF_OPTIONS_LB_AUTO_CORRECT"
+msgid "To enable the spell checker, %0:sgo to your PC settings%1:s"
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_AUDIO"
+msgid "Make this a group video call. It's free."
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_VIDEO"
+msgid "Add more people to your video call for free."
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_GROUP"
+msgid "Get more out of your conversation with a free group video call."
+msgstr ""
+
+msgctxt "sOPTIONS_SHOW_PROFILE_PICTURES"
+msgid "Show profile pictures"
+msgstr ""
+
+msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
+msgid "%s for 1 month"
+msgstr ""
+
+msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
+msgid "From %s for 1 month"
+msgstr ""
+
+msgctxt "sCALLPHONES_PAYG_CAPTION_NO_RATE"
+msgid "Pay As You Go"
+msgstr ""
+
+msgctxt "sVOICEMAIL_PROMPT"
+msgid "Are you sure you want to send a voice message to<b>%s</b>?"
+msgstr ""
+
+msgctxt "sVOICEMAIL_PROMPT_TITLE"
+msgid "Send voice message"
+msgstr ""
+
+msgctxt "sVOICEMAIL_PROMPT_CAP"
+msgid "Voice message"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
+msgid "Phone:"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER"
+msgid "Edit"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
+msgid "Edit %s"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
+msgid "Leave Conversation"
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
+msgid "Limited emergency calling"
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2"
+msgid ""
+"Emergency calling is only supported by certain countries/regions. Please, go"
+" to Call settings to set your default location."
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
+msgid "SMS sent to <a href=\"x\">%d person</a>"
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
+msgid "Select no more than %d participants to be able to start a video call"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_SO_CONTACT_HINT"
+msgid "You cannot place video calls to mobile or land lines"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_ECHO_CONTACT_HINT"
+msgid "You cannot place test video calls"
+msgstr ""
+
+msgctxt "sCONTACTS_LINK_CAPS"
+msgid "CONTACTS"
+msgstr ""
+
+msgctxt "sRECENTS_LINK_CAPS"
+msgid "RECENT"
+msgstr ""
+
+msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
+msgid "This photo is unavailable"
+msgstr ""
+
+msgctxt "sACC_NAME_PHOTO_MESSAGE"
+msgid "From %0:s, new photo, sent on %1:s"
+msgstr ""
+
+msgctxt "sTRAYALERT_PHOTO_MESSAGE"
+msgid "New photo"
+msgstr ""
+
+msgctxt "sPHOTO_SAVE_AS"
+msgid "Save as..."
+msgstr ""
+
+msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
+msgid "To view this shared photo, go to: %1"
+msgstr ""
+
+msgctxt "sACC_NAME_MYSELF_GRAPHIC"
+msgid "My profile picture"
+msgstr ""
+
+msgctxt "sSEARCHING_SKYPE_DIRECTORY"
+msgid "Searching Skype directory..."
+msgstr ""
+
+msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
+msgid "Show message previews in the sidebar"
+msgstr ""
+
+msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
+msgid "Simple List View"
+msgstr ""
+
+msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
+msgid "Give Feedback"
+msgstr ""
+
+msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
+msgid "No results found for %s"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_SINGLE"
+msgid "Sent you files"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
+msgid "Shared a photo"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
+msgid "Shared a location"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_SINGLE"
+msgid "Sent you a voice message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_SINGLE"
+msgid "Sent you a video message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_SINGLE"
+msgid "Sent you contacts"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
+msgid "%s sent files"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
+msgid "%s shared a photo"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_MULTI"
+msgid "%s shared a location"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_MULTI"
+msgid "%s sent a voice message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_MULTI"
+msgid "%s sent a video message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_MULTI"
+msgid "%s sent contacts"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_REQUESTED_AUTH"
+msgid "Sent you a contact request"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_GRANTED_AUTH"
+msgid "Contact request accepted"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
+msgid "Birthday today"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT"
+msgid "Are you sure you want to add contacts: <b>%s</b>?"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT_TITLE"
+msgid "Add contacts"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT_CAP"
+msgid "Add contacts"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_1"
+msgid "1"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_2"
+msgid "2"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_3"
+msgid "3"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_4"
+msgid "4"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_5"
+msgid "5"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_6"
+msgid "6"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_7"
+msgid "7"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_8"
+msgid "8"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_9"
+msgid "9"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_ASTERISK"
+msgid "*"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_0"
+msgid "0"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_HASH"
+msgid "#"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_2"
+msgid "ABC"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_3"
+msgid "DEF"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_4"
+msgid "GHI"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_5"
+msgid "JKL"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_6"
+msgid "MNO"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_7"
+msgid "PQRS"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_8"
+msgid "TUV"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_9"
+msgid "WXYZ"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_0"
+msgid "+"
+msgstr ""
+
+msgctxt "sDIALPAD_COUNTRY_SELECTOR"
+msgid "%s (+%d)"
+msgstr ""
+
+msgctxt "sBUDDYMENU_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr ""
+
+msgctxt "sF_CHANGE_TOPIC_CAPTION"
+msgid "Change topic"
+msgstr ""
+
+msgctxt "sMAINMENU_CONVERSATION_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr ""
+
+msgctxt "sF_CHANGE_TOPIC_LABEL"
+msgid "Enter new topic"
+msgstr ""
+
+msgctxt "sFRE_TITLE"
+msgid "Welcome Tour"
+msgstr ""
+
+msgctxt "sFRE_START"
+msgid "Welcome to the new Skype for Windows."
+msgstr ""
+
+msgctxt "sFRE_CHAT"
+msgid "Redesigned for a richer chat experience."
+msgstr ""
+
+msgctxt "sFRE_PHOTO"
+msgid "Share your favourite photos and bring chats to life."
+msgstr ""
+
+msgctxt "sFRE_GROUP"
+msgid "Get everyone together with free group video calling."
+msgstr ""
+
+msgctxt "sFRE_PHONE"
+msgid "Keep the conversation going and take Skype with you."
+msgstr ""
+
+msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
+msgid "File transfer limit"
+msgstr ""
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
+msgid "Emergency numbers"
+msgstr ""
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
+msgid ""
+"Set your default country/region to check if Skype supports emergency calls "
+"in your country/region."
+msgstr ""
+
+msgctxt "sCALL_PHONES_EMERGENCY2_INLINE"
+msgid "Emergency calls are not supported in your country/region."
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2_INLINE"
+msgid ""
+"Only use Skype as an absolute last resort for emergency calling. <a "
+"href=\"%s\">Learn more</a>."
+msgstr ""
+
+msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
+msgid "Your Country/Region:"
+msgstr ""
+
+msgctxt "sSEND_MEDIA_MENU_HINT"
+msgid "Send contacts and media"
+msgstr ""
+
+msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
+msgid "Advertisement"
 msgstr ""

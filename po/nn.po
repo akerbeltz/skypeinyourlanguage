@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-05-27 21:14:03+0100\n"
-"PO-Revision-Date: 2014-08-09 18:31+0000\n"
-"Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
+"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
+"PO-Revision-Date: 2014-11-19 17:48+0000\n"
+"Last-Translator: Michael Bauer\n"
 "Language-Team: Norwegian Nynorsk (http://www.transifex.com/projects/p/skype-translation-project/language/nn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3724,6 +3724,10 @@ msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
 msgstr "Oppretta av:"
 
+msgctxt "sF_CHAT_INFO_LB_ADMIN"
+msgid "Administrators:"
+msgstr ""
+
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
 msgstr "Moderatorreglar:"
@@ -4336,9 +4340,21 @@ msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
 msgstr "Legg til alle i kontaktar"
 
+msgctxt "sZAPBUTTON_ADDTOGROUP"
+msgid "Add to Group"
+msgstr ""
+
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
 msgstr "Legg til i konferanse"
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
+msgid "Add to group call"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCERINGING"
+msgid "Add to group call"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
@@ -4376,17 +4392,21 @@ msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
 msgstr "Ring"
 
+msgctxt "sZAPBUTTON_CALLMULTIPLE"
+msgid "Call"
+msgstr ""
+
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
 msgstr "Legg til i samtale"
 
-msgctxt "sZAPBUTTON_CALLWHICH"
-msgid "Call"
-msgstr "Samtale"
-
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
 msgstr "Ring gruppe"
+
+msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
+msgid "Copy conversation link"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
@@ -4584,6 +4604,10 @@ msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
 msgstr "Avvis"
 
+msgctxt "sZAPBUTTON_DECLINECALL"
+msgid "Decline"
+msgstr ""
+
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
 msgstr "Slett"
@@ -4591,62 +4615,6 @@ msgstr "Slett"
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
 msgstr "Tastatur"
-
-msgctxt "sZAPBUTTON_DIALPAD_0"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_1"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_2"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_3"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_4"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_5"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_6"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_7"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_8"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_9"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_ASTERIX"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_HASH"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_SMS"
-msgid " "
-msgstr ""
-
-msgctxt "sZAPBUTTON_DIALPAD_CALL"
-msgid " "
-msgstr ""
 
 msgctxt "sZAPBUTTON_DIALNUMBER"
 msgid "Dial this phone number"
@@ -4800,6 +4768,10 @@ msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
 msgstr "Anna"
 
+msgctxt "sZAPBUTTON_ADDPEOPLE"
+msgid "Add people"
+msgstr ""
+
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
 msgstr "Skype"
@@ -4880,6 +4852,10 @@ msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
 msgstr "Finn ut meir"
 
+msgctxt "sZAPBUTTON_LEAVECONVERSATION"
+msgid "Leave conversation"
+msgstr ""
+
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
 msgstr "Lokaliser"
@@ -4887,6 +4863,10 @@ msgstr "Lokaliser"
 msgctxt "sZAPBUTTON_MPV_ALONE"
 msgid "MPV alone"
 msgstr "MPV åleine"
+
+msgctxt "sZAPBUTTON_MERGECALLS"
+msgid "Merge calls"
+msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
@@ -4911,14 +4891,6 @@ msgstr "via Skype"
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
 msgstr "Meir"
-
-msgctxt "sZAPBUTTON_MONITORVIDEOCLOSE"
-msgid "Close call monitor"
-msgstr "Lat att oppringingsmonitor"
-
-msgctxt "sZAPBUTTON_MONITORAUDIOCLOSE"
-msgid "Close call monitor"
-msgstr "Lat att oppringingsmonitor"
 
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
@@ -5052,6 +5024,22 @@ msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
 msgstr "Send fil"
 
+msgctxt "sZAPBUTTON_SENDIMAGE"
+msgid "Send image"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SENDCONTACTS"
+msgid "Send contacts"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ENTRYTOOLBAREXPAND"
+msgid "More"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ENTRYTOOLBARCOLLAPSE"
+msgid "Less"
+msgstr ""
+
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
 msgstr "Vel som mitt bilde"
@@ -5076,13 +5064,13 @@ msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
 msgstr "Fjern"
 
+msgctxt "sZAPBUTTON_PLUS"
+msgid "More"
+msgstr ""
+
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
 msgstr "Send"
-
-msgctxt "sZAPBUTTON_SHOP"
-msgid "Shop"
-msgstr "Butikk"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5124,6 +5112,22 @@ msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
 msgstr "Spel av videomelding"
 
+msgctxt "sZAPBUTTON_POPOUTPLAY"
+msgid "Play voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTPAUSE"
+msgid "Pause voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTSTOP"
+msgid "Stop voice message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_POPOUTRELOAD"
+msgid "Reload voice message"
+msgstr ""
+
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
 msgstr "Vis bilde"
@@ -5157,8 +5161,8 @@ msgid "View Profile"
 msgstr "Vis profil"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
-msgid "View account"
-msgstr "Vis konto"
+msgid "View my account"
+msgstr ""
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -5211,6 +5215,10 @@ msgstr "Skjermdelingsinnstillingar"
 msgctxt "sZAPBUTTON_CT_MESSAGE"
 msgid "IM"
 msgstr "Direktemelding"
+
+msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
+msgid "IM"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -5307,6 +5315,34 @@ msgstr "Avbryt melding"
 msgctxt "sZAPBUTTON_NOVIDM"
 msgid "No, thanks"
 msgstr "Nei takk"
+
+msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
+msgid "Send quality feedback"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CLOSEWINDOW"
+msgid "Close"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CM_RESUME"
+msgid "Resume call"
+msgstr ""
+
+msgctxt "sZAPBUTTON_REMOVEFROMFAVOURITESBTN"
+msgid "Remove contact from favourites"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ADDTOFAVOURITESBTN"
+msgid "Add contact to favourites"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SEARCHSKYPE"
+msgid "Search Skype"
+msgstr ""
+
+msgctxt "sZAPBUTTON_DONE"
+msgid "Done"
+msgstr ""
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5555,7 +5591,7 @@ msgctxt "sF_OPTIONS_WEBCAM_NOT_FOUND"
 msgid ""
 "Skype couldn't find a webcam. With a webcam, you can make free video calls "
 "to anyone else on Skype, anywhere in the world."
-msgstr ""
+msgstr "Skype fann ikkje noko nettkamera. Med eit nettkamera får du gratis videosamtalar til alle på skype i heile verda."
 
 msgctxt "sF_OPTIONS_ABOUT_VIDEO_CALL"
 msgid "Find out more about video calls"
@@ -5774,8 +5810,8 @@ msgid "Privacy..."
 msgstr "Personvern …"
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
-msgid "Account..."
-msgstr "Konto …"
+msgid "My account"
+msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -6140,8 +6176,10 @@ msgid ""
 msgstr "Mislykka sending. Du kan berre sende filer som ikkje vert brukte av andre program og du kan ikkje sende mapper."
 
 msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
-msgid "Too many parallel file sendings"
-msgstr "For mange paralelle filoverføringar"
+msgid ""
+"You cannot send any more files until your existing file transfers have "
+"finished."
+msgstr ""
 
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
@@ -6249,8 +6287,8 @@ msgid "%d conversations"
 msgstr "%d samtalar"
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
-msgid "Finished"
-msgstr "Avslutta"
+msgid "Call ended"
+msgstr ""
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
@@ -6312,8 +6350,8 @@ msgid "Default View"
 msgstr "Standardvising"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
-msgid "Compact View"
-msgstr "Kompaktvising"
+msgid "Split Window View"
+msgstr ""
 
 msgctxt "sTRAYALERT_NONEW"
 msgid "No new conversations"
@@ -7129,8 +7167,8 @@ msgid "No speakers detected."
 msgstr "Ingen mikrofon funnen."
 
 msgctxt "sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3"
-msgid "Automatically receive video and share screens with..."
-msgstr "Automatisk ta imot video og del skjerm med …"
+msgid "Automatically receive video and share screens with"
+msgstr "Automatisk ta imot video og del skjermar med"
 
 msgctxt "sVIDEO_BTN_SHOW_HERE"
 msgid "Show here"
@@ -7289,7 +7327,7 @@ msgstr "Legg på"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
-msgstr "Skype Access"
+msgstr "Skype WiFi"
 
 msgctxt "sF_OPTIONS_LBC_SKYACCESS"
 msgid "<b>Skype WiFi:</b> Use Skype Credit to pay for internet access"
@@ -7297,7 +7335,7 @@ msgstr "<b>Skype WiFi:</b> Bruk Skype-kreditt til å betale for Internett-tilgan
 
 msgctxt "sF_OPTIONS_SKYACCESS_ENABLE"
 msgid "Enable Skype WiFi"
-msgstr "Slå på Skype Access"
+msgstr "Slå på Skype WiFi"
 
 msgctxt "sSKYACCESS_TRAY_SESSIONEXPIRE"
 msgid ""
@@ -7310,7 +7348,7 @@ msgstr "Utvid økta"
 
 msgctxt "sSKYACCESS_TRAYMENU_STATUS"
 msgid "View Skype WiFi"
-msgstr "Vis Skype Access"
+msgstr "Vis Skype WiFi"
 
 msgctxt "sSKYACCESS_TRAYMENU_CONNECT"
 msgid "Connect"
@@ -7322,15 +7360,15 @@ msgstr "Kople frå"
 
 msgctxt "sSKYACCESS_TRAYMENU_QUIT"
 msgid "Quit Skype WiFi"
-msgstr "Avslutt Skype Wi-Fi Access"
+msgstr "Avslutt Skype Wi-Fi"
 
 msgctxt "sSKYACCESS_WARN_QUIT_SKYPE"
 msgid "Quitting Skype will end your Skype WiFi session. Continue?"
-msgstr "Om du avsluttar Skype vil det òg avslutte Skype Access. Halde fram?"
+msgstr "Om du avsluttar Skype vil det òg avslutte Skype WiFi-økta. Halde fram?"
 
 msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr "Skype Access …"
+msgstr "Skype WiFi …"
 
 msgctxt "sUSERCREATE_PWD_HINT"
 msgid "6-20 characters needed"
@@ -7524,11 +7562,11 @@ msgstr "Samtaleoverføring frå <b>%s</b>"
 
 msgctxt "sSKYACCESS_TRAYICON_HINT"
 msgid "Skype WiFi"
-msgstr "Skype Access"
+msgstr "Skype WiFi"
 
 msgctxt "sSKYACCESS_TRAYICON_HINT_CONNECTED"
 msgid "Skype WiFi connected (%s / %s)"
-msgstr "Skype Access tilkopla (%s / %s)"
+msgstr "Skype WiFi tilkopla (%s / %s)"
 
 msgctxt "sGROUP_CALL_REJECTED_IN"
 msgid "Group call declined."
@@ -7548,7 +7586,7 @@ msgstr "Avslutt Skype"
 
 msgctxt "sTASKBAR_MENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr "Skype Access …"
+msgstr "Skype WiFi …"
 
 msgctxt "sLIVE_B_FULLSCREEN"
 msgid "Full screen"
@@ -8105,8 +8143,10 @@ msgid "Transfer this call"
 msgstr "Overfør denne samtalen"
 
 msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
-msgid "Failed to log in. Check your Skype Name or password"
-msgstr "Mislykka innlogging. Kontroller Skype-namn og passord"
+msgid ""
+"Unable to sign in, Check your Skype Name and password are correct and try "
+"again."
+msgstr ""
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
@@ -9962,7 +10002,7 @@ msgctxt "sSKYPEWIFI_INTRO_DESC"
 msgid ""
 "Get online at public WiFi hotspots and pay only for the minutes you use with"
 " Skype Credit."
-msgstr ""
+msgstr "Kople deg til offentlege WiFi-soner og betal berre for dei minutta du brukar med Skype-kreditt."
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT1"
 msgid "Use Skype, check email and surf the web"
@@ -9970,7 +10010,7 @@ msgstr "Bruk Skype, sjekk epost og surf på nettet"
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT2"
 msgid "Skype WiFi is available at over one million locations worldwide"
-msgstr ""
+msgstr "Skype WiFi er tilgjengeleg på over ein millionb stadar i heile verda"
 
 msgctxt "sSKYPEWIFI_INTRO_TEXT3"
 msgid "Only pay for the minutes you use"
@@ -10000,7 +10040,7 @@ msgctxt "sSKYPEWIFI_ALREADYONLINE_DESC"
 msgid ""
 "Looks like you're already connected to the internet. Skype WiFi lets you go "
 "online at public WiFi hotspots in over 1 million locations worldwide."
-msgstr ""
+msgstr "Det ser ut til at du allereie er kopla til Internett. Skype WiFi koplar deg til WiFi-soner på over 1 million stadar i heile verda."
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_BUTTON"
 msgid "Learn more"
@@ -10119,7 +10159,7 @@ msgstr ""
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_CARD"
 msgid ""
 "We accept Visa and MasterCard. Visa Electron and Maestro are not accepted."
-msgstr ""
+msgstr "Vi godtek Visa og MasterCard. Visa Electron og Maestro er ikkje godtekne."
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_SECURITY"
 msgid ""
@@ -10141,7 +10181,7 @@ msgctxt "sSKYPEWIFI_PAYMENTOK_DESC"
 msgid ""
 "Your Skype Credit purchase was successful. You're now ready to connect with "
 "Skype WiFi."
-msgstr ""
+msgstr "Skype-kredittkjøpet fullført. Du er no klar for å kople til Skype WiFi."
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_BUTTON"
 msgid "Continue"
@@ -10187,7 +10227,7 @@ msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
 "By connecting, you agree to the provider's <a href=\"%s\">Terms of "
 "Service</a>."
-msgstr ""
+msgstr "Ved å kople til er du samd i <a href=\"%s\">Brukarvilkåra</a>."
 
 msgctxt "sSKYPEWIFI_READY_TOS_NOTOS"
 msgid "By connecting, you agree to the provider's Terms of Service"
@@ -10223,7 +10263,7 @@ msgstr "Kople frå"
 
 msgctxt "sSKYPEWIFI_EXTEND_HEADER"
 msgid "Your connection is about to time out"
-msgstr ""
+msgstr "Koplinga di held på å få tidsavbrot"
 
 msgctxt "sSKYPEWIFI_EXTEND_DESC"
 msgid ""
@@ -10316,7 +10356,7 @@ msgstr "Sendt"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_EXPIRED"
 msgid "Video message expired"
-msgstr ""
+msgstr "Videomeldinga er ikkje lenger gyldig"
 
 msgctxt "sVIDEOMSG_LEGACY_MESSAGE"
 msgid ""
@@ -10341,7 +10381,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_EXPIRED_TITLE"
 msgid "Sorry, this video message has expired."
-msgstr ""
+msgstr "Denne videomeldinga er ikkje lenger gyldig."
 
 msgctxt "sVIDEOMSG_UNAVAILABLE_GENERAL_MESSAGE"
 msgid "Sorry, this video message is unavailable."
@@ -10368,8 +10408,8 @@ msgid "Search for <a href=\"x\">%s</a> on Skype."
 msgstr "Søk etter <a href=\"x\">%s</a> på Skype."
 
 msgctxt "sCHAT_SEND_MESSAGE"
-msgid "Send a message"
-msgstr "Send ei melding"
+msgid "Type a message here"
+msgstr ""
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -10485,11 +10525,11 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_LOGINHELP_HEADER"
 msgid "You’re connected to supported WiFi"
-msgstr ""
+msgstr "Du er kopla til støtta WiFi"
 
 msgctxt "sSKYPEWIFI_LOGINHELP_DESC"
 msgid "Please enter your Skype Name and password to start using Skype WiFi"
-msgstr ""
+msgstr "Skriv inn Skype-namn og passord for å byrje å bruke Skype WiFi"
 
 msgctxt "sSKYPEWIFI_LOGINHELP_BUTTON"
 msgid "Learn more"
@@ -10669,7 +10709,7 @@ msgid ""
 "Call who you want, when you want<br/>• Call mobiles and landlines "
 "worldwide<br/>• Send text messages and access WiFi hotspots<br/><a "
 "href=\"%s\">Add Skype Credit</a>"
-msgstr ""
+msgstr "Ring til den du vil når du vil<br/>• Ring mobilar og fasttelefonar i heile verda<br/>• Send tekstmeldingar og kople til WiFi-soner<br/><a href=\"%s\">Legg til Skype-kreditt</a>"
 
 msgctxt "sMYINFO_SUBSCRIPTIONS"
 msgid "Subscriptions"
@@ -10690,8 +10730,8 @@ msgid ""
 msgstr ""
 
 msgctxt "sMYINFO_MY_ACCOUNT"
-msgid "Manage account"
-msgstr "Handsam konto"
+msgid "Manage my account"
+msgstr ""
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
@@ -10707,7 +10747,7 @@ msgstr "Ring mobilar og fasttelefonar."
 
 msgctxt "sAPP_TOOLBAR_CHAT_TOOLTIP"
 msgid "Start a new chat. Create a group, send instant messages and files."
-msgstr ""
+msgstr "Start ein ny prat. Lag ei gruppe, send meldingar og filer."
 
 msgctxt "sAPP_TOOLBAR_ADD_CONTACT_TOOLTIP"
 msgid ""
@@ -10741,15 +10781,9 @@ msgctxt "sACC_CONTACT_PHONE_EDIT_ENTER_NUMBER_HINT"
 msgid "enter number"
 msgstr "skriv inn nummeret"
 
-msgctxt "sCONVERSATION_PASSPORT_PARTNER_BLOCKED_LINK"
-msgid ""
-"%s is blocked and can't answer. If you want to chat, <a href=\"%s\">unblock "
-"them from the web profile</a>."
-msgstr "%s er blokkert og kan ikkje svare. Om du vil prate, <a href=\"%s\">ta bort blokkeringa frå nettprofilen</a> ."
-
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
-msgstr "Vis full profilen"
+msgstr "Vis full profil"
 
 msgctxt "sHIDE_FULL_PROFILE"
 msgid "Hide full profile"
@@ -10782,8 +10816,8 @@ msgid "Paying with:"
 msgstr "Betale med:"
 
 msgctxt "sTOPUP_AUTO_RECHARGE"
-msgid "Enable Auto-recharge"
-msgstr "Slå på Auto-påfyll"
+msgid "Enable Auto-recharge when I'm running low on credit"
+msgstr ""
 
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
 msgid "Accept <a href=\"%s\">Terms of Use</a>"
@@ -10875,8 +10909,11 @@ msgstr "Korleis Auto-påfyll verkar"
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
 msgid ""
-"Don't worry about running out of credit, we'll add more when you're running "
-"low."
+"Auto-recharge saves you time and hassle. We’ll charge your preferred payment"
+" method and credit your account with the amount selected above when your "
+"balance is low. You can disable Auto-recharge any time in My Account, under "
+"Billing and Payments. For more information read <a "
+"href=\"http://www.skype.com/go/tou.refund\">Skype’s refund policy</a>."
 msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
@@ -10958,7 +10995,7 @@ msgctxt "sTOPUP_INTRO_PARAGRAPH_ATU_SUSPENDED"
 msgid ""
 "Looks like you’re running low on credit. Auto-recharge is unavailable at "
 "this time, but you can still add credit manually."
-msgstr ""
+msgstr "Det ser ut til at du har lite kreditt. Auto-påfyll er ikkje tilgjengeleg no, men du kan likevel leggje til kreditt manuelt."
 
 msgctxt "sOPTIONS_HIDE_IP_ADDRESS"
 msgid "Allow direct connections to your contacts only."
@@ -11056,7 +11093,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
 msgid "Looking good!"
-msgstr ""
+msgstr "Det ser bra ut!"
 
 msgctxt "sVIDEOMSG_LOOKING_GOOD_DESC"
 msgid "Hit record when you're ready."
@@ -11064,7 +11101,7 @@ msgstr "Trykk opptak når du er klar."
 
 msgctxt "DECLINE_POPUP_CAPTION"
 msgid "Decline contact request"
-msgstr ""
+msgstr "Avvis kontaktførespurnad"
 
 msgctxt "DECLINE_POPUP_BLOCK_CAPTION"
 msgid "Block"
@@ -11128,7 +11165,7 @@ msgstr "Ny videomelding"
 
 msgctxt "sACC_NAME_MYSELF_HEADER"
 msgid "My profile"
-msgstr ""
+msgstr "Min profil"
 
 msgctxt "sACC_NAME_QF"
 msgid "Search"
@@ -11144,7 +11181,7 @@ msgstr "Kontaktar"
 
 msgctxt "sACC_NAME_CONVERSATIONS_TAB"
 msgid "All recent messages."
-msgstr ""
+msgstr "Alle nylege meldingar."
 
 msgctxt "sACC_NAME_INBOX_LIST"
 msgid "Recent messages"
@@ -11168,7 +11205,7 @@ msgstr "Alle %0:s"
 
 msgctxt "sVIDEOMSG_UPSELL"
 msgid "Would you like to leave a video message?"
-msgstr ""
+msgstr "Vil du leggje att ei videomelding?"
 
 msgctxt "sVIDEOMSG_UPSELL_BUTTON"
 msgid "Video message"
@@ -11180,15 +11217,15 @@ msgstr ""
 
 msgctxt "sACC_NAME_SEARCH_EDIT"
 msgid "Search by name, Skype name or email"
-msgstr ""
+msgstr "Søk med namn, Skype-namn, eller e-post"
 
 msgctxt "sACC_NAME_SEARCH_RESULTS"
 msgid "Search results"
-msgstr ""
+msgstr "Søkjeresultat"
 
 msgctxt "sACC_NAME_ADD_CONTACT_PANEL_CLOSE"
 msgid "Exit add contacts"
-msgstr ""
+msgstr "Avslutt legg til kontaktar"
 
 msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
 msgid "You're online with Skype WiFi"
@@ -11196,7 +11233,7 @@ msgstr "Du er pålogga med Skype WiFi"
 
 msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
 msgid "Connection expires soon"
-msgstr ""
+msgstr "Tilkoplinga vert snart avslutta"
 
 msgctxt "sSKYPEWIFI_LESS_THAN_MINUTE"
 msgid ""
@@ -11218,131 +11255,131 @@ msgstr ""
 
 msgctxt "sACC_NAME_SELECTED_GROUP_ALL_BUDDIES"
 msgid "All contacts"
-msgstr ""
+msgstr "Alle kontaktar"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_SKYPE_BUDDIES"
 msgid "All Skype contacts"
-msgstr ""
+msgstr "Alle Skype-kontaktar"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_ONLINE_BUDDIES"
 msgid "All online contacts"
-msgstr ""
+msgstr "Alle tilkopla-kontaktar"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_EXTERNAL_CONTACTS"
 msgid "All Outlook contacts"
-msgstr ""
+msgstr "Alle Outlook-kontaktar"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_XMPP_CONTACTS"
 msgid "All Facebook contacts"
-msgstr ""
+msgstr "Alle Facebook-kontaktar"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_PASSPORT_CONTACTS"
 msgid "All Messenger contacts"
-msgstr ""
+msgstr "Alle Messenger-kontaktar"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
 msgid "All Lync contacts"
-msgstr ""
+msgstr "Alle Lync-kontaktar"
 
 msgctxt "sACC_CALL_POPUP_NAME"
 msgid "Call options"
-msgstr ""
+msgstr "Samtaleinnstillingar"
 
 msgctxt "sACC_CALL_EDIT_NUMBER_BUTTON"
 msgid "Edit number"
-msgstr ""
+msgstr "Rediger nummer"
 
 msgctxt "sACC_CALL_PHONES_SELECTED_COUNTRY_COMBO_NAME"
 msgid "Select country/region to call"
-msgstr ""
+msgstr "Vel land/region å ringje til"
 
 msgctxt "sACC_CALL_PHONES_ENTER_PHONE_NUMBER_EDIT_NAME"
 msgid "Enter phone number"
-msgstr ""
+msgstr "Skriv inn telefonnnummer"
 
 msgctxt "sACC_CALL_PHONES_CLEAR_BUTTON"
 msgid "Clear phone number"
-msgstr ""
+msgstr "Ta bort telefonummer"
 
 msgctxt "sACC_CALL_PHONES_SEND_SMS_BUTTON"
 msgid "Write SMS"
-msgstr ""
+msgstr "Skriv SMS"
 
 msgctxt "sACC_CALL_PHONES_QUALITY_BUTTON"
 msgid "Check connection settings"
-msgstr ""
+msgstr "Kontroller tilkoplingsinnstillingar"
 
 msgctxt "sACC_CALL_PHONES_REQUEST_CREDIT_NAME"
 msgid "You have %s Skype Credit, Buy more credit"
-msgstr ""
+msgstr "Du har %s Skype-kreditt. Kjøp meir kreditt"
 
 msgctxt "sACC_CALL_PHONES_REQEUST_SUBSCRIPTION_NAME"
 msgid "You have %d subscriptions. Get a subscription"
-msgstr ""
+msgstr "Du har %d sabonnement. Få eit abonnement"
 
 msgctxt "sACC_CALL_PHONES_RECENT_CALLS_POPUP_NAME"
 msgid "Recent calls"
-msgstr ""
+msgstr "Nylege samtalar"
 
 msgctxt "sACC_NAME_HISTORY_LIST"
 msgid "History"
-msgstr ""
+msgstr "Historikk"
 
 msgctxt "sACC_NAME_ALREADY_CONTACT"
 msgid "Already a contact"
-msgstr ""
+msgstr "Allereie ein kontakt"
 
 msgctxt "sACC_NAME_SEND_CONTACT_REQUEST_TEXT"
 msgid "Introductory message"
-msgstr ""
+msgstr "Innleiande melding"
 
 msgctxt "sACC_MYSELF_PROFILE_TIMEZONE_COMBO_NAME"
 msgid "Timezone"
-msgstr ""
+msgstr "Tidssone"
 
 msgctxt "sACC_MYSELF_PROFILE_COUNTRY_COMBO_NAME"
 msgid "Country/Region"
-msgstr ""
+msgstr "Land/Region"
 
 msgctxt "sACC_MYSELF_PROFILE_GENDER_COMBO_NAME"
 msgid "Gender"
-msgstr ""
+msgstr "Kjønn"
 
 msgctxt "sACC_MYSELF_PROFILE_LANGUAGE_COMBO_NAME"
 msgid "Language"
-msgstr ""
+msgstr "Språk"
 
 msgctxt "sACC_MYSELF_PROFILE_BIRTH_DAY_COMBO_NAME"
 msgid "Day"
-msgstr ""
+msgstr "Dag"
 
 msgctxt "sACC_MYSELF_PROFILE_BIRTH_MONTH_COMBO_NAME"
 msgid "Month"
-msgstr ""
+msgstr "Månad"
 
 msgctxt "sACC_MYSELF_PROFILE_BIRTH_YEAR_COMBO_NAME"
 msgid "Year"
-msgstr ""
+msgstr "År"
 
 msgctxt "sACC_NAME_CHAT_ENTRY"
 msgid "Type a message here"
-msgstr ""
+msgstr "Skriv ei melding her"
 
 msgctxt "sACC_NAME_CHAT_MESSAGE"
 msgid "From %0:s, %1:s, sent on %2:s"
-msgstr ""
+msgstr "Frå %0:s, %1:s, sendt %2:s"
 
 msgctxt "sCALLPHONES_PAYG_LNK"
 msgid "Buy Skype Credit"
-msgstr ""
+msgstr "Kjøp Skype-kreditt"
 
 msgctxt "sCALLPHONES_PAYG_MORE_LNK"
 msgid "Buy more credit"
-msgstr ""
+msgstr "Kjøp meir kreditt"
 
 msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
 msgid "Get another subscription"
-msgstr ""
+msgstr "Få eit anna abonnement"
 
 msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
 msgid "View your subscription(s)"
@@ -11350,25 +11387,25 @@ msgstr ""
 
 msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
 msgid "Renew"
-msgstr ""
+msgstr "Forny"
 
 msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
 msgid "Get a subscription"
-msgstr ""
+msgstr "Få eit abonnement"
 
 msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
 msgid "Request more credit"
-msgstr ""
+msgstr "Be om meir kreditt"
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
 msgid "Request a subscription"
-msgstr ""
+msgstr "Be om eit abonnement"
 
 msgctxt "sSMS_NO_CREDIT"
 msgid ""
 "You need Skype Credit to send text messages (SMS). %0:sBuy Skype Credit "
 "now%1:s"
-msgstr ""
+msgstr "Du må ha Skype-kreditt for å sende tekstmeldingar (SMS). %0:sBKjøp Skype-kreditt no%1:s"
 
 msgctxt "sACC_CALL_EDIT_HOME_NUMBER_BUTTON"
 msgid "Edit home number"
@@ -11887,11 +11924,11 @@ msgstr ""
 
 msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
 msgid "Show messages from <a href=\"skype:?chat&id=%1\">older chat</a>."
-msgstr ""
+msgstr "Vis meldingar frå <a href=\"skype:?chat&id=%1\">eldre prat</a>."
 
 msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASEDEX"
 msgid "Show messages from <a href=\"skype:?chat&id=%0:s\">older chat</a>."
-msgstr ""
+msgstr "Vis meldingar frå <a href=\"skype:?chat&id=%0:s\">eldre prat</a>."
 
 msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
 msgid ""
@@ -11935,11 +11972,11 @@ msgstr ""
 
 msgctxt "sACC_GSW_SPEAKER_HELP_BUTTON"
 msgid "Speakers help button"
-msgstr ""
+msgstr "Høgtalar-hjelpeknapp"
 
 msgctxt "sACC_GSW_MIC_HELP_BUTTON"
 msgid "Microphone help button"
-msgstr ""
+msgstr "Mikrofon-hjelpeknapp"
 
 msgctxt "sACC_GSW_SELECT_WEBCAM"
 msgid "Select web camera"
@@ -11985,7 +12022,7 @@ msgstr ""
 
 msgctxt "sLIVE_TOGGLE_ORIGINAL_VIDEO_SIZE"
 msgid "Show Full Size Video"
-msgstr ""
+msgstr "Vis fullskjermvideo"
 
 msgctxt "sVP8LEGACY_UPGRADE_LEGACY_HOST"
 msgid ""
@@ -12156,8 +12193,8 @@ msgid "<b>%s</b> would like to add you on Skype"
 msgstr "<b>%s</b> vil gjerne leggje deg til på Skype"
 
 msgctxt "sCHAT_HISTORY_JUMPBACK"
-msgid "Jump back"
-msgstr "Hopp tilbake"
+msgid "Jump Back"
+msgstr ""
 
 msgctxt "sMSNP24_MERGE_MESSAGE"
 msgid "From now on your chats will sync on all your devices."
@@ -12201,11 +12238,11 @@ msgstr "Framifrå"
 
 msgctxt "sTHANKS_FOR_YOUR_FEEDBACK"
 msgid "Many thanks. You've just made some engineers at Skype very happy..."
-msgstr ""
+msgstr "Mange takk. Du har nettopp gjort nokre ingeniørar på Skype veldig lukkelege "
 
 msgctxt "sINBOX_PENDING_CONTACT_REQUESTS"
 msgid "Pending contact requests"
-msgstr ""
+msgstr "Ventande kontaktførespurnadar"
 
 msgctxt "stalktothehand_SMILEY"
 msgid "Talk to the hand"
@@ -12241,15 +12278,15 @@ msgstr ""
 
 msgctxt "sblackwidow_SMILEY"
 msgid "Black Widow"
-msgstr ""
+msgstr "Svart enkje"
 
 msgctxt "snickfury_SMILEY"
 msgid "Nick Fury"
-msgstr ""
+msgstr "Nick Fury"
 
 msgctxt "sshielddeflect_SMILEY"
 msgid "Shield"
-msgstr ""
+msgstr "Skjold"
 
 msgctxt "sCALLNOTIF_TITLE_V2"
 msgid "%s calling..."
@@ -12269,19 +12306,19 @@ msgstr "%d deltakarar"
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
 msgid "Show images in conversations"
-msgstr ""
+msgstr "Vis bilde i samtalar"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
 msgid "Sent"
-msgstr ""
+msgstr "Sendt"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2_ASYNC"
 msgid "Transfer failed"
-msgstr ""
+msgstr "Mislukka overføring"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_SENDING_2_ASYNC"
 msgid "Sending failed"
-msgstr ""
+msgstr "Mislukka sending"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_ASYNC"
 msgid "%s"
@@ -12304,8 +12341,8 @@ msgid "File moved"
 msgstr "Fil flytta"
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
-msgid "SHOW IN FOLDER"
-msgstr "VIS I MAPPE"
+msgid "Show in folder"
+msgstr ""
 
 msgctxt "sFILETRANSFER_AUTO_ACCEPT"
 msgid "Automatically accept incoming files"
@@ -12340,12 +12377,12 @@ msgid "Files received"
 msgstr "Filer mottekne"
 
 msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
-msgid "DOWNLOAD ALL"
-msgstr "LAST NED ALLE"
+msgid "Download all"
+msgstr ""
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
-msgid "CANCEL ALL"
-msgstr "AVBRYT ALLE"
+msgid "Cancel all"
+msgstr ""
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
@@ -12495,13 +12532,13 @@ msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
 msgid "Make chat history available to new joiners"
 msgstr "Gjer pratehistorikk tilgjengeleg for nye deltakarar"
 
-msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_CHANGE"
-msgid "Allow this group's picture and name to be changed"
-msgstr "Tillat endring av gruppebilde og namn"
-
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOIN"
 msgid "Allow people to join this group"
 msgstr "Tillat personar å bli med i denne gruppa"
+
+msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
+msgid "Administrator settings"
+msgstr ""
 
 msgctxt "sF_CHAT_INFO_COPY_LINK"
 msgid "Copy conversation link"
@@ -12578,5 +12615,403 @@ msgid "Most Recent"
 msgstr "Siste"
 
 msgctxt "sMAINMENU_VIEW_FAVORITES"
-msgid "Favourites"
+msgid "Favorites"
 msgstr "Favorittar"
+
+msgctxt "sCONTACT_GROUP_ALLCONTACTS"
+msgid "All Contacts"
+msgstr "Alle kontaktar"
+
+msgctxt "sCHAT_JUMPBACK_HEADER"
+msgid "Jump Back:"
+msgstr "Hopp tilbake:"
+
+msgctxt "sSEARCH_WITH_BING"
+msgid "Search with Bing"
+msgstr "Søk med Bing"
+
+msgctxt "sF_OPTIONS_CB_AUTO_CORRECT"
+msgid "Auto correct and highlight misspelled words"
+msgstr "Auto-rett og og marker feilstava ord"
+
+msgctxt "sF_OPTIONS_LB_AUTO_CORRECT"
+msgid "To enable the spell checker, %0:sgo to your PC settings%1:s"
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_AUDIO"
+msgid "Make this a group video call. It's free."
+msgstr "Gjer dette til ein gruppevideosamtale. Det er gratis."
+
+msgctxt "sFREE_GVC_PROMO_GROUP_VIDEO"
+msgid "Add more people to your video call for free."
+msgstr ""
+
+msgctxt "sFREE_GVC_PROMO_GROUP_GROUP"
+msgid "Get more out of your conversation with a free group video call."
+msgstr ""
+
+msgctxt "sOPTIONS_SHOW_PROFILE_PICTURES"
+msgid "Show profile pictures"
+msgstr "Vis profilbilde"
+
+msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
+msgid "%s for 1 month"
+msgstr "%s for 1 månad"
+
+msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
+msgid "From %s for 1 month"
+msgstr "Frå %si 1 månad"
+
+msgctxt "sCALLPHONES_PAYG_CAPTION_NO_RATE"
+msgid "Pay As You Go"
+msgstr "Betal etterkvart"
+
+msgctxt "sVOICEMAIL_PROMPT"
+msgid "Are you sure you want to send a voice message to<b>%s</b>?"
+msgstr ""
+
+msgctxt "sVOICEMAIL_PROMPT_TITLE"
+msgid "Send voice message"
+msgstr ""
+
+msgctxt "sVOICEMAIL_PROMPT_CAP"
+msgid "Voice message"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
+msgid "Phone:"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER"
+msgid "Edit"
+msgstr ""
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
+msgid "Edit %s"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
+msgid "Leave Conversation"
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
+msgid "Limited emergency calling"
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2"
+msgid ""
+"Emergency calling is only supported by certain countries/regions. Please, go"
+" to Call settings to set your default location."
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
+msgid "SMS sent to <a href=\"x\">%d person</a>"
+msgstr ""
+
+msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
+msgid "Select no more than %d participants to be able to start a video call"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_SO_CONTACT_HINT"
+msgid "You cannot place video calls to mobile or land lines"
+msgstr ""
+
+msgctxt "sVIDEOCALL_BTN_ECHO_CONTACT_HINT"
+msgid "You cannot place test video calls"
+msgstr ""
+
+msgctxt "sCONTACTS_LINK_CAPS"
+msgid "CONTACTS"
+msgstr ""
+
+msgctxt "sRECENTS_LINK_CAPS"
+msgid "RECENT"
+msgstr ""
+
+msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
+msgid "This photo is unavailable"
+msgstr ""
+
+msgctxt "sACC_NAME_PHOTO_MESSAGE"
+msgid "From %0:s, new photo, sent on %1:s"
+msgstr ""
+
+msgctxt "sTRAYALERT_PHOTO_MESSAGE"
+msgid "New photo"
+msgstr ""
+
+msgctxt "sPHOTO_SAVE_AS"
+msgid "Save as..."
+msgstr ""
+
+msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
+msgid "To view this shared photo, go to: %1"
+msgstr ""
+
+msgctxt "sACC_NAME_MYSELF_GRAPHIC"
+msgid "My profile picture"
+msgstr ""
+
+msgctxt "sSEARCHING_SKYPE_DIRECTORY"
+msgid "Searching Skype directory..."
+msgstr ""
+
+msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
+msgid "Show message previews in the sidebar"
+msgstr ""
+
+msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
+msgid "Simple List View"
+msgstr ""
+
+msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
+msgid "Give Feedback"
+msgstr ""
+
+msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
+msgid "No results found for %s"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_SINGLE"
+msgid "Sent you files"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
+msgid "Shared a photo"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
+msgid "Shared a location"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_SINGLE"
+msgid "Sent you a voice message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_SINGLE"
+msgid "Sent you a video message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_SINGLE"
+msgid "Sent you contacts"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
+msgid "%s sent files"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
+msgid "%s shared a photo"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_MULTI"
+msgid "%s shared a location"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_MULTI"
+msgid "%s sent a voice message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_MULTI"
+msgid "%s sent a video message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_MULTI"
+msgid "%s sent contacts"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_REQUESTED_AUTH"
+msgid "Sent you a contact request"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_GRANTED_AUTH"
+msgid "Contact request accepted"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
+msgid "Birthday today"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT"
+msgid "Are you sure you want to add contacts: <b>%s</b>?"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT_TITLE"
+msgid "Add contacts"
+msgstr ""
+
+msgctxt "sADDCONTACT_PROMPT_CAP"
+msgid "Add contacts"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_1"
+msgid "1"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_2"
+msgid "2"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_3"
+msgid "3"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_4"
+msgid "4"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_5"
+msgid "5"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_6"
+msgid "6"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_7"
+msgid "7"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_8"
+msgid "8"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_9"
+msgid "9"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_ASTERISK"
+msgid "*"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_0"
+msgid "0"
+msgstr ""
+
+msgctxt "sDIALPAD_MAIN_HASH"
+msgid "#"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_2"
+msgid "ABC"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_3"
+msgid "DEF"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_4"
+msgid "GHI"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_5"
+msgid "JKL"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_6"
+msgid "MNO"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_7"
+msgid "PQRS"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_8"
+msgid "TUV"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_9"
+msgid "WXYZ"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_0"
+msgid "+"
+msgstr ""
+
+msgctxt "sDIALPAD_COUNTRY_SELECTOR"
+msgid "%s (+%d)"
+msgstr ""
+
+msgctxt "sBUDDYMENU_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr ""
+
+msgctxt "sF_CHANGE_TOPIC_CAPTION"
+msgid "Change topic"
+msgstr ""
+
+msgctxt "sMAINMENU_CONVERSATION_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr ""
+
+msgctxt "sF_CHANGE_TOPIC_LABEL"
+msgid "Enter new topic"
+msgstr ""
+
+msgctxt "sFRE_TITLE"
+msgid "Welcome Tour"
+msgstr ""
+
+msgctxt "sFRE_START"
+msgid "Welcome to the new Skype for Windows."
+msgstr ""
+
+msgctxt "sFRE_CHAT"
+msgid "Redesigned for a richer chat experience."
+msgstr ""
+
+msgctxt "sFRE_PHOTO"
+msgid "Share your favourite photos and bring chats to life."
+msgstr ""
+
+msgctxt "sFRE_GROUP"
+msgid "Get everyone together with free group video calling."
+msgstr ""
+
+msgctxt "sFRE_PHONE"
+msgid "Keep the conversation going and take Skype with you."
+msgstr ""
+
+msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
+msgid "File transfer limit"
+msgstr ""
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
+msgid "Emergency numbers"
+msgstr ""
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
+msgid ""
+"Set your default country/region to check if Skype supports emergency calls "
+"in your country/region."
+msgstr ""
+
+msgctxt "sCALL_PHONES_EMERGENCY2_INLINE"
+msgid "Emergency calls are not supported in your country/region."
+msgstr ""
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2_INLINE"
+msgid ""
+"Only use Skype as an absolute last resort for emergency calling. <a "
+"href=\"%s\">Learn more</a>."
+msgstr ""
+
+msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
+msgid "Your Country/Region:"
+msgstr ""
+
+msgctxt "sSEND_MEDIA_MENU_HINT"
+msgid "Send contacts and media"
+msgstr ""
+
+msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
+msgid "Advertisement"
+msgstr ""

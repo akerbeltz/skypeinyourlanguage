@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-05-27 21:14:03+0100\n"
-"PO-Revision-Date: 2014-08-04 21:45+0000\n"
+"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
+"PO-Revision-Date: 2014-11-21 14:41+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Gaelic, Scottish (http://www.transifex.com/projects/p/skype-translation-project/language/gd/)\n"
 "MIME-Version: 1.0\n"
@@ -3722,6 +3722,10 @@ msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
 msgstr "Cruthaiche:"
 
+msgctxt "sF_CHAT_INFO_LB_ADMIN"
+msgid "Administrators:"
+msgstr "Rianairean:"
+
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
 msgstr "Riaghailtean modarataireachd:"
@@ -4334,9 +4338,21 @@ msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
 msgstr "Cuir na h-uile ris an luchd-aithne"
 
+msgctxt "sZAPBUTTON_ADDTOGROUP"
+msgid "Add to Group"
+msgstr "Cuir ris a' bhuidheann"
+
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
 msgstr "Cuir ris a' cho-labhairt"
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
+msgid "Add to group call"
+msgstr "Cuir ris a' ghairm bhuidhinn"
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCERINGING"
+msgid "Add to group call"
+msgstr "Cuir ris a' ghairm bhuidhinn"
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
@@ -4374,17 +4390,21 @@ msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
 msgstr "Cuir fòn"
 
+msgctxt "sZAPBUTTON_CALLMULTIPLE"
+msgid "Call"
+msgstr "Cuir fòn"
+
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
 msgstr "Cuir ris a' ghairm"
 
-msgctxt "sZAPBUTTON_CALLWHICH"
-msgid "Call"
-msgstr "Cuir fòn"
-
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
 msgstr "Fònaig am buidheann"
+
+msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
+msgid "Copy conversation link"
+msgstr "Ceangal ri lethbhreac a' chòmhraidh"
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
@@ -4582,6 +4602,10 @@ msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
 msgstr "Diùlt"
 
+msgctxt "sZAPBUTTON_DECLINECALL"
+msgid "Decline"
+msgstr "Diùlt"
+
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
 msgstr "Sguab às"
@@ -4589,62 +4613,6 @@ msgstr "Sguab às"
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
 msgstr "Pada nan àireamhan"
-
-msgctxt "sZAPBUTTON_DIALPAD_0"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_1"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_2"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_3"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_4"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_5"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_6"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_7"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_8"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_9"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_ASTERIX"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_HASH"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_SMS"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_CALL"
-msgid " "
-msgstr " "
 
 msgctxt "sZAPBUTTON_DIALNUMBER"
 msgid "Dial this phone number"
@@ -4798,6 +4766,10 @@ msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
 msgstr "Eile"
 
+msgctxt "sZAPBUTTON_ADDPEOPLE"
+msgid "Add people"
+msgstr "Cuir daoine ris"
+
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
 msgstr "Skype"
@@ -4878,6 +4850,10 @@ msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
 msgstr "Barrachd fiosrachaidh"
 
+msgctxt "sZAPBUTTON_LEAVECONVERSATION"
+msgid "Leave conversation"
+msgstr "Fàg an còmhradh"
+
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
 msgstr "Lorg"
@@ -4885,6 +4861,10 @@ msgstr "Lorg"
 msgctxt "sZAPBUTTON_MPV_ALONE"
 msgid "MPV alone"
 msgstr "MPV a-mhàin"
+
+msgctxt "sZAPBUTTON_MERGECALLS"
+msgid "Merge calls"
+msgstr "Cuir na gairmean còmhla"
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
@@ -4909,14 +4889,6 @@ msgstr "slighe Skype"
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
 msgstr "Barrachd"
-
-msgctxt "sZAPBUTTON_MONITORVIDEOCLOSE"
-msgid "Close call monitor"
-msgstr "Dùin maor nan gairmean"
-
-msgctxt "sZAPBUTTON_MONITORAUDIOCLOSE"
-msgid "Close call monitor"
-msgstr "Dùin maor nan gairmean"
 
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
@@ -5050,6 +5022,22 @@ msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
 msgstr "Cuir faidhle"
 
+msgctxt "sZAPBUTTON_SENDIMAGE"
+msgid "Send image"
+msgstr "Cuir dealbh"
+
+msgctxt "sZAPBUTTON_SENDCONTACTS"
+msgid "Send contacts"
+msgstr "Cuir luchd-aithne"
+
+msgctxt "sZAPBUTTON_ENTRYTOOLBAREXPAND"
+msgid "More"
+msgstr "Barrachd"
+
+msgctxt "sZAPBUTTON_ENTRYTOOLBARCOLLAPSE"
+msgid "Less"
+msgstr "Nas lugha"
+
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
 msgstr "Suidhich mar an dealbh agam"
@@ -5074,13 +5062,13 @@ msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
 msgstr "Thoir air falbh"
 
+msgctxt "sZAPBUTTON_PLUS"
+msgid "More"
+msgstr "Barrachd"
+
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
 msgstr "Cuir"
-
-msgctxt "sZAPBUTTON_SHOP"
-msgid "Shop"
-msgstr "Bùth"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5122,6 +5110,22 @@ msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
 msgstr "Cluich an teachdaireachd video"
 
+msgctxt "sZAPBUTTON_POPOUTPLAY"
+msgid "Play voice message"
+msgstr "Cluich am post-gutha"
+
+msgctxt "sZAPBUTTON_POPOUTPAUSE"
+msgid "Pause voice message"
+msgstr "Cuir am post-gutha 'na stad"
+
+msgctxt "sZAPBUTTON_POPOUTSTOP"
+msgid "Stop voice message"
+msgstr "Cuir stad air a' phost-ghutha"
+
+msgctxt "sZAPBUTTON_POPOUTRELOAD"
+msgid "Reload voice message"
+msgstr "Ath-luchdaich am post-gutha"
+
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
 msgstr "Seall an dealbh"
@@ -5155,8 +5159,8 @@ msgid "View Profile"
 msgstr "Seall a' phròifil"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
-msgid "View account"
-msgstr "Seall an cunntas"
+msgid "View my account"
+msgstr "Seall an cunntas agam"
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -5207,6 +5211,10 @@ msgid "Screensharing options"
 msgstr "Roghainnean airson co-roinneadh na sgrìn"
 
 msgctxt "sZAPBUTTON_CT_MESSAGE"
+msgid "IM"
+msgstr "IM"
+
+msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
 msgid "IM"
 msgstr "IM"
 
@@ -5305,6 +5313,34 @@ msgstr "Sguir dhen teachdaireachd"
 msgctxt "sZAPBUTTON_NOVIDM"
 msgid "No, thanks"
 msgstr "Chan eil, gun robh math agad"
+
+msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
+msgid "Send quality feedback"
+msgstr "Cuir thugainn do bheachdan mun ghairm"
+
+msgctxt "sZAPBUTTON_CLOSEWINDOW"
+msgid "Close"
+msgstr "Dùin"
+
+msgctxt "sZAPBUTTON_CM_RESUME"
+msgid "Resume call"
+msgstr "Lean air a' ghairm"
+
+msgctxt "sZAPBUTTON_REMOVEFROMFAVOURITESBTN"
+msgid "Remove contact from favourites"
+msgstr "Thoir air falbh an neach-aithne o na h-annsachdan"
+
+msgctxt "sZAPBUTTON_ADDTOFAVOURITESBTN"
+msgid "Add contact to favourites"
+msgstr "Cuir an neach-aithne ris na h-annsachdan"
+
+msgctxt "sZAPBUTTON_SEARCHSKYPE"
+msgid "Search Skype"
+msgstr "Lorg air Skype"
+
+msgctxt "sZAPBUTTON_DONE"
+msgid "Done"
+msgstr "Deiseil"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5772,8 +5808,8 @@ msgid "Privacy..."
 msgstr "Prìobhaideachd…"
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
-msgid "Account..."
-msgstr "Cunntas…"
+msgid "My account"
+msgstr "An cunntas agam"
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -6138,8 +6174,10 @@ msgid ""
 msgstr "Dh'fhàillig a chur. Chan urrainn dhut faidhlichean a chur a tha prògram eile 'gan cleachdadh agus chan urrainn dhut pasgan a chur."
 
 msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
-msgid "Too many parallel file sendings"
-msgstr "Dh'fheuch thu ri cus fhaidhlichean a chur aig an aon àm"
+msgid ""
+"You cannot send any more files until your existing file transfers have "
+"finished."
+msgstr "Chan urrainn dhut barrachd faidhlichean a chur gus am bi an fheadhainn a tha 'gan cur an-dràsta deiseil."
 
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
@@ -6247,8 +6285,8 @@ msgid "%d conversations"
 msgstr "%d còmhraidhean"
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
-msgid "Finished"
-msgstr "Deiseil"
+msgid "Call ended"
+msgstr "Gairm air crìochnachadh"
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
@@ -6310,8 +6348,8 @@ msgid "Default View"
 msgstr "An sealladh bunaiteach"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
-msgid "Compact View"
-msgstr "An sealladh dùmhail"
+msgid "Split Window View"
+msgstr "Sealladh uinneige sgoilte"
 
 msgctxt "sTRAYALERT_NONEW"
 msgid "No new conversations"
@@ -6494,7 +6532,7 @@ msgstr "Tha aplacaid eile (%s) a' feuchainn ri inntrigeadh a dhèanamh do Skype 
 
 msgctxt "sCONVERSATION_RECEIVED_VM"
 msgid "Sent a voice message"
-msgstr "Chuir thu post-gutha"
+msgstr "air post-gutha a chlàradh dhut"
 
 msgctxt "sCONVERSATION_RECEIVED_VM_CONF"
 msgid "%s sent a voice message"
@@ -7127,8 +7165,8 @@ msgid "No speakers detected."
 msgstr "Cha deach glaodhaire sam bith a lorg."
 
 msgctxt "sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3"
-msgid "Automatically receive video and share screens with..."
-msgstr "Faigh video is sgrìnichean co-roinnte gu fèin-obrachail..."
+msgid "Automatically receive video and share screens with"
+msgstr "Faigh video is sgrìnichean co-roinnte gu fèin-obrachail"
 
 msgctxt "sVIDEO_BTN_SHOW_HERE"
 msgid "Show here"
@@ -8103,8 +8141,10 @@ msgid "Transfer this call"
 msgstr "Sìn air adhart a' ghairm seo"
 
 msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
-msgid "Failed to log in. Check your Skype Name or password"
-msgstr "Dh'fhàillig an clàradh a-steach. Thoir sùil air an ainm is air an fhacal-fhaire Skype agad"
+msgid ""
+"Unable to sign in, Check your Skype Name and password are correct and try "
+"again."
+msgstr "Dh'fhàillig an clàradh a-steach. Thoir sùil air an ainm is air an fhacal-fhaire Skype agad is feuch ris a-rithist."
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
@@ -10298,7 +10338,7 @@ msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
 "Contacts in this list will not be deleted. You can still find them under "
 "\"All\""
-msgstr "Cha dèid an luchd-aithne sa liosta seo a sguabadh às. Gheibh thu iad fhathast fo \"A h-UILE\""
+msgstr "Cha dèid an luchd-aithne sa liosta seo a sguabadh às. Gheibh thu iad fhathast fo \"A h-uile\""
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
@@ -10366,8 +10406,8 @@ msgid "Search for <a href=\"x\">%s</a> on Skype."
 msgstr "Lorgr <a href=\"x\">%s</a> air Skype."
 
 msgctxt "sCHAT_SEND_MESSAGE"
-msgid "Send a message"
-msgstr "Cuir teachdaireachd"
+msgid "Type a message here"
+msgstr "Sgrìobh teachdaireachd an-seo"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -10688,8 +10728,8 @@ msgid ""
 msgstr "A' cur fòn gu tric? Caomhain airgead mòr...<br/><a href=\"%s\">Faigh fo-sgrìobhadh</a>"
 
 msgctxt "sMYINFO_MY_ACCOUNT"
-msgid "Manage account"
-msgstr "An cunntas agam"
+msgid "Manage my account"
+msgstr "Rianaich an cunntas agam"
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
@@ -10739,12 +10779,6 @@ msgctxt "sACC_CONTACT_PHONE_EDIT_ENTER_NUMBER_HINT"
 msgid "enter number"
 msgstr "cuir a-steach àireamh"
 
-msgctxt "sCONVERSATION_PASSPORT_PARTNER_BLOCKED_LINK"
-msgid ""
-"%s is blocked and can't answer. If you want to chat, <a href=\"%s\">unblock "
-"them from the web profile</a>."
-msgstr "Chaidh %s a chasg agus chan urrainn dhaibh freagairt. Ma tha thu airson cabadaich, <a href=\"%s\">thoir air falbh an casg orra sa phròifil-lìn</a>."
-
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
 msgstr "Seall a' phròifil shlàn"
@@ -10780,8 +10814,8 @@ msgid "Paying with:"
 msgstr "A' pàigheadh le:"
 
 msgctxt "sTOPUP_AUTO_RECHARGE"
-msgid "Enable Auto-recharge"
-msgstr "Cuir ath-theairrdseadh fèin-obrachail an comas"
+msgid "Enable Auto-recharge when I'm running low on credit"
+msgstr "Cuir an comas ath-theairrdseadh fèin-obrachail nuair a dh'fhàsas an creideas gann orm"
 
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
 msgid "Accept <a href=\"%s\">Terms of Use</a>"
@@ -10873,9 +10907,12 @@ msgstr "Mar a dh'obraicheas ath-theairrdseadh fèin-obrachail"
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
 msgid ""
-"Don't worry about running out of credit, we'll add more when you're running "
-"low."
-msgstr "Na bi dragh ort a thaobh gainnead creideis, cuiridh sinne barrachd ris nuair a dh'fhàsas e gann."
+"Auto-recharge saves you time and hassle. We’ll charge your preferred payment"
+" method and credit your account with the amount selected above when your "
+"balance is low. You can disable Auto-recharge any time in My Account, under "
+"Billing and Payments. For more information read <a "
+"href=\"http://www.skype.com/go/tou.refund\">Skype’s refund policy</a>."
+msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
 msgid "Skype WiFi"
@@ -12154,7 +12191,7 @@ msgid "<b>%s</b> would like to add you on Skype"
 msgstr "Bu toigh le <b>%s</b> do chur ris an luchd-aithne aca air Skype"
 
 msgctxt "sCHAT_HISTORY_JUMPBACK"
-msgid "Jump back"
+msgid "Jump Back"
 msgstr "Leum air ais"
 
 msgctxt "sMSNP24_MERGE_MESSAGE"
@@ -12302,8 +12339,8 @@ msgid "File moved"
 msgstr "Faidhle air a ghluasad"
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
-msgid "SHOW IN FOLDER"
-msgstr "SEALL 'NA PHASGAN"
+msgid "Show in folder"
+msgstr "Seall sa phasgan"
 
 msgctxt "sFILETRANSFER_AUTO_ACCEPT"
 msgid "Automatically accept incoming files"
@@ -12338,12 +12375,12 @@ msgid "Files received"
 msgstr "Faidhlichean a fhuair thu"
 
 msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
-msgid "DOWNLOAD ALL"
-msgstr "LUCHDAICH A-NUAS NA h-UILE"
+msgid "Download all"
+msgstr "Luchdaich a-nuas na h-uile"
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
-msgid "CANCEL ALL"
-msgstr "SGUIR DHEN A h-UILE"
+msgid "Cancel all"
+msgstr "Sguir dhen a h-uile"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
@@ -12493,13 +12530,13 @@ msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
 msgid "Make chat history available to new joiners"
 msgstr "Nochd eachdraidh na cabadaich do dhaoine ùr a thig a-steach"
 
-msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_CHANGE"
-msgid "Allow this group's picture and name to be changed"
-msgstr "Ceadaich atharrachadh dealbh is ainm a' bhuidhinn seo"
-
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOIN"
 msgid "Allow people to join this group"
 msgstr "Leig le daoine a dhol an sàs a' bhuidhinn seo"
+
+msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
+msgid "Administrator settings"
+msgstr "Roghainnean an rianaire"
 
 msgctxt "sF_CHAT_INFO_COPY_LINK"
 msgid "Copy conversation link"
@@ -12576,5 +12613,403 @@ msgid "Most Recent"
 msgstr "As ùire"
 
 msgctxt "sMAINMENU_VIEW_FAVORITES"
-msgid "Favourites"
+msgid "Favorites"
 msgstr "Annsachdan"
+
+msgctxt "sCONTACT_GROUP_ALLCONTACTS"
+msgid "All Contacts"
+msgstr "Gach neach-aithne"
+
+msgctxt "sCHAT_JUMPBACK_HEADER"
+msgid "Jump Back:"
+msgstr "Leum air ais:"
+
+msgctxt "sSEARCH_WITH_BING"
+msgid "Search with Bing"
+msgstr "Lorg le Bing"
+
+msgctxt "sF_OPTIONS_CB_AUTO_CORRECT"
+msgid "Auto correct and highlight misspelled words"
+msgstr "Comharraich is ceartaich droch-litreachadh gu fhèin-obrachail"
+
+msgctxt "sF_OPTIONS_LB_AUTO_CORRECT"
+msgid "To enable the spell checker, %0:sgo to your PC settings%1:s"
+msgstr "Gus an dearbhadh-litreachaidh a chur an comas, %0:srach gu roghainnean a' PC%1:s"
+
+msgctxt "sFREE_GVC_PROMO_GROUP_AUDIO"
+msgid "Make this a group video call. It's free."
+msgstr "Dèan gairm video buidhinn dheth. Tha seo saor an-asgaidh."
+
+msgctxt "sFREE_GVC_PROMO_GROUP_VIDEO"
+msgid "Add more people to your video call for free."
+msgstr "Cuir barrachd dhaoine ris a' ghairm video agad saor an-asgaidh."
+
+msgctxt "sFREE_GVC_PROMO_GROUP_GROUP"
+msgid "Get more out of your conversation with a free group video call."
+msgstr "Dèan gairm nas snasaile, feuch gairm video buidhinn saor an-asgaidh."
+
+msgctxt "sOPTIONS_SHOW_PROFILE_PICTURES"
+msgid "Show profile pictures"
+msgstr "Seall dealbhan nam pròifilean"
+
+msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
+msgid "%s for 1 month"
+msgstr "%s airson mìos"
+
+msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
+msgid "From %s for 1 month"
+msgstr "O %1 airson mìos"
+
+msgctxt "sCALLPHONES_PAYG_CAPTION_NO_RATE"
+msgid "Pay As You Go"
+msgstr "Pay As You Go"
+
+msgctxt "sVOICEMAIL_PROMPT"
+msgid "Are you sure you want to send a voice message to<b>%s</b>?"
+msgstr "A bheil thu cinnteach gu bheil thu airson post  gutha a chur gu <b>%s</b>?"
+
+msgctxt "sVOICEMAIL_PROMPT_TITLE"
+msgid "Send voice message"
+msgstr "Cuir post-gutha"
+
+msgctxt "sVOICEMAIL_PROMPT_CAP"
+msgid "Voice message"
+msgstr "Post-gutha"
+
+msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
+msgid "Phone:"
+msgstr "Fòn:"
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER"
+msgid "Edit"
+msgstr "Deasaich"
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
+msgid "Edit %s"
+msgstr "Deasaich %s"
+
+msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
+msgid "Leave Conversation"
+msgstr "Fàg an còmhradh"
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
+msgid "Limited emergency calling"
+msgstr "Gairmean èiginn cuingichte"
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2"
+msgid ""
+"Emergency calling is only supported by certain countries/regions. Please, go"
+" to Call settings to set your default location."
+msgstr "Chan eil gairmean èiginn ri fhaighinn ach ann an cuid a dhùthchannan. Rach gu roghainnean nan gairmean is suidhich an t-ionad bunaiteach agad."
+
+msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr "Chaidh an SMS a chur gu <a href=\"x\">%d daoine</a>"
+
+msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
+msgid "SMS sent to <a href=\"x\">%d person</a>"
+msgstr "Chaidh an SMS a chur gu <a href=\"x\">%d duine</a>"
+
+msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr "Chaidh an SMS a chur gu <a href=\"x\">%d daoine</a>"
+
+msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
+msgid "Select no more than %d participants to be able to start a video call"
+msgstr "Tagh nas lugha na %d com-pàirtichean gus gairm video a dhèanamh"
+
+msgctxt "sVIDEOCALL_BTN_SO_CONTACT_HINT"
+msgid "You cannot place video calls to mobile or land lines"
+msgstr "Chan urrainn dhut gairm video a chur gu fòn-làimhe no fòn talamhainn"
+
+msgctxt "sVIDEOCALL_BTN_ECHO_CONTACT_HINT"
+msgid "You cannot place test video calls"
+msgstr "Chan urrainn dhut gairm video deuchainne a dhèanamh"
+
+msgctxt "sCONTACTS_LINK_CAPS"
+msgid "CONTACTS"
+msgstr "LUCHD-AITHNE"
+
+msgctxt "sRECENTS_LINK_CAPS"
+msgid "RECENT"
+msgstr "O CHIONN GOIRID"
+
+msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
+msgid "This photo is unavailable"
+msgstr "Chan eil an dealbh seo  ri fhaighinn"
+
+msgctxt "sACC_NAME_PHOTO_MESSAGE"
+msgid "From %0:s, new photo, sent on %1:s"
+msgstr "O %0:s, dealbh ùr, air a chur %1:s"
+
+msgctxt "sTRAYALERT_PHOTO_MESSAGE"
+msgid "New photo"
+msgstr "Dealbh ùr"
+
+msgctxt "sPHOTO_SAVE_AS"
+msgid "Save as..."
+msgstr "Sàbhail mar…"
+
+msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
+msgid "To view this shared photo, go to: %1"
+msgstr "Tadhail air %1 a choimhead air an dealbh cho-roinnte seo"
+
+msgctxt "sACC_NAME_MYSELF_GRAPHIC"
+msgid "My profile picture"
+msgstr "Dealbh na pròifil agam"
+
+msgctxt "sSEARCHING_SKYPE_DIRECTORY"
+msgid "Searching Skype directory..."
+msgstr "Ga lorg ann an eòlaire Skype..."
+
+msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
+msgid "Show message previews in the sidebar"
+msgstr "Ro-sheall teachdaireachdan air a' bhàr-taoibh"
+
+msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
+msgid "Simple List View"
+msgstr "Sealladh liosta simplidh"
+
+msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
+msgid "Give Feedback"
+msgstr "Innis dhuinn dè do bheachd"
+
+msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
+msgid "No results found for %s"
+msgstr "Cha deach toradh a lorg airson %s"
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_SINGLE"
+msgid "Sent you files"
+msgstr "air faidhlichean a chur thugad"
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
+msgid "Shared a photo"
+msgstr "Air dealbh a cho-roinneadh"
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
+msgid "Shared a location"
+msgstr "Air ionad a cho-roinneadh"
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_SINGLE"
+msgid "Sent you a voice message"
+msgstr "Air teachdaireachd gutha a chur thugad"
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_SINGLE"
+msgid "Sent you a video message"
+msgstr "Air teachdaireachd video a chur thugad"
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_SINGLE"
+msgid "Sent you contacts"
+msgstr "Air luchd-aithne a chur thugad"
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
+msgid "%s sent files"
+msgstr "Chuir %s faidhlichean"
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
+msgid "%s shared a photo"
+msgstr "Cho-roinn %s dealbh"
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_MULTI"
+msgid "%s shared a location"
+msgstr "Cho-roinn %s ionad"
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_MULTI"
+msgid "%s sent a voice message"
+msgstr "Chuir %s post-gutha"
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_MULTI"
+msgid "%s sent a video message"
+msgstr "Chuir %s teachdaireachd video"
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_MULTI"
+msgid "%s sent contacts"
+msgstr "Chuir %s luchd-aithne"
+
+msgctxt "sMESGPREVIEW_REQUESTED_AUTH"
+msgid "Sent you a contact request"
+msgstr "'S iad air iarrtas neach-aithne a chur thugad"
+
+msgctxt "sMESGPREVIEW_GRANTED_AUTH"
+msgid "Contact request accepted"
+msgstr "Chaigh gabhail ris an iarrtas neach-aithne"
+
+msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
+msgid "Birthday today"
+msgstr "Co-là breith an-diugh"
+
+msgctxt "sADDCONTACT_PROMPT"
+msgid "Are you sure you want to add contacts: <b>%s</b>?"
+msgstr "A bheil thu cinnteach gu bheil thu airson luchd-aithne a chur ris: <b>%s</b>?"
+
+msgctxt "sADDCONTACT_PROMPT_TITLE"
+msgid "Add contacts"
+msgstr "Cuir luchd-aithne ris"
+
+msgctxt "sADDCONTACT_PROMPT_CAP"
+msgid "Add contacts"
+msgstr "Cuir luchd-aithne ris"
+
+msgctxt "sDIALPAD_MAIN_1"
+msgid "1"
+msgstr "1"
+
+msgctxt "sDIALPAD_MAIN_2"
+msgid "2"
+msgstr "2"
+
+msgctxt "sDIALPAD_MAIN_3"
+msgid "3"
+msgstr "3"
+
+msgctxt "sDIALPAD_MAIN_4"
+msgid "4"
+msgstr "4"
+
+msgctxt "sDIALPAD_MAIN_5"
+msgid "5"
+msgstr "5"
+
+msgctxt "sDIALPAD_MAIN_6"
+msgid "6"
+msgstr "6"
+
+msgctxt "sDIALPAD_MAIN_7"
+msgid "7"
+msgstr "7"
+
+msgctxt "sDIALPAD_MAIN_8"
+msgid "8"
+msgstr "8"
+
+msgctxt "sDIALPAD_MAIN_9"
+msgid "9"
+msgstr "9"
+
+msgctxt "sDIALPAD_MAIN_ASTERISK"
+msgid "*"
+msgstr "*"
+
+msgctxt "sDIALPAD_MAIN_0"
+msgid "0"
+msgstr "0"
+
+msgctxt "sDIALPAD_MAIN_HASH"
+msgid "#"
+msgstr "#"
+
+msgctxt "sDIALPAD_AUX_2"
+msgid "ABC"
+msgstr "ABC"
+
+msgctxt "sDIALPAD_AUX_3"
+msgid "DEF"
+msgstr "DEF"
+
+msgctxt "sDIALPAD_AUX_4"
+msgid "GHI"
+msgstr "GHI"
+
+msgctxt "sDIALPAD_AUX_5"
+msgid "JKL"
+msgstr "JKL"
+
+msgctxt "sDIALPAD_AUX_6"
+msgid "MNO"
+msgstr "MNO"
+
+msgctxt "sDIALPAD_AUX_7"
+msgid "PQRS"
+msgstr "PQRS"
+
+msgctxt "sDIALPAD_AUX_8"
+msgid "TUV"
+msgstr "TUV"
+
+msgctxt "sDIALPAD_AUX_9"
+msgid "WXYZ"
+msgstr "WXYZ"
+
+msgctxt "sDIALPAD_AUX_0"
+msgid "+"
+msgstr "+"
+
+msgctxt "sDIALPAD_COUNTRY_SELECTOR"
+msgid "%s (+%d)"
+msgstr "%s (+%d)"
+
+msgctxt "sBUDDYMENU_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr "Atharraich an cuspair..."
+
+msgctxt "sF_CHANGE_TOPIC_CAPTION"
+msgid "Change topic"
+msgstr "Atharraich an cuspair"
+
+msgctxt "sMAINMENU_CONVERSATION_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr "Atharraich an cuspair..."
+
+msgctxt "sF_CHANGE_TOPIC_LABEL"
+msgid "Enter new topic"
+msgstr "Cuir a-steach an cuspair ùr"
+
+msgctxt "sFRE_TITLE"
+msgid "Welcome Tour"
+msgstr "An turas fàilteachaidh"
+
+msgctxt "sFRE_START"
+msgid "Welcome to the new Skype for Windows."
+msgstr "Fàilte gun Skype ùr airson Windows."
+
+msgctxt "sFRE_CHAT"
+msgid "Redesigned for a richer chat experience."
+msgstr "Air ath-dhealbhadh airson cabadaich nas fhearr."
+
+msgctxt "sFRE_PHOTO"
+msgid "Share your favourite photos and bring chats to life."
+msgstr "Co-roinn na dealbhan as fhearr leat is cuir beatha sa chabadaich leotha."
+
+msgctxt "sFRE_GROUP"
+msgid "Get everyone together with free group video calling."
+msgstr "Cum suas ri càch le gairm video buidhinn saor an-asgaidh."
+
+msgctxt "sFRE_PHONE"
+msgid "Keep the conversation going and take Skype with you."
+msgstr "Cum an seanchas a' dol is thoir leat Skype air an rathad."
+
+msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
+msgid "File transfer limit"
+msgstr "Crìoch tar-chur fhaidhlichean"
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
+msgid "Emergency numbers"
+msgstr "Àireamhan èiginn"
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
+msgid ""
+"Set your default country/region to check if Skype supports emergency calls "
+"in your country/region."
+msgstr "Suidhich an dùthaich sa bheil thu is thoir sùil a bheil Skype a' cur taic ri gairmean èiginn ann."
+
+msgctxt "sCALL_PHONES_EMERGENCY2_INLINE"
+msgid "Emergency calls are not supported in your country/region."
+msgstr "Chan eil taic ri gairmean èiginn far a bheil thu."
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2_INLINE"
+msgid ""
+"Only use Skype as an absolute last resort for emergency calling. <a "
+"href=\"%s\">Learn more</a>."
+msgstr "Na cleachd Skype airson gairmean èiginn ach mur eil fuasgladh sam bith eile agad. <a href=\"%s\">Barrachd fiosrachaidh</a>."
+
+msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
+msgid "Your Country/Region:"
+msgstr "Do dhùthaich/roinn-dùthcha:"
+
+msgctxt "sSEND_MEDIA_MENU_HINT"
+msgid "Send contacts and media"
+msgstr "Cuir luchd-aithne 's meadhanan"
+
+msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
+msgid "Advertisement"
+msgstr "Sanasachd"
