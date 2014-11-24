@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="hy" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="fo" version="2.0">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>API</name>
@@ -20,55 +20,55 @@
     </message>
     <message>
         <source>Allowed programs:</source>
-        <translation type="unfinished"/>
+        <translation>Loyva forritum:</translation>
     </message>
     <message>
         <source>Blocked programs:</source>
-        <translation type="unfinished"/>
+        <translation>Forða forritum:</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Ջնջել</translation>
+        <translation>Strika</translation>
     </message>
     <message>
         <source>Enabled transports:</source>
-        <translation type="unfinished"/>
+        <translation>Gilda ferðingar:</translation>
     </message>
     <message>
         <source>X11</source>
-        <translation type="unfinished"/>
+        <translation>X11</translation>
     </message>
     <message>
         <source>DBUS</source>
-        <translation type="unfinished"/>
+        <translation>DBUS</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation type="unfinished"/>
+        <translation>Setur</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Skipan</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Հիմնական</translation>
+        <translation>Vanliga</translation>
     </message>
     <message>
         <source>UNIX domain socket</source>
-        <translation type="unfinished"/>
+        <translation>UNIX økiskulla</translation>
     </message>
     <message>
         <source>TCP network socket</source>
-        <translation type="unfinished"/>
+        <translation>TCP netkulla</translation>
     </message>
     <message>
         <source>Enable networked TCP socket</source>
-        <translation type="unfinished"/>
+        <translation>Gilda netað TCP-kullu</translation>
     </message>
     <message>
         <source>Bus:</source>
-        <translation type="unfinished"/>
+        <translation>Buss:</translation>
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
@@ -79,12 +79,12 @@
     <name>About</name>
     <message>
         <source>Version</source>
-        <translation>Տարբերակ</translation>
+        <translation>Útgáva</translation>
     </message>
     <message>
         <source>Warning: This program is protected by copyright law and international treaties.</source>
         <comment>sF_ABOUT_WARNING_1</comment>
-        <translation type="unfinished"/>
+        <translation>Ávaring: Hetta forritið er vart við upphavsrætti og altjóða sáttmálum.</translation>
     </message>
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
@@ -94,7 +94,7 @@
     <message>
         <source>Patents Pending</source>
         <comment>sF_ABOUT_COPYRIGHT_1_2</comment>
-        <translation type="unfinished"/>
+        <translation>Patent til viðgerðar</translation>
     </message>
     <message>
         <source>The Skype name, associated trademarks and logos and the &quot;S&quot; logo are trademarks of Skype or related entities.</source>
@@ -104,189 +104,189 @@
     <message>
         <source>© 2014 Skype and/or Microsoft</source>
         <comment>sF_ABOUT_COPYRIGHT_1_1</comment>
-        <translation type="unfinished"/>
+        <translation>© 2014 Skype og/ella Microsoft</translation>
     </message>
 </context>
 <context>
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation type="unfinished"/>
+        <translation>Legg luttakara afturat</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Անջատել զանգը</translation>
+        <translation>Legg á</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
-        <translation type="unfinished"/>
+        <translation>Fjal telefonknøttar</translation>
     </message>
     <message>
         <source>Show dial pad</source>
-        <translation type="unfinished"/>
+        <translation>Vís telefonknøttar</translation>
     </message>
     <message>
         <source>Unmute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>Koyr ljóðið á mikrofonini frá</translation>
     </message>
     <message>
         <source>Mute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>Ger mikrofonina ljóðleysa</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
-        <translation type="unfinished"/>
+        <translation>Far úr fullum skíggja</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation type="unfinished"/>
+        <translation>Fullur skíggi</translation>
     </message>
     <message>
         <source>Turn off video</source>
-        <translation type="unfinished"/>
+        <translation>Sløkk fyri video</translation>
     </message>
     <message>
         <source>Turn on video</source>
-        <translation type="unfinished"/>
+        <translation>Tendra video</translation>
     </message>
     <message>
         <source>Send File...</source>
-        <translation>Ֆայլի ուղարկում...</translation>
+        <translation>Sind fílu...</translation>
     </message>
     <message>
         <source>Send Contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Send vinaupplýsingar...</translation>
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation type="unfinished"/>
+        <translation>Steðga deiling</translation>
     </message>
     <message>
         <source>Share screens</source>
-        <translation type="unfinished"/>
+        <translation>Skíggjadeiling</translation>
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation type="unfinished"/>
+        <translation>Legg fólk aftur at hesum kalli</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation type="unfinished"/>
+        <translation>Deil partin</translation>
     </message>
     <message>
         <source>Add participants, send files and more...</source>
-        <translation type="unfinished"/>
+        <translation>Legg luttakarar afturat, send fílur og meira...</translation>
     </message>
     <message>
         <source>Show IM</source>
-        <translation type="unfinished"/>
+        <translation>Vís snarboð</translation>
     </message>
     <message>
         <source>Resume call</source>
-        <translation type="unfinished"/>
+        <translation>Hald fram við kallinum</translation>
     </message>
 </context>
 <context>
     <name>CallView</name>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>Ring við %1</translation>
     </message>
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation type="unfinished"/>
+        <translation>Ring til tøknivegleiðingina</translation>
     </message>
     <message>
         <source>Held remotely</source>
-        <translation type="unfinished"/>
+        <translation>Fjarhildið</translation>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>Kall í bíðistøðu</translation>
     </message>
 </context>
 <context>
     <name>Calls</name>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>Ring við %1</translation>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation type="unfinished"/>
+        <translation>Hald fram við kall</translation>
     </message>
     <message>
         <source>Hangup</source>
-        <translation type="unfinished"/>
+        <translation>Legg á</translation>
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation type="unfinished"/>
+        <translation>Bjóða til ráðstevnu</translation>
     </message>
     <message>
         <source>Call %1</source>
-        <translation type="unfinished"/>
+        <translation>Ring til %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Tíðarskeið: %1</translation>
     </message>
     <message>
         <source>Ca&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>Ri%ng</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Չեղարկել</translation>
+        <translation>&amp;Angra</translation>
     </message>
     <message>
         <source>Call Finished</source>
-        <translation type="unfinished"/>
+        <translation>Kallið er av</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation>զբաղված</translation>
+        <translation>Upptikin</translation>
     </message>
     <message>
         <source>Call Dropped</source>
-        <translation type="unfinished"/>
+        <translation>Kallið slept</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
-        <translation type="unfinished"/>
+        <translation>Ein ókend/ur vil hava samband við teg</translation>
     </message>
     <message>
         <source>Page %1</source>
-        <translation type="unfinished"/>
+        <translation>Síða %1</translation>
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 um minuttin</translation>
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation type="unfinished"/>
+        <translation>Ov lítið kreditt</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Ring til telefonir ella send SMS</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>Ring</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation>Ուղարկել SMS</translation>
+        <translation>Send SMS</translation>
     </message>
     <message>
         <source>Skype Call</source>
-        <translation>Skype զանգ</translation>
+        <translation>Ring við Skype</translation>
     </message>
     <message>
         <source>Transfer to...</source>
-        <translation type="unfinished"/>
+        <translation>Flyt til...</translation>
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
@@ -314,7 +314,7 @@
     </message>
     <message>
         <source>End call</source>
-        <translation>Ավարտել զանգը</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Place a Call</source>
@@ -466,15 +466,15 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Չեղարկել</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Ավելացնել</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Ջնջել</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose contacts</source>

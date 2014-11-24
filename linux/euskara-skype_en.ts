@@ -1,105 +1,105 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="hy" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="eu" version="2.0">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>API</name>
     <message>
         <source>Skype API Authorisation Request</source>
-        <translation type="unfinished"/>
+        <translation>Skype API baimentzeko eskaera</translation>
     </message>
     <message>
         <source>Another program wants to use Skype</source>
-        <translation type="unfinished"/>
+        <translation>Beste programa batek Skype erabili nahi du</translation>
     </message>
     <message>
         <source>A program &quot;%1&quot; is trying to connect to Skype. Do you want to allow it?</source>
-        <translation type="unfinished"/>
+        <translation>Programa bat &quot;%1&quot; Skype-ra konektatu nahian dabil. Baimendu nahi al duzu?</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>API publikoa</translation>
     </message>
     <message>
         <source>Allowed programs:</source>
-        <translation type="unfinished"/>
+        <translation>Baimendutako programak:</translation>
     </message>
     <message>
         <source>Blocked programs:</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatutako programak:</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Ջնջել</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Enabled transports:</source>
-        <translation type="unfinished"/>
+        <translation>Gaitutako protokoloak:</translation>
     </message>
     <message>
         <source>X11</source>
-        <translation type="unfinished"/>
+        <translation>X11</translation>
     </message>
     <message>
         <source>DBUS</source>
-        <translation type="unfinished"/>
+        <translation>DBUS</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation type="unfinished"/>
+        <translation>Saioa</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Sistema</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Հիմնական</translation>
+        <translation>Lehenetsia</translation>
     </message>
     <message>
         <source>UNIX domain socket</source>
-        <translation type="unfinished"/>
+        <translation>UNIX domeinuko socketa</translation>
     </message>
     <message>
         <source>TCP network socket</source>
-        <translation type="unfinished"/>
+        <translation>Sareko TCP socketa</translation>
     </message>
     <message>
         <source>Enable networked TCP socket</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu sareko TCP socketa</translation>
     </message>
     <message>
         <source>Bus:</source>
-        <translation type="unfinished"/>
+        <translation>Bus:</translation>
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
-        <translation type="unfinished"/>
+        <translation>Saretik Skype APIra sarbidea baimentzea ez da segurua. Baimendu soilik &lt;br&gt; ingurune seguruetan eta inolaz ere ez Interneten.&lt;br&gt;Skype-k ez du inolako segurtasun bermerik eskaintzen sareko&lt;br&gt;TCP socketa gaitzen baduzu, enkriptaziorik gabeko komunikazio kanala delako.</translation>
     </message>
 </context>
 <context>
     <name>About</name>
     <message>
         <source>Version</source>
-        <translation>Տարբերակ</translation>
+        <translation>Bertsioa</translation>
     </message>
     <message>
         <source>Warning: This program is protected by copyright law and international treaties.</source>
         <comment>sF_ABOUT_WARNING_1</comment>
-        <translation type="unfinished"/>
+        <translation>Warning: This program is protected by copyright law and international treaties.</translation>
     </message>
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>sF_ABOUT_WARNING_2</comment>
-        <translation type="unfinished"/>
+        <translation>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</translation>
     </message>
     <message>
         <source>Patents Pending</source>
         <comment>sF_ABOUT_COPYRIGHT_1_2</comment>
-        <translation type="unfinished"/>
+        <translation>Patents Pending</translation>
     </message>
     <message>
         <source>The Skype name, associated trademarks and logos and the &quot;S&quot; logo are trademarks of Skype or related entities.</source>
         <comment>sF_ABOUT_COPYRIGHT_1_3</comment>
-        <translation type="unfinished"/>
+        <translation>The Skype name, associated trademarks and logos and the &quot;S&quot; logo are trademarks of Skype or related entities.</translation>
     </message>
     <message>
         <source>© 2014 Skype and/or Microsoft</source>
@@ -111,67 +111,67 @@
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu partaideak</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Անջատել զանգը</translation>
+        <translation>Amaitu deia</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
-        <translation type="unfinished"/>
+        <translation>Ezkutatu markatzeko teklatua</translation>
     </message>
     <message>
         <source>Show dial pad</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi markatzeko teklatua</translation>
     </message>
     <message>
         <source>Unmute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>Aktibatu mikrofonoa</translation>
     </message>
     <message>
         <source>Mute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>Mututu mikrofonoa</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
-        <translation type="unfinished"/>
+        <translation>Pantaila osotik irten</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation type="unfinished"/>
+        <translation>Pantaila osoa</translation>
     </message>
     <message>
         <source>Turn off video</source>
-        <translation type="unfinished"/>
+        <translation>Itzali bideoa</translation>
     </message>
     <message>
         <source>Turn on video</source>
-        <translation type="unfinished"/>
+        <translation>Piztu bideoa</translation>
     </message>
     <message>
         <source>Send File...</source>
-        <translation>Ֆայլի ուղարկում...</translation>
+        <translation>Bidali fitxategia...</translation>
     </message>
     <message>
         <source>Send Contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Bidali kontaktuak...</translation>
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation type="unfinished"/>
+        <translation>Amaitu partekatzea </translation>
     </message>
     <message>
         <source>Share screens</source>
-        <translation type="unfinished"/>
+        <translation>Partekatu pantailak</translation>
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu pertsonak dei honetan</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation type="unfinished"/>
+        <translation>Partekatu hautapena</translation>
     </message>
     <message>
         <source>Add participants, send files and more...</source>
@@ -190,151 +190,151 @@
     <name>CallView</name>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>Deia %1(r)ekin</translation>
     </message>
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation type="unfinished"/>
+        <translation>Deiari buruzko informazio teknikoa</translation>
     </message>
     <message>
         <source>Held remotely</source>
-        <translation type="unfinished"/>
+        <translation>Zain jarri zaitu</translation>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>Deia zain</translation>
     </message>
 </context>
 <context>
     <name>Calls</name>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>Deia %1(r)ekin</translation>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation type="unfinished"/>
+        <translation>Berrekin deiari</translation>
     </message>
     <message>
         <source>Hangup</source>
-        <translation type="unfinished"/>
+        <translation>Eseki</translation>
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation type="unfinished"/>
+        <translation>Gonbidatu talde-deira</translation>
     </message>
     <message>
         <source>Call %1</source>
-        <translation type="unfinished"/>
+        <translation>Deitu %1(r)i</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Iraupena: %1</translation>
     </message>
     <message>
         <source>Ca&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Deitu</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Չեղարկել</translation>
+        <translation>&amp;Utzi</translation>
     </message>
     <message>
         <source>Call Finished</source>
-        <translation type="unfinished"/>
+        <translation>Deia amaituta</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation>զբաղված</translation>
+        <translation>Lanpetuta</translation>
     </message>
     <message>
         <source>Call Dropped</source>
-        <translation type="unfinished"/>
+        <translation>Deia eten da</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu ezezagun bat deika ari zaizu</translation>
     </message>
     <message>
         <source>Page %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 orria</translation>
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 minutuko</translation>
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation type="unfinished"/>
+        <translation>Kreditua eskas</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Deitu edo bidali SMSa</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>Deitu</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation>Ուղարկել SMS</translation>
+        <translation>Bidali SMSa</translation>
     </message>
     <message>
         <source>Skype Call</source>
-        <translation>Skype զանգ</translation>
+        <translation>Skype deia</translation>
     </message>
     <message>
         <source>Transfer to...</source>
-        <translation type="unfinished"/>
+        <translation>Bideratu...</translation>
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)i deitzen badiozu, oraingo deia zain geldituko da.</translation>
     </message>
     <message>
         <source>You can only have one call at a time.</source>
-        <translation type="unfinished"/>
+        <translation>Aldi bakoitzean dei bakarra egin dezakezu.</translation>
     </message>
     <message>
         <source>Estimated cost: %1</source>
-        <translation type="unfinished"/>
+        <translation>Kostu zenbatetsia: %1</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa konektatzerakoan </translation>
     </message>
     <message>
         <source>Problem with legacy client</source>
-        <translation type="unfinished"/>
+        <translation>Arazoa aurreko bertsioko bezeroarekin</translation>
     </message>
     <message>
         <source>Join call</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu deiari</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Ավարտել զանգը</translation>
+        <translation>Amaitu deia</translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Egin deia</translation>
     </message>
     <message>
         <source>Join Call</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu deiari</translation>
     </message>
     <message>
         <source>Join Conference Call</source>
-        <translation type="unfinished"/>
+        <translation>Parte hartu talde-deian</translation>
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)i deitzen badiozu, ahots-mezu hau bertan behera geldituko da.</translation>
     </message>
     <message>
         <source>Covered by subscription</source>
-        <translation type="unfinished"/>
+        <translation>Harpidetzaren estaldurapean</translation>
     </message>
     <message>
         <source>Playing voice message greeting</source>
@@ -446,280 +446,281 @@
     <name>Chats</name>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Txatak</translation>
     </message>
     <message>
         <source>ChatToolbar</source>
-        <translation type="unfinished"/>
+        <translation>Txataren tresna-barra</translation>
     </message>
     <message>
         <source>Chat window control toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Txataren leihoa kontrolatzeko tresna-barra</translation>
     </message>
     <message>
         <source>Unbookmark Chat</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu txataren laster-marka</translation>
     </message>
     <message>
         <source>Bookmark Chat</source>
-        <translation type="unfinished"/>
+        <translation>Egin txataren laster-marka</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Չեղարկել</translation>
+        <translation>&amp;Utzi</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Ավելացնել</translation>
+        <translation>&amp;Gehitu</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Ջնջել</translation>
+        <translation>&amp;Ezabatu</translation>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu kontaktuak</translation>
     </message>
     <message>
         <source>Adding users failed</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa erabiltzaileak gehitzean</translation>
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
-        <translation type="unfinished"/>
+        <translation>Ezin dira hainbat erabiltzaile txatean gehitu. </translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Aurkitu</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <comment>Progress / Total</comment>
-        <translation type="unfinished"/>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Click here to hide members of this chat</source>
-        <translation type="unfinished"/>
+        <translation>Klik egin hemen txat honetako partaideak ezkutatzeko</translation>
     </message>
     <message>
         <source>Click here to show members of this chat</source>
-        <translation type="unfinished"/>
+        <translation>Klik egin hemen txat honetako partaideak erakusteko</translation>
     </message>
     <message>
         <source>Information</source>
         <comment>sF_INFORM_DEFAULT_CAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Informazioa</translation>
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da aurkitu &quot;%1&quot;txatean (agian lehenik aurreko mezu guztiak ikusi nahi zenituzke)</translation>
     </message>
     <message>
         <source>Chat with %1</source>
-        <translation type="unfinished"/>
+        <translation>Txata %1(r)ekin</translation>
     </message>
     <message>
         <source>%1 new members were added to the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 partaide berri txatera elkartu dira</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation type="unfinished"/>
+        <translation>Ireki esteka</translation>
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation type="unfinished"/>
+        <translation>Kopiatu estekaren helbidea</translation>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation type="unfinished"/>
+        <translation>Zehaztu gaia</translation>
     </message>
     <message>
         <source>Set Picture</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu argazkia</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu argazkia</translation>
     </message>
     <message>
         <source>The selected image file could not be set as a chat picture.
 Please use a different image file!</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratutako irudi-fitxategia ezin da ezarri txat-irudi bezala. Hautatu irudi-fitxategi ezberdin bat.</translation>
     </message>
     <message>
         <source>Loading Image failure!</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa irudia kargatzerakoan!</translation>
     </message>
     <message>
         <source>File could not be loaded.
  Please try a different a file and also make sure that file has read permission.</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ezin da kargatu.
+Probatu fitxategi ezberdin batekin eta ziurtatu fitxategiak irakurtzeko baimena duela.</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"/>
+        <translation>Irudiak</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi guztiak</translation>
     </message>
     <message>
         <source>Please select a file.</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu fitxategi bat.</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu dena</translation>
     </message>
     <message>
         <source>Find Again</source>
-        <translation type="unfinished"/>
+        <translation>Aurkitu berriro</translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation type="unfinished"/>
+        <translation>Editatu mezua</translation>
     </message>
     <message>
         <source>Remove Message</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu mezua</translation>
     </message>
     <message>
         <source>Right click here to set/unset the chat picture.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu eskuineko botoia hemen txateko irudia ezartzeko/aldatzeko.</translation>
     </message>
     <message>
         <source>Quote message</source>
-        <translation type="unfinished"/>
+        <translation>Aipatu mezua</translation>
     </message>
     <message>
         <source>%1 - Skype™ Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 - Skype™ Txata</translation>
     </message>
     <message>
         <source>Are you sure you want to call?</source>
-        <translation type="unfinished"/>
+        <translation>Ziur al zaude deitu nahi duzula?</translation>
     </message>
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
-        <translation type="unfinished"/>
+        <translation>Txat honetako %1 partaideei deitzear zaude. Ziur al zaude deitu nahi duzula?</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Gogokoak</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"/>
+        <translation>Azkenak</translation>
     </message>
     <message>
         <source>Call Phones</source>
-        <translation type="unfinished"/>
+        <translation>Deitu telefonoetara</translation>
     </message>
     <message>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Kendu Gogokoetatik</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu Gogokoetan</translation>
     </message>
     <message>
         <source>Pop-in chat</source>
         <comment>This command will attach the separate chat window back to the combined/default view of chats. Opposite of Pop-out chat</comment>
-        <translation type="unfinished"/>
+        <translation>Txata leiho nagusian</translation>
     </message>
     <message>
         <source>Pop-out chat</source>
         <comment>This will open the chosen chat in a separate window</comment>
-        <translation type="unfinished"/>
+        <translation>Txata leiho independentean</translation>
     </message>
     <message>
         <source>Hide chat</source>
-        <translation type="unfinished"/>
+        <translation>Ezkutatu txata</translation>
     </message>
     <message>
         <source>Add people</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu partaideak</translation>
     </message>
     <message>
         <source>Chat options</source>
-        <translation type="unfinished"/>
+        <translation>Txataren aukerak</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Remove from Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu laster-marketatik</translation>
     </message>
     <message>
         <source>Add to Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu laster-marken zerrendan</translation>
     </message>
     <message>
         <source>Call to %1, no answer.</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)i eginiko deia, erantzunik gabe.</translation>
     </message>
     <message>
         <source>Missed call from %1.</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en dei galdua.</translation>
     </message>
     <message>
         <source>Call to %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)i eginiko deia, okupatuta.</translation>
     </message>
     <message>
         <source>Call from %1, busy.</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)k eginiko deia, okupatuta.</translation>
     </message>
     <message>
         <source>Call to %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)i eginiko deia, iraupena %2. </translation>
     </message>
     <message>
         <source>Call from %1, duration %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)k eginiko deia, iraupena %2. </translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Deia egin</translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Azken jarduera duela urte %n</numerusform><numerusform>Azken jarduera duela %n urte</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n month(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Azken jarduera duela hilabete %n</numerusform><numerusform>Azken jarduera duela %n hilabete</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n week(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Azken jarduera duela aste %n</numerusform><numerusform>Azken jarduera duela %n aste</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n day(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Azken jarduera duela egun %n</numerusform><numerusform>Azken jarduera duela %n egun</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n hour(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Azken jarduera duela ordu %n</numerusform><numerusform>Azken jarduera duela %n ordu</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n minute(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Azken jarduera duela minutu %n</numerusform><numerusform>Azken jarduera duela %n minutu</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n second(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Azken jarduera duela segundo %n</numerusform><numerusform>Azken jarduera duela %n segundo</numerusform></translation>
     </message>
     <message>
         <source>[%1]%2 - %3</source>
@@ -1033,91 +1034,91 @@ Please use a smaller size image.</source>
     <name>Confirmation</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Onartu</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Ezetsi </translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Itxi</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Bai</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Ez</translation>
     </message>
     <message>
         <source>Remember this selection</source>
-        <translation type="unfinished"/>
+        <translation>Gogoratu hautapen hau</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Ziur al zaude?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Eguneratu</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Garbitu</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Onartu</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Atzera</translation>
     </message>
     <message>
         <source>Try Again</source>
-        <translation type="unfinished"/>
+        <translation>Saiatu berriro</translation>
     </message>
     <message>
         <source>Do not ask me again</source>
-        <translation type="unfinished"/>
+        <translation>Ez galdetu berriro</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu pasahitza</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Sortu</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Berritu</translation>
     </message>
     <message>
         <source>I agree</source>
-        <translation type="unfinished"/>
+        <translation>Ados nago</translation>
     </message>
     <message>
         <source>I do not agree</source>
-        <translation type="unfinished"/>
+        <translation>Ez nago ados</translation>
     </message>
     <message>
         <source>You can also report abuse from this user. &lt;a href=&quot;%1&quot;&gt;Learn more&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaile honen gehiegikerien berri ere eman dezakezu. &lt;a href=&quot;%1&quot;&gt;Azalpen gehiago&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Report abuse</source>
@@ -1128,43 +1129,43 @@ Please use a smaller size image.</source>
     <name>Contact Authorisation</name>
     <message>
         <source>%1 people</source>
-        <translation type="unfinished"/>
+        <translation>%1 pertsona</translation>
     </message>
     <message>
         <source>Type a short message to introduce yourself to %1</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi mezu bat %1(r)i zeure burua aurkezteko</translation>
     </message>
     <message>
         <source>Please let me see your contact details.</source>
-        <translation type="unfinished"/>
+        <translation>Utzi iezadazu mesedez zure kontaktuaren xehetasunak ikusten.</translation>
     </message>
     <message>
         <source>Contact request from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en kontaktu-eskaera</translation>
     </message>
     <message>
         <source>Ignore the contact request</source>
-        <translation type="unfinished"/>
+        <translation>Ezikusi egin kontaktu-eskaerari </translation>
     </message>
     <message>
         <source>Send Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>Bidali kontaktu-eskaera</translation>
     </message>
     <message>
         <source>Hide Picture</source>
-        <translation type="unfinished"/>
+        <translation>Ezkutatu irudia</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi irudia</translation>
     </message>
     <message>
         <source>Accept and Add to Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Onartu eta gehitu kontaktu-zerrendan</translation>
     </message>
     <message>
         <source>Accept contact request and add contact to your contact list</source>
-        <translation type="unfinished"/>
+        <translation>Onartu kontaktu-eskaera eta gehitu kontaktua kontaktu-zerrendan</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -1199,135 +1200,135 @@ Please use a smaller size image.</source>
     <name>Contact Information</name>
     <message>
         <source>This is the user&apos;s current mood message. </source>
-        <translation type="unfinished"/>
+        <translation>Hau da erabiltzaile honek une honetan duen mezu pertsonala.</translation>
     </message>
     <message>
         <source>Call Contact</source>
-        <translation type="unfinished"/>
+        <translation>Deitu</translation>
     </message>
     <message>
         <source>Click this button to place a call to this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu botoi hau kontaktu honi deitzeko.</translation>
     </message>
     <message>
         <source>Call Button</source>
-        <translation type="unfinished"/>
+        <translation>Dei-botoia</translation>
     </message>
     <message>
         <source>Chat to Contact</source>
-        <translation type="unfinished"/>
+        <translation>Bidali mezua</translation>
     </message>
     <message>
         <source>Click this button to start a chat with this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu botoi hau kontaktu honekin txata hasteko.</translation>
     </message>
     <message>
         <source>Chat Button</source>
-        <translation type="unfinished"/>
+        <translation>Txat-botoia</translation>
     </message>
     <message>
         <source>View Profile</source>
-        <translation type="unfinished"/>
+        <translation>Ikusi Profila</translation>
     </message>
     <message>
         <source>This contact is configured for video conferencing.</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu hau bideokonferentziarako prestatua dago.</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Linean</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Ez nago</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Lanpetuta</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Ikusezina</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Lineaz kanpo</translation>
     </message>
     <message>
         <source>Edit Profile</source>
-        <translation type="unfinished"/>
+        <translation>Editatu profila</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
-        <translation type="unfinished"/>
+        <translation>Ezkutuko zenbakia</translation>
     </message>
     <message>
         <source>Edit Contact</source>
-        <translation type="unfinished"/>
+        <translation>Editatu kontaktua</translation>
     </message>
     <message>
         <source>This contact is using a mobile device that does not support chats.</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu hau txatarekin bateragarria ez den gailu mugikor bat erabiltzen ari da.</translation>
     </message>
     <message>
         <source>Profile for %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en profila</translation>
     </message>
     <message>
         <source>Contact Information</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu informazioa</translation>
     </message>
     <message>
         <source>Skype Name:</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaile-izena:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Izen-abizenak:</translation>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation type="unfinished"/>
+        <translation>Helbide elektronikoa:</translation>
     </message>
     <message>
         <source>Home Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Etxeko telefonoa:</translation>
     </message>
     <message>
         <source>Office Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Bulegoko telefonoa:</translation>
     </message>
     <message>
         <source>Mobile Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Mugikorra:</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="unfinished"/>
+        <translation>Informazio pertsonala</translation>
     </message>
     <message>
         <source>Contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuak:</translation>
     </message>
     <message>
         <source>Local Time:</source>
-        <translation type="unfinished"/>
+        <translation>Tokiko ordua:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Jaioteguna:</translation>
     </message>
     <message>
         <source>Age:</source>
-        <translation type="unfinished"/>
+        <translation>Adina:</translation>
     </message>
     <message>
         <source>Gender:</source>
-        <translation type="unfinished"/>
+        <translation>Sexua:</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Hizkuntza:</translation>
     </message>
     <message>
         <source>Country/Region:</source>
@@ -1339,217 +1340,219 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>City:</source>
-        <translation type="unfinished"/>
+        <translation>Hiria:</translation>
     </message>
     <message>
         <source>Homepage:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde nagusia:</translation>
     </message>
     <message>
         <source>Phone Number:</source>
-        <translation type="unfinished"/>
+        <translation>Telefono-zenbakia:</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation type="unfinished"/>
+        <translation>Gizona</translation>
     </message>
     <message>
         <source>Female</source>
-        <translation type="unfinished"/>
+        <translation>Emakumea</translation>
     </message>
     <message>
         <source>Change Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu Avatar-a</translation>
     </message>
     <message>
         <source>Remove Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu Avatar-a</translation>
     </message>
     <message>
         <source>Click here to read the privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Klik egin hemen pribatutasun politika irakurtzeko</translation>
     </message>
     <message>
         <source>Clear Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu jaioteguna</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Berrizendatu</translation>
     </message>
     <message>
         <source>Type a new name or number for %1</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi izen edo zenbaki berri bat %1(r)entzat</translation>
     </message>
     <message>
         <source>Clear Name</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu izena</translation>
     </message>
     <message>
         <source>Rename %1</source>
-        <translation type="unfinished"/>
+        <translation>Berrizendatu %1</translation>
     </message>
     <message>
         <source>Type a new display name for %1</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi agerikoa izango den izen berri bat %1(r)entzat</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Gender</source>
-        <translation type="unfinished"/>
+        <translation>Sexua</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"/>
+        <translation>Hiria</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Hizkuntza</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished"/>
+        <translation>Konektatzen</translation>
     </message>
     <message>
         <source>Blocked</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatuta</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Ezezaguna</translation>
     </message>
     <message>
         <source>Undisclosed number</source>
-        <translation type="unfinished"/>
+        <translation>Ezkutuko zenbakia</translation>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>kontaktu %n</numerusform><numerusform>%n kontaktu</numerusform></translation>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
-        <translation type="unfinished"/>
+        <translation>Gaur kontaktu honen urtebetetzea da.</translation>
     </message>
     <message>
         <source>This contact is currently using a mobile device.</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu hau gailu mugikorra erabiltzen ari da.</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Izengabea</translation>
     </message>
     <message>
         <source>Contact Options</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu aukerak</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"/>
+        <translation>Telefono-zenbakia</translation>
     </message>
     <message>
         <source>%1 (%2) - %3 since %4</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2) - %3 %4(a)z geroztik</translation>
     </message>
     <message>
         <source>&lt;br&gt;
 &lt;br&gt;
 &lt;u&gt;%1 is typing a message&lt;/u&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;br&gt;
+&lt;br&gt;
+&lt;u&gt;%1 mezua idazten ari da&lt;/u&gt;</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation type="unfinished"/>
+        <translation>Berrizendatu...</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu kontaktuen zerrendatik</translation>
     </message>
     <message>
         <source>Are you sure you wish to unblock %1?</source>
-        <translation type="unfinished"/>
+        <translation>Ziur al zaude %1 desblokeatu nahi duzula?</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected group?</source>
-        <translation type="unfinished"/>
+        <translation>Ziur al zaude hautatutako taldea ezabatu nahi duzula?</translation>
     </message>
     <message>
         <source>Click this button to send SMS.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu botoi hau SMSa bidaltzeko</translation>
     </message>
     <message>
         <source>SMS Button</source>
-        <translation type="unfinished"/>
+        <translation>SMS botoia</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Create Group</source>
-        <translation type="unfinished"/>
+        <translation>Sortu taldea</translation>
     </message>
     <message>
         <source>Edit Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Editatu telefono-zenbakia</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Gorde</translation>
     </message>
     <message>
         <source>Labels for %1</source>
-        <translation type="unfinished"/>
+        <translation>Etiketak %1(r)entzat</translation>
     </message>
     <message>
         <source>Enter a comma separated list of labels for %1</source>
-        <translation type="unfinished"/>
+        <translation>Sartu komaz bereiztutako etiketa-zerrenda %1(r)entzat</translation>
     </message>
     <message>
         <source>Edit Labels...</source>
-        <translation type="unfinished"/>
+        <translation>Editatu etiketak...</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ezkutatu</translation>
     </message>
     <message>
         <source>Add more email addresses</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu helbide elektroniko gehiago</translation>
     </message>
     <message>
         <source>Offline with voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>Lineaz kanpo ahots-mezuarekin</translation>
     </message>
     <message>
         <source>Offline with call forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Lineaz kanpo dei-desbiderapenarekin</translation>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Linean (gailu mugikorrean)</translation>
     </message>
     <message>
         <source>Away (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Ez dago (gailu mugikorrean)</translation>
     </message>
     <message>
         <source>Do Not Disturb (on a mobile device)</source>
-        <translation type="unfinished"/>
+        <translation>Lanpetuta (gailu mugikorrean)</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Editatu</translation>
     </message>
     <message>
         <source>Add phone number</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu telefono-zenbakia</translation>
     </message>
     <message>
         <source>Other Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Beste telefono bat:</translation>
     </message>
     <message>
         <source>Skype Test Call</source>
@@ -1647,53 +1650,53 @@ Please use a smaller size image.</source>
     <name>Contact Search</name>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu kontaktu bat</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <source>Country/Region</source>
-        <translation type="unfinished"/>
+        <translation>Herrialdea/Eskualdea</translation>
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Telefono-zenbakia</translation>
     </message>
     <message>
         <source>All Countries/Regions</source>
-        <translation type="unfinished"/>
+        <translation>Estatu/Eskualde guztiak</translation>
     </message>
     <message>
         <source>Age Range</source>
-        <translation type="unfinished"/>
+        <translation>Adin-tartea</translation>
     </message>
     <message>
         <source>All Ages</source>
-        <translation type="unfinished"/>
+        <translation>Adin guztiak</translation>
     </message>
     <message>
         <source>State/Province</source>
-        <translation type="unfinished"/>
+        <translation>Estatua/Probintzia</translation>
     </message>
     <message>
         <source>Do not specify</source>
-        <translation type="unfinished"/>
+        <translation>Ez zehaztu</translation>
     </message>
     <message>
         <source>All Languages</source>
-        <translation type="unfinished"/>
+        <translation>Hizkuntza guztiak</translation>
     </message>
     <message>
         <source>Full Name</source>
         <comment>Result Table Header: Full Name</comment>
-        <translation type="unfinished"/>
+        <translation>Izen-abizenak</translation>
     </message>
     <message>
         <source>Skype Name</source>
         <comment>Result Table Header: Skype Name</comment>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaile-izena</translation>
     </message>
     <message>
         <source>Location</source>
@@ -1702,67 +1705,67 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Add a Skype Contact</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu Skype kontaktua</translation>
     </message>
     <message>
         <source>Search for Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu Skype kontaktua</translation>
     </message>
     <message>
         <source>New Search</source>
-        <translation type="unfinished"/>
+        <translation>Bilaketa berria</translation>
     </message>
     <message>
         <source>Or add a Skype contact</source>
-        <translation type="unfinished"/>
+        <translation>Edo gehitu Skype kontaktua</translation>
     </message>
     <message>
         <source>Add Number</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu zenbakia</translation>
     </message>
     <message>
         <source>Cancel Search</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatu bilaketa</translation>
     </message>
     <message>
         <source>Search for Skype users</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu Skype erabiltzaileak</translation>
     </message>
     <message>
         <source>Add a Skype contact using their Skype Name</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu Skype kontaktu bat erabiltzaile-izena erabiliz</translation>
     </message>
     <message>
         <source>Add a phone number as a contact</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu telefono-zenbaki bat kontaktu bezala</translation>
     </message>
     <message>
         <source>Search the Skype directory for old and new friends. If you know their Skype Name, full name or e-mail address, enter it into the box below.</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu Skype-ko direktorioan lagun zaharrak eta berriak. Erabiltzaile-izena, izen-abizenak edo helbide elektronikoa ezagutzen baduzu, sar ezazu beheko laukian.</translation>
     </message>
     <message>
         <source>Or add a phone number as a contact</source>
-        <translation type="unfinished"/>
+        <translation>Edo gehitu telefono-zenbaki bat kontaktu bezala</translation>
     </message>
     <message>
         <source>Enter the Skype Name of the person you wish to add into the box below.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu gehitu nahi duzun pertsonaren Skype Izena azpiko laukian.</translation>
     </message>
     <message>
         <source>Add a Phone Number</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu telefono-zenbakia</translation>
     </message>
     <message>
         <source>The phone number %1 you entered is already in your contacts</source>
-        <translation type="unfinished"/>
+        <translation>%1 telefono-zenbakia dagoeneko kontaktu-zerrendan dago</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"/>
+        <translation>%1 dagoeneko kontaktu-zerrendan dago</translation>
     </message>
     <message>
         <source>Search Again</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu berriro</translation>
     </message>
     <message>
         <source>Search by name, Skype name or email</source>
@@ -1785,41 +1788,41 @@ Please use a smaller size image.</source>
     <name>Controls</name>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Q</translation>
     </message>
 </context>
 <context>
     <name>Dates and Time</name>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Bihar</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Gaur</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Atzo</translation>
     </message>
 </context>
 <context>
     <name>EULA</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Hizkuntza</translation>
     </message>
     <message>
         <source>Skype Terms of Use</source>
-        <translation type="unfinished"/>
+        <translation>Skype-ren Erabilpen Baldintzak</translation>
     </message>
     <message>
         <source>Terms of Use</source>
-        <translation type="unfinished"/>
+        <translation>Erabilpen Baldintzak</translation>
     </message>
     <message>
         <source>Before we start, you must agree to the &lt;a href=&quot;%1&quot;&gt;Skype Terms of Use&lt;/a&gt; and &lt;a href=&quot;%2&quot;&gt;Skype Privacy Policy&lt;/a&gt;.</source>
@@ -1830,337 +1833,337 @@ Please use a smaller size image.</source>
     <name>Events</name>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi historia</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Markatu denak ikusita bezala</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
-        <translation type="unfinished"/>
+        <translation>Ezkutuko zenbakia</translation>
     </message>
     <message>
         <source>Birthday for %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en urtebetetzea </translation>
     </message>
     <message>
         <source>Delete Event</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu gertaera</translation>
     </message>
     <message>
         <source>Delete Selected Events</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu aukeratutako gertaerak</translation>
     </message>
     <message>
         <source>Unknown event</source>
-        <translation type="unfinished"/>
+        <translation>Gertaera ezezaguna</translation>
     </message>
     <message>
         <source>Event History</source>
-        <translation type="unfinished"/>
+        <translation>Gertaeren historia</translation>
     </message>
     <message>
         <source>New Events</source>
-        <translation type="unfinished"/>
+        <translation>Gertaera berriak</translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation type="unfinished"/>
+        <translation>Deiak</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Txatak</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi-bidalketak</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>Urtebetetzeak</translation>
     </message>
     <message>
         <source>%1 has appeared online</source>
-        <translation type="unfinished"/>
+        <translation>%1 konektatu da</translation>
     </message>
     <message>
         <source>%1 has gone offline</source>
-        <translation type="unfinished"/>
+        <translation>%1 deskonektatu egin da</translation>
     </message>
     <message>
         <source>%1 has been added to your contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 zure kontaktu zerrendan gehitu da</translation>
     </message>
     <message>
         <source>%1 has been deleted from your contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 kontaktu-zerrendatik ezabatu da</translation>
     </message>
     <message>
         <source>%1 has a birthday</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en urtebetetzea da</translation>
     </message>
     <message>
         <source>%1, %2 turned %3</source>
-        <translation type="unfinished"/>
+        <translation>%1,%2 %3(e)ra aldatu zen</translation>
     </message>
     <message>
         <source>%1, %2 turns %3</source>
-        <translation type="unfinished"/>
+        <translation>%1,%2 %3(e)ra aldatu da</translation>
     </message>
     <message>
         <source>Test Event</source>
-        <translation type="unfinished"/>
+        <translation>Probatu gertaera</translation>
     </message>
     <message>
         <source>Example Chat Message</source>
-        <translation type="unfinished"/>
+        <translation>Berehalako mezuaren adibide bat</translation>
     </message>
     <message>
         <source>This is an example of a chat event popup.</source>
-        <translation type="unfinished"/>
+        <translation>Txateko gertaera-jakinarazpenaren adibide bat da hau.</translation>
     </message>
     <message>
         <source>Test Sound</source>
-        <translation type="unfinished"/>
+        <translation>Probatu soinua</translation>
     </message>
     <message>
         <source>Skype Login</source>
-        <translation type="unfinished"/>
+        <translation>Hasi Skype-ko saioa</translation>
     </message>
     <message>
         <source>Skype Logout</source>
-        <translation type="unfinished"/>
+        <translation>Itxi Skype-ko saioa</translation>
     </message>
     <message>
         <source>Skype Login Failed</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa Skype-ko saioa hastean</translation>
     </message>
     <message>
         <source>Call Connecting</source>
-        <translation type="unfinished"/>
+        <translation>Deia konektatzen</translation>
     </message>
     <message>
         <source>Incoming Call Ringing</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako deia</translation>
     </message>
     <message>
         <source>Outgoing Call Ringing</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako deia</translation>
     </message>
     <message>
         <source>Call Answered</source>
-        <translation type="unfinished"/>
+        <translation>Erantzundako deia</translation>
     </message>
     <message>
         <source>Number Busy</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakia okupatuta</translation>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation type="unfinished"/>
+        <translation>Dei galdua</translation>
     </message>
     <message>
         <source>Call Failed</source>
-        <translation type="unfinished"/>
+        <translation>Deiak huts egin du</translation>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>Deia zain</translation>
     </message>
     <message>
         <source>Call Resumed</source>
-        <translation type="unfinished"/>
+        <translation>Deiari berrekinda</translation>
     </message>
     <message>
         <source>Call Waiting</source>
-        <translation type="unfinished"/>
+        <translation>Deia zain</translation>
     </message>
     <message>
         <source>Call Hungup</source>
-        <translation type="unfinished"/>
+        <translation>Eseki deia</translation>
     </message>
     <message>
         <source>Call Ended</source>
-        <translation type="unfinished"/>
+        <translation>Deia amaituta</translation>
     </message>
     <message>
         <source>First Chat Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Lehenengo txat-mezua jasota</translation>
     </message>
     <message>
         <source>Chat Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Txat-mezua jasota</translation>
     </message>
     <message>
         <source>Chat Message Sent</source>
-        <translation type="unfinished"/>
+        <translation>Txat-mezua bidalita</translation>
     </message>
     <message>
         <source>Contact Joined Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktua txatera batu da</translation>
     </message>
     <message>
         <source>Contact Left Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuak txata utzi du</translation>
     </message>
     <message>
         <source>Contact Kicked from Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktua txatetik kanporatu da</translation>
     </message>
     <message>
         <source>Contact Came Online</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktua linean dago</translation>
     </message>
     <message>
         <source>Contact Went Offline</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktua lineaz kanpo dago</translation>
     </message>
     <message>
         <source>Contact Profile Updated</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuaren profila eguneratuta</translation>
     </message>
     <message>
         <source>Contact Added to List</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktua kontaktu-zerrendan gehitu da</translation>
     </message>
     <message>
         <source>Contact Deleted from List</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktua kontaktu-zerrendatik ezabatu da</translation>
     </message>
     <message>
         <source>File Transfer Request</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia bidaltzeko eskaera</translation>
     </message>
     <message>
         <source>File Transfer Complete</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi-bidalketa osatuta</translation>
     </message>
     <message>
         <source>File Transfer Failed</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da fitxategia bidali</translation>
     </message>
     <message>
         <source>Contacts Received</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuak jasota</translation>
     </message>
     <message>
         <source>Contacts Sent</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuak bidalita</translation>
     </message>
     <message>
         <source>SMS Received</source>
-        <translation type="unfinished"/>
+        <translation>SMSa jasota</translation>
     </message>
     <message>
         <source>SMS Sent</source>
-        <translation type="unfinished"/>
+        <translation>SMSa bidalita</translation>
     </message>
     <message>
         <source>SMS Failed</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa SMSan</translation>
     </message>
     <message>
         <source>Money Received</source>
-        <translation type="unfinished"/>
+        <translation>Dirua jasota</translation>
     </message>
     <message>
         <source>Money Sent</source>
-        <translation type="unfinished"/>
+        <translation>Dirua bidalita</translation>
     </message>
     <message>
         <source>Credit Received</source>
-        <translation type="unfinished"/>
+        <translation>Kreditua jasota</translation>
     </message>
     <message>
         <source>Credit Sent</source>
-        <translation type="unfinished"/>
+        <translation>Kreditua bidalita</translation>
     </message>
     <message>
         <source>Advertisement</source>
-        <translation type="unfinished"/>
+        <translation>Iragarkia</translation>
     </message>
     <message>
         <source>Upsell</source>
-        <translation type="unfinished"/>
+        <translation>Salmenta eskaintzak</translation>
     </message>
     <message>
         <source>Contact&apos;s Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuen urtebetetzeak</translation>
     </message>
     <message>
         <source>Our Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Gure urtebetetzeak</translation>
     </message>
     <message>
         <source>Credit is Low</source>
-        <translation type="unfinished"/>
+        <translation>Kreditu gutxi dago</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Ezezaguna</translation>
     </message>
     <message>
         <source>%1, %2 had a birthday</source>
         <comment>Example: [Yesterday, 29/12/2008], [Andrew] had a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>%1,%2(e)k urteak bete ditu</translation>
     </message>
     <message>
         <source>%1, %2 has a birthday</source>
         <comment>Example: [Tomorrow, 29/12/2008], [Andrew] has a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>%1,%2(e)k urteak betetzen ditu</translation>
     </message>
     <message>
         <source>Incoming Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako kontaktu-eskaera</translation>
     </message>
     <message>
         <source>&amp;Unread Chats</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Irakurri gabeko txatak</translation>
     </message>
     <message>
         <source>&amp;Recent Chats</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Azkenengo txatak</translation>
     </message>
     <message>
         <source>&amp;Bookmarked Chats</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Laster-marka duten txatak</translation>
     </message>
     <message>
         <source>Mark as Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Markatu ikusita bezala</translation>
     </message>
     <message>
         <source>Incoming</source>
-        <translation type="unfinished"/>
+        <translation>Sarrera</translation>
     </message>
     <message>
         <source>Voice Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Ahots-mezua jasota</translation>
     </message>
     <message>
         <source>Voice Message Sent</source>
-        <translation type="unfinished"/>
+        <translation>Ahots-mezua bidalita</translation>
     </message>
     <message>
         <source>Skype WiFi - Extend Session</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi - Luzatu saioa</translation>
     </message>
     <message>
         <source>Your Skype WiFi session is due to expire in %1 minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Zure Skype Wifi saioa %1minututan iraungiko da.</translation>
     </message>
     <message>
         <source>This is an example of an SMS event popup.</source>
-        <translation type="unfinished"/>
+        <translation>SMSaren gertaera-jakinarazpenaren adibide bat da hau.</translation>
     </message>
     <message>
         <source>Voice messages</source>
-        <translation type="unfinished"/>
+        <translation>Ahots-mezuak</translation>
     </message>
     <message>
         <source>This is an example of a voice message event popup.</source>
@@ -2191,361 +2194,361 @@ Please use a smaller size image.</source>
     <name>File Transfer</name>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Bidali fitxategia</translation>
     </message>
     <message>
         <source>Send File to Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Bidali fitxategia aukeratutako kontaktuei</translation>
     </message>
     <message>
         <source>Incoming files from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en sarrerako fitxategiak</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Onartu</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Ezetsi</translation>
     </message>
     <message>
         <source>%1 files - %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 fitxategi -%2</translation>
     </message>
     <message>
         <source>Could not read from the file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da fitxategia irakurri</translation>
     </message>
     <message>
         <source>Could not write to the file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da fitxategian idatzi</translation>
     </message>
     <message>
         <source>%1 could not write the file</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)k ezin izan du fitxategia idatzi</translation>
     </message>
     <message>
         <source>%1 has been offline for too long</source>
-        <translation type="unfinished"/>
+        <translation>%1 denbora gehiegi egon da lineaz kanpo</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa</translation>
     </message>
     <message>
         <source>Connecting to %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)ra konektatzen</translation>
     </message>
     <message>
         <source>Receiving from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)engandik jasotzen</translation>
     </message>
     <message>
         <source>Paused - Receiving from %1</source>
-        <translation type="unfinished"/>
+        <translation>Geldituta - %1(r)engandik jasotzen</translation>
     </message>
     <message>
         <source>Completed - Received from %1</source>
-        <translation type="unfinished"/>
+        <translation>Osatuta - %1(r)engandik jasota</translation>
     </message>
     <message>
         <source>Failed - %1</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa - %1</translation>
     </message>
     <message>
         <source>Sending file to %1</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia %1(e)ri bidaltzen</translation>
     </message>
     <message>
         <source>Paused - Sending file to %1</source>
-        <translation type="unfinished"/>
+        <translation>Geldituta - %1(e)ri fitxategia bidaltzen</translation>
     </message>
     <message>
         <source>Completed - Sent to %1</source>
-        <translation type="unfinished"/>
+        <translation>Osatuta - %1(e)ri bidalita</translation>
     </message>
     <message>
         <source>Status Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Egoera ezezaguna</translation>
     </message>
     <message>
         <source>Accept All</source>
-        <translation type="unfinished"/>
+        <translation>Onartu denak</translation>
     </message>
     <message>
         <source>Decline All</source>
-        <translation type="unfinished"/>
+        <translation>Ezetsi denak</translation>
     </message>
     <message>
         <source>Open the directory for this file</source>
-        <translation type="unfinished"/>
+        <translation>Ireki direktorioa fitxategi honentzako</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation type="unfinished"/>
+        <translation>Ireki direktorioa</translation>
     </message>
     <message>
         <source>%1 files</source>
-        <translation type="unfinished"/>
+        <translation>%1 fitxategi</translation>
     </message>
     <message>
         <source>%1 recipients</source>
-        <translation type="unfinished"/>
+        <translation>%1 hartzaile</translation>
     </message>
     <message>
         <source>%1 of %2</source>
         <comment>Progress: bytes transferred of bytes total</comment>
-        <translation type="unfinished"/>
+        <translation>%1 %2(e)tik</translation>
     </message>
     <message>
         <source>%1ps</source>
         <comment>Speed: size units per second</comment>
-        <translation type="unfinished"/>
+        <translation>%1ps</translation>
     </message>
     <message>
         <source>Finishing in %1</source>
-        <translation type="unfinished"/>
+        <translation>Amaituta %1(e)tan</translation>
     </message>
     <message>
         <source>%1 seconds</source>
-        <translation type="unfinished"/>
+        <translation>%1 segundo</translation>
     </message>
     <message>
         <source>Choose Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu direktorioa fitxategiak gordetzeko</translation>
     </message>
     <message>
         <source>Choose File Name to Save</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu fitxategi-izena gordetzeko</translation>
     </message>
     <message>
         <source>All files downloaded to:</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi guztiak hona jaitsita:</translation>
     </message>
     <message>
         <source>Open Default Download Directory</source>
-        <translation type="unfinished"/>
+        <translation>Ireki lehenetsitako deskarga-karpeta</translation>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu lehenetsitako karpeta fitxategiak gordetzeko</translation>
     </message>
     <message>
         <source>Change Default Download Directory...</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu lehenetsitako deskarga-karpeta...</translation>
     </message>
     <message>
         <source>Choose File(s) to send to %1</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu fitxategia(k) %1(r)i bidaltzeko</translation>
     </message>
     <message>
         <source>Choose File(s) to send to selected users</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu fitxategia(k) aukeratutako erabiltzaileei bidaltzeko</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi-bidalketak</translation>
     </message>
     <message>
         <source>Accept File</source>
-        <translation type="unfinished"/>
+        <translation>Onartu fitxategia</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"/>
+        <translation>Berrekin</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Gelditu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Saiatu berriro</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu dena</translation>
     </message>
     <message>
         <source>Remove all completed and failed files from the list</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu bai osatutako fitxategiak bai akatsa emandakoak zerrendatik</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi guztiak</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Garbitu</translation>
     </message>
     <message>
         <source>All Inactive Files</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi ez-aktibo guztiak</translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Received File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ezabatu jasotako fitxategi %n</numerusform><numerusform>Ezabatu jasotako %n fitxategi</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Sent File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ezabatu bidalitako fitxategi %n</numerusform><numerusform>Ezabatu bidalitako %n fitxategi</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Failed File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ezabatu fitxategi akastun %n</numerusform><numerusform>Ezabatu %n fitxategi akastun</numerusform></translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Auto-onartu fitxategiak</translation>
     </message>
     <message>
         <source>Sending your file is being relayed. Click this icon to find out what this means.</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia bidaltzen. Klik egin ikono honetan horrek zer esan nahi duen jakiteko.</translation>
     </message>
     <message>
         <source>Some of the files are being relayed. Click this icon to find out what this means.</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi batzuk bidaltzen. Klik egin ikono honetan horrek zer esan nahi duen jakiteko.</translation>
     </message>
     <message>
         <source>The file is being relayed. Click this icon to find out what this means.</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia bidaltzen. Klik egin ikono honetan horrek zer esan nahi duen jakiteko.</translation>
     </message>
     <message>
         <source>1 file</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi 1</translation>
     </message>
     <message>
         <source>%1 has to accept your contact request first</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)k zure kontaktu-eskaera onartu behar du lehenbizi</translation>
     </message>
     <message>
         <source>%1 cancelled the file sending</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)k fitxategiaren bidalketa ezeztatu du</translation>
     </message>
     <message>
         <source>%1 could not read the file</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)k ezin izan du fitxategia irakurri</translation>
     </message>
     <message>
         <source>%1 does not support file sending</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)k ez du fitxategi-bidalketa onartzen</translation>
     </message>
     <message>
         <source>Incoming file from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en sarrerako fitxategia</translation>
     </message>
     <message>
         <source>Cancelled - File from %1</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatuta - %1(r)en fitxategia</translation>
     </message>
     <message>
         <source>Cancelled - File to %1</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatuta - %1(r)entzako fitxategia</translation>
     </message>
     <message>
         <source>Accept File to...</source>
-        <translation type="unfinished"/>
+        <translation>Onartu fitxategia...</translation>
     </message>
     <message>
         <source>Decline file</source>
-        <translation type="unfinished"/>
+        <translation>Ezetsi fitxategia</translation>
     </message>
     <message>
         <source>Decline File</source>
-        <translation type="unfinished"/>
+        <translation>Ezetsi fitxategia</translation>
     </message>
     <message>
         <source>Accept all files</source>
-        <translation type="unfinished"/>
+        <translation>Onartu fitxategi guztiak</translation>
     </message>
     <message>
         <source>Accept All Files</source>
-        <translation type="unfinished"/>
+        <translation>Onartu fitxategi guztiak</translation>
     </message>
     <message>
         <source>Accept All Files to...</source>
-        <translation type="unfinished"/>
+        <translation>Onartu fitxategi guztiak...</translation>
     </message>
     <message>
         <source>Decline all files</source>
-        <translation type="unfinished"/>
+        <translation>Ezetsi fitxategi guztiak</translation>
     </message>
     <message>
         <source>Decline All Files</source>
-        <translation type="unfinished"/>
+        <translation>Ezetsi fitxategi guztiak</translation>
     </message>
     <message>
         <source>Pause all files</source>
-        <translation type="unfinished"/>
+        <translation>Pausatu fitxategi guztiak</translation>
     </message>
     <message>
         <source>Pause All Files</source>
-        <translation type="unfinished"/>
+        <translation>Pausatu fitxategi guztiak</translation>
     </message>
     <message>
         <source>Cancel all files</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatu fitxategi guztiak</translation>
     </message>
     <message>
         <source>Cancel All Files</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatu fitxategi guztiak</translation>
     </message>
     <message>
         <source>Retry failed files</source>
-        <translation type="unfinished"/>
+        <translation>Saiatu berriro fitxategi akastunekin</translation>
     </message>
     <message>
         <source>Retry Failed Files</source>
-        <translation type="unfinished"/>
+        <translation>Saiatu berriro fitxategi akastunekin</translation>
     </message>
     <message>
         <source>Cancel active files</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatu fitxategi aktiboak</translation>
     </message>
     <message>
         <source>Cancel Active Files</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatu fitxategi aktiboak</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%1(r)en fitxategi %n</numerusform><numerusform>%1(r)en %n fitxategi</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Accept %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Onartu %1(r)en fitxategi %n</numerusform><numerusform>Onartu %1(r)en %n fitxategi</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Decline %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ezetsi %1(r)en fitxategi %n</numerusform><numerusform>Ezetsi %1(r)en %n fitxategi</numerusform></translation>
     </message>
     <message>
         <source>Incoming file from %1 isn&apos;t available yet</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en sarrerako fitxategia ez dago oraindik erabilgarri</translation>
     </message>
     <message>
         <source>Waiting for %1 to accept</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)en onarpenaren zain</translation>
     </message>
     <message>
         <source>The file isn&apos;t available on this computer</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ez dago erabilgarri ordenagailu honetan</translation>
     </message>
     <message>
         <source>If you cancel now you will not receive this file.</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatuz gero, ez duzu fitxategia jasoko.</translation>
     </message>
     <message>
         <source>If you cancel now the other party will not receive this file.</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatuz gero, beste erabiltzaileak ez du fitxategia jasoko.</translation>
     </message>
     <message>
         <source>If you cancel now you will not receive these files.</source>
-        <translation type="unfinished"/>
+        <translation>Ezeztatuz gero, ez dituzu fitxategiak jasoko.</translation>
     </message>
     <message>
         <source>If you cancel now the other party will not receive these files.</source>
@@ -2566,449 +2569,454 @@ Please use a smaller size image.</source>
     <name>FindDialog</name>
     <message>
         <source>Search options</source>
-        <translation type="unfinished"/>
+        <translation>Bilaketa-aukerak</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"/>
+        <translation>Helbidea</translation>
     </message>
     <message>
         <source>Find</source>
         <comment>sF_FIND_CAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Aurkitu</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
         <comment>sF_FIND_FIND_WHAT</comment>
-        <translation type="unfinished"/>
+        <translation>Bi&amp;latu hau:</translation>
     </message>
     <message>
         <source>&amp;Match whole word only</source>
         <comment>sF_FIND_WHOLE_WORDS</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Parekatu hitz osoarekin</translation>
     </message>
     <message>
         <source>M&amp;atch case</source>
         <comment>sF_FIND_MATCH_CASE</comment>
-        <translation type="unfinished"/>
+        <translation>P&amp;arekoa</translation>
     </message>
     <message>
         <source>I&amp;gnore poster names</source>
         <comment>sF_FIND_IGNORE_TITLES</comment>
-        <translation type="unfinished"/>
+        <translation>E&amp;zikusi horma-irudien izenak</translation>
     </message>
     <message>
         <source>&amp;Up</source>
         <comment>sF_FIND_DIRECTION_UP</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Goian</translation>
     </message>
     <message>
         <source>D&amp;own</source>
         <comment>sF_FIND_DIRECTION_DOWN</comment>
-        <translation type="unfinished"/>
+        <translation>B&amp;ehean</translation>
     </message>
     <message>
         <source>Cance&amp;l</source>
         <comment>sF_OPTIONS_BUTTON_CANCEL</comment>
-        <translation type="unfinished"/>
+        <translation>Utz&amp;i</translation>
     </message>
     <message>
         <source>Find Text</source>
         <comment>sF_FIND_CAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Aurkitu testua</translation>
     </message>
 </context>
 <context>
     <name>LoadHistory</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Inprimakia</translation>
     </message>
     <message>
         <source>loadhistory</source>
-        <translation type="unfinished"/>
+        <translation>Kargatuhistoria</translation>
     </message>
     <message>
         <source>Load chat history progress</source>
-        <translation type="unfinished"/>
+        <translation>Kargatu txateko historiaren aurrerapena</translation>
     </message>
     <message>
         <source>Loading chat history...</source>
-        <translation type="unfinished"/>
+        <translation>Txateko historia kargatzen...</translation>
     </message>
     <message>
         <source>sendprogress</source>
-        <translation type="unfinished"/>
+        <translation>bidalketaaurrerapena</translation>
     </message>
     <message>
         <source>Send progress count</source>
-        <translation type="unfinished"/>
+        <translation>Bidalketa-aurrerapenaren maila</translation>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
-        <translation type="unfinished"/>
+        <translation>bidalketaaurrerapenbarra</translation>
     </message>
     <message>
         <source>Send progress bar</source>
-        <translation type="unfinished"/>
+        <translation>Bidalketa-aurrerapenaren barra</translation>
     </message>
 </context>
 <context>
     <name>Login</name>
     <message>
         <source>Sign me in when Skype starts</source>
-        <translation type="unfinished"/>
+        <translation>Hasi saioa automatikoki Skype abiaraztean</translation>
     </message>
     <message>
         <source>Your password must be at least 6 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitzak gutxienez 6 karaktere izan behar ditu.</translation>
     </message>
     <message>
         <source>Your entered passwords do not match.</source>
-        <translation type="unfinished"/>
+        <translation>Sartutako pasahitzak ez datoz bat.</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu pasahitza</translation>
     </message>
     <message>
         <source>Current Password</source>
-        <translation type="unfinished"/>
+        <translation>Uneko pasahitza</translation>
     </message>
     <message>
         <source>New Password</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitz berria</translation>
     </message>
     <message>
         <source>Verify New Password</source>
-        <translation type="unfinished"/>
+        <translation>Egiaztatu pasahitz berria</translation>
     </message>
     <message>
         <source>Your password must be at least 6 characters in length.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitzak gutxienez 6 karaktere izan behar ditu.</translation>
     </message>
     <message>
         <source>Automatically sign-in when I start Skype</source>
-        <translation type="unfinished"/>
+        <translation>Hasi saioa automatikoki Skype abiaraztean</translation>
     </message>
     <message>
         <source>Password Changed.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitza aldatuta.</translation>
     </message>
     <message>
         <source>Your password has been successfully changed.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitza zuzen aldatu da.</translation>
     </message>
     <message>
         <source>Your new and old passwords match.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitz berria eta zaharra bat datoz.</translation>
     </message>
     <message>
         <source>Your password is too long.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitza luzeegia da.</translation>
     </message>
     <message>
         <source>Your password contains an invalid character.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitzak onartzen ez den karaktere bat du.</translation>
     </message>
     <message>
         <source>Click here to change your password</source>
-        <translation type="unfinished"/>
+        <translation>Klik egin hemen pasahitza aldatzeko</translation>
     </message>
     <message>
         <source>Changing Password...</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitza aldatzen...</translation>
     </message>
     <message>
         <source>Please wait while your password is changed.
 
 This shouldn&apos;t take more than a few seconds.</source>
-        <translation type="unfinished"/>
+        <translation>Mesedez, itxaron pasahitza aldatzen den bitartean.
+
+Minutu gutxi batzuk baino ez luke iraun beharko.</translation>
     </message>
     <message>
         <source>Current password is incorrect.</source>
-        <translation type="unfinished"/>
+        <translation>Uneko pasahitza okerra da</translation>
     </message>
     <message>
         <source>Server connect failed.
 Please check your internet connection and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa zerbitzarira konektatzean.
+Egiaztatu Internet-konexioa eta saiatu berriro.</translation>
     </message>
     <message>
         <source>Your new password can not be the same as your old password.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitz berria ezin da izan aurrekoaren berdina</translation>
     </message>
     <message>
         <source>Your new password is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitz berria baliogabea da.</translation>
     </message>
     <message>
         <source>You must be logged in in order to change your password.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitza aldatzeko saioa hasi behar da.</translation>
     </message>
     <message>
         <source>Password Change Failed</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa pasahitza aldatzean</translation>
     </message>
     <message>
         <source>Your password must differ from your Skype Name.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitza eta erabiltzaile-izena ezin dira berdinak izan.</translation>
     </message>
     <message>
         <source>Your password has invalid format.</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitzaren formatua baliogabea da.</translation>
     </message>
     <message>
         <source>An unknown error occured while changing your password.
 
 Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Akats ezezaguna pasahitza aldatzean.
+
+Saiatu berriro beranduago.</translation>
     </message>
     <message>
         <source>Sign in with a different account</source>
-        <translation type="unfinished"/>
+        <translation>Hasi saioa beste kontu batekin </translation>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu Skype WiFi-ra</translation>
     </message>
 </context>
 <context>
     <name>Main Window</name>
     <message>
         <source>Click here to personalise your mood and profile</source>
-        <translation type="unfinished"/>
+        <translation>Klik egin hemen mezu pertsonala eta profila pertsonalizatzeko</translation>
     </message>
     <message>
         <source>Type your mood message in this box</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi mezu pertsonala eremu honetan</translation>
     </message>
     <message>
         <source>Skype Credit</source>
-        <translation type="unfinished"/>
+        <translation>Skype kreditua</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Itxi Skype</translation>
     </message>
     <message>
         <source>Event History</source>
-        <translation type="unfinished"/>
+        <translation>Gertaeren historia</translation>
     </message>
     <message>
         <source>Add or Search for Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu edo bilatu Skype kontaktuak</translation>
     </message>
     <message>
         <source>Main Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu nagusia</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi-bidalketak</translation>
     </message>
     <message>
         <source>%1 %2%3 for Linux</source>
         <comment>Pre-login main window title: ie. %1 = &quot;Skype&quot;, %2 = &quot;1.5&quot;, %3 = &quot; (Alpha)&quot;</comment>
-        <translation type="unfinished"/>
+        <translation>%1 %2%3 Linux-entzat</translation>
     </message>
     <message>
         <source>%1 Skype Credit available</source>
-        <translation type="unfinished"/>
+        <translation>%1 Skype kreditua erabilgarri</translation>
     </message>
     <message>
         <source>%1 People Online</source>
-        <translation type="unfinished"/>
+        <translation>%1 kontaktu linean</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"/>
+        <translation>Irudiak</translation>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi kontaktuak</translation>
     </message>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi historia</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Markatu denak ikusita bezala</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aukerak</translation>
     </message>
     <message>
         <source>Sign &amp;Out</source>
-        <translation type="unfinished"/>
+        <translation>Itxi &amp;saioa</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Irten</translation>
     </message>
     <message>
         <source>New Version Available</source>
-        <translation type="unfinished"/>
+        <translation>Bertsio berria eskuragarri</translation>
     </message>
     <message>
         <source>Open Download Page</source>
-        <translation type="unfinished"/>
+        <translation>Ireki deskarga-orria</translation>
     </message>
     <message>
         <source>A new version of Skype is now available for download.</source>
-        <translation type="unfinished"/>
+        <translation>Skype-ren bertsio berri bat dago eskuragarri.</translation>
     </message>
     <message>
         <source>This is a required upgrade.</source>
-        <translation type="unfinished"/>
+        <translation>Beharrezko eguneratzea.</translation>
     </message>
     <message numerus="yes">
         <source>%n new event(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>gertaera berri %n</numerusform><numerusform>%n gertaera berri</numerusform></translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu guztiak</translation>
     </message>
     <message>
         <source>Online Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Linean dauden kontaktuak</translation>
     </message>
     <message>
         <source>Recently Contacted Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Duela gutxi kontaktatutakoak</translation>
     </message>
     <message>
         <source>Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Skype kontaktuak</translation>
     </message>
     <message>
         <source>Ungrouped Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Taldekatu gabeko kontaktuak</translation>
     </message>
     <message>
         <source>%1 is not in your Contact list</source>
-        <translation type="unfinished"/>
+        <translation>%1 ez dago zure kontaktu-zerrendan</translation>
     </message>
     <message>
         <source>Search for &quot;%1&quot; in the Skype Directory</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu &quot;%1&quot; Skype-ren direktorioan</translation>
     </message>
     <message>
         <source>Show Contact &amp;Groups</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi kontaktu &amp;taldeak</translation>
     </message>
     <message>
         <source>Contact &amp;Groups</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu-&amp;taldeak</translation>
     </message>
     <message>
         <source>&amp;Hide Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ezkutatu kontaktu-taldeak</translation>
     </message>
     <message>
         <source>&amp;Compact Contact Groups</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kontaktu-taldeen ikuspegi trinkoa</translation>
     </message>
     <message>
         <source>&amp;New Contact Group...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kontaktu-talde berria...</translation>
     </message>
     <message>
         <source>&amp;Predefined Groups</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aurretik zehaztutako taldeak</translation>
     </message>
     <message>
         <source>Bookmarked Chats</source>
-        <translation type="unfinished"/>
+        <translation>Laster-marka duten txatak</translation>
     </message>
     <message>
         <source>Change &amp;Password...</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu &amp;pasahitza...</translation>
     </message>
     <message>
         <source>&amp;About Skype</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Skype-ri buruz</translation>
     </message>
     <message>
         <source>Total Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuak guztira</translation>
     </message>
     <message>
         <source>Bookmarked Chats (0)</source>
-        <translation type="unfinished"/>
+        <translation>Laster-marka duten txatak (0)</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Izengabea</translation>
     </message>
     <message>
         <source>Change &amp;Status</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu &amp;egoera</translation>
     </message>
     <message>
         <source>Search Directory</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu zerrendan</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Deitu telefonora edo bidali SMSa</translation>
     </message>
     <message>
         <source>This is the amount of credit you have on your Skype account for making phone calls.</source>
-        <translation type="unfinished"/>
+        <translation>Zure Skype kontuan duzun kredituaren zenbatekoa telefono deietarako</translation>
     </message>
     <message>
         <source>Requests from New Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu berriek egindako xehetasun eskaerak</translation>
     </message>
     <message>
         <source>Phone Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Telefono-zenbakiak</translation>
     </message>
     <message>
         <source>Requests to New Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Xehetasun eskaera kontaktu berriei</translation>
     </message>
     <message>
         <source>1 free call</source>
-        <translation type="unfinished"/>
+        <translation>Dei 1 doan</translation>
     </message>
     <message>
         <source>Call any phone with Skype. Your first call is free.</source>
-        <translation type="unfinished"/>
+        <translation>Deitu edozein telefonotara Skype bidez. Zure lehenengo deia doakoa da.</translation>
     </message>
     <message>
         <source>Buy Skype Credit</source>
-        <translation type="unfinished"/>
+        <translation>Erosi Skype kreditua</translation>
     </message>
     <message>
         <source>Start a &amp;Conference Call...</source>
-        <translation type="unfinished"/>
+        <translation>Hasi &amp;talde-deia...</translation>
     </message>
     <message>
         <source>Get a subscription</source>
         <comment>This appears in case of account not having any subscriptions</comment>
-        <translation type="unfinished"/>
+        <translation>Erosi harpidetza</translation>
     </message>
     <message numerus="yes">
         <source>%n subscription(s)</source>
         <comment>This appears in case of account having subscriptions</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>harpidetza %n</numerusform><numerusform>%n harpidetza</numerusform></translation>
     </message>
     <message>
         <source>Messenger Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Messenger kontaktuak</translation>
     </message>
     <message>
         <source>Subscriptions</source>
-        <translation type="unfinished"/>
+        <translation>Harpidetzak</translation>
     </message>
     <message>
         <source>Get Premium</source>
@@ -3167,495 +3175,495 @@ Please try again later.</source>
     <name>Options</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Orokorra</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"/>
+        <translation>Pribatutasuna</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Jakinarazpenak</translation>
     </message>
     <message>
         <source>Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Dei-desbiderapena</translation>
     </message>
     <message>
         <source>Sound Devices</source>
-        <translation type="unfinished"/>
+        <translation>Soinu-gailuak</translation>
     </message>
     <message>
         <source>Video Devices</source>
-        <translation type="unfinished"/>
+        <translation>Bideo-gailuak</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Aurreratua</translation>
     </message>
     <message>
         <source>Blocked People</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatutako kontaktuak</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation type="unfinished"/>
+        <translation>API publikoa</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Itxi</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Aukerak</translation>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktu batean klik bikoitza egitean edo helbide-eremua erabiltzean</translation>
     </message>
     <message>
         <source>Start a call</source>
-        <translation type="unfinished"/>
+        <translation>Hasi deia</translation>
     </message>
     <message>
         <source>Start a chat</source>
-        <translation type="unfinished"/>
+        <translation>Hasi txata</translation>
     </message>
     <message>
         <source>Show me as &apos;Away&apos; when I am inactive for</source>
-        <translation type="unfinished"/>
+        <translation>Denbora batez jarduera gabe nagoenean &apos;Ez nago&apos; erakutsi</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>minutu ondoren</translation>
     </message>
     <message>
         <source>Start Skype minimised in the system tray</source>
-        <translation type="unfinished"/>
+        <translation>Abiarazi Skype jakinarazpenen gunean ikonotuta</translation>
     </message>
     <message>
         <source>Set program language to:</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu programaren hizkuntza:</translation>
     </message>
     <message>
         <source>anybody</source>
-        <translation type="unfinished"/>
+        <translation>Edonorena</translation>
     </message>
     <message>
         <source>only people I have allowed</source>
-        <translation type="unfinished"/>
+        <translation>Baimendutako(ena)(ei) soilik</translation>
     </message>
     <message>
         <source>anybody with a visible number</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakia agerian duen edonor</translation>
     </message>
     <message>
         <source>only numbers of my Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Nire kontaktuen zenbakiak soilik</translation>
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>Behin betikoa</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"/>
+        <translation>2 astekoa</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"/>
+        <translation>Hilabetekoa</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"/>
+        <translation>3 hilekoa</translation>
     </message>
     <message>
         <source>Disable History</source>
-        <translation type="unfinished"/>
+        <translation>Desgaitu historia</translation>
     </message>
     <message>
         <source>Allow my status to be shown on the web.</source>
-        <translation type="unfinished"/>
+        <translation>Onartu nire konexio-egoera webean erakustea.</translation>
     </message>
     <message>
         <source>Automatically answer incoming calls.</source>
-        <translation type="unfinished"/>
+        <translation>Erantzun deiak automatikoki.</translation>
     </message>
     <message>
         <source>Allow calls from...</source>
-        <translation type="unfinished"/>
+        <translation>Onartu deia...</translation>
     </message>
     <message>
         <source>Allow chats from...</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu txata...</translation>
     </message>
     <message>
         <source>Keep chat history for...</source>
-        <translation type="unfinished"/>
+        <translation>Gorde txat-historia...</translation>
     </message>
     <message>
         <source>Enable Event</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu gertaera</translation>
     </message>
     <message>
         <source>Test Event</source>
-        <translation type="unfinished"/>
+        <translation>Probatu gertaera</translation>
     </message>
     <message>
         <source>Restore Default</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri lehenetsitakoa</translation>
     </message>
     <message>
         <source>Advanced View</source>
-        <translation type="unfinished"/>
+        <translation>Ikuspegi aurreratua</translation>
     </message>
     <message>
         <source>Execute the following script on any event:</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu ondorengo script-a edozein gertaerarekin:</translation>
     </message>
     <message>
         <source>Play sound file:</source>
-        <translation type="unfinished"/>
+        <translation>Erreproduzitu soinu-fitxategia:</translation>
     </message>
     <message>
         <source>None Configured</source>
-        <translation type="unfinished"/>
+        <translation>Bakar bat ere ez dago konfiguratuta</translation>
     </message>
     <message>
         <source>The file is not accessible.</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ez da atzigarria</translation>
     </message>
     <message>
         <source>Reset to Default Sound</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri lehenetsitako soinua</translation>
     </message>
     <message>
         <source>Display pop-up notification</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi jakinarazpen-leihoa</translation>
     </message>
     <message>
         <source>Send the other contact a message:</source>
-        <translation type="unfinished"/>
+        <translation>Bidali mezua beste kontaktuari:</translation>
     </message>
     <message>
         <source>Execute the following script:</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu honako script hau:</translation>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Soinuak</translation>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
-        <translation type="unfinished"/>
+        <translation>Norbaitek nirekin txata hasten duenean...</translation>
     </message>
     <message>
         <source>Display an event notification</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi gertaeraren jakinarazpena</translation>
     </message>
     <message>
         <source>Create a minimised chat window</source>
-        <translation type="unfinished"/>
+        <translation>Sortu txat-leihoa ikonotuta</translation>
     </message>
     <message>
         <source>Open a chat window in front of me</source>
-        <translation type="unfinished"/>
+        <translation>Ireki txat-leihoa aurreko planoan</translation>
     </message>
     <message>
         <source>Show emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi aurpegierak</translation>
     </message>
     <message>
         <source>Show animated emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi aurpegiera animatuak</translation>
     </message>
     <message>
         <source>Show others when I am typing</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi idazten ari naizela</translation>
     </message>
     <message>
         <source>With call forwarding, you can answer your Skype calls even when you&apos;re not currently online.</source>
-        <translation type="unfinished"/>
+        <translation>Linean egon ez arren, Skype-ko deiei erantzun ahal izango diezu dei-desbiderapenaren bidez.</translation>
     </message>
     <message>
         <source>So you could be away from home, or perhaps traveling on the other side of the planet with no internet access, and still receive your calls.</source>
-        <translation type="unfinished"/>
+        <translation>Etxetik urrun edo munduaren beste aldean Interneterako sarrerarik gabe egonagatik ere, deiak jaso ahal izango dituzu.</translation>
     </message>
     <message>
         <source>Learn more about Call Forwarding</source>
-        <translation type="unfinished"/>
+        <translation>Dei-desbiderapenari buruz azalpen gehiago</translation>
     </message>
     <message>
         <source>Forward calls when I&apos;m not on Skype</source>
-        <translation type="unfinished"/>
+        <translation>Desbideratu deiak Skype-n ez nagoenean</translation>
     </message>
     <message>
         <source>Forward calls if I do not answer on Skype within</source>
-        <translation type="unfinished"/>
+        <translation>Desbideratu deiak, ez badut erantzuten</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>segundoz</translation>
     </message>
     <message>
         <source>Ringing</source>
-        <translation type="unfinished"/>
+        <translation>Soinua</translation>
     </message>
     <message>
         <source>Make a test sound</source>
-        <translation type="unfinished"/>
+        <translation>Probatu soinua</translation>
     </message>
     <message>
         <source>Make a test call</source>
-        <translation type="unfinished"/>
+        <translation>Egin proba-dei bat</translation>
     </message>
     <message>
         <source>Allow Skype to automatically adjust my mixer levels</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu Skype-k automatikoki nire nahastailearen mailak doitzea.</translation>
     </message>
     <message>
         <source>nobody</source>
-        <translation type="unfinished"/>
+        <translation>Inor(ena)(i) ez</translation>
     </message>
     <message>
         <source>Automatically receive video from...</source>
-        <translation type="unfinished"/>
+        <translation>Jaso automatikoki bideoa...</translation>
     </message>
     <message>
         <source>Show that I have video to...</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi bideoa daukadala...</translation>
     </message>
     <message>
         <source>Skype</source>
-        <translation type="unfinished"/>
+        <translation>Skype</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation type="unfinished"/>
+        <translation>Egiaztatu eguneratzea dagoela hasieran</translation>
     </message>
     <message>
         <source>Display technical call info</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi deiari buruzko argibide teknikoak</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>Konexioa</translation>
     </message>
     <message>
         <source>Use port</source>
-        <translation type="unfinished"/>
+        <translation>Erabili </translation>
     </message>
     <message>
         <source>for incoming connections</source>
-        <translation type="unfinished"/>
+        <translation>ataka sarrera-konexioentzat</translation>
     </message>
     <message>
         <source>Automatic Proxy Detection</source>
-        <translation type="unfinished"/>
+        <translation>Proxy-aren detekzio automatikoa</translation>
     </message>
     <message>
         <source>HTTPS Proxy</source>
-        <translation type="unfinished"/>
+        <translation>HTTPS Proxy</translation>
     </message>
     <message>
         <source>SOCKS Proxy</source>
-        <translation type="unfinished"/>
+        <translation>SOCKS Proxy</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Zerbitzaria</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Ataka</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzailea</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitza</translation>
     </message>
     <message>
         <source>Unblock Selected People</source>
-        <translation type="unfinished"/>
+        <translation>Desblokeatu hautatutako kontaktuak</translation>
     </message>
     <message>
         <source>Allow my contacts to see the number of contacts I have.</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu nire kontaktuak nik dudan kontaktu kopurua ikus dezaten.</translation>
     </message>
     <message>
         <source>Show when others are typing</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi idazten ari direla</translation>
     </message>
     <message>
         <source>SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMS</translation>
     </message>
     <message>
         <source>Choose Sound File</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu soinu-fitxategia</translation>
     </message>
     <message>
         <source>The hassle-free way to send text messages to friends when they are offline or on the move.</source>
-        <translation type="unfinished"/>
+        <translation>Lineaz kanpo dauden edo hor zehar dabiltzan lagunei testu-mezuak bidaltzeko modurik errazena.</translation>
     </message>
     <message>
         <source>Sending an SMS from the comfort of your keyboard is simple, plus it&apos;s cheap and easy to pay for - all you need is a little Skype Credit.</source>
-        <translation type="unfinished"/>
+        <translation>Teklatuak eskaintzen duen erosotasunaz baliatuz SMSa bidaltzea oso erraza da, gainera, merkea eta ordainerraza: Skype kreditu apur bat besterik ez duzu behar.</translation>
     </message>
     <message>
         <source>You can even set your messages to look like they came from your mobile so friends reply to your mobile.</source>
-        <translation type="unfinished"/>
+        <translation>Mezuak telefono mugikorratik bidaliak izan direnaren itxura emateko konfigura ditzakezu, horrela zure telefono mugikorrera erantzungo dute.</translation>
     </message>
     <message>
         <source>Learn more about SMS</source>
-        <translation type="unfinished"/>
+        <translation>SMSei buruz azalpen gehiago</translation>
     </message>
     <message>
         <source>My Skype Name (%1). Recipients cannot send SMS replies.</source>
-        <translation type="unfinished"/>
+        <translation>Nire erabiltzaile-izena (%1). Hartzaileak ezingo ditu SMSak erantzun.</translation>
     </message>
     <message>
         <source>Send a verification code to your mobile number.</source>
-        <translation type="unfinished"/>
+        <translation>Bidali egiaztapen-kodea zure telefono mugikorraren zenbakira.</translation>
     </message>
     <message>
         <source>Type your mobile number</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi zure telefono mugikorraren zenbakia</translation>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Bidali</translation>
     </message>
     <message>
         <source>You will be charged the standard rate for one SMS message.</source>
-        <translation type="unfinished"/>
+        <translation>SMS batentzat ohiko salneurria kobratuko zaizu.</translation>
     </message>
     <message>
         <source>Enter the code you received on your phone and click Confirm.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu jaso duzun kodea telefono mugikorrean eta sakatu &apos;berretsi&apos;.</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Berretsi</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;smsrates&quot;&gt;SMS destinations and rates&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;smsrates&quot;&gt;SMS helbideak eta tarifak&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"/>
+        <translation>Mikrofonoa</translation>
     </message>
     <message>
         <source>Speakers</source>
-        <translation type="unfinished"/>
+        <translation>Bozgorailuak</translation>
     </message>
     <message>
         <source>Choose style: </source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu estiloa:</translation>
     </message>
     <message>
         <source>Desktop Settings</source>
-        <translation type="unfinished"/>
+        <translation>Mahaigaineko ezarpenak</translation>
     </message>
     <message>
         <source>When I send an SMS message, identify me by...</source>
-        <translation type="unfinished"/>
+        <translation>SMS mezu bat bidaltzerakoan, honela identifikatu...</translation>
     </message>
     <message>
         <source>It appears your system has PulseAudio running: to change sound settings you need to use your Desktop Manager volume control or PulseAudio volume control.</source>
-        <translation type="unfinished"/>
+        <translation>Zure sisteman PulseAudio exekutatzen ari dela dirudi: soinu-ezarpenak aldatzeko mahaigain-kudeatzailearen bolumen-kontrola edo PulseAudio-ren bolumen-kontrola erabili beharko duzu.</translation>
     </message>
     <message>
         <source>Open PulseAudio Volume Control</source>
-        <translation type="unfinished"/>
+        <translation>Ireki PulseAudio-ren bolumen-kontrola</translation>
     </message>
     <message>
         <source>Open %1</source>
-        <translation type="unfinished"/>
+        <translation>Ireki %1</translation>
     </message>
     <message>
         <source>Trying to open %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 ireki nahian</translation>
     </message>
     <message>
         <source>Failed to start %1</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa %1 abiaraztean</translation>
     </message>
     <message>
         <source>Enable Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu Skype WiFi</translation>
     </message>
     <message>
         <source>Call forwarding options</source>
-        <translation type="unfinished"/>
+        <translation>Dei-desbiderapenen aukerak</translation>
     </message>
     <message>
         <source>When you&apos;re away from Skype, forward incoming calls to a phone or mobile, to another Skype account, or receive them as voice messages.</source>
-        <translation type="unfinished"/>
+        <translation>Lineaz kanpo zaudenean, deiak zure telefono finko zein mugikorrera, Skype-ko beste kontu batera edo ahots-mezuen postontzira desbidera daitezke.</translation>
     </message>
     <message>
         <source>Add more phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu telefono-zenbaki gehiago</translation>
     </message>
     <message>
         <source>One phone number only</source>
-        <translation type="unfinished"/>
+        <translation>Telefono-zenbaki bakarra</translation>
     </message>
     <message>
         <source>Use Default View</source>
-        <translation type="unfinished"/>
+        <translation>Erabili lehenetsitako ikuspegia</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi avatar-ak</translation>
     </message>
     <message>
         <source>Pressing Enter will...</source>
-        <translation type="unfinished"/>
+        <translation>“Sartu” sakatzean...</translation>
     </message>
     <message>
         <source>Insert line break</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu lerro-jauzia</translation>
     </message>
     <message>
         <source>Send chat message</source>
-        <translation type="unfinished"/>
+        <translation>Bidali txat-mezua</translation>
     </message>
     <message>
         <source>Voice Messages</source>
-        <translation type="unfinished"/>
+        <translation>Ahots-mezuak</translation>
     </message>
     <message>
         <source>(requires restarting Skype)</source>
-        <translation type="unfinished"/>
+        <translation>(Skype berrabiarazi behar da)</translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Auto-onartu fitxategiak</translation>
     </message>
     <message>
         <source>Save files to:</source>
-        <translation type="unfinished"/>
+        <translation>Gorde fitxategiak honela:</translation>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu lehenetsitako direktorioa fitxategiak gordetzeko</translation>
     </message>
     <message>
         <source>(might require restarting Skype)</source>
-        <translation type="unfinished"/>
+        <translation>(Skype berrabiarazi beharko da agian)</translation>
     </message>
     <message>
         <source>You&apos;ll need Skype Credit or a subscription to forward calls. Calls forwarded to a phone number will be charged at &lt;a href=&quot;normalrates&quot;&gt;our rates&lt;/a&gt; for calling phones and mobiles or may be included as part of your subscription.</source>
-        <translation type="unfinished"/>
+        <translation>Skype kreditua edo harpidetza bat behar duzu deiak desbideratzeko. Telefono-zenbaki batera desbideratutako deien &lt;a href=&quot;normalrates&quot;&gt;kostua&lt;/a&gt; telefono finko eta mugikorretara deitzeko; edo bestela,harpidetzaren barruan sar daitezke.</translation>
     </message>
     <message>
         <source>Show Skype watermark during calls</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi Skype-ren ur-marka deietan</translation>
     </message>
     <message>
         <source>Hide files I&apos;ve sent on other devices</source>
@@ -3745,59 +3753,59 @@ Please try again later.</source>
     <name>Quickfilter</name>
     <message>
         <source>Show contact list</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi kontaktu-zerrenda</translation>
     </message>
     <message>
         <source>** Show contact list with groups</source>
-        <translation type="unfinished"/>
+        <translation>** Erakutsi kontaktu-taldeen zerrenda</translation>
     </message>
     <message>
         <source>Call a contact not in your list</source>
-        <translation type="unfinished"/>
+        <translation>Deitu kontaktu-zerrendan ez dagoen bati</translation>
     </message>
     <message>
         <source>** Add to conference by name/number</source>
-        <translation type="unfinished"/>
+        <translation>** Gehitu talde-deian izenez/zenbakiz</translation>
     </message>
     <message>
         <source>** Send an SMS message</source>
-        <translation type="unfinished"/>
+        <translation>** Bidali SMS mezu bat</translation>
     </message>
     <message>
         <source>** Join a public chat</source>
-        <translation type="unfinished"/>
+        <translation>** Parte hartu ageriko txat batean</translation>
     </message>
     <message>
         <source>Search through your contacts</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu kontaktu-zerrendan</translation>
     </message>
     <message>
         <source>Search through event history</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu gertaeren historian</translation>
     </message>
     <message>
         <source>Enter a public chat blob</source>
-        <translation type="unfinished"/>
+        <translation>Sartu ageriko blob txata</translation>
     </message>
     <message>
         <source>Usage: +number message</source>
-        <translation type="unfinished"/>
+        <translation>Erabilera: +mezuaren zenbakia</translation>
     </message>
     <message>
         <source>Send an SMS message</source>
-        <translation type="unfinished"/>
+        <translation>Bidali SMS mezua</translation>
     </message>
     <message>
         <source>Enter a number or Skype Name</source>
-        <translation type="unfinished"/>
+        <translation>Sartu zenbakia edo erabiltzaile-izena</translation>
     </message>
     <message>
         <source>Join a public chat</source>
-        <translation type="unfinished"/>
+        <translation>Parte hartu ageriko txatean</translation>
     </message>
     <message>
         <source>** Add to conference call by name/number</source>
-        <translation type="unfinished"/>
+        <translation>** Gehitu talde-deian izenez/zenbakiz</translation>
     </message>
     <message>
         <source>Change search options</source>
@@ -3808,106 +3816,106 @@ Please try again later.</source>
     <name>Screensharing</name>
     <message>
         <source>Stop screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Gelditu pantaila partekatzea</translation>
     </message>
     <message>
         <source>Share Your Screen</source>
-        <translation type="unfinished"/>
+        <translation>Partekatu pantaila</translation>
     </message>
     <message>
         <source>Share Full Screen</source>
-        <translation type="unfinished"/>
+        <translation>Partekatu pantaila osoa</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation type="unfinished"/>
+        <translation>Partekatu hautapena</translation>
     </message>
     <message>
         <source>Start screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Hasi pantaila partekatzea</translation>
     </message>
     <message>
         <source>Screen sharing</source>
-        <translation type="unfinished"/>
+        <translation>Pantaila partekatuta</translation>
     </message>
     <message>
         <source>Starting screen sharing will also start an audio call. Are you sure you want to start an audio call?</source>
-        <translation type="unfinished"/>
+        <translation>Pantaila partekatzean deia hasiko da. Ziur al zaude deia egin nahi duzula?</translation>
     </message>
 </context>
 <context>
     <name>Send Contacts</name>
     <message>
         <source>Send Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Bidali kontaktuak</translation>
     </message>
     <message>
         <source>Send contacts</source>
-        <translation type="unfinished"/>
+        <translation>Bidali kontaktuak</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bidali</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Utzi</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Bidali</translation>
     </message>
     <message>
         <source>Do not send</source>
-        <translation type="unfinished"/>
+        <translation>Ez bidali</translation>
     </message>
     <message>
         <source>Contacts to send</source>
-        <translation type="unfinished"/>
+        <translation>Bidaltzeko kontaktuak</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Itxi</translation>
     </message>
     <message>
         <source>Sent contacts to %1.</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)i kontaktuak bidalita.</translation>
     </message>
     <message>
         <source>Contacts NOT sent to %1.</source>
-        <translation type="unfinished"/>
+        <translation>%1(r)i bidali gabeko kontaktuak.</translation>
     </message>
     <message>
         <source>Received contacts from %1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)-(r)engandik jasotako kontaktuak</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Onartu</translation>
     </message>
     <message>
         <source>Do not accept</source>
-        <translation type="unfinished"/>
+        <translation>Ez onartu</translation>
     </message>
     <message>
         <source>Received contacts</source>
-        <translation type="unfinished"/>
+        <translation>Jasotako kontaktuak</translation>
     </message>
     <message>
         <source>Contacts to accept</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuak onartzeko</translation>
     </message>
     <message>
         <source>Recipients list (space separated Skype Names):</source>
-        <translation type="unfinished"/>
+        <translation>Hartzaileen zerrenda (erabiltzaile-izenak zuriunez bananduta):</translation>
     </message>
     <message>
         <source>Send Contacts to Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Bidali kontaktuak aukeratutako kontaktuei</translation>
     </message>
     <message>
         <source>&amp;Select</source>
@@ -3922,279 +3930,279 @@ Please try again later.</source>
     <name>SendProgress</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Inprimakia</translation>
     </message>
     <message>
         <source>sentcontacts</source>
-        <translation type="unfinished"/>
+        <translation>bidalitakokontaktuak</translation>
     </message>
     <message>
         <source>Sent contacts list</source>
-        <translation type="unfinished"/>
+        <translation>Bidali kontaktu-zerrenda</translation>
     </message>
     <message>
         <source>Sending contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktuak bidaltzen...</translation>
     </message>
     <message>
         <source>sendprogress</source>
-        <translation type="unfinished"/>
+        <translation>bidalketaaurrerapena</translation>
     </message>
     <message>
         <source>Send progress count</source>
-        <translation type="unfinished"/>
+        <translation>Bidalketa-aurrerapenaren maila</translation>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
-        <translation type="unfinished"/>
+        <translation>bidalketaaurrerapenarenbarra</translation>
     </message>
     <message>
         <source>Send progress bar</source>
-        <translation type="unfinished"/>
+        <translation>Bidalketa-aurrerapenaren barra</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Utzi</translation>
     </message>
 </context>
 <context>
     <name>Skype WiFi</name>
     <message>
         <source>Skype WiFi...</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi...</translation>
     </message>
     <message>
         <source>Skype WiFi</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi</translation>
     </message>
     <message>
         <source>Detecting Skype WiFi availability</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi-ren erabilgarritasuna antzematen</translation>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu Skype WiFi-rekin</translation>
     </message>
     <message>
         <source>Connect to this hotspot for free internet access with %1 ¹.</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu %1 ¹(r)ekin doako Internet-sarrera ematen dizun gune honetara.</translation>
     </message>
     <message>
         <source>Use your Skype Credit to pay for internet access at &lt;b&gt;%1&lt;/b&gt; per minute.&lt;br /&gt;&lt;br /&gt;Skype will reserve some credit from your account so your connection doesn&apos;t get interrupted. But don&apos;t worry - when you disconnect we&apos;ll only charge you for the minutes you&apos;ve actually used.</source>
-        <translation type="unfinished"/>
+        <translation>Erabili Skype kreditua Interneterako sarbidea &lt;b&gt;%1&lt;/b&gt; minutuko ordaintzeko.&lt;br /&gt;&lt;br /&gt; Skype-k zure kontuko kreditu apur bat erreserbatuko du deiak moztu ez dakizkizun. Ez larritu, deskonektatzean soilik benetan erabilitako minutuak kobratuko zaizkizu.</translation>
     </message>
     <message>
         <source>Use your Skype Credit to pay for internet access with %1 ¹.&lt;br /&gt;&lt;br /&gt;Your credit balance is &lt;b&gt;%2&lt;/b&gt;, which means you can have about &lt;b&gt;%3 minutes&lt;/b&gt; online at %4 per minute.&lt;br /&gt;&lt;br /&gt;Skype will reserve some credit from your account so your connection doesn&apos;t get interrupted. But don&apos;t worry - when you disconnect we&apos;ll only charge you for the minutes you&apos;ve actually used.</source>
-        <translation type="unfinished"/>
+        <translation>Erabili Skype kreditua Interneterako sarbidea %1 ¹-(r)ekin ordaintzeko.&lt;br /&gt;&lt;br /&gt; Une honetan &lt;b&gt;%2&lt;/b&gt;, hau da, &lt;b&gt;%3 minutuz&lt;/b&gt; linean egon zaitezke %4 minutuko ordainduz.&lt;br /&gt;&lt;br /&gt;Skype-k zure kontuko kreditu apur bat erreserbatuko du deiak moztu ez dakizkizun. Ez larritu, deskonektatzean soilik benetan erabilitako minutuak kobratuko zaizkizu.</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"/>
+        <translation>Konektatzen...</translation>
     </message>
     <message>
         <source>Skype WiFi is connecting you to %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(er)a konektatzen ari zara Skype WiFi bidez</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"/>
+        <translation>Konektatuta</translation>
     </message>
     <message>
         <source>You are connected to the internet.</source>
-        <translation type="unfinished"/>
+        <translation>Internetera konektatuta zaude.</translation>
     </message>
     <message>
         <source>WiFi network: %1</source>
-        <translation type="unfinished"/>
+        <translation>WiFi sarea: %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Iraupena: %1</translation>
     </message>
     <message>
         <source>Cost: %1</source>
-        <translation type="unfinished"/>
+        <translation>Kostua: %1</translation>
     </message>
     <message>
         <source>To disconnect and stop being charged, click the Disconnect button. Any reserved credit that you don&apos;t use will appear back in your account.</source>
-        <translation type="unfinished"/>
+        <translation>Klikatu &apos;deskonektatu&apos; botoia deskonektatzeko eta kobrantza eteteko. Erabili gabeko kreditua zure kontuan gordeko da.</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>Deskonektatu</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Deskonektatuta</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has expired.</source>
-        <translation type="unfinished"/>
+        <translation>Zure Skype WiFi saioa iraungi egin da.</translation>
     </message>
     <message>
         <source>Your Skype WiFi session has ended.</source>
-        <translation type="unfinished"/>
+        <translation>Zure Skype WiFi saioa amaitu egin da.</translation>
     </message>
     <message>
         <source>Extend your Skype WiFi session</source>
-        <translation type="unfinished"/>
+        <translation>Luzatu zure Skype WiFi saioa</translation>
     </message>
     <message>
         <source>Your session will expire in %1 minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Zure saioa %1 minutu barru iraungiko da.</translation>
     </message>
     <message>
         <source>Click Extend session to reserve more minutes online.</source>
-        <translation type="unfinished"/>
+        <translation>Klikatu “luzatu saioa” linean denbora gehiagoz egon ahal izateko.</translation>
     </message>
     <message>
         <source>Extend session</source>
-        <translation type="unfinished"/>
+        <translation>Luzatu saioa</translation>
     </message>
     <message>
         <source>Skype WiFi - hotspot not supported</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi gunea ez da bateragarria</translation>
     </message>
     <message>
         <source>Use Skype WiFi to connect to the web and pay per minute with your Skype Credit at over 1 million WiFi hotspots worldwide.&lt;br /&gt;&lt;br /&gt;The current network does not support Skype WiFi. Please try another available public WiFi network.&lt;br /&gt;&lt;br /&gt;Tip: Skype WiFi doesn&apos;t work with private or closed networks.</source>
-        <translation type="unfinished"/>
+        <translation>Erabili Skype WiFi sarera konektatzeko, eta ordaindu minutuko, zure Skype-kreditua WiFi sarbide publikoetan erabiliz. Munduan zehar milioi bat baino gehiago daude.&lt;br /&gt;&lt;br /&gt; Uneko sareak ez du Skype WiFi onartzen. Probatu beste WiFi sare publiko bat.&lt;br /&gt;&lt;br /&gt;Aholkua: SkypeWiFi ez da sare pribatu edo itxiekin bateragarria.</translation>
     </message>
     <message>
         <source>This WiFi hotspot supports Skype WiFi - the easy way to get online.&lt;br /&gt;Simply pay per minute with Skype Credit.&lt;br /&gt;&lt;br /&gt;Unfortunately you don&apos;t have enough credit to use Skype WiFi today.&lt;br /&gt;&lt;br /&gt;You can buy credit from skype.com. When you&apos;re next online, visit skype.com/go/skypecredit to find out more.</source>
-        <translation type="unfinished"/>
+        <translation>WiFi sarbide honek SkypeWiFi onartzen du. Internetera konektatzeko modurik errazena da.&lt;br /&gt;Besterik gabe, ordaindu minutuko Skype kredituaz.&lt;br /&gt;&lt;br /&gt;Tamalez, ez daukazu nahiko kreditu SkypeWiFi erabiltzeko.&lt;br /&gt;&lt;br /&gt;Kreditua skype.com helbidean eros dezakezu. Konektatzen zaren hurrengo aldian, begiratu skype.com/go/skypecredit azalpen gehiago lortzeko.</translation>
     </message>
 </context>
 <context>
     <name>Sms</name>
     <message>
         <source>Delivery failed.</source>
-        <translation type="unfinished"/>
+        <translation>Banaketak huts egin du.</translation>
     </message>
     <message>
         <source>Message is delivered.</source>
-        <translation type="unfinished"/>
+        <translation>Mezua bidalita.</translation>
     </message>
     <message>
         <source>SMS message to %1 is sent</source>
-        <translation type="unfinished"/>
+        <translation>SMSa %1(r)i bidalita</translation>
     </message>
     <message>
         <source>SMS message to %1 is failed</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa SMSa %1(r)i bidaltzean</translation>
     </message>
     <message>
         <source>Unknown SMS event</source>
-        <translation type="unfinished"/>
+        <translation>SMS gertaera ezezaguna</translation>
     </message>
     <message>
         <source>Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Telefono mugikorra</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Etxekoa</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Bulegokoa</translation>
     </message>
     <message>
         <source>Connection to server failed.</source>
-        <translation type="unfinished"/>
+        <translation>Akatsa zerbitzarira konektatzean.</translation>
     </message>
     <message>
         <source>No SMS capability.</source>
-        <translation type="unfinished"/>
+        <translation>Ez dago SMSa bidaltzeko ahalbiderik.</translation>
     </message>
     <message>
         <source>No credit to pay for SMS.</source>
-        <translation type="unfinished"/>
+        <translation>Ez duzu Skype krediturik SMSa bidaltzeko.</translation>
     </message>
     <message>
         <source>Invalid confirmation code.</source>
-        <translation type="unfinished"/>
+        <translation>Berrespen-kodea ez da zuzena.</translation>
     </message>
     <message>
         <source>User is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzailea blokeatuta dago.</translation>
     </message>
     <message>
         <source>IP address is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>IP helbidea blokeatuta dago.</translation>
     </message>
     <message>
         <source>Node is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Adabegia blokeatuta dago.</translation>
     </message>
     <message>
         <source>No user id capability.</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da jakin erabiltzailea nor den.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Akats ezezaguna.</translation>
     </message>
     <message>
         <source>To: %1</source>
-        <translation type="unfinished"/>
+        <translation>Norentzat: %1</translation>
     </message>
     <message>
         <source>To: Mobile %1</source>
-        <translation type="unfinished"/>
+        <translation>Norentzat: mugikorra %1</translation>
     </message>
     <message>
         <source>To: Home %1</source>
-        <translation type="unfinished"/>
+        <translation>Norentzat: etxekoa %1</translation>
     </message>
     <message>
         <source>To: Office %1</source>
-        <translation type="unfinished"/>
+        <translation>Norentzat: bulegokoa %1</translation>
     </message>
     <message>
         <source>To: Other %1</source>
-        <translation type="unfinished"/>
+        <translation>Norentzat: beste bat %1</translation>
     </message>
     <message>
         <source>free</source>
-        <translation type="unfinished"/>
+        <translation>Dohainik</translation>
     </message>
     <message>
         <source>You need Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>SMSak bidaltzeko Skype kreditua behar duzu</translation>
     </message>
     <message>
         <source>You don&apos;t have enough Skype Credit to send text messages (SMS)</source>
-        <translation type="unfinished"/>
+        <translation>Ez duzu Skype kreditu nahikoa SMSak bidaltzeko.</translation>
     </message>
     <message>
         <source>None of the intended recipients has a mobile phone number saved in their profile. Please view profiles individually to add a number.</source>
-        <translation type="unfinished"/>
+        <translation>Hartzaileen artean inork ez dauka telefono mugikorraren zenbakirik gordeta bere profilean. Zenbakia gehitzeko, begiratu profilak banan-banan.</translation>
     </message>
     <message>
         <source>Message is received.</source>
         <comment>This is for the future 2-way SMS feature. The string indicates that an SMS has been received in Skype</comment>
-        <translation type="unfinished"/>
+        <translation>Mezua jaso da.</translation>
     </message>
     <message>
         <source>SMS:</source>
-        <translation type="unfinished"/>
+        <translation>SMS:</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Beste bat</translation>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation type="unfinished"/>
+        <translation>Bidali SMS mezua</translation>
     </message>
     <message>
         <source>Not delivered yet.</source>
@@ -4213,136 +4221,139 @@ Please try again later.</source>
     <name>TopicContainer</name>
     <message>
         <source>Change Picture...</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu irudia...</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu irudia</translation>
     </message>
 </context>
 <context>
     <name>Video</name>
     <message>
         <source>Skype Full-Screen Video</source>
-        <translation type="unfinished"/>
+        <translation>Pantaila osoko Skype bideoa</translation>
     </message>
     <message>
         <source>%1 would like to start a video call with you</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)k bideo-dei bat egin nahi dizu</translation>
     </message>
     <message>
         <source>Enable Skype Video</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu Skype bideoa</translation>
     </message>
     <message>
         <source>Start my video automatically
 when I am in a call</source>
-        <translation type="unfinished"/>
+        <translation>Dei batean nagoenean,
+hasi bideoa automatikoki</translation>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu Web-kamera:</translation>
     </message>
     <message>
         <source>No devices found</source>
-        <translation type="unfinished"/>
+        <translation>Ez da gailurik aurkitu</translation>
     </message>
     <message>
         <source>Disable Auto-Exposure (darker video, higher frame rate)</source>
-        <translation type="unfinished"/>
+        <translation>Desgaitu esposizio automatikoa (bideo ilunagoa)</translation>
     </message>
 </context>
 <context>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Erreproduzitu ongi etorri mezua</translation>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Grabatu ongi etorri mezu berria</translation>
     </message>
     <message>
         <source>Restore Default Greeting</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri lehenetsitako ongi etorri mezua</translation>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
-        <translation type="unfinished"/>
+        <translation>Iraupena: %1 segundo</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>segundoz</translation>
     </message>
     <message>
         <source>I reject an incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Dei bat atzera botatzen badut</translation>
     </message>
     <message>
         <source>I am already on a call</source>
-        <translation type="unfinished"/>
+        <translation>Dei batean banago</translation>
     </message>
     <message>
         <source>Stop Greeting Playback</source>
-        <translation type="unfinished"/>
+        <translation>Eten ongi etorri mezuaren erreprodukzioa</translation>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation type="unfinished"/>
+        <translation>Amaitu grabatzen</translation>
     </message>
     <message>
         <source>I do not answer within</source>
-        <translation type="unfinished"/>
+        <translation>Ez badut erantzuten</translation>
     </message>
     <message>
         <source>Voice messaging is activated </source>
-        <translation type="unfinished"/>
+        <translation>Ahots-mezularitza aktibatuta dago</translation>
     </message>
     <message>
         <source>Voice messaging is not activated</source>
-        <translation type="unfinished"/>
+        <translation>Ahots-mezularitza ez dago aktibatuta</translation>
     </message>
     <message>
         <source>Send Voice message</source>
-        <translation type="unfinished"/>
+        <translation>Bidali ahots-mezua</translation>
     </message>
     <message>
         <source>My voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>Nire ahots bidezko ongi etorri mezua</translation>
     </message>
     <message>
         <source>Default voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>Lehenetsitako ahots bidezko ongi etorri mezua</translation>
     </message>
     <message>
         <source>Custom voice message greeting</source>
-        <translation type="unfinished"/>
+        <translation>Ahots bidezko ongi etorri mezu pertsonalizatua</translation>
     </message>
     <message>
         <source>Start recording a voice message if...</source>
-        <translation type="unfinished"/>
+        <translation>Hasi ahots-mezua grabatzen...</translation>
     </message>
     <message>
         <source>Never miss another call with voice messages</source>
-        <translation type="unfinished"/>
+        <translation>Ahots-mezuekin, ez galdu inoiz gehiago deirik</translation>
     </message>
     <message>
         <source>Let Skype take a message if you're offline or away from your computer when someone calls.
 
 Personalize your voice message greeting, save messages to listen to again, and leave voice messages for your contacts if you can&apos;t get hold of them.</source>
-        <translation type="unfinished"/>
+        <translation>Norbaitek deitzen badu eta lineaz kanpo bazaude, utzi Skype-ri mezua jasotzen.
+
+Pertsonalizatu zure ahots bidezko ongi etorri mezua, gorde mezuak berriro entzuteko eta utzi ahots-mezuak zure kontaktuentzat, ezin badiezu erantzun.</translation>
     </message>
     <message>
         <source>Listen to this voice message</source>
-        <translation type="unfinished"/>
+        <translation>Entzun ahots-mezu hau</translation>
     </message>
     <message>
         <source>Stop playback</source>
-        <translation type="unfinished"/>
+        <translation>Eten erreprodukzioa</translation>
     </message>
     <message>
         <source>Enable voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu ahots-mezularitza</translation>
     </message>
     <message>
         <source>Learn more about voice messaging</source>
