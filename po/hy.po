@@ -1,15 +1,15 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# HrantOhanyan <h.ohanyan@haysoft.org>, 2013
-# HrantOhanyan <h.ohanyan@haysoft.org>, 2013
+# Hrant Ohanyan <h.ohanyan@haysoft.org>, 2013
+# Hrant Ohanyan <h.ohanyan@haysoft.org>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
-"PO-Revision-Date: 2013-11-20 10:55+0000\n"
-"Last-Translator: HrantOhanyan <h.ohanyan@haysoft.org>\n"
+"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
+"PO-Revision-Date: 2014-11-24 10:08+0000\n"
+"Last-Translator: Hrant Ohanyan <h.ohanyan@haysoft.org>\n"
 "Language-Team: Armenian (http://www.transifex.com/projects/p/skype-translation-project/language/hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -112,7 +112,7 @@ msgstr "Skype"
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
-msgstr "Միացում"
+msgstr "Կապակցում"
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
@@ -199,22 +199,6 @@ msgctxt "sSEX_FEMALE"
 msgid "Female"
 msgstr "Իգական"
 
-msgctxt "sF_USERENTRY_BUTTON_CANCEL"
-msgid "Cancel"
-msgstr "Չեղարկել"
-
-msgctxt "sF_USERENTRY_CAPTION_CREATE_ACCOUNT"
-msgid "Create account"
-msgstr "Գրանցվել"
-
-msgctxt "sF_USERENTRY_INFO_CREATE_ACCOUNT"
-msgid "Create a new Skype account"
-msgstr "Նոր օգտվողի գրանցում"
-
-msgctxt "sF_USERENTRY_LABEL_CHOOSE_USERNAME"
-msgid "Create Skype Name"
-msgstr "Ստեղծել Skype-ի անուն"
-
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
 msgstr "Skype-ի անուն"
@@ -223,33 +207,17 @@ msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
 msgstr "Գաղտնաբառը"
 
-msgctxt "sF_USERENTRY_LABEL_PASSWORD2"
-msgid "Repeat password"
-msgstr "Կրկնեք գաղտնաբառը"
-
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
 msgstr "Մոռացե՞լ եք գախտնաբառը"
 
-msgctxt "sF_USERENTRY_CHECKBOX_SPAM"
-msgid "Yes, send me Skype news and promotions"
-msgstr "Այո, ես ուզում ես ստանալ նորություններ և հատուկ առաջարկներ Skype-ից:"
-
-msgctxt "sF_USERENTRY_SIGNIN"
-msgid "Already have a Skype account? <a href=\"x\">Sign in</a>"
-msgstr "Դուք արդեն գրանցվա՞ծ եք Skype-ում։ <a href=\"x\">Մուտք</a>"
-
 msgctxt "sF_SPLASH_COPYRIGHT1"
-msgid "© 2003-2013 Skype and/or Microsoft"
-msgstr "© 2003-2012 Skype and/or Microsoft"
+msgid "© 2014 Skype and/or Microsoft"
+msgstr "© 2014 Skype և/կամ Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
 msgstr "Պաշտպանված է միջազգային օրենքներով։ Բոլոր իրավունքները պաշտպանված են։"
-
-msgctxt "sF_USERPROFILE_LB_FULLNAME"
-msgid "Full name"
-msgstr "Անուն, ազգանուն"
 
 msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
@@ -262,10 +230,6 @@ msgstr "Լեզուն"
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
 msgstr "Երկիր/Տարածաշրջան"
-
-msgctxt "sF_USERPROFILE_LB_PROVINCE"
-msgid "State/Province"
-msgstr "Նահանգ/Մարզ"
 
 msgctxt "sF_USERPROFILE_LB_CITY"
 msgid "City"
@@ -340,8 +304,8 @@ msgid "- Options"
 msgstr "- Ընտրանքներ"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
-msgid "© 2003 - 2013 Skype and/or Microsoft"
-msgstr "© 2003 - 2012 Skype and/or Microsoft"
+msgid "© 2014 Skype and/or Microsoft"
+msgstr "© 2014 Skype և/կամ Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -408,26 +372,6 @@ msgstr "Փակել"
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
 msgstr "Վերադարձ խոսակցությանը"
-
-msgctxt "sF_SEARCH_FIELD_USERNAME"
-msgid "Skype Name"
-msgstr "Skype-ի անունը"
-
-msgctxt "sF_SEARCH_FIELD_FULLNAME"
-msgid "Full name"
-msgstr "Անուն, ազգանուն"
-
-msgctxt "sF_SEARCH_FIELD_COUNTRY"
-msgid "Country/Region"
-msgstr "Երկիր/Տարածաշրջան"
-
-msgctxt "sF_SEARCH_FIELD_LANGUAGE"
-msgid "Language"
-msgstr "Լեզուն"
-
-msgctxt "sF_SEARCH_FIELD_CITY"
-msgid "City"
-msgstr "Քաղաքը"
 
 msgctxt "sF_OPTIONS_TCB2"
 msgid "Show timestamp next to instant messages"
@@ -508,8 +452,8 @@ msgid "Change password"
 msgstr "Փոխել գաղտնաբառը"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
-msgid "The old password you entered is not valid.  Please try again."
-msgstr "Նախկին գաղտնաբառը մուտքագրված է սխալ: Փորձեք կրկին"
+msgid "The old password you entered is not valid. Please try again."
+msgstr "Հին գաղտնաբառը այլևս վավեր չէ։ Կրկին փորձեք։"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
@@ -520,10 +464,6 @@ msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
 msgstr "Գաղտնաբառը փոփոխված է հաջողությամբ: Փոփոխությունը կմտնի ուժի մեջ հաջորդ անագմ Skype մուտք գործելիս:"
-
-msgctxt "sF_SEND_CONTACTS_TEXT1"
-msgid "Send contacts to other people on Skype"
-msgstr "Ուղարկել կոնտակտները Skype-ի օգտվողներին"
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -547,13 +487,9 @@ msgid ""
 "password."
 msgstr "Գաղտնաբառը շատ կարճ է: Այն պետք է պարունակի 6-ից մինչև 20 նշան: Ընտրեք մեկ այլ գաղտնաբառ"
 
-msgctxt "sF_USERENTRY_ERROR_PASSWORD_INVALID"
-msgid "The password you have entered has invalid characters"
-msgstr "Մուտքագրված գաղտնաբառում կան աբընդունելի նշաններ"
-
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
-msgstr "Միացում"
+msgstr "Կապակցում"
 
 msgctxt "sF_OPTIONS_LB15"
 msgid "Use port"
@@ -564,8 +500,8 @@ msgid "for incoming connections"
 msgstr "պորտը մուտքային կապի համար"
 
 msgctxt "sF_OPTIONS_TCB8"
-msgid "Use port 80 and 443 as alternatives for incoming connections"
-msgstr "Օգտագործել 80 և 443 պորտերը այլընտրանքային մուտքերի համար:"
+msgid "Use port 80 and 443 for additional incoming connections"
+msgstr "Օգտ. 80 պորտը և 443-ը՝ մուտքային լր. կապակցումների համար"
 
 msgctxt "sF_OPTIONS_CONNDATA_INVALIDPORT"
 msgid "Invalid port"
@@ -989,7 +925,7 @@ msgstr "Չեղարկել"
 
 msgctxt "sDEFAULT_CONFERENCE_TOPIC"
 msgid "Enter a topic for the conversation"
-msgstr "Ընտրեք խոսակցության թեման"
+msgstr "Ընտրեք զրույցի թեման"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE"
 msgid "The Skype Name you entered is invalid."
@@ -1029,8 +965,8 @@ msgid ""
 msgstr "Մուտքագրված համարը սխալ է: Անհրաժեշտ է մուտքագրել +, ապա երկրի կոդը, այնուհետև՝ համարը: Օրինակ` +374 10 515151"
 
 msgctxt "sPSTN_ERR_UNKNOWN"
-msgid "Internal error, please try again. (#%s)"
-msgstr "Ներքին սխալ, խնդրում ենք կրկնել։ (#%s)"
+msgid "Sorry, there was a problem. Please try again."
+msgstr "Խնդիր է շագել։ Կրկին փորձեք։"
 
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
@@ -1176,8 +1112,8 @@ msgid "You have a relayed connection. This means that sending will be slow."
 msgstr "Կապը վերահաստատվում է։ Դա նշանակում է, որ ուղարկելը ժամանակ կխլի։"
 
 msgctxt "sBUDDYMENU_SENDFILE"
-msgid "Send File..."
-msgstr "Ուղարկել ֆայլ..."
+msgid "Send files..."
+msgstr "Ուղարկել ֆայլեր..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
@@ -1262,10 +1198,8 @@ msgstr "Ցանցը զբաղված է"
 
 msgctxt "sINFORM_PASSWORD_OUTDATED_LOGOFF"
 msgid ""
-"You recently changed your password. Sign in with the new password to call a "
-"phone or mobile. This is a security measure to prevent your Skype account "
-"being abused."
-msgstr "Ձեր գաղտնաբառը փոփոխված է: Որպեսզի շարունակեք Skype-ի օգտագործումը՝ մուտք գործեք նոր գաղտնաբառով: Այս անվտանգության միջոցը անհրաժեշտ է ապահովելու  համար Skype-ի անվտանգությունը։"
+"You recently changed your password. Please sign in with your new password."
+msgstr "Վերջերս գաղտնաբառը փոխել եք։ Մուտք գործեք նոր գաղտնաբառով։"
 
 msgctxt "sINFORM_UIC_FAILED_LOGOFF"
 msgid ""
@@ -1466,12 +1400,12 @@ msgid "Send Voice Message"
 msgstr "Ուղարկել հաղորդ. ինքնապատասխանիչի վրա"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
-msgid "Are you sure you want to leave this group?"
-msgstr "Դուք վստա՞հ եք, որ ցանկանում եք լքել այս խումբը։"
+msgid "Are you sure you want to leave this conversation?"
+msgstr "Լքե՞լ զրույցը։"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE_TITLE"
-msgid "Leave group"
-msgstr "Լքել խումբը"
+msgid "Leave conversation"
+msgstr "Լքել զրույցը"
 
 msgctxt "sCHAT_MEMBER_ADDED"
 msgid "%s added %s"
@@ -1479,7 +1413,7 @@ msgstr "%s-ը ավելացրել է %-ին"
 
 msgctxt "sF_MULTICHAT_TOPIC_CHANGED"
 msgid "%s has changed the conversation topic to \"%s\""
-msgstr "%s-ը փոխել է խոսակցության թեման  \"%s\"-ի"
+msgstr "%s-ը փոխել է զրույցի թեման  \"%s\"-ի"
 
 msgctxt "sNUMBER_HIDDEN"
 msgid "Unknown phone number"
@@ -1581,21 +1515,13 @@ msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
 msgstr "Պահպանել պատմությունը՝"
 
-msgctxt "sF_MULTICHAT_NEW_TITLE"
-msgid "Start IM with group"
-msgstr "Սկսել խմբային նամակարգրությունը"
-
 msgctxt "sF_STARTCHAT_TOPIC_LABEL"
 msgid "Conversation title/topic"
-msgstr "Խոսակցության թեման ..."
-
-msgctxt "sF_STARTCHAT_START_BUTTON"
-msgid "Create"
-msgstr "Ստեղծել"
+msgstr "Զրույցի թեման ..."
 
 msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
-msgstr "Ընտրեք նրանց, ում որ ցանկանում եք հրավիրել չաթ և սեղմեք Ստեղծել։"
+msgstr "Ընտրեք նրանց, ում որ ցանկանում եք հրավիրել զրույցին և սեղմեք Ստեղծել։"
 
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
@@ -1606,7 +1532,7 @@ msgid ""
 "All traces of previous conversations including Instant Messages, SMS, calls,"
 " voice messages and file transfers, will be deleted from your recorded "
 "history. (This will also close all open conversations)"
-msgstr "Ձեր խոսակցությունների, չաթերի, SMS-ների, տեսազանգերի բոլոր գրառումները կջնջվեն պատմությունից։"
+msgstr "Ձեր խոսակցությունների, զրույցների, SMS-ների, տեսազանգերի բոլոր գրառումները կջնջվեն պատմությունից։"
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TITLE"
 msgid "Delete history?"
@@ -1618,7 +1544,7 @@ msgstr "Skype-ի լեզվային ֆայլեր (*.lang)\\|*.LANG"
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
-msgstr "Միանան խոսակցությանը"
+msgstr "Միանան զրույցին"
 
 msgctxt "sF_MULTICHAT_EDIT_UNDO"
 msgid "Undo"
@@ -1701,8 +1627,8 @@ msgid "busy signal"
 msgstr "զբաղվածի ազդանշան"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE"
-msgid "incoming IM"
-msgstr "մուտքային հաղորդագրություն"
+msgid "incoming IM in recent chat"
+msgstr "մուտքային գրություն՝ զրույցի ժամանակ"
 
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS"
 msgid "Display a notification in the Windows tray when someone..."
@@ -1722,7 +1648,7 @@ msgstr "Մանրամասն, թե ինչպես է Skype-ը աշխատում պր�
 
 msgctxt "sF_OPTIONS_LBC_CONNECTION"
 msgid "<b>Connection:</b> Set up how Skype connects to the internet"
-msgstr "<b>Միացումը.</b> Skype-ի համացանց մուտք գործելու կարգավորումները"
+msgstr "<b>Կապակցում.</b> Skype-ի համացանց մուտք գործելու կարգավորումները"
 
 msgctxt "sF_OPTIONS_LBC_DEVICES"
 msgid "Volume"
@@ -1915,22 +1841,6 @@ msgstr "Լրացուցիչ տեղեկություն ձայնի սարքի կար
 msgctxt "sF_USERPROFILE_LB_ABOUT2"
 msgid "About me"
 msgstr "Իմ մասին"
-
-msgctxt "sF_USERENTRY_PROFILE_NAME"
-msgid "Full name"
-msgstr "Անուն, ազգանուն"
-
-msgctxt "sF_USERENTRY_PROFILE_COUNTRY"
-msgid "Country/Region"
-msgstr "Երկիր/Երկրամաս"
-
-msgctxt "sF_USERENTRY_PROFILE_CITY"
-msgid "City"
-msgstr "Քաղաք"
-
-msgctxt "sF_USERENTRY_PROFILE_EMAIL"
-msgid "Email"
-msgstr "Էլ. հասցե"
 
 msgctxt "sF_USERPROFILE_CAPTION2"
 msgid "Profile"
@@ -2227,16 +2137,6 @@ msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
 msgstr "Ուղարկել զանգերը ինքնապատասխանիչ, եթե…"
 
-msgctxt "sF_VOICEMAIL_OPTIONS_LB3"
-msgid ""
-"Note: If call forwarding is on, calls will be sent first to the phone "
-"number(s) you entered"
-msgstr "Հուշում: Վերահասցեավորումը միացնելուց հետո, բոլոր զանգերը ուղարկվելու են Ձեր նշած համարին"
-
-msgctxt "sF_VOICEMAIL_OPTIONS_LB4"
-msgid "If there is no answer, calls will be recorded as a voice message"
-msgstr "Եթե այս համարի զանգերը չեն պատասխանվում, ապա զանգերը կտեղափոխվեն ձայնային փոստ:"
-
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_REJECT"
 msgid "I reject an incoming call"
 msgstr "Մերժել մուտքային զանգը"
@@ -2446,10 +2346,6 @@ msgid ""
 "be available on other computers where this devices is used."
 msgstr "Skype-ը արդեն բացված է US կրիչից։ %s-ի տեղակայած բոլոր տվյալները կարող են անհասանելի լինեն այլ համակարգչում, որտեղ կարող է օգտագործվել այս սարքը։."
 
-msgctxt "sF_AUTH_BTN_BLOCK"
-msgid "Block"
-msgstr "Արգելափակել"
-
 msgctxt "sF_AUTHQUERY_DEFAULT2"
 msgid "Hello! Please add me to your Contact list."
 msgstr "Ողջույն։ Խնդրում եմ ընդգրկել ինձ Ձեր ընկերների ցանկում:"
@@ -2496,20 +2392,6 @@ msgid ""
 "again."
 msgstr "Skype-ի այսպիսի անուն և գաղտնաբառ չեն գտնվել։ Ստուգեք և կրկին փորձեք։"
 
-msgctxt "sF_USERENTRY_ERROR_1107"
-msgid "Invalid address"
-msgstr "Չգործող հասցե"
-
-msgctxt "sF_USERENTRY_ERROR_1109"
-msgid "Skype Name contains invalid characters."
-msgstr "Skype-ի անունը պարունակում է անհասանելի նշաններ:"
-
-msgctxt "sF_USERENTRY_LB_EXPLAIN"
-msgid ""
-"Sorry - the Skype Name you've entered is already taken. Enter a new Skype "
-"Name or choose one of these suggestions:"
-msgstr "Ցավոք, Skype-ի նշված անունը արդեն օգտագործվում է մեկ այլ օգտվողի կողմից: Մուտքագրեք այլ անուն կամ ընտրեք ներկայացված տարբերակներից մեկը:"
-
 msgctxt "sF_OPTIONS_CB_WEBPRESENCE"
 msgid "Allow my online status to be shown on the web"
 msgstr "Ցուցադրել իմ առցանց կարգավիճակը համացանցում"
@@ -2549,10 +2431,6 @@ msgstr "Սխալ1 զանգի ընթացքում"
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT12"
 msgid "Skype call error2"
 msgstr "Սխալ2 զանգի ընթացքում"
-
-msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT13"
-msgid "Skype incoming IM2"
-msgstr "Ստացվել է հաղորդագրություն չաթ2-ում"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
@@ -2619,8 +2497,8 @@ msgid "call error2"
 msgstr "Սխալ 2 զանգի ընթացքում"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
-msgid "incoming message"
-msgstr "մուտքային նամակներ"
+msgid "incoming IM in current chat"
+msgstr "մուտքային գրություն՝ զրույցի ժամանակ"
 
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
@@ -2686,18 +2564,6 @@ msgctxt "sF_OPTIONS_RC_REC_VIDEO3"
 msgid "anyone"
 msgstr "ցանկացածից"
 
-msgctxt "sF_OPTIONS_RC_AD_VIDEO1"
-msgid "no one"
-msgstr "ոչ ոքի"
-
-msgctxt "sF_OPTIONS_RC_AD_VIDEO2"
-msgid "people in my Contact list only"
-msgstr "իմ Կոնտակտներին"
-
-msgctxt "sF_OPTIONS_VIDEO_LB4"
-msgid "Show that I have video to..."
-msgstr "Ցուցադրել իմ տեսապատկերը՝"
-
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
 msgstr "Վերականգնե՞լ բոլոր ձայները։"
@@ -2750,10 +2616,6 @@ msgstr "Զանգը փոխանցված է:"
 msgctxt "sF_OPTIONS_SOUNDS_FORWARDED"
 msgid "Call is forwarded"
 msgstr "Զանգը փոխանցված է:"
-
-msgctxt "sF_AUTHQUERY_DEFAULT3"
-msgid "Enter a message to introduce yourself."
-msgstr "Մի փոքր ձեր մասին։"
 
 msgctxt "s_FVIDEOTEST_BUTTON_SETTINGS"
 msgid "Webcam settings"
@@ -2952,24 +2814,6 @@ msgctxt "sF_OPTIONS_LINK_SMS"
 msgid "Learn more about SMS"
 msgstr "SMS-ի մասին լրացուցիչ տեղեկություն"
 
-msgctxt "sF_PAYMENTS_CAPTION"
-msgid "Skype Credit"
-msgstr "Skype-ի Հաշիվը"
-
-msgctxt "sF_PAYMENTS_LOADING"
-msgid "Loading - %s"
-msgstr "Բացվում է - %s"
-
-msgctxt "sF_PAYMENTS_ERROR_CAPTION"
-msgid "Check your connection"
-msgstr "Ստուգեք ձեր կապը"
-
-msgctxt "sF_PAYMENTS_ERROR_TEXT"
-msgid ""
-"Sorry, you don't seem to have an active internet connection, so you can't "
-"continue with your purchase."
-msgstr "Ակտիվ կապ չունեք համացանց, ուստի Skype-ը չի կարող մշակել Ձեր հարցումը։"
-
 msgctxt "sF_PAYMENTS_BTN_CLOSE"
 msgid "Close"
 msgstr "Փակել"
@@ -3112,10 +2956,6 @@ msgctxt "sF_UPGRADE_FAILED_LINK"
 msgid "Click here"
 msgstr "Սեղմեք այստեղ"
 
-msgctxt "sF_SEARCH_RESULTS"
-msgid "Search results"
-msgstr "Որոշման արդյունքները"
-
 msgctxt "sF_OPTIONS_SMS_STATUS_LB10"
 msgid "You do not have enough Skype Credit to send a code"
 msgstr "Կոդը ուղարկելու համար չունեք Skype-ի Հաշիվ"
@@ -3135,23 +2975,15 @@ msgstr "Այս չաթում առկա է չուղարկված հաղորդագր�
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_TITLE"
 msgid "Close conversation window"
-msgstr "Փակել խոսակցության պատուհանը"
+msgstr "Փակել զրույցի պատուհանը"
 
 msgctxt "sF_MULTICHAT_CLOSE_WARNING_CAPTION"
 msgid "Close conversation window"
-msgstr "Փակել խոսակցության պատուհանը"
+msgstr "Փակել զրույցի պատուհանը"
 
 msgctxt "sFILETRANSFER_STATUS_NO_CAPABILITY"
 msgid "The other person is on a device that doesn't let them receive files."
 msgstr "Օգտվողի սարքավորումները, ում հետ որ դուք շփվում եք, չեն թույլատրում ընդունել ֆայլեր:"
-
-msgctxt "sF_PAYMENTS_ERROR2_TEXT"
-msgid "Due to technical issues, please"
-msgstr "Տեխնիկական խնդիրների դեպքում խնդրում ենք"
-
-msgctxt "sF_PAYMENTS_ERROR_LINK"
-msgid "continue your payment in the Skype webstore using your web browser."
-msgstr "շարունակել վճարումը Skype-ի համացանցային խանութում` վեբ դիտարկիչի միջոցով։"
 
 msgctxt "sF_CONFIRM_DELETE"
 msgid "Delete"
@@ -3234,13 +3066,6 @@ msgstr "Փոխել իմ նկարը… "
 msgctxt "sCHANGE_SOUNDS"
 msgid "Change Sounds..."
 msgstr "Փոխել ձայները…"
-
-msgctxt "sF_USERENTRY_LB_EULA3"
-msgid ""
-"Yes, I have read and I accept the <a href=\"skype:?go#eula\">Skype End User "
-"License Agreement</a>, the <a href=\"skype:?go#tos\">Skype Terms of Use</a> "
-"and the <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>"
-msgstr "Ես ընթերցել եմ և ընդունում եմ <a href=\"skype:?go#eula\">Skype End User License Agreement</a>-ը, <a href=\"skype:?go#tos\">Skype Terms of Use</a>-ը և <a href=\"skype:?go#privacy\">Skype Privacy Statement</a>-ը"
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
 msgid "You can't send a file to yourself."
@@ -3742,7 +3567,7 @@ msgctxt "sF_CHAT_NOTIFY_LB_HEADER2"
 msgid ""
 "The conversation window will blink in the taskbar or reopen if you have "
 "closed it."
-msgstr "Չաթի պատուհանը կսկսի թարթել taskbar-ում կամ այն կբացվի՝ եթե նախկինում փակված է եղել:"
+msgstr "Զրույցի պատուհանը կսկսի թարթել taskbar-ում կամ այն կբացվի՝ եթե նախկինում փակված է եղել:"
 
 msgctxt "sF_CHAT_NOTIFY_LB_FOOTER"
 msgid "Enter single words separated by spaces."
@@ -3753,10 +3578,6 @@ msgid ""
 "Waiting to join.<br />You can't post messages in this conversation until the"
 " host has accepted you."
 msgstr "Սպասում է միանալուն։<br /> Դուք չեք կարող ուղարկել հաղորդագրություն այս չաթ, մինչ չստանաք թույլտվություն մոդերատորից:"
-
-msgctxt "sCHAT_STATUSMESSAGE_LISTENER"
-msgid "You are currently not allowed to post messages."
-msgstr "Դուք դեռ չեք կարող ուղարկել հաղորդագրություն"
 
 msgctxt "sCHAT_MENU_NOTIFICATIONS"
 msgid "IM Notification Settings"
@@ -3777,46 +3598,6 @@ msgstr "Չաթի նկարը"
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
 msgstr "Նկարների շտեմարանը"
-
-msgctxt "sF_PRIVACY_CHANGE_TITLE"
-msgid "Privacy protection"
-msgstr "Անվտանգությունը"
-
-msgctxt "sF_PRIVACY_CHANGE_HEADER1"
-msgid "Do you receive unwanted calls?"
-msgstr "Դուք ստանու՞մ եք անցանկանելի զանգեր"
-
-msgctxt "sF_PRIVACY_CHANGE_HEADER2"
-msgid "Do you receive unwanted IM messages?"
-msgstr "Դուք ստանու՞մ եք անցանկանելի չաթ-հաղորդագրություններ"
-
-msgctxt "sF_PRIVACY_CHANGE_BTN_OK"
-msgid "OK"
-msgstr "ԼԱՎ"
-
-msgctxt "sF_PRIVACY_CHANGE_BTN_CANCEL"
-msgid "Cancel"
-msgstr "Չեղարկել"
-
-msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE1"
-msgid "Allow calls from everyone."
-msgstr "Ընդունել զանգեր բոլորից։"
-
-msgctxt "sF_PRIVACY_CHANGE_RB_ANYONE2"
-msgid "Allow IMs from everyone."
-msgstr "Ընդունել չաթ-հաղորդագրություն բոլորից։"
-
-msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS1"
-msgid "Allow calls only from my contacts."
-msgstr "Ընդունել զանգեր միայն իմ կոնտակտներից:"
-
-msgctxt "sF_PRIVACY_CHANGE_RB_CONTACTS2"
-msgid "Allow IM from my contacts only."
-msgstr "Ընդունել չաթ-հաղորդագրություններ միայն իմ կոնտակտներից:"
-
-msgctxt "sF_PRIVACY_CHANGE_LB_OPTIONS"
-msgid "<a href=\"skype:?options#privacy\">Advanced privacy options</a>"
-msgstr "<a href=\"skype:?options#privacy\">Լրացուցիչ անվտանգության կարգավորումներ</a>"
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
@@ -3844,7 +3625,7 @@ msgstr "%s-ը թարմացրեց խոսակցության օրենքները"
 
 msgctxt "sCHAT_STATUSMESSAGE_CONNECTING"
 msgid "Connecting to host, please wait."
-msgstr "Միացում մոդերատորի հետ: Խնդրում ենք սպասել։"
+msgstr "Կապակցում հոսթին: Խնդրում ենք սպասել։"
 
 msgctxt "sCHAT_MESSAGE_REMOVED"
 msgid "This message has been removed."
@@ -3941,6 +3722,10 @@ msgstr "Հղումը պատճենել մեկուսաշրջույթում"
 msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
 msgstr "Վարողը՝"
+
+msgctxt "sF_CHAT_INFO_LB_ADMIN"
+msgid "Administrators:"
+msgstr "Ադմիներ."
 
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
@@ -4052,12 +3837,6 @@ msgstr "Անջատում է"
 msgctxt "sF_OPTIONS_CB_TYPING"
 msgid "Show when I am typing"
 msgstr "Ցուցադրել, երբ ես տպում եմ"
-
-msgctxt "sF_SENDMONEY_LOAD_ERROR"
-msgid ""
-"You don't seem to have an active internet connection. Please check your "
-"connection and try again."
-msgstr "Միգուցե, դուք միացած չեք համացանցին: Փորձեք միանալ և փորձեք կրկին:"
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
@@ -4396,12 +4175,6 @@ msgid ""
 "forwarded to a phone number or another Skype account."
 msgstr "Երբ հեռու եք համակարգչից՝ Skype-ը կարող է փոխանցել զանգերը ձայնային փոստի կամ հեռախոսահամարի։"
 
-msgctxt "sF_VOICEMAIL_OPTIONS_LB5"
-msgid ""
-"Call forwarding is active. Calls will be sent first to the phone number(s) "
-"set."
-msgstr "Զանգի փոխանցումը միացված է։ Զանգերը կուղղվեն այդ համարին։"
-
 msgctxt "sF_BLOCK_ALREADY_BLOCKED"
 msgid "This person is already blocked."
 msgstr "Այս օգվողը արդեն արգելափակված է"
@@ -4420,10 +4193,6 @@ msgid ""
 "and leave voice messages for your contacts if you can't get hold of them."
 msgstr "Ստեղծեք ձայնային փոստի անձնական հաղորդագրություն, պահպանեք այն՝ կրկին լսելու համար, ինչպես նաև թողեք ձայնային հաղորդագրություններ այլ օգտվողների։"
 
-msgctxt "sF_OPTIONS_UPGRADE_SKYPPRO"
-msgid "Get a subscription"
-msgstr "Բաժանորդագրվել"
-
 msgctxt "sCONTACT_LONG_HINT_LAST_SEEN"
 msgid "Last seen"
 msgstr "Վերջին անգամ եղել է ցանցում"
@@ -4440,23 +4209,11 @@ msgctxt "sF_USERINFO_SERTIFIED_HINT"
 msgid "This is a business contact."
 msgstr "Սա գործնական կոնտակտ է։"
 
-msgctxt "sF_ADDFRIEND_SERTIFIED_HINT"
-msgid "This is a business contact."
-msgstr "Սա գործնական կոնտակտ է։"
-
-msgctxt "sTOOLTIP_CHAT_THUMB"
-msgid "Play video %s"
-msgstr "Միացնել %s տեսանյութը "
-
 msgctxt "sVIDEOMENU_TAKE_SNAPSHOT"
 msgid "Take a Picture"
 msgstr "Նկարել"
 
 msgctxt "sF_USERINFO_IMG_SERTIFIED"
-msgid "Business contact"
-msgstr "Գործնական կոնտակտ"
-
-msgctxt "sF_ADDFRIEND_IMG_SERTIFIED"
 msgid "Business contact"
 msgstr "Գործնական կոնտակտ"
 
@@ -4487,10 +4244,6 @@ msgstr "Ավարտել զանգը"
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
 msgstr "Ավելացնել շատ օգտվողների"
-
-msgctxt "sF_STARTSEND_SELECTED_CONTACTS_LABEL"
-msgid "Contacts to send"
-msgstr "Ուղարկվող կոնտակտները"
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
@@ -4544,7 +4297,7 @@ msgstr "> 24 ժամ"
 
 msgctxt "sZAPCONTACT_HOME_PHONE"
 msgid "Home"
-msgstr "Տան"
+msgstr "Տուն"
 
 msgctxt "sZAPCONTACT_OFFICE_PHONE"
 msgid "Office"
@@ -4557,22 +4310,6 @@ msgstr "Բջջային"
 msgctxt "sZAPBUTTON_NONE"
 msgid "none"
 msgstr "Ոչ"
-
-msgctxt "sZAPBUTTON_DUMMYFULL"
-msgid ""
-msgstr "0fb2f32f354f68d3cfe82996d05eae17_tr"
-
-msgctxt "sZAPBUTTON_DUMMYLEFT"
-msgid ""
-msgstr "56d0a1c9d37d048e01331cafcc3a12eb_tr"
-
-msgctxt "sZAPBUTTON_DUMMYRIGHT"
-msgid ""
-msgstr "ba349b0e80925061ba7e8ca770d43280_tr"
-
-msgctxt "sZAPBUTTON_DUMMYMIDDLE"
-msgid ""
-msgstr "67458bf55c3a613c2e7785fe4dc7ae64_tr"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
@@ -4590,10 +4327,6 @@ msgctxt "sZAPBUTTON_ADDNUMBER"
 msgid "Add phone number"
 msgstr "Ավելացնել հեռախոսահամար"
 
-msgctxt "sZAPBUTTON_ADDMYNUMBER"
-msgid "Add my number"
-msgstr "Ավելացնել իմ համարը"
-
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
 msgstr "Պահպանել համարը"
@@ -4602,45 +4335,29 @@ msgctxt "sZAPBUTTON_ADDCONTACT"
 msgid "Add a contact"
 msgstr "Ավելացնել կոնտակտներին"
 
-msgctxt "sZAPBUTTON_ADDCONTACTMENU"
-msgid "All contacts"
-msgstr "Բոլոր կոնտակտները"
-
 msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
 msgstr "Բոլորին ընդգրկել կոնտակտների ցանկում"
 
-msgctxt "sZAPBUTTON_ADDSKYPEOUT"
-msgid "Save number in Contacts"
-msgstr "Պահպանել համարը կոնտակտների ցանկում"
+msgctxt "sZAPBUTTON_ADDTOGROUP"
+msgid "Add to Group"
+msgstr "Ավելացնել խմբում"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
+msgid "Add to group call"
+msgstr "Ավելացնել խմբային զանգում"
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
+msgid "Add to group call"
+msgstr "Ավելացնել խմբային զանգում"
+
+msgctxt "sZAPBUTTON_ADDTOCONFERENCERINGING"
 msgid "Add to group call"
 msgstr "Ավելացնել խմբային զանգում"
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
 msgstr "Ավելացնել կոնտակտների ցանկում"
-
-msgctxt "sZAPBUTTON_AF_PINNED"
-msgid ""
-msgstr "e7be89f9417321618c0fb8d9cbef62cb_tr"
-
-msgctxt "sZAPBUTTON_AF_UNPINNED"
-msgid ""
-msgstr "43201c1ed81ddb8f71c17d4473953c8c_tr"
-
-msgctxt "sZAPBUTTON_ALLCONTACTS"
-msgid ""
-msgstr ""
-
-msgctxt "sZAPBUTTON_ALLOW"
-msgid "Allow"
-msgstr "Թույլատրել"
-
-msgctxt "sZAPBUTTON_ALLOWNOT"
-msgid "Do not allow"
-msgstr "Չթույլատրել"
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
@@ -4662,14 +4379,6 @@ msgctxt "sZAPBUTTON_BACK"
 msgid "Back"
 msgstr "Հետ"
 
-msgctxt "sZAPBUTTON_BACKGSW"
-msgid "Back"
-msgstr "Հետ"
-
-msgctxt "sZAPBUTTON_BLOCK"
-msgid "Block"
-msgstr "Արգելափակել"
-
 msgctxt "sZAPBUTTON_BUYCREDIT"
 msgid "Buy Skype Credit"
 msgstr "Լիցքավորել Skype-ի Հաշիվը"
@@ -4682,17 +4391,21 @@ msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
 msgstr "Զանգել"
 
+msgctxt "sZAPBUTTON_CALLMULTIPLE"
+msgid "Call"
+msgstr "Զանգ"
+
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
 msgstr "Ընդգրկել խոսակցության մեջ"
 
-msgctxt "sZAPBUTTON_CALLWHICH"
-msgid "Call"
-msgstr "Զանգել"
-
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
 msgstr "Զանգել խմբին"
+
+msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
+msgid "Copy conversation link"
+msgstr "Պատճենել զրույցի հղումը"
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
@@ -4798,49 +4511,13 @@ msgctxt "sZAPBUTTON_CQ_CONNECTION_POOR"
 msgid "Connection"
 msgstr "Կապ"
 
-msgctxt "sZAPBUTTON_CQ_SHOW"
-msgid "Show problems"
-msgstr "Ցուցադրել անսարքությունները"
-
-msgctxt "sZAPBUTTON_CQ_HIDE"
-msgid "Hide problems"
-msgstr "Թաքցնել անսարքությունները"
-
 msgctxt "sZAPBUTTON_CQ_PLAY"
 msgid "Play"
 msgstr "Լսել"
 
-msgctxt "sZAPBUTTON_GIVEFEEDBACK"
-msgid "Give feedback"
-msgstr "Հետադարձ կապ"
-
 msgctxt "sZAPBUTTON_CQ_CHECK"
 msgid "Check call quality guide"
 msgstr "Բացել կապի որակի ձեռնարկը"
-
-msgctxt "sZAPBUTTON_CALLQUALITY"
-msgid "Call Quality"
-msgstr "Կապի որակ"
-
-msgctxt "sZAPBUTTON_CALLQUALITYAVERAGE"
-msgid "Call Quality Average"
-msgstr "Ձայնի ստանդարտ որակ"
-
-msgctxt "sZAPBUTTON_CALLQUALITYBAD"
-msgid "Call Quality Bad"
-msgstr "Ձայնի վատ որակ"
-
-msgctxt "sZAPBUTTON_CALLQUALITYINFO"
-msgid "Call Quality"
-msgstr "Զանգի որակ"
-
-msgctxt "sZAPBUTTON_CALLQUALITYWARNING"
-msgid "Call Quality Warning"
-msgstr "Կապի որակը ընկնում է"
-
-msgctxt "sZAPBUTTON_CALLQUALITYERROR"
-msgid "Call Quality Error"
-msgstr "Կապի որակի սխալ"
 
 msgctxt "sZAPBUTTON_CQ_5STAR"
 msgid "*****"
@@ -4886,10 +4563,6 @@ msgctxt "sZAPBUTTON_CHAT"
 msgid "Send message"
 msgstr "Ուղարկել հաղորդագրությունը"
 
-msgctxt "sZAPBUTTON_CHARGE"
-msgid "Charge"
-msgstr "Լիցքավորել"
-
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
 msgstr "Փոխել երկիրը"
@@ -4910,45 +4583,9 @@ msgctxt "sZAPBUTTON_CLOSEONBLUE"
 msgid "Close"
 msgstr "Փակել"
 
-msgctxt "sZAPBUTTON_CLOSEEC"
-msgid "Close"
-msgstr "Փակել"
-
-msgctxt "sZAPBUTTON_CLOSEGSW"
-msgid "Close"
-msgstr "Փակել"
-
-msgctxt "sZAPBUTTON_CONVERSATIONS"
-msgid "Conversations"
-msgstr "Խոսակցություններ"
-
-msgctxt "sZAPBUTTON_CONVERSATION"
-msgid "Display the conversation here instead"
-msgstr "Ցուցադրել երկխոսությունը այստեղ"
-
-msgctxt "sZAPBUTTON_CONVERSATIONCLASSIC"
-msgid "Show the window containing the conversation"
-msgstr "Ցուցադրել պատուհանը այս չաթով"
-
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
 msgstr "Skype"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSHOME"
-msgid "Home"
-msgstr "Տան"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSMOBILE"
-msgid "Mobile"
-msgstr "Բջջային"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSPHONE"
-msgid "Phone"
-msgstr "Հեռախոս"
-
-msgctxt "sZAPBUTTON_CONVERSATIONSOFFICE"
-msgid "Office"
-msgstr "Աշխատանքային"
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
@@ -4958,14 +4595,6 @@ msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
 msgstr "Կոնտակտներ"
 
-msgctxt "sZAPBUTTON_CONTACTSARROW"
-msgid "Contacts"
-msgstr "Կոնտակտներ"
-
-msgctxt "sZAPBUTTON_CONTACTSARROWSELECTED"
-msgid "Selected contacts"
-msgstr "Ընտրված կոնտակները"
-
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
 msgstr "Ստեղծել խումբ"
@@ -4974,105 +4603,21 @@ msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
 msgstr "Հրաժարվել"
 
+msgctxt "sZAPBUTTON_DECLINECALL"
+msgid "Decline"
+msgstr "Մերժել"
+
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
 msgstr "Ջնջել"
-
-msgctxt "sZAPBUTTON_DELETEALERTMESSAGE"
-msgid "Delete"
-msgstr "Ջնջել"
-
-msgctxt "sZAPBUTTON_DELETEHIDDEN"
-msgid "Delete"
-msgstr "Ջնջել"
-
-msgctxt "sZAPBUTTON_DELETEINVERT"
-msgid "Delete"
-msgstr "Ջնջել"
-
-msgctxt "sZAPBUTTON_DETAILS"
-msgid "Details"
-msgstr "Մանրամասն"
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
 msgstr "Համարի հավաքման վահանակ"
 
-msgctxt "sZAPBUTTON_DIALPAD_0"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_1"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_2"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_3"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_4"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_5"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_6"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_7"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_8"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_9"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_ASTERIX"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_HASH"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_ADDCONTACT"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_SMS"
-msgid " "
-msgstr " "
-
-msgctxt "sZAPBUTTON_DIALPAD_CALL"
-msgid " "
-msgstr " "
-
 msgctxt "sZAPBUTTON_DIALNUMBER"
 msgid "Dial this phone number"
 msgstr "Հավաքեք այս հեռախոսահամարը"
-
-msgctxt "sZAPBUTTON_DIRECTORY"
-msgid "Find businesses"
-msgstr "Ընկերության փնտրում"
-
-msgctxt "sZAPBUTTON_DOLATER"
-msgid "Do it later"
-msgstr "Անել հետո"
-
-msgctxt "sZAPBUTTON_DOWN"
-msgid "Down"
-msgstr "Ներքև"
 
 msgctxt "sZAPBUTTON_DOWNLOAD"
 msgid "Download"
@@ -5090,10 +4635,6 @@ msgctxt "sZAPBUTTON_REPLY"
 msgid "Reply"
 msgstr "Պատասխանել"
 
-msgctxt "sZAPBUTTON_DIALADRECENT"
-msgid "Recent numbers"
-msgstr "Վերջին համարները"
-
 msgctxt "sZAPBUTTON_DIALPADSHOW"
 msgid "Show dial pad"
 msgstr "Ցուցադրել համարի վահանակը"
@@ -5101,18 +4642,6 @@ msgstr "Ցուցադրել համարի վահանակը"
 msgctxt "sZAPBUTTON_COUNTRYSELECTOR"
 msgid "Choose country/region"
 msgstr "Ընտրեք երկիրը"
-
-msgctxt "sZAPBUTTON_HIDE"
-msgid "Hide"
-msgstr "Թաքցնել"
-
-msgctxt "sZAPBUTTON_FIVE"
-msgid "5"
-msgstr "5"
-
-msgctxt "sZAPBUTTON_FILE"
-msgid "File"
-msgstr "Ֆայլ"
 
 msgctxt "sZAPBUTTON_FULLSCREEN"
 msgid "Full screen"
@@ -5122,17 +4651,9 @@ msgctxt "sZAPBUTTON_FULLSCREENEXIT"
 msgid "Exit fullscreen"
 msgstr "Դուրս գալ Ամբողջ էկրանից"
 
-msgctxt "sZAPBUTTON_POPOUTEXIT"
-msgid "Exit popout mode"
-msgstr "Ելք՝ լողացող վիճակից"
-
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "Help"
 msgstr "Օգնություն"
-
-msgctxt "sZAPBUTTON_FILETRANSFER"
-msgid "File Transfer"
-msgstr "Ֆայլերի փոխանցում"
 
 msgctxt "sZAPBUTTON_CHATBOOK"
 msgid "Facebook"
@@ -5146,10 +4667,6 @@ msgctxt "sZAPBUTTON_EDIT"
 msgid "Edit"
 msgstr "Խմբագրել"
 
-msgctxt "sZAPBUTTON_EXITGSW"
-msgid "Exit this guide"
-msgstr "Փակել Ձեռնարկը"
-
 msgctxt "sZAPBUTTON_FINDOUTMORE"
 msgid "Find out more"
 msgstr "Մանրամասներ"
@@ -5162,42 +4679,6 @@ msgctxt "sZAPBUTTON_FINDCONTACTSKYPE"
 msgid "Find this person on Skype"
 msgstr "Գնել Skype-ում"
 
-msgctxt "sZAPBUTTON_CALLNUMBER"
-msgid "Call this number"
-msgstr "Զանգահարել այս համարին"
-
-msgctxt "sZAPBUTTON_SHOWHISTORY"
-msgid "Show history"
-msgstr "Ցուցադրել պատմությունը"
-
-msgctxt "sZAPBUTTON_HIDEHISTORY"
-msgid "Hide history"
-msgstr "Թաքցնել պատմոությունը"
-
-msgctxt "sZAPBUTTON_HIDECONTACTLIST"
-msgid "Hide Contacts"
-msgstr "Թաքցնել կոնտակտների ցանկը"
-
-msgctxt "sZAPBUTTON_SHOWCONTACTLIST"
-msgid "Show Contacts"
-msgstr "Ցուցադրել կոնտակտների ցանկը"
-
-msgctxt "sZAPBUTTON_HISTORYFILTER"
-msgid "All messages"
-msgstr "Բոլոր հաղորդագրությունները"
-
-msgctxt "sZAPBUTTON_FOUR"
-msgid "4"
-msgstr "4"
-
-msgctxt "sZAPBUTTON_FINDFRIENDS"
-msgid "Find friends"
-msgstr "Փնտրել ընկերներին"
-
-msgctxt "sZAPBUTTON_FINDFRIENDSNEW"
-msgid "FindFriends"
-msgstr "Փնտրել ընկերներին"
-
 msgctxt "sZAPBUTTON_FINDNEXT"
 msgid "<ks>N</ks>ext"
 msgstr "<ks>Հ</ks>աջորդը"
@@ -5209,10 +4690,6 @@ msgstr "<ks>Ն</ks>ախորդը"
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "My account"
 msgstr "Իմ հաշիվը"
-
-msgctxt "sZAPBUTTON_FORWARD"
-msgid "Forward"
-msgstr "Առաջ"
 
 msgctxt "sZAPBUTTON_GALLERY"
 msgid "Gallery"
@@ -5246,17 +4723,13 @@ msgctxt "sZAPBUTTON_SENDFREEUPGRADELINK"
 msgid "Send upgrade link"
 msgstr "Ուղարկել արդիացման հասցեն"
 
-msgctxt "sZAPBUTTON_GETSTARTED"
-msgid "<b><font type=\"Arial\">Get started</font></b>"
-msgstr "<b><font type=\"Arial\">Սկսել</font></b>"
-
 msgctxt "sZAPBUTTON_GROUPCALLSKYPE"
 msgid "Skype"
 msgstr "Skype"
 
 msgctxt "sZAPBUTTON_GROUPCALLHOME"
 msgid "Home"
-msgstr "Տան"
+msgstr "Տուն"
 
 msgctxt "sZAPBUTTON_GROUPCALLMOBILE"
 msgid "Mobile"
@@ -5280,7 +4753,7 @@ msgstr "Skype"
 
 msgctxt "sZAPBUTTON_CALLTRANSFERHOME"
 msgid "Home"
-msgstr "Տան"
+msgstr "Տուն"
 
 msgctxt "sZAPBUTTON_CALLTRANSFERMOBILE"
 msgid "Mobile"
@@ -5294,13 +4767,17 @@ msgctxt "sZAPBUTTON_CALLTRANSFEROTHER"
 msgid "Other"
 msgstr "Այլ"
 
+msgctxt "sZAPBUTTON_ADDPEOPLE"
+msgid "Add people"
+msgstr "Ավելացնել մարդկանց"
+
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
 msgstr "Skype"
 
 msgctxt "sZAPBUTTON_ADDPEOPLEHOME"
 msgid "Home"
-msgstr "Տան"
+msgstr "Տուն"
 
 msgctxt "sZAPBUTTON_ADDPEOPLEMOBILE"
 msgid "Mobile"
@@ -5314,17 +4791,9 @@ msgctxt "sZAPBUTTON_ADDPEOPLEOTHER"
 msgid "Other"
 msgstr "Այլ"
 
-msgctxt "sZAPBUTTON_CONTACTLISTOPEN_ACTIVE"
-msgid "Show contacts"
-msgstr "Ցուցադրել կոնտակտները"
-
 msgctxt "sZAPBUTTON_CONTACTLISTOPEN_INACTIVE"
 msgid "Show contacts"
 msgstr "Ցուցադրել կոնտակտները"
-
-msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_ACTIVE"
-msgid "Hide contacts"
-msgstr "Թաքցնել կոնտակտները"
 
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_INACTIVE"
 msgid "Hide contacts"
@@ -5342,18 +4811,6 @@ msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
 msgstr "Զանգել"
 
-msgctxt "sZAPBUTTON_INSTANTMESSAGE"
-msgid "Instant Message"
-msgstr "Չաթ"
-
-msgctxt "sZAPBUTTON_HISTORYSLIDER"
-msgid "Last message"
-msgstr "Վերջին հաղորդագրությունը"
-
-msgctxt "sZAPBUTTON_HIDEDETAILS"
-msgid "Hide details"
-msgstr "Թաքցնել մանրամասնությունները"
-
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
 msgstr "Թաքցնել հաղորդագրությունները"
@@ -5364,7 +4821,7 @@ msgstr "Զանգի սպասում"
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr "Տան"
+msgstr "Տուն"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -5377,14 +4834,6 @@ msgstr "Ավելացնել կոնտակտներին"
 msgctxt "sZAPBUTTON_HELP"
 msgid "Help"
 msgstr "Օգնություն"
-
-msgctxt "sZAPBUTTON_INFOALT"
-msgid "Info"
-msgstr "Տեղեկատվություն"
-
-msgctxt "sZAPBUTTON_INFO"
-msgid "Info"
-msgstr "Տեղեկատվություն"
 
 msgctxt "sZAPBUTTON_IGNORE"
 msgid "Ignore"
@@ -5402,41 +4851,21 @@ msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
 msgstr "Մանրամասները"
 
-msgctxt "sZAPBUTTON_SEEHOW"
-msgid "See how"
-msgstr "Իմացեք ինչպես"
-
-msgctxt "sZAPBUTTON_LEFT"
-msgid "<b><font color=\"#475358\">Left</font></b>"
-msgstr "<b><font color=\"#475358\">Ձախից</font></b>"
+msgctxt "sZAPBUTTON_LEAVECONVERSATION"
+msgid "Leave conversation"
+msgstr "Լքել խոսակցությունը"
 
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
 msgstr "Տեղադրել"
 
-msgctxt "sZAPBUTTON_MAKEDEMOCALL"
-msgid "Make test call"
-msgstr "Թեստային զանգ"
-
-msgctxt "sZAPBUTTON_MENU"
-msgid "Menu"
-msgstr "Ընտրացանկը"
-
-msgctxt "sZAPBUTTON_MPV_LEFT"
-msgid "MPV left"
-msgstr "Ձախից"
-
-msgctxt "sZAPBUTTON_MPV_CENTER"
-msgid "MPV center"
-msgstr "Կենտրոնում"
-
-msgctxt "sZAPBUTTON_MPV_RIGHT"
-msgid "MPV right"
-msgstr "Աջից"
-
 msgctxt "sZAPBUTTON_MPV_ALONE"
 msgid "MPV alone"
 msgstr "Առանձին"
+
+msgctxt "sZAPBUTTON_MERGECALLS"
+msgid "Merge calls"
+msgstr "Միացնել զանգերը"
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
@@ -5450,129 +4879,37 @@ msgctxt "sZAPBUTTON_MESSAGEFILE"
 msgid "Send file"
 msgstr "Ուղարկել ֆայլ"
 
-msgctxt "sZAPBUTTON_MESSAGESHARE"
-msgid "Share"
-msgstr "Կիսվել"
-
-msgctxt "sZAPBUTTON_MESSAGEEXTRAS"
-msgid "Extras"
-msgstr "Լրացուցիչ"
-
 msgctxt "sZAPBUTTON_MESSAGESMS"
 msgid "Group SMS"
 msgstr "Խմբային SMS"
-
-msgctxt "sZAPBUTTON_MESSAGESMS_ON"
-msgid "SMS"
-msgstr "SMS"
-
-msgctxt "sZAPBUTTON_MESSAGESMSDROPDOWN"
-msgid "SMS"
-msgstr "SMS"
-
-msgctxt "sZAPBUTTON_MESSAGEIM"
-msgid "IM"
-msgstr "Չաթ"
-
-msgctxt "sZAPBUTTON_MESSAGEFROM"
-msgid "From"
-msgstr "%s-ից"
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
 msgstr "Skype-ով"
 
-msgctxt "sZAPBUTTON_MESSAGETO"
-msgid "To"
-msgstr "Ում"
-
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
 msgstr "Ավելին"
-
-msgctxt "sZAPBUTTON_MONITORVIDEOCLOSE"
-msgid "Close call monitor"
-msgstr "Փակել զանգելու պատուհանը"
-
-msgctxt "sZAPBUTTON_MONITORAUDIOCLOSE"
-msgid "Close call monitor"
-msgstr "Փակել զանգելու պատուհանը"
 
 msgctxt "sZAPBUTTON_MUTE"
 msgid "Mute"
 msgstr "Անջատել ձայնը"
 
-msgctxt "sZAPBUTTON_MYSELFTOP"
-msgid ""
-msgstr "3cf71d1abb58d9cd78d73d2372b308b2_tr"
-
-msgctxt "sZAPBUTTON_MYSELFBOTTOM"
-msgid ""
-msgstr "7abe095518b8b0837fc38d15a401089f_tr"
-
 msgctxt "sZAPBUTTON_UNMUTE"
 msgid "Unmute"
 msgstr "Միացնել ձայնը"
-
-msgctxt "sZAPBUTTON_SMSSELECTFROM"
-msgid "Set your caller ID"
-msgstr "Ակտիվացնել իմ համարի որոշումը"
-
-msgctxt "sZAPBUTTON_SMSSELECTTO"
-msgid "SMS select to"
-msgstr "Ուղարկել SMS-ը համարին"
-
-msgctxt "sZAPBUTTON_NEW"
-msgid "New"
-msgstr "Նոր"
 
 msgctxt "sZAPBUTTON_NEXT"
 msgid "Next"
 msgstr "Առաջ"
 
-msgctxt "sZAPBUTTON_CLOSEWS"
-msgid "Close this welcome screen and start using Skype"
-msgstr "Փակել այս պատուհանը և սկսել օգտագործել Skype-ը"
-
-msgctxt "sZAPBUTTON_PAGENEXT"
-msgid "Next page"
-msgstr "Հաջորդ էջը"
-
-msgctxt "sZAPBUTTON_PAGEPREVIOUS"
-msgid "Previous page"
-msgstr "Նախորդ էջը"
-
-msgctxt "sZAPBUTTON_NEXTINACTIVE"
-msgid "Next"
-msgstr "Առաջ"
-
-msgctxt "sZAPBUTTON_NEXTPAGE"
-msgid "Next page"
-msgstr "Հաջորդ էջ"
-
-msgctxt "sZAPBUTTON_OTHERACTIONS"
-msgid "Other call functions"
-msgstr "Զանգի լրացուցիչ հնարավորություններ"
-
-msgctxt "sZAPBUTTON_OKAY"
-msgid "Okay"
-msgstr "ԼԱՎ"
-
 msgctxt "sZAPBUTTON_OKUSEDEVICE"
 msgid "OK"
 msgstr "ԼԱՎ"
 
-msgctxt "sZAPBUTTON_ONE"
-msgid "1"
-msgstr "1"
-
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
 msgstr "Բացել ֆայլը"
-
-msgctxt "sZAPBUTTON_OPTIONS"
-msgid "Options"
-msgstr "Ընտրանքներ"
 
 msgctxt "sZAPBUTTON_PAUSE"
 msgid "Pause"
@@ -5582,45 +4919,17 @@ msgctxt "sZAPBUTTON_PAUSEUPGRADEDOWNLOAD"
 msgid "Pause download"
 msgstr "Դադարեցնել բեռնումը"
 
-msgctxt "sZAPBUTTON_PHONES"
-msgid "Call"
-msgstr "Զանգել"
-
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
 msgstr "Լսել"
-
-msgctxt "sZAPBUTTON_PLAYVIDEO"
-msgid "Play video"
-msgstr "Դիտել տեսանյութը"
-
-msgctxt "sZAPBUTTON_PREVIEW"
-msgid "Preview"
-msgstr "Նախնական դիտում"
 
 msgctxt "sZAPBUTTON_PREVIOUS"
 msgid "Previous"
 msgstr "Նախորդը"
 
-msgctxt "sZAPBUTTON_PREVIOUSINACTIVE"
-msgid "Previous"
-msgstr "Նախորդը"
-
-msgctxt "sZAPBUTTON_PREVIOUSPAGE"
-msgid "Previous page"
-msgstr "Նախորդ էջը"
-
 msgctxt "sZAPBUTTON_PROFILE"
 msgid "Profile"
 msgstr "Պրոֆիլը"
-
-msgctxt "sZAPBUTTON_PROFILENOTAUTHORIZED"
-msgid "Contact not authorized"
-msgstr "Կոնտակտը չունի անհատականացում"
-
-msgctxt "sZAPBUTTON_PROFILEGENERAL"
-msgid "General info"
-msgstr "Ընդանուր տվյալներ"
 
 msgctxt "sZAPBUTTON_PROFILEHIDE"
 msgid "Hide profile"
@@ -5630,49 +4939,9 @@ msgctxt "sZAPBUTTON_PROFILEMIN"
 msgid "Minimize Profile"
 msgstr "Թաքցնել պրոֆիլը"
 
-msgctxt "sZAPBUTTON_PROFILEMINCENT"
-msgid "Minimize Profile"
-msgstr "Թաքցնել պրոֆիլը"
-
 msgctxt "sZAPBUTTON_PROFILEMAX"
 msgid "Maximize Profile"
 msgstr "Թաքցնել պրոֆիլը"
-
-msgctxt "sZAPBUTTON_PROFILENEXT"
-msgid "Next page"
-msgstr "Հաջորդ էջը"
-
-msgctxt "sZAPBUTTON_PROFILEAVATAR"
-msgid "Show avatar"
-msgstr "Ցուցադրել նկարը"
-
-msgctxt "sZAPBUTTON_PROFILENUMBER"
-msgid "Numbers"
-msgstr "Համարները"
-
-msgctxt "sZAPBUTTON_PROFILEPREVIOUS"
-msgid "Previous page"
-msgstr "Նախորդ էջը"
-
-msgctxt "sZAPBUTTON_PROFILESHOW"
-msgid "Show profile"
-msgstr "Ցուցադրել պրոֆիլը"
-
-msgctxt "sZAPBUTTON_PROFILETEXT"
-msgid "Additional info"
-msgstr "Լրացուցիչ տեղեկություն"
-
-msgctxt "sZAPBUTTON_PROFILEPUBLIC"
-msgid "Public profile"
-msgstr "Հրապարակային տվյալներ"
-
-msgctxt "sZAPBUTTON_PROFILEFULL"
-msgid "Full profile"
-msgstr "Բոլոր տվյալները"
-
-msgctxt "sZAPBUTTON_PROFILECONTACTS"
-msgid "Contacts only"
-msgstr "Միայն կոնտակտներին"
 
 msgctxt "sZAPBUTTON_READ"
 msgid "Read"
@@ -5694,21 +4963,9 @@ msgctxt "sZAPBUTTON_PLAYRECORDED"
 msgid "Playing..."
 msgstr "Լսել…"
 
-msgctxt "sZAPBUTTON_RECORDVOICEMAIL"
-msgid "Re-record voice message"
-msgstr "Վերաձայնագրել ձայնային հաղորդագրությունը"
-
-msgctxt "sZAPBUTTON_STOPVOICEMAIL"
-msgid "Stop recording"
-msgstr "Կանգնացնել ձայնագրումը"
-
 msgctxt "sZAPBUTTON_REDIAL"
 msgid "Redial"
 msgstr "Կրկին հավաքել"
-
-msgctxt "sZAPBUTTON_REJECT"
-msgid "Reject"
-msgstr "Մերժել"
 
 msgctxt "sZAPBUTTON_REMIND"
 msgid "Remind me later"
@@ -5734,10 +4991,6 @@ msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
 msgstr "Լսել"
 
-msgctxt "sZAPBUTTON_RIGHT"
-msgid "<b><font color=\"#475358\">Right</font></b>"
-msgstr "<b><font color=\"#475358\">Աջ</font></b>"
-
 msgctxt "sZAPBUTTON_SAVE"
 msgid "Save"
 msgstr "Պահպանել"
@@ -5745,30 +4998,6 @@ msgstr "Պահպանել"
 msgctxt "sZAPBUTTON_SAVEALL"
 msgid "Save all"
 msgstr "Պահպանել բոլորը"
-
-msgctxt "sZAPBUTTON_ROSTERINACTIVEPAGE"
-msgid "Page"
-msgstr "Էջը"
-
-msgctxt "sZAPBUTTON_ROSTERACTIVEPAGE"
-msgid "Current page"
-msgstr "Ընթացիկ էջը"
-
-msgctxt "sZAPBUTTON_ROSTERRIGHT"
-msgid "Right"
-msgstr "Աջ"
-
-msgctxt "sZAPBUTTON_ROSTERLEFT"
-msgid "Left"
-msgstr "Ձախ"
-
-msgctxt "sZAPBUTTON_ROSTERUP"
-msgid "Up"
-msgstr "Վերև"
-
-msgctxt "sZAPBUTTON_ROSTERDOWN"
-msgid "Down"
-msgstr "Ներքև"
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
@@ -5790,65 +5019,33 @@ msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
 msgstr "Դիտել իմ տեսանյութը"
 
-msgctxt "sZAPBUTTON_HIDEVIDEO"
-msgid "Hide my video"
-msgstr "Չցուցադրել իմ տեսանյութը"
-
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
 msgstr "Ուղարկել ֆայլը"
 
+msgctxt "sZAPBUTTON_SENDIMAGE"
+msgid "Send image"
+msgstr "Ուղարկել նկարը"
+
 msgctxt "sZAPBUTTON_SENDCONTACTS"
-msgid "Send Contacts..."
-msgstr "Ուղարկել կոնտակտները…"
+msgid "Send contacts"
+msgstr "Ուղարկել կոնտակտը"
 
-msgctxt "sZAPBUTTON_SENDMESSAGE"
-msgid "Send message"
-msgstr "Ուղարկել հաղորդագրությունը"
+msgctxt "sZAPBUTTON_ENTRYTOOLBAREXPAND"
+msgid "More"
+msgstr "Մանրամասն"
 
-msgctxt "sZAPBUTTON_SENDSMS"
-msgid "Send SMS"
-msgstr "Ուղարկել SMS-ը"
-
-msgctxt "sZAPBUTTON_SEARCH"
-msgid "Search"
-msgstr "Փնտրել"
-
-msgctxt "sZAPBUTTON_SEARCHHISTORY"
-msgid "Search History"
-msgstr "Փնտրել պատմության մեջ"
-
-msgctxt "sZAPBUTTON_SEARCHEMAILCONTACTS"
-msgid "Search email contacts"
-msgstr "Փնտրել էլ. փոստի կոնտակտներին"
-
-msgctxt "sZAPBUTTON_SEARCHSKYPEDIRECTORY"
-msgid "Search Skype directory"
-msgstr "Փնտրել Skype-ի տեղեկատուում"
+msgctxt "sZAPBUTTON_ENTRYTOOLBARCOLLAPSE"
+msgid "Less"
+msgstr "Հակիրճ"
 
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
 msgstr "Օգտագործել ինչպես գլխավոր նկար"
 
-msgctxt "sZAPBUTTON_SETPICTURE"
-msgid "Set as my picture"
-msgstr "Նշել որպես իմ նկար"
-
-msgctxt "sZAPBUTTON_CHOOSEPICTURE"
-msgid "Choose a different picture"
-msgstr "Ընտրել այլ նկար"
-
 msgctxt "sZAPBUTTON_SIGNIN"
 msgid "Sign in"
 msgstr "Մուտք"
-
-msgctxt "sZAPBUTTON_STOPSEARCH"
-msgid "Stop search"
-msgstr "Դադարեցնել փնտրումը"
-
-msgctxt "sZAPBUTTON_ADDCONTACTS"
-msgid "Add to Contacts"
-msgstr "Ավելացնել կոնտակտների ցանկում"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
@@ -5866,29 +5063,13 @@ msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
 msgstr "Ջնջել"
 
+msgctxt "sZAPBUTTON_PLUS"
+msgid "More"
+msgstr "Մանրամասն"
+
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
 msgstr "Ուղարկել"
-
-msgctxt "sZAPBUTTON_DONE"
-msgid "Done"
-msgstr "Պատրաստ է"
-
-msgctxt "sZAPBUTTON_SEARCHAGAIN"
-msgid "Search again"
-msgstr "Փնտրել կրկին"
-
-msgctxt "sZAPBUTTON_TRYAGAIN"
-msgid "Try again"
-msgstr "Փորձել կրկին"
-
-msgctxt "sZAPBUTTON_CHANGESETTINGS"
-msgid "Change settings"
-msgstr "Փոխել կարգավորումները"
-
-msgctxt "sZAPBUTTON_SHOP"
-msgid "Shop"
-msgstr "Խանութ"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5898,37 +5079,17 @@ msgctxt "sZAPBUTTON_SHOWMESSAGES"
 msgid "Show messages"
 msgstr "Ցուցադրել՝"
 
-msgctxt "sZAPBUTTON_SIX"
-msgid "6"
-msgstr "6"
-
 msgctxt "sZAPBUTTON_SKIPVERSION"
 msgid "Skip version"
 msgstr "Բաց թողնել այս տարբերակը"
-
-msgctxt "sZAPBUTTON_SKYPEFINDADD"
-msgid "Add"
-msgstr "Ավելացնել"
-
-msgctxt "sZAPBUTTON_SKYPEIN"
-msgid "Skype number"
-msgstr "Skype-ի համար"
 
 msgctxt "sZAPBUTTON_SKYPEHOME"
 msgid "Skype Home"
 msgstr "Գլխավորը"
 
-msgctxt "sZAPBUTTON_SKYPEOUT"
-msgid "Call phones"
-msgstr "Զանգել"
-
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
 msgstr "Ուղարկել SMS"
-
-msgctxt "sZAPBUTTON_SOUNDOUT"
-msgid "<center>Press Me</center>"
-msgstr "<center>Սեղմիր</center>"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
@@ -5950,25 +5111,29 @@ msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
 msgstr "Խաղարկել տեսագրությունը"
 
-msgctxt "sZAPBUTTON_STARTVIDEO"
-msgid "Start video"
-msgstr "Միացնել վեբ-խցիկը"
+msgctxt "sZAPBUTTON_POPOUTPLAY"
+msgid "Play voice message"
+msgstr "Խաղարկել ձայն"
+
+msgctxt "sZAPBUTTON_POPOUTPAUSE"
+msgid "Pause voice message"
+msgstr "Ընդհատել ձայնը"
+
+msgctxt "sZAPBUTTON_POPOUTSTOP"
+msgid "Stop voice message"
+msgstr "Կանգնեցնել ձայնը"
+
+msgctxt "sZAPBUTTON_POPOUTRELOAD"
+msgid "Reload voice message"
+msgstr "Կր. բեռնել ձայնը"
 
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
 msgstr "Ցուցադրել նկարը"
 
-msgctxt "sZAPBUTTON_HIDEPICTURE"
-msgid "Hide Picture"
-msgstr "Թաքցնել նկարը"
-
 msgctxt "sZAPBUTTON_STOP"
 msgid "Stop"
 msgstr "Կանգնեցնել"
-
-msgctxt "sZAPBUTTON_SEARCHNUMBERDIRECTORY"
-msgid "Search number from Directory"
-msgstr "Փնտրել համարը թղթապանակից"
 
 msgctxt "sZAPBUTTON_SEARCHDIRECTORY"
 msgid "Search Directory"
@@ -5982,18 +5147,6 @@ msgctxt "sZAPBUTTON_STOPPLAY"
 msgid "Stop"
 msgstr "Կանգնեցնել"
 
-msgctxt "sZAPBUTTON_THREE"
-msgid "3"
-msgstr "3"
-
-msgctxt "sZAPBUTTON_TWO"
-msgid "2"
-msgstr "2"
-
-msgctxt "sZAPBUTTON_UP"
-msgid "Up"
-msgstr "Վերև"
-
 msgctxt "sZAPBUTTON_USE"
 msgid "Use for Skype"
 msgstr "Օգտագործել Skype-ի համար"
@@ -6002,21 +5155,13 @@ msgctxt "sZAPBUTTON_UPDATE"
 msgid "Update now"
 msgstr "Թարմացնել"
 
-msgctxt "sZAPBUTTON_VIEWMESSAGES"
-msgid "View older messages"
-msgstr "Դիտել հին հաղորդագրությունները"
-
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
 msgstr "Ցուցադրել պրոֆիլը"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
-msgid "View account"
-msgstr "Բացել հաշիվ"
-
-msgctxt "sZAPBUTTON_VIDEOSNAPSHOT"
-msgid "Video snapshot"
-msgstr "Կադրի պատկերումը"
+msgid "View my account"
+msgstr "Դիտել իմ հաշիվը"
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -6029,10 +5174,6 @@ msgstr "Միացնել տեսազանգը"
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
 msgstr "Անջատել տեսազանգը"
-
-msgctxt "sZAPBUTTON_VIDEO"
-msgid "Video"
-msgstr "Տեսապատկերը"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
@@ -6050,33 +5191,13 @@ msgctxt "sZAPBUTTON_MSNUPGRADESENDMESSAGE"
 msgid "Send download message"
 msgstr "Ուղարկել բեռնման գրություն"
 
-msgctxt "sZAPBUTTON_SCREENSHARINGSHAREWINDOW"
-msgid "Show selected window"
-msgstr "Ցուցադրել ընտրված պատուհանը"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
 msgstr "Տարածել էկրանները..."
 
-msgctxt "sZAPBUTTON_SCREENSHARINGCLOSESELECTION"
-msgid "Close"
-msgstr "Փակել"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGCHANGESELECTION"
-msgid "Change selection"
-msgstr "Փոխել ընտրվածը"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGSELECTWINDOW"
-msgid "Select window"
-msgstr "Ընտրել պատուհանը"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGSTOPSHARING"
 msgid "Stop sharing"
 msgstr "Դադարեցնել էկրանի ցուցադրությունը"
-
-msgctxt "sZAPBUTTON_SCREENSHARINGMENUCANCEL"
-msgid "Cancel"
-msgstr "Չեղարկել"
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTART"
 msgid "Start"
@@ -6086,61 +5207,17 @@ msgctxt "sZAPBUTTON_SCREENSHARINGCANCEL"
 msgid "Cancel"
 msgstr "Չեղարկել"
 
-msgctxt "sZAPBUTTON_SCREENSHARINGWINDOW"
-msgid "Show screensharing window"
-msgstr "Ցուցադրել էկրանի պատկերման պատուհանը"
-
 msgctxt "sZAPBUTTON_SCREENSHARINGOPTIONS"
 msgid "Screensharing options"
 msgstr "Էկրանի տարածման ընտրանքները"
-
-msgctxt "sZAPBUTTON_CT_SCREENSHARING"
-msgid "Share"
-msgstr "Կիսվել"
-
-msgctxt "sZAPBUTTON_CT_ADDCONTACT"
-msgid "Add people"
-msgstr "Ավելացնել մարդկանց"
-
-msgctxt "sZAPBUTTON_CT_VIDEO"
-msgid "My video"
-msgstr "Իմ տեսանյութը"
-
-msgctxt "sZAPBUTTON_CT_VIDEOOFF"
-msgid "My video"
-msgstr "Իմ տեսանյութը"
 
 msgctxt "sZAPBUTTON_CT_MESSAGE"
 msgid "IM"
 msgstr "Չաթ"
 
-msgctxt "sZAPBUTTON_CT_DIALPAD"
-msgid "Dial pad"
-msgstr "Համարի հավաքում"
-
-msgctxt "sZAPBUTTON_CT_MESSAGENEW"
+msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
 msgid "IM"
-msgstr "Չաթ"
-
-msgctxt "sZAPBUTTON_CT_MUTE"
-msgid "Mute"
-msgstr "Անջատել ձայնը"
-
-msgctxt "sZAPBUTTON_CT_UNMUTE"
-msgid "Unmute"
-msgstr "Միացնել ձայնը"
-
-msgctxt "sZAPBUTTON_CT_RERECORD"
-msgid "Re-record voice message"
-msgstr "Վերաձայնագրել ձայնային հաղորդագրությունը"
-
-msgctxt "sZAPBUTTON_CT_CHARGE"
-msgid "Charge"
-msgstr "Լիցքավորել"
-
-msgctxt "sZAPBUTTON_CT_CANCEL"
-msgid "Cancel"
-msgstr "Չեղարկել"
+msgstr "Գրություն"
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -6149,22 +5226,6 @@ msgstr "Ավելացնել խմբային զանգում"
 msgctxt "sZAPBUTTON_CT_RESUME"
 msgid "Resume call"
 msgstr "Վերադառնալ զանգին"
-
-msgctxt "sZAPBUTTON_CT_VOLUME0"
-msgid "Volume 0"
-msgstr "Բարձրությունը 0"
-
-msgctxt "sZAPBUTTON_CT_VOLUME1"
-msgid "Volume 1"
-msgstr "Բարձրությունը 1"
-
-msgctxt "sZAPBUTTON_CT_VOLUME2"
-msgid "Volume 2"
-msgstr "Բարձրությունը 2"
-
-msgctxt "sZAPBUTTON_CT_VOLUME3"
-msgid "Volume 3"
-msgstr "Բարձրությունը 3"
 
 msgctxt "sZAPBUTTON_DIALPADRECENT"
 msgid "Recently dialed numbers"
@@ -6178,18 +5239,6 @@ msgctxt "sZAPBUTTON_VIEWMENU"
 msgid "View menu"
 msgstr "Նայել ընտրացանկը"
 
-msgctxt "sZAPBUTTON_VOLUMEDOWN"
-msgid "Volume down"
-msgstr "Իջեցնել ձայնը"
-
-msgctxt "sZAPBUTTON_VOLUMEUP"
-msgid "Volume up"
-msgstr "Բարձրացնել ձայնը"
-
-msgctxt "sZAPBUTTON_VOICEMAIL"
-msgid "Voice messages"
-msgstr "Ձայնային փոստ"
-
 msgctxt "sZAPBUTTON_TEST"
 msgid "Test"
 msgstr "Ստուգել"
@@ -6197,18 +5246,6 @@ msgstr "Ստուգել"
 msgctxt "sZAPBUTTON_WEBCAMMIC"
 msgid "Use webcam microphone"
 msgstr "Օգտագործել վեբ-խցիկի խոսափողը"
-
-msgctxt "sZAPBUTTON_WHATSNEW"
-msgid "See what's new in Skype"
-msgstr "Ի՞նչ նորություն կա  Skype-ում"
-
-msgctxt "sZAPBUTTON_RETURN"
-msgid "Return"
-msgstr "Ետ"
-
-msgctxt "sZAPBUTTON_MAKECALL"
-msgid "Make call with Skype"
-msgstr "Զանգահարել Skype-ով"
 
 msgctxt "sZAPBUTTON_ALLOWACCESS"
 msgid "Allow access"
@@ -6225,50 +5262,6 @@ msgstr "Գործընկեր"
 msgctxt "sZAPBUTTON_FEEDBACK"
 msgid "Give feedback"
 msgstr "Հետադարձ կապ"
-
-msgctxt "sZAPBUTTON_ALERTS"
-msgid "Notifications"
-msgstr "Ծանուցումներ"
-
-msgctxt "sZAPBUTTON_WINDOWCLOSE"
-msgid "Close"
-msgstr "Փակել"
-
-msgctxt "sZAPBUTTON_WINDOWMINIMIZE"
-msgid "Minimize"
-msgstr "Թաքցնել"
-
-msgctxt "sZAPBUTTON_WINDOWMAXIMIZE"
-msgid "Maximize"
-msgstr "Վերականգնել"
-
-msgctxt "sZAPBUTTON_WINDOWSEPARATE"
-msgid "Separate"
-msgstr "Բաժանել"
-
-msgctxt "sZAPBUTTON_WINDOWUNITE"
-msgid "Unite"
-msgstr "Միավորել"
-
-msgctxt "sZAPBUTTON_UNMUTEMIC"
-msgid "Unmute your microphone"
-msgstr "Միացրեք խոսափողը"
-
-msgctxt "sZAPBUTTON_UNMUTESPEAKERS"
-msgid "Unmute your speakers"
-msgstr "Միացրեք բարձրախոսները"
-
-msgctxt "sZAPBUTTON_INVITEADDCONTACT"
-msgid "Yes, please"
-msgstr "Այո"
-
-msgctxt "sZAPBUTTON_INVITEDONTADD"
-msgid "No, thanks"
-msgstr "Ոչ"
-
-msgctxt "sZAPBUTTON_INVITEADDMORE"
-msgid "Add more contacts"
-msgstr "Ավելացնել այլ կոնտակներ"
 
 msgctxt "sZAPBUTTON_INVITENOTIFACCEPT"
 msgid "Add to contacts"
@@ -6306,10 +5299,6 @@ msgctxt "sZAPBUTTON_SKYPEWIFICONNECT"
 msgid "Connect"
 msgstr "Կապակցվել"
 
-msgctxt "sZAPBUTTON_SKYPEWIFIDISCONNECT"
-msgid "Disconnect"
-msgstr "Անջատել"
-
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
 msgstr "Տեսազանգ"
@@ -6325,6 +5314,34 @@ msgstr "Չեղարկել"
 msgctxt "sZAPBUTTON_NOVIDM"
 msgid "No, thanks"
 msgstr "Ոչ"
+
+msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
+msgid "Send quality feedback"
+msgstr "Արձագանքել որակի մասին"
+
+msgctxt "sZAPBUTTON_CLOSEWINDOW"
+msgid "Close"
+msgstr "Փակել"
+
+msgctxt "sZAPBUTTON_CM_RESUME"
+msgid "Resume call"
+msgstr "Շարունակել խոսակցությունը"
+
+msgctxt "sZAPBUTTON_REMOVEFROMFAVOURITESBTN"
+msgid "Remove contact from favourites"
+msgstr "Հեռացնել ընտրյալներից"
+
+msgctxt "sZAPBUTTON_ADDTOFAVOURITESBTN"
+msgid "Add contact to favourites"
+msgstr "Ավելացնել ընտրյալներում"
+
+msgctxt "sZAPBUTTON_SEARCHSKYPE"
+msgid "Search Skype"
+msgstr "Փնտրել Skype-ում"
+
+msgctxt "sZAPBUTTON_DONE"
+msgid "Done"
+msgstr "Պատրաստ է"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -6572,8 +5589,8 @@ msgstr "%s հեռախոսահամարը որդեն առկա է Կոնտակտն�
 msgctxt "sF_OPTIONS_WEBCAM_NOT_FOUND"
 msgid ""
 "Skype couldn't find a webcam. With a webcam, you can make free video calls "
-"to anyone else on Skype, anywere in the world."
-msgstr "Skype-ը չի գտել վեբ-խցիկ։ Վեբ-խցիկի միջոցով Դուք կարող եք Skype-ի միջոցով տեսազանգ կատարել Ձեր ընկերներին ամբողջ աշխարհում։"
+"to anyone else on Skype, anywhere in the world."
+msgstr "Skype-ը չի կարողանում գտնել խցիկը: Վեբխցիկով կարող եք անվճար զանգեր կատարել Skype-ի ցանկացած օգտվողի:"
 
 msgctxt "sF_OPTIONS_ABOUT_VIDEO_CALL"
 msgid "Find out more about video calls"
@@ -6618,12 +5635,6 @@ msgstr "%d չստացվեց"
 msgctxt "sSMS_FAILED_RETRY"
 msgid "Try again"
 msgstr "Փորձեք կրկին"
-
-msgctxt "sSMS_NO_CREDIT"
-msgid ""
-"You need Skype Credit to send text messages (SMS). <a "
-"href=\"skype:?payments\">Buy Skype Credit now</a>"
-msgstr "Տեքստային հաղորդագրություններ (SMS-ներ) ուղարկելու համար, Skype-ի Ձեր Հաշվին պետք է լինի գումար: <a href=\"skype:?payments\">Լիցքավորել Skype-ի Հաշիվը</a>"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_TOO_MANY"
 msgid "Sending too many files at once."
@@ -6754,18 +5765,6 @@ msgctxt "sOPTIONS_AUDIO_DEVICE_NONE"
 msgid "None"
 msgstr "Ոչ"
 
-msgctxt "sAUTHORIZE_REQUEST_CAPTION"
-msgid "%s has added you as a contact."
-msgstr "%s-ը ձեզ հավելել է իր Հասցեագրքում։"
-
-msgctxt "sAUTHORIZE_COPY_REQUEST"
-msgid "Copy"
-msgstr "Պատճենել"
-
-msgctxt "sF_AUTH_BTN_UNBLOCK"
-msgid "Unblock"
-msgstr "Ապաարգելափակել"
-
 msgctxt "sOPTIONS_AUDIO_ADVANCED_LBL"
 msgid ""
 "List your audio devices in order of preference. Skype will use the first "
@@ -6793,10 +5792,6 @@ msgctxt "sCALLALERT_ADDTOCONF"
 msgid "Add to group call"
 msgstr "Ավելացնել խմբային զանգում"
 
-msgctxt "sF_IMPORTCONTACTS_LB_TITLE"
-msgid "Find your friends"
-msgstr "Փնտրել ընկերներին"
-
 msgctxt "sMAINMENU_SKYPE"
 msgid "Skype"
 msgstr "Skype"
@@ -6814,8 +5809,8 @@ msgid "Privacy..."
 msgstr "Անվտանգություն…"
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
-msgid "Account..."
-msgstr "Հաշիվ…"
+msgid "My account"
+msgstr "Իմ հաշիվը"
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -7041,25 +6036,9 @@ msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
 msgstr "Գործիքներ"
 
-msgctxt "sMAINMENU_TOOLS_EXTRAS"
-msgid "Apps"
-msgstr "Ծրագրեր"
-
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
 msgstr "Փոխել լեզուն"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY"
-msgid "Accessibility"
-msgstr "Մատչելիությունը"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_NAVIGATION"
-msgid "Extended Keyboard Navigation"
-msgstr "Ուղղորդում լրացուցիչ ստեղնաշարով"
-
-msgctxt "sMAINMENU_TOOLS_SHARE"
-msgid "Share Skype with a Friend..."
-msgstr "Պատմել Skype-ի մասին ընկերներին…"
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
@@ -7196,8 +6175,10 @@ msgid ""
 msgstr "Սխալ՝ ուղարկելիս։ Չեք կարող ուղարկել թղթապանակներ, ինչպես նաև այլ ծրագրերի կողմից օգտագործվող ֆայլեր։"
 
 msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
-msgid "Too many parallel file sendings"
-msgstr "Միաժամանակ ուղարկվում են շատ ֆայլեր"
+msgid ""
+"You cannot send any more files until your existing file transfers have "
+"finished."
+msgstr "Քանի դեռ ֆայլի փոխանցումը չի ավարտվել այլ ֆայլեր չեք կարող ուղարկել:"
 
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
@@ -7305,8 +6286,8 @@ msgid "%d conversations"
 msgstr "%d խոսակցություններ"
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
-msgid "Finished"
-msgstr "Ավարտված"
+msgid "Call ended"
+msgstr "Զանգը ավարտվել է"
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
@@ -7368,8 +6349,8 @@ msgid "Default View"
 msgstr "Հիմնական տեսքով"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
-msgid "Compact View"
-msgstr "Կոմպակտ տեսքով"
+msgid "Split Window View"
+msgstr "Տրոհված պատուհանով դիտում"
 
 msgctxt "sTRAYALERT_NONEW"
 msgid "No new conversations"
@@ -7510,20 +6491,6 @@ msgctxt "sF_OPTIONS_RING_ALL_DEVICES"
 msgid "Ring on all devices"
 msgstr "Զանգել բոլոր սարքերին"
 
-msgctxt "sAUTHORIZATION_PANEL_TIP"
-msgid ""
-"You can control who can contact you in your <a "
-"href=\"skype:?options#privacy\">privacy settings</a>."
-msgstr "Կարող եք ղեկավարել, թե ով կարող է զանգել և ուղարկել ձեզ գրություններ՝ <a href=\"skype:?options#privacy\">անվտանգության կարգավորումներում</a>։"
-
-msgctxt "sAUTHORIZATION_PANEL_COMMENT"
-msgid "Clicking Add to Contacts means this person can see when you are online"
-msgstr "Եթե դուք սեղմեք Ավելացնել կոնտակտների ցանկում, ապա օգտվողը կարող է տեսնել, թե դուք երբ եք լինում առցանց:"
-
-msgctxt "sAUTHORIZE_BLOCKED_CAPTION2"
-msgid "%s is on your blocked list"
-msgstr "%s-ը գտնվում է սև ցուցակում"
-
 msgctxt "sCONVERSATION_SPAWNED_CONFERENCE2"
 msgid "%s created a group conversation"
 msgstr "%s-ը ստեղծել է խմբային խոսակցություն"
@@ -7662,10 +6629,6 @@ msgctxt "sDIALPAD_CALL"
 msgid "Call"
 msgstr "Զանգել"
 
-msgctxt "sDIALPAD_SMS"
-msgid "SMS"
-msgstr "SMS"
-
 msgctxt "sFILESIZE_PREFIXES"
 msgid "\\k\\M\\G\\T"
 msgstr "\\Կ\\Մ\\Գ\\Տ"
@@ -7789,18 +6752,6 @@ msgstr "<b>Աղքատ</b><br />Զանգի ժամանակ ծագել են խնդ�
 msgctxt "sF_CALL_QLT_LBL2_VERY_BAD"
 msgid "<b>Very bad</b><br />Problems so bad the call was impossible"
 msgstr "<b>Շատ վատ</b><br />Լուրջ խնդիրներ են ձագել, որի պատճառով հնարավոր չի եղել զանգել։"
-
-msgctxt "sF_OPTIONS_LBL_VISUAL_STYLE"
-msgid "Visual style of the window"
-msgstr "Պատուհանի տեսքը"
-
-msgctxt "sF_OPTIONS_RB_CHROME_SKYPE"
-msgid "Skype"
-msgstr "Skype"
-
-msgctxt "sF_OPTIONS_RB_CHROME_DEFAULT"
-msgid "Classic Windows"
-msgstr "Դասական Windows"
 
 msgctxt "sF_CALL_QLT_LBL_CHOOSE_PROBLEMS"
 msgid "Choose all that apply."
@@ -8123,14 +7074,6 @@ msgctxt "sPROFILE_EMERGENCY_CALL2"
 msgid "You appear to be attempting to make an emergency call (%s) in %s"
 msgstr "Դուք փորձում եք կատարել արտակարգ զանգ (%s) հետևյալ երկրում՝ %s"
 
-msgctxt "sSINGLE_WINDOW_MODE_BUTTON_HINT"
-msgid "Default View"
-msgstr "Հիմնական տեսքով"
-
-msgctxt "sMULTI_WINDOW_MODE_BUTTON_HINT"
-msgid "Compact View"
-msgstr "Կոմպակտ տեսքով"
-
 msgctxt "sPROFILE_HEADER_EMERGENCY_CALL"
 msgid "Emergency Call"
 msgstr "Արտակարգ զանգ"
@@ -8167,48 +7110,14 @@ msgctxt "sACC_HIDE_CONVERSATION_PROFILE"
 msgid "Hide conversation profile"
 msgstr "Թաքցնել խոսակցության պրոֆիլը"
 
-msgctxt "sACC_SHOW_CONTACT_PROFILE"
-msgid "Display contact profile"
-msgstr "Ցուցադրել բաժանորդի անհատական տվյալները "
-
-msgctxt "sACC_HIDE_CONTACT_PROFILE"
-msgid "Hide contact profile"
-msgstr "Թաքցնել կոնտակտի պրոֆիլը"
-
-msgctxt "sACC_PROFILE_MOODMESSAGE"
-msgid "MoodMessage"
-msgstr "Տրամադրության ցուցիչը"
-
 msgctxt "sINVITE_HEADING1"
 msgid "Add <b>%s</b> to your contacts"
 msgstr "Ավելացնել <b>%s</b>-ին կոնտակտների ցանկում"
-
-msgctxt "sINVITE_HEADING2"
-msgid "1 new contact added"
-msgstr "Ավելացված է 1 նոր կոնտակտ"
-
-msgctxt "sINVITE_CONTACT_CAPTION"
-msgid ""
-"You received an email invitation from <b>%s</b>.<br />Would you like to add "
-"this person as a contact on Skype?"
-msgstr "Էլ. փոստով հրավեր եք ստացել <b>%s</b>-ից։<br /> Ավելացնել այս մարդուն Skype-ի Ձեր կոնտակներում։"
 
 msgctxt "sINVITE_REQUEST_TEXT"
 msgid ""
 "Your email contact %s is now on Skype. Please add them to your Contact list."
 msgstr "Ձեր փոստային ծրագրի %s կոնտակտը այժմ Skype-ում է։ Ավելացրեք նրան(ց) Ձեր Հասցեագրքում։"
-
-msgctxt "sINVITE_ADDED_CAPTION1"
-msgid "Find them in your Contact list and send them messages"
-msgstr "Գտեք այս մարդկանց Ձեր Հասցեագրքում և ուղարկեք նրանց գրություններ։"
-
-msgctxt "sINVITE_ADDED_CAPTION2"
-msgid "Until they OK you as a contact, they look like this"
-msgstr "Մինչև նրանք ձեզ չավելացնեն իրենց կոնտակտներում կերևան այսպես՝"
-
-msgctxt "sINVITE_ADDED_CAPTION3"
-msgid "When they OK you, see when they're online and call them for free"
-msgstr "Երբ նրանք ձեզ ավելացնեն իրենց կոնտակների ցանկում՝ Դուք կկարողանաք տեսնել նրանց Skype-ում և զանգել անվճար։"
 
 msgctxt "sINVITE_NOTIFICATION"
 msgid ""
@@ -8257,20 +7166,12 @@ msgid "No speakers detected."
 msgstr "Բարձրախոսները չեն հայտնաբերվել:"
 
 msgctxt "sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3"
-msgid "Automatically receive video and share screens with..."
-msgstr "Ընդունել տեսապատկերը և էկրանի դիտումը՝"
+msgid "Automatically receive video and share screens with"
+msgstr "Ինքնաշխատ ստանալ տեսազանգ և համաօգտագործել էկրանները"
 
 msgctxt "sVIDEO_BTN_SHOW_HERE"
 msgid "Show here"
 msgstr "Ցուցադրել այստեղ"
-
-msgctxt "sACC_DROPDOWBUTTON_DESCIPTION"
-msgid "To press use spacebar"
-msgstr "Սեղմելու համար օգտագործեք բացատը"
-
-msgctxt "sACC_MYSELF_MOOD_DESCRIPTION"
-msgid "To edit use spacebar"
-msgstr "Խմբագրելու համար օգտագործեք բացատը"
 
 msgctxt "sNOTIF_RECEIVED_SINGLE_CONTACT"
 msgid "New contact: %s"
@@ -8291,22 +7192,6 @@ msgstr "%d կոնտակտներ ուղարկվել են խումբ"
 msgctxt "sF_OPTIONS_CF_ERROR6"
 msgid "You are not allowed to forward calls to Skype Test Call"
 msgstr "Չեք կարող փոխանցել զանգերը՝ Skype Test Call-ին"
-
-msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
-msgid "In call"
-msgstr "Մուտքային զանգ"
-
-msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
-msgid "On hold"
-msgstr "Սպասման վիճակում "
-
-msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
-msgid "Muted"
-msgstr "Ձայնը անջատված է"
-
-msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
-msgid "Missed call"
-msgstr "Բաց թողնված զանգ"
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
@@ -8343,14 +7228,6 @@ msgstr "Windows -ի կոճակը չի կարող օգտագործվել որպե
 msgctxt "sUSER_IN_CONTACTS"
 msgid "This user is already in your contact list"
 msgstr "Այս օգտվողը արդեն առկա է Ձեր կոնտակտներում"
-
-msgctxt "sCHATITEM_DESCRIPTION_FROM"
-msgid "From %s"
-msgstr "%s-ից"
-
-msgctxt "sCHATITEM_DESCRIPTION_TIMESTAMP"
-msgid "at %s"
-msgstr "ուղարկված՝ %s-ից"
 
 msgctxt "sCHATITEM_DESCRIPTION_REMOVED"
 msgid "Removed by %s at %s"
@@ -8492,33 +7369,9 @@ msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype WiFi..."
 msgstr "Skype WiFi..."
 
-msgctxt "sALERTS_TITLE"
-msgid "Notifications"
-msgstr "Ծանուցումներ"
-
-msgctxt "sUSERCREATE_NAME_HINT"
-msgid "6-32 characters needed"
-msgstr "6-ից մինչև 32 նշան"
-
 msgctxt "sUSERCREATE_PWD_HINT"
 msgid "6-20 characters needed"
 msgstr "6-ից մինչև 32 նշան"
-
-msgctxt "sUSERCREATE_FULLNAME_HINT"
-msgid "Enter your name"
-msgstr "Մուտքագրեք Ձեր լրիվ անունը"
-
-msgctxt "sUSERCREATE_ERROR_NAMETOOSHORT"
-msgid "Too short: 6 characters min."
-msgstr "Ոչ բավարար նշաններ. Պետք է պարունակի 6-ից շատ նշաններ:"
-
-msgctxt "sUSERCREATE_ERROR_NAMETOOLONG"
-msgid "Too long: 32 characters max."
-msgstr "Չափից շատ նշան. Պետք է պարունակի 32-ից ոչ ավել նշան:"
-
-msgctxt "sUSERCREATE_ERROR_NAMEINVALIDCHAR"
-msgid "Can only contain A-z 0-9 - _ ."
-msgstr "Հասանելի են միայն տվյալ նշանները: A-z 0-9 - _ ։"
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid "Too short: 6 characters min."
@@ -8563,10 +7416,6 @@ msgstr "Գաղտնաբառերը չեն համապատասխանում"
 msgctxt "sUSERCREATE_ERROR_WRONGFIRSTCHAR"
 msgid "Must begin with a letter (A-z)"
 msgstr "Պետք է սկսվի տառով (A-z)"
-
-msgctxt "sUSERENTRY_GETHELP"
-msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
-msgstr "<a href=\"skype:?go#help.password.faq1\">Օգնություն</a>"
 
 msgctxt "sF_OPTIONS_NOTIF_ALERT"
 msgid "sends me a message"
@@ -8662,118 +7511,9 @@ msgctxt "SCQGUIDE_BACK_TO_MAINSCREEN"
 msgid "Return to main screen"
 msgstr "Վերադառնալ գլխավոր պատուհանին"
 
-msgctxt "sCQGUIDE_ACC_EXPAND"
-msgid "Use spacebar to expand"
-msgstr "Ցուցադրելու համար օգտագործեք ԲԱՑԱՏ ստեղնը"
-
-msgctxt "sCQGUIDE_ACC_COLLAPSE"
-msgid "Use spacebar to collapse"
-msgstr "Թաքցնելու համար օգտագործեք ԲԱՑԱՏ ստեղնը"
-
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS_1"
 msgid "Display a notification in the Windows tray when Skype..."
 msgstr "Ցուցադրել տեղեկացում էկրանի ներքևում, երբ Skype-ը՝"
-
-msgctxt "sF_USERENTRY_BUTTON_CREATE"
-msgid "Create account"
-msgstr "Ստեղծել հաշիվ"
-
-msgctxt "sF_USERENTRY_BUTTON_AGREE"
-msgid "I agree - create account"
-msgstr "Ես համաձայն եմ ստեղծել հաշիվ"
-
-msgctxt "sF_USERENTRY_BUTTON_CONTINUE"
-msgid "OK"
-msgstr "ԼԱՎ"
-
-msgctxt "sF_USERENTRY_ERROR_GENERAL"
-msgid "There was a problem creating your account. Please try again."
-msgstr "Հաշվի ստեղծման ընթացքում առաջացել է խնդիր: Փորձեք կրկին:"
-
-msgctxt "sF_USERENTRY_EMAIL_HINT"
-msgid "Enter a valid email address"
-msgstr "Մուտքագրեք գործող էլ. փոստի հասցե"
-
-msgctxt "sF_USERENTRY_REPEAT_EMAIL"
-msgid "Repeat email"
-msgstr "Մուտքագրեք էլ. փոստի հասցեն կրկին"
-
-msgctxt "sF_USERENTRY_HINT1"
-msgid "Note: anyone can see this information. Please fill in all fields."
-msgstr "Հուշում. Այս տեղեկությունը հասանելի է բոլորին: Խնդրում ենք լրացնել բոլոր դաշտերը:"
-
-msgctxt "sF_USERENTRY_HINT2"
-msgid "Note: only you can see this information. Please fill in all fields."
-msgstr "Հուշում. Այս տեղեկությունը կարող եք տեսնել միայն Դուք: Խնդրում ենք լրացնել բոլոր դաշտերը:"
-
-msgctxt "sF_USERENTRY_HINT3"
-msgid ""
-"Note: anyone can see this information. It's optional, so you don't have to "
-"enter it."
-msgstr "Հուշում. Այս տեղեկությունը հասանելի է բոլորին: Այս դաշտերը պարտադիր չէ լրացնել:"
-
-msgctxt "sF_USERENTRY_HINT4"
-msgid ""
-"Note: only your contacts can see this information. Filling it in is "
-"optional."
-msgstr "Հուշում. Տեսնում են միայն Ձեր կոնտակտները: Լրացնելը պարտադիր չէ:"
-
-msgctxt "sF_USERENTRY_PHONE_HINT"
-msgid "Enter %s's phone number."
-msgstr "Մուտքագրեք %s-ի հեռախոսահամարը "
-
-msgctxt "sF_USERENTRY_PHONE_HINT2"
-msgid "Enter the phone number with country or region code."
-msgstr "Մուտքագրեք հեռախոսահամարը երկրամասի կամ երկրի կոդով"
-
-msgctxt "sF_USERENTRY_PROFILE_HINT1"
-msgid ""
-"When your friends search for you on Skype, this information helps you stand "
-"out from other people who share your name."
-msgstr "Երբ ձեր ծանոթները փնտրեն ձեզ Skype-ում՝ այս տեղեկությունը կօգնի գտնելու ձեզ։"
-
-msgctxt "sF_USERENTRY_PROFILE_HINT2"
-msgid ""
-"If you enter your birth date, Skype sends your friends a reminder when it's "
-"your birthday."
-msgstr "Եթե դուք մուտքագրեք ձեր ծննդյան օրը, ամիսը, տարին, ապա Skype-ը կհիշեցնի ձեր ընկերներին դրա մասին:"
-
-msgctxt "sF_USERENTRY_PROFILE_HINT3"
-msgid ""
-"Enter your mobile number so your contacts can call you when you're offline."
-msgstr "Մուտքագրեք ձեր բջջայինի հեռախոսահամարը, որպեսզի ձեր կոնտակտները կարողանան զանգահարել ձեզ, երբ դուք լինեք անցանց:"
-
-msgctxt "sF_USERENTRY_SUGGEST1"
-msgid "Skype Name not available"
-msgstr "Skype-ի այս անունը հասանելի չէ"
-
-msgctxt "sF_USERENTRY_BIRTHDAY"
-msgid "Birthday"
-msgstr "Ծննդյան օր"
-
-msgctxt "sF_USERENTRY_PHONE"
-msgid "Mobile phone number"
-msgstr "Բջջայինի հեռախոսահամարը"
-
-msgctxt "sF_USERENTRY_PHONE_ERROR"
-msgid "Invalid phone number"
-msgstr "Չգործող հեռախոսահամար"
-
-msgctxt "sF_USERENTRY_EMAIL_OK"
-msgid "Email OK"
-msgstr "Էլ. փոստը ճիշտ է"
-
-msgctxt "sF_USERENTRY_EMAIL_INVALID"
-msgid "Invalid email address"
-msgstr "Չգործող էլ. փոստի հասցե"
-
-msgctxt "sF_USERENTRY_EMAIL_MATCH"
-msgid "Emails match"
-msgstr "Էլ. փոստի հասցեները համապատասխանում են"
-
-msgctxt "sF_USERENTRY_EMAIL_NO_MATCH"
-msgid "Emails don't match"
-msgstr "Էլ. փոստի հասցեները չեն համապատասխանում"
 
 msgctxt "sCHAT_HISTORY_3M"
 msgid "3 months"
@@ -8815,14 +7555,6 @@ msgctxt "sCALL_TOOLBAR_TRANSFERRING"
 msgid "Call is being transferred"
 msgstr "Զանգը փոխանցվում է"
 
-msgctxt "sACC_CQGUIDE_LIST_BOX_DESC"
-msgid "Use Up or Down arrows to navigate through list items"
-msgstr "Ցանկում ուղղորդվեք  Up կամ  Down-ի միջոցով"
-
-msgctxt "sF_USERENTRY_INFO_PROFILE"
-msgid "Set up your Skype profile"
-msgstr "Skype-ի պրոֆիլի կարգավորում"
-
 msgctxt "sCALLALERT_TRANSFER_BY"
 msgid "Call transfer from <b>%s</b>"
 msgstr "Զանգը փոխանցվել է <b>%s</b>-ից"
@@ -8839,10 +7571,6 @@ msgctxt "sGROUP_CALL_REJECTED_IN"
 msgid "Group call declined."
 msgstr "Խմբային զանգը մերժվել է։"
 
-msgctxt "sAUTH_REQUEST_MSG_HEADER"
-msgid "This person would like to connect with you"
-msgstr "Այս օգտվողը ցանկանում է ընդգրկվել ձեր կոնտակտների ցանկում"
-
 msgctxt "sSKYACCESS_TRAY_HOTSPOT_DETECTED"
 msgid "You can use Skype Credit to pay for internet access."
 msgstr "Դուք կարող եք վճարել համացանց մուտքի համար Skype-ի Հաշվից։"
@@ -8858,10 +7586,6 @@ msgstr "Դուրս գալ Skype-ից"
 msgctxt "sTASKBAR_MENU_SKYACCESS"
 msgid "Skype WiFi..."
 msgstr "Skype WiFi…"
-
-msgctxt "sTRAYALERT_AUTH_REQUEST"
-msgid "New contact request"
-msgstr "Նոր կոնտակտի հարցում"
 
 msgctxt "sLIVE_B_FULLSCREEN"
 msgid "Full screen"
@@ -8925,8 +7649,8 @@ msgctxt "sCQ_MIC_ON_MUTE_ON_CALL_DESC"
 msgid ""
 "Plug in your microphone, switch it on, and check you've selected it in your "
 "microphone settings. Check your mic isn't muted in your computer's volume "
-"settings, or check  your microphone for a mute switch and press it."
-msgstr "Միացրեք բարձրախոսը և համոզվեք, որ այն ընտրված է բարձրախոսի կարգավորումներում։ Համոզվեք, արդյոք անջատված չէ բարձրախոսի ձայնը համակարգչի ձայնի կարգավորումներում։"
+"settings, or check your microphone for a mute switch and press it."
+msgstr "Միացրեք խոսափողը և համոզվեք, որ ընտրել եք այն կարգավորումներում: Ստուգեք՝ արդյոք խոսափողի ձայնը անջատած չէ:"
 
 msgctxt "sCQ_CANT_ADJUST_MIC_OFF_CALL_TITLE"
 msgid "Skype can't adjust your microphone level"
@@ -9164,14 +7888,6 @@ msgid ""
 "Not seeing each other's video? You should both turn your video off then on "
 "again, or plug your webcams into a different USB port and restart."
 msgstr "Չե՞ք տեսնում զրուցակցին։ Երկուսդ էլ պետք է նախ անջատեք, ապա միացնեք վեբ-խցիկը և փորձեք միացնել վեբ-խցիկը այլ USB բնիկի և վերաբացել Skype-ը։"
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_TITLE"
-msgid ""
-msgstr "9b96663de7083a7fa7853fefcce1cb2d_tr"
-
-msgctxt "sCQ_COMPUTER_SPEED_UNKNOWN_DESC"
-msgid ""
-msgstr ""
 
 msgctxt "sCQ_COMPUTER_SPEED_VERY_LOW_TITLE"
 msgid "Your computer speed is very slow"
@@ -9421,17 +8137,15 @@ msgctxt "sFLOW_CALLTRANSFER_REJECTED_IN"
 msgid "Call transferred by %s declined."
 msgstr "%s-ին փոխանցված զանգը անջատվել է։"
 
-msgctxt "sF_USERENTRY_LB_PROGRESS"
-msgid "Checking your Skype Name is available"
-msgstr "Ստուգվում է, արդյոք ազատ է Skype-ի այս անունը"
-
 msgctxt "sTRANSFER_THIS_CALL"
 msgid "Transfer this call"
 msgstr "Փոխանցել այս զանգը"
 
 msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
-msgid "Failed to log in. Check your Skype Name or password"
-msgstr "Չստացվեց մուտք գործել Skype: Ստուգեք Skype-ի Ձեր անունւը կամ գաղտնաբառը"
+msgid ""
+"Unable to sign in, Check your Skype Name and password are correct and try "
+"again."
+msgstr "Հնարավոր չէ մուտք գործել: Ստուգեք Skype-ի անունը և գաղտնաբառը և կրկին փորձեք:"
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
@@ -9447,7 +8161,7 @@ msgstr "Տեսապատկերը"
 
 msgctxt "sCQ_INDICATOR_NET_BUTTON_HINT"
 msgid "Internet connection"
-msgstr "Միացում համացանցին"
+msgstr "Կապակցում համացանցին"
 
 msgctxt "sCQ_INDICATOR_CPU_BUTTON_HINT"
 msgid "Computer speed"
@@ -9564,10 +8278,6 @@ msgctxt "sCALL_TRANSFER_NO_FUNDS2"
 msgid ""
 "Try calling back. The person who transferred the call has run out of credit."
 msgstr "Փորձեք զանգահարել կրկին: Ձեզ զանգահարողի մոտ սպառվեց գումարը:"
-
-msgctxt "sUSERCREATE_ERROR_NOFULLNAME"
-msgid "Please fill in your full name"
-msgstr "Մուտքագրեք ձեր անուն ազգանունը"
 
 msgctxt "sSMS_FAILED_CHECK"
 msgid "Check number"
@@ -9727,12 +8437,6 @@ msgid ""
 "video."
 msgstr "Զրուցակիցը ձեզ դեռ չի տեսնում։ Սեղմեք ներքևի ստեղնը՝ տեսապատկերի համար։"
 
-msgctxt "sCONVERSATION_PARTNER_NOT_BUDDY"
-msgid ""
-"Want to message this person? <a href=\"skype:%s?add\">Add them as a contact "
-"first</a>."
-msgstr "Ցանկանու՞մ եք այս օգտվողին ուղարկել հաղորդագրություն։ <a href=\"skype:%s?add\">Նախ ընդգրկեք նրան կոնտակտների ձեր ցանկում</a>։"
-
 msgctxt "sSNAPSHOT_OF_ME"
 msgid "Picture of me"
 msgstr "Իմ նկարը"
@@ -9740,10 +8444,6 @@ msgstr "Իմ նկարը"
 msgctxt "sOPTIONS_SMS_STATUS_LB11"
 msgid "This number has already been verified"
 msgstr "Այս համարը արդեն ստուգված է"
-
-msgctxt "sMAINMENU_FLAMINGO_OPEN"
-msgid "Facebook Updates"
-msgstr "Լուրեր Facebook-ից"
 
 msgctxt "sFLAMINGO_CAPTION"
 msgid "Facebook"
@@ -9857,8 +8557,9 @@ msgstr "Դուք տեսնում եք տեսապատկերը, քանի որ %s-ը
 
 msgctxt "sPREM_VIDEO_UPRGADE"
 msgid ""
-"Some people on the call need to get Skype 5.0 or higher to use group video."
-msgstr "Զանգի որոշ մասնակիցներ պետք է տեղակայեն Skype 5.0 կամ ավելի նոր տարբերակ՝ տեսազանգի համար։"
+"Some people on the call are unable to see group video. They may need to "
+"update Skype or use a supported device."
+msgstr "Զանգին մասնակցող որոշ անձիք չեն կարող տեսնել խմբային տեսանյութը: Հնարավոր է, պետք է թարմացնել Skype-ը:"
 
 msgctxt "sPREM_VIDEO_TOO_MANY_PARTICIPANTS"
 msgid "Video is only supported on calls with up to %d people."
@@ -9918,10 +8619,6 @@ msgid ""
 "group video calls again from next month."
 msgstr "Դուք սպառել եք տեսազանգի ամսական 100 ժամյա սահմանափակումը։ Սպասեք մյուս ամսվան։"
 
-msgctxt "sMYSELF_PROFILE_LOCATION"
-msgid "Location"
-msgstr "Գտնվելու վայրը"
-
 msgctxt "sMYSELF_PROFILE_CONTACTS"
 msgid "Contacts"
 msgstr "Կոնտակտներ"
@@ -9929,14 +8626,6 @@ msgstr "Կոնտակտներ"
 msgctxt "sMYSELF_PROFILE_VOICEMAIL_LINK"
 msgid "Set up voice messaging"
 msgstr "Ձայնային փոստի կարգավորումներ"
-
-msgctxt "sMYSELF_PROFILE_CALLER_ID_LINK"
-msgid "Set up caller ID"
-msgstr "Կարգավորել զանգողի որոշիչը"
-
-msgctxt "sMYSELF_PROFILE_CALL_FORWARD_LINK"
-msgid "Set up call forwarding"
-msgstr "Կարգավորել զանգերի փոխանցումը"
 
 msgctxt "sMYSELF_PROFILE_CALL_TIME"
 msgid "Time"
@@ -10023,25 +8712,9 @@ msgctxt "sPROFILE_PRIVACY_PRIVATE_LONG"
 msgid "Private - visible only to you"
 msgstr "Անվտանգությունը - տեսանելի է միայն ձեզ"
 
-msgctxt "sPROFILE_AVARAR_LABEL"
-msgid "Picture"
-msgstr "Նկար"
-
 msgctxt "sPROFILE_MOOD_LABEL"
 msgid "Mood"
 msgstr "Կարգավիճակ"
-
-msgctxt "sPROFILE_SKYPENAME_LABEL"
-msgid "Skype Name"
-msgstr "Skype-ի անուն"
-
-msgctxt "sPROFILE_ADD_EMAIL_LINK"
-msgid "Add another email address"
-msgstr "Ավելացնել էլ. հասցե"
-
-msgctxt "sPROFILE_ACCOUNT_LABEL"
-msgid "Account"
-msgstr "Հաշիվ"
 
 msgctxt "sMAINMENU_SHOW_HIDDEN_CONV"
 msgid "Show Hidden Conversations"
@@ -10065,9 +8738,9 @@ msgstr "Թաքցնել խոսակցությունը"
 
 msgctxt "sINFO_CONV_HIDE_TEXT"
 msgid ""
-"To add a hidden conversations back to the Recent list, select View » Show "
+"To add a hidden conversation back to the Recent list, select View » Show "
 "Hidden Conversations from the main menu."
-msgstr "Ցանկում թաքցված խոսակցությունները ցուցադրելու համար գլխավոր ընտրացանկում ընտրեք Տեսքը » Ցուցադրել թաքցված խոսակցությունները։"
+msgstr "Թաքնված զրույցը Վերջինը ցանկ տեղափոխելու համար նշեք Տեսքը » Ցուցադրել թաքնված զրույցը:"
 
 msgctxt "sINFO_CONV_HIDE_CAPTION"
 msgid "Show conversations"
@@ -10104,14 +8777,6 @@ msgstr "%s-ը չկա Կոնտակտների ձեր ցանկում։"
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
 msgstr "Փակել %s-ը"
-
-msgctxt "sCONTACT_NOTIFICATION"
-msgid "Contact request"
-msgstr "Կոնտակտի հարցում"
-
-msgctxt "sCONTACT_NOTIFICATION_MANY"
-msgid "Contact requests"
-msgstr "Կոնտակտների հարցում"
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_VIDEO_TITLE"
 msgid "The connection between you is too slow for good video."
@@ -10171,15 +8836,6 @@ msgid ""
 "while we try to get the call back."
 msgstr "Առաջացել են համացանցի խնդիրներ երկուսիդ միջև: Սպասեք, մենք փորձում ենք վերականգնել կապը:"
 
-msgctxt "sAUTH_REQUEST_EMAIL_COMPANY"
-msgid ""
-"<b>%s</b> registered with Skype as an employee of <b>%s</b> under <b>%s</b>"
-msgstr "<b>%s</b> Skype-ում գրանցված է որպես <b>%s</b>ընկերության աշխատակից՝ <b>%s</b>էլ. փոստով"
-
-msgctxt "sAUTH_REQUEST_EMAIL"
-msgid "<b>%s</b> registered with Skype under the email <b>%s</b>"
-msgstr "<b>%s</b>-ը զբաղված է՝ գրանցված Skype-ում հետևյալ էլ. փոստի հասցեով՝ <b>%s</b>"
-
 msgctxt "sNO_CONVERSATIONS"
 msgid "No recent conversations"
 msgstr "Հին խոսակցություններ չկան"
@@ -10187,10 +8843,6 @@ msgstr "Հին խոսակցություններ չկան"
 msgctxt "sINBOX_OLDER_THAN_A_WEEK"
 msgid "Older than a week"
 msgstr "Մեկ շաբաթից ավելի վաղ"
-
-msgctxt "sPROFILE_ADD_EMAIL_TEXT"
-msgid "(Makes it easier to find you)"
-msgstr "(Ձեզ կլինի հեշտ գտնել)"
 
 msgctxt "sLIVE_ADD_TO_CONTACTS"
 msgid "Add to Contacts..."
@@ -10246,10 +8898,6 @@ msgctxt "sMANUAL_FOCUS"
 msgid "Normal view"
 msgstr "Ստանդարտ տեսք"
 
-msgctxt "sAUTH_REQUEST_COMPANY"
-msgid "<b>%s</b> registered with Skype as an employee of <b>%s</b>"
-msgstr "<b>%s</b>-ը գրանցված է Skype-ում որպես ընկերության աշխատակից <b>%s</b>"
-
 msgctxt "sCQ_GROUP_TOO_BIG_TITLE"
 msgid "Too many people on this call"
 msgstr "Շատ մարդ"
@@ -10279,10 +8927,6 @@ msgstr "Ճեպապատկերների սրահ"
 msgctxt "sMAINMENU_CALL_CALL_A_PHONE_NUMBER"
 msgid "Call Phones"
 msgstr "Զանգել"
-
-msgctxt "sMAINMENU_TOOLS_ACCESSIBILITY_ASSISTED"
-msgid "Screen Reader Mode"
-msgstr "Էկրանը կարդալու եղանակով"
 
 msgctxt "sLIVE_MOBILE"
 msgid "(mobile)"
@@ -10479,22 +9123,6 @@ msgid ""
 " <a href=\"skype:?go#legal.privacy\">Learn more</a>"
 msgstr "Թույլատրել Microsoft-ին օգտագործելու կցված գովազդ՝ մուտք ունենալով Skype-ի Ձեր պրոֆիլին և սեռին։ <a href=\"skype:?go#legal.privacy\">Մանրամասն</a>"
 
-msgctxt "sADD_CONTACT_LONG"
-msgid "Add a contact"
-msgstr "Ավելացնել կոնտակտ"
-
-msgctxt "sADD_CONTACT_SHORT"
-msgid "Contact"
-msgstr "Կոնտակտ"
-
-msgctxt "sCREATE_GROUP_LONG"
-msgid "Create a group"
-msgstr "Ստեղծել խումբ"
-
-msgctxt "sCREATE_GROUP_SHORT"
-msgid "Group"
-msgstr "Խումբ"
-
 msgctxt "sFEATURE_DISABLED"
 msgid "This feature is disabled by your administrator"
 msgstr "Այս գործառույթը անջատված է ձեր ադմինիստրատորի կողմից"
@@ -10530,10 +9158,6 @@ msgstr "Այս օգտվողին հաղորդագրություն (SMS) ուղա�
 msgctxt "sSMSPOPUP_DESC_NOCREDIT"
 msgid "You need Skype Credit to send SMS"
 msgstr "SMS-ներ ուղարկելու համար Skype-ի Ձեր Հաշվին պետք է լինի գումար"
-
-msgctxt "sMYSELF_PANEL_PROF_ACCOUNT"
-msgid "Professional account"
-msgstr "Գործնական հաշիվ"
 
 msgctxt "sF_CALL_FAILURE_TITLE"
 msgid "Call phones and mobiles"
@@ -10593,27 +9217,9 @@ msgctxt "sCALLPHONES_PAYG_CAPTION"
 msgid "Pay As You Go rates from"
 msgstr "Վճարում միայն կատարած զանգերի համար սակագնով"
 
-msgctxt "sCALLPHONES_PAYG_LNK"
-msgid "<a href=\"skype:?payments#skypeout\">Buy Skype Credit</a>"
-msgstr "<a href=\"skype:?payments#skypeout\">Լիցքավորել Skype-ի Հաշիվը</a>"
-
-msgctxt "sCALLPHONES_PAYG_MORE_LNK"
-msgid "<a href=\"skype:?payments#skypeout\">Buy more credit</a>"
-msgstr "<a href=\"skype:?payments#skypeout\">Լիցքավորել Հաշիվը</a>"
-
 msgctxt "sCALLPHONES_SUBSCR_CAPTION"
 msgid "Pay monthly from"
 msgstr "Վճարել ամսեկան"
-
-msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
-msgid ""
-"<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get another "
-"subscription</a>"
-msgstr "<a href=\"skype:?go#subscriptions?country=%s\">Բաժանորդագրում</a>"
-
-msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
-msgid "<a href=\"skype:?mic\">View your subscription(s)</a>"
-msgstr "<a href=\"skype:?mic\">Ցուցադրել իմ բաժանորդագրությունները</a>"
 
 msgctxt "sCALLPHONES_RATES_LNK"
 msgid "<a href=\"skype:?go#prices\">See all rates</a>"
@@ -10639,10 +9245,6 @@ msgid ""
 "Pay As You Go calls only."
 msgstr "Փոքրիկ <a href=\"skype:?go#connectionfee\">վճար միացման համար</a>՝ գանձվում է միայն առանց բաժանորդագրության զանգերի համար"
 
-msgctxt "sSMS_TO_BUTTON"
-msgid "To %s"
-msgstr "%s-ին"
-
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
 msgstr "(%s՝ 1 րոպեի համար ներառյալ ԱԱՀ-ն)"
@@ -10659,10 +9261,6 @@ msgctxt "sCALLPHONES_SUBSCR_EXPIRING"
 msgid "Expiring soon"
 msgstr "Ժամկետը ավարտվում է"
 
-msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
-msgid "• <a href=\"%s\">Renew</a>"
-msgstr "• <a href=\"%s\">Նորացնել</a>"
-
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
 msgstr "Զանգահարել"
@@ -10675,10 +9273,6 @@ msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
 msgstr "Ձեր առաջին զանգը կլինի անվճար"
 
-msgctxt "sCALL_POPUP_VOICEMAIL"
-msgid "Voice message"
-msgstr "Ձայնային փոստ"
-
 msgctxt "sPROFILE_STATUS_OFFLINE_CF"
 msgid "Offline. Calls forwarded at no cost to you."
 msgstr "Անցանց է: Զանգը կվեահասցեագրվի անվճար ձեզ համար:"
@@ -10690,10 +9284,6 @@ msgstr "Անցանց է։ Զանգը կփոխանցվի ձայնային փոս�
 msgctxt "sCALLPHONES_AUTOCOMPLETE_ITEM"
 msgid "%s (%s: %s)"
 msgstr "%s (%s: %s)"
-
-msgctxt "sMENU_EDIT_COLUMN_ACCNAME"
-msgid "Edit"
-msgstr "Փոխել"
 
 msgctxt "sCALL_DROPDOWN_TEXT"
 msgid "More calling options"
@@ -10715,12 +9305,6 @@ msgctxt "sCALLPHONES_PRO_TITLE"
 msgid "Professional account"
 msgstr "Գործնական հաշիվ"
 
-msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
-msgid ""
-"%s • <a href=\"skype:?go&sso=1#skype.manager.request-products\">Request more"
-" credit</a>"
-msgstr "%s • <a href=\"skype:?go#skype.manager.request-products\">Հաշվի համալրման հարցում</a>"
-
 msgctxt "sCALLPHONES_PRO_CREDIT_WARNING"
 msgid "Low on credit!"
 msgstr "Հաշվին քիչ մնացորդ կա"
@@ -10732,12 +9316,6 @@ msgstr "Բաժանորդագրված եք %d պլանի"
 msgctxt "sCALLPHONES_PRO_SUBSCR_INFO_PLUR"
 msgid "You have %d subscriptions"
 msgstr "Բաժանորդագրված եք %d պլանի"
-
-msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
-msgid ""
-"<a href=\"skype:?go&sso=1#skype.manager.request-products\">Request a "
-"subscription</a>"
-msgstr "<a href=\"skype:?go#skype.manager.request-products\">Բաժանորդագրության հարցում</a>"
 
 msgctxt "sCALL_POPUP_EDIT_EXTENSION"
 msgid "Choose country code for this phone"
@@ -10763,10 +9341,6 @@ msgctxt "sLIVE_VIDEO_OFF"
 msgid "Your video is turned off"
 msgstr "Տեսապատկերը անջատված է"
 
-msgctxt "sLIVE_PLUS_BUTTON_HINT"
-msgid "Add, send and share..."
-msgstr "Ավելացնել, ուղարկել և տարածել"
-
 msgctxt "sLIVE_SCREEN_MENU_HINT"
 msgid "Screen options for this call"
 msgstr "Էկրանի ընտրանքները այս զանգի համար"
@@ -10788,11 +9362,6 @@ msgstr "Ձեր ընկերների ցանկը այժմ անհասանելի է։ 
 msgctxt "sFLAMINGO_DISABLED"
 msgid "You're not able to see Facebook friends in Skype at the moment."
 msgstr "Ներկա պահին չեք կարող տեսնել Facebook-ի ձեր ընկերներին Skype-ում։"
-
-msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
-msgid ""
-"<a href=\"skype:?go&sso=1&country=%s#subscriptions\">Get a subscription</a>"
-msgstr "<a href=\"skype:?go#subscriptions?country=%s\">Բաժանորդագրվել</a>"
 
 msgctxt "sCALLPHONES_COUNTRY_DROPDOWN_HINT"
 msgid "Choose country/region"
@@ -10972,16 +9541,12 @@ msgid "Get Apps..."
 msgstr "Ձեռք բերել ծրագրեր..."
 
 msgctxt "sLIVE_PLUS_MENU_ADD_PEOPLE"
-msgid "Add People to This Call..."
-msgstr "Ավելացնել մարդկանց այս զանգին"
+msgid "Add people to this call..."
+msgstr "Ավելացնել մարդկանց այս զանգում..."
 
 msgctxt "sOPTIONS_CALL_CONTROLS"
 msgid "Show call controls when Skype is in the background"
 msgstr "Ցուցադրել Skype-ի կառավարումը, երբ այն խորապատկերում է"
-
-msgctxt "sCALL_POPUP_CALL_SKYPE_ITEM"
-msgid "Call"
-msgstr "Զանգել"
 
 msgctxt "sCALL_MONITOR_ON_HOLD"
 msgid "On hold"
@@ -10990,18 +9555,6 @@ msgstr "Սպասման վիճակ"
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
 msgstr "Առաջին զանգը անվճար է"
-
-msgctxt "sCALL_PHONES"
-msgid "Call phones"
-msgstr "Զանգել"
-
-msgctxt "sNEW_ACCOUNT_NOTIFY"
-msgid "New account notification"
-msgstr "Նոր հաշվի տեղեկացում"
-
-msgctxt "sNEW_ACCOUNT_NOTIFY_MANY"
-msgid "New account notifications"
-msgstr "Նոր հաշվի տեղեկացումներ"
 
 msgctxt "sCHANGE_SHARING_OPTIONS_HINT"
 msgid "Change sharing options"
@@ -11158,10 +9711,6 @@ msgctxt "sGETTING_STARTED_SAVE_BUTTON"
 msgid "Use this picture"
 msgstr "Օգտագործել այս նկարը"
 
-msgctxt "sZAPCONTACT_XMPP"
-msgid "Facebook"
-msgstr "Facebook"
-
 msgctxt "sGETTING_STARTED_TRY_AGAIN"
 msgid "Try again"
 msgstr "Փորձել կրկին"
@@ -11216,9 +9765,9 @@ msgstr "Զանգը %s-ին ձախողվեց։ Պահանջվում է բաղադ
 
 msgctxt "sFBPLUGIN_INSTALL_WARNING"
 msgid ""
-"Your friend needs to install a plugin before you can chat.  Please wait for "
+"Your friend needs to install a plugin before you can chat. Please wait for "
 "their return call or try again later."
-msgstr "Ձեր ընկերը պետք է տեղակայի բաղադրիչ, որ կարողանաք սկսել չաթը։ Սպասեք պատասխան զանգի կամ կրկին փորձեք։"
+msgstr "Ձեր ընկերը պետք է տեղադրի բաղադրիչ, որ կարողանա սկսել զրույցը:"
 
 msgctxt "sFBPLUGIN_INSTALL_FORM_CAPTION"
 msgid "Calling %s"
@@ -11284,18 +9833,6 @@ msgctxt "sTEST_SOUND_STOP_ACC_DESC"
 msgid "Click to stop playing test sound"
 msgstr "Սեղմեք՝ ավարտելու համար ձայնի փորձարկումը"
 
-msgctxt "sSMS_REPLY_TO_CHAT"
-msgid "Replies will be shown here"
-msgstr "Պատասխանը կցուցադրվի այստեղ"
-
-msgctxt "sSMS_REPLY_TO_NUM"
-msgid "Replies will be sent to %s"
-msgstr "Պատասխանը կուղարկվի %s-ին"
-
-msgctxt "sSMS_REPLY_TO_NONE"
-msgid "To receive replies, add a From number"
-msgstr "Ստանալու համար պատասխան՝ հավելեք Ումից համարը"
-
 msgctxt "sLIVE_SO_PLUS_BUTTON_HINT"
 msgid "Add participants"
 msgstr "Ավելացնել մասնակիցների"
@@ -11312,10 +9849,6 @@ msgctxt "sHOTKEY_SNAPSHOT"
 msgid "Take a snapshot during video calls"
 msgstr "Վերցրեք ճեպապատկեր տեսազանգի ընթացքում"
 
-msgctxt "sSMS_FROM_MORE_OPTIONS"
-msgid "More options"
-msgstr "Լր. ընտրանքներ"
-
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
 msgstr "Skype"
@@ -11328,45 +9861,9 @@ msgctxt "sSMS_FROM_ADD_NUMBER"
 msgid "Add number"
 msgstr "Ավելացնել համար"
 
-msgctxt "sSMS_FROM_SKYPE_DISABLED"
-msgid "Skype (not available)"
-msgstr "Skype (հասանելի չէ)"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION1"
-msgid "To receive SMS replies directly in Skype"
-msgstr "SMS-ի պատասխանները Skype-ում ստանալու համար"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION2"
-msgid "Below the chat box, select <b>Reply to</b> and choose <b>Skype</b>."
-msgstr "Հետևյալ դաշտում ընտրեք <b>Պատասխանել՝</b> և ընտրեք <b>Skype</b>-ը։"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION3"
-msgid "(Not available with some mobile numbers.)"
-msgstr "(Հասանելի չէ որոշ համարների համար։)"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION4"
-msgid "To receive SMS replies on your mobile"
-msgstr "SMS-ի պատասխանները բջջայինում ստանալու համար"
-
-msgctxt "sF_OPTIONS_SMS_CAPTION5"
-msgid "Below the chat box, select <b>Reply to</b> and choose <b>Mobile</b>."
-msgstr "Հետևյալ դաշտում ընտրեք <b>Պատասխանել՝</b> և ընտրեք <b>Բջջային</b>-ը։"
-
-msgctxt "sF_OPTIONS_SMS_VER_NUMBERS"
-msgid "Your verified numbers:"
-msgstr "Ձեր ստուգված համարները."
-
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
 msgstr "ԼԱՎ"
-
-msgctxt "sF_OPTIONS_SMS_VER_CAPTION"
-msgid "Please verify your mobile number below:"
-msgstr "Հաստատեք Ձեր բջջայինի համարները այստեղ՝"
-
-msgctxt "sF_USERINFO_AGE_JUST_GOT_NOYEAR"
-msgid "It's %s's birthday today"
-msgstr "Այսօր %s-ի ծննդյան օրն է"
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
@@ -11653,10 +10150,10 @@ msgstr "Անվտանգությունը"
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_VAT"
 msgid ""
-"VAT (value added taxes) is applicable to residents of the EU and calculated "
-"at the Luxembourg VAT rate. If you live outside the EU, you will not be "
+"VAT (value added tax) is applicable to residents of the EU and calculated at"
+" the Luxembourg VAT rate. If you live outside the EU, you will not be "
 "charged the VAT."
-msgstr "ԱԱՀ կիրառելի է ԵՄ երկրների համար և հաշվվում է Լյուքսեմբուրգյան ԱԱՀ-ի տարիֆով։ Եթե բնակվում եք Եմ-ից դուրս, ապա ԱԱՀ-ն չի գանձվի։"
+msgstr "ԱԱՀ (ավելացրած արժեքի հարկ) վերաբերում է ԵՄ երկրներին և հաշվում է համաձայն Լյուքսեմբուրգյան ԱԱՀ-ի: Եթե բնակվում եք ԵՄ-ից դուրս, ապա այն չի գանձվի:"
 
 msgctxt "sSKYPEWIFI_PAYMENT_HINT_CARD"
 msgid ""
@@ -11759,23 +10256,9 @@ msgctxt "sSKYPEWIFI_ONLINE_HEADER"
 msgid "You're online with Skype WiFi"
 msgstr "Դուք առցանց եք Skype WiFi-ով"
 
-msgctxt "sSKYPEWIFI_ONLINE_DESC"
-msgid ""
-"Your Internet connection will time out in {MINUTES_REMAINING} minutes. You "
-"can disconnect at any time and you'll only be charged for the minutes used."
-msgstr "Համացանցի մուտքի ժամանակը կլրանա {MINUTES_REMAINING} րոպեից։ Կարող եք անջատել կապը ցանկացած պահի և ձեզանից կգանձվի միայն օգտագործած րոպեների վարձը։"
-
 msgctxt "sSKYPEWIFI_ONLINE_BUTTON"
 msgid "Disconnect"
 msgstr "Անջատել"
-
-msgctxt "sSKYPEWIFI_ONLINE_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "{MINUTES_REMAINING} րոպե է մնացել"
-
-msgctxt "sSKYPEWIFI_ONLINE_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "Մնացել է 1 րոպե"
 
 msgctxt "sSKYPEWIFI_EXTEND_HEADER"
 msgid "Your connection is about to time out"
@@ -11795,29 +10278,9 @@ msgctxt "sSKYPEWIFI_EXTEND_BUTTON_DISCONNECT"
 msgid "Disconnect"
 msgstr "Անջատել"
 
-msgctxt "sSKYPEWIFI_EXTEND_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "{MINUTES_REMAINING} րոպե է մնացել"
-
-msgctxt "sSKYPEWIFI_EXTEND_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "Մնացել է 1 րոպե"
-
 msgctxt "sSKYPEWIFI_FLOATER_TITLE"
 msgid "Skype WiFi"
 msgstr "Skype WiFi"
-
-msgctxt "sSKYPEWIFI_FLOATER_REMAINING"
-msgid "{MINUTES_REMAINING} minutes remaining"
-msgstr "{MINUTES_REMAINING} րոպե է մնացել"
-
-msgctxt "sSKYPEWIFI_FLOATER_REMAINING_ONE"
-msgid "1 minute remaining"
-msgstr "Մնացել է 1 րոպե"
-
-msgctxt "sSKYPEWIFI_FLOATER_NOTIME"
-msgid "Connected"
-msgstr "Կապակցվել է"
 
 msgctxt "sSKYPEWIFI_FLOATER_AVAILABLE"
 msgid "Available"
@@ -11826,10 +10289,6 @@ msgstr "Հասանելի է"
 msgctxt "sSKYPEWIFI_FLOATER_CONNECTING"
 msgid "Connecting..."
 msgstr "Կապակցվում է..."
-
-msgctxt "sSKYPEWIFI_FLOATER_EXTEND"
-msgid "Click here to extend your session"
-msgstr "Սեղմեք՝ երկարաձգելու աշխատաշրջանը"
 
 msgctxt "sSKYPEWIFI_FAQ_CAPTION"
 msgid "Skype WiFi"
@@ -11841,32 +10300,32 @@ msgstr "ՀՏՀ"
 
 msgctxt "sSKYPEWIFI_FAQ"
 msgid ""
-"<font size=\"11px\" color=\"#6e6e73\" name=\"Tahoma\"><br /><br /><b><font "
-"size=\"13px\">1. What is Skype WiFi?</font></b><br/>Skype WiFi is a "
-"fantastic way to browse the internet at public Skype hotspots around the "
-"world, using your Skype Credit as payment. No more fumbling with credit "
-"cards or cumbersome sign up processes when you’re on the move - you can "
-"simply use your Skype Credit to get online. You only pay per minute for what"
-" you use. There’s no need to buy an internet day-pass if all you need is a "
-"few minutes of access.<br /><br /><b><font size=\"13px\">2. How much does "
-"Skype WiFi cost?</font></b><br/>Skype WiFi prices vary by provider and will "
-"be displayed when you connect to supported hotspots.<br /><br /><b><font "
-"size=\"13px\">3. How do I use Skype WiFi?</font></b><br/>You must first "
-"connect to a Skype network in a public hotspot. If the hotspot is supported,"
-" you will be prompted to use your Skype Credit to pay for Internet access on"
-" a per-minute-basis.<br /><br /><b><font size=\"13px\">4. How does Skype "
-"WiFi work?</font></b><br/>Once you click “Connect”, Skype WiFi reserves "
-"enough credit for up to 30 minutes use. You will only pay for what you use, "
-"so if you connect for 10 minutes, you’ll only pay for 10 minutes and your "
-"remaining credits will be available in your Skype Credit account.<br /><br "
-"/><b><font size=\"13px\">5. I’m connected, now what?</font></b><br/>Once you"
-" connect with Skype WiFi you use your device as normal. You can check your "
-"email, surf the web or run apps that need data connectivity. For your "
-"convenience, we’ll count down the minutes. This way you can see how much "
-"time you have remaining to stay online.<br /><br /><b><font size=\"13px\">6."
-" What happens if I forget to disconnect?</font></b><br/>For your protection,"
-" Skype WiFi will time-out after 30 minutes.</font><br />"
-msgstr "<font size=\"11px\" color=\"#6e6e73\" name=\"Tahoma\"><br /><br /><b><font size=\"13px\">1. Ի՞նչ է Skype WiFi-ը</font></b><br/>Skype WiFi-ը ֆանտաստիկ ճանապարհ է սավառնելու համացանցում Skype-ի ցանցերի միջոցով ամբողջ աշխարհում՝ որպես վճարման եղանակ օգտագործելով Skype-ի Հաշիվը։ Այլևս քաշքշուկնեի մեջ չեք ընկնի ճամփորդության ընթացքում՝ պարզապես օգտագործեք Skype-ի Հաշիվը և դարձեք առցանց։ Դուք վճարելու եք միայն օգտագործված րոպեների համար։ Այլևս կարիք չկա գնելու մի ամբողջ օրվա մուտք համացանց, եթե պատրաստվում եք օգտվել համացանցից միայն մի քանի րոպե։<br /><br /><b><font size=\"13px\">2. Ի՞նչ արժե Skype WiFi-ը։</font></b><br/>Skype WiFi-ի արժեքը կախված է մատակարարից և կցուցադրվի, երբ դուք միանաք աջակցվող ցանցին։<br /><br /><b><font size=\"13px\">3. Ի՞նչպես օգտագործեմ Skype WiFi-ը։</font></b><br/>Նախ միացեք Skype-ի ցանցին։ Եթե ցանցը աջակցվում է, ապա ձեզ հարցում կարվի օգտագործելու Skype-ի ձեր Հաշիվը որպես վճարման միջոց։<br /><br /><b><font size=\"13px\">4. Ի՞նչպես է աշխատում Skype WiFi-ը։</font></b><br/>Երբ սեղմեք “Միանալ”՝ Skype WiFi-ը կսառեցնի բավականաչափ հաշիվ 30 րոպեյվա համար։ Դուք կվճարեք միայն օգտագործած րոպեների համար, այսինքն, եթե օգտվել եք 10 րոպե, ապա կվճարեք միայն 10 րոպեի համար, իսկ մնացած սառեցված գումարը հետո հասանելի կլինի Skype Հաշվին։<br /><br /><b><font size=\"13px\">5. Ես միացել եմ, հիմա ի՞նչ։</font></b><br/>Երբ միանաք Skype WiFi՝ կօգտագործեք ձեր սարքը։ Կարող եք ստուգել ձեր էլ. փոստը, սավառնեք վեբում կամ բացել ծրագրեր, որոնք պահանջում են տվյալների միացում։ Ձեր հարմարության համար մենք կհաշվենք րոպեները։ Այդպիսով կարող եք տեսնել, թե քանի րոպե եք եղել առցանց։<br /><br /><b><font size=\"13px\">6. Ի՞նչ տեղի կունենա, եթե ես մոռանամ անջատել կապը։</font></b><br/>Ձեր անվտանգության համար՝ Skype WiFi-ը միանգամից կանջատի կապը 30 րոպեից։</font><br />"
+"<br /><br /><b><font size=\"13px\">1. What is Skype "
+"WiFi?</font></b><br/>Skype WiFi is a fantastic way to browse the internet at"
+" public Skype hotspots around the world, using your Skype Credit as payment."
+" No more fumbling with credit cards or cumbersome sign up processes when "
+"you’re on the move - you can simply use your Skype Credit to get online. You"
+" only pay per minute for what you use. There’s no need to buy an internet "
+"day-pass if all you need is a few minutes of access.<br /><br /><b><font "
+"size=\"13px\">2. How much does Skype WiFi cost?</font></b><br/>Skype WiFi "
+"prices vary by provider and will be displayed when you connect to supported "
+"hotspots.<br /><br /><b><font size=\"13px\">3. How do I use Skype "
+"WiFi?</font></b><br/>You must first connect to a Skype network in a public "
+"hotspot. If the hotspot is supported, you will be prompted to use your Skype"
+" Credit to pay for Internet access on a per-minute-basis.<br /><br "
+"/><b><font size=\"13px\">4. How does Skype WiFi work?</font></b><br/>Once "
+"you click “Connect”, Skype WiFi reserves enough credit for up to 30 minutes "
+"use. You will only pay for what you use, so if you connect for 10 minutes, "
+"you’ll only pay for 10 minutes and your remaining credits will be available "
+"in your Skype Credit account.<br /><br /><b><font size=\"13px\">5. I’m "
+"connected, now what?</font></b><br/>Once you connect with Skype WiFi you use"
+" your device as normal. You can check your email, surf the web or run apps "
+"that need data connectivity. For your convenience, we’ll count down the "
+"minutes. This way you can see how much time you have remaining to stay "
+"online.<br /><br /><b><font size=\"13px\">6. What happens if I forget to "
+"disconnect?</font></b><br/>For your protection, Skype WiFi will time-out "
+"after 30 minutes.<br />"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_FAQ_BUTTON_CLOSE"
 msgid "Close"
@@ -11880,7 +10339,7 @@ msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
 "Contacts in this list will not be deleted. You can still find them under "
 "\"All\""
-msgstr "Այս ցանկի կոնտակտները չեն ջնջվի։ Կարող եք դրանք գտնել \"Բոլորում\""
+msgstr "Այս ցանկի կոնտակտները կջնջվեն: Դրանք դեռևս հասանելի կլինեն \"Բոլորը\" կանչով"
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
@@ -11893,14 +10352,6 @@ msgstr "Ուղարկում է"
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
 msgstr "Ուղարկվեց"
-
-msgctxt "sVIDEOMSG_STATUS_TEXT_FAILED"
-msgid "Video message not sent"
-msgstr "Տեսագրությունը չի ուղարկվել"
-
-msgctxt "sVIDEOMSG_STATUS_TEXT_DELETED"
-msgid "Video message removed"
-msgstr "Տեսագրությունը հեռացվել է"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_EXPIRED"
 msgid "Video message expired"
@@ -11956,24 +10407,16 @@ msgid "Search for <a href=\"x\">%s</a> on Skype."
 msgstr "Փնտրել <a href=\"x\">%s</a>-ը Skype-ում"
 
 msgctxt "sCHAT_SEND_MESSAGE"
-msgid "Send a message"
-msgstr "Ուղարկել հաղորդագրություն"
+msgid "Type a message here"
+msgstr "Գրեք հաղորդագրությունը"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
 msgstr "Ուղարկել SMS"
 
-msgctxt "sSEND_SMS_TARGET_HINT"
-msgid "Change where you send SMS."
-msgstr "Փոխեք, թե որտեղ ուղարկել SMS։"
-
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
 msgstr "Փոխեք, թե որտեղ ստանալ SMS-ի պատասխանը։"
-
-msgctxt "sSEND_SMS_TARGET_MENU_TITLE"
-msgid "Send SMS to"
-msgstr "Ուղարկել SMS՝"
 
 msgctxt "sSEND_SMS_REPLYTO_TITLE"
 msgid "Reply to %s"
@@ -12029,19 +10472,9 @@ msgctxt "sSEND_SMS_ENTER_INFO_TIP_LINE2"
 msgid "If you wanted a line break use CTRL+ENTER."
 msgstr "Տողընդհատի համար սեղմեք  CTRL+ENTER։"
 
-msgctxt "sSEND_SMS_ENTER_INFO_TIP_SENDNOW"
-msgid "Send"
-msgstr "Ուղարկել"
-
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_NOTYET"
 msgid "Cancel"
 msgstr "Չեղարկել"
-
-msgctxt "sSMS_VERIFY_NUMBER_PROMPT"
-msgid ""
-"To send SMS to this number, you need to <a "
-"href=\"skype:?options#sms\">verify your mobile number</a>."
-msgstr "Ուղարկելու համար SMS այս համարին՝ պետք է <a href=\"skype:?options#sms\">հաստատեք ձեր համարը</a>։"
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
@@ -12222,21 +10655,6 @@ msgctxt "sGETTING_STARTED_INTRO_NEW_PICTURE"
 msgid "New picture"
 msgstr "Նոր նկար"
 
-msgctxt "sF_PAYMENTS_FRM_CAPTION"
-msgid "Buy credit - %s"
-msgstr "Լիցքավորել հաշիվը - %s"
-
-msgctxt "sBROWSER_ERROR_ACCOUNT"
-msgid ""
-"If you are connected to the internet, <a "
-"href=\"skype:?go&sso=1#myaccount\">click here</a> to connect to your "
-"account."
-msgstr "Եթե Ձեր համակարգիչը մուտք ունի համացանց՝ <a href=\"skype:?go#myaccount\">սեղմեք այստեղ</a>՝ Ձեր հաշվով մուտք գործելու համար։"
-
-msgctxt "sMIC_WEBWINDOW_TITLE"
-msgid "Account"
-msgstr "Հաշվեկշիռը"
-
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
 msgstr "Արեք ավելին՝ Skype-ից Skype "
@@ -12274,8 +10692,8 @@ msgstr "Կառավարել Premium-ը"
 msgctxt "sMYINFO_GET_PREMIUM"
 msgid ""
 "Upgrade and unlock more features<br/>• Unlimited calls<br/>• Group video "
-"calls<br/><a href=\"%s\">Get Premium</a>"
-msgstr "Բացահայտեք նոր հնարավորություններ Skype-ում՝ ակտիվացնելով Premium հաշիվը<br/>• Խմբային տեսազանգեր<br/>• Անսահմանափակ զանգեր<br/><a href=\"%s\">Ստացեք Premium-ը</a>"
+"calls<br/>• No advertising<br/><a href=\"%s\">Get Premium</a>"
+msgstr "Արդիացրեք և օգտվեք լրացուցիչ գործառույթներից.<br/>• Անսահմանափակ զանգեր<br/>• Խմբային տեսազանգեր<br/>• Առանց գովազդի<br/><a href=\"%s\">Ստացեք Premium-ը</a>"
 
 msgctxt "sMYINFO_CREDIT"
 msgid "Credit"
@@ -12311,8 +10729,8 @@ msgid ""
 msgstr "Շա՞տ եք զանգում, ուրեմն շատ խնայեք...<br/><a href=\"%s\">Բաժանորդագրվեք</a>"
 
 msgctxt "sMYINFO_MY_ACCOUNT"
-msgid "Manage account"
-msgstr "Իմ հաշիվը"
+msgid "Manage my account"
+msgstr "Կառավարել հաշիվը"
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
@@ -12342,37 +10760,13 @@ msgid ""
 "a phone number</a>."
 msgstr "Փնտրեք ըստ անվան, Skype-ի անվան, էլ. փոստով կամ <a href=\"skype:?show_add_phone\">պահպանեք հեռախոսահամարը։</a>"
 
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SKYPE_HINT"
-msgid "via Skype, use the channel switcher to change to via SMS and more"
-msgstr "Skype-ի միջոցով՝ օգտագործեք ալիքի փոփոխումը՝ անցնելու համար SMS-ի և ավելին"
+msgctxt "sACC_ADD_PHONE_POPUP_NAME"
+msgid "Add a phone number"
+msgstr "Ավելացնել հեռախոսահամար"
 
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_SKYPE_HINT"
-msgid "via SMS, use the channel switcher to change to via Skype and more"
-msgstr "SMS-ի միջոցով՝ օգտագործեք ալիքի փոփոխումը՝ անցնելու համար Skype-ին և ավելին"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_FACEBOOK_HINT"
-msgid "via Facebook, use the channel switcher to change to via SMS and more"
-msgstr "Facebook-ի միջոցով՝ օգտագործեք ալիքի փոփոխումը՝ անցնելու համար SMS-ի և ավելին"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_FACEBOOK_HINT"
-msgid "via SMS, use the channel switcher to change to via Facebook and more"
-msgstr "SMS-ի միջոցով՝ օգտագործեք ալիքի փոփոխումը՝ անցնելու համար Facebook-ի և ավելին"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_PASSPORT_HINT"
-msgid "via Messenger, use the channel switcher to change to via SMS and more"
-msgstr "Չաթի միջոցով՝ օգտագործեք ալիքի փոփոխումը՝ անցնելու համար SMS-ի և ավելին"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_PASSPORT_HINT"
-msgid "via SMS, use the channel switcher to change to via Messenger and more"
-msgstr "SMS-ի միջոցով՝ օգտագործեք ալիքի փոփոխումը՝ անցնելու համար Չաթին և ավելին"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_LYNC_HINT"
-msgid "via Lync, use the channel switcher to change to via SMS and more"
-msgstr "Lync-ի միջոցով՝ օգտագործեք ալիքի փոփոխումը՝ անցնելու համար SMS-ին և ավելին"
-
-msgctxt "sACC_CHANNEL_SWITCHER_VIA_SMS_TO_LYNC_HINT"
-msgid "via SMS, use the channel switcher to change to via Lync and more"
-msgstr "SMS-ի միջոցով՝ օգտագործեք ալիքի փոփոխումը՝ անցնելու համար Lync-ին և ավելին"
+msgctxt "sACC_CHANNEL_SWITCHER_NAME"
+msgid "Message type"
+msgstr "Գրության տեսակը"
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
 msgid "select country"
@@ -12385,12 +10779,6 @@ msgstr "ընտրեք համարի տեսակը"
 msgctxt "sACC_CONTACT_PHONE_EDIT_ENTER_NUMBER_HINT"
 msgid "enter number"
 msgstr "նշեք համարը"
-
-msgctxt "sCONVERSATION_PASSPORT_PARTNER_BLOCKED_LINK"
-msgid ""
-"%s is blocked and can't answer. If you want to chat, <a href=\"%s\">unblock "
-"them from the web profile</a>."
-msgstr "%s-ը արգելափակված է և չի կարող պատասխանել։ Եթե ցանկանում եք չաթ սկսել՝ <a href=\"%s\">ապաարգելափակեք վեբ պրոֆիլից</a>։"
 
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
@@ -12427,8 +10815,8 @@ msgid "Paying with:"
 msgstr "Վճարել՝"
 
 msgctxt "sTOPUP_AUTO_RECHARGE"
-msgid "Enable Auto-recharge"
-msgstr "Միացնել ինքնավերալիցք."
+msgid "Enable Auto-recharge when I'm running low on credit"
+msgstr "Միացնել ինքնալիցքավորումը, երբ գումարը պակասի"
 
 msgctxt "sTOPUP_TERMS_OF_USE_ACCEPT_LINK"
 msgid "Accept <a href=\"%s\">Terms of Use</a>"
@@ -12520,9 +10908,12 @@ msgstr "Ինչպես է ինքնալիցքավորումը աշխատում"
 
 msgctxt "sTOPUP_AUTO_RECHARGE_HELP_TEXT"
 msgid ""
-"Don't worry about running out of credit, we'll add more when you're running "
-"low."
-msgstr "Մի մտահոգվեք, եթե Հաշիվը սպառվի։ Մենք անմիջապես կավելացնենք, երբ այն նվազի։"
+"Auto-recharge saves you time and hassle. We’ll charge your preferred payment"
+" method and credit your account with the amount selected above when your "
+"balance is low. You can disable Auto-recharge any time in My Account, under "
+"Billing and Payments. For more information read <a "
+"href=\"http://www.skype.com/go/tou.refund\">Skype’s refund policy</a>."
+msgstr "Ինքնավերալիցքավորումը կխնայի ձեր ժամանակը: Գումարը կգանձվի ձեր նախընտրած վճարային միջոցով և այն գումարի չափով, որը դուք կընտրեք: Կարող եք անջատել ինքնավերալիցքավորումը Իմ հաշիվը բաժնում: Մանրամասներ՝ <a href=\"http://www.skype.com/go/tou.refund\">Skype-ի հատուցման քաղաքականությունը</a>:"
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
 msgid "Skype WiFi"
@@ -12562,9 +10953,9 @@ msgstr "<a href=\"%s\">Վճարման նոր եղանակ</a>"
 
 msgctxt "sBDCARD_NOTIFICATION"
 msgid ""
-"<b>It's %s's birthday today.</b><br />Forgot the card? Make it up with a <a "
-"href=\"%s\">Skype Gift Card</a>."
-msgstr "<b>Այսօր %s-ի ծննդյան օրն է։</b><br />Մոռացե՞լ եք քարտը։ Օգտագործեք <a href=\"%s\">Skype Gift Card</a>-ը։"
+"<b>It's %s's birthday today.</b><br />Give the gift of birthday calls to "
+"mobiles and landlines with a <a href=\"%s\">Skype Gift Card</a>."
+msgstr "<b>Այսօր %s-ի ծննդյան օրն է:</b><br />Նվիրեք բացիկ, զանգելու րոպեներ <a href=\"%s\">Skype-ի նվերի քարտով</a>:"
 
 msgctxt "sERROR_HINT_VIDEO_SSE2_TEXT"
 msgid ""
@@ -12623,19 +11014,11 @@ msgctxt "sVIDEOMSG_BACK_HINT"
 msgid "Go back to chat"
 msgstr "Վերադառնալ զրույցին"
 
-msgctxt "sVIDEOMSG_VIEWER_CLOSE_HINT"
-msgid "Close"
-msgstr "Փակել"
-
 msgctxt "sVIDEOMSG_SEND"
 msgid "Send video message"
 msgstr "Ուղարկել տեսահաղորդագրություն"
 
 msgctxt "sCALL_LYNC"
-msgid "Lync"
-msgstr "Lync"
-
-msgctxt "sCALL_POPUP_LYNC"
 msgid "Lync"
 msgstr "Lync"
 
@@ -12658,14 +11041,6 @@ msgstr "Ավելացնել ընտրյալներին"
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
 msgstr "Ուղարկել տեսահաղորդագրութուն"
-
-msgctxt "sCQ_VIDEO_MESSAGE_TITLE"
-msgid "Camera in use"
-msgstr "Խցիկը օգտագործվում է"
-
-msgctxt "sCQ_VIDEO_MESSAGE_DESC"
-msgid "To see your camera, close your video message first."
-msgstr "Տեսախցիկը տեսնելու համար նախ փակեք տեսահաղորդագրությունը։"
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
@@ -12715,14 +11090,6 @@ msgid ""
 "disconnected. Record your message again, or send it now if you're ready."
 msgstr "Տեսագրումը կանգնեցվել է։<br/>Ձեր տեսախցիկը կամ բարձրախոսը անջատված են։ Կրկին տեսագրեք հաղորդագրությունը կամ ուղարկեք այն հիմա, եթե պատրաստ է։"
 
-msgctxt "sVIDEOMSG_PREMIUM_UPSELL_TITLE"
-msgid "You have no free video messages left"
-msgstr "Տեսահաղորդագրության հնարավորություն այլևս չունեք"
-
-msgctxt "sVIDEOMSG_PREMIUM_UPSELL_MESSAGE"
-msgid "Upgrade to a Premium account to enjoy unlimited video messages."
-msgstr "Արդիացրեք Premium-ի՝ անսահմանափակ տեսահաղորդագրությունների համար։"
-
 msgctxt "sVIDEOMSG_LOOKING_GOOD_TITLE"
 msgid "Looking good!"
 msgstr "Լավ տեսք"
@@ -12754,10 +11121,6 @@ msgstr "Չեղարկել"
 msgctxt "sVIDEOMSG_RECORD_CAPTION"
 msgid "Record"
 msgstr "Տեսագրել"
-
-msgctxt "sECHO_DISPLAY_NAME"
-msgid "Echo/Sound Test Service"
-msgstr "Echo/Ձայնը ստուգելու ծառայություն"
 
 msgctxt "sTASKBAR_MENU_SIGN_OUT"
 msgid "Sign Out"
@@ -12800,24 +11163,12 @@ msgid "New video message"
 msgstr "Նոր տեսահաղորդագրություն"
 
 msgctxt "sACC_NAME_MYSELF_HEADER"
-msgid "Me"
-msgstr "Ինձ"
+msgid "My profile"
+msgstr "Իմ պրոֆիլը"
 
 msgctxt "sACC_NAME_QF"
 msgid "Search"
 msgstr "Փնտրել"
-
-msgctxt "sACC_NAME_CONVERSATIONS"
-msgid "Conversations"
-msgstr "Երկխոսություններ"
-
-msgctxt "sACC_NAME_COMMUNICATOR"
-msgid "Application access"
-msgstr "Ընթացքը"
-
-msgctxt "sACC_NAME_PARTNER_BUTTONS"
-msgid "Partner"
-msgstr "Գործընկեր"
 
 msgctxt "sACC_NAME_CONTACTS_TAB"
 msgid "All contacts"
@@ -12828,8 +11179,8 @@ msgid "Contacts"
 msgstr "Կոնտակտներ"
 
 msgctxt "sACC_NAME_CONVERSATIONS_TAB"
-msgid "All recent messages"
-msgstr "Բոլոր վերջինները"
+msgid "All recent messages."
+msgstr "Վերջին գրությունները։"
 
 msgctxt "sACC_NAME_INBOX_LIST"
 msgid "Recent messages"
@@ -12847,10 +11198,6 @@ msgctxt "sACC_NAME_DC_BANNER_CLOSE_BUTTON"
 msgid "Hide message"
 msgstr "Թաքցնել"
 
-msgctxt "sACC_NAME_SELECTED_GROUP_HARDWIRED"
-msgid "All %0:s contacts"
-msgstr "Բոլոր %0:s կոնտակտները"
-
 msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
 msgid "All %0:s"
 msgstr "Բոլոր %0:s "
@@ -12867,9 +11214,17 @@ msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
 msgid "Clear search input"
 msgstr "Մաքրել որոնումը"
 
-msgctxt "sACC_NAME_SEARCH_ALL"
-msgid "Search all people on Skype"
-msgstr "Փնտրել բոլոր մարդկանց Skype-ում"
+msgctxt "sACC_NAME_SEARCH_EDIT"
+msgid "Search by name, Skype name or email"
+msgstr "Փնտրել անունով, Skype անունով կամ էլ. փոստով"
+
+msgctxt "sACC_NAME_SEARCH_RESULTS"
+msgid "Search results"
+msgstr "Որոնման արդյունքները"
+
+msgctxt "sACC_NAME_ADD_CONTACT_PANEL_CLOSE"
+msgid "Exit add contacts"
+msgstr "Փակել"
 
 msgctxt "sSKYPEWIFI_FLOATER_ONLINE"
 msgid "You're online with Skype WiFi"
@@ -12877,7 +11232,7 @@ msgstr "Դուք առցանց եք Skype WiFi-ով"
 
 msgctxt "sSKYPEWIFI_FLOATER_ABOUT_TO_EXPIRE"
 msgid "Connection expires soon"
-msgstr "Միացումը շուտով կընդհատվի"
+msgstr "Կապակցումը շուտով կընդհատվի"
 
 msgctxt "sSKYPEWIFI_LESS_THAN_MINUTE"
 msgid ""
@@ -12896,3 +11251,1766 @@ msgid ""
 "You've been online for about %d minutes. You can disconnect at any time and "
 "you'll only be charged for the minutes used."
 msgstr "Դուք առցանց եք եղել մոտավորապես %d րոպե։ Կարող եք անջատել կապը ցանկացած ժամանակ և վարձը կգանձվի միայն օգտագործած րոպեների համար։"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_ALL_BUDDIES"
+msgid "All contacts"
+msgstr "Բոլոր կոնտակտները"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_SKYPE_BUDDIES"
+msgid "All Skype contacts"
+msgstr "Skype-ի բոլոր կոնտակտները"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_ONLINE_BUDDIES"
+msgid "All online contacts"
+msgstr "Առցանց բոլոր կոնտակտները"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_EXTERNAL_CONTACTS"
+msgid "All Outlook contacts"
+msgstr "Outlook-ի բոլոր կոնտակտները"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_XMPP_CONTACTS"
+msgid "All Facebook contacts"
+msgstr "Facebook-ի բոլոր կոնտակտները"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_PASSPORT_CONTACTS"
+msgid "All Messenger contacts"
+msgstr "Messenger-ի բոլոր կոնտակտները"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
+msgid "All Lync contacts"
+msgstr "Lync-ի բոլոր կոնտակտները"
+
+msgctxt "sACC_CALL_POPUP_NAME"
+msgid "Call options"
+msgstr "Զանգի ընտրանքները"
+
+msgctxt "sACC_CALL_EDIT_NUMBER_BUTTON"
+msgid "Edit number"
+msgstr "Խմբագրել համարը"
+
+msgctxt "sACC_CALL_PHONES_SELECTED_COUNTRY_COMBO_NAME"
+msgid "Select country/region to call"
+msgstr "Ընտրեք երկիրը/տարածաշրջանը"
+
+msgctxt "sACC_CALL_PHONES_ENTER_PHONE_NUMBER_EDIT_NAME"
+msgid "Enter phone number"
+msgstr "Նշեք հեռախոսահամարը"
+
+msgctxt "sACC_CALL_PHONES_CLEAR_BUTTON"
+msgid "Clear phone number"
+msgstr "Մաքրել հեռախոսահամարը"
+
+msgctxt "sACC_CALL_PHONES_SEND_SMS_BUTTON"
+msgid "Write SMS"
+msgstr "Գրել SMS"
+
+msgctxt "sACC_CALL_PHONES_QUALITY_BUTTON"
+msgid "Check connection settings"
+msgstr "Ստուգել կապակցման կարգավորումները"
+
+msgctxt "sACC_CALL_PHONES_REQUEST_CREDIT_NAME"
+msgid "You have %s Skype Credit, Buy more credit"
+msgstr "Ունեք %s Skype-ի հաշիվ: Ավելացնել"
+
+msgctxt "sACC_CALL_PHONES_REQEUST_SUBSCRIPTION_NAME"
+msgid "You have %d subscriptions. Get a subscription"
+msgstr "Ունեք %d բաժանորդագրություն: Ավելացնել"
+
+msgctxt "sACC_CALL_PHONES_RECENT_CALLS_POPUP_NAME"
+msgid "Recent calls"
+msgstr "Վերջին զանգերը"
+
+msgctxt "sACC_NAME_HISTORY_LIST"
+msgid "History"
+msgstr "Պատմություն"
+
+msgctxt "sACC_NAME_ALREADY_CONTACT"
+msgid "Already a contact"
+msgstr "Արդեն կոնտակտ է"
+
+msgctxt "sACC_NAME_SEND_CONTACT_REQUEST_TEXT"
+msgid "Introductory message"
+msgstr "Ելքային գրություն"
+
+msgctxt "sACC_MYSELF_PROFILE_TIMEZONE_COMBO_NAME"
+msgid "Timezone"
+msgstr "Ժամային գոտի"
+
+msgctxt "sACC_MYSELF_PROFILE_COUNTRY_COMBO_NAME"
+msgid "Country/Region"
+msgstr "Երկիր/Տարածաշրջան"
+
+msgctxt "sACC_MYSELF_PROFILE_GENDER_COMBO_NAME"
+msgid "Gender"
+msgstr "Սեռ"
+
+msgctxt "sACC_MYSELF_PROFILE_LANGUAGE_COMBO_NAME"
+msgid "Language"
+msgstr "Լեզուն"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_DAY_COMBO_NAME"
+msgid "Day"
+msgstr "Օր"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_MONTH_COMBO_NAME"
+msgid "Month"
+msgstr "Ամիս"
+
+msgctxt "sACC_MYSELF_PROFILE_BIRTH_YEAR_COMBO_NAME"
+msgid "Year"
+msgstr "Տարի"
+
+msgctxt "sACC_NAME_CHAT_ENTRY"
+msgid "Type a message here"
+msgstr "Գրեք հաղորդագրությունը"
+
+msgctxt "sACC_NAME_CHAT_MESSAGE"
+msgid "From %0:s, %1:s, sent on %2:s"
+msgstr "%0:s-ից, %1:s, ուղարկվել է %2:s-ին"
+
+msgctxt "sCALLPHONES_PAYG_LNK"
+msgid "Buy Skype Credit"
+msgstr "Գնել Skype-ի հաշիվ"
+
+msgctxt "sCALLPHONES_PAYG_MORE_LNK"
+msgid "Buy more credit"
+msgstr "Գնել հաշիվ"
+
+msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
+msgid "Get another subscription"
+msgstr "Ձեռք բերել այլ բաժանորդագրություն"
+
+msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
+msgid "View your subscription(s)"
+msgstr "Իմ բաժանորդագրությունները"
+
+msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
+msgid "Renew"
+msgstr "Նորացնել"
+
+msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
+msgid "Get a subscription"
+msgstr "Բաժանորդագրվել"
+
+msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
+msgid "Request more credit"
+msgstr "Նոր հաշվի հարցում"
+
+msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
+msgid "Request a subscription"
+msgstr "Բաժանորդագրության հարցում"
+
+msgctxt "sSMS_NO_CREDIT"
+msgid ""
+"You need Skype Credit to send text messages (SMS). %0:sBuy Skype Credit "
+"now%1:s"
+msgstr "Գումար պետք է ունենաք Skype-ի հաշվին SMS ուղարկելու համար:%0:sԳնել Skype-ի հաշիվ%1:s"
+
+msgctxt "sACC_CALL_EDIT_HOME_NUMBER_BUTTON"
+msgid "Edit home number"
+msgstr "Խմբագրել համարը"
+
+msgctxt "sACC_CALL_EDIT_OFFICE_NUMBER_BUTTON"
+msgid "Edit office number"
+msgstr "Խմբագրել աշխ. համարը"
+
+msgctxt "sACC_CALL_EDIT_MOBILE_NUMBER_BUTTON"
+msgid "Edit mobile number"
+msgstr "Խմբագրել բջջային համարը"
+
+msgctxt "sACC_CALL_EDIT_OTHER_NUMBER_BUTTON"
+msgid "Edit other number"
+msgstr "Խմբագրել այլ համարներ"
+
+msgctxt "sACC_CALL_PHONES_AUTO_COMPLETE_POPUP_NAME"
+msgid "Suggested numbers"
+msgstr "Առաջարկվող համարներ"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_VOICE_MESSAGE"
+msgid "Incoming voice message"
+msgstr "Մուտքային ձայնային հաղորդագրություն"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_VOICE_MESSAGE"
+msgid "Outgoing voice message"
+msgstr "Ելքային ձայնային հաղորդագրություն"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_FILE"
+msgid "Incoming file"
+msgstr "Մուտքային ֆայլ"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_FILE"
+msgid "Outgoing file"
+msgstr "Ելքային ֆայլ"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_SMS_MESSAGE"
+msgid "Incoming sms"
+msgstr "Մուտքային SMS"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_SMS_MESSAGE"
+msgid "Outgoing sms"
+msgstr "Ելքային SMS"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_CHAT_MESSAGE"
+msgid "Incoming chat message"
+msgstr "Մուտքային գրություն"
+
+msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_CHAT_MESSAGE"
+msgid "Outgoing chat message"
+msgstr "Ելքային գրություն"
+
+msgctxt "sACC_NAME_LIVE_LIST"
+msgid "Active calls"
+msgstr "Ակտիվ զանգեր"
+
+msgctxt "sACC_NAME_LIVE_ITEM_VIDM_REC_INDICATOR"
+msgid "Recording video message"
+msgstr "Տեսագրություն"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_RINGING"
+msgid "Incoming call"
+msgstr "Մուտքային զանգ"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_CALL"
+msgid "Active call"
+msgstr "Ակտիվ զանգեր"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_ENDED"
+msgid "Call ended"
+msgstr "Զանգը ավարտվել է"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_ON_HOLD"
+msgid "Call on hold"
+msgstr "Զանգի սպասում"
+
+msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_MUTED"
+msgid "Call muted"
+msgstr "Անձայն"
+
+msgctxt "sACC_NAME_CONVERSATION_ITEM_HAS_EVENTS"
+msgid "Unread messages"
+msgstr "Չկարդացած գրություններ"
+
+msgctxt "sACC_NAME_INBOX_ITEM_MISSED_CALL_EVENT"
+msgid "Missed call"
+msgstr "Բաց թողած զանգ"
+
+msgctxt "sACC_NAME_INBOX_ITEM_BIRTHDAY_EVENT"
+msgid "Birthday"
+msgstr "Ծննդյան օր"
+
+msgctxt "sACC_NAME_CONVERSATIONS_CONTROL_TABS"
+msgid "Contacts and recents"
+msgstr "Կոնտակտներ և վերջինը"
+
+msgctxt "sACC_NAME_SMS_ENTRY"
+msgid "Write an SMS to %s"
+msgstr "Գրել SMS %s-ին"
+
+msgctxt "sHOTKEY_REJECT"
+msgid "Decline incoming call"
+msgstr "Մերժել մուտքային զանգը"
+
+msgctxt "sF_OPTIONS_PLAY_CUSTOM_ACCNAME"
+msgid "Play my voice message greeting, duration: %d seconds"
+msgstr "Խաղարկել ողջույնի իմ հաղորդագրությունը: Տևողությունը՝  %d վ."
+
+msgctxt "sF_OPTIONS_PLAY_DEFAULT_ACCNAME"
+msgid "Play default voice message greeting, duration: %d seconds"
+msgstr "Խաղարկել ողջույնի հաղորդագրություն: Տևողությունը՝  %d վ."
+
+msgctxt "sF_OPTIONS_RECORD_ACCNAME"
+msgid "Record new voice message"
+msgstr "Ձայնագրել նոր ձայնային հաղորդագրություն"
+
+msgctxt "sF_OPTIONS_DELETE_ACCNAME"
+msgid "Reset to default voice message greeting"
+msgstr "Ետակայել"
+
+msgctxt "sACC_OPTIONS_VOICEMAIL_SETTINGS"
+msgid "Voice message settings"
+msgstr "Ձայնային հաղորդագրության կարգավորում"
+
+msgctxt "sACC_OPTIONS_CALL_FORWARDING_SETTINGS"
+msgid "Call forwarding settings"
+msgstr "Զանգի վերահասցեավորման կարգավորում"
+
+msgctxt "sACC_OPTIONS_SMS_SETTINGS"
+msgid "SMS settings"
+msgstr "SMS-ի կարգավորումներ"
+
+msgctxt "sACC_OPTIONS_CALL_FORWARDING_ENTER_PHONE_COMBO_NAME"
+msgid "Enter phone number"
+msgstr "Նշեք հեռախոսահամարը"
+
+msgctxt "sACC_NAME_LIVE_SELECT_CONTACTS_LABELED_EDIT"
+msgid "Select people to add to this call"
+msgstr "Նշեք մարդկանց՝ զանգին ավելացնելու համար"
+
+msgctxt "sNOTIFY_API_DEPRECATION_MESSAGE"
+msgid ""
+"It appears you're using %0:s with Skype.  To see how 3rd party applications "
+"work with Skype, please see our <a href=\"%1:s\">FAQs</a>."
+msgstr "Կարծես օգտագործում եք %0:s-ը Skype-ի հետ: 3րդ կողմի ծրագրերը աշխատում եք Skype-ի հետ: Մանրամասներ՝ <a href=\"%1:s\">ՀՏՀ</a>:"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SMS"
+msgid "Chat via SMS, switch message type"
+msgstr "Զրույց SMS-ով, փոխել գրության ձևը"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SKYPE"
+msgid "Chat via Skype, switch message type"
+msgstr "Զրույց Skype-ով, փոխել գրության ձևը"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_FACEBOOK"
+msgid "Chat via Facebook, switch message type"
+msgstr "Զրույց Facebook-ով, փոխել գրության ձևը"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_PASSPORT"
+msgid "Chat via Messenger, switch message type"
+msgstr "Զրույց Messenger-ով, փոխել գրության ձևը"
+
+msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
+msgid "Chat via Lync, switch message type"
+msgstr "Զրույց Lync-ով, փոխել գրության ձևը"
+
+msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
+msgid ""
+"Note: Call forwarding is active. Calls will be sent first to the phone "
+"number(s) set. If there is no answer, calls will be recorded as a voice "
+"message."
+msgstr "Հուշում. Զանգի վերահասցեավորումը ակտիվ է: Զանգը կուղարկվի նշված համարին: Չպատասխանելու դեպքում զանգը կձայնագրի որպես հաղորդագրություն:"
+
+msgctxt "sF_VOICEMAIL_OPTIONS_INFO_NO_CALL_FORWARDING"
+msgid ""
+"Note: If call forwarding is on, calls will be sent first to the phone "
+"number(s) you entered. If there is no answer, calls will be recorded as a "
+"voice message."
+msgstr "Հուշում. Եթե զանգի վերահասցեավորումը ակտիվ է, ապա այն կուղարկվի նշված համարին: Չպատասխանելու դեպքում զանգը կձայնագրվի որպես հաղորդագրություն"
+
+msgctxt "sACC_ACTION_EXPAND"
+msgid "Expand"
+msgstr "Ընդարձակել"
+
+msgctxt "sACC_ACTION_COLLAPSE"
+msgid "Collapse"
+msgstr "Սահմանափակել"
+
+msgctxt "sACC_ACTION_BUTTON_CLICK"
+msgid "Click"
+msgstr "Սեղմել"
+
+msgctxt "sACC_ACTION_LINK_CLICK"
+msgid "Click"
+msgstr "Սեղմել"
+
+msgctxt "sACC_ACTION_CHECK"
+msgid "Check"
+msgstr "Ստուգել"
+
+msgctxt "sACC_NAME_STATUS_UNKNOWN2"
+msgid "This person isn't in your Contact list."
+msgstr "Այս անձը չկա Կոնտակտների ցանկում։"
+
+msgctxt "sACC_NAME_STATUS_PENDING"
+msgid "This person has not shared their details with you."
+msgstr "Այս անձը չի տարածում մանրամասները:"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED"
+msgid "Blocked"
+msgstr "Կողպված"
+
+msgctxt "sACC_NAME_STATUS_PSTN"
+msgid "Phone number"
+msgstr "Հեռախոսահամար"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE"
+msgid "Offline"
+msgstr "Անցանց"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_VM"
+msgid "Offline with voice messaging"
+msgstr "Անցանց՝ ձայնային գրությամբ"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_CF"
+msgid "Offline with call forwarding"
+msgstr "Անցանց՝ զանգի վերահասցեավորումով"
+
+msgctxt "sACC_NAME_STATUS_ONLINE"
+msgid "Online"
+msgstr "Անցանց"
+
+msgctxt "sACC_NAME_STATUS_AWAY"
+msgid "Away"
+msgstr "Տեղում չեմ"
+
+msgctxt "sACC_NAME_STATUS_DND"
+msgid "Do Not Disturb"
+msgstr "Չանհանգստացնել"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_MOBILE"
+msgid "Online on a mobile device"
+msgstr "Առցանց բջջայինով"
+
+msgctxt "sACC_NAME_STATUS_AWAY_MOBILE"
+msgid "Away on a mobile device"
+msgstr "Տեղում չեմ բջջային սարքում"
+
+msgctxt "sACC_NAME_STATUS_DND_MOBILE"
+msgid "Do Not Disturb status on a mobile device"
+msgstr "Չանհանգստացնել վիճակ բջջային սարքում"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_FLAMINGO"
+msgid "Facebook contact Blocked"
+msgstr "Facebook-ի կոնտակտը արգելափակվել է"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_FLAMINGO"
+msgid "Facebook contact Offline"
+msgstr "Facebook-ի կոնտակտը անցանց է"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_FLAMINGO"
+msgid "Facebook contact Online"
+msgstr "Facebook-ի կոնտակտը առցանց է"
+
+msgctxt "sACC_NAME_STATUS_AWAY_FLAMINGO"
+msgid "Facebook contact Away"
+msgstr "Facebook-ի կոնտակտը հեռու է"
+
+msgctxt "sACC_NAME_STATUS_DND_FLAMINGO"
+msgid "Facebook contact on Do Not Disturb"
+msgstr "Facebook-ի կոնտակտը՝ Չանհանգտացնել "
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_PASSPORT"
+msgid "Messenger contact Blocked"
+msgstr "Messenger-ի կոնտակտը արգելափակվել է"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_PASSPORT"
+msgid "Messenger contact Offline"
+msgstr "Messenger-ի կոնտակտը անցանց է"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_PASSPORT"
+msgid "Messenger contact Online"
+msgstr "Messenger-ի կոնտակտը առցանց է"
+
+msgctxt "sACC_NAME_STATUS_AWAY_PASSPORT"
+msgid "Messenger contact Away"
+msgstr "Messenger-ի կոնտակտը հեռու է"
+
+msgctxt "sACC_NAME_STATUS_DND_PASSPORT"
+msgid "Messenger contact on Do Not Disturb"
+msgstr "Messenger-ի կոնտակտը՝ Չանհանգտացնել "
+
+msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
+msgid "This person has not shared their details with you. Lync"
+msgstr "Այս անձը չի տարածում մանրամասները: Lync"
+
+msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
+msgid "Lync contact Blocked"
+msgstr "Lync-ի կոնտակտը արգելափակվել է"
+
+msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
+msgid "Lync contact Offline"
+msgstr "Lync-ի կոնտակտը անցանց է"
+
+msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
+msgid "Lync contact Online"
+msgstr "Lync-ի կոնտակտը առցանց է"
+
+msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
+msgid "Lync contact Away"
+msgstr "Lync-ի կոնտակտը հեռու է"
+
+msgctxt "sACC_NAME_STATUS_DND_LYNC"
+msgid "Lync contact on Do Not Disturb"
+msgstr "Lync-ի կոնտակտը՝ Չանհանգտացնել "
+
+msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
+msgid "Use Skype to call tel: links on the web"
+msgstr "Օգտ. Skype-ը զանգ կատարելու համար վեբում"
+
+msgctxt "sCALL_POPUP_CALL_FLAMINGO"
+msgid "Call Facebook"
+msgstr "Զանգել Facebook"
+
+msgctxt "sCALL_POPUP_CALL_LYNC"
+msgid "Call Lync"
+msgstr "Զանգել Lync"
+
+msgctxt "sCALL_POPUP_CALL_SKYPE"
+msgid "Call Skype"
+msgstr "Զանգել Skype"
+
+msgctxt "sCALL_POPUP_CALL_HOME"
+msgid "Call home%0:s (%1:s)"
+msgstr "Զանգել տուն%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE"
+msgid "Call office%0:s (%1:s)"
+msgstr "Զանգել աշխատավայր%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE"
+msgid "Call mobile%0:s (%1:s)"
+msgstr "Զանգել բջջայինի%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER"
+msgid "Call other%0:s (%1:s)"
+msgstr "Զանգել այլ%0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE"
+msgid "Call phone %0:s (%1:s)"
+msgstr "Բջջային %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME"
+msgid "SMS home %0:s (%1:s)"
+msgstr "SMS տուն %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE"
+msgid "SMS office %0:s (%1:s)"
+msgstr "SMS աշխատավայր %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE"
+msgid "SMS mobile %0:s (%1:s)"
+msgstr "SMS բջջային %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER"
+msgid "SMS other %0:s (%1:s)"
+msgstr "SMS այլ %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE"
+msgid "SMS phone %0:s (%1:s)"
+msgstr "SMS համարին %0:s (%1:s)"
+
+msgctxt "sACC_NAME_CHAT_PARTICIPANT_LIST"
+msgid "Participant List"
+msgstr "Մասնակիցների ցանկ"
+
+msgctxt "sACC_NAME_CHAT_CONTENT_LIST"
+msgid "Chat Content List"
+msgstr "Զրույցի բովանդակությունը"
+
+msgctxt "sACC_NAME_FILE_MESSAGE"
+msgid "From %0:s, file transfer: %1:s, on %2:s"
+msgstr "%0:s-ից, ֆայլի փոխանցում. %1:s, %2:s-ում"
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE"
+msgid "From %0:s, video message, sent on %1:s"
+msgstr "%0:s-ից, տեսահաղորդագրություն, ուղարկվել է՝ %1:s"
+
+msgctxt "sACC_NAME_SMS_MESSAGE"
+msgid "From %0:s, SMS message: %1:s, sent on %2:s"
+msgstr "%0:s-ից, SMS գրութուն. %1:s, ուղարկվել է՝ %2:s"
+
+msgctxt "sACC_NAME_SMS_MESSAGE2"
+msgid "From %0:s, SMS message: %1:s, %2:s, on %3:s"
+msgstr "%0:s-ից, SMS գրություն. %1:s, %2:s ուղարկվել է՝ %3:s"
+
+msgctxt "sF_OPTIONS_PAGE_ACCESSIBILITY"
+msgid "Accessibility"
+msgstr "Հասանելիություն"
+
+msgctxt "sF_OPTIONS_LBC_ACCESSIBILITY"
+msgid "<b>Accessibility:</b> Make Skype more accessible for you"
+msgstr "<b>Հասանելիություն.</b> Skype-ը դարձնել ավելի հասանելի"
+
+msgctxt "sF_ACC_SETTINGS"
+msgid "Enable accessible mode"
+msgstr "Միացնել հասնելիությունը"
+
+msgctxt "sACC_NAME_PIN_ICON"
+msgid "Add %s to favorites"
+msgstr "%s-ին ավելացնել ընտրյալներում"
+
+msgctxt "sACC_NAME_UNPIN_ICON"
+msgid "Remove %s from favorites"
+msgstr "%s-ը հեռացնել ընտրյալներից"
+
+msgctxt "sF_ACC_NAME_CHOOSE_CONTACTS_LIST"
+msgid "Choose contacts"
+msgstr "Ընտրել կոնտակտներ"
+
+msgctxt "sF_ACC_NAME_SELECTED_CONTACTS_LIST"
+msgid "Selected contacts"
+msgstr "Նշված կոնտակտները"
+
+msgctxt "sF_ACC_ENTER_PHONE"
+msgid "Enter phone"
+msgstr "Նշեք հ/համարը"
+
+msgctxt "sF_ACC_SMS_CONFIRM_SEND"
+msgid "Confirm sending"
+msgstr "Հաստատել"
+
+msgctxt "sACC_CHAT_HISTORY_MESSAGE_CUSTOM"
+msgid "Messages from %s. Press tab to change history period."
+msgstr "Գրություն %s-ից: Սեղմեք tab՝ փոխելու պատմության շրջանը:"
+
+msgctxt "sACC_CHAT_HISTORY_YESTERDAY"
+msgid "Messages from yesterday. Press tab to change history period."
+msgstr "Գրություն երեկվանից: Սեղմեք tab-ը՝ փոխելու պատմության շրջանը:"
+
+msgctxt "sACC_CHAT_HISTORY_7DAYS"
+msgid "Messages for the last 7 days. Press tab to change history period."
+msgstr "Վերջին  7 օրերի գրությունները: Սեղմեք tab-ը՝ փոխելու պատմության շրջանը:"
+
+msgctxt "sACC_CHAT_HISTORY_30DAYS"
+msgid "Messages for the last 30 days. Press tab to change history period."
+msgstr "Վերջին  30  օրերի գրությունները: Սեղմեք tab-ը՝ փոխելու պատմության շրջանը:"
+
+msgctxt "sACC_CHAT_HISTORY_3M"
+msgid "Messages for the last 3 months. Press tab to change history period."
+msgstr "Վերջին 3 ամիսների գրությունները: Սեղմեք tab՝ փոխելու պատմության շրջանը:"
+
+msgctxt "sACC_CHAT_HISTORY_6M"
+msgid "Messages for the last 6 months. Press tab to change history period."
+msgstr "Վերջին 6 ամիսների գրությունները: Սեղմեք tab՝ փոխելու պատմության շրջանը:"
+
+msgctxt "sACC_CHAT_HISTORY_12M"
+msgid "Messages for the last year. Press tab to change history period."
+msgstr "Վերջին տարվա  գրությունները: Սեղմեք tab՝ փոխելու պատմության շրջանը:"
+
+msgctxt "sACC_CHAT_HISTORY_BEGINNING"
+msgid "Messages from the beginning. Press tab to change history period."
+msgstr "Գրությունները ամենասկզբից: Սեղմեք tab՝ փոխելու պատմության շրջանը:"
+
+msgctxt "sACC_SHOW_CONTACT_PROFILE_HEADER"
+msgid "Chatting with %s, press enter to show contact profile"
+msgstr "Զրույց %s-ի հետ: Սեղմեք enter՝ ցուցադրելու կոնտակտի պրոֆիլը"
+
+msgctxt "sACC_HIDE_CONTACT_PROFILE_HEADER"
+msgid "Chatting with %s, press enter to hide contact profile"
+msgstr "Զրույց %s-ի հետ: Սեղմեք enter՝ թաքցնելու կոնտակտի պրոֆիլը"
+
+msgctxt "sACC_GSW_SELECT_SPEAKER"
+msgid "Select speaker"
+msgstr "Ընտրեք բարձրախոսը"
+
+msgctxt "sACC_GSW_SELECT_MIC"
+msgid "Select microphone"
+msgstr "Ընտրեք խոսափողը"
+
+msgctxt "sACC_GSW_PROFILE_PICTURE"
+msgid "Profile picture"
+msgstr "Պրոֆիլի նկար"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P"
+msgid ""
+"has updated this group with a better chat experience. To join and keep "
+"chatting get the latest download. Go to skype.com/updateme. %0:sLearn more "
+"about new group chat%1:s."
+msgstr "թարմացրել է այս խումբը: Խմբում մնալու համար ներբեռնեք վերջին թարմացումը՝ skype.com/updateme: %0:sՄանրամասներ նոր խմբային զրույցի մասին%1:s:"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_DOGFOOD"
+msgid ""
+"has a new version of Skype with a better chat experience. To join and keep "
+"chatting get the latest download. Go to %0:s"
+msgstr "ունի Skype-ի նոր տարբերակը: Խմբում մնալու համար ներբեռնեք վերջին թարմացումը՝ %0:s"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_INPUT"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%0:s\">Go to the new chat</a>."
+msgstr "Զրույցը թարմացվել է նոր տարբերակով: <a href=\"skype:?chat&id=%0:s\">Անցնել նոր զրույցի</a>:"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%1\">Go to the new chat</a>."
+msgstr "Զրույցը թարմացվել է նոր տարբերակով: <a href=\"skype:?chat&id=%1\">Անցնել նոր զրույցի</a>:"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHATEX"
+msgid ""
+"This chat has been updated to a new version. <a "
+"href=\"skype:?chat&id=%0:s\">Go to the new chat</a>."
+msgstr "Զրույցը թարմացվել է նոր տարբերակով: <a href=\"skype:?chat&id=%0:s\">Անցնել նոր զրույցի</a>:"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
+msgid "Show messages from <a href=\"skype:?chat&id=%1\">older chat</a>."
+msgstr "Ցուցադրել <a href=\"skype:?chat&id=%1\">հին զրույցի</a> գրությունները:"
+
+msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASEDEX"
+msgid "Show messages from <a href=\"skype:?chat&id=%0:s\">older chat</a>."
+msgstr "Ցուցադրել <a href=\"skype:?chat&id=%0:s\">հին զրույցի</a> գրությունները:"
+
+msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
+msgid ""
+"This chat has been updated to a new version. Press tab to go to the new "
+"chat."
+msgstr "Զրույցը թարմացվել է նոր տարբերակով: Սեղմեք tab՝ նոր զրույցին անցնելու համար:"
+
+msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
+msgid ""
+"This chat has been updated to a new version. Press tab to show messages from"
+" older chat."
+msgstr "Զրույցը թարմացվել է նոր տարբերակով: Սեղմեք tab՝ հին զրույցին անցնելու համար:"
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_SINGLE"
+msgid ""
+"%0:s needs to update Skype to participate in this chat. Help by sending them"
+" to skype.com/updateme. %1:sLearn more about new group chat%2:s."
+msgstr "%0:s-ը պետք է թարմացնի Skype-ը՝ զրույցին մասնակցելու համար՝ skype.com/updateme. %1:sՄանրամասներ նոր խմբային զրույցի մասին%2:s:"
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_SINGLE_DOGFOOD"
+msgid ""
+"%0:s needs to update Skype to participate in this chat. Help by sending them"
+" to %1:s"
+msgstr "%0:s-ը պետք է թարմացնի Skype-ը՝ զրույցին մասնակցելու համար՝ %1:s"
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_PLURAL"
+msgid ""
+"%0:s need to update Skype to participate in this chat. Help by sending them "
+"to skype.com/updateme. %1:sLearn more about new group chat%2:s."
+msgstr "%0:s-ը պետք է թարմացնի Skype-ը՝ զրույցին մասնակցելու համար՝ skype.com/updateme. %1:sՄանրամասներ նոր խմբային զրույցի մասին%2:s:"
+
+msgctxt "sCHAT_LEGACY_MEMBER_ADDED_PLURAL_DOGFOOD"
+msgid ""
+"%0:s need to update Skype to participate in this chat. Help by sending them "
+"to %1:s"
+msgstr "%0:s-ը պետք է թարմացնի Skype-ը՝ զրույցին մասնակցելու համար՝ %1:s"
+
+msgctxt "sCHAT_LEGACY_MEMBER_UPGRADED"
+msgid "%0:s can now participate in this chat."
+msgstr "Այժմ %0:s-ը կարող է մասնակցել զրույցին"
+
+msgctxt "sACC_GSW_SPEAKER_HELP_BUTTON"
+msgid "Speakers help button"
+msgstr "Բարձրախոսերի օգնության կոճակ"
+
+msgctxt "sACC_GSW_MIC_HELP_BUTTON"
+msgid "Microphone help button"
+msgstr "Խոսափողերի օգնության կոճակ"
+
+msgctxt "sACC_GSW_SELECT_WEBCAM"
+msgid "Select web camera"
+msgstr "Ընտրել խցիկ"
+
+msgctxt "sVP8LEGACY_CLIENT_GVC_CAPABLE"
+msgid ""
+"%s needs to get the latest version of Skype at skype.com/updateme to "
+"experience group video and sharing."
+msgstr "%s-ը պետք է թարմացնի Skype-ը՝ skype.com/updateme՝ մասնակցնելու խմբային տեսազանգերի:"
+
+msgctxt "sVP8LEGACY_CLIENT_GVC_NOT_CAPABLE"
+msgid ""
+"%s can't experience group video calling because their device doesn't support"
+" it."
+msgstr "%s-ը չի կարող մասնակցել խմբային տեսազանգերի, քանի որ սարքը չի աջակցում դա:"
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_DESC"
+msgid ""
+"are using versions of Skype that don't support group video and "
+"sharing.<br/>Would you like to send a link to update?"
+msgstr "օգտագործում են Skype-ի այն տարբերակը, որը չի աջակցում խմբային տեսազանգեր:<br/>Ուղարկե՞լ թարմացնելու հղումը:"
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_DESC_SINGLE"
+msgid ""
+"is using a version of Skype that doesn't support group video and "
+"sharing.<br/>Would you like to send a link to update?"
+msgstr "օգտագործում է Skype-ի այն տարբերակը, որը չի աջակցում խմբային տեսազանգեր:<br/>Ուղարկե՞լ թարմացնելու հղումը:"
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_SEND"
+msgid "Send"
+msgstr "Ուղարկել"
+
+msgctxt "sVP8LEGACY_SEND_UPGRADE_CANCEL"
+msgid "Not now"
+msgstr "Ոչ հիմա"
+
+msgctxt "sVP8LEGACY_UPGRADE_MESSAGE"
+msgid ""
+"You need to update Skype to participate in this group video call. Get the "
+"latest version at skype.com/updateme."
+msgstr "Պետք է թարմացնեք Skype-ը՝ այս խմբային տեսազանգին մասնակցելու համար: Վերջին տարբերակը՝ skype.com/updateme:"
+
+msgctxt "sLIVE_TOGGLE_ORIGINAL_VIDEO_SIZE"
+msgid "Show Full Size Video"
+msgstr "Ցուցադրել ամբողջ չափով տեսանյութ"
+
+msgctxt "sVP8LEGACY_UPGRADE_LEGACY_HOST"
+msgid ""
+"In order to receive video from everyone in this call, %s and other "
+"participants may need to update Skype or use a supported device. <a "
+"href=\"%s\">Find out more</a>"
+msgstr "Այս զանգի համար բոլորից տեսանյութ ստանալու համար %s և այլ մասնակիցներ պետք է թարմացնեն Skype-ը կամ օգտագործեն սարք, որն այն աջակցում է: <a href=\"%s\">Մանրամասներ</a>"
+
+msgctxt "sCONFIRM_FILE_TRANSFER_OK"
+msgid "Ok"
+msgstr "ԼԱՎ"
+
+msgctxt "sCONFIRM_FILE_TRANSFER_CANCEL"
+msgid "Close"
+msgstr "Փակել"
+
+msgctxt "sF_OPTIONS_CALLFORWARDING_ONE_INFO"
+msgid ""
+"You'll need <a href=\"%0:s\">Skype Credit</a> or a subscription to forward "
+"calls.<br/><br/>Calls forwarded to a phone number will be charged at <a "
+"href=\"%1:s\">our rates</a> for calling phones and mobiles or may be "
+"included as part of your subscription."
+msgstr "Ձեզ պետք է <a href=\"%0:s\">Skype-ի հաշիվ</a> կամ բաժանորդագրություն՝ զանգը փոխանցելու համար:.<br/><br/>Հեռախոսահամարին զանգը փոխանցելու համար կգանձվի համաձայն <a href=\"%1:s\">մեր գների</a>:"
+
+msgctxt "sF_OPTIONS_CALLFORWARDING_ALL_INFO"
+msgid ""
+"You'll need <a href=\"%0:s\">Skype Credit</a> or a subscription to forward "
+"calls.<br/><br/>Calls will be forwarded to all phone numbers at the same "
+"time.<br/>Calls forwarded to a phone number will be charged at <a "
+"href=\"%1:s\">our rates</a> for calling phones and mobiles or may be "
+"included as part of your subscription."
+msgstr "Ձեզ պետք է <a href=\"%0:s\">Skype-ի հաշիվ</a> կամ բաժանորդագրություն՝ զանգը փոխանցելու համար:.<br/><br/>Զանգերը կփոխանցվեն նույն պահին: Հեռախոսահամարին զանգը փոխանցելու համար կգանձվի համաձայն <a href=\"%1:s\">մեր գների</a>:"
+
+msgctxt "sCALL_POPUP_CALL_HOME_FIRST"
+msgid "Call home (%0:s)"
+msgstr "Զանգել տուն (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE_FIRST"
+msgid "Call office (%0:s)"
+msgstr "Զանգել աշխատավայր (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE_FIRST"
+msgid "Call mobile (%0:s)"
+msgstr "Զանգել բջջայինի (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER_FIRST"
+msgid "Call other (%0:s)"
+msgstr "Զանգել այլ (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE_FIRST"
+msgid "Call phone (%0:s)"
+msgstr "Զանգել համարի (%0:s)"
+
+msgctxt "sCALL_POPUP_CALL_HOME_SUBSEQUENT"
+msgid "Call home %0:s (%1:s)"
+msgstr "Զանգել տուն %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OFFICE_SUBSEQUENT"
+msgid "Call office %0:s (%1:s)"
+msgstr "Զանգել աշխատավայր %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_MOBILE_SUBSEQUENT"
+msgid "Call mobile %0:s (%1:s)"
+msgstr "Զանգել բջջայինի %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_OTHER_SUBSEQUENT"
+msgid "Call other %0:s (%1:s)"
+msgstr "Զանգել այլ %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_CALL_PHONE_SUBSEQUENT"
+msgid "Call phone %0:s (%1:s)"
+msgstr "Զանգել համարի %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME_FIRST"
+msgid "SMS home (%0:s)"
+msgstr "SMS տուն (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE_FIRST"
+msgid "SMS office (%0:s)"
+msgstr "SMS աշխատավայր (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE_FIRST"
+msgid "SMS mobile (%0:s)"
+msgstr "SMS բջջային (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER_FIRST"
+msgid "SMS other (%0:s)"
+msgstr "SMS այլ (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE_FIRST"
+msgid "SMS phone (%0:s)"
+msgstr "SMS տուն (%0:s)"
+
+msgctxt "sCALL_POPUP_SMS_HOME_SUBSEQUENT"
+msgid "SMS home %0:s (%1:s)"
+msgstr "SMS տուն %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OFFICE_SUBSEQUENT"
+msgid "SMS office %0:s (%1:s)"
+msgstr "SMS աշխատավայր %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_MOBILE_SUBSEQUENT"
+msgid "SMS mobile %0:s (%1:s)"
+msgstr "SMS բջջային %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_OTHER_SUBSEQUENT"
+msgid "SMS other %0:s (%1:s)"
+msgstr "SMS այլ %0:s (%1:s)"
+
+msgctxt "sCALL_POPUP_SMS_PHONE_SUBSEQUENT"
+msgid "SMS phone %0:s (%1:s)"
+msgstr "SMS համարին %0:s (%1:s)"
+
+msgctxt "sPROFILE_FACEBOOK_PRESENCE"
+msgid "Facebook > %s"
+msgstr "Facebook > %s"
+
+msgctxt "sPROFILE_MESSENGER_PRESENCE"
+msgid "Messenger > %s"
+msgstr "Messenger > %s"
+
+msgctxt "sPROFILE_LYNC_PRESENCE"
+msgid "Lync > %s"
+msgstr "Lync > %s"
+
+msgctxt "sCHAT_PROFILE_ONE_PERSON"
+msgid "%d person"
+msgstr "%d անձ"
+
+msgctxt "sCHAT_PROFILE_MANY_PERSONS"
+msgid "%d people"
+msgstr "%d մարդ"
+
+msgctxt "sCHAT_PROFILE_ZERO_PERSONS"
+msgid "0 people"
+msgstr "0 մարդ"
+
+msgctxt "sCHAT_PROFILE_AVATAR_ACC_NAME"
+msgid "Conversation with %s, view profile"
+msgstr "Զրույց %s-ի հետ, դիտել պրոֆիլը"
+
+msgctxt "sCHAT_HISTORY_P2P_CHAT"
+msgid "older chat"
+msgstr "հին զրույց"
+
+msgctxt "sPARTICIPANT_CONTEXT_MENU_SEND"
+msgid "Send"
+msgstr "Ուղարկել"
+
+msgctxt "sPARTICIPANT_CONTEXT_MENU_SETNUMBER"
+msgid "Group call to..."
+msgstr "Խմբային զանգ..."
+
+msgctxt "sMAIN_MENU_DOGFOOD_FEEDBACK"
+msgid "Dogfood feedback"
+msgstr "Dogfood արձագանք"
+
+msgctxt "sPLUS_MENU_SEND_SMS"
+msgid "Send SMS..."
+msgstr "Ուղարկել SMS..."
+
+msgctxt "sCHANNEL_SWITCHER_VIA_SMS_MULTIPLE"
+msgid "Send SMS to %s"
+msgstr "Ուղարկել SMS %s-ին"
+
+msgctxt "sFLOW_AUTH_REQUEST_HEADER"
+msgid "<b>%s</b> would like to add you on Skype"
+msgstr "<b>%s</b>-ը ցանկանում է ավելացնել ձեզ Skype-ում"
+
+msgctxt "sCHAT_HISTORY_JUMPBACK"
+msgid "Jump Back"
+msgstr "Քայլ հետ"
+
+msgctxt "sMSNP24_MERGE_MESSAGE"
+msgid "From now on your chats will sync on all your devices."
+msgstr "Այժմ զրույցը կհամաժամեցվի բոլոր սարքերում:"
+
+msgctxt "sCHAT_TYPING_ONE"
+msgid "%s is typing..."
+msgstr "%s-ը տպում է..."
+
+msgctxt "sCHAT_TYPING_TWO"
+msgid "%s and %s are typing..."
+msgstr "%s-ը և %s-ը տպում են..."
+
+msgctxt "sCHAT_TYPING_MANY"
+msgid "%s, %s and others are typing..."
+msgstr "%s, %s և ուրիշները տպում են..."
+
+msgctxt "sRMC_NONE"
+msgid "How was the quality of this call?"
+msgstr "Ի՞նչ որակի էր զանգը։"
+
+msgctxt "sRMC_ONE_STAR"
+msgid "Really poor. <a href=\"%s\">Tell us more.</a>"
+msgstr "Շատ վատ։ <a href=\"%s\">Մանրամասնել։</a>"
+
+msgctxt "sRMC_TWO_STARS"
+msgid "Poor. <a href=\"%s\">Help us to fix it.</a>"
+msgstr "Վատ։ <a href=\"%s\">Օգնեք շտկել։</a>"
+
+msgctxt "sRMC_THREE_STARS"
+msgid "Fair. <a href=\"%s\">Help us to fix it.</a>"
+msgstr "Բավարար։ <a href=\"%s\">Օգնեք շտկել։</a>"
+
+msgctxt "sRMC_FOUR_STARS"
+msgid "Good. <a href=\"%s\">Help us to fix it.</a>"
+msgstr "Լավ։ <a href=\"%s\">Օգնեք շտկել։</a>"
+
+msgctxt "sRMC_FIVE_STARS"
+msgid "Excellent."
+msgstr "Գերազանց։"
+
+msgctxt "sTHANKS_FOR_YOUR_FEEDBACK"
+msgid "Many thanks. You've just made some engineers at Skype very happy..."
+msgstr "Շնորհակալություն։ Դուք հենց նոր երջանիկ դարձրեցրիք Skype-ի որոշ ինժիներների..."
+
+msgctxt "sINBOX_PENDING_CONTACT_REQUESTS"
+msgid "Pending contact requests"
+msgstr "Սպսաում է կոնտակտների հարցումների"
+
+msgctxt "stalktothehand_SMILEY"
+msgid "Talk to the hand"
+msgstr ""
+
+msgctxt "sidea_SMILEY"
+msgid "Idea"
+msgstr "Մտահաղացում"
+
+msgctxt "ssheep_SMILEY"
+msgid "Sheep"
+msgstr "Ոչխար"
+
+msgctxt "scat_SMILEY"
+msgid "Cat"
+msgstr "Կատու"
+
+msgctxt "sbike_SMILEY"
+msgid "Bicycle"
+msgstr "Հեծանիվ"
+
+msgctxt "sdog_SMILEY"
+msgid "Dog"
+msgstr "Շուն"
+
+msgctxt "scaptain_SMILEY"
+msgid "Captain America"
+msgstr "Կապիտան Ամերիկա"
+
+msgctxt "sbucky_SMILEY"
+msgid "Bucky"
+msgstr "Բակի"
+
+msgctxt "sblackwidow_SMILEY"
+msgid "Black Widow"
+msgstr "Սև պատուհան"
+
+msgctxt "snickfury_SMILEY"
+msgid "Nick Fury"
+msgstr "Նիք Ֆյուրի"
+
+msgctxt "sshielddeflect_SMILEY"
+msgid "Shield"
+msgstr "Վահան"
+
+msgctxt "sCALLNOTIF_TITLE_V2"
+msgid "%s calling..."
+msgstr "%s-ը զանգում է..."
+
+msgctxt "sSCREENSHARE_OPTION_DESKTOP"
+msgid "Share your screen"
+msgstr "Տածարել էկրանը"
+
+msgctxt "sSCREENSHARE_OPTION_WINDOW"
+msgid "Share a window"
+msgstr "Տարածել պատուհանը"
+
+msgctxt "sLIVE_CONVERSATION_HEADER_PARTICIPANTS"
+msgid "%d participants"
+msgstr "%d մասնակից"
+
+msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
+msgid "Show images in conversations"
+msgstr "Զրույցի ժամանակ ցուցադրել նկարները"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
+msgid "Sent"
+msgstr "Ուղարկված"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2_ASYNC"
+msgid "Transfer failed"
+msgstr "Փոխանցումը ձախողվեց"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_SENDING_2_ASYNC"
+msgid "Sending failed"
+msgstr "Ուղարկումը ձախողվեց"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_ASYNC"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_FOR_ACCEPT"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "sFILETRANSFER_PROGRESS_ASYNC"
+msgid "%s of %s..."
+msgstr "%s-ը %s-ից..."
+
+msgctxt "sFILETRANSFER_PROGRESS_ASYNC_GROUP"
+msgid "%s of %s"
+msgstr "%s-ը %s-ից"
+
+msgctxt "sFILETRANSFER_FILE_MOVED"
+msgid "File moved"
+msgstr "Ֆայլը տեղափոխվել է"
+
+msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
+msgid "Show in folder"
+msgstr "Ցուցադրել թղթապանակում"
+
+msgctxt "sFILETRANSFER_AUTO_ACCEPT"
+msgid "Automatically accept incoming files"
+msgstr "Միանգամից ընդունել մուտքային ֆայլերը"
+
+msgctxt "sFILETRANSFER_INLINE_IMAGES"
+msgid "Show images in conversations"
+msgstr "Զրույցի ժամանակ ցուցադրել նկարները"
+
+msgctxt "sFILETRANSFER_PHOTO_COUNT_SINGLE"
+msgid "photo"
+msgstr "լուսանկար"
+
+msgctxt "sFILETRANSFER_PHOTO_COUNT_MANY"
+msgid "photos"
+msgstr "լուսանկարներ"
+
+msgctxt "sFILETRANSFER_FILE_COUNT_SINGLE"
+msgid "file"
+msgstr "ֆայլ"
+
+msgctxt "sFILETRANSFER_FILE_COUNT_MANY"
+msgid "files"
+msgstr "ֆայլեր"
+
+msgctxt "sFILETRANSFER_FILES_SENT"
+msgid "Files sent"
+msgstr "Ֆայլեր ուղարկվել են"
+
+msgctxt "sFILETRANSFER_FILES_RECEIVED"
+msgid "Files received"
+msgstr "Ֆայլեր են ստացվել"
+
+msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
+msgid "Download all"
+msgstr "Ներբեռնել բոլորը"
+
+msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
+msgid "Cancel all"
+msgstr "Չեղարկել բոլորը"
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
+msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
+msgstr "(ուղարկել <a href=\"{%link%}\">{%n%} անձի</a>)"
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_MANY"
+msgid "(sent to <a href=\"{%link%}\">{%n%} people</a>)"
+msgstr "(ուղարկել <a href=\"{%link%}\">{%n%} անձի</a>)"
+
+msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_EVERYONE"
+msgid "(sent to <a href=\"{%link%}\">everyone</a>)"
+msgstr "(ուղարկել <a href=\"{%link%}\">{%n%} անձի</a>)"
+
+msgctxt "sFILETRANSFER_SENT_TO_ONE"
+msgid "Sent to <a href=\"{%link%}\">{%n%} person</a>"
+msgstr "Ուղարկել <a href=\"{%link%}\">{%n%} անձի</a>"
+
+msgctxt "sFILETRANSFER_SENT_TO_MANY"
+msgid "Sent to <a href=\"{%link%}\">{%n%} people</a>"
+msgstr "Ուղարկել <a href=\"{%link%}\">{%n%} անձի</a>"
+
+msgctxt "sFILETRANSFER_SENT_TO_EVERYONE"
+msgid "Sent to <a href=\"{%link%}\">everyone</a>"
+msgstr "Ուղարկել <a href=\"{%link%}\">բոլորին</a>"
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_ONE"
+msgid "(sending to <a href=\"{%link%}\">{%n%} person</a>)"
+msgstr "(ուղարկում է <a href=\"{%link%}\">{%n%} անձին</a>)"
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_MANY"
+msgid "(sending to <a href=\"{%link%}\">{%n%} people</a>)"
+msgstr "(ուղարկում է <a href=\"{%link%}\">{%n%} մարդկանց</a>)"
+
+msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_EVERYONE"
+msgid "(sending to <a href=\"{%link%}\">everyone</a>)"
+msgstr "(ուղարկում է <a href=\"{%link%}\">բոլորին</a>)"
+
+msgctxt "sFILETRANSFER_SENDING_TO_ONE"
+msgid "to <a href=\"{%link%}\">{%n%} person</a>..."
+msgstr "<a href=\"{%link%}\">{%n%} անձի</a>..."
+
+msgctxt "sFILETRANSFER_SENDING_TO_MANY"
+msgid "to <a href=\"{%link%}\">{%n%} people</a>..."
+msgstr "<a href=\"{%link%}\">{%n%} անձի</a>..."
+
+msgctxt "sFILETRANSFER_SENDING_TO_EVERYONE"
+msgid "to <a href=\"{%link%}\">everyone</a>..."
+msgstr "<a href=\"{%link%}\">յուրաքանչյուրին</a>..."
+
+msgctxt "sFILETRANSFER_SUMMARY_MORE_FILES"
+msgid "%d more file(s)"
+msgstr "%d այլ ֆայլեր"
+
+msgctxt "sFILESIZE_PREFIXES_ASYNC"
+msgid "\\K\\M\\G\\T"
+msgstr "\\Կ\\Մ\\Գ\\Տ"
+
+msgctxt "sFILESIZE_UNIT_ASYNC"
+msgid "B"
+msgstr "Բ"
+
+msgctxt "sCONTACT_MSG_MULTIPLE_SENT"
+msgid "contacts sent"
+msgstr "կոնտակտ է ուղարկվել"
+
+msgctxt "sCONTACT_MSG_MULTIPLE_RECEIVED"
+msgid "contacts received"
+msgstr "կոնտակտ է ստացվել"
+
+msgctxt "sCONTACT_MSG_CONTACT_SENT"
+msgid "Contact sent"
+msgstr "Կոնտակտ է ուղարկվել"
+
+msgctxt "sCONTACT_MSG_CONTACT_EXISTING"
+msgid "Already a contact"
+msgstr "Արդեն կոնտակտներում է"
+
+msgctxt "sCONTACT_MSG_CONTACT_NEW"
+msgid "Add to contacts"
+msgstr "Ավելացնել կոնտակտներում"
+
+msgctxt "sF_USERPROFILE_SKYPE"
+msgid "Skype:"
+msgstr "Skype."
+
+msgctxt "sF_USERPROFILE_HOME_FIRST"
+msgid "Home:"
+msgstr "Տուն."
+
+msgctxt "sF_USERPROFILE_OFFICE_FIRST"
+msgid "Office:"
+msgstr "Աշխ."
+
+msgctxt "sF_USERPROFILE_MOBILE_FIRST"
+msgid "Mobile:"
+msgstr "Բջջային."
+
+msgctxt "sF_USERPROFILE_OTHER_FIRST"
+msgid "Other:"
+msgstr "Այլ."
+
+msgctxt "sF_USERPROFILE_PHONE_FIRST"
+msgid "Phone:"
+msgstr "Համար."
+
+msgctxt "sF_USERPROFILE_HOME_SUBSEQUENT"
+msgid "Home %0:s:"
+msgstr "Տուն %0:s:"
+
+msgctxt "sF_USERPROFILE_OFFICE_SUBSEQUENT"
+msgid "Office %0:s:"
+msgstr "Աշխ. %0:s:"
+
+msgctxt "sF_USERPROFILE_MOBILE_SUBSEQUENT"
+msgid "Mobile %0:s:"
+msgstr "Բջջային %0:s:"
+
+msgctxt "sF_USERPROFILE_OTHER_SUBSEQUENT"
+msgid "Other %0:s:"
+msgstr "Այլ %0:s:"
+
+msgctxt "sF_USERPROFILE_PHONE_SUBSEQUENT"
+msgid "Phone %0:s:"
+msgstr "Համար %0:s:"
+
+msgctxt "sF_USERPROFILE_ADD_NUMBER"
+msgid "Add Number"
+msgstr "Ավելացնել համար"
+
+msgctxt "sF_CHAT_INFO_PEOPLE"
+msgid "%0:s people"
+msgstr "%0:s մարդ"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS"
+msgid "Conversation notifications"
+msgstr "Զրույցների ծանուցումներ"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS_NOTIFY"
+msgid "Notify me when something new happens"
+msgstr "Ծանուցել նորությունների մասին"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS"
+msgid "Creator settings"
+msgstr "Ստեղծողի կարգավորումներ"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
+msgid "Make chat history available to new joiners"
+msgstr "Զրույցի պատմությունը հասանելի դարձնել նորեկների համար"
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOIN"
+msgid "Allow people to join this group"
+msgstr "Թույլատրել մարդկանց միանալու այս խմբին"
+
+msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
+msgid "Administrator settings"
+msgstr "Ադմինի կարգավորումներ"
+
+msgctxt "sF_CHAT_INFO_COPY_LINK"
+msgid "Copy conversation link"
+msgstr "Պատճենել զրույցի հղումը"
+
+msgctxt "sF_CHAT_INFO_LEAVE"
+msgid "Leave this conversation?"
+msgstr "Լքե՞լ զրույցը։"
+
+msgctxt "sF_CHAT_INFO_LEAVE_ASK"
+msgid "Always ask"
+msgstr "Միշտ հարցնել"
+
+msgctxt "sSIDEBAR_HOME_TOOLTIP"
+msgid "See updates from your contacts in Skype Home."
+msgstr "Դիտել կոնտակտների թարմացումները Skype-ի Տանը:"
+
+msgctxt "sSIDEBAR_DIAL_TOOLTIP"
+msgid "Call mobiles and landlines from the dial pad."
+msgstr "Զանգել բջջայինի և քաղաքայինի:"
+
+msgctxt "sSIDEBAR_CHAT_TOOLTIP"
+msgid "Start a new chat. Create a group, send instant messages and files."
+msgstr "Սկսել նոր զրույց, ստեղծել խումբ, ուղարկել հաղորդագրություններ և ֆայլեր:"
+
+msgctxt "sSIDEBAR_RECENTS_TOOLTIP"
+msgid "See your recent messages."
+msgstr "Վերջին հաղորդագրությունները"
+
+msgctxt "sSIDEBAR_FAVORITES_TOOLTIP"
+msgid "See your favorite contacts."
+msgstr "Ընտրյալ կոնտակտները:"
+
+msgctxt "sSIDEBAR_CONTACTS_TOOLTIP"
+msgid "See your contacts."
+msgstr "Դիտել կոնտակտները:"
+
+msgctxt "sSIDEBAR_GROUP_TOOLTIP"
+msgid "Create a new group."
+msgstr "Ստեղծել նոր խումբ"
+
+msgctxt "sADFORM_TITLE"
+msgid "Advertisement"
+msgstr "Գովազդ"
+
+msgctxt "sSIDEBAR_AVATAR_TOOLTIP"
+msgid "See your profile"
+msgstr "Դիտել պրոֆիլը"
+
+msgctxt "sSIDEBAR_AVATAR_STATUS_TOOLTIP"
+msgid "Change your status"
+msgstr "Փոխել վիճակը"
+
+msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TITLE"
+msgid "File transfers will start automatically from now on."
+msgstr "Ֆայլերի փոխանցումները կսկսվեն միանգամից:"
+
+msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TEXT"
+msgid ""
+"You can revert this change or choose a different destination folder in <a "
+"href=\"skype:?options#chatsettings:advanced\">settings</a>."
+msgstr "Կարող եք ետարկել փոփոխությունը կամ ընտրել այլ տեղադրություն <a href=\"skype:?options#chatsettings:advanced\">կարգավորումներում</a>:"
+
+msgctxt "sBUBBLE_POPOVER_OK"
+msgid "OK"
+msgstr "ԼԱՎ"
+
+msgctxt "sCHAT_HISTORY_TODAY"
+msgid "Today"
+msgstr "Այսօր"
+
+msgctxt "sCHAT_HISTORY_MOST_RECENT"
+msgid "Most Recent"
+msgstr "Ամենավերջինը"
+
+msgctxt "sMAINMENU_VIEW_FAVORITES"
+msgid "Favorites"
+msgstr "Ընտրյալներ"
+
+msgctxt "sCONTACT_GROUP_ALLCONTACTS"
+msgid "All Contacts"
+msgstr "Ավելացնել կոնտակտ"
+
+msgctxt "sCHAT_JUMPBACK_HEADER"
+msgid "Jump Back:"
+msgstr "Քայլ հետ."
+
+msgctxt "sSEARCH_WITH_BING"
+msgid "Search with Bing"
+msgstr "Փնտրել Bing-ով"
+
+msgctxt "sF_OPTIONS_CB_AUTO_CORRECT"
+msgid "Auto correct and highlight misspelled words"
+msgstr "Ուղղել և ընդգծել տառասխալները"
+
+msgctxt "sF_OPTIONS_LB_AUTO_CORRECT"
+msgid "To enable the spell checker, %0:sgo to your PC settings%1:s"
+msgstr "Ուղղագրության ստուգումը միացնելու համար %0:sբացեք համակարգչի կարգավորումները%1:s"
+
+msgctxt "sFREE_GVC_PROMO_GROUP_AUDIO"
+msgid "Make this a group video call. It's free."
+msgstr "Դարձնել խմբային տեսազանգ: Այն անվճար է:"
+
+msgctxt "sFREE_GVC_PROMO_GROUP_VIDEO"
+msgid "Add more people to your video call for free."
+msgstr "Ավելացնել մարդկանց տեսազանգին:"
+
+msgctxt "sFREE_GVC_PROMO_GROUP_GROUP"
+msgid "Get more out of your conversation with a free group video call."
+msgstr ""
+
+msgctxt "sOPTIONS_SHOW_PROFILE_PICTURES"
+msgid "Show profile pictures"
+msgstr "Ցուցադրել պրոֆիլի նկարները"
+
+msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
+msgid "%s for 1 month"
+msgstr "%s 1 ամսով"
+
+msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
+msgid "From %s for 1 month"
+msgstr "%s-ից 1 ամսով"
+
+msgctxt "sCALLPHONES_PAYG_CAPTION_NO_RATE"
+msgid "Pay As You Go"
+msgstr "Վճարեք, ինչպես հարմար է"
+
+msgctxt "sVOICEMAIL_PROMPT"
+msgid "Are you sure you want to send a voice message to<b>%s</b>?"
+msgstr "Ուղարկե՞լ ձայնային գրություն <b>%s</b>-ին:"
+
+msgctxt "sVOICEMAIL_PROMPT_TITLE"
+msgid "Send voice message"
+msgstr "Ուղարկել ձայնային գրություն"
+
+msgctxt "sVOICEMAIL_PROMPT_CAP"
+msgid "Voice message"
+msgstr "Ձայնային գրություն"
+
+msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
+msgid "Phone:"
+msgstr "Հ/համար."
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER"
+msgid "Edit"
+msgstr "Խմբագրել"
+
+msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
+msgid "Edit %s"
+msgstr "Խմբագրել %s-ը"
+
+msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
+msgid "Leave Conversation"
+msgstr "Լքել զրույցը"
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
+msgid "Limited emergency calling"
+msgstr "Արտակարգ զանգի սահմանափակում"
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2"
+msgid ""
+"Emergency calling is only supported by certain countries/regions. Please, go"
+" to Call settings to set your default location."
+msgstr "Արտակարգ զանգը աջակցվում է միայն որոշ երկրներում/շրջաններում։ Ձեր տեղադրությունը կարող եք նշել Զանգի կարգավորումներում։"
+
+msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr "SMS-ը ուղարկվել է <a href=\"x\">%d մարդկանց</a>"
+
+msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
+msgid "SMS sent to <a href=\"x\">%d person</a>"
+msgstr "SMS-ը ուղարկվել է <a href=\"x\">%d մարդկանց</a>"
+
+msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
+msgid "SMS sent to <a href=\"x\">%d people</a>"
+msgstr "SMS-ը ուղարկվել է <a href=\"x\">%d մարդկանց</a>"
+
+msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
+msgid "Select no more than %d participants to be able to start a video call"
+msgstr "Ընտրեք ոչ ավելի, քան %d մասնակից"
+
+msgctxt "sVIDEOCALL_BTN_SO_CONTACT_HINT"
+msgid "You cannot place video calls to mobile or land lines"
+msgstr "Չեք կարող տեսազանգը ուղարկել բջջային կամ քաղաքային համարի"
+
+msgctxt "sVIDEOCALL_BTN_ECHO_CONTACT_HINT"
+msgid "You cannot place test video calls"
+msgstr "Փորձնական տեսազանգը հասանելի չէ"
+
+msgctxt "sCONTACTS_LINK_CAPS"
+msgid "CONTACTS"
+msgstr "ԿՈՆՏԱԿՏՆԵՐ"
+
+msgctxt "sRECENTS_LINK_CAPS"
+msgid "RECENT"
+msgstr "ՎԵՐՋԻՆԸ"
+
+msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
+msgid "This photo is unavailable"
+msgstr "Լուսանկարը հասանելի չէ"
+
+msgctxt "sACC_NAME_PHOTO_MESSAGE"
+msgid "From %0:s, new photo, sent on %1:s"
+msgstr "%0:s-ից, նոր լուսանկար, ուղարկվել է՝ %1:s"
+
+msgctxt "sTRAYALERT_PHOTO_MESSAGE"
+msgid "New photo"
+msgstr "Նոր լուսանկար"
+
+msgctxt "sPHOTO_SAVE_AS"
+msgid "Save as..."
+msgstr "Պահպանել որպես..."
+
+msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
+msgid "To view this shared photo, go to: %1"
+msgstr "Համաօգտագործվող լուսանկարը դիտելու համար անցեք՝  %1"
+
+msgctxt "sACC_NAME_MYSELF_GRAPHIC"
+msgid "My profile picture"
+msgstr "Իմ պրոֆիլի նկարը"
+
+msgctxt "sSEARCHING_SKYPE_DIRECTORY"
+msgid "Searching Skype directory..."
+msgstr "Փնտրում է Skype-ի գրացուցակում..."
+
+msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
+msgid "Show message previews in the sidebar"
+msgstr "Ցուցադրել նախորդ գրությունները կողային վահանակում"
+
+msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
+msgid "Simple List View"
+msgstr "Պարզ ցանկի դիտում"
+
+msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
+msgid "Give Feedback"
+msgstr "Արձագանք"
+
+msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
+msgid "No results found for %s"
+msgstr "Արդյունքներ չկան %s-ի համար"
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_SINGLE"
+msgid "Sent you files"
+msgstr "Ուղարկել է ֆայլեր"
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
+msgid "Shared a photo"
+msgstr "Տարածել է լուսանկար"
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
+msgid "Shared a location"
+msgstr "Համաօգտագործվող տեղ"
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_SINGLE"
+msgid "Sent you a voice message"
+msgstr "Ուղարկել է ձայնային գրություն"
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_SINGLE"
+msgid "Sent you a video message"
+msgstr "Ուղարկել է տեսագրություն"
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_SINGLE"
+msgid "Sent you contacts"
+msgstr "Ուղարկել է կոնտակտներ"
+
+msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
+msgid "%s sent files"
+msgstr "%s-ը ուղարկել է ֆայլեր"
+
+msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
+msgid "%s shared a photo"
+msgstr "%s-ը տարածել է լուսանկար"
+
+msgctxt "sMESGPREVIEW_POSTED_LOCATION_MULTI"
+msgid "%s shared a location"
+msgstr "%s-ը տարածել է տեղադրություն"
+
+msgctxt "sMESGPREVIEW_VOICE_MESSAGE_MULTI"
+msgid "%s sent a voice message"
+msgstr "%s-ը ուղարկել է ձայնային գրություն"
+
+msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_MULTI"
+msgid "%s sent a video message"
+msgstr "%s-ը ուղարկել է տեսագրություն"
+
+msgctxt "sMESGPREVIEW_POSTED_CONTACTS_MULTI"
+msgid "%s sent contacts"
+msgstr "%s-ը ուղարկել է կոնտակտներ"
+
+msgctxt "sMESGPREVIEW_REQUESTED_AUTH"
+msgid "Sent you a contact request"
+msgstr "Ուղարկել է կոնտակտի հարցում"
+
+msgctxt "sMESGPREVIEW_GRANTED_AUTH"
+msgid "Contact request accepted"
+msgstr "Կոնտակտի հարցումը ընդունվել է"
+
+msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
+msgid "Birthday today"
+msgstr "Ծննդյան օրն է այսօր"
+
+msgctxt "sADDCONTACT_PROMPT"
+msgid "Are you sure you want to add contacts: <b>%s</b>?"
+msgstr "Ավելացնե՞լ կոնտակտներին. <b>%s</b>"
+
+msgctxt "sADDCONTACT_PROMPT_TITLE"
+msgid "Add contacts"
+msgstr "Ավելացնել կոնտակտներ"
+
+msgctxt "sADDCONTACT_PROMPT_CAP"
+msgid "Add contacts"
+msgstr "Ավելացնել կոնտակտներ"
+
+msgctxt "sDIALPAD_MAIN_1"
+msgid "1"
+msgstr "1"
+
+msgctxt "sDIALPAD_MAIN_2"
+msgid "2"
+msgstr "2"
+
+msgctxt "sDIALPAD_MAIN_3"
+msgid "3"
+msgstr "3"
+
+msgctxt "sDIALPAD_MAIN_4"
+msgid "4"
+msgstr "4"
+
+msgctxt "sDIALPAD_MAIN_5"
+msgid "5"
+msgstr "5"
+
+msgctxt "sDIALPAD_MAIN_6"
+msgid "6"
+msgstr "6"
+
+msgctxt "sDIALPAD_MAIN_7"
+msgid "7"
+msgstr "7"
+
+msgctxt "sDIALPAD_MAIN_8"
+msgid "8"
+msgstr "8"
+
+msgctxt "sDIALPAD_MAIN_9"
+msgid "9"
+msgstr "9"
+
+msgctxt "sDIALPAD_MAIN_ASTERISK"
+msgid "*"
+msgstr "*"
+
+msgctxt "sDIALPAD_MAIN_0"
+msgid "0"
+msgstr "0"
+
+msgctxt "sDIALPAD_MAIN_HASH"
+msgid "#"
+msgstr "#"
+
+msgctxt "sDIALPAD_AUX_2"
+msgid "ABC"
+msgstr "ABC"
+
+msgctxt "sDIALPAD_AUX_3"
+msgid "DEF"
+msgstr "DEF"
+
+msgctxt "sDIALPAD_AUX_4"
+msgid "GHI"
+msgstr "GHI"
+
+msgctxt "sDIALPAD_AUX_5"
+msgid "JKL"
+msgstr "JKL"
+
+msgctxt "sDIALPAD_AUX_6"
+msgid "MNO"
+msgstr "MNO"
+
+msgctxt "sDIALPAD_AUX_7"
+msgid "PQRS"
+msgstr "PQRS"
+
+msgctxt "sDIALPAD_AUX_8"
+msgid "TUV"
+msgstr "TUV"
+
+msgctxt "sDIALPAD_AUX_9"
+msgid "WXYZ"
+msgstr "WXYZ"
+
+msgctxt "sDIALPAD_AUX_0"
+msgid "+"
+msgstr "+"
+
+msgctxt "sDIALPAD_COUNTRY_SELECTOR"
+msgid "%s (+%d)"
+msgstr "%s (+%d)"
+
+msgctxt "sBUDDYMENU_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr "Փոխել թեման..."
+
+msgctxt "sF_CHANGE_TOPIC_CAPTION"
+msgid "Change topic"
+msgstr "Փոխել թեման"
+
+msgctxt "sMAINMENU_CONVERSATION_CHANGE_TOPIC"
+msgid "Change topic..."
+msgstr "Փոխել թեման..."
+
+msgctxt "sF_CHANGE_TOPIC_LABEL"
+msgid "Enter new topic"
+msgstr "Նոր թեմա"
+
+msgctxt "sFRE_TITLE"
+msgid "Welcome Tour"
+msgstr "Ողջույնի շրջայց"
+
+msgctxt "sFRE_START"
+msgid "Welcome to the new Skype for Windows."
+msgstr "Բարի գալուստ նոր Skype Windows-ի համար։"
+
+msgctxt "sFRE_CHAT"
+msgid "Redesigned for a richer chat experience."
+msgstr "Վերաձևավորվել է ավելի հարուստ զրույցի համար։"
+
+msgctxt "sFRE_PHOTO"
+msgid "Share your favourite photos and bring chats to life."
+msgstr "Տարածեք ընտրյալ լուսանկարները և կենդանի դարձրեք ձեր զրույցը։"
+
+msgctxt "sFRE_GROUP"
+msgid "Get everyone together with free group video calling."
+msgstr "Միավորեք բոլորին անվճար խմբային տեսազանգի միջոցով։"
+
+msgctxt "sFRE_PHONE"
+msgid "Keep the conversation going and take Skype with you."
+msgstr "Շարունակեք զրույցը և պահեք Skype-ը ձեզ մոտ։"
+
+msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
+msgid "File transfer limit"
+msgstr "Ֆայլի փոխանցման սահմ."
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
+msgid "Emergency numbers"
+msgstr "Արտակարգ զանգի համարներ"
+
+msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
+msgid ""
+"Set your default country/region to check if Skype supports emergency calls "
+"in your country/region."
+msgstr "Նշեք ձեր տեղադրությունը՝ իմանալու համար, թե արդյոք Skype-ը աջակցում է արտակարգ զանգ ձեր երկրի համար։"
+
+msgctxt "sCALL_PHONES_EMERGENCY2_INLINE"
+msgid "Emergency calls are not supported in your country/region."
+msgstr "Արտակարգ զանգը չի աջակցվում ձեր երկրում։"
+
+msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2_INLINE"
+msgid ""
+"Only use Skype as an absolute last resort for emergency calling. <a "
+"href=\"%s\">Learn more</a>."
+msgstr "Օգտագործում է Skype-ը որպես ամենավերջին միջոց՝ արտակարգ զանգի համար։ <a href=\"%s\">Մանրամասներ</a>։"
+
+msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
+msgid "Your Country/Region:"
+msgstr "Ձեր երկիրը."
+
+msgctxt "sSEND_MEDIA_MENU_HINT"
+msgid "Send contacts and media"
+msgstr "Ուղարկել կոնտակտներ և մեդիա"
+
+msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
+msgid "Advertisement"
+msgstr "Գովազդ"

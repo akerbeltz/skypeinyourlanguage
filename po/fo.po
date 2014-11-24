@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-11-19 17:49+0000\n"
-"Last-Translator: Michael Bauer\n"
+"PO-Revision-Date: 2014-11-22 23:30+0000\n"
+"Last-Translator: Sigmund Jørgensen <sigmund@systemlyklar.fo>\n"
 "Language-Team: Faroese (http://www.transifex.com/projects/p/skype-translation-project/language/fo/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -274,7 +274,7 @@ msgstr "Tendra Skype saman við Windows"
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "Dagfør tín vanga"
+msgstr "Legg vinaupplýsingar aftur at vanga"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
@@ -536,7 +536,7 @@ msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SIMPLE"
 msgid ""
 "Your password needs to contain at least 1 letter and 1 number. Try a new "
 "password."
-msgstr "Loyniorðið má innihialda í minsta lagi 1 bókstav og 1 tal. Royn eitt annað loyniorð."
+msgstr "Loyniorðið má innihalda í minsta lagi 1 bókstav og 1 tal. Royn eitt annað loyniorð."
 
 msgctxt "sF_OPTIONS_LB24"
 msgid "Use Skype to call callto: links on the web"
@@ -616,11 +616,11 @@ msgstr "Snarknøtturin til %s verður brúktur av øðrum forriti og kann tí ik
 
 msgctxt "sBUDDYMENU_BLOCK"
 msgid "Block This Person..."
-msgstr "Banna henda brúkara"
+msgstr "Forða hesum brúkara"
 
 msgctxt "sBUDDYMENU_UNBLOCK"
 msgid "Unblock This Person"
-msgstr "Strika banning av brúkaranum"
+msgstr "Forða ikki brúkara"
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
@@ -636,7 +636,7 @@ msgstr "Gerð"
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
-msgstr "Virki"
+msgstr "Virkin"
 
 msgctxt "sF_OPTIONS_HK_HOTKEY"
 msgid "Hotkey"
@@ -644,13 +644,13 @@ msgstr "Snarknøttur"
 
 msgctxt "sF_OPTIONS_TNTB8"
 msgid "<b>Blocked contacts:</b> Stop someone contacting you"
-msgstr "Slepp undan, at ávísir brúkarir seta seg í samband við teg"
+msgstr "Slepp undan, at ávísir brúkarar seta seg í samband við teg"
 
 msgctxt "sINFORM_DND"
 msgid ""
 "Your presence will be set to Do Not Disturb. You will not receive "
 "notifications about incoming calls or messages."
-msgstr "Støða tín verður sett til \"Vil ikki órógvast\", soleiðis at eingin fær ringt ella skriva til tín."
+msgstr "Støða tín verður sett til \"Vil ikki órógvast\", soleiðis at eingin fær ringt ella skrivað til tín."
 
 msgctxt "sSTATUS_PENDING"
 msgid "This person has not shared their details with you."
@@ -686,11 +686,11 @@ msgstr "Heinta eitt brúkaragjørt mál"
 
 msgctxt "sF_USERENTRY_CB_STOREPASSWORD"
 msgid "Sign me in when Skype starts"
-msgstr "Innrita meg næstu ferð Skype verður tendrað"
+msgstr "Rita meg inn næstu ferð Skype verður tendrað"
 
 msgctxt "sF_TRANSLATE_CAPTION"
 msgid "Language file editor"
-msgstr "Málfíluritilin"
+msgstr "Málfíluforrit"
 
 msgctxt "sF_TRANSLATE_SAVE"
 msgid "Save as..."
@@ -698,7 +698,7 @@ msgstr "Goym sum..."
 
 msgctxt "sF_TRANSLATE_APPLY"
 msgid "Apply"
-msgstr "Brúka"
+msgstr "Stilla"
 
 msgctxt "sF_TRANSLATE_LOAD"
 msgid "Load"
@@ -728,11 +728,11 @@ msgstr "Týddur tekstur"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_BLOCK"
 msgid "Block this person"
-msgstr "Banna brúkaran"
+msgstr "Forða hesum brúkara"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_UNBLOCK"
 msgid "Unblock this person"
-msgstr "Strika banning av brúkaranum"
+msgstr "Forða ikki hesum brúkara"
 
 msgctxt "sF_OPTIONS_TCB10"
 msgid "Automatically pause Winamp during calls"
@@ -768,7 +768,7 @@ msgstr "Bjóða til telefonfund"
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
-msgstr "Tað ber ikki til hjá tær at samskifta við persónin, tí tú hevur bannað viðkomandi."
+msgstr "Tað ber ikki til hjá tær at samskifta við persónin, tí tú hevur forðað viðkomandi."
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
@@ -812,19 +812,19 @@ msgstr "Strika vin?"
 
 msgctxt "sCONFIRM_OFFLINE_CAP"
 msgid "Go offline?"
-msgstr "Gerst ikki íbundin?"
+msgstr "Bint teg úr?"
 
 msgctxt "sCONFIRM_OFFLINE_TITLE"
 msgid "Go offline?"
-msgstr "Gerst ikki íbundin?"
+msgstr "Bint teg úr?"
 
 msgctxt "sCALLING_BLOCKED_CAP"
 msgid "Blocked"
-msgstr "Bannaður"
+msgstr "Forðað/ur"
 
 msgctxt "sCALLING_BLOCKED_TITLE"
 msgid "Blocked"
-msgstr "Bannaður"
+msgstr "Forðað/ur"
 
 msgctxt "sINFORM_DND_CAP"
 msgid "Warning"
@@ -862,15 +862,15 @@ msgstr "Vilt tú goyma broytingarnar?"
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_TITLE"
 msgid "Save changes?"
-msgstr "Goyma broytingar"
+msgstr "Goyma broytingar?"
 
 msgctxt "sLAST_SEEN"
 msgid "last seen:"
-msgstr "síðst sæddur:"
+msgstr "síðst sæð:"
 
 msgctxt "sAVATAR_MENUITEM_CONF_REMOTE_HANGUP"
 msgid "Leave group call"
-msgstr "Far av telefonfundinum"
+msgstr "Far úr bólkakalli"
 
 msgctxt "sAVATAR_MENUITEM_CONF_INCOMING_REJECT"
 msgid "Reject group call"
@@ -878,15 +878,15 @@ msgstr "Tak ikki av innbjóðing"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_1"
 msgid "Answer group call from %s and put %s on hold?"
-msgstr "Svara telefonfundi við %s og seta samrøðu við %s í bíðistøðu?"
+msgstr "Svara bólkakalli við %s og seta samrøðu við %s í bíðistøðu?"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_2"
 msgid "Answer call from %s and put group call with %s on hold?"
-msgstr "Svara uppkalli frá %s og seta telefonfund við %s í bíðistøðu?"
+msgstr "Svara kalli frá %s og seta bólkakall við %s í bíðistøðu?"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_3"
 msgid "Answer group call from %s and put call with %s on hold?"
-msgstr "Svara telefonfundi við %s og seta telefonfund við %s í bíðistøðu?"
+msgstr "Svara bólkakalli við %s og seta kall við %s í bíðistøðu?"
 
 msgctxt "sCONF_TOO_MUCH_PARTICIPANTS_TITLE"
 msgid "Error"
@@ -898,7 +898,7 @@ msgstr "Upptikið"
 
 msgctxt "sF_STARTCONF_TITLE"
 msgid "Start a group call"
-msgstr "Byrja telefonfund"
+msgstr "Starta bólkakall"
 
 msgctxt "sF_STARTCONF_ALL_CONTACTS_LABEL"
 msgid "Choose contacts"
@@ -906,7 +906,7 @@ msgstr "Vel vinir"
 
 msgctxt "sF_STARTCONF_SELECTED_CONTACTS_LABEL"
 msgid "Group call participants (max. %d)"
-msgstr "Luttakarar á fundinum (hægst %d pluss vert):"
+msgstr "Luttakarar á bólkakallinum (hægst %d pluss vert):"
 
 msgctxt "sF_STARTCONF_ADD_BUTTON"
 msgid "Select"
@@ -938,13 +938,13 @@ msgstr "Feilur"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_CAP"
 msgid "Cannot block"
-msgstr "Kann ikki banna"
+msgstr "Fær ikki forðað"
 
 msgctxt "sF_USERENTRY_ERROR_TOO_MANY_ATTEMPTS"
 msgid ""
 "There were too many failed sign-in attempts, please wait 1 minute before you"
 " retry."
-msgstr "Ov nógv miseydnaðar innritingar. Bíða ein minutt, áðrenn tú roynir umaftur."
+msgstr "Ov nógvar miseydnaðar innritingar. Bíða 1 minutt, áðrenn tú roynir aftur."
 
 msgctxt "sCALL_LB2_FAILED_SOUND_RECORDING_ERROR"
 msgid "Problem with recording device."
@@ -956,7 +956,7 @@ msgstr "Trupulleiki við spælieind"
 
 msgctxt "sF_OPTIONS_TNTCB20"
 msgid "Automatically adjust microphone settings"
-msgstr "Lat Skype stilla mítt ljóð"
+msgstr "Stilla ljóðið á mirkofonini sjálvvirkandi"
 
 msgctxt "sINVALID_NUMBER"
 msgid ""
@@ -971,15 +971,15 @@ msgstr "Orsaka, ein trupulleikur er íkomin. Royn umaftur."
 
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
-msgstr "Eingir pengar á tíni Skype-konto"
+msgstr "Einki kreditt á tíni Skype-konto"
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
-msgstr "Uppkallið miseydnaðist!"
+msgstr "Kallið miseydnaðist!"
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
-msgstr "Eingir pengar á tíni Skype-konto"
+msgstr "Einki kreditt á tíni Skype-konto"
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
@@ -999,11 +999,11 @@ msgstr "Tak upp"
 
 msgctxt "sF_OPTIONS_GREETING_PLAYBACK"
 msgid "Playback"
-msgstr "Avspæl"
+msgstr "Spæl"
 
 msgctxt "sF_OPTIONS_GREETING_DELETE"
 msgid "Reset to default voicemail greeting"
-msgstr "Heinta standardboð"
+msgstr "Far aftur til vanligt boð frá boðklivan"
 
 msgctxt "sF_OPTIONS_GREETING_STOP"
 msgid "Stop"
@@ -1019,7 +1019,7 @@ msgstr "Angra"
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
-msgstr "fastnettelefon (%s)"
+msgstr "Fastnettelefon (%s)"
 
 msgctxt "sCALL_PSTN_MOBILE"
 msgid "Mobile (%s)"
@@ -1039,7 +1039,7 @@ msgstr "telefonnummar"
 
 msgctxt "sF_CONFIRM_BLOCK"
 msgid "Block"
-msgstr "Banna"
+msgstr "Forða"
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERNAME"
 msgid ""
@@ -1049,7 +1049,7 @@ msgstr "Tú kanst forða einum brúkara at seta seg í samband við teg við at 
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERS"
 msgid "Blocked people:"
-msgstr "Bannaðir brúkarir:"
+msgstr "Forðaðir brúkarar:"
 
 msgctxt "sF_USERPROFILE_OPENDLG_CAPTION"
 msgid "Choose your picture"
@@ -1098,11 +1098,11 @@ msgstr "Skal fíluflutningurin veruliga steðgast? Um tú avbrýtur nú, fær <b
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE"
 msgid "Cancelling"
-msgstr "Steðgi fíluflutningi"
+msgstr "Angrar"
 
 msgctxt "sFILETRANSFER_CLOSE_CAP"
 msgid "Stop sending file"
-msgstr "Steðga filuflutningi?"
+msgstr "Fíla ikki sendast"
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
@@ -1135,7 +1135,7 @@ msgid ""
 "Files can contain viruses. We strongly recommend you use anti-virus software"
 " to scan files you receive, even if you know the sender. Are you sure you "
 "want to accept this file?"
-msgstr "Fílur kunnu hava virus. Vit mæla til, at tú brúkar antivirusforrit til at skanna móttiknar fílur, eisini tá tú kennir avsendaran. Vilt tú veruliga móttaka hesa fílu?"
+msgstr "Fílur kunnu hava virus. Vit mæla til, at tú brúkar antivirusforrit til at skanna móttiknar fílur, eisini tá tú kennir sendaran. Vilt tú veruliga móttaka hesa fílu?"
 
 msgctxt "sFILETRANSFER_VIRUS_TITLE"
 msgid "Accept file"
@@ -1234,7 +1234,7 @@ msgstr "Fíluflutningurin fyribils avbrotin"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CONNECTING"
 msgid "Connecting..."
-msgstr "Bindi í..."
+msgstr "Bindur í..."
 
 msgctxt "sHOTKEY_MUTE"
 msgid "Mute microphone"
@@ -1242,11 +1242,11 @@ msgstr "Sløkk mikrofon"
 
 msgctxt "sF_STARTCHAT_TITLE"
 msgid "Add people"
-msgstr "Legg brúkarir afturat"
+msgstr "Legg brúkarar afturat"
 
 msgctxt "sF_STARTCHAT_SELECTED_CONTACTS_LABEL"
 msgid "People in this group"
-msgstr "Brúkarir í hesum bólkinum"
+msgstr "Brúkarar í hesum bólkinum"
 
 msgctxt "sF_STARTCHAT_TEXT"
 msgid ""
@@ -1260,7 +1260,7 @@ msgstr "Legg afturat"
 
 msgctxt "sPSTN_RES_1000"
 msgid "Sorry, call failed."
-msgstr "Uppkallið miseydnaðist"
+msgstr "Kallið miseydnaðist"
 
 msgctxt "sF_USERENTRY_CB_START_SKYPE"
 msgid "Start Skype when computer starts"
@@ -1268,7 +1268,7 @@ msgstr "Tendra Skype saman við Windows"
 
 msgctxt "sACL_CHANGE"
 msgid "Change"
-msgstr "Broyta"
+msgstr "Broyt"
 
 msgctxt "sACL_OK"
 msgid "OK"
@@ -1390,7 +1390,7 @@ msgstr "Nulstilla vælkomuheilsan"
 
 msgctxt "sF_BLOCK_BLOCKING_YOURSELF"
 msgid "Can't block yourself"
-msgstr "Tú kanst ikki banna teg sjálvan"
+msgstr "Tú kanst ikki forða teg sjálva/n"
 
 msgctxt "sVM_GREETING_PLAYBACK"
 msgid "Playing voice message greeting"
@@ -1398,7 +1398,7 @@ msgstr "Spæli vælkomuheilsan"
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr "Send taluboð"
+msgstr "Send ljóðboð"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this conversation?"
@@ -1454,7 +1454,7 @@ msgstr "Vilt tú veruliga senda %d fílur til %s?"
 
 msgctxt "sF_MULTICHAT_SENDFILE_LIMIT_ERROR"
 msgid "You can't send files to more than %d people at once."
-msgstr "Tú kanst ikki senda fílur til fleiri enn %d brúkarir í senn."
+msgstr "Tú kanst ikki senda fílur til fleiri enn %d brúkarar í senn."
 
 msgctxt "sREDBUTTON_HINT_SEND_VOICEMAIL"
 msgid "Press here if you have finished your voice message."
@@ -1522,7 +1522,7 @@ msgstr "Samrøðuevni"
 
 msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
-msgstr "Vel teir brúkarir, tú vilt hava við í samrøðuna og trýst á\"Byrja\""
+msgstr "Vel teir brúkarar, tú vilt hava við í samrøðuna og trýst á\"Byrja\""
 
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
@@ -1545,7 +1545,7 @@ msgstr "Skype-málfílur (*.lang)\\|*.LANG"
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
-msgstr "Luttak á telefonfundinum"
+msgstr "Far upp í samrøðu"
 
 msgctxt "sF_MULTICHAT_EDIT_UNDO"
 msgid "Undo"
@@ -1589,11 +1589,11 @@ msgstr "Sløkk øll ljóð"
 
 msgctxt "sF_OPTIONS_NOTIF_ONLINE"
 msgid "comes online"
-msgstr "innritar"
+msgstr "bindur í"
 
 msgctxt "sF_OPTIONS_NOTIF_OFFLINE"
 msgid "goes offline"
-msgstr "avritar"
+msgstr "bindur úr"
 
 msgctxt "sF_OPTIONS_NOTIF_CHAT"
 msgid "starts an IM with me"
@@ -1617,11 +1617,11 @@ msgstr "sendir mær brúkaralista"
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_IN"
 msgid "ringtone"
-msgstr "Ringir"
+msgstr "ringitóni"
 
 msgctxt "sF_OPTIONS_SOUNDS_CALL_OUT"
 msgid "dial tone"
-msgstr "Uppkall"
+msgstr "greiðtóni"
 
 msgctxt "sF_OPTIONS_SOUNDS_BUSY"
 msgid "busy signal"
@@ -1722,7 +1722,7 @@ msgstr "Set upp ljóðboð"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
-msgstr "Miss ongantíð uppkall aftur við \"Skype Voicemail\""
+msgstr "Miss ongantíð kall aftur við \"Skype Voicemail\""
 
 msgctxt "sF_OPTIONS_VOICEMAIL_OFFLINE_INFO"
 msgid "You have to be online to listen your voice message greeting"
@@ -1766,7 +1766,7 @@ msgstr "øllum"
 
 msgctxt "sF_OPTIONS_RG3_2"
 msgid "block calls when phone number is hidden"
-msgstr "banna uppkøllum við fjaldum nummari"
+msgstr "forða køllum við fjaldum nummari"
 
 msgctxt "sF_OPTIONS_RG3_3"
 msgid "phone numbers in my Contact list only"
@@ -1833,7 +1833,7 @@ msgstr "Samskift við fyri stuttum"
 
 msgctxt "sF_OPTIONS_LINK_TEST_CALL"
 msgid "Make a free test call"
-msgstr "Royn eitt ókeypis testuppkall"
+msgstr "Royn eitt ókeypis testkall"
 
 msgctxt "sF_OPTIONS_LINK_AUDIO_HELP"
 msgid "Learn more about setting up your audio equipment"
@@ -1861,7 +1861,7 @@ msgstr "Ár"
 
 msgctxt "sCONTACT_GROUP_BLOCKED"
 msgid "Blocked contacts"
-msgstr "Bannaðir brúkarir"
+msgstr "Forðaðir brúkarar"
 
 msgctxt "sF_USERPROFILE_PHONE_NOTE"
 msgid "Enter %s's phone number."
@@ -1958,7 +1958,7 @@ msgstr "Tú skalt hava Skype-kreditt fyri at kunna ringja til telefonir. <a href
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_3"
 msgid "Receive unanswered calls as a voice message"
-msgstr "Send ósvaraði uppkall til taluboð"
+msgstr "Tak ímóti ósvaraðum køllum sum ljóðboð"
 
 msgctxt "sF_OPTIONS_LBC_VOICEMAIL"
 msgid "Voice messages"
@@ -2022,7 +2022,7 @@ msgstr "Ringir (nýmótans)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT2"
 msgid "Skype dial tone (Modern)"
-msgstr "Uppkall (nýmótans)"
+msgstr "Skype-greiðtóni (nýmótans)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT3"
 msgid "Skype busy signal (Modern)"
@@ -2136,15 +2136,15 @@ msgstr "Bert eitt nummar"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
-msgstr "Send uppkallið til taluboð, um..."
+msgstr "Takk upp ljóðboð, um..."
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_REJECT"
 msgid "I reject an incoming call"
-msgstr "Eg avvísi eitt uppkall"
+msgstr "Eg vísi einum kalli aftur"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_CB_INCALL"
 msgid "I am already in a call"
-msgstr "Eg eri longu í holt við eitt uppkall"
+msgstr "Eg eri longu við í einum kall"
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT"
 msgid "Enter phone number"
@@ -2236,7 +2236,7 @@ msgstr "Avspæling ikki møgulig."
 
 msgctxt "sPSTN_RES_9403"
 msgid "Account blocked."
-msgstr "Kontoin er stongd"
+msgstr "Kontan er forðað"
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_1"
 msgid "The file %s can't be used as a picture."
@@ -2331,7 +2331,7 @@ msgstr "Umbønir frá nýggjum brúkarum"
 
 msgctxt "sCONTACT_GROUP_AUTHORIZED"
 msgid "Authorized contacts"
-msgstr "Heimilaðir brúkarir"
+msgstr "Heimilaðir brúkarar"
 
 msgctxt "sCONTACT_GROUP_UNGROUPED"
 msgid "Ungrouped"
@@ -2427,11 +2427,11 @@ msgstr "Bankar uppá"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT11"
 msgid "Skype call error1"
-msgstr "Uppkalsfeilur 1"
+msgstr "Skypekall villa1"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT12"
 msgid "Skype call error2"
-msgstr "Uppkalsfeilur 2"
+msgstr "Skypekall villa2"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
@@ -2463,11 +2463,11 @@ msgstr "Vinur ikki íbundin"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT21"
 msgid "Skype message sent"
-msgstr "Kjatt sent"
+msgstr "Skype-boð send"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT22"
 msgid "Skype voice message sent"
-msgstr "Talu-boð sent"
+msgstr "Skype-ljóðboð send"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT23"
 msgid "Skype file sending complete"
@@ -2487,15 +2487,15 @@ msgstr "Brúkari fór"
 
 msgctxt "sF_OPTIONS_SOUNDS_KNOCKING"
 msgid "knocking"
-msgstr "Bankar uppá"
+msgstr "bankar uppá"
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR1"
 msgid "call error1"
-msgstr "Uppkalsfeilur 1"
+msgstr "kallvilla1"
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR2"
 msgid "call error2"
-msgstr "Uppkalsfeilur 2"
+msgstr "kallvilla2"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
 msgid "incoming IM in current chat"
@@ -2503,11 +2503,11 @@ msgstr "snarboð (IM) í núverandi kjatti"
 
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
-msgstr "Innkomandi brúkarir"
+msgstr "ávegis-brúkarar"
 
 msgctxt "sF_OPTIONS_SOUNDS_VOICEMAIL"
 msgid "incoming voice message"
-msgstr "Innkomandi talu-boð"
+msgstr "Innkomandi ljóðboð"
 
 msgctxt "sF_OPTIONS_SOUNDS_FILE"
 msgid "incoming file"
@@ -2689,7 +2689,7 @@ msgstr "Tænastan er ikki tøk"
 
 msgctxt "sVIDEOMENU_START_SENDING"
 msgid "Turn Your Video On"
-msgstr "Tendra títt video"
+msgstr "Tendra video"
 
 msgctxt "sVIDEOMENU_STOP_SENDING"
 msgid "Stop My Video"
@@ -2697,7 +2697,7 @@ msgstr "Sløkk video"
 
 msgctxt "sVIDEOMENU_HIDE_MYSELF"
 msgid "Hide My Video Automatically"
-msgstr "Vísing \"fjal meg\""
+msgstr "Fjal video av sær sjálvum"
 
 msgctxt "sVIDEOMENU_SETTINGS"
 msgid "Video Settings"
@@ -2709,7 +2709,7 @@ msgstr "Ringitóni (siðbundið)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT2"
 msgid "Dial tone (Classic)"
-msgstr "Trýstitóni (siðbundið)"
+msgstr "Greiðtóni (siðbundið)"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT3"
 msgid "Busy signal (Classic)"
@@ -2919,11 +2919,11 @@ msgstr "Fjal"
 
 msgctxt "sF_OPTIONS_PAGE_UPDATES"
 msgid "Advanced settings"
-msgstr "Víðkaðar stillingar"
+msgstr "Fleiri stillingar"
 
 msgctxt "sF_OPTIONS_LBC_UPDATES"
 msgid "<b>Advanced settings:</b> Skype updates and external programs"
-msgstr "Dagføringar til Skype og onnur forrit"
+msgstr "<b>Víðkaðir stillingar:</b>Dagføringar til Skype og onnur forrit"
 
 msgctxt "sCALL_LB2_DROPPED"
 msgid "Call dropped"
@@ -3518,7 +3518,7 @@ msgstr "Vátta ljóðloysi"
 
 msgctxt "sF_STARTCOMCHAT_RBTN1"
 msgid "Anyone can post messages."
-msgstr "Øll kunnu skrivað boð í kjattið"
+msgstr "Øll kunnu senda boð."
 
 msgctxt "sF_STARTCOMCHAT_RBTN2"
 msgid "Participants need permission to start posting."
@@ -3530,7 +3530,7 @@ msgstr "Luttakarunum tørvar loyvi at lesa og senda boð."
 
 msgctxt "sMAINMENU_TOOLS_START_PUBLIC_CHAT"
 msgid "Start Public IM"
-msgstr "Start offentlig chat"
+msgstr "Starta alment kjatt"
 
 msgctxt "sF_CHAT_NOTIFY_TITLE"
 msgid "Notification settings"
@@ -3598,7 +3598,7 @@ msgstr "Kjattmynd"
 
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
-msgstr "Myndagoymsla"
+msgstr "Myndasavn"
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
@@ -3662,7 +3662,7 @@ msgstr "Bólkasamrøðurnar hjá Skype fevna bæði um brúkarar á Skype og van
 
 msgctxt "sF_STARTCONF_ENTER_PHONE_LABEL"
 msgid "or enter someone's phone number."
-msgstr "ella skriva telefonnummarið hjá persóninum."
+msgstr "ella skriva telefonnummarið hjá viðkomandi."
 
 msgctxt "sF_STARTCONF_PHONE_HINT_TEXT"
 msgid "Enter the local number in %s."
@@ -3685,7 +3685,7 @@ msgstr "Vinir"
 
 msgctxt "sCHAT_STATUSMESSAGE_PWD_REQUIRED"
 msgid "Password required"
-msgstr "Loyniorðið er neyðugt"
+msgstr "Loyniorði krevst"
 
 msgctxt "sCHAT_STATUSMESSAGE_QUEUED"
 msgid "This public IM is full. Please try joining again later."
@@ -3726,7 +3726,7 @@ msgstr "Stovnari:"
 
 msgctxt "sF_CHAT_INFO_LB_ADMIN"
 msgid "Administrators:"
-msgstr ""
+msgstr "Fyrisitarar:"
 
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
@@ -3967,7 +3967,7 @@ msgctxt "sERROR_HINT_VIDEO_14"
 msgid ""
 "Can't start video. Try closing other programs that might be using your "
 "webcam."
-msgstr "Tú fært ikki starta video. Lat forrit aftur, sum møguliga brúka vevmyndatólið."
+msgstr "Tú fært ikki startað video. Lat forrit aftur, sum møguliga brúka vevmyndatólið."
 
 msgctxt "sERROR_HINT_9502"
 msgid ""
@@ -3981,11 +3981,11 @@ msgstr "Tær vantart Skype-kreditt"
 
 msgctxt "sF_OPTIONS_PRIVACY_SETTINGS"
 msgid "Privacy settings"
-msgstr "Privatar stillingar"
+msgstr "Privatir stillingar"
 
 msgctxt "sF_OPTIONS_BLOCKED_USERS"
 msgid "Blocked contacts"
-msgstr "Bannaðir brúkarir"
+msgstr "Forðaðir brúkarar"
 
 msgctxt "sF_OPTIONS_CHAT_APPEARANCE"
 msgid "IM appearance"
@@ -4034,7 +4034,7 @@ msgstr "Keyp høvuðsett ella Skype-telefonir í Skype-handlinum"
 
 msgctxt "sF_OPTIONS_DIDNOT_HEAR"
 msgid "Didn't hear anything?"
-msgstr "Kunne du ikke høre noget?"
+msgstr "Hoyrdi tú nakað?"
 
 msgctxt "sF_OPTIONS_SHOW_ADVANCED_OPTIONS"
 msgid "Show advanced options"
@@ -4066,7 +4066,7 @@ msgstr "Vís dømi"
 
 msgctxt "sF_OPTIONS_CALL_ANYONE"
 msgid "Allow anyone to call me"
-msgstr "Øll hava loyvi at ringja til mín"
+msgstr "Øll kunnu ringja til mín"
 
 msgctxt "sF_OPTIONS_CALL_BUDDY"
 msgid "Only allow people in my Contact list to call me"
@@ -4082,11 +4082,11 @@ msgstr "Einans vinir kunnu kjatta við meg"
 
 msgctxt "sF_OPTIONS_CHAT_LOOKS"
 msgid "<b>IM appearance:</b> Set up how IM looks"
-msgstr "Vel, hvussu kjatti skal síggja út"
+msgstr "Vel hvussu kjattið skal síggja út"
 
 msgctxt "sF_OPTIONS_CALLS"
 msgid "Calls"
-msgstr "Uppkøll"
+msgstr "Køll"
 
 msgctxt "sF_OPTIONS_LINK_BUY_WEBCAM"
 msgid "Buy a webcam from the Skype shop"
@@ -4342,7 +4342,7 @@ msgstr "Legg øll til vinir"
 
 msgctxt "sZAPBUTTON_ADDTOGROUP"
 msgid "Add to Group"
-msgstr ""
+msgstr "Legg aftur at bólki"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -4350,11 +4350,11 @@ msgstr "Legg til bólkakall"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
 msgid "Add to group call"
-msgstr ""
+msgstr "Legg aftur at bólkakalli"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCERINGING"
 msgid "Add to group call"
-msgstr ""
+msgstr "Legg aftur at bólkakalli"
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
@@ -4394,7 +4394,7 @@ msgstr "Ring"
 
 msgctxt "sZAPBUTTON_CALLMULTIPLE"
 msgid "Call"
-msgstr ""
+msgstr "Ring"
 
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
@@ -4406,7 +4406,7 @@ msgstr "Ring til bólk"
 
 msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
 msgid "Copy conversation link"
-msgstr ""
+msgstr "Avrita samrøðuleinki"
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
@@ -4566,11 +4566,11 @@ msgstr "Send boð"
 
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
-msgstr "Skift land"
+msgstr "Skift landøki"
 
 msgctxt "sZAPBUTTON_CLEAR"
 msgid "Clear"
-msgstr "Slet"
+msgstr "Rudda"
 
 msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
@@ -4606,7 +4606,7 @@ msgstr "Nokta"
 
 msgctxt "sZAPBUTTON_DECLINECALL"
 msgid "Decline"
-msgstr ""
+msgstr "Avvís"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -4642,7 +4642,7 @@ msgstr "Telefonknøttar"
 
 msgctxt "sZAPBUTTON_COUNTRYSELECTOR"
 msgid "Choose country/region"
-msgstr "Choose country"
+msgstr "Vel landøki"
 
 msgctxt "sZAPBUTTON_FULLSCREEN"
 msgid "Full screen"
@@ -4770,7 +4770,7 @@ msgstr "Annað"
 
 msgctxt "sZAPBUTTON_ADDPEOPLE"
 msgid "Add people"
-msgstr ""
+msgstr "Legg fólk afturat"
 
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
@@ -4810,7 +4810,7 @@ msgstr "Legg á"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr "Ring/Kall?"
+msgstr "Ring"
 
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
@@ -4854,7 +4854,7 @@ msgstr "Lær meira"
 
 msgctxt "sZAPBUTTON_LEAVECONVERSATION"
 msgid "Leave conversation"
-msgstr ""
+msgstr "Far úr samrøðu"
 
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
@@ -4866,7 +4866,7 @@ msgstr "MPV einsamalt"
 
 msgctxt "sZAPBUTTON_MERGECALLS"
 msgid "Merge calls"
-msgstr ""
+msgstr "Flætta køll"
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
@@ -5026,19 +5026,19 @@ msgstr "Send fílu"
 
 msgctxt "sZAPBUTTON_SENDIMAGE"
 msgid "Send image"
-msgstr ""
+msgstr "Send mynd"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send contacts"
-msgstr ""
+msgstr "Send vinaupplýsingar"
 
 msgctxt "sZAPBUTTON_ENTRYTOOLBAREXPAND"
 msgid "More"
-msgstr ""
+msgstr "Meira"
 
 msgctxt "sZAPBUTTON_ENTRYTOOLBARCOLLAPSE"
 msgid "Less"
-msgstr ""
+msgstr "Minni"
 
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
@@ -5066,7 +5066,7 @@ msgstr "Strika"
 
 msgctxt "sZAPBUTTON_PLUS"
 msgid "More"
-msgstr ""
+msgstr "Meira"
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
@@ -5094,39 +5094,39 @@ msgstr "Send sms"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr "Kykmyndakall"
+msgstr "Videokall"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr "Kykmyndakall"
+msgstr "Videokall"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr "Kykmyndaboð"
+msgstr "Videoboð"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr "Send eini kykmyndaboð"
+msgstr "Send eini videoboð"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr "Spæl kykmyndboðini"
+msgstr "Spæl videoboð"
 
 msgctxt "sZAPBUTTON_POPOUTPLAY"
 msgid "Play voice message"
-msgstr ""
+msgstr "Spæl ljóðboð"
 
 msgctxt "sZAPBUTTON_POPOUTPAUSE"
 msgid "Pause voice message"
-msgstr ""
+msgstr "Spæl ljóðboð"
 
 msgctxt "sZAPBUTTON_POPOUTSTOP"
 msgid "Stop voice message"
-msgstr ""
+msgstr "Steðga ljóðboð"
 
 msgctxt "sZAPBUTTON_POPOUTRELOAD"
 msgid "Reload voice message"
-msgstr ""
+msgstr "Spæl ljóðboð um aftur"
 
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
@@ -5138,7 +5138,7 @@ msgstr "Steðga"
 
 msgctxt "sZAPBUTTON_SEARCHDIRECTORY"
 msgid "Search Directory"
-msgstr "Leita í telefonbókini"
+msgstr "Leita í skránni"
 
 msgctxt "sZAPBUTTON_STOPRECORD"
 msgid "Stop recording"
@@ -5162,7 +5162,7 @@ msgstr "Vís vanga"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View my account"
-msgstr ""
+msgstr "Vís mína kontu"
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -5170,19 +5170,19 @@ msgstr "Tak mynd"
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr "Send kykmyndi"
+msgstr "Tendra video"
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr "Sløkk kykmynd"
+msgstr "Sløkk video"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr "Sløkk kykmynd"
+msgstr "Sløkk video"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr "Halt á at senda kykmynd"
+msgstr "Hav video frá"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -5218,11 +5218,11 @@ msgstr "Kjatt"
 
 msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
 msgid "IM"
-msgstr ""
+msgstr "Snarboð"
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
-msgstr "Add to conference"
+msgstr "Legg aftur at bólkakalli"
 
 msgctxt "sZAPBUTTON_CT_RESUME"
 msgid "Resume call"
@@ -5318,31 +5318,31 @@ msgstr "Nei takk"
 
 msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
 msgid "Send quality feedback"
-msgstr ""
+msgstr "Send afturmelding um góðsku"
 
 msgctxt "sZAPBUTTON_CLOSEWINDOW"
 msgid "Close"
-msgstr ""
+msgstr "Lat aftur"
 
 msgctxt "sZAPBUTTON_CM_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "Vend aftur til kall"
 
 msgctxt "sZAPBUTTON_REMOVEFROMFAVOURITESBTN"
 msgid "Remove contact from favourites"
-msgstr ""
+msgstr "Skriva vin frá yndislistanum"
 
 msgctxt "sZAPBUTTON_ADDTOFAVOURITESBTN"
 msgid "Add contact to favourites"
-msgstr ""
+msgstr "Legg vin aftur at yndislistanum"
 
 msgctxt "sZAPBUTTON_SEARCHSKYPE"
 msgid "Search Skype"
-msgstr ""
+msgstr "Leita í Skype"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "Liðugt"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5380,11 +5380,11 @@ msgstr "Kall til vinin %s"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
-msgstr "Telefonfundur"
+msgstr "Bólkakal"
 
 msgctxt "sFLOW_CALL_END"
 msgid "Call ended"
-msgstr "Samrøðan er endað."
+msgstr "Samrøðan er endað"
 
 msgctxt "sCONFIRM_MUST_UPGRADE_HQVIDEO"
 msgid ""
@@ -5430,11 +5430,11 @@ msgstr "Tú kanst eittans hava eitt kall í gongd í senn."
 
 msgctxt "sCALL_INFORM_VOICEMAIL_IN_PROGRESS"
 msgid "If you call %s this voice message will be cancelled."
-msgstr "Hvis du ringer til %s, annulleres denne voicemail."
+msgstr "Ringir tú til %, verður ljóðboðið strikað."
 
 msgctxt "sLOGIN_CONNECTION_OPTIONS"
 msgid "Connection options..."
-msgstr "Íbindingarstillingar"
+msgstr "Stillingar fyri samband..."
 
 msgctxt "sLOGIN_CHANGE_LANGUAGE"
 msgid "Change language"
@@ -5442,7 +5442,7 @@ msgstr "Broyt mál"
 
 msgctxt "sVM_DEFAULT_MESSAGE"
 msgid "Sent voice message to people in this conversation."
-msgstr "Voicemail til personer i denne samtale er afsendt."
+msgstr "Send fólki í hesari samrøðu ljóðbrot."
 
 msgctxt "sCOM_GOT_VIDEO_HEADER"
 msgid "Your video works!"
@@ -5508,7 +5508,7 @@ msgstr "Køll"
 
 msgctxt "sCONVERSATIONSEARCH_VOICEMAILS"
 msgid "Voice messages"
-msgstr "Taluboð"
+msgstr "Ljóðboð"
 
 msgctxt "sCONVERSATIONSEARCH_SMS"
 msgid "SMS"
@@ -5520,11 +5520,11 @@ msgstr "Skype"
 
 msgctxt "sCALL_VM_RERECORD"
 msgid "Re-record the voice message"
-msgstr "Indspil voicemail igen."
+msgstr "Spæl ljóðboð innaftur"
 
 msgctxt "sCALL_TOOLBAR_VM_RECORD"
 msgid "Re-record the voice message"
-msgstr "Indspil voicemail igen."
+msgstr "Spæl ljóðboð innaftur"
 
 msgctxt "sCALL_TOOLBAR_VM_CANCEL"
 msgid "Cancel recording."
@@ -5599,27 +5599,27 @@ msgstr "Lær meir um videokøll"
 
 msgctxt "sOPTIONS_NO_AUDIO_DEVICE"
 msgid "None"
-msgstr "einki"
+msgstr "Einki"
 
 msgctxt "sOPTIONS_UNMUTE_SPEAKERS"
 msgid "Automatically adjust speaker settings"
-msgstr "Stila hátalarirnar sjálvvirkandi"
+msgstr "Stilla hátalararnar sjálvvirkandi"
 
 msgctxt "sSMS_RECIPIENTS"
 msgid "%d Recipients"
-msgstr "%d modtagere"
+msgstr "%d móttakarar"
 
 msgctxt "sSMS_STATUS_PENDING_SINGLE"
 msgid "Sent"
-msgstr "Sendt"
+msgstr "Sent"
 
 msgctxt "sSMS_STATUS_SENT_SINGLE"
 msgid "Delivered"
-msgstr "Leveret"
+msgstr "Sent"
 
 msgctxt "sSMS_STATUS_FAILED_SINGLE"
 msgid "Failed"
-msgstr "Mislykkedes"
+msgstr "Miseydnaðist"
 
 msgctxt "sSMS_STATUS_PENDING_MULTIPLE"
 msgid "%d sent"
@@ -5639,7 +5639,7 @@ msgstr "Royn aftur"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_TOO_MANY"
 msgid "Sending too many files at once."
-msgstr "Du sender for mange filer på én gang."
+msgstr "Tú sendir ov nógvar fílur í senn."
 
 msgctxt "sINTERVAL_TIME_UNITS"
 msgid ""
@@ -5666,7 +5666,7 @@ msgctxt "sFILETRANSFER_CANCEL_MULTIPLE"
 msgid ""
 "Are you sure you want to stop sending this file? If you cancel now then no "
 "one will receive it."
-msgstr "Er du sikker på, at du vil stoppe overførslen af denne fil? Hvis du annullerer nu, er der ingen, der modtager den."
+msgstr "Ert tú vís/ur í, at tú vilt steðga sendingini? Angrar tú, fær eingin fíluna."
 
 msgctxt "sFILETRANSFER_SUMMARY_WAITING"
 msgid "%d waiting"
@@ -5696,11 +5696,11 @@ msgctxt "sSMS_NO_TARGET_MESSAGE"
 msgid ""
 "You don't have a mobile number saved for %s . <a href=\"%s\">Enter a mobile "
 "number now</a>."
-msgstr "Du har ikke gemt et mobilnummer for %s. <a href=\"%s\">Angiv et mobilnummer nu</a>."
+msgstr "Tú hevur ikki goymt fartelefonnummar fyri %s. <a href=\"%s\">Goym fartelefonnummar</a>."
 
 msgctxt "sOPTIONS_RECEIVED_FILE"
 msgid "When I receive a file..."
-msgstr "Tá eg taki í móti eini fílu:"
+msgstr "Tá eg taki ímóti eini fílu:"
 
 msgctxt "sOPTIONS_SAVE_FILE_TO_DIR"
 msgid "choose a folder to save the file in every time"
@@ -5716,11 +5716,11 @@ msgstr "Skift mappu"
 
 msgctxt "sCALL_LB2_NO_FUNDS"
 msgid "No Skype Credit"
-msgstr "Ingen Skype-kredit"
+msgstr "Einki Skype-kreditt"
 
 msgctxt "sCALL_LB2_INSUFFISIENT_FUNDS"
 msgid "Not enough Skype Credit."
-msgstr "Ikke tilstrækkelig Skype-kredit."
+msgstr "Ikki nóg nógv Skype-kreditt."
 
 msgctxt "sMESSAGE_NOT_DELIVERED"
 msgid "Not delivered yet."
@@ -5744,7 +5744,7 @@ msgstr "Mikrofon"
 
 msgctxt "sOPTIONS_AUDIO_SPEAKERS"
 msgid "Speakers"
-msgstr "Hátalarir"
+msgstr "Hátalarar"
 
 msgctxt "sOPTIONS_AUDIO_MOVEUP"
 msgid "Move up"
@@ -5764,7 +5764,7 @@ msgstr "MB"
 
 msgctxt "sOPTIONS_AUDIO_DEVICE_NONE"
 msgid "None"
-msgstr "einki"
+msgstr "Einki"
 
 msgctxt "sOPTIONS_AUDIO_ADVANCED_LBL"
 msgid ""
@@ -5774,16 +5774,16 @@ msgstr "Set ljóðeindirnar í raðfylgju eftir tínum ynski. Skype velur ta fys
 
 msgctxt "sCALLALERT_CALLEXISTS"
 msgid "Answering this call will put your active call on hold, or"
-msgstr "Hvis du besvarer dette opkald, parkeres din samtale, eller"
+msgstr "Tekur tú hetta kall, verður hitt sett í bíðistøðu, ella"
 
 msgctxt "sCALLALERT_CALLEXISTS_NO_OR"
 msgid "Answering this call will put your active call on hold."
-msgstr "Hvis du besvarer dette opkald, parkeres din samtale."
+msgstr "Tekur tú hetta kall, verður hitt sett í bíðistøðu."
 
 msgctxt "sCALLALERT_CANCEL_VOICEMAIL"
 msgid ""
 "Answering this call will stop you recording and sending your voice message."
-msgstr "Hvis du besvarer dette opkald, afbrydes optagelsen, og din voicemail vil ikke blive sendt."
+msgstr "Tekur tú hetta kall, fært tú ikki tikið upp og sent ljóðboð."
 
 msgctxt "sCALLALERT_TRANSFER"
 msgid "or transfer this call to someone else"
@@ -5791,7 +5791,7 @@ msgstr "ella stilla kallið um til onkran annan"
 
 msgctxt "sCALLALERT_ADDTOCONF"
 msgid "Add to group call"
-msgstr "Add to conference"
+msgstr "Legg aftur at bólkakalli"
 
 msgctxt "sMAINMENU_SKYPE"
 msgid "Skype"
@@ -5807,11 +5807,11 @@ msgstr "Vangi"
 
 msgctxt "sMAINMENU_SKYPE_PRIVACY"
 msgid "Privacy..."
-msgstr "Privatar stillingar"
+msgstr "Privatir stillingar"
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
 msgid "My account"
-msgstr ""
+msgstr "Mín konta"
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -5851,11 +5851,11 @@ msgstr "Skipa vinir eftir"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_NAME"
 msgid "Name"
-msgstr "navni"
+msgstr "Navn"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Støða"
+msgstr "Íbundin støða"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -5863,15 +5863,15 @@ msgstr "Fjal vinir, ið"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE"
 msgid "Are Offline"
-msgstr "ikki eru íbundnir"
+msgstr "Eru ikki íbundin"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE_CF"
 msgid "Are Offline with Call Forwarding"
-msgstr "eru víðaristillaðir"
+msgstr "Eru stillað víðari og ikki íbundin"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_NOT_AUTHORIZED"
 msgid "Haven't Shared Contact Details"
-msgstr "ikki hava deilt upplýsingar"
+msgstr "Hava ikki deilt vinaupplýsingar"
 
 msgctxt "sMAINMENU_CONTACTS_ADVANCED"
 msgid "Advanced"
@@ -5887,7 +5887,7 @@ msgstr "Innflyt brúkarar frá fílu..."
 
 msgctxt "sMAINMENU_CONTACTS_MANAGE_BLOCKED"
 msgid "Manage Blocked Contacts..."
-msgstr "Umsit bannaðar brúkarar"
+msgstr "Skipa forðaðar brúkarar..."
 
 msgctxt "sMAINMENU_CONVERSATION"
 msgid "Conversation"
@@ -5911,11 +5911,11 @@ msgstr "SMS"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_FILE"
 msgid "File..."
-msgstr "Fílu"
+msgstr "Fíla..."
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VOICEMAIL"
 msgid "Voice Message"
-msgstr "Taluboð"
+msgstr "Ljóðboð"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_CONTACTS"
 msgid "Contacts..."
@@ -5923,7 +5923,7 @@ msgstr "Vinir..."
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_HIDE"
 msgid "Hide"
-msgstr "Fjaldur"
+msgstr "Fjal"
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_TO_CONTACTS"
 msgid "Save Group to Contacts"
@@ -5931,19 +5931,19 @@ msgstr "Legg bólk til vinalistan"
 
 msgctxt "sMAINMENU_CONVERSATION_RENAME"
 msgid "Rename..."
-msgstr "Umdoyp"
+msgstr "Umnevn..."
 
 msgctxt "sMAINMENU_CONVERSATION_BLOCK"
 msgid "Block..."
-msgstr "Banna"
+msgstr "Forða..."
 
 msgctxt "sMAINMENU_CONVERSATION_UNBLOCK"
 msgid "Unblock"
-msgstr "Strika banning"
+msgstr "Strika forðing"
 
 msgctxt "sMAINMENU_CONVERSATION_SEARCH"
 msgid "Find..."
-msgstr "Leita í kjattinum"
+msgstr "Leita..."
 
 msgctxt "sMAINMENU_CONVERSATION_MARK_AS_UNREAD"
 msgid "Mark as Unread"
@@ -5959,7 +5959,7 @@ msgstr "Ring"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr "Kykmyndakalli"
+msgstr "Videokal"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
@@ -5995,7 +5995,7 @@ msgstr "Legg á"
 
 msgctxt "sMAINMENU_CALL_AUDIO"
 msgid "Audio Settings..."
-msgstr "Ljóðstillingar"
+msgstr "Ljóðstillingar..."
 
 msgctxt "sMAINMENU_CALL_VIDEO"
 msgid "Video"
@@ -6003,11 +6003,11 @@ msgstr "Video"
 
 msgctxt "sMAINMENU_CALL_VIDEO_SNAPSHOT"
 msgid "Video Snapshot"
-msgstr "Videobilleder"
+msgstr "Videomyndir"
 
 msgctxt "sMAINMENU_CALL_VIDEO_SETTINGS"
 msgid "Video Settings"
-msgstr "Videoindstillinger"
+msgstr "Stillingar fyri video"
 
 msgctxt "sMAINMENU_CALL_QUALITY"
 msgid "Learn about Call Quality"
@@ -6043,7 +6043,7 @@ msgstr "Broyt tungumál"
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
-msgstr "Stillingar"
+msgstr "Stillingar..."
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
@@ -6059,7 +6059,7 @@ msgstr "Um Skype"
 
 msgctxt "sCHAT_MENU_MOVE_BOOKMARK"
 msgid "Move Bookmark Here"
-msgstr "Flyt bogmærke hertil"
+msgstr "Flyt bókamerki higar"
 
 msgctxt "sCHAT_GRANTED_AUTH"
 msgid "%s has shared contact details with %s."
@@ -6067,19 +6067,19 @@ msgstr "%s hevur deilt upplýsingar við %s."
 
 msgctxt "sCALL_LB2_CANNOT_CONNECT"
 msgid "Call failed"
-msgstr "Kunne ikke tilslutte"
+msgstr "Kall miseydnaðist"
 
 msgctxt "sCALL_LB2_INTERNET_LOST"
 msgid "Internet connection lost"
-msgstr "Mistede internetforbindelsen"
+msgstr "Misti netsamband"
 
 msgctxt "sCALL_LB2_SKYPEOUT_BLOCKED"
 msgid "Account blocked"
-msgstr "Kontoen blev blokeret"
+msgstr "Kontan er forðað"
 
 msgctxt "sVOICEMAIL_NOTDOWNLOADED"
 msgid "You have to be online to listen to this voice message."
-msgstr "Du skal være online for at lytte til denne voicemail."
+msgstr "Tú skalt vera íbundin fyri at lurta eftir ljóðboðum."
 
 msgctxt "sEMPTY_GROUP"
 msgid "Empty group"
@@ -6087,13 +6087,13 @@ msgstr "Tómur bólkur"
 
 msgctxt "sFILETRANSFER_CANCEL_MULTIPLE_IN"
 msgid "Are you sure you want to reject all the files?"
-msgstr "Afvis alle filer? Er du sikker?"
+msgstr "Vilt tú avvísa øllum fílunum?"
 
 msgctxt "sCONVERSATION_PARTNER_BLOCKED"
 msgid ""
 "%s is blocked and can't answer. <a href=\"skype:%s?unblock\">Unblock %s</a> "
 "to continue the conversation."
-msgstr "%s er bannaður og kann ikki svara. <a href=\"skype:%s?unblock\">Strika banningina av %s</a> fyri at samskifta."
+msgstr "%s er forða/ur og fær ikki svarað. <a href=\"skype:%s?unblock\">Strika forðingina fyri %s</a>, vilt tú halda fram við samrøðuni."
 
 msgctxt "sVOICEMAIL_NEW"
 msgid "<b>New voice message</b>, duration %s"
@@ -6105,11 +6105,11 @@ msgstr "<b>Boð við ljóði</b>, longd %s"
 
 msgctxt "sCOMPLETED_GROUP_CALL"
 msgid "Group call, duration %s"
-msgstr "Telefonfundur. Longd %s"
+msgstr "Bólkakall. Longd %s"
 
 msgctxt "sMAINMENU_CONVERSATION_LEAVE"
 msgid "Leave Conversation"
-msgstr "Gevst við samrøðu"
+msgstr "Far úr samrøðu"
 
 msgctxt "sOPTIONS_WEBCAM_LABEL"
 msgid "Webcam:"
@@ -6117,21 +6117,21 @@ msgstr "Vevmyndatól:"
 
 msgctxt "sCHAT_STATUSMESSAGE_DOWNLOADING_MESSAGES"
 msgid "Downloading messages"
-msgstr "Henter beskeder"
+msgstr "Tekur boð niður"
 
 msgctxt "sCALL_PHONES_EMERGENCY1"
 msgid "No Emergency Calls"
-msgstr "Eingi neyðkall"
+msgstr "Einki neyðarkall"
 
 msgctxt "sCALL_PHONES_EMERGENCY2"
 msgid ""
 "Skype is not a telephone replacement service and cannot be used for "
 "emergency dialing."
-msgstr "Skype kan ikke bruges i stedet for en almindelig telefontjeneste og kan ikke bruges til nødopkald."
+msgstr "Skype er ikki ein tænasta, sum kemur í staðin fyri telefonina. Skal ikki brúkast til neyðarkall."
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr "í gjár"
+msgstr "Í gjár"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
@@ -6167,31 +6167,31 @@ msgstr "Fíluflutningurin miseydnaðist"
 
 msgctxt "sTRANSFERFAILURE_BAD_FILENAME"
 msgid "%s is not a valid filename"
-msgstr "%s er ikke et gyldigt filnavn"
+msgstr "%s er ikki er gildigt fílunavn"
 
 msgctxt "sTRANFERFAILURE_OPEN_FAILED"
 msgid ""
 "Sending failed. You can only send files that aren't being used by other "
 "programs, and you can't send folders."
-msgstr "Overførslen mislykkedes. Du kan kun sende filer, der ikke bruges af andre programmer, og det er ikke muligt at sende mapper."
+msgstr "Flutningurin miseydnaðist. Tú kanst einans senda fílur, sum onnur forrit ikki brúka, og tú kanst ikki senda mappur."
 
 msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
 msgid ""
 "You cannot send any more files until your existing file transfers have "
 "finished."
-msgstr ""
+msgstr "Tú fært ikki sent fleiri fílur, fyrr enn núverandi sendingar er lidnar."
 
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
-msgstr "Levering mislykkedes"
+msgstr "Flutningur miseydnaðist"
 
 msgctxt "sCALL_LB2_BLOCKED"
 msgid "Call failed"
-msgstr "Opkald mislykkedes"
+msgstr "Kallið miseydnaðist"
 
 msgctxt "sZAPBUTTON_UNREADMESSAGE"
 msgid "New message"
-msgstr "Ny besked"
+msgstr "Nýggj boð"
 
 msgctxt "sCONVERSATION_STATUS_LEGACY"
 msgid ""
@@ -6202,29 +6202,29 @@ msgstr "Snarboð eru ikki tøk í løtuni. Hesum ber til at fáa greiðu á skj�
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS2"
 msgid "Sorry, there are too many people to make this call"
-msgstr "For mange personer at ringe til"
+msgstr "Orsaka, har eru ov nógv um kallið"
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS3"
 msgid ""
 "You can have up to %s people in a call. To start a call, hold the CTRL key "
 "and click up to %s people in the list below."
-msgstr "Du kan have op til %s personer i en samtale. Hvis du vil starte en samtale, skal du holde Ctrl-tasten nede og klikke på op til %s personer på listen herunder."
+msgstr "Tú kanst hava upp til %s fólk í hesum kalli. Fyri at start kall, hald CTRL-knøttinum niðri og trýst upp til %s fólk í listanum niðanfyri."
 
 msgctxt "sINBOX_DIALOG_FILE_TRANSFER"
 msgid "New file transfer: %s"
-msgstr "Sender ny fil: %s"
+msgstr "Sendir nýggja fílu: %s"
 
 msgctxt "sINBOX_CONFERENCE_FILE_TRANSFER"
 msgid "%s sent %s"
-msgstr "%s sendte %s"
+msgstr "%s sent %s"
 
 msgctxt "sCALL_LB2_PSTN_MISC"
 msgid "Sorry, call failed."
-msgstr "Opkaldet mislykkedes."
+msgstr "Orsaka, kallið miseydnaðist."
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE_2"
 msgid "Cancelling"
-msgstr "Angri"
+msgstr "Angrar"
 
 msgctxt "sFILETRANSFER_CLOSE_CAP_2"
 msgid "Reject the file"
@@ -6236,7 +6236,7 @@ msgstr "Strika úr vinalistanum"
 
 msgctxt "sCALL_LB2_UNAVAILABLE"
 msgid "The number is unavailable"
-msgstr "Nummeret er ikke tilgængeligt"
+msgstr "Nummarið er ikki tøkt"
 
 msgctxt "sGROUP_AVATAR_BROWSER_DEFAULT_PIC"
 msgid "No picture"
@@ -6248,7 +6248,7 @@ msgstr "Gev afturmelding um Skype™"
 
 msgctxt "sCHAT_MEMBER_LEFT"
 msgid "%s has left"
-msgstr "%s har forladt samtalen"
+msgstr "%s er farin úr samrøðuni"
 
 msgctxt "sF_CALLQUALITY_BTN_CLOSE"
 msgid "Close"
@@ -6256,43 +6256,43 @@ msgstr "Lat aftur"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING"
 msgid "Waiting"
-msgstr "Bíði"
+msgstr "Bíðar"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PLACEHOLDER_ME"
 msgid "The file isn't available on this computer"
-msgstr "Filen er ikke tilgængelig på denne computer"
+msgstr "Fílan er ikki tøk á telduni"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PLACEHOLDER"
 msgid "The file isn't available"
-msgstr "Filen er ikke tilgængelig endnu"
+msgstr "Fílan er ikki tøk"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PLACEHOLDER_TIMEOUT"
 msgid "The file isn't available"
-msgstr "Filen er ikke tilgængelig"
+msgstr "Fílan er ikki tøk"
 
 msgctxt "sFILETRANSFER_GROUP_STATUS"
 msgid "%d recipients: %s"
-msgstr "%d modtagere: %s"
+msgstr "%d móttakarar: %s"
 
 msgctxt "sINBOX_PINNED_CONVERSATIONS"
 msgid "Pinned conversations"
-msgstr "Markerede samtaler"
+msgstr "Markaði samrøður"
 
 msgctxt "sINBOX_CLEAR_CONVERSATIONS"
 msgid "Hide read conversations"
-msgstr "Fjern læste samtaler"
+msgstr "Fjal lisnar samrøður"
 
 msgctxt "sF_CONVERSATIONS_MANY"
 msgid "%d conversations"
-msgstr "%d samtaler"
+msgstr "%d samrøður"
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
 msgid "Call ended"
-msgstr ""
+msgstr "Kall endað"
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
-msgstr "Disken er fyldt"
+msgstr "Diskurin er fullur"
 
 msgctxt "sINFORM_IO_ERROR"
 msgid ""
@@ -6303,15 +6303,15 @@ msgstr "Disk-I/O-villa. Høgraklikk á Skype-búmerkið á prosessbjálkanum ni�
 
 msgctxt "sINFORM_DB_CORRUPT"
 msgid "Database error. Please close Skype and sign in again."
-msgstr "Databasefejl. Luk Skype, og log på igen."
+msgstr "Villa í dátubasa. Lat Skype aftur og rita inn av nýggjum."
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
-msgstr "Send vininum %s fílu"
+msgstr "Send %s eina fílu"
 
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
-msgstr "Overfør fil til samtale"
+msgstr "Flyt fílu til samrøðu"
 
 msgctxt "sCONVERSATIONS_NEW_SINGULAR"
 msgid "%d new"
@@ -6327,11 +6327,11 @@ msgstr "Marka øll sum lisin"
 
 msgctxt "sTRAYALERT_ISONLINE"
 msgid "is online"
-msgstr "Íbundin"
+msgstr "íbundin"
 
 msgctxt "sTRAYALERT_ISOFFLINE"
 msgid "went offline"
-msgstr "er lige logget af"
+msgstr "er ikki íbundin"
 
 msgctxt "sTRAYALERT_EXAMPLE"
 msgid "Example"
@@ -6339,11 +6339,11 @@ msgstr "Dømi"
 
 msgctxt "sTRAYALERT_ALLMESSAGES2"
 msgid "View all messages"
-msgstr "Vis alle meddelelser"
+msgstr "Vís øll boð"
 
 msgctxt "sTRAYALERT_ALLMESSAGES"
 msgid "View all %d new conversations"
-msgstr "Vis alle %d nye samtaler"
+msgstr "Vís allar %d nýggju samrøðurnar"
 
 msgctxt "sMAINMENU_VIEW_SINGLE_WINDOW_MODE"
 msgid "Default View"
@@ -6351,7 +6351,7 @@ msgstr "Vanlig vísing"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
 msgid "Split Window View"
-msgstr ""
+msgstr "Být gluggan í tvey"
 
 msgctxt "sTRAYALERT_NONEW"
 msgid "No new conversations"
@@ -6359,27 +6359,27 @@ msgstr "Ongar nýggjar samrøður"
 
 msgctxt "sTRAYALERT_CQ_HIGH_ECHO"
 msgid "High sound coming from the speakers"
-msgstr "Der kommer en høj lyd fra højttalerne"
+msgstr "Hvast ljóð kemur frá hátalarunum"
 
 msgctxt "sTRAYALERT_CQ_HIGH_NOISE"
 msgid "You've got a lot of background noise"
-msgstr "Der er meget baggrundsstøj"
+msgstr "Larmur í bakgrundini"
 
 msgctxt "sTRAYALERT_CQ_MUTED_INPUT"
 msgid "Check your microphone is plugged in"
-msgstr "Kontroller, at mikrofonen er sat i stikket."
+msgstr "Kann eftir, um mikrofonin er sett í"
 
 msgctxt "sTRAYALERT_CQ_LOW_INPUT"
 msgid "Your microphone is really quiet"
-msgstr "Din mikrofon er meget stille"
+msgstr "Mirkofonin er spakuliga frá"
 
 msgctxt "sCONTACT_GROUP_NEW"
 msgid "New List"
-msgstr "Nýggjur bólkur"
+msgstr "Nýggjur listi"
 
 msgctxt "sCONTACTGROUPS_NEW"
 msgid "Create New List..."
-msgstr "Ger nýggjan bólk"
+msgstr "Stovna nýggjan lista..."
 
 msgctxt "sREMOVEGROUP_CAPTION"
 msgid "Delete List?"
@@ -6387,15 +6387,15 @@ msgstr "Strika bólkin?"
 
 msgctxt "sREMOVEGROUP_WARNING"
 msgid "Do you want to delete the list \"%s\"?"
-msgstr "Vilt tú veruliga strika bólkin \"<b>%s</b>\"?"
+msgstr "Vilt tú veruliga strika listan \"<b>%s</b>\"?"
 
 msgctxt "sREMOVEGROUP_TITLE"
 msgid "Delete list"
-msgstr "Strika bólk"
+msgstr "Strika lista"
 
 msgctxt "sCONTACT_PROFILE_EDIT_PHONE"
 msgid "Edit number"
-msgstr "Broyta nummar"
+msgstr "Broyt nummar"
 
 msgctxt "sCONTACT_PROFILE_ADD_PHONE"
 msgid "Add a number to this profile"
@@ -6403,14 +6403,14 @@ msgstr "Legg afturat nummar til hendan vangan"
 
 msgctxt "sNOTIFY_API_AUTHORIZATION"
 msgid "%s wants to use Skype"
-msgstr "%s ønsker at bruge Skype"
+msgstr "%s vil sleppa at brúka Skype"
 
 msgctxt "sDEVICES_NEW_MIC4"
 msgid ""
 "It will be useful if you don't have a headset or a microphone. Change your "
 "<a href=\"skype:?options#sounddevices\">sound settings</a> to start using "
 "it."
-msgstr "Den kan du bruge, hvis du ikke har et headset eller en mikrofon. Hvis du vil bruge den, skal du ændre <a href=\"skype:?options#sounddevices\">lydindstillinger</a>."
+msgstr "Tað kann vera hent, um tú hvørki hevur høvuðsett ella mikrofon. Broyt <a href=\"skype:?options#sounddevices\">stillingar fyri ljóð</a>, um tú vilt brúka tað."
 
 msgctxt "sSHOP_CAPTION"
 msgid "Shop"
@@ -6426,15 +6426,15 @@ msgstr "Skriva navnið á vininum"
 
 msgctxt "sF_COM_CAPTION"
 msgid "Application access"
-msgstr "Nyttige tip"
+msgstr "Prei"
 
 msgctxt "sF_COM_MULTIPLE"
 msgid "%s messages"
-msgstr "%s beskeder"
+msgstr "%s boð"
 
 msgctxt "sCONTACT_ADD_TO_GROUP"
 msgid "Add to List"
-msgstr "Legg afturat bólkinum"
+msgstr "Legg aftur at listanum"
 
 msgctxt "sCONTACT_MANAGE_GROUP"
 msgid "Manage Lists"
@@ -6446,23 +6446,23 @@ msgstr "Bólkurin varð goymdur"
 
 msgctxt "sINBOX_HINT_ONE"
 msgid "New conversation, last activity %s ago"
-msgstr "Ny samtale, sidste aktivitet for %s siden"
+msgstr "Nýggj samrøða, seinast virkin %s síðan"
 
 msgctxt "sINBOX_HINT_MULTIPLE"
 msgid "%d conversations with new messages, last activity %s ago"
-msgstr "%d samtaler med nye beskeder, sidste aktivitet for %s siden"
+msgstr "%d samrøður við nýggjum boðum. Seinast virkin %s síðan"
 
 msgctxt "sINBOX_ITEM_HINT_ONE"
 msgid "New message %s ago"
-msgstr "Ny besked for %s siden"
+msgstr "Nýggj boð %s síðan"
 
 msgctxt "sINBOX_ITEM_HINT_MULTIPLE"
 msgid "%d new messages, last activity %s ago"
-msgstr "%d nye beskeder, sidste aktivitet for %s siden"
+msgstr "%d nýggj boð. Seinast virkið %s síðan"
 
 msgctxt "sCONVERSATION_HINT"
 msgid "Last activity %s ago"
-msgstr "Sidste aktivitet for %s siden"
+msgstr "Seinasta virksemi %s síðan"
 
 msgctxt "sCONVERSATION_SPAWNED_CONFERENCE"
 msgid "%s created a group conversation with %s."
@@ -6474,11 +6474,11 @@ msgstr "Vís bólkasamrøðu"
 
 msgctxt "sCONTACTGROUPS_DELETE_SELECTED"
 msgid "Delete List \"%s\"..."
-msgstr "Strika bólkin \"%s\""
+msgstr "Strika listan \"%s\""
 
 msgctxt "sCONTACTGROUPS_RENAME_SELECTED"
 msgid "Rename List \"%s\"..."
-msgstr "Umdoyp bólkin \"%s\""
+msgstr "Umnevn listan \"%s\""
 
 msgctxt "sF_CALLQUALITYGUIDE_WINDOW_TITLE"
 msgid "Call Quality Guide"
@@ -6490,7 +6490,7 @@ msgstr "Vegleiðing til ljóðgóðsku"
 
 msgctxt "sF_OPTIONS_RING_ALL_DEVICES"
 msgid "Ring on all devices"
-msgstr "Ringe på alle enheder"
+msgstr "Ring á øllum eindum"
 
 msgctxt "sCONVERSATION_SPAWNED_CONFERENCE2"
 msgid "%s created a group conversation"
@@ -6498,11 +6498,11 @@ msgstr "%s gjørdi eina bólkasamrøðu"
 
 msgctxt "sBUDDYMENU_BLOCK_MULTIPLE"
 msgid "Block These People..."
-msgstr "Banna hesar brúkarar"
+msgstr "Forða hesum brúkarum..."
 
 msgctxt "sBUDDYMENU_UNBLOCK_MULTIPLE"
 msgid "Unblock These People"
-msgstr "Strika banning av hesum brúkarum"
+msgstr "Forða ikki hesum brúkarum"
 
 msgctxt "sCALL_OUT_CREDIT1"
 msgid "Sorry, call with %s failed"
@@ -6586,15 +6586,15 @@ msgstr "Mistar samrøður"
 
 msgctxt "sHISTORY_FILTER_INCOMING_CALLS"
 msgid "Incoming calls"
-msgstr "Uppkall inn"
+msgstr "Køll ávegis"
 
 msgctxt "sHISTORY_FILTER_OUTGOING_CALLS"
 msgid "Outgoing calls"
-msgstr "Uppkall út"
+msgstr "Køll út"
 
 msgctxt "sHISTORY_FILTER_VOICEMAILS"
 msgid "Voice messages"
-msgstr "Taluboð"
+msgstr "Ljóðboð"
 
 msgctxt "sHISTORY_FILTER_FILETRANSFERS"
 msgid "Files sent and received"
@@ -6614,17 +6614,17 @@ msgstr "Bíða, meðan síðan verður innlisin..."
 
 msgctxt "sBROWSER_ERROR_CAPTION"
 msgid "Check your connection"
-msgstr "Kontrollér forbindelsen"
+msgstr "Kanna sambandið"
 
 msgctxt "sBROWSER_ERROR_TEXT"
 msgid ""
 "You don't seem to have an active internet connection.<br />Please check your"
 " connection and try again."
-msgstr "Det lader ikke til, at du har en aktiv internetforbindelse.<br/>Kontrollér forbindelsen, og prøv igen"
+msgstr "Tú tykist ikki at hava netsamband.<br/>Kanna sambandið og royn aftur."
 
 msgctxt "sHISTORY_VM_DURATION"
 msgid "Duration %s"
-msgstr "Varighed %s"
+msgstr "Longd %s"
 
 msgctxt "sDIALPAD_CALL"
 msgid "Call"
@@ -6638,7 +6638,7 @@ msgctxt "sBLOCK_TEXT2"
 msgid ""
 "Are you sure you want to block <b>%s</b>? They won't be able to contact you "
 "and won't appear in your Contact List."
-msgstr "Vilt tú veruliga banna <b>%s</b>? Tá tú gert tað, verður persónurin strikaður úr vinalistanum, og kann hann ikki longur seta seg í samband við teg."
+msgstr "Vilt tú veruliga forða <b>%s</b>? Tá tú gert tað, verður persónurin strikaður úr vinalistanum, og kann hann/hon ikki longur seta seg í samband við teg."
 
 msgctxt "sBLOCK_ABUSE_TEXT2"
 msgid ""
@@ -6662,15 +6662,15 @@ msgstr "Fráboða misnýtslu frá hesum persónunum"
 
 msgctxt "sBLOCK_DISCLAIMER2"
 msgid "To unblock someone, go to your privacy settings under Tools » Options."
-msgstr "Um tú vilt strika banningina av einum brúkara, skalt tú velja <b>Amboð > Stillingar</b>."
+msgstr "Um tú vilt strika forðingina av einum brúkara, skalt tú velja <b>Amboð > Stillingar</b>."
 
 msgctxt "sBLOCK_CAPTION"
 msgid "Block this person"
-msgstr "Banna henda brúkara"
+msgstr "Forða hesum brúkara"
 
 msgctxt "sBLOCK_CAPTION_MULTI"
 msgid "Block these people"
-msgstr "Banna hesar brúkarir"
+msgstr "Forða hesum brúkarum"
 
 msgctxt "sBLOCK_PEOPLE"
 msgid "%s people"
@@ -6684,7 +6684,7 @@ msgctxt "sBLOCK_TEXT_MULTI"
 msgid ""
 "Are you sure you want to block these people? They won't be able to contact "
 "you and won't appear in your Contact List."
-msgstr "Vilt tú veruliga banna hesi fólkini? Tá tú gert tað, verða tey strikað úr vinalistanum, og kunnu tey tá ikki longur seta seg í samband við teg."
+msgstr "Vilt tú veruliga forða hesum fólkunum? Tá tú gert tað, verða tey strikað úr vinalistanum, og kunnu tey tá ikki longur seta seg í samband við teg."
 
 msgctxt "sBUDDYMENU_CALLGROUP"
 msgid "Call Group"
@@ -6724,15 +6724,15 @@ msgstr "pkt"
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
 msgid "Open a new window when I receive a new message in Compact view"
-msgstr "Opna ein nýggjan glugga, tá eg taki í móti einum nýggjum boðum í minkaðari vísing"
+msgstr "Lat ein nýggjan glugga upp, tá eg taki ímóti einum nýggjum boðum í minkaðari vísing"
 
 msgctxt "sF_CALL_QLT_LBL_AUDIO_PROBLEMS"
 msgid "Audio problems"
-msgstr "Problemer med lyden"
+msgstr "Trupulleikar við ljóði"
 
 msgctxt "sF_CALL_QLT_LBL_VIDEO_PROBLEMS"
 msgid "Video problems"
-msgstr "Problemer med video"
+msgstr "Trupulleikar við video"
 
 msgctxt "sF_CALL_QLT_LBL2_VERY_GOOD"
 msgid "<b>Excellent</b><br />Perfect, clear, no problems"
@@ -6756,7 +6756,7 @@ msgstr "<b>Ógvuliga vánalig</b><br/>Tað vóru so stórir trupulleikar, at sam
 
 msgctxt "sF_CALL_QLT_LBL_CHOOSE_PROBLEMS"
 msgid "Choose all that apply."
-msgstr "Vælg alle relevante svar."
+msgstr "Vel alt, sum samsvara."
 
 msgctxt "sF_CALL_QLT_BGR_THIS_CALL1"
 msgid "How would you rate the overall quality of this call?"
@@ -6764,35 +6764,35 @@ msgstr "Hvat heldur tú um góðskuna á hesi samrøðuni?"
 
 msgctxt "sF_CALL_QLT_BGR_THIS_VIDEOCALL1"
 msgid "How would you rate the overall quality of this video call?"
-msgstr "Hvordan vil du bedømme dette videoopkalds generelle kvalitet?"
+msgstr "Hvussu metur tú góðskuna sum heild vera á hesum videokalli?"
 
 msgctxt "sF_CALL_QLT_BGR_LAST_CALL1"
 msgid "How would you rate the overall quality of last call?"
-msgstr "Hvordan vil du bedømme den generelle kvalitet på det sidste opkald?"
+msgstr "Hvussu metir tú góðskuna vera sum heild á undanfarna kalli?"
 
 msgctxt "sF_CALL_QLT_BGR_LAST_VIDEOCALL1"
 msgid "How would you rate the overall quality of last video call?"
-msgstr "Hvordan vil du bedømme den generelle kvalitet på det sidste videoopkald?"
+msgstr "Hvussu metir tú góðskuna vera sum heild á undanfarna videokalli?"
 
 msgctxt "sF_CALL_QLT_BGR_THIS_CALL2"
 msgid "Did you have any of these problems on this call?"
-msgstr "Oplevede du nogen af nedenstående problemer i forbindelse med dette opkald?"
+msgstr "Vóru nakarir av trupulleikunum niðanfyri við kallinum?"
 
 msgctxt "sF_CALL_QLT_BGR_THIS_VIDEOCALL2"
 msgid "Did you have any of these problems on this video call?"
-msgstr "Oplevede du nogen af nedenstående problemer i forbindelse med dette videoopkald?"
+msgstr "Vóru nakarir av trupulleikunum niðanfyri við videokallinum?"
 
 msgctxt "sF_CALL_QLT_BGR_LAST_CALL2"
 msgid "Did you have any of these problems on last call?"
-msgstr "Oplevede du nogen af nedenstående problemer i forbindelse med dit seneste opkald?"
+msgstr "Vóru nakarir av trupulleikunum niðanfyri við undanfarna kalli?"
 
 msgctxt "sF_CALL_QLT_BGR_LAST_VIDEOCALL2"
 msgid "Did you have any of these problems on last video call?"
-msgstr "Oplevede du nogen af nedenstående problemer i forbindelse med dit seneste videoopkald?"
+msgstr "Vóru nakarir av trupulleikunum niðanfyri við undanfarna videokall?"
 
 msgctxt "sCONVERSATION_BLOCKED"
 msgid "%s blocked %s"
-msgstr "%s, bannaði %s"
+msgstr "%s forðaði %s"
 
 msgctxt "sPARTICIPANT_ACTIVE_PHONE"
 msgid "Calling"
@@ -6804,26 +6804,26 @@ msgstr "Ger uPnP virkið"
 
 msgctxt "sCALL_FREE_OUT_CREDIT1"
 msgid "You've used your free trial minutes."
-msgstr "Du har opbrugt dine gratis minutter"
+msgstr "Tú hevur brúkt tínar ókeypis minuttir."
 
 msgctxt "sCALL_FREE_OUT_CREDIT2"
 msgid ""
 "Thanks for calling. If you want to call phones and mobiles again, you'll "
 "need some Skype Credit."
-msgstr "Tak, fordi du ringede. Hvis du igen vil ringe til fastnet- og mobiltelefoner, skal du overføre penge til din Skype-konto."
+msgstr "Takk fyri, at tú ringdi. Vilt tú ringja til fastnet ella fartelefon aftur, skalt tú brúka Skype-kreditt."
 
 msgctxt "sCALL_FREE_END1"
 msgid "How was that?"
-msgstr "Hvad synes du om det?"
+msgstr "Hvat dámdi tær?"
 
 msgctxt "sCALL_FREE_END2"
 msgid ""
 "If you want to call a phone number again, you'll need some Skype Credit."
-msgstr "Hvis du vil ringe igen, skal du overføre penge til din Skype-konto."
+msgstr "Vilt tú ringja til eina telefon aftur, skalt tú brúka Skype-kreditt."
 
 msgctxt "sPLUGIN_MANAGER_NOT_AVAILABLE"
 msgid "You need the Skype Extras Manager installed to run this extra."
-msgstr "Du skal have Skype Extras Manager installeret for at køre denne Extra."
+msgstr "Du mást hava Skype Extras Manager lagt inn for at koyra ískoytið."
 
 msgctxt "sUNNAMED_SKYPEOUT_CONTACT"
 msgid "Unnamed contact"
@@ -6841,7 +6841,7 @@ msgctxt "sSMS_TARGET_INVALID_MESSAGE"
 msgid ""
 "Number not recognised. Go to the Call Phones tab to enter the number and "
 "send the SMS."
-msgstr "Nummeret blev ikke genkendt. Gå til fanen Ring til telefoner for at indtaste telefonnummeret og sende SMS'en."
+msgstr "Nummarið er ókent. Far til teigin fyri telefonkøll fyri at ringja og senda SMS."
 
 msgctxt "sPFOFILE_HEADER_INFO_BUTTON"
 msgid "Show group avatar and topic"
@@ -6851,25 +6851,25 @@ msgctxt "sFILETRANSFER_TRANSFER_INCOMPLETE"
 msgid ""
 "The file transfer is still in progress. You can open the file once the "
 "transfer is complete."
-msgstr "Filoverførslen er stadig i gang. Du kan åbne filen, når overførslen er udført."
+msgstr "Fíluflutningurin er enn virkin. Tú kanst lata fíluna upp, tá ið flutningurin er liðugur."
 
 msgctxt "sFILETRANSFER_TRANSFER_CANCELLED"
 msgid "The file can not be opened as the transfer has been cancelled"
-msgstr "Filen kan ikke åbnes, da overførslen blev annulleret"
+msgstr "Fílan kann ikki latast upp, tí at flutningurin er avbrotin"
 
 msgctxt "sFILETRANSFER_FILE_MISSING"
 msgid ""
 "The file \"%s\" cannot be found. Probably it has been renamed or moved to a "
 "different location"
-msgstr "Filen \"%s\" blev ikke fundet. Den er muligvis blevet omdøbt eller flyttet til et andet sted"
+msgstr "Fílan \"%s\" er ikki at finna. Hon hevur kanska skift navn ella er kanska flutt"
 
 msgctxt "sFILETRANSFER_FILE_MISSING_TITLE"
 msgid "File not found"
-msgstr "Filen blev ikke fundet"
+msgstr "Fílan er ikki at finna"
 
 msgctxt "sFILETRANSFER_FILE_MISSING_CAPTION"
 msgid "File not found"
-msgstr "Filen blev ikke fundet"
+msgstr "Fílan er ikki at finna"
 
 msgctxt "sSMS_TARGET_UNDISCLOSED"
 msgid "The contact must have a valid phone number for you to send SMS"
@@ -6877,7 +6877,7 @@ msgstr "Vinurin má hava eitt galdandi telefonnummar fyri at tú skalt kunna sen
 
 msgctxt "sCHAT_MENU_COPY_MESSAGE"
 msgid "Copy Message"
-msgstr "Kopier meddelelse"
+msgstr "Avrita boð"
 
 msgctxt "sMAINMENU_CONVERSATION_TOPIC"
 msgid "Topic"
@@ -6885,19 +6885,19 @@ msgstr "Evni"
 
 msgctxt "sMAINMENU_CONVERSATION_SETTOPIC"
 msgid "Set Topic..."
-msgstr "Angiv emne…"
+msgstr "Set evni…"
 
 msgctxt "sMAINMENU_CONVERSATION_SETPICTURE"
 msgid "Set Picture..."
-msgstr "Vælg billede…"
+msgstr "Vel mynd…"
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_PEOPLE"
 msgid "Add People..."
-msgstr "Legg brúkarir afturat"
+msgstr "Legg brúkarar afturat"
 
 msgctxt "sPUBLICCHAT_NOT_SUPPORTED"
 msgid "Public chats are not supported in this version"
-msgstr "Offentlige chats understøttes ikke i denne version"
+msgstr "Alment kjatt er ikki tøkt í hesari útgávu"
 
 msgctxt "sPROFILE_OUTLOOK_CONTACT"
 msgid "Outlook Contact"
@@ -6905,7 +6905,7 @@ msgstr "Outlook-brúkari"
 
 msgctxt "sCALL_LB2_BLOCKED_BY_US"
 msgid "Destination is temporarily blocked"
-msgstr "Destinationen er midlertidigt blokeret"
+msgstr "Slóðin er forðað í løtuni"
 
 msgctxt "sPASTE_AS_QUOTE_LBL"
 msgid "Pressing Ctrl+V will..."
@@ -6913,19 +6913,19 @@ msgstr "Tá eg trýsti á Ctrl+V verður..."
 
 msgctxt "sPASTE_AS_QUOTE"
 msgid "quote copied message"
-msgstr "avritaði teksturin innsettur sum sitat"
+msgstr "avritaði teksturin settur inn sum sitat"
 
 msgctxt "sPASTE_AS_QUOTE_NOT"
 msgid "paste message as plain text"
-msgstr "teksturin innsettur sum vanligur tekstur"
+msgstr "teksturin settur inn sum vanligur tekstur"
 
 msgctxt "sHISTORY_FILTER_EMPTY"
 msgid "No events matching \"%s\""
-msgstr "Ingen hændelser matcher \"%s\""
+msgstr "Ongar hendingar samsvara við \"%s\""
 
 msgctxt "sF_MULTICHAT_EDIT_PASTEASTEXT"
 msgid "Paste As Text"
-msgstr "Indsæt som tekst"
+msgstr "Set in sum tekst"
 
 msgctxt "sF_MULTICHAT_EDIT_PASTEASQUOTE"
 msgid "Paste Quote"
@@ -6937,11 +6937,11 @@ msgstr "Vís sum vanligan tekst"
 
 msgctxt "sOPTIONS_AUDIO_CHECK_SPEAKERS"
 msgid "Check speakers"
-msgstr "Kontrollér højttalerne"
+msgstr "Kanna hátalarar"
 
 msgctxt "sF_IMAGE_CONTENT_EDIT"
 msgid "Edit"
-msgstr "Broyta"
+msgstr "Broyt"
 
 msgctxt "sPFOFILE_HEADER_SAVE"
 msgid "Save"
@@ -6953,7 +6953,7 @@ msgstr "Angra"
 
 msgctxt "sPFOFILE_HEADER_EDIT"
 msgid "Edit"
-msgstr "Broyt navnið"
+msgstr "Broyt"
 
 msgctxt "sPFOFILE_HEADER_INFO_BUTTON2"
 msgid "Hide group avatar and topic"
@@ -6993,7 +6993,7 @@ msgstr "Vangin er ikki tøkur. Tú kanst bert síggja upplýsingar um hendan per
 
 msgctxt "sOPTIONS_USE_SPEAKER_DEVICE"
 msgid "Use selected speaker"
-msgstr "Brug de valgte højttalere"
+msgstr "Brúka valdu hátalarar"
 
 msgctxt "sFLOW_CALL_REJECTED_IN"
 msgid "Call from %s declined."
@@ -7005,11 +7005,11 @@ msgstr "%s svaraði ikki."
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
-msgstr "Mistede telefonmøder."
+msgstr "Mist  bólkakall."
 
 msgctxt "sGROUP_CALL_UNANSWERED_OUT"
 msgid "Group call, no answer."
-msgstr "Telefonmøde besvares ikke."
+msgstr "Bólkakall, einki svar."
 
 msgctxt "sF_OPTIONS_CF_ERROR5"
 msgid ""
@@ -7059,21 +7059,21 @@ msgstr "Skype kann ikki nýtast í staðin fyri vanliga telefon<br/>og kann ikki
 
 msgctxt "sPROFILE_CHANGE_COUNTRY_BUTTON"
 msgid "Change your country/region"
-msgstr "Skift land"
+msgstr "Skift landøki"
 
 msgctxt "sPROFILE_DEFAULT_LOCATION_BUTTON"
 msgid "Set your country/region"
-msgstr "Vel land"
+msgstr "Vel landøki"
 
 msgctxt "sPROFILE_EMERGENCY_CALL1"
 msgid ""
 "<font color=\"#FF0000\">No Emergency Calls</font> You're attempting to make "
 "an emergency call (%s) in an unknown country/region"
-msgstr "<font color=\"#FF0000\">Ingen nødopkald</font> Det ser ud til, at du er ved at foretage et nødopkald (%s) i et ukendt land"
+msgstr "<font color=\"#FF0000\">Eingi neyðarkøll</font> Tú ert í holt við at ringja neyðarkall (%s) hoyrir til ókent landøki"
 
 msgctxt "sPROFILE_EMERGENCY_CALL2"
 msgid "You appear to be attempting to make an emergency call (%s) in %s"
-msgstr "Det ser ud til, at du er ved at foretage et nødopkald (%s) i %s"
+msgstr "Tú ert í holt við at ringja neyðarkall (%s) í %s"
 
 msgctxt "sPROFILE_HEADER_EMERGENCY_CALL"
 msgid "Emergency Call"
@@ -7089,11 +7089,11 @@ msgstr "Útgáva"
 
 msgctxt "sCALL_CONF_NO_EMERGENCY"
 msgid "Group calling with emergency services is not supported"
-msgstr "Conference calling with emergency services is not supported"
+msgstr "Bólkakall við neyðarkalli er ikki tøkt"
 
 msgctxt "sCALL_CONF_ADD_EMERGENCY"
 msgid "Adding emergency services to a group call is not supported"
-msgstr "Adding emergency services to conference is not supported"
+msgstr "Tað ber ikki til at leggja neyðarkall aftur at bólkakalli"
 
 msgctxt "sBIRTHDAY_TODAY"
 msgid "%s has a birthday today"
@@ -7156,15 +7156,15 @@ msgstr "Vinur sendur til %s"
 
 msgctxt "sCHAT_RECEIVED_CONTACTS"
 msgid "%d contacts received from %s"
-msgstr "%d brúkarir móttiknir frá %s"
+msgstr "%d vinaupplýsingar móttiknir frá %s"
 
 msgctxt "sHISTORY_FILTER_CONTACTTRANSFERS"
 msgid "Contacts sent and received"
-msgstr "Brúkarir sendir og móttiknir"
+msgstr "Vinaupplýsingar sendir og móttiknir"
 
 msgctxt "sTRAYALERT_CQ_PLAYBACK_ERROR"
 msgid "No speakers detected."
-msgstr "No microphone detected."
+msgstr "Eingir hátalarar eru at finna."
 
 msgctxt "sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3"
 msgid "Automatically receive video and share screens with"
@@ -7196,11 +7196,11 @@ msgstr "Tú hevur ikki lov til at senda køll víðari til \"Skype test kall\""
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
-msgstr "Ringir uppá..."
+msgstr "Ringir"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr "Leggur á..."
+msgstr "Leggur á"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -7208,15 +7208,15 @@ msgstr "Sendir víðari"
 
 msgctxt "sPARTICIPANT_CALL_STATE_VMPLAYING"
 msgid "Playing voice message"
-msgstr "Playing voicemail"
+msgstr "Spælir ljóðbið"
 
 msgctxt "sPARTICIPANT_CALL_STATE_VMRECORDED"
 msgid "Recording voice message"
-msgstr "Recording voicemail"
+msgstr "Spælir inn ljóðboð"
 
 msgctxt "sHOTKEY_ANSWER_WITH_VIDEO"
 msgid "Answer call with video"
-msgstr "Svara uppkalli við video"
+msgstr "Svara kalli við video"
 
 msgctxt "INVALID_HOTKEY_TITLE"
 msgid "Invalid hotkeys detected"
@@ -7265,7 +7265,7 @@ msgid ""
 "Geographical, software version and other limitations apply - see our <a "
 "href=\"skype:?go#tos\">Terms of Service</a>. Make alternative emergency "
 "service access arrangements through a traditional telephone service."
-msgstr "Geographical, software version and other limitations apply - see our <a href=\"skype:?eula\">End User Licence Agreement.</a> Make alternative emergency service access arrangements through a traditional telephone service."
+msgstr "Landafrøði, útgáva og aðrar avmarkingar eru galdandi - les okkara <a href=\"skype:?go#tos\">Nýtlsutreytir</a>. Ring neyðarkall við vanligari telefon."
 
 msgctxt "sBROWSER_OFFLINE_CAPTION"
 msgid "You are currently offline"
@@ -7311,7 +7311,7 @@ msgstr "Ring til tøkniligu leiðbeiningina"
 
 msgctxt "sF_OPTIONS_SMS_RB3"
 msgid "My mobile phone number. Recipients can send SMS replies."
-msgstr "My mobile phone number:"
+msgstr "Mítt fartelefonnummar. Móttakarar kunnu svara við SMS."
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
@@ -7340,7 +7340,7 @@ msgstr "Tendra Skype Atgongd"
 msgctxt "sSKYACCESS_TRAY_SESSIONEXPIRE"
 msgid ""
 "Your Skype WiFi session is due to expire in {MINUTES_REMAINING} minutes."
-msgstr "Your Skype Access session is due to expire in {MINUTES_REMAINING} minutes."
+msgstr "Tráðleysa Skype gongur út um {MINUTES_REMAINING} minuttir."
 
 msgctxt "sSKYACCESS_TRAY_EXTENDSESSION"
 msgid "Extend your session"
@@ -7348,7 +7348,7 @@ msgstr "Víðka um setuna"
 
 msgctxt "sSKYACCESS_TRAYMENU_STATUS"
 msgid "View Skype WiFi"
-msgstr "Vís Skype Atgongd"
+msgstr "Vís tráðleyst Skype"
 
 msgctxt "sSKYACCESS_TRAYMENU_CONNECT"
 msgid "Connect"
@@ -7368,7 +7368,7 @@ msgstr "Um tú sløkkir Skype hevur tað við sær, at Skype Atgongdarsetan eisi
 
 msgctxt "sMAINMENU_SKYACCESS"
 msgid "Skype WiFi..."
-msgstr "Skype Atgongd…"
+msgstr "Tráðleyst Skype…"
 
 msgctxt "sUSERCREATE_PWD_HINT"
 msgid "6-20 characters needed"
@@ -7428,7 +7428,7 @@ msgstr "Lat upp nýggja glugga, tá ið eg fái nýggj boð."
 
 msgctxt "sBUDDYMENU_CALL_TRANSFER"
 msgid "Transfer Call..."
-msgstr "Transfer Call…"
+msgstr "Stilla um…"
 
 msgctxt "sBUDDYMENU_CALL_TRANSFER_OTHER"
 msgid "A different contact..."
@@ -7562,7 +7562,7 @@ msgstr "Stilla kall um frá <b>%s</b>"
 
 msgctxt "sSKYACCESS_TRAYICON_HINT"
 msgid "Skype WiFi"
-msgstr "Skype Access Beta"
+msgstr "Tráðleyst Skype"
 
 msgctxt "sSKYACCESS_TRAYICON_HINT_CONNECTED"
 msgid "Skype WiFi connected (%s / %s)"
@@ -7570,7 +7570,7 @@ msgstr "Skype Atgongd íbundin (%s / %s)"
 
 msgctxt "sGROUP_CALL_REJECTED_IN"
 msgid "Group call declined."
-msgstr "Conference call declined."
+msgstr "Bólkakall avvíst."
 
 msgctxt "sSKYACCESS_TRAY_HOTSPOT_DETECTED"
 msgid "You can use Skype Credit to pay for internet access."
@@ -7764,7 +7764,7 @@ msgid ""
 "Close any other applications that might be using your webcam. You could also"
 " plug your webcam into a different USB port on your computer, then restart. "
 "For more help, check the call quality guide."
-msgstr "Sløkk fyri ollum forritum, sum møguliga brúka vevmyndatólið. Tú kundi eisini roynt at sett vevmyndatólið til eitt annað USB-portur á telduni og síðani endurbyrjað. Vitja vegleiðingina fyri kallgóðsku fyri at fáa meira hjálp."
+msgstr "Sløkk fyri ollum forritum, sum møguliga brúka vevmyndatólið. Tú kundi eisini roynt at sett vevmyndatólið til eitt annað USB-portur á telduni og síðani endurbyrja. Vitja vegleiðingina fyri kallgóðsku fyri at fáa meira hjálp."
 
 msgctxt "sCQ_UNPLUG_USB_TITLE"
 msgid "Unplug some USB devices"
@@ -7966,17 +7966,17 @@ msgstr "Teldan arbeiðir nóg skjótt til at ringja við ljóði og við høgari
 
 msgctxt "sCQ_CONNECTION_SPEED_UNKNOW_TITLE"
 msgid "The connection speed between you is unknown"
-msgstr "Tín internetferð er ókend"
+msgstr "Alnetsferðin er ókend"
 
 msgctxt "sCQ_CONNECTION_SPEED_UNKNOW_DESC"
 msgid ""
 "Skype is unable to measure the speed of the internet connection between you "
 "at this time."
-msgstr "Skype is unable to measure your connection speed at this time."
+msgstr "Skype fær ikki málað ferðingar tykkara ímillum í løtuni."
 
 msgctxt "sCQ_YOUR_CONNECTION_VERY_SLOW_TITLE"
 msgid "Connection is very slow"
-msgstr "Connection is very weak"
+msgstr "Sambandið er veikt"
 
 msgctxt "sCQ_YOUR_CONNECTION_VERY_SLOW_DESC"
 msgid ""
@@ -8146,7 +8146,7 @@ msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
 msgid ""
 "Unable to sign in, Check your Skype Name and password are correct and try "
 "again."
-msgstr ""
+msgstr "Fær ikki ritað inn. Kanna eftir um Skype-navn og loyniorð eru røtt og royn aftur."
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
@@ -8671,7 +8671,7 @@ msgstr "Tú sært video á hesum kalli, tí at %s og %s onnur brúka videokall. 
 
 msgctxt "sPREM_VIDEO_ACCOUNT_BLOCKED"
 msgid "Account blocked"
-msgstr "Konta er stongd"
+msgstr "Konta er forðað"
 
 msgctxt "sCALL_TOOLBAR_SHOW_IM_HINT"
 msgid "Show IM"
@@ -9292,7 +9292,7 @@ msgstr "Fleiri kallstillingar"
 
 msgctxt "sPFOFILE_HEADER_HOST"
 msgid "You are hosting this call"
-msgstr "Du er vært for dette opkald"
+msgstr "Tú ert vertur fyri hetta kall"
 
 msgctxt "sCALL_POPUP_ADD_PHONE_NUMBER"
 msgid "Call this person on their mobile or landline number."
@@ -10340,7 +10340,7 @@ msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
 "Contacts in this list will not be deleted. You can still find them under "
 "\"All\""
-msgstr ""
+msgstr "Vinir í hesum lista verða ikki strikaðir. Teir eru enn at finna undir \"Alt\""
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
@@ -10409,7 +10409,7 @@ msgstr "Leita eftir <a href=\"x\">%s</a> á Skype."
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Type a message here"
-msgstr ""
+msgstr "Skriva boð her"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -10676,7 +10676,7 @@ msgctxt "sCONVERSATION_FLAMINGO_PARTNER_BLOCKED"
 msgid ""
 "%s is blocked and can't answer. If you want to chat, unblock them from "
 "Facebook."
-msgstr "%s er blokerað/ur og fær ikki svarað. Vilt tú kjatta, strika blokeringina á Facebook."
+msgstr "%s er forðað/ur og fær ikki svarað. Vilt tú kjatta, strika forðingina á Facebook."
 
 msgctxt "sSEND_CONTACT_REQUEST"
 msgid "Send %s a contact request"
@@ -10731,7 +10731,7 @@ msgstr "Call a lot? Save a lot...<br/><a href=\"%s\">Get a subscription</a>"
 
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage my account"
-msgstr ""
+msgstr "Skipa kontu"
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
@@ -12194,7 +12194,7 @@ msgstr "<b>%s</b> vil leggja teg aftur at sínum vinalista á Skype"
 
 msgctxt "sCHAT_HISTORY_JUMPBACK"
 msgid "Jump Back"
-msgstr ""
+msgstr "Hopp aftur"
 
 msgctxt "sMSNP24_MERGE_MESSAGE"
 msgid "From now on your chats will sync on all your devices."
@@ -12342,7 +12342,7 @@ msgstr "Fíla flutt"
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
 msgid "Show in folder"
-msgstr ""
+msgstr "Vís í mappu"
 
 msgctxt "sFILETRANSFER_AUTO_ACCEPT"
 msgid "Automatically accept incoming files"
@@ -12378,11 +12378,11 @@ msgstr "Fílur móttiknar"
 
 msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
 msgid "Download all"
-msgstr ""
+msgstr "Tak alt niður"
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "Angra alt"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
@@ -12538,7 +12538,7 @@ msgstr "Loyva fólkið at koma upp í bólkin"
 
 msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
 msgid "Administrator settings"
-msgstr ""
+msgstr "Fyrisitingarligir stillingar"
 
 msgctxt "sF_CHAT_INFO_COPY_LINK"
 msgid "Copy conversation link"
@@ -12668,350 +12668,350 @@ msgstr "Rinda so líðandi"
 
 msgctxt "sVOICEMAIL_PROMPT"
 msgid "Are you sure you want to send a voice message to<b>%s</b>?"
-msgstr ""
+msgstr "Ert tú vís/ur í, at tú vilt senda <b>%s</b> eini ljóðboð?"
 
 msgctxt "sVOICEMAIL_PROMPT_TITLE"
 msgid "Send voice message"
-msgstr ""
+msgstr "Send ljóðboð"
 
 msgctxt "sVOICEMAIL_PROMPT_CAP"
 msgid "Voice message"
-msgstr ""
+msgstr "Ljóðboð"
 
 msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
 msgid "Phone:"
-msgstr ""
+msgstr "Telefon:"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER"
 msgid "Edit"
-msgstr ""
+msgstr "Broyt"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
 msgid "Edit %s"
-msgstr ""
+msgstr "Broyt %s"
 
 msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
 msgid "Leave Conversation"
-msgstr ""
+msgstr "Far út samrøðu"
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
 msgid "Limited emergency calling"
-msgstr ""
+msgstr "Avmarkað neyðarkall"
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2"
 msgid ""
 "Emergency calling is only supported by certain countries/regions. Please, go"
 " to Call settings to set your default location."
-msgstr ""
+msgstr "Neyðarkøll eru einans tøk í summum londum/økjum. Far inn á stillingar fyri køll og stilla stað."
 
 msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
 msgid "SMS sent to <a href=\"x\">%d people</a>"
-msgstr ""
+msgstr "SMS sent til <a href=\"x\">%d fólk</a>"
 
 msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
 msgid "SMS sent to <a href=\"x\">%d person</a>"
-msgstr ""
+msgstr "SMS sent til <a href=\"x\">%d fólk</a>"
 
 msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
 msgid "SMS sent to <a href=\"x\">%d people</a>"
-msgstr ""
+msgstr "SMS sent til <a href=\"x\">%d fólk</a>"
 
 msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a video call"
-msgstr ""
+msgstr "Vel ikki fleiri enn %d luttakarar, sum kunnu starta videokall"
 
 msgctxt "sVIDEOCALL_BTN_SO_CONTACT_HINT"
 msgid "You cannot place video calls to mobile or land lines"
-msgstr ""
+msgstr "Tú kanst ikki ringja við video til fartelefonir ella fastnet"
 
 msgctxt "sVIDEOCALL_BTN_ECHO_CONTACT_HINT"
 msgid "You cannot place test video calls"
-msgstr ""
+msgstr "Tú kanst ikki ringja við video"
 
 msgctxt "sCONTACTS_LINK_CAPS"
 msgid "CONTACTS"
-msgstr ""
+msgstr "VINIR"
 
 msgctxt "sRECENTS_LINK_CAPS"
 msgid "RECENT"
-msgstr ""
+msgstr "STUTT FRÁLIÐIÐ"
 
 msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
 msgid "This photo is unavailable"
-msgstr ""
+msgstr "Myndin er ikki tøk"
 
 msgctxt "sACC_NAME_PHOTO_MESSAGE"
 msgid "From %0:s, new photo, sent on %1:s"
-msgstr ""
+msgstr "Frá %0:s, nýggj mynd, send frá %1:s"
 
 msgctxt "sTRAYALERT_PHOTO_MESSAGE"
 msgid "New photo"
-msgstr ""
+msgstr "Nýggj mynd"
 
 msgctxt "sPHOTO_SAVE_AS"
 msgid "Save as..."
-msgstr ""
+msgstr "Goym sum..."
 
 msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
 msgid "To view this shared photo, go to: %1"
-msgstr ""
+msgstr "Vilt tú síggja deilda mynd, far inn á: %1"
 
 msgctxt "sACC_NAME_MYSELF_GRAPHIC"
 msgid "My profile picture"
-msgstr ""
+msgstr "Vangamynd"
 
 msgctxt "sSEARCHING_SKYPE_DIRECTORY"
 msgid "Searching Skype directory..."
-msgstr ""
+msgstr "Leita í skránni hjá Skype..."
 
 msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
 msgid "Show message previews in the sidebar"
-msgstr ""
+msgstr "Vís dømi frá boði í síðuskránni"
 
 msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
 msgid "Simple List View"
-msgstr ""
+msgstr "Einfaldur listi"
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
 msgid "Give Feedback"
-msgstr ""
+msgstr "Kom við afturmelding"
 
 msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
 msgid "No results found for %s"
-msgstr ""
+msgstr "Einki varð funnið um %s"
 
 msgctxt "sMESGPREVIEW_POSTED_FILES_SINGLE"
 msgid "Sent you files"
-msgstr ""
+msgstr "Sendi tær fílur"
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
 msgid "Shared a photo"
-msgstr ""
+msgstr "Deildi eina mynd"
 
 msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
 msgid "Shared a location"
-msgstr ""
+msgstr "Deildi stað"
 
 msgctxt "sMESGPREVIEW_VOICE_MESSAGE_SINGLE"
 msgid "Sent you a voice message"
-msgstr ""
+msgstr "Sendi tær ljóðboð"
 
 msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_SINGLE"
 msgid "Sent you a video message"
-msgstr ""
+msgstr "Sendi tær ljóðboð"
 
 msgctxt "sMESGPREVIEW_POSTED_CONTACTS_SINGLE"
 msgid "Sent you contacts"
-msgstr ""
+msgstr "Sendi tær vinaupplýsingar"
 
 msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
 msgid "%s sent files"
-msgstr ""
+msgstr "%s sendar fílur"
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
 msgid "%s shared a photo"
-msgstr ""
+msgstr "%s deildar myndir"
 
 msgctxt "sMESGPREVIEW_POSTED_LOCATION_MULTI"
 msgid "%s shared a location"
-msgstr ""
+msgstr "%s deild støð"
 
 msgctxt "sMESGPREVIEW_VOICE_MESSAGE_MULTI"
 msgid "%s sent a voice message"
-msgstr ""
+msgstr "% sendi eini ljóðboð"
 
 msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_MULTI"
 msgid "%s sent a video message"
-msgstr ""
+msgstr "%s sendi eini ljóðboð"
 
 msgctxt "sMESGPREVIEW_POSTED_CONTACTS_MULTI"
 msgid "%s sent contacts"
-msgstr ""
+msgstr "% sendi vinaupplýsingar"
 
 msgctxt "sMESGPREVIEW_REQUESTED_AUTH"
 msgid "Sent you a contact request"
-msgstr ""
+msgstr "Sendi tær vinaumbøn"
 
 msgctxt "sMESGPREVIEW_GRANTED_AUTH"
 msgid "Contact request accepted"
-msgstr ""
+msgstr "Vinaumbøn er góðkend"
 
 msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
 msgid "Birthday today"
-msgstr ""
+msgstr "Føðingardag í dag"
 
 msgctxt "sADDCONTACT_PROMPT"
 msgid "Are you sure you want to add contacts: <b>%s</b>?"
-msgstr ""
+msgstr "Ert tú vís/ur í, at tú vilt leggja vinir afturat: <b>%s</b>?"
 
 msgctxt "sADDCONTACT_PROMPT_TITLE"
 msgid "Add contacts"
-msgstr ""
+msgstr "Legg vinir afturat"
 
 msgctxt "sADDCONTACT_PROMPT_CAP"
 msgid "Add contacts"
-msgstr ""
+msgstr "Legg vinir afturat"
 
 msgctxt "sDIALPAD_MAIN_1"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "sDIALPAD_MAIN_2"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "sDIALPAD_MAIN_3"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "sDIALPAD_MAIN_4"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "sDIALPAD_MAIN_5"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "sDIALPAD_MAIN_6"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "sDIALPAD_MAIN_7"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "sDIALPAD_MAIN_8"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "sDIALPAD_MAIN_9"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "sDIALPAD_MAIN_ASTERISK"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "sDIALPAD_MAIN_0"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "sDIALPAD_MAIN_HASH"
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgctxt "sDIALPAD_AUX_2"
 msgid "ABC"
-msgstr ""
+msgstr "ABC"
 
 msgctxt "sDIALPAD_AUX_3"
 msgid "DEF"
-msgstr ""
+msgstr "DEF"
 
 msgctxt "sDIALPAD_AUX_4"
 msgid "GHI"
-msgstr ""
+msgstr "GHI"
 
 msgctxt "sDIALPAD_AUX_5"
 msgid "JKL"
-msgstr ""
+msgstr "JKL"
 
 msgctxt "sDIALPAD_AUX_6"
 msgid "MNO"
-msgstr ""
+msgstr "MNO"
 
 msgctxt "sDIALPAD_AUX_7"
 msgid "PQRS"
-msgstr ""
+msgstr "PQRS"
 
 msgctxt "sDIALPAD_AUX_8"
 msgid "TUV"
-msgstr ""
+msgstr "TUV"
 
 msgctxt "sDIALPAD_AUX_9"
 msgid "WXYZ"
-msgstr ""
+msgstr "WXYZ"
 
 msgctxt "sDIALPAD_AUX_0"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgctxt "sDIALPAD_COUNTRY_SELECTOR"
 msgid "%s (+%d)"
-msgstr ""
+msgstr "%s (+%d)"
 
 msgctxt "sBUDDYMENU_CHANGE_TOPIC"
 msgid "Change topic..."
-msgstr ""
+msgstr "Skift evni"
 
 msgctxt "sF_CHANGE_TOPIC_CAPTION"
 msgid "Change topic"
-msgstr ""
+msgstr "Skift evni"
 
 msgctxt "sMAINMENU_CONVERSATION_CHANGE_TOPIC"
 msgid "Change topic..."
-msgstr ""
+msgstr "Skift evni..."
 
 msgctxt "sF_CHANGE_TOPIC_LABEL"
 msgid "Enter new topic"
-msgstr ""
+msgstr "Vel nýtt evni"
 
 msgctxt "sFRE_TITLE"
 msgid "Welcome Tour"
-msgstr ""
+msgstr "Innleiðsla"
 
 msgctxt "sFRE_START"
 msgid "Welcome to the new Skype for Windows."
-msgstr ""
+msgstr "Vælkomin til nýggja útgávuna av Skype til Windows"
 
 msgctxt "sFRE_CHAT"
 msgid "Redesigned for a richer chat experience."
-msgstr ""
+msgstr "Nýtt og smidligt snið, sum gevur eina betri uppliving."
 
 msgctxt "sFRE_PHOTO"
 msgid "Share your favourite photos and bring chats to life."
-msgstr ""
+msgstr "Deil tínar yndismyndir og kjatta sum ongantíð áður."
 
 msgctxt "sFRE_GROUP"
 msgid "Get everyone together with free group video calling."
-msgstr ""
+msgstr "Savna øll saman um ókeypis bólkakøll."
 
 msgctxt "sFRE_PHONE"
 msgid "Keep the conversation going and take Skype with you."
-msgstr ""
+msgstr "Hav samrøðuna koyrandi og tak Skype við tær."
 
 msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
 msgid "File transfer limit"
-msgstr ""
+msgstr "Loft fyri fíluflutning"
 
 msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
 msgid "Emergency numbers"
-msgstr ""
+msgstr "Nummar til neyðarkall"
 
 msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
 msgid ""
 "Set your default country/region to check if Skype supports emergency calls "
 "in your country/region."
-msgstr ""
+msgstr "Stilla inn, hvar tú ert í heiminum fyri at kanna, um tú kanst ringja neyðarkall við Skype frá tínum landøki."
 
 msgctxt "sCALL_PHONES_EMERGENCY2_INLINE"
 msgid "Emergency calls are not supported in your country/region."
-msgstr ""
+msgstr "Neyðarkall er ikki tøkt í tínum landøki."
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2_INLINE"
 msgid ""
 "Only use Skype as an absolute last resort for emergency calling. <a "
 "href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "Brúka einans Skype sum síðsta møguleika, skalt tú ringja neyðarkall. <a href=\"%s\">Les meira</a>."
 
 msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
 msgid "Your Country/Region:"
-msgstr ""
+msgstr "Landøki:"
 
 msgctxt "sSEND_MEDIA_MENU_HINT"
 msgid "Send contacts and media"
-msgstr ""
+msgstr "Send vinaupplýsingar og miðlar"
 
 msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
 msgid "Advertisement"
-msgstr ""
+msgstr "Lýsingar"
