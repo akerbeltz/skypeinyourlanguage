@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-11-19 22:07+0000\n"
+"PO-Revision-Date: 2014-12-11 21:09+0000\n"
 "Last-Translator: michawiki <milupo@sorbzilla.de>\n"
 "Language-Team: Upper Sorbian (http://www.transifex.com/projects/p/skype-translation-project/language/hsb/)\n"
 "MIME-Version: 1.0\n"
@@ -502,7 +502,7 @@ msgstr "za dochadźace zwiski"
 
 msgctxt "sF_OPTIONS_TCB8"
 msgid "Use port 80 and 443 for additional incoming connections"
-msgstr ""
+msgstr "Wužiwajće port 80 a 443 za přidatne dochadźace zwiski"
 
 msgctxt "sF_OPTIONS_CONNDATA_INVALIDPORT"
 msgid "Invalid port"
@@ -1629,7 +1629,7 @@ msgstr "je wobsadźene"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE"
 msgid "incoming IM in recent chat"
-msgstr ""
+msgstr "dochadźaca hnydomna powěsć w najnowšim chaće"
 
 msgctxt "sF_OPTIONS_LB_NOTIFICATIONS"
 msgid "Display a notification in the Windows tray when someone..."
@@ -1718,7 +1718,7 @@ msgstr "Wšě zynki zmóžnić"
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
 msgid "Set up voice messaging"
-msgstr ""
+msgstr "Rěčne powěsće konfigurować"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
@@ -2499,7 +2499,7 @@ msgstr "zawołanski zmylk 2 wustupuje"
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
 msgid "incoming IM in current chat"
-msgstr ""
+msgstr "dochadźaca hnydomna powěsć w aktualnym chaće"
 
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
@@ -5318,7 +5318,7 @@ msgstr "Ně, dźakuju so"
 
 msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
 msgid "Send quality feedback"
-msgstr ""
+msgstr "Komentar wo kwaliće pósłać"
 
 msgctxt "sZAPBUTTON_CLOSEWINDOW"
 msgid "Close"
@@ -11145,7 +11145,7 @@ msgstr ""
 
 msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
 msgid "sends me a video message"
-msgstr ""
+msgstr "sćele mi widejopowěsć"
 
 msgctxt "sTRAYALERT_VIDEO_MESSAGE"
 msgid "New video message"
@@ -11213,7 +11213,7 @@ msgstr "Widejopowěsć"
 
 msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
 msgid "Clear search input"
-msgstr ""
+msgstr "Pytanski wuraz zhašeć"
 
 msgctxt "sACC_NAME_SEARCH_EDIT"
 msgid "Search by name, Skype name or email"
@@ -11291,7 +11291,7 @@ msgstr "Čisło wobdźěłać"
 
 msgctxt "sACC_CALL_PHONES_SELECTED_COUNTRY_COMBO_NAME"
 msgid "Select country/region to call"
-msgstr ""
+msgstr "Wubjerće kraj/region, hdźež chceće zawołać"
 
 msgctxt "sACC_CALL_PHONES_ENTER_PHONE_NUMBER_EDIT_NAME"
 msgid "Enter phone number"
@@ -11311,15 +11311,15 @@ msgstr "Zwiskowe nastajenja přepruwować"
 
 msgctxt "sACC_CALL_PHONES_REQUEST_CREDIT_NAME"
 msgid "You have %s Skype Credit, Buy more credit"
-msgstr ""
+msgstr "Maće dobroměće %s Skype-dobroměće, kupće wjace dobroměća"
 
 msgctxt "sACC_CALL_PHONES_REQEUST_SUBSCRIPTION_NAME"
 msgid "You have %d subscriptions. Get a subscription"
-msgstr ""
+msgstr "Maće %d abonementow. Wobstarajće sej abonement"
 
 msgctxt "sACC_CALL_PHONES_RECENT_CALLS_POPUP_NAME"
 msgid "Recent calls"
-msgstr ""
+msgstr "Najnowše zawołanja"
 
 msgctxt "sACC_NAME_HISTORY_LIST"
 msgid "History"
@@ -11331,7 +11331,7 @@ msgstr "Hižo kontakt"
 
 msgctxt "sACC_NAME_SEND_CONTACT_REQUEST_TEXT"
 msgid "Introductory message"
-msgstr ""
+msgstr "Zawodna powěsć"
 
 msgctxt "sACC_MYSELF_PROFILE_TIMEZONE_COMBO_NAME"
 msgid "Timezone"
@@ -11379,11 +11379,11 @@ msgstr "Wjace dobroměća kupić"
 
 msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
 msgid "Get another subscription"
-msgstr ""
+msgstr "Dalši abonement sej wobstarać"
 
 msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
 msgid "View your subscription(s)"
-msgstr ""
+msgstr "Waše abonementy sej wobhladać"
 
 msgctxt "sCALLPHONES_SUBSCR_RENEW_LNK"
 msgid "Renew"
@@ -11391,15 +11391,15 @@ msgstr ""
 
 msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
 msgid "Get a subscription"
-msgstr ""
+msgstr "Abonement sej wobstarać"
 
 msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
 msgid "Request more credit"
-msgstr ""
+msgstr "Wjace dobroměća požadać"
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
 msgid "Request a subscription"
-msgstr ""
+msgstr "Abonement požadać"
 
 msgctxt "sSMS_NO_CREDIT"
 msgid ""
@@ -11429,35 +11429,35 @@ msgstr "Namjetowane čisła"
 
 msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_VOICE_MESSAGE"
 msgid "Incoming voice message"
-msgstr ""
+msgstr "Dochadźaca rěčna powěsć"
 
 msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_VOICE_MESSAGE"
 msgid "Outgoing voice message"
-msgstr ""
+msgstr "Wuchadźaca rěčna powěsć"
 
 msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_FILE"
 msgid "Incoming file"
-msgstr ""
+msgstr "Dochadźaca dataja"
 
 msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_FILE"
 msgid "Outgoing file"
-msgstr ""
+msgstr "Wuchadźaca dataja"
 
 msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_SMS_MESSAGE"
 msgid "Incoming sms"
-msgstr ""
+msgstr "Dochadźacy SMS"
 
 msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_SMS_MESSAGE"
 msgid "Outgoing sms"
-msgstr ""
+msgstr "Wuchadźacy SMS"
 
 msgctxt "sACC_HISTORY_ITEM_IMAGE_IN_CHAT_MESSAGE"
 msgid "Incoming chat message"
-msgstr ""
+msgstr "Dochadźaca chatowa powěsć"
 
 msgctxt "sACC_HISTORY_ITEM_IMAGE_OUT_CHAT_MESSAGE"
 msgid "Outgoing chat message"
-msgstr ""
+msgstr "Wuchadźaca chatowa powěsć"
 
 msgctxt "sACC_NAME_LIVE_LIST"
 msgid "Active calls"
@@ -11529,11 +11529,11 @@ msgstr ""
 
 msgctxt "sACC_OPTIONS_VOICEMAIL_SETTINGS"
 msgid "Voice message settings"
-msgstr ""
+msgstr "Nastajenja rěčnych powěsćow"
 
 msgctxt "sACC_OPTIONS_CALL_FORWARDING_SETTINGS"
 msgid "Call forwarding settings"
-msgstr ""
+msgstr "Nastajenja dalesposrědkowanja zawołanjow"
 
 msgctxt "sACC_OPTIONS_SMS_SETTINGS"
 msgid "SMS settings"
@@ -11551,7 +11551,7 @@ msgctxt "sNOTIFY_API_DEPRECATION_MESSAGE"
 msgid ""
 "It appears you're using %0:s with Skype.  To see how 3rd party applications "
 "work with Skype, please see our <a href=\"%1:s\">FAQs</a>."
-msgstr ""
+msgstr "Zda so, zo %0:s ze Skype wužiwaće. Zo byšće widźał, kak nałoženja třećich poskićowarjow ze Skype funguja, hlejće prošu <a href=\"%1:s\">Huste prašenja</a>."
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SMS"
 msgid "Chat via SMS, switch message type"
@@ -11589,19 +11589,19 @@ msgstr ""
 
 msgctxt "sACC_ACTION_EXPAND"
 msgid "Expand"
-msgstr ""
+msgstr "Pokazać"
 
 msgctxt "sACC_ACTION_COLLAPSE"
 msgid "Collapse"
-msgstr ""
+msgstr "Schować"
 
 msgctxt "sACC_ACTION_BUTTON_CLICK"
 msgid "Click"
-msgstr ""
+msgstr "Kliknyć"
 
 msgctxt "sACC_ACTION_LINK_CLICK"
 msgid "Click"
-msgstr ""
+msgstr "Kliknyć"
 
 msgctxt "sACC_ACTION_CHECK"
 msgid "Check"
@@ -11609,11 +11609,11 @@ msgstr "Přepruwować"
 
 msgctxt "sACC_NAME_STATUS_UNKNOWN2"
 msgid "This person isn't in your Contact list."
-msgstr ""
+msgstr "Tuta wosoba w lisćinje wašich kontaktow njeje."
 
 msgctxt "sACC_NAME_STATUS_PENDING"
 msgid "This person has not shared their details with you."
-msgstr ""
+msgstr "Tuta wosoba njeje swoje podrobnosće z wami dźěliła."
 
 msgctxt "sACC_NAME_STATUS_BLOCKED"
 msgid "Blocked"
@@ -11657,27 +11657,27 @@ msgstr "Na mobilnym graće preč"
 
 msgctxt "sACC_NAME_STATUS_DND_MOBILE"
 msgid "Do Not Disturb status on a mobile device"
-msgstr ""
+msgstr "Status Njemylić na mobilnym graće"
 
 msgctxt "sACC_NAME_STATUS_BLOCKED_FLAMINGO"
 msgid "Facebook contact Blocked"
-msgstr ""
+msgstr "Facebook-kontakt zablokowany"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE_FLAMINGO"
 msgid "Facebook contact Offline"
-msgstr ""
+msgstr "Facebook-kontakt offline"
 
 msgctxt "sACC_NAME_STATUS_ONLINE_FLAMINGO"
 msgid "Facebook contact Online"
-msgstr ""
+msgstr "Facebook-kontakt online"
 
 msgctxt "sACC_NAME_STATUS_AWAY_FLAMINGO"
 msgid "Facebook contact Away"
-msgstr ""
+msgstr "Facebook-ckontakt njepřitomny"
 
 msgctxt "sACC_NAME_STATUS_DND_FLAMINGO"
 msgid "Facebook contact on Do Not Disturb"
-msgstr ""
+msgstr "Facebook-kontakt w statusu Njemylić"
 
 msgctxt "sACC_NAME_STATUS_BLOCKED_PASSPORT"
 msgid "Messenger contact Blocked"
@@ -12234,7 +12234,7 @@ msgstr ""
 
 msgctxt "sRMC_FIVE_STARS"
 msgid "Excellent."
-msgstr ""
+msgstr "Wuběrny."
 
 msgctxt "sTHANKS_FOR_YOUR_FEEDBACK"
 msgid "Many thanks. You've just made some engineers at Skype very happy..."
@@ -12250,23 +12250,23 @@ msgstr ""
 
 msgctxt "sidea_SMILEY"
 msgid "Idea"
-msgstr ""
+msgstr "Ideja"
 
 msgctxt "ssheep_SMILEY"
 msgid "Sheep"
-msgstr ""
+msgstr "Wowca"
 
 msgctxt "scat_SMILEY"
 msgid "Cat"
-msgstr ""
+msgstr "Kóčka"
 
 msgctxt "sbike_SMILEY"
 msgid "Bicycle"
-msgstr ""
+msgstr "Koleso"
 
 msgctxt "sdog_SMILEY"
 msgid "Dog"
-msgstr ""
+msgstr "Psyk"
 
 msgctxt "scaptain_SMILEY"
 msgid "Captain America"
@@ -12294,19 +12294,19 @@ msgstr ""
 
 msgctxt "sSCREENSHARE_OPTION_DESKTOP"
 msgid "Share your screen"
-msgstr ""
+msgstr "Wašu wobrazowku dźělić"
 
 msgctxt "sSCREENSHARE_OPTION_WINDOW"
 msgid "Share a window"
-msgstr ""
+msgstr "Waše wokno dźělić"
 
 msgctxt "sLIVE_CONVERSATION_HEADER_PARTICIPANTS"
 msgid "%d participants"
-msgstr ""
+msgstr "%d wobdźělnikow"
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
 msgid "Show images in conversations"
-msgstr ""
+msgstr "Wobrazy w rozmołwach pokazać"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
 msgid "Sent"
@@ -12314,11 +12314,11 @@ msgstr "Pósłany"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2_ASYNC"
 msgid "Transfer failed"
-msgstr ""
+msgstr "Přenjesenje je so nimokuliło"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_SENDING_2_ASYNC"
 msgid "Sending failed"
-msgstr ""
+msgstr "Słanje je so nimokuliło"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_ASYNC"
 msgid "%s"
@@ -12346,11 +12346,11 @@ msgstr "W rjadowaku pokazać"
 
 msgctxt "sFILETRANSFER_AUTO_ACCEPT"
 msgid "Automatically accept incoming files"
-msgstr ""
+msgstr "Dochadźace dataje awtomatisce akceptować"
 
 msgctxt "sFILETRANSFER_INLINE_IMAGES"
 msgid "Show images in conversations"
-msgstr ""
+msgstr "Wobrazy w rozmołwach pokazać"
 
 msgctxt "sFILETRANSFER_PHOTO_COUNT_SINGLE"
 msgid "photo"
@@ -12386,15 +12386,15 @@ msgstr "Wšě přetorhnyć"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
-msgstr ""
+msgstr "(na <a href=\"{%link%}\">{%n%} wosobu</a> pósłany)"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_MANY"
 msgid "(sent to <a href=\"{%link%}\">{%n%} people</a>)"
-msgstr ""
+msgstr "(na <a href=\"{%link%}\">{%n%} ludźi</a> pósłany)"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_EVERYONE"
 msgid "(sent to <a href=\"{%link%}\">everyone</a>)"
-msgstr ""
+msgstr "(na <a href=\"{%link%}\">kóždeho</a> pósłany)"
 
 msgctxt "sFILETRANSFER_SENT_TO_ONE"
 msgid "Sent to <a href=\"{%link%}\">{%n%} person</a>"
@@ -12446,11 +12446,11 @@ msgstr ""
 
 msgctxt "sCONTACT_MSG_MULTIPLE_SENT"
 msgid "contacts sent"
-msgstr ""
+msgstr "pósłane kontakty"
 
 msgctxt "sCONTACT_MSG_MULTIPLE_RECEIVED"
 msgid "contacts received"
-msgstr ""
+msgstr "přijate kontakty"
 
 msgctxt "sCONTACT_MSG_CONTACT_SENT"
 msgid "Contact sent"
@@ -12570,7 +12570,7 @@ msgstr "Najnowše powěsće sej wobhladać"
 
 msgctxt "sSIDEBAR_FAVORITES_TOOLTIP"
 msgid "See your favorite contacts."
-msgstr ""
+msgstr "Waše najlubše kontakty pokazać."
 
 msgctxt "sSIDEBAR_CONTACTS_TOOLTIP"
 msgid "See your contacts."
@@ -12594,7 +12594,7 @@ msgstr "Swójski status změnić"
 
 msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TITLE"
 msgid "File transfers will start automatically from now on."
-msgstr ""
+msgstr "Datajowe přenjesenja wotnětka awtomatisce započnu."
 
 msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TEXT"
 msgid ""
@@ -12624,7 +12624,7 @@ msgstr "Wšě kontakty"
 
 msgctxt "sCHAT_JUMPBACK_HEADER"
 msgid "Jump Back:"
-msgstr ""
+msgstr "Wróćo skočić"
 
 msgctxt "sSEARCH_WITH_BING"
 msgid "Search with Bing"
@@ -12656,7 +12656,7 @@ msgstr "Profilowe wobrazy pokazać"
 
 msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
 msgid "%s for 1 month"
-msgstr ""
+msgstr "%s za 1 měsac"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
 msgid "From %s for 1 month"
@@ -12672,11 +12672,11 @@ msgstr ""
 
 msgctxt "sVOICEMAIL_PROMPT_TITLE"
 msgid "Send voice message"
-msgstr ""
+msgstr "Rěčnu powěsć pósłać"
 
 msgctxt "sVOICEMAIL_PROMPT_CAP"
 msgid "Voice message"
-msgstr ""
+msgstr "Rěčna powěsć"
 
 msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
 msgid "Phone:"
@@ -12762,7 +12762,7 @@ msgstr "Mój profilowy wobraz"
 
 msgctxt "sSEARCHING_SKYPE_DIRECTORY"
 msgid "Searching Skype directory..."
-msgstr ""
+msgstr "Skype-zapis so přepytuje..."
 
 msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
 msgid "Show message previews in the sidebar"
@@ -12778,11 +12778,11 @@ msgstr "Komentar pósłać"
 
 msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
 msgid "No results found for %s"
-msgstr ""
+msgstr "Žane wuslědki za %s namakane"
 
 msgctxt "sMESGPREVIEW_POSTED_FILES_SINGLE"
 msgid "Sent you files"
-msgstr ""
+msgstr "Dataje, kotrež su so wam pósłali"
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
 msgid "Shared a photo"
@@ -12838,7 +12838,7 @@ msgstr ""
 
 msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
 msgid "Birthday today"
-msgstr ""
+msgstr "Dźensa narodniny"
 
 msgctxt "sADDCONTACT_PROMPT"
 msgid "Are you sure you want to add contacts: <b>%s</b>?"

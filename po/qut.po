@@ -1,0 +1,667 @@
+# Translation of Skype into unsupported languages
+# Copyright (C) 2013 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: Skype Translation Project\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
+"PO-Revision-Date: 2014-12-11 17:47-0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"Language-Team: qut\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: qut\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgctxt "s_LANGUAGE_NAME"
+msgid "English"
+msgstr "Qatzijob'al"
+
+msgctxt "sSTATUSMENU_CAPTION_ONLINE"
+msgid "Online"
+msgstr "Tiqitalik"
+
+msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
+msgid "Offline"
+msgstr "Man tiqil taj"
+
+msgctxt "sSTATUSMENU_CAPTION_AWAY"
+msgid "Away"
+msgstr "Man k'o taj"
+
+msgctxt "sSTATUSMENU_CAPTION_DND"
+msgid "Do Not Disturb"
+msgstr "Man kab'an ta molest"
+
+msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
+msgid "Invisible"
+msgstr "Man ka'ilitaj taj"
+
+msgctxt "sCALL_LB2_MISSED"
+msgid "No answer"
+msgstr "Translation:"
+
+msgctxt "sCALL_LB2_REJECTED"
+msgid "Busy"
+msgstr "Na jamal taj"
+
+msgctxt "sMAINMENU_HELP_MENU"
+msgid "&Help"
+msgstr "&Tob'anem"
+
+msgctxt "sMAINMENU_VIEW"
+msgid "View"
+msgstr "K'utilb'al"
+
+msgctxt "sMAINMENU_VIEW_CONTACTS"
+msgid "Contacts"
+msgstr "Ajch'ab'e'n"
+
+msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
+msgid "Recent"
+msgstr "K'ak k'ulmatajem"
+
+msgctxt "sMAINMENU_VIEW_PROFILE"
+msgid "Profile"
+msgstr "Cholk'aslemal"
+
+msgctxt "sMAINMENU_TOOLS"
+msgid "Tools"
+msgstr "Chakub'al"
+
+msgctxt "sMAINMENU_TOOLS_LANGUAGE"
+msgid "Change Language"
+msgstr "Uk'exik ri wiqitajem rech ri ch'ab'al"
+
+msgctxt "sCONTACT_GROUP_ALL2"
+msgid "All"
+msgstr ""
+
+msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
+msgid "Online Status"
+msgstr "Kemub'antajik t'iqb'al"
+
+msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
+msgid "Online Status"
+msgstr "Kemub'antajik t'iqb'al"
+
+msgctxt "sRECENTS_TAB_TEXT"
+msgid "Recent"
+msgstr "K'ak k'ulmatajem"
+
+msgctxt "sCONTACT_QF_HINT"
+msgid "Search"
+msgstr "Utzukuxik"
+
+msgctxt "sZAPBUTTON_STARTVIDEOCALL"
+msgid "Video call"
+msgstr "Wachib'al sik'inem"
+
+msgctxt "sZAPBUTTON_SEND"
+msgid "Send"
+msgstr "Utaqik"
+
+msgctxt "sZAPBUTTON_DONE"
+msgid "Done"
+msgstr "K'isik"
+
+msgctxt "sZAPBUTTON_ADDCONTACTS"
+msgid "Add to Contacts"
+msgstr "Uya'ik pa ajch'ab'en"
+
+msgctxt "sZAPBUTTON_RESUME"
+msgid "Resume call"
+msgstr ""
+
+msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
+msgid "Resume download"
+msgstr ""
+
+msgctxt "sZAPBUTTON_REJECT"
+msgid "Reject"
+msgstr "Relesaxik"
+
+msgctxt "sPLUS_MENU_HINT"
+msgid "Add participants, send files and more"
+msgstr ""
+
+msgctxt "sCHAT_HISTORY_MESSAGE"
+msgid "Show messages from: %s"
+msgstr ""
+
+msgctxt "sCHAT_HISTORY_YESTERDAY"
+msgid "Yesterday"
+msgstr "Iwir"
+
+msgctxt "sCHAT_HISTORY_7DAYS"
+msgid "7 days"
+msgstr "7 taq q'ij"
+
+msgctxt "sCHAT_HISTORY_30DAYS"
+msgid "30 days"
+msgstr "30 taq q'ij"
+
+msgctxt "sCHAT_HISTORY_BEGINNING"
+msgid "From Beginning"
+msgstr "Pa umajib'al loq"
+
+msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
+msgid "via Skype"
+msgstr ""
+
+msgctxt "sINSERTSMILEY"
+msgid "Insert emoticon"
+msgstr "Uch'apik k'utno'jib'al"
+
+msgctxt "sCALL_BTN_CALL_PHONE"
+msgid "Call Phone"
+msgstr ""
+
+msgctxt "sCALL_POPUP_ADD_PHONE"
+msgid "Add phone number"
+msgstr ""
+
+msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
+msgid "In call"
+msgstr "Pa jun sik'inem"
+
+msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
+msgid "On hold"
+msgstr ""
+
+msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
+msgid "Muted"
+msgstr "Chuputalik"
+
+msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
+msgid "Missed call"
+msgstr ""
+
+msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
+msgid "Ringing"
+msgstr ""
+
+msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
+msgid "Call ended"
+msgstr ""
+
+msgctxt "sFLOW_CALL_REJECTED_IN"
+msgid "Call from %s declined."
+msgstr ""
+
+msgctxt "sFLOW_CALL_UNANSWERED_OUT"
+msgid "Call to %s, no answer."
+msgstr ""
+
+msgctxt "sF_USERPROFILE_MONTHNAME1"
+msgid "January"
+msgstr "Nab'e ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME2"
+msgid "February"
+msgstr "Ukab' ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME3"
+msgid "March"
+msgstr "Urox ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME4"
+msgid "April"
+msgstr "Ukaj ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME5"
+msgid "May"
+msgstr "Uro' ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME6"
+msgid "June"
+msgstr "Uwaq ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME7"
+msgid "July"
+msgstr "Uwuq ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME8"
+msgid "August"
+msgstr "Uwajxaq ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME9"
+msgid "September"
+msgstr "Ub'elej ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME10"
+msgid "October"
+msgstr "Ulaj ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME11"
+msgid "November"
+msgstr "Ujulaj ik'"
+
+msgctxt "sF_USERPROFILE_MONTHNAME12"
+msgid "December"
+msgstr "Ukab'laj ik'"
+
+msgctxt "sCHAT_SEND_MESSAGE"
+msgid "Send a message"
+msgstr "Utaqik jun oqxa'n"
+
+msgctxt "sCHAT_SEND_SMS"
+msgid "Send SMS"
+msgstr "Utaqik woktz'ib' oqxa'n"
+
+msgctxt "sLIVE_CALLING"
+msgid "calling"
+msgstr ""
+
+msgctxt "sTRAYMENU_ANSWER"
+msgid "Answer Call"
+msgstr "Utzalixik uwach"
+
+msgctxt "sTRAYMENU_IGNORE"
+msgid "Ignore Call"
+msgstr ""
+
+msgctxt "sTRAYMENU_HANGUP"
+msgid "Hang Up"
+msgstr "Uchupik"
+
+msgctxt "sMAINMENU_CALL"
+msgid "Call"
+msgstr "Sik'inik"
+
+msgctxt "sMAINMENU_CALL_START"
+msgid "Call"
+msgstr "Sik'inik"
+
+msgctxt "sMAINMENU_CALL_START_VIDEO"
+msgid "Video Call"
+msgstr "Wachib'al sik'inem"
+
+msgctxt "sMAINMENU_CALL_ANSWER"
+msgid "Answer"
+msgstr "Utzalixik uwach"
+
+msgctxt "sMAINMENU_CALL_IGNORE"
+msgid "Ignore"
+msgstr "Relesaxik"
+
+msgctxt "sZAPBUTTON_ANSWER"
+msgid "Answer"
+msgstr "Utzalixik uwach"
+
+msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
+msgid "Answer with video"
+msgstr ""
+
+msgctxt "sZAPBUTTON_ACCEPTVIDEO"
+msgid "Accept"
+msgstr "Uk'amik"
+
+msgctxt "sZAPBUTTON_DECLINE"
+msgid "Decline"
+msgstr "Relesaxik"
+
+msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
+msgid "Show contacts"
+msgstr "Kuk'ut ajch'ab'e'n"
+
+msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
+msgid "Hide contacts"
+msgstr ""
+
+msgctxt "sZAPBUTTON_VIDEOSTART"
+msgid "Turn on video"
+msgstr ""
+
+msgctxt "sZAPBUTTON_VIDEOSTOP"
+msgid "Turn off video"
+msgstr ""
+
+msgctxt "sZAPBUTTON_VIDEO"
+msgid "Video"
+msgstr "K'olsilob'wach"
+
+msgctxt "sZAPBUTTON_VIDEOOFF"
+msgid "Turn off video"
+msgstr ""
+
+msgctxt "sZAPBUTTON_VIDEOCONTINUE"
+msgid "Keep video on"
+msgstr ""
+
+msgctxt "sCALLNOTIF_TITLE"
+msgid "%s calling"
+msgstr ""
+
+msgctxt "sCALL_TOOLBAR_MUTE"
+msgid "Mute your microphone"
+msgstr ""
+
+msgctxt "sLIVE_PLUS_BUTTON_HINT"
+msgid "Add, send and share..."
+msgstr ""
+
+msgctxt "sZAPBUTTON_HANGUP"
+msgid "End call"
+msgstr "Uk'isik sik'inem"
+
+msgctxt "sZAPBUTTON_HANGUPANDCALL"
+msgid "Call"
+msgstr "Sik'inik"
+
+msgctxt "sZAP_ACTIONBUTTON_HANGUP"
+msgid "End Call"
+msgstr "Uk'isik sik'inem"
+
+msgctxt "sZAPBUTTON_CONTACTS"
+msgid "Contacts"
+msgstr "Ajch'ab'e'n"
+
+msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
+msgid "Contacts"
+msgstr "Ajch'ab'e'n"
+
+msgctxt "sZAPBUTTON_CONTACTSARROW"
+msgid "Contacts"
+msgstr "Ajch'ab'e'n"
+
+msgctxt "sMAINMENU_CONTACTS"
+msgid "Contacts"
+msgstr "Ajch'ab'e'n"
+
+msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
+msgid "Show earlier messages"
+msgstr ""
+
+msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
+msgid "Send"
+msgstr "Utaqik"
+
+msgctxt "sYESTERDAY"
+msgid "Yesterday"
+msgstr "Iwir"
+
+msgctxt "sTODAY"
+msgid "Today"
+msgstr "Kamik"
+
+msgctxt "sDURATION"
+msgid "Duration"
+msgstr "Unajal uxo'l"
+
+msgctxt "sCALL_SKYPE"
+msgid "Skype Call"
+msgstr "taq sik'inem pa Skype"
+
+msgctxt "sZAPBUTTON_SMS"
+msgid "Send SMS"
+msgstr "Utaqik woktz'ib' oqxa'n"
+
+msgctxt "sZAPBUTTON_NOWEBCAM"
+msgid "Video call"
+msgstr "Wachib'al sik'inem"
+
+msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
+msgid "Video Message"
+msgstr "K'olsilob'wach pa oqxa'n"
+
+msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
+msgid "Send Video Message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
+msgid "Play video message"
+msgstr ""
+
+msgctxt "sCHAT_DRAGFILE_DIALOG"
+msgid "Send file to %s"
+msgstr ""
+
+msgctxt "sSHARE_MENU_SEND_FILE"
+msgid "Send file..."
+msgstr "Utaqik kemk'olib'al..."
+
+msgctxt "sSHARE_MENU_SEND_CONTACTS"
+msgid "Send contacts..."
+msgstr "Utaqik ajch'ab'e'n..."
+
+msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
+msgid "Share screens..."
+msgstr ""
+
+msgctxt "sFAVORITES_CAPTION"
+msgid "Favorites"
+msgstr "Ajawatalik"
+
+msgctxt "sFAVORITES_BKGROUND_TEXT"
+msgid "Drag contacts here"
+msgstr ""
+
+msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
+msgid "Close"
+msgstr "Utz'apixik"
+
+msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
+msgid "Rename"
+msgstr "Uk'exik b'i'aj"
+
+msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
+msgid "Delete"
+msgstr "Uchupik"
+
+msgctxt "sBUDDYMENU_PIN"
+msgid "Add to Favorites"
+msgstr "Tiqnimarisanik pa ajawatal okem"
+
+msgctxt "sBUDDYMENU_UNPIN"
+msgid "Remove from Favorites"
+msgstr "Relesaxik pa ajawatalik"
+
+msgctxt "sCONTACT_GROUP_ONLINE2"
+msgid "Online"
+msgstr "Tiqitalik"
+
+msgctxt "sZAPBUTTON_VIEWMESSAGES"
+msgid "View older messages"
+msgstr ""
+
+msgctxt "sZAPBUTTON_VIEWPROFILE"
+msgid "View Profile"
+msgstr "Rilik cholk'aslemal"
+
+msgctxt "sMAINMENU_HELP"
+msgid "Help"
+msgstr "Tob'anem"
+
+msgctxt "sBUDDYMENU_CALL"
+msgid "Call"
+msgstr "Sik'inik"
+
+msgctxt "sBUDDYMENU_SENDMESSAGE"
+msgid "Send IM"
+msgstr ""
+
+msgctxt "sBUDDYMENU_VIEWPROFILE"
+msgid "View Profile"
+msgstr "Rilik cholk'aslemal"
+
+msgctxt "sBUDDYMENU_RENAME"
+msgid "Rename..."
+msgstr "Uk'exik b'i'aj..."
+
+msgctxt "sBUDDYMENU_REMOVE"
+msgid "Remove from Contacts"
+msgstr "Relesaxik pa ajch'ab'e'n"
+
+msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
+msgid "Add to Contacts"
+msgstr "Uya'ik pa ajch'ab'en"
+
+msgctxt "sTRAYMENU_CHANGESTATUS"
+msgid "Online Status"
+msgstr "Kemub'antajik t'iqb'al"
+
+msgctxt "sTRAYMENU_SHOWFRIENDS"
+msgid "Open Skype"
+msgstr "Ujaqik Skype"
+
+msgctxt "sTRAYMENU_QUIT"
+msgid "Quit"
+msgstr "Chatela'"
+
+msgctxt "sBUDDYMENU_UNPIN_ICON"
+msgid "Remove from favorites"
+msgstr "Relesaxik pa ajawatalik"
+
+msgctxt "sBUDDYMENU_PIN_ICON"
+msgid "Add to favorites"
+msgstr "Tiqnimarisanik pa ajawatal okem"
+
+msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
+msgid "Send Video Message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SAVEALLAS"
+msgid "Save all"
+msgstr "Uk'olik ronojel"
+
+msgctxt "sZAPBUTTON_SAVECONTACT"
+msgid "Save Contact"
+msgstr "Uk'olik ajch'ab'e'n"
+
+msgctxt "sZAPBUTTON_CANCELALL"
+msgid "Cancel all"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SAVEAS"
+msgid "Save as"
+msgstr "Uk'olik pacha'"
+
+msgctxt "sZAPBUTTON_SEEVIDEO"
+msgid "See my video"
+msgstr ""
+
+msgctxt "sZAPBUTTON_HIDEVIDEO"
+msgid "Hide my video"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SENDFILE"
+msgid "Send file"
+msgstr "Utaqik kemk'olib'al"
+
+msgctxt "sZAPBUTTON_SENDCONTACTS"
+msgid "Send Contacts..."
+msgstr "Utaqik ajch'ab'e'n..."
+
+msgctxt "sZAPBUTTON_SENDMESSAGE"
+msgid "Send message"
+msgstr "Utaqik jun oqxa'n"
+
+msgctxt "sZAPBUTTON_SENDSMS"
+msgid "Send SMS"
+msgstr "Utaqik woktz'ib' oqxa'n"
+
+msgctxt "sZAPBUTTON_SEARCH"
+msgid "Search"
+msgstr "Utzukuxik"
+
+msgctxt "sBUDDYMENU_SENDSMS"
+msgid "Send SMS Message"
+msgstr "Utaqik woktz'ib' oqxa'n"
+
+msgctxt "sBIRTHDAY_TODAY"
+msgid "%s has a birthday today"
+msgstr ""
+
+msgctxt "sBUDDYMENU_SENDCONTACTS"
+msgid "Send Contacts..."
+msgstr "Utaqik ajch'ab'e'n..."
+
+msgctxt "sBUDDYMENU_SENDFILE"
+msgid "Send File..."
+msgstr "Utaqik kemk'olib'al..."
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
+msgid "Cancelled"
+msgstr "Q'atem"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
+msgid "Sending failed"
+msgstr ""
+
+msgctxt "sBUDDYMENU_VOICEMAIL"
+msgid "Send Voice Message"
+msgstr ""
+
+msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
+msgid "Share screens..."
+msgstr ""
+
+msgctxt "sSTATUS_OFFLINE"
+msgid "Offline"
+msgstr "Man tiqil taj"
+
+msgctxt "sSTATUS_ONLINE"
+msgid "Online"
+msgstr "Tiqitalik"
+
+msgctxt "sSTATUS_AWAY"
+msgid "Away"
+msgstr "Man k'o taj"
+
+msgctxt "sSTATUS_DND"
+msgid "Do Not Disturb"
+msgstr "Man kab'an ta molest"
+
+msgctxt "sSTATUS_BLOCKED"
+msgid "Blocked"
+msgstr "Q'atetalik"
+
+msgctxt "sZAPBUTTON_CALL"
+msgid "Call"
+msgstr "Sik'inik"
+
+msgctxt "sZAPBUTTON_CALLWHICH"
+msgid "Call"
+msgstr "Sik'inik"
+
+msgctxt "sZAPBUTTON_PHONES"
+msgid "Call"
+msgstr "Sik'inik"
+
+msgctxt "sFLOW_CALL_MISSED_IN"
+msgid "Missed call from %s."
+msgstr ""
+
+msgctxt "sFLOW_CALL_WITH_IN"
+msgid "Call from %s, duration %s."
+msgstr ""
+
+msgctxt "sFLOW_CALL_WITH_OUT"
+msgid "Call to %s, duration %s."
+msgstr ""
+
+msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
+msgid "Missed call from %s (%s)"
+msgstr ""
+
+msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
+msgid "Call from %s (%s) declined."
+msgstr ""
+
+msgctxt "sFLOW_CALL_INCOMING_PSTN"
+msgid "Call from %s (%s)"
+msgstr ""
+
+msgctxt "sFLOW_CALL_WITH_IN_PSTN"
+msgid "Call from %s (%s), duration %s."
+msgstr ""
+
+msgctxt "sFLOW_CALL_INCOMING"
+msgid "Call from %s"
+msgstr ""
+
+msgctxt "sFLOW_CALL_OUTGOING"
+msgid "Call to %s"
+msgstr ""

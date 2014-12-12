@@ -43,6 +43,7 @@ ln Lingala.lang
 mk Makedonski.lang
 mr Marathi.lang
 ms Bahasa-Melayu.lang
+mt Malti.lang
 mwl Mirandese.lang
 mvy Erzya.lang
 nap Nnapulitano.lang
@@ -53,6 +54,8 @@ oc Occitan.lang
 pa Punjabi.lang
 pfl Paelzisch.lang
 pms Piemonteis.lang
+qut Qatzijobal.lang
+quz Runasimi.lang
 rm Rumantsch.lang
 sah Sakha.lang
 sc Sardu.lang
@@ -69,4 +72,5 @@ ug@latin Uyghurche-Latin.lang
 ur Urdu.lang
 uz Ozbek.lang
 vmf Fraengisch.lang
+yo Yoruba.lang
 zh-yue Cantonese.lang
