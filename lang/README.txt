@@ -120,6 +120,10 @@ Source: Skype Mini Marathon
 Fula/Fulani (Fulfulde/Pulaar/Pular)
 Translator: Ibraahiima Saar
 
+Friulian (Furlan)
+Translator: Adriano Biason
+Source: Transifex
+
 Georgian (ქართული)
 Translator(s): Unknown
 Source: http://zazuka80.ucoz.com/load/1-5-2
