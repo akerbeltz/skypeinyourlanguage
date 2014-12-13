@@ -2,12 +2,13 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # Michael Bauer, 2014
+# Michael Bauer, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-11-27 16:31+0000\n"
+"PO-Revision-Date: 2014-12-12 10:50+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/skype-translation-project/language/eu/)\n"
 "MIME-Version: 1.0\n"
@@ -95,11 +96,11 @@ msgstr "Lineako egoera"
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
-msgstr "Ireki Skype"
+msgstr "Skype ireki"
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr "Itxi Skype"
+msgstr "Skype itxi"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
@@ -6021,7 +6022,7 @@ msgstr "Kontaktuak"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr "Azkenak"
+msgstr "Azkenengoak"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
@@ -7281,7 +7282,7 @@ msgstr "Garapen ingurunea (Skype-ren egoera)"
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr "Txertatu aurpegiera"
+msgstr "Txertatu emotikonoa"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8636,7 +8637,7 @@ msgstr "%s(e)k Skype-ren azkenengo bertsioa instalatu behar du taldeko bideo-dei
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr "Azkenak"
+msgstr "Azkenengoak"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"

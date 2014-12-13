@@ -22,6 +22,7 @@ fur Furlan.lang
 ga Gaeilge.lang
 gd Gaidhlig.lang
 gsw Alemannisch.lang
+ha Hausa.lang
 hi Hindi.lang
 hsb Hornjoserbscina.lang
 hy Hayeren.lang
@@ -63,6 +64,7 @@ si Sinhala.lang
 sm GaganaSamoa.lang
 sr-cyrl Srpski-cyrl.lang
 sq Shqip.lang
+sw Kiswahili.lang
 ta Tamil.lang
 te Telugu.lang
 tg Tajik.lang
@@ -72,5 +74,6 @@ ug@latin Uyghurche-Latin.lang
 ur Urdu.lang
 uz Ozbek.lang
 vmf Fraengisch.lang
+wo Wolof.lang
 yo Yoruba.lang
 zh-yue Cantonese.lang
