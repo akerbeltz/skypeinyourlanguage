@@ -1,89 +1,91 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
+# Cûneyt Ewrareş <cuneytewrares@gmail.com>, 2013
+# Michael Bauer, 2014
 # Michael Bauer, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-12-12 10:07+0000\n"
+"PO-Revision-Date: 2014-12-13 11:05+0000\n"
 "Last-Translator: Michael Bauer\n"
-"Language-Team: Erzya (http://www.transifex.com/projects/p/skype-translation-project/language/myv/)\n"
+"Language-Team: Kurdish (http://www.transifex.com/projects/p/skype-translation-project/language/ku/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: myv\n"
+"Language: ku\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr "Уськекоцтсо"
+msgstr "Serxet"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr "Аволь уськекоцтсо"
+msgstr "Neserxet"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
-msgstr "Арась таркасо"
+msgstr "Dûr"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "Илядо токше"
+msgstr "Aciz nekin"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
-msgstr "А неявиця"
+msgstr "Nayê dîtin"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr "Арась васодема вал"
+msgstr "Bersiv tune"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
-msgstr "Лиясо саезь"
+msgstr "Mijûl"
 
 msgctxt "sQUIT_PROMPT"
 msgid ""
 "You won't be able to send or receive instant messages and calls if you do."
-msgstr "Лисемс Skype лувксстонть?"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
-msgstr "Айгстамс"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "&Лезкс"
+msgstr "&Alîkariya"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
-msgstr "Лезкс"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_UPDATES"
 msgid "Check for Updates"
-msgstr "Ванномс яволявтомань коряс"
+msgstr "Berçavkirina nûjenkirinê"
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "Гайневтемс"
+msgstr "Lê bigere"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
-msgstr "Ушодомс кортамо куронть"
+msgstr "Bişîne IM"
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Варштамс эсь пачтямксонть"
+msgstr ""
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
-msgstr "Полавтомс лемензэ…"
+msgstr ""
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr "Нардамс Токавксонь Сёрмадсстонть"
+msgstr ""
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
@@ -91,19 +93,19 @@ msgstr ""
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
-msgstr "Полавтомс Важодьксонть"
+msgstr ""
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
-msgstr "Панжомс Skype-нть"
+msgstr ""
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr "Лисема"
+msgstr "Derketin"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Сюлматано"
+msgstr ""
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
@@ -111,104 +113,104 @@ msgstr ""
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
-msgstr "Сюлматано"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
-msgstr "Аволь уськекоцтсо"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_ONLINE"
 msgid "Online"
-msgstr "Уськекоцтсо"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_AWAY"
 msgid "Away"
-msgstr "Арась таркасо"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
-msgstr "А токави"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
-msgstr "А эряви токшемс"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
-msgstr "А неявиця"
+msgstr ""
 
 msgctxt "sTRAYHINT_PROFILE_LOGGED_OUT"
 msgid "Not Connected"
-msgstr "Арась Сюлмавкс"
+msgstr ""
 
 msgctxt "sTRAYHINT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr "Сюлмавттано"
+msgstr ""
 
 msgctxt "sINVALID_HANDLE"
 msgid ""
 "%s is not a valid Skype Name or phone number. Please check it and try again."
-msgstr "Аволь виде Skype Лемесь эли тешксэнзэ. Варчик ды терявт одс."
+msgstr ""
 
 msgctxt "sF_USERINFO_INVALID_USER"
 msgid "Skype Name not found"
-msgstr "Skype Лемесь апак муевть"
+msgstr ""
 
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
-msgstr "Пачтявксось ансяк %s-нень"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_FULLNAME"
 msgid "Full name"
-msgstr "Пешксе лемесь:"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_LANGUAGE"
 msgid "Language"
-msgstr "Келесь:"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPHONE"
 msgid "Home phone"
-msgstr "Кудосонь кортнимень тешкстнэ:"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_OFFICEPHONE"
 msgid "Office phone"
-msgstr "Важодема таркасонь кортнимень тешкстнэ:"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Кандтневиця кортнимень тешкстнэ:"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPAGE"
 msgid "Website"
-msgstr "Интернет-вальма:"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_ABOUT"
 msgid "About me"
-msgstr "Моньдень:"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_BIRTHDATE"
 msgid "Birth date"
-msgstr "Чачома чинь тешксэм:"
+msgstr ""
 
 msgctxt "sSEX_MALE"
 msgid "Male"
-msgstr "Цёраломань"
+msgstr ""
 
 msgctxt "sSEX_FEMALE"
 msgid "Female"
-msgstr "Аваломань"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
-msgstr "Skype Лем"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
-msgstr "Салава вал"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
-msgstr "Стувтык салава валот?"
+msgstr ""
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2014 Skype and/or Microsoft"
@@ -220,87 +222,87 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_BIRTHDAY"
 msgid "Birth date"
-msgstr "Чачома тешкстнэ"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_LANGUAGE"
 msgid "Language"
-msgstr "Келесь"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
-msgstr "Масторось/Мастор ёнксось"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_CITY"
 msgid "City"
-msgstr "Ошось"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_OFFICEPHONE"
 msgid "Office phone"
-msgstr "Важодь таркань кортнимень тешкстнэ:"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Кандтневкс кортнимень тешкстнэ:"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_EMAIL"
 msgid "Email"
-msgstr "EMAIL"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_HOMEPAGE"
 msgid "Website"
-msgstr "Интернет-вальма"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_GENERAL"
 msgid "General"
-msgstr "Юронсетне"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_PRIVACY"
 msgid "Privacy"
-msgstr "Ванстмачи"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_DEBUG"
 msgid "Advanced"
-msgstr "Поладксокс"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
-msgstr "Токавксонть эли уликскиксэнть лангсо чеерьсэнть кавксть лепштямсто"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
-msgstr "Нолдтнемс Skype-нть Windows-сонть нолдамсто"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "Витнемс эсь Пачтямксонть"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
-msgstr "Автоматсо макснемс васодема вал совиця гайтькенть лангс"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
-msgstr "лувкс шкас гайтьке"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_23"
 msgid "hang up"
-msgstr "гайтькень кардавкстнэ"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_25"
 msgid "contact online"
-msgstr "пачтямкс коцтсо токавкс"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
-msgstr "Ванстомс"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr "Велявтомс мекев"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CAPTION"
 msgid "- Options"
-msgstr "- Ладсевкстнэ"
+msgstr "- Taybetmendî"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
 msgid "© 2014 Skype and/or Microsoft"
@@ -338,31 +340,31 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
-msgstr "Кудонь кортнимень тешкстнэ:"
+msgstr ""
 
 msgctxt "sCALL_LB2_MYHOLD"
 msgid "Call on hold"
-msgstr "гайтькесь учома лувкс шкастонть"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr "Аравтомс Кортамонть учома лувкс шкас"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr "Вельмевтемс Кортамонть"
+msgstr ""
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
-msgstr "Максомс васодь вал %s-нть пельде совиця гайтькенть каршо ды аравтомс %s-нть учома лувкс шкас?"
+msgstr ""
 
 msgctxt "sF_CONFIRM_DEFAULT_CAPTION"
 msgid "Confirm"
-msgstr "Ёвтамс мелеть одс"
+msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_SOUNDS2"
 msgid "Sounds"
-msgstr "Гайтть"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
@@ -390,7 +392,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_YES"
 msgid "Yes"
-msgstr ""
+msgstr "Belê"
 
 msgctxt "sF_CONFIRM_CANCEL"
 msgid "&Cancel"
@@ -398,7 +400,7 @@ msgstr ""
 
 msgctxt "sF_RENAMEUSER_OK"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_RENAMEUSER_CANCEL"
 msgid "&Cancel"
@@ -466,19 +468,19 @@ msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
-msgstr ""
+msgstr "Bişîne"
 
 msgctxt "sYESTERDAY"
 msgid "Yesterday"
-msgstr ""
+msgstr "Duhî"
 
 msgctxt "sTODAY"
 msgid "Today"
-msgstr ""
+msgstr "Îro"
 
 msgctxt "sDURATION"
 msgid "Duration"
-msgstr ""
+msgstr "Mawe"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
@@ -550,7 +552,7 @@ msgstr ""
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr "Эрзянь кель"
+msgstr "Kurmanji"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -656,19 +658,19 @@ msgstr ""
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr "Аволь уськекоцтсо"
+msgstr "Neserxet"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
-msgstr "Уськекоцтсо"
+msgstr "Serxet"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
-msgstr "Арась таркасо"
+msgstr "Dûr"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr "Илядо токше"
+msgstr "Aciz nekin"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
@@ -710,7 +712,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
-msgstr ""
+msgstr "Na"
 
 msgctxt "sF_TRANSLATE_COMMENT"
 msgid "Comment"
@@ -840,11 +842,11 @@ msgstr ""
 
 msgctxt "sLANGUAGE_ERROR_TITLE"
 msgid "Error"
-msgstr ""
+msgstr "Çewtî"
 
 msgctxt "sLANGUAGE_ERROR_CAP"
 msgid "Error"
-msgstr ""
+msgstr "Çewtî"
 
 msgctxt "sF_HOTKEYEDIT_ERROR_CAP"
 msgid "Warning"
@@ -888,7 +890,7 @@ msgstr ""
 
 msgctxt "sCONF_TOO_MUCH_PARTICIPANTS_TITLE"
 msgid "Error"
-msgstr ""
+msgstr "Çewtî"
 
 msgctxt "sCALL_LB2_BUSY"
 msgid "Busy"
@@ -932,7 +934,7 @@ msgstr ""
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_TITLE"
 msgid "Error"
-msgstr ""
+msgstr "Çewtî"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_CAP"
 msgid "Cannot block"
@@ -1009,7 +1011,7 @@ msgstr ""
 
 msgctxt "sF_HOTKEY_EDITOR_OK"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_HOTKEY_EDITOR_CANCEL"
 msgid "Cancel"
@@ -1270,7 +1272,7 @@ msgstr ""
 
 msgctxt "sACL_OK"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sACL_REMOVE"
 msgid "Remove"
@@ -1290,7 +1292,7 @@ msgstr ""
 
 msgctxt "sACL_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Nav"
 
 msgctxt "sACL_PUBLISHER"
 msgid "Publisher"
@@ -1680,7 +1682,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_VM_DURATION"
 msgid "Duration: %s sec"
-msgstr ""
+msgstr "Mawe: %s çirk"
 
 msgctxt "sF_OPTIONS_VM_REMAIN"
 msgid "%s seconds remaining"
@@ -1772,7 +1774,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
@@ -1877,7 +1879,7 @@ msgstr ""
 
 msgctxt "sF_ADDFRIEND_LABEL3_1"
 msgid "Name"
-msgstr ""
+msgstr "Nav"
 
 msgctxt "sF_ADDFRIEND_LABEL3_2"
 msgid "Phone number"
@@ -1889,51 +1891,51 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
-msgstr "Якшамоков"
+msgstr "Rêbendan"
 
 msgctxt "sF_USERPROFILE_MONTHNAME2"
 msgid "February"
-msgstr "Даволков"
+msgstr "Reşemî"
 
 msgctxt "sF_USERPROFILE_MONTHNAME3"
 msgid "March"
-msgstr "Эйсюроков"
+msgstr "Adar"
 
 msgctxt "sF_USERPROFILE_MONTHNAME4"
 msgid "April"
-msgstr "Чадыков"
+msgstr "Avrêl"
 
 msgctxt "sF_USERPROFILE_MONTHNAME5"
 msgid "May"
-msgstr "Панжиков"
+msgstr "Gulan"
 
 msgctxt "sF_USERPROFILE_MONTHNAME6"
 msgid "June"
-msgstr "Аштемаков"
+msgstr "Xezîran"
 
 msgctxt "sF_USERPROFILE_MONTHNAME7"
 msgid "July"
-msgstr "Медьков"
+msgstr "Tîrmeh"
 
 msgctxt "sF_USERPROFILE_MONTHNAME8"
 msgid "August"
-msgstr "Умарьков"
+msgstr "Gelawêj"
 
 msgctxt "sF_USERPROFILE_MONTHNAME9"
 msgid "September"
-msgstr "Таштомаков"
+msgstr "Rezber"
 
 msgctxt "sF_USERPROFILE_MONTHNAME10"
 msgid "October"
-msgstr "Ожоков"
+msgstr "Kewçêr"
 
 msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
-msgstr "Сундерьков"
+msgstr "Sermawez"
 
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr "Ацамков"
+msgstr "Berfanbar"
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -2008,7 +2010,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_BTN_SET"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_SOUNDS_BTN_CLOSE"
 msgid "Cancel"
@@ -2751,7 +2753,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr ""
+msgstr "Bişîne SMS"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
@@ -2929,7 +2931,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_UPGRADE_BTN_QUIT"
 msgid "Quit Skype"
@@ -3140,7 +3142,7 @@ msgstr ""
 
 msgctxt "sF_STRING_EDIT_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_STRING_EDIT_BTN_CANCEL"
 msgid "Cancel"
@@ -3348,7 +3350,7 @@ msgstr ""
 
 msgctxt "sYES_SMILEY"
 msgid "Yes"
-msgstr ""
+msgstr "Belê"
 
 msgctxt "sNO_SMILEY"
 msgid "No"
@@ -3540,7 +3542,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_CHAT_NOTIFY_BTN_CANCEL"
 msgid "Cancel"
@@ -4360,7 +4362,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
-msgstr "Максомс васодь вал"
+msgstr "Bersîv"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
@@ -4368,7 +4370,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr ""
+msgstr "Dipejirîne"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
@@ -4388,7 +4390,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
-msgstr "Гайневтемс"
+msgstr "Lê bigere"
 
 msgctxt "sZAPBUTTON_CALLMULTIPLE"
 msgid "Call"
@@ -4564,7 +4566,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CHANGECOUNTRY"
 msgid "Change your country/region"
-msgstr "Change your country"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CLEAR"
 msgid "Clear"
@@ -4588,11 +4590,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Peywendî"
 
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
-msgstr ""
+msgstr "Peywendî"
 
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
@@ -4640,7 +4642,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_COUNTRYSELECTOR"
 msgid "Choose country/region"
-msgstr "Choose country"
+msgstr ""
 
 msgctxt "sZAPBUTTON_FULLSCREEN"
 msgid "Full screen"
@@ -4808,7 +4810,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr "Гайневтемс"
+msgstr "Lê bigere"
 
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
@@ -4904,7 +4906,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_OKUSEDEVICE"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sZAPBUTTON_OPENFILE"
 msgid "Open file"
@@ -5020,7 +5022,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr ""
+msgstr "Bişîne pelê"
 
 msgctxt "sZAPBUTTON_SENDIMAGE"
 msgid "Send image"
@@ -5068,7 +5070,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Bişîne"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5088,7 +5090,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "Bişîne SMS"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
@@ -5156,7 +5158,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Варштамс эсь пачтямксонть"
+msgstr ""
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View my account"
@@ -5340,7 +5342,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "Hate temamkirin"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5362,7 +5364,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_RATES_SELECT_COUNTRY"
 msgid "Select a country/region"
-msgstr "Select a country"
+msgstr ""
 
 msgctxt "sZAPCONTACT_OTHER_PHONE"
 msgid "Other"
@@ -5462,7 +5464,7 @@ msgstr ""
 
 msgctxt "sF_STARTCONF_OK_BUTTON"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_ADDTOCONF_TITLE"
 msgid "Add more people"
@@ -5829,7 +5831,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Peywendî"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
@@ -5849,7 +5851,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Nav"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
@@ -5949,11 +5951,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
-msgstr "Гайневтемс"
+msgstr "Lê bigere"
 
 msgctxt "sMAINMENU_CALL_START"
 msgid "Call"
-msgstr "Гайневтемс"
+msgstr "Lê bigere"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
@@ -5961,11 +5963,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
-msgstr "Максомс васодь вал"
+msgstr "Bersîv"
 
 msgctxt "sMAINMENU_CALL_IGNORE"
 msgid "Ignore"
-msgstr "А явтомс мель"
+msgstr "Piştguhkirinan"
 
 msgctxt "sMAINMENU_CALL_MUTE"
 msgid "Mute Microphone"
@@ -5981,11 +5983,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL_HOLD"
 msgid "Hold"
-msgstr "Аравтомс учома лувкс шкас"
+msgstr ""
 
 msgctxt "sMAINMENU_CALL_RESUME"
 msgid "Resume"
-msgstr "Вельмевтемс"
+msgstr ""
 
 msgctxt "sMAINMENU_CALL_HANG_UP"
 msgid "Hang up"
@@ -6013,19 +6015,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
-msgstr ""
+msgstr "Dîtin"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Peywendî"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr ""
+msgstr "Nû"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr ""
+msgstr "Profîlê"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -6033,19 +6035,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr ""
+msgstr "Amûrên"
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
-msgstr ""
+msgstr "Mîhengên zimên"
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
-msgstr ""
+msgstr "Taybetmendî..."
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr "Лезкс"
+msgstr "Alîkariya"
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
@@ -6053,7 +6055,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_ABOUT"
 msgid "About Skype"
-msgstr "Лувксонть эйстэдензэ"
+msgstr ""
 
 msgctxt "sCHAT_MENU_MOVE_BOOKMARK"
 msgid "Move Bookmark Here"
@@ -6129,15 +6131,15 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr ""
+msgstr "Duhî"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr ""
+msgstr "7 roj"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr ""
+msgstr "30 roj"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
@@ -6424,7 +6426,7 @@ msgstr ""
 
 msgctxt "sF_COM_CAPTION"
 msgid "Application access"
-msgstr "Useful tip"
+msgstr ""
 
 msgctxt "sF_COM_MULTIPLE"
 msgid "%s messages"
@@ -6622,7 +6624,7 @@ msgstr ""
 
 msgctxt "sHISTORY_VM_DURATION"
 msgid "Duration %s"
-msgstr ""
+msgstr "Mawe %s"
 
 msgctxt "sDIALPAD_CALL"
 msgid "Call"
@@ -6963,11 +6965,11 @@ msgstr ""
 
 msgctxt "sPROFILE_AVATAR_MIN"
 msgid "Minimize"
-msgstr ""
+msgstr "Biçûkkirin"
 
 msgctxt "sPROFILE_AVATAR_MAX"
 msgid "Maximize"
-msgstr ""
+msgstr "Mezinkirin"
 
 msgctxt "sACTION_ON_YOURSELF"
 msgid ""
@@ -7057,17 +7059,17 @@ msgstr ""
 
 msgctxt "sPROFILE_CHANGE_COUNTRY_BUTTON"
 msgid "Change your country/region"
-msgstr "Change your country"
+msgstr ""
 
 msgctxt "sPROFILE_DEFAULT_LOCATION_BUTTON"
 msgid "Set your country/region"
-msgstr "Set your country"
+msgstr ""
 
 msgctxt "sPROFILE_EMERGENCY_CALL1"
 msgid ""
 "<font color=\"#FF0000\">No Emergency Calls</font> You're attempting to make "
 "an emergency call (%s) in an unknown country/region"
-msgstr "<font color=\"#FF0000\">No Emergency Calls</font> You appear to be attempting to make an emergency call (%s) in unknown country"
+msgstr ""
 
 msgctxt "sPROFILE_EMERGENCY_CALL2"
 msgid "You appear to be attempting to make an emergency call (%s) in %s"
@@ -7099,7 +7101,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Кучомс Токавкстнэнь…"
+msgstr ""
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -7281,7 +7283,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr "Insert smiley"
+msgstr ""
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -7313,15 +7315,15 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr "Максомс васодь вал"
+msgstr "Bersîv"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr "А явтомс мель"
+msgstr "Piştguhkirinan"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr "Гайтькень кардавкстнэ"
+msgstr "Bigire"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -8420,7 +8422,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_CHECK_FAILED_CAP"
 msgid "Check for updates"
-msgstr ""
+msgstr "Berçavkirina nûjenkirinê"
 
 msgctxt "sF_UPGRADE_CHECK_FAILED_HEADER"
 msgid "Can't check for updates"
@@ -8636,11 +8638,11 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr ""
+msgstr "Nû"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
-msgstr ""
+msgstr "Lêgerîn"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
@@ -9140,7 +9142,7 @@ msgstr ""
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr ""
+msgstr "Bişîne pelê..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
@@ -9364,7 +9366,7 @@ msgstr ""
 
 msgctxt "sCALLPHONES_COUNTRY_DROPDOWN_HINT"
 msgid "Choose country/region"
-msgstr "Choose country"
+msgstr ""
 
 msgctxt "sCALLPHONES_PHONE_EDIT_CLEAR_HINT"
 msgid "Clear number"
@@ -9862,7 +9864,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
@@ -9934,15 +9936,15 @@ msgstr ""
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr ""
+msgstr "Girtin"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr "Полавтомс лемензэ"
+msgstr ""
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr ""
+msgstr "Hilandin"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
@@ -9954,7 +9956,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr "Уськекоцтсо"
+msgstr "Serxet"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -9966,7 +9968,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "Hemû"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -10101,7 +10103,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_COUNTRY"
 msgid "Select your billing country/region:"
-msgstr "Select your billing country:"
+msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_NAME"
 msgid "Cardholder name:"
@@ -10411,7 +10413,7 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "Bişîne SMS"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -10493,7 +10495,7 @@ msgstr ""
 
 msgctxt "sADD_PHONES_FORM_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Nav"
 
 msgctxt "sADD_PHONES_FORM_TYPE"
 msgid "Type"
@@ -10707,7 +10709,7 @@ msgid ""
 "Call who you want, when you want<br/>• Call mobiles and landlines "
 "worldwide<br/>• Send text messages and access WiFi hotspots<br/><a "
 "href=\"%s\">Add Skype Credit</a>"
-msgstr "• Call mobiles and landlines worldwide<br/>• Send SMS<br/><a href=\"%s\">Add Skype Credit</a>"
+msgstr ""
 
 msgctxt "sMYINFO_SUBSCRIPTIONS"
 msgid "Subscriptions"
@@ -10725,7 +10727,7 @@ msgctxt "sMYINFO_GET_SUBSCRIPTION"
 msgid ""
 "Call a lot? Save a lot...<br/>• Lowest calling rates<br/>• No long-term "
 "commitments<br/><a href=\"%s\">Get a subscription</a>"
-msgstr "Call a lot? Save a lot...<br/><a href=\"%s\">Get a subscription</a>"
+msgstr ""
 
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage my account"
@@ -10757,7 +10759,7 @@ msgctxt "sADD_CONTACT_PANEL_MESSAGE"
 msgid ""
 "Search by name, Skype Name, email or <a href=\"skype:?show_add_phone\">save "
 "a phone number</a>."
-msgstr "Search by name, Skype Name, email or <a href=\"skype:?show_add_phone\">save a phone number.</a>"
+msgstr ""
 
 msgctxt "sACC_ADD_PHONE_POPUP_NAME"
 msgid "Add a phone number"
@@ -10920,7 +10922,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_NUMBER"
 msgid "Error: %d"
-msgstr ""
+msgstr "Çewtî: %d"
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_GENERIC"
 msgid ""
@@ -12031,7 +12033,7 @@ msgstr ""
 
 msgctxt "sCONFIRM_FILE_TRANSFER_OK"
 msgid "Ok"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sCONFIRM_FILE_TRANSFER_CANCEL"
 msgid "Close"
@@ -12602,7 +12604,7 @@ msgstr ""
 
 msgctxt "sBUBBLE_POPOVER_OK"
 msgid "OK"
-msgstr ""
+msgstr "Erê"
 
 msgctxt "sCHAT_HISTORY_TODAY"
 msgid "Today"
