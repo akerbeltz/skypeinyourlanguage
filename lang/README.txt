@@ -50,8 +50,8 @@ Translator(s): ivarela, Xose Álvarez, lasturianu06
 Source: Transifex, Skype Mini Marathion
 
 Azeri (Azərbaycanca, Azərbaycan dili)
-Translator(s): Unknown
-Source:http://www.boxca.com/8slkcaewyjrm/Skype_Az%C9%99rbaycan_dilind%C9%99_5.9.rar.html
+Translator(s): Unknown, Гасымов Гудрет
+Source:http://www.boxca.com/8slkcaewyjrm/Skype_Az%C9%99rbaycan_dilind%C9%99_5.9.rar.html & Transifex
 
 Basque (Euskara)
 Translator(s): Unknown, urruyurre
