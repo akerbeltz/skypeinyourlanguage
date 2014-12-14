@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-12-14 21:16+0000\n"
+"PO-Revision-Date: 2014-12-14 23:14+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/projects/p/skype-translation-project/language/az/)\n"
 "MIME-Version: 1.0\n"
@@ -5511,11 +5511,11 @@ msgstr "Səsli İsmarıclar"
 
 msgctxt "sCONVERSATIONSEARCH_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sZAPCONTACT_SKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sCALL_VM_RERECORD"
 msgid "Re-record the voice message"
@@ -5906,7 +5906,7 @@ msgstr "Görüntülü İsmarıc"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_FILE"
 msgid "File..."
@@ -6719,7 +6719,7 @@ msgstr "Yazı qaydası:"
 
 msgctxt "sOPTIONS_FONT_POINTS"
 msgid "pt"
-msgstr ""
+msgstr "pt"
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
 msgid "Open a new window when I receive a new message in Compact view"
@@ -9443,7 +9443,7 @@ msgstr "Evdə İşləyirəm"
 
 msgctxt "sHOLLEST_SMILEY"
 msgid "Hollest"
-msgstr ""
+msgstr "Hollest"
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
@@ -10570,7 +10570,7 @@ msgstr "Skype"
 
 msgctxt "sCHANNEL_SWITCHER_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sCHAT_MESSAGING_UNAVAILABLE"
 msgid "Messaging unavailable."
@@ -11020,7 +11020,7 @@ msgstr "Görüntülü ismarıc göndər"
 
 msgctxt "sCALL_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
@@ -12269,11 +12269,11 @@ msgstr "İt"
 
 msgctxt "scaptain_SMILEY"
 msgid "Captain America"
-msgstr ""
+msgstr "Amerika Kapitanı"
 
 msgctxt "sbucky_SMILEY"
 msgid "Bucky"
-msgstr ""
+msgstr "Bucky"
 
 msgctxt "sblackwidow_SMILEY"
 msgid "Black Widow"
@@ -12281,7 +12281,7 @@ msgstr "Qara Dul Qadın"
 
 msgctxt "snickfury_SMILEY"
 msgid "Nick Fury"
-msgstr ""
+msgstr "Nik Füri"
 
 msgctxt "sshielddeflect_SMILEY"
 msgid "Shield"
@@ -12937,7 +12937,7 @@ msgstr "+"
 
 msgctxt "sDIALPAD_COUNTRY_SELECTOR"
 msgid "%s (+%d)"
-msgstr ""
+msgstr "%s (+%d)"
 
 msgctxt "sBUDDYMENU_CHANGE_TOPIC"
 msgid "Change topic..."
