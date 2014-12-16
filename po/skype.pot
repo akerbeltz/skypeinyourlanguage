@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SkypeInYourLang\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
+"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4463,6 +4463,62 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_0"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_1"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_2"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_3"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_4"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_5"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_6"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_7"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_8"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_9"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_ASTERIX"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_HASH"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_SMS"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_CALL"
+msgid " "
 msgstr ""
 
 msgctxt "sZAPBUTTON_DIALNUMBER"
@@ -12189,6 +12245,10 @@ msgctxt "sDIALPAD_MAIN_HASH"
 msgid "#"
 msgstr ""
 
+msgctxt "sDIALPAD_AUX_1"
+msgid " "
+msgstr ""
+
 msgctxt "sDIALPAD_AUX_2"
 msgid "ABC"
 msgstr ""
@@ -12221,8 +12281,16 @@ msgctxt "sDIALPAD_AUX_9"
 msgid "WXYZ"
 msgstr ""
 
+msgctxt "sDIALPAD_AUX_ASTERISK"
+msgid " "
+msgstr ""
+
 msgctxt "sDIALPAD_AUX_0"
 msgid "+"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_HASH"
+msgid " "
 msgstr ""
 
 msgctxt "sDIALPAD_COUNTRY_SELECTOR"
