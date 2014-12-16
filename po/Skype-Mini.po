@@ -1,0 +1,688 @@
+# Translation of Skype into unsupported languages
+# Copyright (C) 2013 Kevin P. Scannell
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Skype Translation Project\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2013-07-14 22:18:22+0100\n"
+"PO-Revision-Date: 2013-11-20 12:21+0000\n"
+"Last-Translator: Michael Bauer\n"
+"Language-Team: English (United States) (http://www.transifex.com/projects/p/skype-translation-project/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "s_LANGUAGE_NAME"
+msgid "English"
+msgstr "English"
+
+msgctxt "sSTATUSMENU_CAPTION_ONLINE"
+msgid "Online"
+msgstr "Online"
+
+msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
+msgid "Offline"
+msgstr "Offline"
+
+msgctxt "sSTATUSMENU_CAPTION_AWAY"
+msgid "Away"
+msgstr "Away"
+
+msgctxt "sSTATUSMENU_CAPTION_DND"
+msgid "Do Not Disturb"
+msgstr "Do Not Disturb"
+
+msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
+msgid "Invisible"
+msgstr "Invisible"
+
+msgctxt "sCALL_LB2_MISSED"
+msgid "No answer"
+msgstr "No answer"
+
+msgctxt "sCALL_LB2_REJECTED"
+msgid "Busy"
+msgstr "Busy"
+
+msgctxt "sMAINMENU_HELP_MENU"
+msgid "&Help"
+msgstr "&Help"
+
+msgctxt "sMAINMENU_VIEW"
+msgid "View"
+msgstr "View"
+
+msgctxt "sMAINMENU_VIEW_CONTACTS"
+msgid "Contacts"
+msgstr "Contacts"
+
+msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
+msgid "Recent"
+msgstr "Recent"
+
+msgctxt "sMAINMENU_VIEW_PROFILE"
+msgid "Profile"
+msgstr "Profile"
+
+msgctxt "sMAINMENU_TOOLS"
+msgid "Tools"
+msgstr "Tools"
+
+msgctxt "sMAINMENU_TOOLS_LANGUAGE"
+msgid "Change Language"
+msgstr "Change Language"
+
+msgctxt "sCONTACT_GROUP_ALL2"
+msgid "All"
+msgstr "All"
+
+msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
+msgid "Online Status"
+msgstr "Online Status"
+
+msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
+msgid "Online Status"
+msgstr "Online Status"
+
+msgctxt "sRECENTS_TAB_TEXT"
+msgid "Recent"
+msgstr "Recent"
+
+msgctxt "sCONTACT_QF_HINT"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "sZAPBUTTON_STARTVIDEOCALL"
+msgid "Video call"
+msgstr "Video call"
+
+msgctxt "sZAPBUTTON_SEND"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "sZAPBUTTON_DONE"
+msgid "Done"
+msgstr "Done"
+
+msgctxt "sZAPBUTTON_ADDCONTACTS"
+msgid "Add to Contacts"
+msgstr "Add to Contacts"
+
+msgctxt "sZAPBUTTON_RESUME"
+msgid "Resume call"
+msgstr "Resume call"
+
+msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
+msgid "Resume download"
+msgstr "Resume download"
+
+msgctxt "sZAPBUTTON_REJECT"
+msgid "Reject"
+msgstr "Reject"
+
+msgctxt "sPLUS_MENU_HINT"
+msgid "Add participants, send files and more"
+msgstr "Add participants, send files and more"
+
+msgctxt "sCHAT_HISTORY_MESSAGE"
+msgid "Show messages from: %s"
+msgstr "Show messages from: %s"
+
+msgctxt "sCHAT_HISTORY_YESTERDAY"
+msgid "Yesterday"
+msgstr "Yesterday"
+
+msgctxt "sCHAT_HISTORY_7DAYS"
+msgid "7 days"
+msgstr "7 days"
+
+msgctxt "sCHAT_HISTORY_30DAYS"
+msgid "30 days"
+msgstr "30 days"
+
+msgctxt "sCHAT_HISTORY_BEGINNING"
+msgid "From Beginning"
+msgstr "From Beginning"
+
+msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
+msgid "via Skype"
+msgstr "via Skype"
+
+msgctxt "sINSERTSMILEY"
+msgid "Insert emoticon"
+msgstr "Insert emoticon"
+
+msgctxt "sCALL_BTN_CALL_PHONE"
+msgid "Call Phone"
+msgstr "Call Phone"
+
+msgctxt "sCALL_POPUP_ADD_PHONE"
+msgid "Add phone number"
+msgstr "Add phone number"
+
+msgctxt "sPARTICIPANT_CALL_STATE_INCALL"
+msgid "In call"
+msgstr "In call"
+
+msgctxt "sPARTICIPANT_CALL_STATE_ONHOLD"
+msgid "On hold"
+msgstr "On hold"
+
+msgctxt "sPARTICIPANT_CALL_STATE_MUTED"
+msgid "Muted"
+msgstr "Muted"
+
+msgctxt "sPARTICIPANT_CALL_STATE_MISSED"
+msgid "Missed call"
+msgstr "Missed call"
+
+msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
+msgid "Ringing"
+msgstr "Ringing"
+
+msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
+msgid "Call ended"
+msgstr "Call ended"
+
+msgctxt "sFLOW_CALL_REJECTED_IN"
+msgid "Call from %s declined."
+msgstr "Call from %s declined."
+
+msgctxt "sFLOW_CALL_UNANSWERED_OUT"
+msgid "Call to %s, no answer."
+msgstr "Call to %s, no answer."
+
+msgctxt "sF_USERPROFILE_MONTHNAME1"
+msgid "January"
+msgstr "January"
+
+msgctxt "sF_USERPROFILE_MONTHNAME2"
+msgid "February"
+msgstr "February"
+
+msgctxt "sF_USERPROFILE_MONTHNAME3"
+msgid "March"
+msgstr "March"
+
+msgctxt "sF_USERPROFILE_MONTHNAME4"
+msgid "April"
+msgstr "April"
+
+msgctxt "sF_USERPROFILE_MONTHNAME5"
+msgid "May"
+msgstr "May"
+
+msgctxt "sF_USERPROFILE_MONTHNAME6"
+msgid "June"
+msgstr "June"
+
+msgctxt "sF_USERPROFILE_MONTHNAME7"
+msgid "July"
+msgstr "July"
+
+msgctxt "sF_USERPROFILE_MONTHNAME8"
+msgid "August"
+msgstr "August"
+
+msgctxt "sF_USERPROFILE_MONTHNAME9"
+msgid "September"
+msgstr "September"
+
+msgctxt "sF_USERPROFILE_MONTHNAME10"
+msgid "October"
+msgstr "October"
+
+msgctxt "sF_USERPROFILE_MONTHNAME11"
+msgid "November"
+msgstr "November"
+
+msgctxt "sF_USERPROFILE_MONTHNAME12"
+msgid "December"
+msgstr "December"
+
+msgctxt "sCHAT_SEND_MESSAGE"
+msgid "Send a message"
+msgstr "Send a message"
+
+msgctxt "sCHAT_SEND_SMS"
+msgid "Send SMS"
+msgstr "Send SMS"
+
+msgctxt "sLIVE_CALLING"
+msgid "calling"
+msgstr "calling"
+
+msgctxt "sTRAYMENU_ANSWER"
+msgid "Answer Call"
+msgstr "Answer Call"
+
+msgctxt "sTRAYMENU_IGNORE"
+msgid "Ignore Call"
+msgstr "Ignore Call"
+
+msgctxt "sTRAYMENU_HANGUP"
+msgid "Hang Up"
+msgstr "Hang Up"
+
+msgctxt "sMAINMENU_CALL"
+msgid "Call"
+msgstr "Call"
+
+msgctxt "sMAINMENU_CALL_START"
+msgid "Call"
+msgstr "Call"
+
+msgctxt "sMAINMENU_CALL_START_VIDEO"
+msgid "Video Call"
+msgstr "Video Call"
+
+msgctxt "sMAINMENU_CALL_ANSWER"
+msgid "Answer"
+msgstr "Answer"
+
+msgctxt "sMAINMENU_CALL_IGNORE"
+msgid "Ignore"
+msgstr "Ignore"
+
+msgctxt "sZAPBUTTON_ANSWER"
+msgid "Answer"
+msgstr "Answer"
+
+msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
+msgid "Answer with video"
+msgstr "Answer with video"
+
+msgctxt "sZAPBUTTON_ACCEPTVIDEO"
+msgid "Accept"
+msgstr "Accept"
+
+msgctxt "sZAPBUTTON_DECLINE"
+msgid "Decline"
+msgstr "Decline"
+
+msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
+msgid "Show contacts"
+msgstr "Show contacts"
+
+msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
+msgid "Hide contacts"
+msgstr "Hide contacts"
+
+msgctxt "sZAPBUTTON_VIDEOSTART"
+msgid "Turn on video"
+msgstr "Turn on video"
+
+msgctxt "sZAPBUTTON_VIDEOSTOP"
+msgid "Turn off video"
+msgstr "Turn off video"
+
+msgctxt "sZAPBUTTON_VIDEO"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "sZAPBUTTON_VIDEOOFF"
+msgid "Turn off video"
+msgstr "Turn off video"
+
+msgctxt "sZAPBUTTON_VIDEOCONTINUE"
+msgid "Keep video on"
+msgstr "Keep video on"
+
+msgctxt "sCALLNOTIF_TITLE"
+msgid "%s calling"
+msgstr "%s calling"
+
+msgctxt "sCALL_TOOLBAR_MUTE"
+msgid "Mute your microphone"
+msgstr "Mute your microphone"
+
+msgctxt "sLIVE_PLUS_BUTTON_HINT"
+msgid "Add, send and share..."
+msgstr "Add, send and share..."
+
+msgctxt "sZAPBUTTON_HANGUP"
+msgid "End call"
+msgstr "End call"
+
+msgctxt "sZAPBUTTON_HANGUPANDCALL"
+msgid "Call"
+msgstr "Call"
+
+msgctxt "sZAP_ACTIONBUTTON_HANGUP"
+msgid "End Call"
+msgstr "End Call"
+
+msgctxt "sZAPBUTTON_CONTACTS"
+msgid "Contacts"
+msgstr "Contacts"
+
+msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
+msgid "Contacts"
+msgstr "Contacts"
+
+msgctxt "sZAPBUTTON_CONTACTSARROW"
+msgid "Contacts"
+msgstr "Contacts"
+
+msgctxt "sMAINMENU_CONTACTS"
+msgid "Contacts"
+msgstr "Contacts"
+
+msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
+msgid "Show earlier messages"
+msgstr "Show earlier messages"
+
+msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "sYESTERDAY"
+msgid "Yesterday"
+msgstr "Yesterday"
+
+msgctxt "sTODAY"
+msgid "Today"
+msgstr "Today"
+
+msgctxt "sDURATION"
+msgid "Duration"
+msgstr "Duration"
+
+msgctxt "sCALL_SKYPE"
+msgid "Skype Call"
+msgstr "Skype Call"
+
+msgctxt "sZAPBUTTON_SMS"
+msgid "Send SMS"
+msgstr "Send SMS"
+
+msgctxt "sZAPBUTTON_NOWEBCAM"
+msgid "Video call"
+msgstr "Video call"
+
+msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
+msgid "Video Message"
+msgstr "Video Message"
+
+msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
+msgid "Send Video Message"
+msgstr "Send Video Message"
+
+msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
+msgid "Play video message"
+msgstr "Play video message"
+
+msgctxt "sCHAT_DRAGFILE_DIALOG"
+msgid "Send file to %s"
+msgstr "Send file to %s"
+
+msgctxt "sSHARE_MENU_SEND_FILE"
+msgid "Send file..."
+msgstr "Send file..."
+
+msgctxt "sSHARE_MENU_SEND_CONTACTS"
+msgid "Send contacts..."
+msgstr "Send contacts..."
+
+msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
+msgid "Share screens..."
+msgstr "Share screens..."
+
+msgctxt "sFAVORITES_CAPTION"
+msgid "Favorites"
+msgstr "Favorites"
+
+msgctxt "sFAVORITES_BKGROUND_TEXT"
+msgid "Drag contacts here"
+msgstr "Drag contacts here"
+
+msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
+msgid "Close"
+msgstr "Close"
+
+msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
+msgid "Rename"
+msgstr "Rename"
+
+msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "sBUDDYMENU_PIN"
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+msgctxt "sBUDDYMENU_UNPIN"
+msgid "Remove from Favorites"
+msgstr "Remove from Favorites"
+
+msgctxt "sCONTACT_GROUP_ONLINE2"
+msgid "Online"
+msgstr "Online"
+
+msgctxt "sZAPBUTTON_VIEWMESSAGES"
+msgid "View older messages"
+msgstr "View older messages"
+
+msgctxt "sZAPBUTTON_VIEWPROFILE"
+msgid "View Profile"
+msgstr "View Profile"
+
+msgctxt "sMAINMENU_HELP"
+msgid "Help"
+msgstr "Help"
+
+msgctxt "sBUDDYMENU_CALL"
+msgid "Call"
+msgstr "Call"
+
+msgctxt "sBUDDYMENU_SENDMESSAGE"
+msgid "Send IM"
+msgstr "Send IM"
+
+msgctxt "sBUDDYMENU_VIEWPROFILE"
+msgid "View Profile"
+msgstr "View Profile"
+
+msgctxt "sBUDDYMENU_RENAME"
+msgid "Rename..."
+msgstr "Rename..."
+
+msgctxt "sBUDDYMENU_REMOVE"
+msgid "Remove from Contacts"
+msgstr "Remove from Contacts"
+
+msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
+msgid "Add to Contacts"
+msgstr "Add to Contacts"
+
+msgctxt "sTRAYMENU_CHANGESTATUS"
+msgid "Online Status"
+msgstr "Online Status"
+
+msgctxt "sTRAYMENU_SHOWFRIENDS"
+msgid "Open Skype"
+msgstr "Open Skype"
+
+msgctxt "sTRAYMENU_QUIT"
+msgid "Quit"
+msgstr "Quit"
+
+msgctxt "sBUDDYMENU_UNPIN_ICON"
+msgid "Remove from favorites"
+msgstr "Remove from favorites"
+
+msgctxt "sBUDDYMENU_PIN_ICON"
+msgid "Add to favorites"
+msgstr "Add to favorites"
+
+msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
+msgid "Send Video Message"
+msgstr "Send Video Message"
+
+msgctxt "sZAPBUTTON_SAVEALLAS"
+msgid "Save all"
+msgstr "Save all"
+
+msgctxt "sZAPBUTTON_SAVECONTACT"
+msgid "Save Contact"
+msgstr "Save Contact"
+
+msgctxt "sZAPBUTTON_CANCELALL"
+msgid "Cancel all"
+msgstr "Cancel all"
+
+msgctxt "sZAPBUTTON_SAVEAS"
+msgid "Save as"
+msgstr "Save as"
+
+msgctxt "sZAPBUTTON_SEEVIDEO"
+msgid "See my video"
+msgstr "See my video"
+
+msgctxt "sZAPBUTTON_HIDEVIDEO"
+msgid "Hide my video"
+msgstr "Hide my video"
+
+msgctxt "sZAPBUTTON_SENDFILE"
+msgid "Send file"
+msgstr "Send file"
+
+msgctxt "sZAPBUTTON_SENDCONTACTS"
+msgid "Send Contacts..."
+msgstr "Send Contacts..."
+
+msgctxt "sZAPBUTTON_SENDMESSAGE"
+msgid "Send message"
+msgstr "Send message"
+
+msgctxt "sZAPBUTTON_SENDSMS"
+msgid "Send SMS"
+msgstr "Send SMS"
+
+msgctxt "sZAPBUTTON_SEARCH"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "sBUDDYMENU_SENDSMS"
+msgid "Send SMS Message"
+msgstr "Send SMS Message"
+
+msgctxt "sBIRTHDAY_TODAY"
+msgid "%s has a birthday today"
+msgstr "%s has a birthday today"
+
+msgctxt "sBUDDYMENU_SENDCONTACTS"
+msgid "Send Contacts..."
+msgstr "Send Contacts..."
+
+msgctxt "sBUDDYMENU_SENDFILE"
+msgid "Send File..."
+msgstr "Send File..."
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
+msgid "Sending failed"
+msgstr "Sending failed"
+
+msgctxt "sBUDDYMENU_VOICEMAIL"
+msgid "Send Voice Message"
+msgstr "Send Voice Message"
+
+msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
+msgid "Share screens..."
+msgstr "Share screens..."
+
+msgctxt "sSTATUS_OFFLINE"
+msgid "Offline"
+msgstr "Offline"
+
+msgctxt "sSTATUS_ONLINE"
+msgid "Online"
+msgstr "Online"
+
+msgctxt "sSTATUS_AWAY"
+msgid "Away"
+msgstr "Away"
+
+msgctxt "sSTATUS_DND"
+msgid "Do Not Disturb"
+msgstr "Do Not Disturb"
+
+msgctxt "sSTATUS_BLOCKED"
+msgid "Blocked"
+msgstr "Blocked"
+
+msgctxt "sZAPBUTTON_CALL"
+msgid "Call"
+msgstr "Call"
+
+msgctxt "sZAPBUTTON_CALLWHICH"
+msgid "Call"
+msgstr "Call"
+
+msgctxt "sZAPBUTTON_PHONES"
+msgid "Call"
+msgstr "Call"
+
+msgctxt "sFLOW_CALL_MISSED_IN"
+msgid "Missed call from %s."
+msgstr "Missed call from %s."
+
+msgctxt "sFLOW_CALL_WITH_IN"
+msgid "Call from %s, duration %s."
+msgstr "Call from %s, duration %s."
+
+msgctxt "sFLOW_CALL_WITH_OUT"
+msgid "Call to %s, duration %s."
+msgstr "Call to %s, duration %s."
+
+msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
+msgid "Missed call from %s (%s)"
+msgstr "Missed call from %s (%s)"
+
+msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
+msgid "Call from %s (%s) declined."
+msgstr "Call from %s (%s) declined."
+
+msgctxt "sFLOW_CALL_INCOMING_PSTN"
+msgid "Call from %s (%s)"
+msgstr "Call from %s (%s)"
+
+msgctxt "sFLOW_CALL_WITH_IN_PSTN"
+msgid "Call from %s (%s), duration %s."
+msgstr "Call from %s (%s), duration %s."
+
+msgctxt "sFLOW_CALL_INCOMING"
+msgid "Call from %s"
+msgstr "Call from %s"
+
+msgctxt "sFLOW_CALL_OUTGOING"
+msgid "Call to %s"
+msgstr "Call to %s"
+
+msgctxt "sCHAT_SEND_MESSAGE"
+msgid "Type a message here"
+msgstr ""
+
+msgctxt "sZAPBUTTON_HOME"
+msgid "Home"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CALLPHONES"
+msgid "Call phones"
+msgstr ""
+
+msgctxt "sCONTACTS_LINK_CAPS"
+msgid "CONTACTS"
+msgstr ""
+
+msgctxt "sRECENTS_LINK_CAPS"
+msgid "RECENT"
+msgstr ""
