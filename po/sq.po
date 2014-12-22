@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-11-19 17:49+0000\n"
-"Last-Translator: Michael Bauer\n"
+"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
+"PO-Revision-Date: 2014-12-16 14:07+0000\n"
+"Last-Translator: amurati <ahmetmurati@gmail.com>\n"
 "Language-Team: Albanian (http://www.transifex.com/projects/p/skype-translation-project/language/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3727,7 +3727,7 @@ msgstr "Krijues:"
 
 msgctxt "sF_CHAT_INFO_LB_ADMIN"
 msgid "Administrators:"
-msgstr ""
+msgstr "Administruesit:"
 
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
@@ -4343,7 +4343,7 @@ msgstr "Shto të gjithë te kontaktet"
 
 msgctxt "sZAPBUTTON_ADDTOGROUP"
 msgid "Add to Group"
-msgstr ""
+msgstr "Shto në grup"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -4351,11 +4351,11 @@ msgstr "Shto në thirrje grupore"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
 msgid "Add to group call"
-msgstr ""
+msgstr "Shto në thirrje grupore"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCERINGING"
 msgid "Add to group call"
-msgstr ""
+msgstr "Shto në thirrje grupore"
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
@@ -4395,7 +4395,7 @@ msgstr "Thirr"
 
 msgctxt "sZAPBUTTON_CALLMULTIPLE"
 msgid "Call"
-msgstr ""
+msgstr "Thirr"
 
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
@@ -4407,7 +4407,7 @@ msgstr "Thirr grup"
 
 msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
 msgid "Copy conversation link"
-msgstr ""
+msgstr "Kopjo vjegëzën e bisedimit"
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
@@ -4607,7 +4607,7 @@ msgstr "Refuzo"
 
 msgctxt "sZAPBUTTON_DECLINECALL"
 msgid "Decline"
-msgstr ""
+msgstr "Refuzo"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -4771,7 +4771,7 @@ msgstr "Të tjerë"
 
 msgctxt "sZAPBUTTON_ADDPEOPLE"
 msgid "Add people"
-msgstr ""
+msgstr "Shto njerëz"
 
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
@@ -4855,7 +4855,7 @@ msgstr "Mëso më tepër"
 
 msgctxt "sZAPBUTTON_LEAVECONVERSATION"
 msgid "Leave conversation"
-msgstr ""
+msgstr "Braktis bisedën"
 
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
@@ -4867,7 +4867,7 @@ msgstr "MPV veçmas"
 
 msgctxt "sZAPBUTTON_MERGECALLS"
 msgid "Merge calls"
-msgstr ""
+msgstr "Bashkëngjit thirrjet"
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
@@ -5027,19 +5027,19 @@ msgstr "Dërgo skedar"
 
 msgctxt "sZAPBUTTON_SENDIMAGE"
 msgid "Send image"
-msgstr ""
+msgstr "Dërgo imazh"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send contacts"
-msgstr ""
+msgstr "Dërgo kontakte"
 
 msgctxt "sZAPBUTTON_ENTRYTOOLBAREXPAND"
 msgid "More"
-msgstr ""
+msgstr "Më tepër"
 
 msgctxt "sZAPBUTTON_ENTRYTOOLBARCOLLAPSE"
 msgid "Less"
-msgstr ""
+msgstr "Më pak"
 
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
@@ -5067,7 +5067,7 @@ msgstr "Largo"
 
 msgctxt "sZAPBUTTON_PLUS"
 msgid "More"
-msgstr ""
+msgstr "Më tepër"
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
@@ -5115,19 +5115,19 @@ msgstr "Reprodukto mesazh video"
 
 msgctxt "sZAPBUTTON_POPOUTPLAY"
 msgid "Play voice message"
-msgstr ""
+msgstr "Reprodukto mesazhin zanor"
 
 msgctxt "sZAPBUTTON_POPOUTPAUSE"
 msgid "Pause voice message"
-msgstr ""
+msgstr "Pusho mesazhin zanor"
 
 msgctxt "sZAPBUTTON_POPOUTSTOP"
 msgid "Stop voice message"
-msgstr ""
+msgstr "Ndal mesazhin zanor"
 
 msgctxt "sZAPBUTTON_POPOUTRELOAD"
 msgid "Reload voice message"
-msgstr ""
+msgstr "Ringarko mesazhin zanor"
 
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
@@ -5163,7 +5163,7 @@ msgstr "Shih profilin"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View my account"
-msgstr ""
+msgstr "Shih llogarinë time"
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -5219,7 +5219,7 @@ msgstr "MÇ"
 
 msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
 msgid "IM"
-msgstr ""
+msgstr "MÇ"
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -5319,31 +5319,31 @@ msgstr "Jo, faleminderit"
 
 msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
 msgid "Send quality feedback"
-msgstr ""
+msgstr "Dërgo reagimin e kualitetit të thirrjes"
 
 msgctxt "sZAPBUTTON_CLOSEWINDOW"
 msgid "Close"
-msgstr ""
+msgstr "Mbyll"
 
 msgctxt "sZAPBUTTON_CM_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "Vazhdo thirrjen"
 
 msgctxt "sZAPBUTTON_REMOVEFROMFAVOURITESBTN"
 msgid "Remove contact from favourites"
-msgstr ""
+msgstr "Largo kontaktin nga parapëlqimet"
 
 msgctxt "sZAPBUTTON_ADDTOFAVOURITESBTN"
 msgid "Add contact to favourites"
-msgstr ""
+msgstr "Shto kontaktin te parapëlqimet"
 
 msgctxt "sZAPBUTTON_SEARCHSKYPE"
 msgid "Search Skype"
-msgstr ""
+msgstr "Kërko Skype"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "Kryer"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5812,7 +5812,7 @@ msgstr "Privatësia..."
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
 msgid "My account"
-msgstr ""
+msgstr "Llogaria ime"
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -6180,7 +6180,7 @@ msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
 msgid ""
 "You cannot send any more files until your existing file transfers have "
 "finished."
-msgstr ""
+msgstr "Nuk mund të dërgosh më tepër skedarë përderisa transferi ekzistues i skedarëve të ketë përfunduar."
 
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
@@ -6289,7 +6289,7 @@ msgstr "%d bisedime"
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
 msgid "Call ended"
-msgstr ""
+msgstr "Thirrja përfundoi"
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
@@ -6352,7 +6352,7 @@ msgstr "Pamje e rëndomtë"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
 msgid "Split Window View"
-msgstr ""
+msgstr "Ndaj Pamjen e Dritares"
 
 msgctxt "sTRAYALERT_NONEW"
 msgid "No new conversations"
@@ -8147,7 +8147,7 @@ msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
 msgid ""
 "Unable to sign in, Check your Skype Name and password are correct and try "
 "again."
-msgstr ""
+msgstr "E pamundur të kyçeni. Kontrollo Emrin Skype dhe fjalëkalimin tuaj dhe provo përsëri."
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
@@ -10341,7 +10341,7 @@ msgctxt "sREMOVE_GROUP_INFO2"
 msgid ""
 "Contacts in this list will not be deleted. You can still find them under "
 "\"All\""
-msgstr ""
+msgstr "Kontaktet në këtë listë nuk do të fshihen. Ju ende mund ta gjeni nën \"Të gjithë\""
 
 msgctxt "sGETTING_STARTED_SNAPSHOTS_LABEL"
 msgid "Your previous pictures"
@@ -10410,7 +10410,7 @@ msgstr "Kërko për <a href=\"x\">%s</a> në Skype."
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Type a message here"
-msgstr ""
+msgstr "Shkruaj një mesazh këtu"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -10732,7 +10732,7 @@ msgstr "Thirrje të shumta? Ruaj shumë...<br/>• Tarifa më të ultra të thir
 
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage my account"
-msgstr ""
+msgstr "Administro llogarinë"
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
@@ -12195,7 +12195,7 @@ msgstr "<b>%s</b> do të dëshironte të të shtonte në Skype"
 
 msgctxt "sCHAT_HISTORY_JUMPBACK"
 msgid "Jump Back"
-msgstr ""
+msgstr "Kërce mbrapa"
 
 msgctxt "sMSNP24_MERGE_MESSAGE"
 msgid "From now on your chats will sync on all your devices."
@@ -12343,7 +12343,7 @@ msgstr "Skedar i zhvendosur"
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
 msgid "Show in folder"
-msgstr ""
+msgstr "Shfaq në dosje"
 
 msgctxt "sFILETRANSFER_AUTO_ACCEPT"
 msgid "Automatically accept incoming files"
@@ -12379,11 +12379,11 @@ msgstr "Skedarët e pranuar"
 
 msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
 msgid "Download all"
-msgstr ""
+msgstr "Shkarko të gjitha"
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "Anulo të gjitha"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
@@ -12539,7 +12539,7 @@ msgstr "Lejo njerëzit të kyçen në këtë grup"
 
 msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
 msgid "Administrator settings"
-msgstr ""
+msgstr "Cilësimet e administruesit"
 
 msgctxt "sF_CHAT_INFO_COPY_LINK"
 msgid "Copy conversation link"
@@ -12669,350 +12669,350 @@ msgstr "Paguaj as sa përdor"
 
 msgctxt "sVOICEMAIL_PROMPT"
 msgid "Are you sure you want to send a voice message to<b>%s</b>?"
-msgstr ""
+msgstr "A je i/e sigurt që do të dërgosh një mesazh zanor te <b>%s</b>?"
 
 msgctxt "sVOICEMAIL_PROMPT_TITLE"
 msgid "Send voice message"
-msgstr ""
+msgstr "Dërgo mesazh zanor"
 
 msgctxt "sVOICEMAIL_PROMPT_CAP"
 msgid "Voice message"
-msgstr ""
+msgstr "Mesazh zanor"
 
 msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
 msgid "Phone:"
-msgstr ""
+msgstr "Telefon:"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER"
 msgid "Edit"
-msgstr ""
+msgstr "Redakto"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
 msgid "Edit %s"
-msgstr ""
+msgstr "Redakto %s"
 
 msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
 msgid "Leave Conversation"
-msgstr ""
+msgstr "Braktis bisedimin"
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
 msgid "Limited emergency calling"
-msgstr ""
+msgstr "Thirrje emergjence e kufizuar"
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2"
 msgid ""
 "Emergency calling is only supported by certain countries/regions. Please, go"
 " to Call settings to set your default location."
-msgstr ""
+msgstr "Thirrja emergjente është e përkrahur vetëm nga vendet/rajonet. Të lutem, shko te Cilësimet e thirrjes për ta caktuar vendndodhjen tënde."
 
 msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
 msgid "SMS sent to <a href=\"x\">%d people</a>"
-msgstr ""
+msgstr "SMS iu dërgua <a href=\"x\">%d njerëz</a>"
 
 msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
 msgid "SMS sent to <a href=\"x\">%d person</a>"
-msgstr ""
+msgstr "SMS iu dërgua <a href=\"x\">%d njerëz</a>"
 
 msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
 msgid "SMS sent to <a href=\"x\">%d people</a>"
-msgstr ""
+msgstr "SMS iu dërgua <a href=\"x\">%d njerëz</a>"
 
 msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a video call"
-msgstr ""
+msgstr "Përzgjedh jo më tepër se %d pjesëmarrës që të jesh në gjendje të nisësh një video thirrje"
 
 msgctxt "sVIDEOCALL_BTN_SO_CONTACT_HINT"
 msgid "You cannot place video calls to mobile or land lines"
-msgstr ""
+msgstr "Ju nuk mund bëni video thirrje te telefonat mobil ose fiks"
 
 msgctxt "sVIDEOCALL_BTN_ECHO_CONTACT_HINT"
 msgid "You cannot place test video calls"
-msgstr ""
+msgstr "Nuk mund të bësh video thirrje testuese"
 
 msgctxt "sCONTACTS_LINK_CAPS"
 msgid "CONTACTS"
-msgstr ""
+msgstr "KONTAKTET"
 
 msgctxt "sRECENTS_LINK_CAPS"
 msgid "RECENT"
-msgstr ""
+msgstr "TË FUNDMET"
 
 msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
 msgid "This photo is unavailable"
-msgstr ""
+msgstr "Kjo fotografi është e pa disponueshëm"
 
 msgctxt "sACC_NAME_PHOTO_MESSAGE"
 msgid "From %0:s, new photo, sent on %1:s"
-msgstr ""
+msgstr "Nga %0:s, fotografi e re, dërguar më %1:s"
 
 msgctxt "sTRAYALERT_PHOTO_MESSAGE"
 msgid "New photo"
-msgstr ""
+msgstr "Fotografi e re"
 
 msgctxt "sPHOTO_SAVE_AS"
 msgid "Save as..."
-msgstr ""
+msgstr "Ruaj si..."
 
 msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
 msgid "To view this shared photo, go to: %1"
-msgstr ""
+msgstr "Për të parë këtë fotografi të ndarë, shko te: %1"
 
 msgctxt "sACC_NAME_MYSELF_GRAPHIC"
 msgid "My profile picture"
-msgstr ""
+msgstr "Fotografia ime e profilit"
 
 msgctxt "sSEARCHING_SKYPE_DIRECTORY"
 msgid "Searching Skype directory..."
-msgstr ""
+msgstr "Duke kërkuar direktorinë Skype"
 
 msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
 msgid "Show message previews in the sidebar"
-msgstr ""
+msgstr "Shfaq parafishimet e mesazheve në dërrasën anësore"
 
 msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
 msgid "Simple List View"
-msgstr ""
+msgstr "Pamje e thjeshtë liste"
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
 msgid "Give Feedback"
-msgstr ""
+msgstr "Jep reagim"
 
 msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
 msgid "No results found for %s"
-msgstr ""
+msgstr "Nuk ka rezultate për %s"
 
 msgctxt "sMESGPREVIEW_POSTED_FILES_SINGLE"
 msgid "Sent you files"
-msgstr ""
+msgstr "Ju ka dërguar skedarë"
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
 msgid "Shared a photo"
-msgstr ""
+msgstr "Ndau një fotografi"
 
 msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
 msgid "Shared a location"
-msgstr ""
+msgstr "Ndau lokacionin"
 
 msgctxt "sMESGPREVIEW_VOICE_MESSAGE_SINGLE"
 msgid "Sent you a voice message"
-msgstr ""
+msgstr "Ju dërgoi një mesazh zanor"
 
 msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_SINGLE"
 msgid "Sent you a video message"
-msgstr ""
+msgstr "Ju dërgoi një mesazh video"
 
 msgctxt "sMESGPREVIEW_POSTED_CONTACTS_SINGLE"
 msgid "Sent you contacts"
-msgstr ""
+msgstr "Ju dërgoi kontakte"
 
 msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
 msgid "%s sent files"
-msgstr ""
+msgstr "%s skedar të dërguar"
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
 msgid "%s shared a photo"
-msgstr ""
+msgstr "%s e ndau një fotografi"
 
 msgctxt "sMESGPREVIEW_POSTED_LOCATION_MULTI"
 msgid "%s shared a location"
-msgstr ""
+msgstr "%s ndau një lokacion"
 
 msgctxt "sMESGPREVIEW_VOICE_MESSAGE_MULTI"
 msgid "%s sent a voice message"
-msgstr ""
+msgstr "%s dërgoi një mesazh zanor"
 
 msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_MULTI"
 msgid "%s sent a video message"
-msgstr ""
+msgstr "dërgoi një mesazh video"
 
 msgctxt "sMESGPREVIEW_POSTED_CONTACTS_MULTI"
 msgid "%s sent contacts"
-msgstr ""
+msgstr "%d dërgoi kontakte"
 
 msgctxt "sMESGPREVIEW_REQUESTED_AUTH"
 msgid "Sent you a contact request"
-msgstr ""
+msgstr "Ju ka dërguar kërkesë kontakti"
 
 msgctxt "sMESGPREVIEW_GRANTED_AUTH"
 msgid "Contact request accepted"
-msgstr ""
+msgstr "Kërkesa e kontaktit u pranua"
 
 msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
 msgid "Birthday today"
-msgstr ""
+msgstr "Datëlindjen sot"
 
 msgctxt "sADDCONTACT_PROMPT"
 msgid "Are you sure you want to add contacts: <b>%s</b>?"
-msgstr ""
+msgstr "A je i/e sigurt që do të shtosh kontaktet: <b>%s</b>?"
 
 msgctxt "sADDCONTACT_PROMPT_TITLE"
 msgid "Add contacts"
-msgstr ""
+msgstr "Shto kontakte"
 
 msgctxt "sADDCONTACT_PROMPT_CAP"
 msgid "Add contacts"
-msgstr ""
+msgstr "Shto kontakte"
 
 msgctxt "sDIALPAD_MAIN_1"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "sDIALPAD_MAIN_2"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "sDIALPAD_MAIN_3"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "sDIALPAD_MAIN_4"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "sDIALPAD_MAIN_5"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "sDIALPAD_MAIN_6"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "sDIALPAD_MAIN_7"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "sDIALPAD_MAIN_8"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "sDIALPAD_MAIN_9"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "sDIALPAD_MAIN_ASTERISK"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "sDIALPAD_MAIN_0"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "sDIALPAD_MAIN_HASH"
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgctxt "sDIALPAD_AUX_2"
 msgid "ABC"
-msgstr ""
+msgstr "ABC"
 
 msgctxt "sDIALPAD_AUX_3"
 msgid "DEF"
-msgstr ""
+msgstr "DEF"
 
 msgctxt "sDIALPAD_AUX_4"
 msgid "GHI"
-msgstr ""
+msgstr "GHI"
 
 msgctxt "sDIALPAD_AUX_5"
 msgid "JKL"
-msgstr ""
+msgstr "JKL"
 
 msgctxt "sDIALPAD_AUX_6"
 msgid "MNO"
-msgstr ""
+msgstr "MNO"
 
 msgctxt "sDIALPAD_AUX_7"
 msgid "PQRS"
-msgstr ""
+msgstr "PQRS"
 
 msgctxt "sDIALPAD_AUX_8"
 msgid "TUV"
-msgstr ""
+msgstr "TUV"
 
 msgctxt "sDIALPAD_AUX_9"
 msgid "WXYZ"
-msgstr ""
+msgstr "WXYZ"
 
 msgctxt "sDIALPAD_AUX_0"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgctxt "sDIALPAD_COUNTRY_SELECTOR"
 msgid "%s (+%d)"
-msgstr ""
+msgstr "%s (+%d)"
 
 msgctxt "sBUDDYMENU_CHANGE_TOPIC"
 msgid "Change topic..."
-msgstr ""
+msgstr "Ndërro temën..."
 
 msgctxt "sF_CHANGE_TOPIC_CAPTION"
 msgid "Change topic"
-msgstr ""
+msgstr "Ndërro temën"
 
 msgctxt "sMAINMENU_CONVERSATION_CHANGE_TOPIC"
 msgid "Change topic..."
-msgstr ""
+msgstr "Ndërro temën..."
 
 msgctxt "sF_CHANGE_TOPIC_LABEL"
 msgid "Enter new topic"
-msgstr ""
+msgstr "Shkruaj temën e re"
 
 msgctxt "sFRE_TITLE"
 msgid "Welcome Tour"
-msgstr ""
+msgstr "Turi mirëseardhës"
 
 msgctxt "sFRE_START"
 msgid "Welcome to the new Skype for Windows."
-msgstr ""
+msgstr "Mirësevini në Skype të re për Windows"
 
 msgctxt "sFRE_CHAT"
 msgid "Redesigned for a richer chat experience."
-msgstr ""
+msgstr "E ridizajnuar për një përvojë më të pasur të bisedimit."
 
 msgctxt "sFRE_PHOTO"
 msgid "Share your favourite photos and bring chats to life."
-msgstr ""
+msgstr "Ndaj fotografitë tuaja të parapëlqyera dhe sjelli bisedimet te jeta."
 
 msgctxt "sFRE_GROUP"
 msgid "Get everyone together with free group video calling."
-msgstr ""
+msgstr "Merr të gjithë së bashku me një thirrje grupore falas me video.javascript:;"
 
 msgctxt "sFRE_PHONE"
 msgid "Keep the conversation going and take Skype with you."
-msgstr ""
+msgstr "Mbaj bisedimet të vazhdojnë dhe merre Skype me vete."
 
 msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
 msgid "File transfer limit"
-msgstr ""
+msgstr "Kufiri i transferimit të skedarit"
 
 msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
 msgid "Emergency numbers"
-msgstr ""
+msgstr "Numrat e emergjencës"
 
 msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
 msgid ""
 "Set your default country/region to check if Skype supports emergency calls "
 "in your country/region."
-msgstr ""
+msgstr "Cakto vendin/rajonin e rëndomë që të kontrollohet nëse Skype përkrah thirrjet e emergjencës në shtetin/rajonin tuaj."
 
 msgctxt "sCALL_PHONES_EMERGENCY2_INLINE"
 msgid "Emergency calls are not supported in your country/region."
-msgstr ""
+msgstr "Thirrja në rast emergjence nuk është e përkrahur në shtetin/rajonin tuaj."
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2_INLINE"
 msgid ""
 "Only use Skype as an absolute last resort for emergency calling. <a "
 "href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "Përdor Skypen vetëm si një mundësi e fundme për thirrje emergjente.<a href=\"%s\">Mëso më tepër</a>."
 
 msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
 msgid "Your Country/Region:"
-msgstr ""
+msgstr "Shteti/Rajoni juaj:"
 
 msgctxt "sSEND_MEDIA_MENU_HINT"
 msgid "Send contacts and media"
-msgstr ""
+msgstr "Dërgo kontakte dhe media"
 
 msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
 msgid "Advertisement"
-msgstr ""
+msgstr "Reklamë"

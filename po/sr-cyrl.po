@@ -3,13 +3,13 @@
 # Translators:
 # DakSrbija <vlabotami@gmail.com>, 2013
 # mite71 <m.krstev@hotmail.com>, 2013
-# markosm <pausovic@gmail.com>, 2014
+# markosm <chajbo@ro.ru>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-11-19 17:48+0000\n"
+"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
+"PO-Revision-Date: 2014-12-16 11:08+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Serbian (Serbia) (http://www.transifex.com/projects/p/skype-translation-project/language/sr_RS/)\n"
 "MIME-Version: 1.0\n"
@@ -1200,7 +1200,7 @@ msgstr "Мрежа је заузета"
 msgctxt "sINFORM_PASSWORD_OUTDATED_LOGOFF"
 msgid ""
 "You recently changed your password. Please sign in with your new password."
-msgstr ""
+msgstr "Недавно сте променили лозинку. Молим пријавите се са новом лозинком."
 
 msgctxt "sINFORM_UIC_FAILED_LOGOFF"
 msgid ""
@@ -3726,7 +3726,7 @@ msgstr "Аутор:"
 
 msgctxt "sF_CHAT_INFO_LB_ADMIN"
 msgid "Administrators:"
-msgstr ""
+msgstr "Администратори:"
 
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
@@ -4342,7 +4342,7 @@ msgstr "Додај све у контакте"
 
 msgctxt "sZAPBUTTON_ADDTOGROUP"
 msgid "Add to Group"
-msgstr ""
+msgstr "Додај у групу"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -4350,11 +4350,11 @@ msgstr "Додај у конференцијски позив"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
 msgid "Add to group call"
-msgstr ""
+msgstr "Додај у конференцијски позив"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCERINGING"
 msgid "Add to group call"
-msgstr ""
+msgstr "Додај у конференцијски позив"
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
@@ -4394,7 +4394,7 @@ msgstr "Позови"
 
 msgctxt "sZAPBUTTON_CALLMULTIPLE"
 msgid "Call"
-msgstr ""
+msgstr "Позови"
 
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
@@ -4406,7 +4406,7 @@ msgstr "Позови групу"
 
 msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
 msgid "Copy conversation link"
-msgstr ""
+msgstr "Копирај линк за разговор"
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
@@ -4606,7 +4606,7 @@ msgstr "Одбиј"
 
 msgctxt "sZAPBUTTON_DECLINECALL"
 msgid "Decline"
-msgstr ""
+msgstr "Одбиј"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -4770,7 +4770,7 @@ msgstr "Остало"
 
 msgctxt "sZAPBUTTON_ADDPEOPLE"
 msgid "Add people"
-msgstr ""
+msgstr "Додај особе"
 
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
@@ -4854,7 +4854,7 @@ msgstr "Сазнајте више"
 
 msgctxt "sZAPBUTTON_LEAVECONVERSATION"
 msgid "Leave conversation"
-msgstr ""
+msgstr "Напусти разговор"
 
 msgctxt "sZAPBUTTON_LOCATEFILE"
 msgid "Locate"
@@ -4866,7 +4866,7 @@ msgstr "Само МПВ"
 
 msgctxt "sZAPBUTTON_MERGECALLS"
 msgid "Merge calls"
-msgstr ""
+msgstr "Споји позиве"
 
 msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
@@ -5026,19 +5026,19 @@ msgstr "Пошаљи датотеку"
 
 msgctxt "sZAPBUTTON_SENDIMAGE"
 msgid "Send image"
-msgstr ""
+msgstr "Пошаљи слику"
 
 msgctxt "sZAPBUTTON_SENDCONTACTS"
 msgid "Send contacts"
-msgstr ""
+msgstr "Пошаљи контакте"
 
 msgctxt "sZAPBUTTON_ENTRYTOOLBAREXPAND"
 msgid "More"
-msgstr ""
+msgstr "Више"
 
 msgctxt "sZAPBUTTON_ENTRYTOOLBARCOLLAPSE"
 msgid "Less"
-msgstr ""
+msgstr "Мање"
 
 msgctxt "sZAPBUTTON_SETAVATAR"
 msgid "Set as my picture"
@@ -5066,7 +5066,7 @@ msgstr "Уклони"
 
 msgctxt "sZAPBUTTON_PLUS"
 msgid "More"
-msgstr ""
+msgstr "Више"
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
@@ -5114,19 +5114,19 @@ msgstr "Репродукуј видео поруку"
 
 msgctxt "sZAPBUTTON_POPOUTPLAY"
 msgid "Play voice message"
-msgstr ""
+msgstr "Емитуј гласовну поруку"
 
 msgctxt "sZAPBUTTON_POPOUTPAUSE"
 msgid "Pause voice message"
-msgstr ""
+msgstr "Паузирај гласовну поруку"
 
 msgctxt "sZAPBUTTON_POPOUTSTOP"
 msgid "Stop voice message"
-msgstr ""
+msgstr "Заустави гласовну поруку"
 
 msgctxt "sZAPBUTTON_POPOUTRELOAD"
 msgid "Reload voice message"
-msgstr ""
+msgstr "Понови гласовну поруку"
 
 msgctxt "sZAPBUTTON_SHOWPICTURE"
 msgid "Show Picture"
@@ -5162,7 +5162,7 @@ msgstr "Прикажи профил"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View my account"
-msgstr ""
+msgstr "Прикажи мој налог"
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -5218,7 +5218,7 @@ msgstr "Тренутна порука"
 
 msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
 msgid "IM"
-msgstr ""
+msgstr "ИМ"
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
@@ -5318,31 +5318,31 @@ msgstr "Не, хвала"
 
 msgctxt "sZAPBUTTON_SENDQUALITYFEEDBACK"
 msgid "Send quality feedback"
-msgstr ""
+msgstr "Пошаљи повратне информације о квалитету"
 
 msgctxt "sZAPBUTTON_CLOSEWINDOW"
 msgid "Close"
-msgstr ""
+msgstr "Затвори"
 
 msgctxt "sZAPBUTTON_CM_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "Настави позив"
 
 msgctxt "sZAPBUTTON_REMOVEFROMFAVOURITESBTN"
 msgid "Remove contact from favourites"
-msgstr ""
+msgstr "Уклони контакте са листе омиљеног"
 
 msgctxt "sZAPBUTTON_ADDTOFAVOURITESBTN"
 msgid "Add contact to favourites"
-msgstr ""
+msgstr "Додај контакте у омиљено"
 
 msgctxt "sZAPBUTTON_SEARCHSKYPE"
 msgid "Search Skype"
-msgstr ""
+msgstr "Претражи Скајп"
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "Довршено"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5811,7 +5811,7 @@ msgstr "Приватност..."
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
 msgid "My account"
-msgstr ""
+msgstr "Мој налог"
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -6179,7 +6179,7 @@ msgctxt "sTRANSFERFAILURE_TOO_MANY_PARALLEL"
 msgid ""
 "You cannot send any more files until your existing file transfers have "
 "finished."
-msgstr ""
+msgstr "Не можете слати фајлове док се не заврши постојећи пренос."
 
 msgctxt "sMESSAGE_FAILED"
 msgid "Delivery failed"
@@ -6198,7 +6198,7 @@ msgid ""
 "Instant messaging isn't currently available. This may be resolved shortly "
 "once the chat has updated, or the other person may be using an older version"
 " of Skype which doesn't support calling and IM at the same time."
-msgstr ""
+msgstr "Слање порука није тренутно доступно. То се може брзо решити ажурирањем или друга особа можда користи старију верзију Скајпа која не подржава позив и ћаскање у исто време."
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS2"
 msgid "Sorry, there are too many people to make this call"
@@ -6288,7 +6288,7 @@ msgstr "%d разговора"
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
 msgid "Call ended"
-msgstr ""
+msgstr "Позив завршен"
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
@@ -6351,7 +6351,7 @@ msgstr "Подразумевани приказ"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
 msgid "Split Window View"
-msgstr ""
+msgstr "Подели изглед прозора"
 
 msgctxt "sTRAYALERT_NONEW"
 msgid "No new conversations"
@@ -8146,7 +8146,7 @@ msgctxt "sSKYACCESS_LOGIN_FAILURE_MSG"
 msgid ""
 "Unable to sign in, Check your Skype Name and password are correct and try "
 "again."
-msgstr ""
+msgstr "Није могућа пријава, проверите ваше Скајп име и лозинку и пробајте поново."
 
 msgctxt "sCQ_INDICATOR_MIC_BUTTON_HINT"
 msgid "Microphone"
@@ -10409,7 +10409,7 @@ msgstr "Потражите корисника <a href=\"x\">%s на Skypeу</a>"
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Type a message here"
-msgstr ""
+msgstr "Унесите поруку овде"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -10731,7 +10731,7 @@ msgstr "Зовете често? Уштедите много...<br/>• Најн
 
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage my account"
-msgstr ""
+msgstr "Управљај налогом"
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"

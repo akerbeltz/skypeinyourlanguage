@@ -1,7 +1,6 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# Adriano <biason.adriano@gmail.com>, 2014
 # Michael Bauer, 2014
 # Michael Bauer, 2014
 msgid ""
@@ -9,42 +8,42 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2014-12-21 22:22+0000\n"
-"Last-Translator: Adriano <biason.adriano@gmail.com>\n"
-"Language-Team: Friulian (http://www.transifex.com/projects/p/skype-translation-project/language/fur/)\n"
+"PO-Revision-Date: 2014-12-17 19:39+0000\n"
+"Last-Translator: Michael Bauer\n"
+"Language-Team: Xhosa (http://www.transifex.com/projects/p/skype-translation-project/language/xh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fur\n"
+"Language: xh\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr "In linie"
+msgstr "Kwi-intanethi"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr "Linee studade"
+msgstr "Ngaphandle kweintanethi"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
-msgstr "Vie"
+msgstr "Akakho"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "No stâ disturbâ"
+msgstr "Musa ukuphhazamisa"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
-msgstr "Invisibil"
+msgstr "Engabonakaliyo"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr "Non rispuint"
+msgstr "Akukho mpendulo"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
-msgstr "Impegnât"
+msgstr "Xakekile"
 
 msgctxt "sQUIT_PROMPT"
 msgid ""
@@ -53,11 +52,11 @@ msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_REJECT"
 msgid "Reject"
-msgstr "Refudâ"
+msgstr ""
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "&Jutori"
+msgstr "&uNcedo"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
@@ -69,39 +68,39 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "Clamade"
+msgstr "Fowuna"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
-msgstr "Mande IM"
+msgstr "Thumela i-IM"
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Viôt profil"
+msgstr "Bona iprofayile"
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
-msgstr "Rinomine..."
+msgstr "Thiya igama elitsha..."
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr "Gjave dai Contats"
+msgstr ""
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
-msgstr "Met tai Contats"
+msgstr "Yongeza kwabaqhagamshelwayo"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
-msgstr "In linee stât"
+msgstr "Ubume okwiintanethi"
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
-msgstr "Vierz Skype"
+msgstr "Vula i-Skype"
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr "Jessî"
+msgstr ""
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
@@ -109,7 +108,7 @@ msgstr ""
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
-msgstr "Skype"
+msgstr ""
 
 msgctxt "sTRAYHINT_CONN_CONNECTING"
 msgid "Connecting"
@@ -117,15 +116,15 @@ msgstr ""
 
 msgctxt "sTRAYHINT_USER_OFFLINE"
 msgid "Offline"
-msgstr "Linee studade"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_ONLINE"
 msgid "Online"
-msgstr "In linie"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_AWAY"
 msgid "Away"
-msgstr "Vie"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
@@ -133,11 +132,11 @@ msgstr ""
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
-msgstr "No stâ disturbâ"
+msgstr ""
 
 msgctxt "sTRAYHINT_USER_INVISIBLE"
 msgid "Invisible"
-msgstr "Invisibil"
+msgstr ""
 
 msgctxt "sTRAYHINT_PROFILE_LOGGED_OUT"
 msgid "Not Connected"
@@ -158,7 +157,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
-msgstr "Profil par %s"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_FULLNAME"
 msgid "Full name"
@@ -166,7 +165,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_LANGUAGE"
 msgid "Language"
-msgstr "Lenghe"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_HOMEPHONE"
 msgid "Home phone"
@@ -198,15 +197,15 @@ msgstr ""
 
 msgctxt "sSEX_FEMALE"
 msgid "Female"
-msgstr "Femine"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_USERNAME"
 msgid "Skype Name"
-msgstr "Skype non"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LABEL_PASSWORD"
 msgid "Password"
-msgstr "Password"
+msgstr ""
 
 msgctxt "sF_USERENTRY_LINK_RECOVER_PASSWORD"
 msgid "Forgot your password?"
@@ -214,7 +213,7 @@ msgstr ""
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
 msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype and/or Microsoft"
+msgstr ""
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -226,7 +225,7 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_LANGUAGE"
 msgid "Language"
-msgstr "Lenghe"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_COUNTRY"
 msgid "Country/Region"
@@ -234,7 +233,7 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_CITY"
 msgid "City"
-msgstr "Citât"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_OFFICEPHONE"
 msgid "Office phone"
@@ -282,31 +281,31 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
-msgstr "clamade in spiete"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_23"
 msgid "hang up"
-msgstr "Picje"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_25"
 msgid "contact online"
-msgstr "contats in linee"
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
-msgstr "Salvâ "
+msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_OPTIONS_CAPTION"
 msgid "- Options"
-msgstr "- Opzions"
+msgstr ""
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
 msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype and/or Microsoft"
+msgstr ""
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -344,15 +343,15 @@ msgstr ""
 
 msgctxt "sCALL_LB2_MYHOLD"
 msgid "Call on hold"
-msgstr "Clamade in spiete"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr "Met la clamade in spiete"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr "Torne a cjapâ la clamade"
+msgstr ""
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
@@ -368,7 +367,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
-msgstr "Sierâ"
+msgstr ""
 
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
@@ -388,23 +387,23 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_CBNOMORE"
 msgid "Do not ask me again"
-msgstr "No sta domandami ancemo"
+msgstr ""
 
 msgctxt "sF_CONFIRM_YES"
 msgid "Yes"
-msgstr "Si"
+msgstr ""
 
 msgctxt "sF_CONFIRM_CANCEL"
 msgid "&Cancel"
-msgstr "&Scancele "
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_OK"
 msgid "OK"
-msgstr "Va ben"
+msgstr ""
 
 msgctxt "sF_RENAMEUSER_CANCEL"
 msgid "&Cancel"
-msgstr "&Scancele "
+msgstr ""
 
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
@@ -412,7 +411,7 @@ msgstr ""
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
-msgstr "Informazion"
+msgstr ""
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
@@ -420,7 +419,7 @@ msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_CAPTION"
 msgid "Change password"
-msgstr "Cambiê password"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT1"
 msgid "Enter current password"
@@ -440,7 +439,7 @@ msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_BTN2_TEXT"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
@@ -450,7 +449,7 @@ msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
-msgstr "Cambiê password"
+msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT6"
 msgid "The old password you entered is not valid. Please try again."
@@ -468,19 +467,19 @@ msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
-msgstr "Mande"
+msgstr "Thumela"
 
 msgctxt "sYESTERDAY"
 msgid "Yesterday"
-msgstr "Îr"
+msgstr "Izolo"
 
 msgctxt "sTODAY"
 msgid "Today"
-msgstr "Uê"
+msgstr "Namhlanje"
 
 msgctxt "sDURATION"
 msgid "Duration"
-msgstr "Durade"
+msgstr "Ubude bexesha"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
@@ -522,7 +521,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
-msgstr "Microfon"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB21"
 msgid "Speakers"
@@ -548,11 +547,11 @@ msgstr ""
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
-msgstr "Selezione dut"
+msgstr ""
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr "Furlan"
+msgstr "isiXhosa"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -586,11 +585,11 @@ msgstr ""
 
 msgctxt "sHOTKEY_ANSWER"
 msgid "Answer call"
-msgstr "Rispuint a la clamade"
+msgstr ""
 
 msgctxt "sHOTKEY_IGNORE"
 msgid "Ignore call"
-msgstr "Ignorâ la clamade"
+msgstr ""
 
 msgctxt "sHOTKEY_HANGUP"
 msgid "Hang up"
@@ -602,7 +601,7 @@ msgstr ""
 
 msgctxt "sHOTKEY_SEARCH"
 msgid "Search for people on Skype"
-msgstr "Cîr int su Skype"
+msgstr ""
 
 msgctxt "sF_HOTKEYEDIT_CAPTION"
 msgid "Set hotkey for %s"
@@ -658,23 +657,23 @@ msgstr ""
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr "Linee studade"
+msgstr "Ngaphandle kweintanethi"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
-msgstr "In linie"
+msgstr "Kwi-intanethi"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
-msgstr "Vie"
+msgstr "Akakho"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr "No stâ disturbâ"
+msgstr "Musa ukuphhazamisa"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
-msgstr "Blocát"
+msgstr "Iblokiwe"
 
 msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
@@ -694,7 +693,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SAVE"
 msgid "Save as..."
-msgstr "Salve cul non"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_APPLY"
 msgid "Apply"
@@ -712,11 +711,11 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
-msgstr "No"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_COMMENT"
 msgid "Comment"
-msgstr "Coment"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_ORIGINAL"
 msgid "Original"
@@ -772,7 +771,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
-msgstr "Permet clamadis da..."
+msgstr ""
 
 msgctxt "sF_OPTIONS_RG1_1"
 msgid "anyone"
@@ -858,11 +857,11 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_CAP"
 msgid "Save changes?"
-msgstr "Salve i cambiamens?"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_TITLE"
 msgid "Save changes?"
-msgstr "Salve i cambiamens?"
+msgstr ""
 
 msgctxt "sLAST_SEEN"
 msgid "last seen:"
@@ -870,7 +869,7 @@ msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_CONF_REMOTE_HANGUP"
 msgid "Leave group call"
-msgstr "Lase la clamade di grup"
+msgstr ""
 
 msgctxt "sAVATAR_MENUITEM_CONF_INCOMING_REJECT"
 msgid "Reject group call"
@@ -894,11 +893,11 @@ msgstr ""
 
 msgctxt "sCALL_LB2_BUSY"
 msgid "Busy"
-msgstr "Impegnât"
+msgstr ""
 
 msgctxt "sF_STARTCONF_TITLE"
 msgid "Start a group call"
-msgstr "Scomence une clamade di grup"
+msgstr ""
 
 msgctxt "sF_STARTCONF_ALL_CONTACTS_LABEL"
 msgid "Choose contacts"
@@ -922,7 +921,7 @@ msgstr ""
 
 msgctxt "sF_STARTCONF_CANCEL_BUTTON"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sDEFAULT_CONFERENCE_TOPIC"
 msgid "Enter a topic for the conversation"
@@ -1011,11 +1010,11 @@ msgstr ""
 
 msgctxt "sF_HOTKEY_EDITOR_OK"
 msgid "OK"
-msgstr "Va ben"
+msgstr ""
 
 msgctxt "sF_HOTKEY_EDITOR_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
@@ -1031,7 +1030,7 @@ msgstr ""
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr "Clamade Skype"
+msgstr "Iminxeba ye-Skype"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1089,7 +1088,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_SAVEDLG_TITLE"
 msgid "Save"
-msgstr "Salvâ "
+msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT"
 msgid ""
@@ -1118,11 +1117,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
-msgstr "Scancelât"
+msgstr "Iyekiwe"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr "No lè stât mandât"
+msgstr ""
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1167,7 +1166,7 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10487"
 msgid "Busy"
-msgstr "Impegnât"
+msgstr ""
 
 msgctxt "sPSTN_RES_10500"
 msgid "Phone network error"
@@ -1256,7 +1255,7 @@ msgstr ""
 
 msgctxt "sF_STARTCHAT_INVITE_BUTTON"
 msgid "Add"
-msgstr "Zonte"
+msgstr ""
 
 msgctxt "sPSTN_RES_1000"
 msgid "Sorry, call failed."
@@ -1268,11 +1267,11 @@ msgstr ""
 
 msgctxt "sACL_CHANGE"
 msgid "Change"
-msgstr "Cambiê"
+msgstr ""
 
 msgctxt "sACL_OK"
 msgid "OK"
-msgstr "Va ben"
+msgstr ""
 
 msgctxt "sACL_REMOVE"
 msgid "Remove"
@@ -1292,7 +1291,7 @@ msgstr ""
 
 msgctxt "sACL_NAME"
 msgid "Name"
-msgstr "Non"
+msgstr ""
 
 msgctxt "sACL_PUBLISHER"
 msgid "Publisher"
@@ -1324,7 +1323,7 @@ msgstr ""
 
 msgctxt "sACL_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_APIACL"
 msgid "Manage other programs' access to Skype"
@@ -1344,7 +1343,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFERSEND_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sFILETRANSFERSEND_LB_SELECT"
 msgid "Select who you want to send the file (%s) to and press Send."
@@ -1398,7 +1397,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr "Mande un mesaç a vôs"
+msgstr "Thumela imiyalezo yelizwi"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this conversation?"
@@ -1478,7 +1477,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_PASSWORD"
 msgid "Password"
-msgstr "Password"
+msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
@@ -1502,11 +1501,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_2"
 msgid "1 month"
-msgstr ""
+msgstr "Innyanga e-1"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_3"
 msgid "3 months"
-msgstr ""
+msgstr "Iinyanga ezi-3"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_4"
 msgid "forever"
@@ -1565,7 +1564,7 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_DELETE"
 msgid "Delete"
-msgstr "Scancele"
+msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_SELECTALL"
 msgid "Select all"
@@ -1774,7 +1773,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
-msgstr "Va ben"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LB_CALL"
 msgid "Call settings"
@@ -1845,7 +1844,7 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_CAPTION2"
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_DAY"
 msgid "Day"
@@ -1853,11 +1852,11 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_MONTH"
 msgid "Month"
-msgstr ""
+msgstr "iNyanga"
 
 msgctxt "sF_USERPROFILE_LB_YEAR"
 msgid "Year"
-msgstr ""
+msgstr "Unyaka"
 
 msgctxt "sCONTACT_GROUP_BLOCKED"
 msgid "Blocked contacts"
@@ -1891,51 +1890,51 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
-msgstr "Zenâr"
+msgstr "eyoMqungu"
 
 msgctxt "sF_USERPROFILE_MONTHNAME2"
 msgid "February"
-msgstr "Fevrâr"
+msgstr "eyoMdumba"
 
 msgctxt "sF_USERPROFILE_MONTHNAME3"
 msgid "March"
-msgstr "Març"
+msgstr "eyoKwindla"
 
 msgctxt "sF_USERPROFILE_MONTHNAME4"
 msgid "April"
-msgstr "Avrîl"
+msgstr "ekaTshazimpuzi"
 
 msgctxt "sF_USERPROFILE_MONTHNAME5"
 msgid "May"
-msgstr "Mai"
+msgstr "ekaCanzibe"
 
 msgctxt "sF_USERPROFILE_MONTHNAME6"
 msgid "June"
-msgstr "Jugn"
+msgstr "eyeSilimela"
 
 msgctxt "sF_USERPROFILE_MONTHNAME7"
 msgid "July"
-msgstr "Lui"
+msgstr "eyeKhala"
 
 msgctxt "sF_USERPROFILE_MONTHNAME8"
 msgid "August"
-msgstr "Avost"
+msgstr "eyeThupha"
 
 msgctxt "sF_USERPROFILE_MONTHNAME9"
 msgid "September"
-msgstr "Setembar"
+msgstr "eyoMsintsi"
 
 msgctxt "sF_USERPROFILE_MONTHNAME10"
 msgid "October"
-msgstr "Otubar"
+msgstr "eyeDwara"
 
 msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
-msgstr "Novembar"
+msgstr "eyeNkanga"
 
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr "Dicembar"
+msgstr "eyoMnga"
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -1970,7 +1969,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_ADD"
 msgid "Add contact"
-msgstr "Zonte contat"
+msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_NOT_FOUND"
 msgid ""
@@ -2014,7 +2013,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_BTN_CLOSE"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT1"
 msgid "Skype ringtone (Modern)"
@@ -2745,7 +2744,7 @@ msgstr ""
 
 msgctxt "sDIALPAD"
 msgid "Call phones"
-msgstr "Clame i telefons"
+msgstr ""
 
 msgctxt "sF_SMS_STATUS_CREDIT"
 msgid "Not enough Skype Credit."
@@ -2753,7 +2752,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr "Mande SMS mesaç"
+msgstr "Thumela i-SMS"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
@@ -2829,11 +2828,11 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SEARCH"
 msgid "Search"
-msgstr "Cîr"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_SEARCH_AGAIN"
 msgid "Search again"
-msgstr "Cîr ancemo"
+msgstr ""
 
 msgctxt "sF_TRANSLATE_NOT_FOUND"
 msgid "Sorry, string not found."
@@ -2907,7 +2906,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_DOWNLOAD"
 msgid "Download"
@@ -3018,7 +3017,7 @@ msgstr ""
 
 msgctxt "sF_INPUT_FORM_SAVE"
 msgid "Save"
-msgstr "Salvâ "
+msgstr ""
 
 msgctxt "sF_INPUT_FORM_NOTE"
 msgid "Enter phone number in %s (with area code)."
@@ -3090,7 +3089,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_COUNTRY_CAPTION"
 msgid "Start call"
-msgstr "Scomence la clamade"
+msgstr ""
 
 msgctxt "sF_CONFIRM_COUNTRY_HEADER"
 msgid "You are about to call a phone or mobile number"
@@ -3118,7 +3117,7 @@ msgstr ""
 
 msgctxt "sCHAT_TOOLBAR_FIND_HINT"
 msgid "Type the phrase to search for"
-msgstr "Scrîf il test da cirí"
+msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_PROMOTIONS"
 msgid "Promotions"
@@ -3146,7 +3145,7 @@ msgstr ""
 
 msgctxt "sF_STRING_EDIT_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_TRANSLATE_TITLE"
 msgid "Language file editor"
@@ -3154,7 +3153,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sBASIC_SMILEY"
 msgid "Smile"
@@ -3274,7 +3273,7 @@ msgstr ""
 
 msgctxt "sCALL_SMILEY"
 msgid "Call"
-msgstr "Clamade"
+msgstr ""
 
 msgctxt "sDEVIL_SMILEY"
 msgid "Devil"
@@ -3546,7 +3545,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_RB1"
 msgid "Notify me"
@@ -3602,7 +3601,7 @@ msgstr ""
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
-msgstr "Clame il grup"
+msgstr ""
 
 msgctxt "sCHAT_MEMBER_JOINED"
 msgid "%s joined."
@@ -3785,7 +3784,7 @@ msgstr ""
 
 msgctxt "sF_CALL_QLT_BTN_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_CALL_QLT_BTN_FINISH"
 msgid "Finish"
@@ -3841,11 +3840,11 @@ msgstr ""
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
-msgstr "%s clamant"
+msgstr ""
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
-msgstr "Distude il microfon"
+msgstr ""
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
@@ -4086,7 +4085,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CALLS"
 msgid "Calls"
-msgstr "Clamadis"
+msgstr ""
 
 msgctxt "sF_OPTIONS_LINK_BUY_WEBCAM"
 msgid "Buy a webcam from the Skype shop"
@@ -4200,7 +4199,7 @@ msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_SAVE"
 msgid "Save As"
-msgstr "Salve cul non"
+msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_SAVE_ERROR"
 msgid "Source file is invalid or does not exist"
@@ -4240,7 +4239,7 @@ msgstr ""
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr "Finìs la clamade"
+msgstr "Phelisa umnxeba"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
@@ -4362,15 +4361,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
-msgstr "Rispuint"
+msgstr "Phendula"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
-msgstr "Rispuint cul video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr "Acete"
+msgstr "Yamkela"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
@@ -4390,19 +4389,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
-msgstr "Clamade"
+msgstr "Fowuna"
 
 msgctxt "sZAPBUTTON_CALLMULTIPLE"
 msgid "Call"
-msgstr "Clamade"
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
-msgstr "Zone a la clamade"
+msgstr ""
 
 msgctxt "sZAPBUTTON_CALLGROUP"
 msgid "Call group"
-msgstr "Clame il grup"
+msgstr ""
 
 msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
 msgid "Copy conversation link"
@@ -4542,11 +4541,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLPHONES"
 msgid "Call phones"
-msgstr ""
+msgstr "Lifowuni zomnxeba"
 
 msgctxt "sZAPBUTTON_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
@@ -4590,11 +4589,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
-msgstr "Contas"
+msgstr "Abaqhagamshelwa"
 
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
-msgstr "Contas"
+msgstr "Abaqhagamshelwa"
 
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
@@ -4602,7 +4601,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
-msgstr "Refude"
+msgstr "Khaba"
 
 msgctxt "sZAPBUTTON_DECLINECALL"
 msgid "Decline"
@@ -4806,11 +4805,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
-msgstr "Finìs la clamade"
+msgstr "Phelisa umnxeba"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr "Clamade"
+msgstr "Fowuna"
 
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
@@ -4822,7 +4821,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr ""
+msgstr "eKhaya"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -4886,7 +4885,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr "vie Skype"
+msgstr " Igqitha kwi-Skype"
 
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
@@ -4982,11 +4981,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr "Torne a cjapâ la clamade"
+msgstr ""
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr "Torne a discjamâ"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -4994,35 +4993,35 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVE"
 msgid "Save"
-msgstr "Salvâ "
+msgstr ""
 
 msgctxt "sZAPBUTTON_SAVEALL"
 msgid "Save all"
-msgstr "Salvâ dut"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
-msgstr "Salvâ dut"
+msgstr "Gcina konke"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
-msgstr "Salve i contats"
+msgstr "Gcina umqhagamshelwa"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
-msgstr "Scancele dut"
+msgstr "Yekisa konke"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
-msgstr "Salve cul non"
+msgstr "Gcina njenge"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
-msgstr "Viôt il gno video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr "Mande file"
+msgstr "Thumela iifayile"
 
 msgctxt "sZAPBUTTON_SENDIMAGE"
 msgid "Send image"
@@ -5070,7 +5069,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
-msgstr "Mandâ"
+msgstr "Thumela"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5090,27 +5089,27 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
-msgstr "Mande SMS"
+msgstr "Thumela i-SMS"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr "Video clamade"
+msgstr "Umnxeba wevidiyo"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr "Video clamade"
+msgstr "Umnxeba wevidiyo"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr "Video mesaç"
+msgstr "Umyalezo wevidiyo"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr "Mande video mesaç"
+msgstr ""
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr "Viôt video mesaç"
+msgstr ""
 
 msgctxt "sZAPBUTTON_POPOUTPLAY"
 msgid "Play voice message"
@@ -5138,7 +5137,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEARCHDIRECTORY"
 msgid "Search Directory"
-msgstr "Cîr cartele"
+msgstr ""
 
 msgctxt "sZAPBUTTON_STOPRECORD"
 msgid "Stop recording"
@@ -5158,7 +5157,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Viôt profil"
+msgstr "Bona iprofayile"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View my account"
@@ -5170,19 +5169,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr "Impie il video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr "Distude il video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr "Distude il video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr "Ten su il video"
+msgstr ""
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -5194,7 +5193,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
-msgstr "Condivît i schermis..."
+msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTOPSHARING"
 msgid "Stop sharing"
@@ -5206,7 +5205,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGCANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGOPTIONS"
 msgid "Screensharing options"
@@ -5338,11 +5337,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEARCHSKYPE"
 msgid "Search Skype"
-msgstr "Cîr Skype"
+msgstr ""
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr "Fat"
+msgstr "Igqibile"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5372,11 +5371,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_INCOMING"
 msgid "Call from %s"
-msgstr "Clamade da %s"
+msgstr ""
 
 msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
-msgstr "Clamade a %s"
+msgstr ""
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
@@ -5384,7 +5383,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_END"
 msgid "Call ended"
-msgstr "Clamade finide"
+msgstr ""
 
 msgctxt "sCONFIRM_MUST_UPGRADE_HQVIDEO"
 msgid ""
@@ -5406,7 +5405,7 @@ msgstr ""
 
 msgctxt "sCONV_BOOKMARK"
 msgid "Save Group in Your Contacts"
-msgstr "Salve il grup tai contats"
+msgstr ""
 
 msgctxt "sCONV_UNBOOKMARK"
 msgid "Remove From Your Contacts"
@@ -5504,7 +5503,7 @@ msgstr ""
 
 msgctxt "sCONVERSATIONSEARCH_CALLS"
 msgid "Calls"
-msgstr "Clamadis"
+msgstr ""
 
 msgctxt "sCONVERSATIONSEARCH_VOICEMAILS"
 msgid "Voice messages"
@@ -5728,15 +5727,15 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr "Pierdude la clamade da %s."
+msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
-msgstr "Clamade da %s, durade %s."
+msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr "Clamade a %s, durade %s."
+msgstr ""
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -5799,7 +5798,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr "In linee stât"
+msgstr "Ubume okwiintanethi"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -5831,7 +5830,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
-msgstr "Contas"
+msgstr "Abaqhagamshelwa"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
@@ -5855,7 +5854,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr "In linee stât"
+msgstr "Ubume okwiintanethi"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -5951,23 +5950,23 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
-msgstr "Clamade"
+msgstr "Fowuna"
 
 msgctxt "sMAINMENU_CALL_START"
 msgid "Call"
-msgstr "Clamade"
+msgstr "Fowuna"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr "Video clamade"
+msgstr "Umnxeba wevidiyo"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
-msgstr "Rispuint"
+msgstr "Phendula"
 
 msgctxt "sMAINMENU_CALL_IGNORE"
 msgid "Ignore"
-msgstr "Ignorâ"
+msgstr "Sukuyihoya"
 
 msgctxt "sMAINMENU_CALL_MUTE"
 msgid "Mute Microphone"
@@ -6015,19 +6014,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
-msgstr "Viste"
+msgstr "Imbonakalo"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
-msgstr "Contas"
+msgstr "Abaqhagamshelwa"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr "Resint"
+msgstr "Kutshanje"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr "Profil"
+msgstr "iProfayile"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -6035,11 +6034,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr "Strumens"
+msgstr "iZixhobo"
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
-msgstr "Cambie lenghe"
+msgstr "Tshintsha iisetingi zolwimi"
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
@@ -6047,7 +6046,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr "Jutori"
+msgstr "uNcedo"
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
@@ -6131,23 +6130,23 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr "Îr"
+msgstr "Izolo"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr "7 dìs"
+msgstr "Intsuku ezi-7"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr "30 dís"
+msgstr "30 Iintsuku"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr "Dal inizi"
+msgstr "Ukusuka ekuqaleni"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr "Viôt mesaçs da %s"
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -6288,7 +6287,7 @@ msgstr ""
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
 msgid "Call ended"
-msgstr "Clamade finide"
+msgstr ""
 
 msgctxt "sINFORM_DISK_FULL"
 msgid "Disk full"
@@ -6307,7 +6306,7 @@ msgstr ""
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
-msgstr "Mande file a %s"
+msgstr ""
 
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
@@ -6442,7 +6441,7 @@ msgstr ""
 
 msgctxt "sPFOFILE_HEADER_GROUP_SAVED"
 msgid "Group saved"
-msgstr "Grup salvât"
+msgstr ""
 
 msgctxt "sINBOX_HINT_ONE"
 msgid "New conversation, last activity %s ago"
@@ -6546,7 +6545,7 @@ msgstr ""
 
 msgctxt "sCALL_LB2_FINISHED2"
 msgid "Call ended, duration %s"
-msgstr "Clamade finide, durade %s."
+msgstr ""
 
 msgctxt "sEMPTY_GROUP_LABEL2"
 msgid "Drag contacts that you want to add here"
@@ -6554,7 +6553,7 @@ msgstr ""
 
 msgctxt "sSAVE_GROUP_CAPTION"
 msgid "Save group"
-msgstr "Salvâ il grup"
+msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_SMALL"
 msgid "Small"
@@ -6570,7 +6569,7 @@ msgstr ""
 
 msgctxt "sHISTORY_QF_HINT"
 msgid "Search history"
-msgstr "Cîr storie"
+msgstr ""
 
 msgctxt "sHISTORY_FILTER_ALL_EVENTS"
 msgid "All events"
@@ -6945,11 +6944,11 @@ msgstr ""
 
 msgctxt "sPFOFILE_HEADER_SAVE"
 msgid "Save"
-msgstr "Salvâ "
+msgstr ""
 
 msgctxt "sPFOFILE_HEADER_CANCEL"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sPFOFILE_HEADER_EDIT"
 msgid "Edit"
@@ -6997,11 +6996,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_REJECTED_IN"
 msgid "Call from %s declined."
-msgstr "Clamade da %s refudade."
+msgstr ""
 
 msgctxt "sFLOW_CALL_UNANSWERED_OUT"
 msgid "Call to %s, no answer."
-msgstr "Clamade a %s, cence rispueste."
+msgstr ""
 
 msgctxt "sGROUP_CALL_UNANSWERED_IN"
 msgid "Missed group call."
@@ -7097,11 +7096,11 @@ msgstr ""
 
 msgctxt "sBIRTHDAY_TODAY"
 msgid "%s has a birthday today"
-msgstr "Uè al è il complean di %s"
+msgstr ""
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Mande Contats..."
+msgstr ""
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -7196,11 +7195,11 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
-msgstr "Sta sunant"
+msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr "Clamade finide"
+msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -7283,7 +7282,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr "Inseris un emoticon"
+msgstr "Fakela i-emoticon"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -7315,15 +7314,15 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr "Rispuint a la clamade"
+msgstr "Phendula"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr "Ignorâ la clamade"
+msgstr "Sukuyihoya"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr "Picje"
+msgstr "Beka phantsi"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -7518,15 +7517,15 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_3M"
 msgid "3 months"
-msgstr ""
+msgstr "Iinyanga ezi-3"
 
 msgctxt "sCHAT_HISTORY_6M"
 msgid "6 months"
-msgstr ""
+msgstr "6 iinyanga"
 
 msgctxt "sCHAT_HISTORY_12M"
 msgid "1 year"
-msgstr ""
+msgstr "1 unyaka"
 
 msgctxt "sCQ_SENDING_VIDEO"
 msgid "Sending video"
@@ -7538,11 +7537,11 @@ msgstr ""
 
 msgctxt "sCALL_TRANSFER_CANCEL_BTN_TEXT"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_CANCEL_BTN_TEXT"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_DLG_CAPTION"
 msgid "Send contacts"
@@ -8540,11 +8539,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
-msgstr "Cîr Skype cartele"
+msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT_PANEL"
 msgid "Save a Phone Number..."
-msgstr "Salve un numar di telefon"
+msgstr ""
 
 msgctxt "sPREM_VIDEO_DONT_SHOW_AGAIN"
 msgid "Don't show again"
@@ -8638,11 +8637,11 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr "Resint"
+msgstr "Kutshanje"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
-msgstr "Cîr"
+msgstr "ukuSetsha"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
@@ -8765,7 +8764,7 @@ msgstr ""
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr "Viôt i ultims mesaçs"
+msgstr ""
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -9112,7 +9111,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr "Clamade da %s (%s), durade %s."
+msgstr ""
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
@@ -9130,27 +9129,27 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr "Pierdude la clamade da %s (%s)"
+msgstr ""
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr "Clamade da %s (%s) refudade."
+msgstr ""
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
-msgstr "Clamade da %s (%s)"
+msgstr ""
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr "Mande file..."
+msgstr "Thumela iifayile..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
-msgstr "Mande i contas..."
+msgstr ""
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr "Condivît il schermi"
+msgstr ""
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -9264,11 +9263,11 @@ msgstr ""
 
 msgctxt "sCALL_BTN_CALL_PHONE"
 msgid "Call Phone"
-msgstr "Clame il telefon"
+msgstr ""
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr "Zonte un numar di telefon"
+msgstr ""
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -9448,11 +9447,11 @@ msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr "Viôt contas"
+msgstr "Bonisa abaqhagamshelwa"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr "Plate i contats"
+msgstr "Fihla abaqhagamshelwa"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
@@ -9499,7 +9498,7 @@ msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr "clamant"
+msgstr ""
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
@@ -9515,7 +9514,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr "Zonte partecipants, mande files e di plui"
+msgstr ""
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -9928,35 +9927,35 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr "Preferîs"
+msgstr "Ezithandwayo"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
-msgstr "Strassine ca i contats "
+msgstr ""
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr "Sierâ"
+msgstr "Vala"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr "Rinomine"
+msgstr "Thiya igama elitsha"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr "Scancele"
+msgstr "Cima"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr "Met tai preferîs"
+msgstr "Yongeza kwezithandwayo"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr "Gjave dai preferîs"
+msgstr "Shenxisa kwezithandwayo"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr "In linie"
+msgstr "Kwi-intanethi"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -9968,7 +9967,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr "Dut"
+msgstr "Zonke"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -10405,15 +10404,15 @@ msgstr ""
 
 msgctxt "sUPSELL_PANEL_POPUP_SEARCHFRIEND"
 msgid "Search for <a href=\"x\">%s</a> on Skype."
-msgstr "Cîr par <a href=\"x\">%s</a> su Skype."
+msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Type a message here"
-msgstr ""
+msgstr "Chwetheza umyalezo wakho apha"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr "Mande SMS"
+msgstr "Thumela i-SMS"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -10475,7 +10474,7 @@ msgstr ""
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_NOTYET"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
@@ -10563,7 +10562,7 @@ msgstr ""
 
 msgctxt "sQUICK_FILTER_ADD_SKYPE"
 msgid "Search all people on Skype"
-msgstr "Cîr dute la int su Skype"
+msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_SKYPE"
 msgid "Skype"
@@ -11033,15 +11032,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr "Gjave dai preferîs"
+msgstr "Shenxisa kwezithandwayo"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr "Met tai preferîs"
+msgstr "Yongeza kwezithandwayo"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr "Mande video mesaç"
+msgstr "Thumela umyalezo wevidiyo"
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
@@ -11117,7 +11116,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_CANCEL_CAPTION"
 msgid "Cancel"
-msgstr "Scancele "
+msgstr ""
 
 msgctxt "sVIDEOMSG_RECORD_CAPTION"
 msgid "Record"
@@ -11169,7 +11168,7 @@ msgstr ""
 
 msgctxt "sACC_NAME_QF"
 msgid "Search"
-msgstr "Cîr"
+msgstr ""
 
 msgctxt "sACC_NAME_CONTACTS_TAB"
 msgid "All contacts"
@@ -11217,11 +11216,11 @@ msgstr ""
 
 msgctxt "sACC_NAME_SEARCH_EDIT"
 msgid "Search by name, Skype name or email"
-msgstr "Cîr il non, il non di Skype o la pueste"
+msgstr ""
 
 msgctxt "sACC_NAME_SEARCH_RESULTS"
 msgid "Search results"
-msgstr "Cîr risultâs"
+msgstr ""
 
 msgctxt "sACC_NAME_ADD_CONTACT_PANEL_CLOSE"
 msgid "Exit add contacts"
@@ -11355,11 +11354,11 @@ msgstr ""
 
 msgctxt "sACC_MYSELF_PROFILE_BIRTH_MONTH_COMBO_NAME"
 msgid "Month"
-msgstr ""
+msgstr "iNyanga"
 
 msgctxt "sACC_MYSELF_PROFILE_BIRTH_YEAR_COMBO_NAME"
 msgid "Year"
-msgstr ""
+msgstr "Unyaka"
 
 msgctxt "sACC_NAME_CHAT_ENTRY"
 msgid "Type a message here"
@@ -11477,7 +11476,7 @@ msgstr ""
 
 msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_ENDED"
 msgid "Call ended"
-msgstr "Clamade finide"
+msgstr ""
 
 msgctxt "sACC_NAME_LIVE_ITEM_IMAGE_ON_HOLD"
 msgid "Call on hold"
@@ -12382,7 +12381,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
 msgid "Cancel all"
-msgstr "Scancele dut"
+msgstr ""
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
@@ -12628,7 +12627,7 @@ msgstr ""
 
 msgctxt "sSEARCH_WITH_BING"
 msgid "Search with Bing"
-msgstr "Cîr cun Bing"
+msgstr ""
 
 msgctxt "sF_OPTIONS_CB_AUTO_CORRECT"
 msgid "Auto correct and highlight misspelled words"
@@ -12730,11 +12729,11 @@ msgstr ""
 
 msgctxt "sCONTACTS_LINK_CAPS"
 msgid "CONTACTS"
-msgstr "CONTAS"
+msgstr "ABAQHAGAMSHELWA"
 
 msgctxt "sRECENTS_LINK_CAPS"
 msgid "RECENT"
-msgstr "RESINT"
+msgstr "KUTSHANJE"
 
 msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
 msgid "This photo is unavailable"
@@ -12750,7 +12749,7 @@ msgstr ""
 
 msgctxt "sPHOTO_SAVE_AS"
 msgid "Save as..."
-msgstr "Salve cul non"
+msgstr ""
 
 msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
 msgid "To view this shared photo, go to: %1"
@@ -12762,7 +12761,7 @@ msgstr ""
 
 msgctxt "sSEARCHING_SKYPE_DIRECTORY"
 msgid "Searching Skype directory..."
-msgstr "Cirint Skype cartele"
+msgstr ""
 
 msgctxt "sOPTIONS_SHOW_MESSAGE_PREVIEWS"
 msgid "Show message previews in the sidebar"

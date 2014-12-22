@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-12-12 10:50+0000\n"
+"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
+"PO-Revision-Date: 2014-12-16 18:43+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/skype-translation-project/language/eu/)\n"
 "MIME-Version: 1.0\n"
@@ -4541,7 +4541,7 @@ msgstr "*"
 
 msgctxt "sZAPBUTTON_CALLPHONES"
 msgid "Call phones"
-msgstr "Deitu telefonoetara"
+msgstr "Telefonoetara deitu"
 
 msgctxt "sZAPBUTTON_CANCEL"
 msgid "Cancel"
@@ -4821,7 +4821,7 @@ msgstr "Deia zain jarri"
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr "Hasiera"
+msgstr "Etxea"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -10408,7 +10408,7 @@ msgstr "Bilatu <a href=\"x\">%s</a> Skype-n."
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Type a message here"
-msgstr "Bidali mezu bat"
+msgstr "Idatzi mezu bat hemen"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -12671,27 +12671,27 @@ msgstr ""
 
 msgctxt "sVOICEMAIL_PROMPT_TITLE"
 msgid "Send voice message"
-msgstr ""
+msgstr "Bidali ahots-mezua"
 
 msgctxt "sVOICEMAIL_PROMPT_CAP"
 msgid "Voice message"
-msgstr ""
+msgstr "Ahots-mezua"
 
 msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
 msgid "Phone:"
-msgstr ""
+msgstr "Telefonoa:"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER"
 msgid "Edit"
-msgstr ""
+msgstr "Editatu"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
 msgid "Edit %s"
-msgstr ""
+msgstr "Editatu %s"
 
 msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
 msgid "Leave Conversation"
-msgstr ""
+msgstr "Elkarrizketa utzi"
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
 msgid "Limited emergency calling"
@@ -12729,11 +12729,11 @@ msgstr ""
 
 msgctxt "sCONTACTS_LINK_CAPS"
 msgid "CONTACTS"
-msgstr ""
+msgstr "KONTAKTUAK"
 
 msgctxt "sRECENTS_LINK_CAPS"
 msgid "RECENT"
-msgstr ""
+msgstr "AZKENENGOAK"
 
 msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
 msgid "This photo is unavailable"
@@ -12745,11 +12745,11 @@ msgstr ""
 
 msgctxt "sTRAYALERT_PHOTO_MESSAGE"
 msgid "New photo"
-msgstr ""
+msgstr "Irudi berria"
 
 msgctxt "sPHOTO_SAVE_AS"
 msgid "Save as..."
-msgstr ""
+msgstr "Gorde honela..."
 
 msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
 msgid "To view this shared photo, go to: %1"
@@ -12757,7 +12757,7 @@ msgstr ""
 
 msgctxt "sACC_NAME_MYSELF_GRAPHIC"
 msgid "My profile picture"
-msgstr ""
+msgstr "Nire profil-irudia"
 
 msgctxt "sSEARCHING_SKYPE_DIRECTORY"
 msgid "Searching Skype directory..."
@@ -12773,7 +12773,7 @@ msgstr ""
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
 msgid "Give Feedback"
-msgstr ""
+msgstr "Iritzia eman"
 
 msgctxt "sQUICKFILTER_NOTFOUND_SEARCH"
 msgid "No results found for %s"
@@ -12837,7 +12837,7 @@ msgstr ""
 
 msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
 msgid "Birthday today"
-msgstr ""
+msgstr "Urtebetetzea gaur"
 
 msgctxt "sADDCONTACT_PROMPT"
 msgid "Are you sure you want to add contacts: <b>%s</b>?"
@@ -12845,51 +12845,51 @@ msgstr ""
 
 msgctxt "sADDCONTACT_PROMPT_TITLE"
 msgid "Add contacts"
-msgstr ""
+msgstr "Gehitu kontaktua"
 
 msgctxt "sADDCONTACT_PROMPT_CAP"
 msgid "Add contacts"
-msgstr ""
+msgstr "Gehitu kontaktua"
 
 msgctxt "sDIALPAD_MAIN_1"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "sDIALPAD_MAIN_2"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "sDIALPAD_MAIN_3"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "sDIALPAD_MAIN_4"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "sDIALPAD_MAIN_5"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "sDIALPAD_MAIN_6"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "sDIALPAD_MAIN_7"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "sDIALPAD_MAIN_8"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "sDIALPAD_MAIN_9"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "sDIALPAD_MAIN_ASTERISK"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "sDIALPAD_MAIN_0"
 msgid "0"
