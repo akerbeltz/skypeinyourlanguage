@@ -1,12 +1,13 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
+# Michael Bauer, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2014-12-19 00:41+0000\n"
+"PO-Revision-Date: 2014-12-23 13:02+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Zulu (http://www.transifex.com/projects/p/skype-translation-project/language/zu/)\n"
 "MIME-Version: 1.0\n"
@@ -17,31 +18,31 @@ msgstr ""
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr ""
+msgstr "Kuxhunyiwe"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr ""
+msgstr "Akuxhunyiwe"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
-msgstr ""
+msgstr "Angikho"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr ""
+msgstr "Ungaphazamisi"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
-msgstr ""
+msgstr "Akabonakali"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr ""
+msgstr "Akunampendulo"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
-msgstr ""
+msgstr "Kusasebenza"
 
 msgctxt "sQUIT_PROMPT"
 msgid ""
@@ -54,7 +55,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr ""
+msgstr "&Siza"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
@@ -66,19 +67,19 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr ""
+msgstr "Shaya ucingo"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
-msgstr ""
+msgstr "Thumela i-IM"
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr ""
+msgstr "Buka iphrofayela"
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
-msgstr ""
+msgstr "Qamba kabusha..."
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
@@ -86,19 +87,19 @@ msgstr ""
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
-msgstr ""
+msgstr "Engeza kwabaxhumanayo"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "Isimo esingaxhumani"
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
-msgstr ""
+msgstr "Vula iSkype"
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr ""
+msgstr "Phuma"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
@@ -465,19 +466,19 @@ msgstr ""
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
-msgstr ""
+msgstr "Thumela"
 
 msgctxt "sYESTERDAY"
 msgid "Yesterday"
-msgstr ""
+msgstr "Izolo"
 
 msgctxt "sTODAY"
 msgid "Today"
-msgstr ""
+msgstr "Namhlanje"
 
 msgctxt "sDURATION"
 msgid "Duration"
-msgstr ""
+msgstr "Ubude besakhathi"
 
 msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
@@ -549,7 +550,7 @@ msgstr ""
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr ""
+msgstr "isiZulu"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -655,23 +656,23 @@ msgstr ""
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr ""
+msgstr "Akuxhunyiwe"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
-msgstr ""
+msgstr "Kuxhunyiwe"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
-msgstr ""
+msgstr "Angikho"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr ""
+msgstr "Ungaphazamisi"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
-msgstr ""
+msgstr "Vinjiwe"
 
 msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
@@ -1028,7 +1029,7 @@ msgstr ""
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr ""
+msgstr "Ucingo iwe-Skype"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1115,7 +1116,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
-msgstr ""
+msgstr "Kukhanseliwe"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
@@ -1395,7 +1396,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr ""
+msgstr "Thumela umlayezo wezwi"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this conversation?"
@@ -1888,51 +1889,51 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
-msgstr ""
+msgstr "uMasingana"
 
 msgctxt "sF_USERPROFILE_MONTHNAME2"
 msgid "February"
-msgstr ""
+msgstr "uNhlolanja"
 
 msgctxt "sF_USERPROFILE_MONTHNAME3"
 msgid "March"
-msgstr ""
+msgstr "uNdasa"
 
 msgctxt "sF_USERPROFILE_MONTHNAME4"
 msgid "April"
-msgstr ""
+msgstr "uMbasa"
 
 msgctxt "sF_USERPROFILE_MONTHNAME5"
 msgid "May"
-msgstr ""
+msgstr "uNhlaba"
 
 msgctxt "sF_USERPROFILE_MONTHNAME6"
 msgid "June"
-msgstr ""
+msgstr "uNhlangulana"
 
 msgctxt "sF_USERPROFILE_MONTHNAME7"
 msgid "July"
-msgstr ""
+msgstr "uNtilikazi"
 
 msgctxt "sF_USERPROFILE_MONTHNAME8"
 msgid "August"
-msgstr ""
+msgstr "uNcwaba"
 
 msgctxt "sF_USERPROFILE_MONTHNAME9"
 msgid "September"
-msgstr ""
+msgstr "uMandulo"
 
 msgctxt "sF_USERPROFILE_MONTHNAME10"
 msgid "October"
-msgstr ""
+msgstr "uMfumfu"
 
 msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
-msgstr ""
+msgstr "uLwezi"
 
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr ""
+msgstr "uZibandlela"
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -2750,7 +2751,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr ""
+msgstr "Thumela i-SMS"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
@@ -4237,7 +4238,7 @@ msgstr ""
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr ""
+msgstr "Vala ucingo"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
@@ -4359,7 +4360,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
-msgstr ""
+msgstr "Phendula"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
@@ -4367,7 +4368,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr ""
+msgstr "Vuma"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
@@ -4387,7 +4388,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
-msgstr ""
+msgstr "Shaya ucingo"
 
 msgctxt "sZAPBUTTON_CALLMULTIPLE"
 msgid "Call"
@@ -4539,7 +4540,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALLPHONES"
 msgid "Call phones"
-msgstr ""
+msgstr "Shayela izingcingo"
 
 msgctxt "sZAPBUTTON_CANCEL"
 msgid "Cancel"
@@ -4587,11 +4588,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Abathintwayo"
 
 msgctxt "sZAPBUTTON_CONTACTSTOGGLE"
 msgid "Contacts"
-msgstr ""
+msgstr "Abathintwayo"
 
 msgctxt "sZAPBUTTON_CREATEGROUP"
 msgid "Create a Group"
@@ -4599,7 +4600,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DECLINE"
 msgid "Decline"
-msgstr ""
+msgstr "Enqaba"
 
 msgctxt "sZAPBUTTON_DECLINECALL"
 msgid "Decline"
@@ -4803,7 +4804,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
-msgstr ""
+msgstr "Vala ucingo"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
@@ -4819,7 +4820,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr ""
+msgstr "iKhaya"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -4883,7 +4884,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr ""
+msgstr "nge Skype"
 
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
@@ -4999,7 +5000,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
-msgstr ""
+msgstr "Londoloza konke"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
@@ -5007,11 +5008,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "Khansela konke"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
-msgstr ""
+msgstr "Londoloza njenge"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
@@ -5019,7 +5020,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr ""
+msgstr "Thumela ifayela"
 
 msgctxt "sZAPBUTTON_SENDIMAGE"
 msgid "Send image"
@@ -5067,7 +5068,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Thumela"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5087,27 +5088,27 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "Thumela i-SMS"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr ""
+msgstr "Ucingo levidiyo"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr ""
+msgstr "Ucingo levidiyo"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
-msgstr ""
+msgstr "Umyalezo we-vidiyo"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "Thumela umyalezo we-vidiyo"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr ""
+msgstr "Dlala umyalezo we-vidiyo"
 
 msgctxt "sZAPBUTTON_POPOUTPLAY"
 msgid "Play voice message"
@@ -5155,7 +5156,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
-msgstr ""
+msgstr "Buka iphrofayela"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View my account"
@@ -5167,15 +5168,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr ""
+msgstr "Vula ividiyo"
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr ""
+msgstr "Cisha ividiyo"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr ""
+msgstr "Cisha ividiyo"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
@@ -5339,7 +5340,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "Iqedile"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5796,7 +5797,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "Isimo esingaxhumani"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -5828,7 +5829,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Abathintwayo"
 
 msgctxt "sMAINMENU_CONTACTS_NEW_GROUP"
 msgid "Create New Group..."
@@ -5852,7 +5853,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr ""
+msgstr "Isimo sokuxhunyiwe"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -5948,23 +5949,23 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
-msgstr ""
+msgstr "Shaya ucingo"
 
 msgctxt "sMAINMENU_CALL_START"
 msgid "Call"
-msgstr ""
+msgstr "Shaya ucingo"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr ""
+msgstr "Ucingo levidiyo"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
-msgstr ""
+msgstr "Phendula"
 
 msgctxt "sMAINMENU_CALL_IGNORE"
 msgid "Ignore"
-msgstr ""
+msgstr "Shaya indiva"
 
 msgctxt "sMAINMENU_CALL_MUTE"
 msgid "Mute Microphone"
@@ -6012,19 +6013,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
-msgstr ""
+msgstr "Buka"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Abathintwayo"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr ""
+msgstr "Okwamuva"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr ""
+msgstr "iPhrofayili"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -6032,11 +6033,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr ""
+msgstr "Amathuluzi"
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
-msgstr ""
+msgstr "Guqula amasethingi olimi"
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
@@ -6044,7 +6045,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr ""
+msgstr "Siza"
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
@@ -6128,23 +6129,23 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr ""
+msgstr "Izolo"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr ""
+msgstr "7 Izinsuku"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr ""
+msgstr "Izin ezin-30"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr ""
+msgstr "Kusuka ekuqaleni"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
-msgstr ""
+msgstr "Khombisa Imiyalezo esuka: %"
 
 msgctxt "sMAINMENU_CONVERSATION_OLD_MESSAGES"
 msgid "View Old Messages"
@@ -7098,7 +7099,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr ""
+msgstr "Thumela abathintwayo..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -7280,7 +7281,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr ""
+msgstr "Faka i-emoticon"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -7312,15 +7313,15 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr ""
+msgstr "Phendula"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr ""
+msgstr "Shaya indiva"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr ""
+msgstr "Vala ucingo"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -8635,11 +8636,11 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr ""
+msgstr "Okwamuva"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
-msgstr ""
+msgstr "Cinga"
 
 msgctxt "sCALL_TOOLBAR_INCOMING_CALL"
 msgid "Incoming call"
@@ -9139,11 +9140,11 @@ msgstr ""
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr ""
+msgstr "Thumela ifayela..."
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
-msgstr ""
+msgstr "Thumela abathintwayo..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
@@ -9265,7 +9266,7 @@ msgstr ""
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr ""
+msgstr "Yengeza inombolo yocingo"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -9445,11 +9446,11 @@ msgstr ""
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
-msgstr ""
+msgstr "Khombisa abathintwayo"
 
 msgctxt "sCALL_TOOLBAR_HIDE_CONTACTS_HINT"
 msgid "Hide contacts"
-msgstr ""
+msgstr "Fihla abathintwayo"
 
 msgctxt "sF_UPGRADE_READY_CAPTION"
 msgid "Updates are ready to install"
@@ -9496,7 +9497,7 @@ msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr ""
+msgstr "ishaya ucingo"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
@@ -9925,7 +9926,7 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "Izintandokazi"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
@@ -9933,27 +9934,27 @@ msgstr ""
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr ""
+msgstr "Vala"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr ""
+msgstr "Qamba kabusha"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
-msgstr ""
+msgstr "Sula"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "Yengeza kuzintandokazi"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "Khipha kuzintandokazi"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr ""
+msgstr "Kuxhunyiwe"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -9965,7 +9966,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "Konke"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -10406,11 +10407,11 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Type a message here"
-msgstr ""
+msgstr "Bhala umbiko wakho la"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "Thumela i-SMS"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -11030,15 +11031,15 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr ""
+msgstr "Khipha kuzintandokazi"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr ""
+msgstr "Yengeza kuzintandokazi"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "Thumela umyalezo we-video"
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
@@ -12727,11 +12728,11 @@ msgstr ""
 
 msgctxt "sCONTACTS_LINK_CAPS"
 msgid "CONTACTS"
-msgstr ""
+msgstr "ABATHINTWAYO"
 
 msgctxt "sRECENTS_LINK_CAPS"
 msgid "RECENT"
-msgstr ""
+msgstr "OKWAMUVA"
 
 msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
 msgid "This photo is unavailable"

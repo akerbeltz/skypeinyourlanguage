@@ -155,6 +155,10 @@ Ladino (Judeo-Espanyol)
 Translator(s): Can Evrensel
 Source: Facebook
 
+Lezgian (Лезги чӏа)
+Translator: Lezgi
+Source: Transifex
+
 Ligurian (Lìgure)
 Translator(s): Unknown
 Source: http://genoves.com.ar/Archivos%20y%20fotos/Ligurian%20%28Zeneize%29_%205.10.0.116_20120927_.lang
