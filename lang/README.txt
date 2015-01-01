@@ -120,12 +120,20 @@ Source: Skype Mini Marathon
 Fula/Fulani (Fulfulde/Pulaar/Pular)
 Translator: Ibraahiima Saar
 
+Frisian (Frysk)
+Translator: Robin van der Vliet
+Source: Transifex
+
 Friulian (Furlan)
 Translator: Adriano Biason
 Source: Transifex
 
+Galician (Galego)
+Translators: Toño Calo, Torragal, anxo_cruel (Rubén), Miguel Branco
+Source: Transifex
+
 Georgian (ქართული)
-Translator(s): Unknown
+Translator(s): Unknown, Aiet Kolkhi, elene, oitasan, kostaiakosta, Givi Gelashvili
 Source: http://zazuka80.ucoz.com/load/1-5-2
 
 Greek (ελληνικά)
@@ -162,6 +170,10 @@ Source: Transifex
 Ligurian (Lìgure)
 Translator(s): Unknown
 Source: http://genoves.com.ar/Archivos%20y%20fotos/Ligurian%20%28Zeneize%29_%205.10.0.116_20120927_.lang
+
+Lojban
+Translator: gleki, DaKrazyJak
+Source: Transifex
 
 Lombard
 Translator: Marc Tamburell
@@ -232,7 +244,7 @@ Translator: aalam
 Source: Transifex
 
 Rumantsch
-Translator(s): gioni
+Translator(s): Gion-Andri Cantieni
 Source: Transifex
 
 Samoan (Gagana Sāmoa)
