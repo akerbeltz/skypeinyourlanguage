@@ -2,6 +2,7 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # Daniël Venter <danielventer@mweb.co.za>, 2013-2014
+# Dexter Roderick <dexter.roderick@outlook.com>, 2014
 # Gideon Wentink <gjwentink@gmail.com>, 2014
 # Gideon Wentink <gjwentink@gmail.com>, 2014
 # Michael Bauer, 2014
@@ -12,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2014-12-16 17:14+0000\n"
+"PO-Revision-Date: 2015-01-01 15:23+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Afrikaans (http://www.transifex.com/projects/p/skype-translation-project/language/af/)\n"
 "MIME-Version: 1.0\n"
@@ -96,7 +97,7 @@ msgstr "Voeg by kontakte"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
-msgstr "Verander aanlyn status"
+msgstr "Aanlynstatus"
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
@@ -1121,7 +1122,7 @@ msgstr "Stuur lêer…"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
-msgstr "gekanseleer"
+msgstr "Gekanselleer"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
@@ -1401,7 +1402,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr "Send Voicemail"
+msgstr "Stuur Stempos"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this conversation?"
@@ -2756,7 +2757,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDSMS"
 msgid "Send SMS Message"
-msgstr "Soek SMS-boodskap"
+msgstr "Stuur SMS-boodskap"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
@@ -3844,11 +3845,11 @@ msgstr ""
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
-msgstr ""
+msgstr "%s skakel"
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
-msgstr "Domp jou mikrofoon"
+msgstr "Demp jou mikrofoon"
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
@@ -4243,7 +4244,7 @@ msgstr ""
 
 msgctxt "sZAP_ACTIONBUTTON_HANGUP"
 msgid "End Call"
-msgstr "End call"
+msgstr "Beëindig oproep"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
@@ -4809,7 +4810,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUP"
 msgid "End call"
-msgstr ""
+msgstr "Beëindig oproep"
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
@@ -4825,7 +4826,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr "Huis"
+msgstr "Tuis"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -5009,7 +5010,7 @@ msgstr "Stoor as"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
-msgstr "Stuur Kontakt"
+msgstr "Stoor Kontak"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
@@ -5021,7 +5022,7 @@ msgstr "Stoor as"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
-msgstr ""
+msgstr "Kyk my video"
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
@@ -5197,7 +5198,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "Deel skerms..."
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTOPSHARING"
 msgid "Stop sharing"
@@ -5731,15 +5732,15 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr ""
+msgstr "Oproep van %s gemis."
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
-msgstr "Oproep van %s, Oproep lengte %s."
+msgstr "Oproep van %s, Oproeplengte %s."
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr "Gesprek met %s, Oproep tyd %s."
+msgstr "Oproep na %s, Oproeplengte %s."
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -5802,7 +5803,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Aanlyn status"
+msgstr "Aanlynstatus"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -5858,7 +5859,7 @@ msgstr "Naam"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Aanlyn status"
+msgstr "Aanlynstatus"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -6018,7 +6019,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW"
 msgid "View"
-msgstr "Uitsig"
+msgstr "Voorkoms"
 
 msgctxt "sMAINMENU_VIEW_CONTACTS"
 msgid "Contacts"
@@ -7104,7 +7105,7 @@ msgstr "%s verjaar vandag"
 
 msgctxt "sBUDDYMENU_SENDCONTACTS"
 msgid "Send Contacts..."
-msgstr "Send Contacts…"
+msgstr "Stuur Kontakte…"
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
@@ -7203,7 +7204,7 @@ msgstr "Lui"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr ""
+msgstr "Telefoonoproep geëindig"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -7286,7 +7287,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr "Insert smiley"
+msgstr "Voeg smiley in"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8768,7 +8769,7 @@ msgstr ""
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr "Toon boodskappe van vroeër"
+msgstr "Toon vroeër boodskappe"
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -9133,7 +9134,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr ""
+msgstr "Oproep van %s (%s) gemis."
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
@@ -9153,7 +9154,7 @@ msgstr "Stuur kontakte…"
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "Deel skerms..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -9502,7 +9503,7 @@ msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr ""
+msgstr "skakel"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
@@ -9951,7 +9952,7 @@ msgstr "Skrap"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr "Voeg toe tot gunstelinge"
+msgstr "Voeg by gunstelinge"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
@@ -11040,7 +11041,7 @@ msgstr "Verwyder van gunstelinge"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr "Voeg toe tot gunstelinge"
+msgstr "Voeg by gunstelinge"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
@@ -11624,7 +11625,7 @@ msgstr ""
 
 msgctxt "sACC_NAME_STATUS_PSTN"
 msgid "Phone number"
-msgstr ""
+msgstr "Telefoon nommer"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE"
 msgid "Offline"
@@ -12789,7 +12790,7 @@ msgstr ""
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
 msgid "Shared a photo"
-msgstr ""
+msgstr "'n foto gedeel"
 
 msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
 msgid "Shared a location"
@@ -12809,7 +12810,7 @@ msgstr ""
 
 msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
 msgid "%s sent files"
-msgstr ""
+msgstr "%s lêers gestuur"
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
 msgid "%s shared a photo"
@@ -12841,7 +12842,7 @@ msgstr ""
 
 msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
 msgid "Birthday today"
-msgstr ""
+msgstr "Verjaarsdag vandag"
 
 msgctxt "sADDCONTACT_PROMPT"
 msgid "Are you sure you want to add contacts: <b>%s</b>?"
@@ -12857,91 +12858,91 @@ msgstr ""
 
 msgctxt "sDIALPAD_MAIN_1"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "sDIALPAD_MAIN_2"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "sDIALPAD_MAIN_3"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "sDIALPAD_MAIN_4"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "sDIALPAD_MAIN_5"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "sDIALPAD_MAIN_6"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "sDIALPAD_MAIN_7"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "sDIALPAD_MAIN_8"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "sDIALPAD_MAIN_9"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "sDIALPAD_MAIN_ASTERISK"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "sDIALPAD_MAIN_0"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "sDIALPAD_MAIN_HASH"
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgctxt "sDIALPAD_AUX_2"
 msgid "ABC"
-msgstr ""
+msgstr "ABC"
 
 msgctxt "sDIALPAD_AUX_3"
 msgid "DEF"
-msgstr ""
+msgstr "DEF"
 
 msgctxt "sDIALPAD_AUX_4"
 msgid "GHI"
-msgstr ""
+msgstr "GHI"
 
 msgctxt "sDIALPAD_AUX_5"
 msgid "JKL"
-msgstr ""
+msgstr "JKL"
 
 msgctxt "sDIALPAD_AUX_6"
 msgid "MNO"
-msgstr ""
+msgstr "MNO"
 
 msgctxt "sDIALPAD_AUX_7"
 msgid "PQRS"
-msgstr ""
+msgstr "PQRS"
 
 msgctxt "sDIALPAD_AUX_8"
 msgid "TUV"
-msgstr ""
+msgstr "TUV"
 
 msgctxt "sDIALPAD_AUX_9"
 msgid "WXYZ"
-msgstr ""
+msgstr "WXYZ"
 
 msgctxt "sDIALPAD_AUX_0"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgctxt "sDIALPAD_COUNTRY_SELECTOR"
 msgid "%s (+%d)"
-msgstr ""
+msgstr "%s (+%d)"
 
 msgctxt "sBUDDYMENU_CHANGE_TOPIC"
 msgid "Change topic..."
@@ -12965,7 +12966,7 @@ msgstr ""
 
 msgctxt "sFRE_START"
 msgid "Welcome to the new Skype for Windows."
-msgstr ""
+msgstr "Welkom by die nuwe Skype vir Windows"
 
 msgctxt "sFRE_CHAT"
 msgid "Redesigned for a richer chat experience."
@@ -13017,4 +13018,4 @@ msgstr ""
 
 msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
 msgid "Advertisement"
-msgstr ""
+msgstr "Advertensie"
