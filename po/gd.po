@@ -1,13 +1,13 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# Michael Bauer, 2013-2014
+# Michael Bauer, 2013-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-12-14 20:28+0000\n"
+"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
+"PO-Revision-Date: 2015-01-31 18:40+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Gaelic, Scottish (http://www.transifex.com/projects/p/skype-translation-project/language/gd/)\n"
 "MIME-Version: 1.0\n"
@@ -386,7 +386,7 @@ msgstr "Cuir ainm ùr air"
 
 msgctxt "sF_CONFIRM_CBNOMORE"
 msgid "Do not ask me again"
-msgstr "Na faighnich dhìom a-rithist"
+msgstr "Na faighnich a-rithist"
 
 msgctxt "sF_CONFIRM_YES"
 msgid "Yes"

@@ -1,13 +1,13 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# Robin van der Vliet <info@robinvandervliet.nl>, 2014
+# Robin van der Vliet <info@robinvandervliet.nl>, 2014-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2014-12-30 13:20+0000\n"
+"PO-Revision-Date: 2015-01-06 22:09+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Western Frisian (http://www.transifex.com/projects/p/skype-translation-project/language/fy/)\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +71,7 @@ msgstr "Belje"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
-msgstr ""
+msgstr "IM ferstjoere"
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
@@ -83,11 +83,11 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
-msgstr ""
+msgstr "Fuortsmite út kontakten"
 
 msgctxt "sCALLHISTORYMENU_ADDTOFRIENDS"
 msgid "Add to Contacts"
-msgstr ""
+msgstr "Tafoegje oan kontakten"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
@@ -99,11 +99,11 @@ msgstr ""
 
 msgctxt "sTRAYMENU_QUIT"
 msgid "Quit"
-msgstr ""
+msgstr "Ofslute"
 
 msgctxt "sSTATUSTEXT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr ""
+msgstr "Oanmelde"
 
 msgctxt "sTRAYHINT_PREFIX"
 msgid "Skype"
@@ -127,7 +127,7 @@ msgstr "Ofwêzich"
 
 msgctxt "sTRAYHINT_USER_NA"
 msgid "Not Available"
-msgstr ""
+msgstr "Net beskikber"
 
 msgctxt "sTRAYHINT_USER_DND"
 msgid "Do Not Disturb"
@@ -139,11 +139,11 @@ msgstr "Unsichtber"
 
 msgctxt "sTRAYHINT_PROFILE_LOGGED_OUT"
 msgid "Not Connected"
-msgstr ""
+msgstr "Net ferbûnen"
 
 msgctxt "sTRAYHINT_PROFILE_LOGGING_IN"
 msgid "Signing in"
-msgstr ""
+msgstr "Oanmelde"
 
 msgctxt "sINVALID_HANDLE"
 msgid ""
@@ -292,7 +292,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BUTTON_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 msgctxt "sF_OPTIONS_BUTTON_CANCEL"
 msgid "Cancel"
@@ -358,11 +358,11 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_DEFAULT_CAPTION"
 msgid "Confirm"
-msgstr ""
+msgstr "Befêstigje"
 
 msgctxt "sF_OPTIONS_PAGE_SOUNDS2"
 msgid "Sounds"
-msgstr ""
+msgstr "Lûden"
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
@@ -390,7 +390,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_YES"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgctxt "sF_CONFIRM_CANCEL"
 msgid "&Cancel"
@@ -410,7 +410,7 @@ msgstr ""
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
-msgstr ""
+msgstr "Ynformaasje"
 
 msgctxt "sF_INFORM_CBNOMORE"
 msgid "Do not display this information again"
@@ -488,11 +488,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
-msgstr ""
+msgstr "Ferbining"
 
 msgctxt "sF_OPTIONS_LB15"
 msgid "Use port"
-msgstr ""
+msgstr "Poarte"
 
 msgctxt "sF_OPTIONS_LB19"
 msgid "for incoming connections"
@@ -516,7 +516,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_DEVICES"
 msgid "Audio settings"
-msgstr ""
+msgstr "Lûdsynstellingen"
 
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
@@ -524,7 +524,7 @@ msgstr "Mikrofoan"
 
 msgctxt "sF_OPTIONS_LB21"
 msgid "Speakers"
-msgstr ""
+msgstr "Lûdsprekkers"
 
 msgctxt "sF_OPTIONS_LB22"
 msgid "Ringing"
@@ -572,7 +572,7 @@ msgstr "Oer Skype"
 
 msgctxt "sF_OPTIONS_PAGE_KEYBOARD"
 msgid "Hotkeys"
-msgstr ""
+msgstr "Fluchtoetsen"
 
 msgctxt "sF_OPTIONS_TCB11"
 msgid "Enable keyboard shortcuts"
@@ -604,7 +604,7 @@ msgstr ""
 
 msgctxt "sF_HOTKEYEDIT_CAPTION"
 msgid "Set hotkey for %s"
-msgstr ""
+msgstr "Fluchtoets foar %s"
 
 msgctxt "sF_HOTKEYEDIT_ERROR"
 msgid ""
@@ -630,15 +630,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
-msgstr ""
+msgstr "Aksje"
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
-msgstr ""
+msgstr "Status"
 
 msgctxt "sF_OPTIONS_HK_HOTKEY"
 msgid "Hotkey"
-msgstr ""
+msgstr "Fluchtoets"
 
 msgctxt "sF_OPTIONS_TNTB8"
 msgid "<b>Blocked contacts:</b> Stop someone contacting you"
@@ -692,11 +692,11 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SAVE"
 msgid "Save as..."
-msgstr ""
+msgstr "Opslaan as..."
 
 msgctxt "sF_TRANSLATE_APPLY"
 msgid "Apply"
-msgstr ""
+msgstr "Tapasse"
 
 msgctxt "sF_TRANSLATE_LOAD"
 msgid "Load"
@@ -710,19 +710,19 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
-msgstr ""
+msgstr "Nr"
 
 msgctxt "sF_TRANSLATE_COMMENT"
 msgid "Comment"
-msgstr ""
+msgstr "Kommentaar"
 
 msgctxt "sF_TRANSLATE_ORIGINAL"
 msgid "Original"
-msgstr ""
+msgstr "Orizjineel"
 
 msgctxt "sF_TRANSLATE_CURRENT"
 msgid "Current"
-msgstr ""
+msgstr "Hjoeddeistige"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_BLOCK"
 msgid "Block this person"
@@ -758,7 +758,7 @@ msgstr ""
 
 msgctxt "sTRAYMENU_LOGIN"
 msgid "Sign in"
-msgstr ""
+msgstr "Oanmelde"
 
 msgctxt "sBUDDYMENU_INVITE_CONFERENCE"
 msgid "Invite to group call"
@@ -774,7 +774,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG1_1"
 msgid "anyone"
-msgstr ""
+msgstr "elkenien"
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
@@ -786,7 +786,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG2_1"
 msgid "anyone"
-msgstr ""
+msgstr "elkenien"
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
@@ -798,7 +798,7 @@ msgstr ""
 
 msgctxt "sQUIT_PROMPT_TITLE"
 msgid "Quit Skype?"
-msgstr ""
+msgstr "Skype ôfslute?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT_CAP"
 msgid "Remove contact?"
@@ -826,11 +826,11 @@ msgstr "Blokkearre"
 
 msgctxt "sINFORM_DND_CAP"
 msgid "Warning"
-msgstr ""
+msgstr "Warskôging"
 
 msgctxt "sINFORM_DND_TITLE"
 msgid "Warning"
-msgstr ""
+msgstr "Warskôging"
 
 msgctxt "sLANGUAGE_ERROR"
 msgid ""
@@ -848,11 +848,11 @@ msgstr "Flater"
 
 msgctxt "sF_HOTKEYEDIT_ERROR_CAP"
 msgid "Warning"
-msgstr ""
+msgstr "Warskôging"
 
 msgctxt "sF_HOTKEYEDIT_ERROR_TITLE"
 msgid "Warning"
-msgstr ""
+msgstr "Warskôging"
 
 msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE_CAP"
 msgid "Save changes?"
@@ -993,11 +993,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_GREETING_RECORD"
 msgid "Record"
-msgstr ""
+msgstr "Opnimme"
 
 msgctxt "sF_OPTIONS_GREETING_PLAYBACK"
 msgid "Playback"
-msgstr ""
+msgstr "Ofspylje"
 
 msgctxt "sF_OPTIONS_GREETING_DELETE"
 msgid "Reset to default voicemail greeting"
@@ -1017,19 +1017,19 @@ msgstr "Annulearje"
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
-msgstr ""
+msgstr "Thús (%s)"
 
 msgctxt "sCALL_PSTN_MOBILE"
 msgid "Mobile (%s)"
-msgstr ""
+msgstr "Mobyl (%s)"
 
 msgctxt "sCALL_PSTN_OFFICE"
 msgid "Office (%s)"
-msgstr ""
+msgstr "Wurk (%s)"
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr ""
+msgstr "Skype-petear"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1075,11 +1075,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL"
 msgid "File sent."
-msgstr ""
+msgstr "Triem ferstjoerd."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_RECEIVED"
 msgid "File received."
-msgstr ""
+msgstr "Triem ûntfange."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED"
 msgid "Sending cancelled"
@@ -1087,7 +1087,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_SAVEDLG_TITLE"
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT"
 msgid ""
@@ -1112,7 +1112,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SENDFILE"
 msgid "Send files..."
-msgstr ""
+msgstr "Triemmen ferstjoere..."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED_2"
 msgid "Cancelled"
@@ -1137,11 +1137,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_VIRUS_TITLE"
 msgid "Accept file"
-msgstr ""
+msgstr "Triem akseptearje"
 
 msgctxt "sFILETRANSFER_VIRUS_CAP"
 msgid "Accept the file(s)"
-msgstr ""
+msgstr "Triem(men) akseptearje"
 
 msgctxt "sPSTN_RES_10403"
 msgid "You can't call this number on Skype right now."
@@ -1290,11 +1290,11 @@ msgstr ""
 
 msgctxt "sACL_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Namme"
 
 msgctxt "sACL_PUBLISHER"
 msgid "Publisher"
-msgstr ""
+msgstr "Utjouwer"
 
 msgctxt "sACL_ALLOW_ASK"
 msgid "Allow this program to use Skype, but ask again in the future."
@@ -1330,7 +1330,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFERSEND_CAPTION"
 msgid "Sending file"
-msgstr ""
+msgstr "Triem ferstjoere"
 
 msgctxt "sFILETRANSFERSEND_LB_CAPTION"
 msgid "Select Skype contact"
@@ -1338,7 +1338,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFERSEND_BTN_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Ferstjoere"
 
 msgctxt "sFILETRANSFERSEND_BTN_CANCEL"
 msgid "Cancel"
@@ -1420,7 +1420,7 @@ msgstr ""
 
 msgctxt "sF_APIACL_CERTIFICATE"
 msgid "Certificate"
-msgstr ""
+msgstr "Sertifikaat"
 
 msgctxt "sACL_FAQ_LINK"
 msgid "What does this mean?"
@@ -1428,15 +1428,15 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_SEND_FILE"
 msgid "Send file"
-msgstr ""
+msgstr "Triem ferstjoere"
 
 msgctxt "sF_MULTICHAT_USERS_FEW"
 msgid "%s and %s"
-msgstr ""
+msgstr "%s en %s"
 
 msgctxt "sF_MULTICHAT_USERS_MANY"
 msgid "%d contacts"
-msgstr ""
+msgstr "%d kontakten"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_CAPTION"
 msgid "Send file to %s"
@@ -1464,11 +1464,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOCKS_HOST"
 msgid "Host"
-msgstr ""
+msgstr "Host"
 
 msgctxt "sF_OPTIONS_SOCKS_PORT"
 msgid "Port"
-msgstr ""
+msgstr "Poarte"
 
 msgctxt "sF_OPTIONS_SOCKS_USERNAME"
 msgid "Username"
@@ -1476,7 +1476,7 @@ msgstr "Brûkersnamme"
 
 msgctxt "sF_OPTIONS_SOCKS_PASSWORD"
 msgid "Password"
-msgstr ""
+msgstr "Wachtwurd"
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
@@ -1500,7 +1500,7 @@ msgstr "2 wiken"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_2"
 msgid "1 month"
-msgstr ""
+msgstr "1 moanne"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_3"
 msgid "3 months"
@@ -1508,7 +1508,7 @@ msgstr "3 moannen"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_4"
 msgid "forever"
-msgstr ""
+msgstr "altyd"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_LABEL"
 msgid "Keep history for"
@@ -1539,7 +1539,7 @@ msgstr ""
 
 msgctxt "sSKYPE_LANG_FILES"
 msgid "Skype language files (*.lang)\\|*.LANG"
-msgstr ""
+msgstr "Skype-taaltriemmen (*.lang)\\|*.LANG"
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
@@ -1551,15 +1551,15 @@ msgstr ""
 
 msgctxt "sF_MULTICHAT_EDIT_CUT"
 msgid "Cut"
-msgstr ""
+msgstr "Knippe"
 
 msgctxt "sF_MULTICHAT_EDIT_COPY"
 msgid "Copy"
-msgstr ""
+msgstr "Kopiearje"
 
 msgctxt "sF_MULTICHAT_EDIT_PASTE"
 msgid "Paste"
-msgstr ""
+msgstr "Plakke"
 
 msgctxt "sF_MULTICHAT_EDIT_DELETE"
 msgid "Delete"
@@ -1575,7 +1575,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PAGE_NOTIFICATIONS"
 msgid "Notifications"
-msgstr ""
+msgstr "Meldingen"
 
 msgctxt "sF_OPTIONS_PAGE_VIDEO"
 msgid "Video settings"
@@ -1651,7 +1651,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_DEVICES"
 msgid "Volume"
-msgstr ""
+msgstr "Folume"
 
 msgctxt "sF_OPTIONS_LBC_GENERAL"
 msgid "General settings"
@@ -1708,7 +1708,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_PLAY_HINT"
 msgid "Play:"
-msgstr ""
+msgstr "Ofspylje:"
 
 msgctxt "sF_OPTIONS_BTN_UNMUTE"
 msgid "Enable all sounds"
@@ -1760,7 +1760,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG3_1"
 msgid "anyone"
-msgstr ""
+msgstr "elkenien"
 
 msgctxt "sF_OPTIONS_RG3_2"
 msgid "block calls when phone number is hidden"
@@ -1780,11 +1780,11 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_LB_GENDER"
 msgid "Gender"
-msgstr ""
+msgstr "Geslacht"
 
 msgctxt "sF_USERPROFILE_LB_REGION"
 msgid "State/Province"
-msgstr ""
+msgstr "Steat/provinsje"
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT2"
 msgid ""
@@ -1803,11 +1803,11 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_GENDER"
 msgid "Gender"
-msgstr ""
+msgstr "Geslacht"
 
 msgctxt "sF_USERINFO_LABEL_LOCATION"
 msgid "Location"
-msgstr ""
+msgstr "Lokaasje"
 
 msgctxt "sF_USERINFO_LABEL_AGE"
 msgid "Age"
@@ -1847,11 +1847,11 @@ msgstr "Profyl"
 
 msgctxt "sF_USERPROFILE_LB_DAY"
 msgid "Day"
-msgstr ""
+msgstr "Dei"
 
 msgctxt "sF_USERPROFILE_LB_MONTH"
 msgid "Month"
-msgstr ""
+msgstr "Moanne"
 
 msgctxt "sF_USERPROFILE_LB_YEAR"
 msgid "Year"
@@ -1877,7 +1877,7 @@ msgstr ""
 
 msgctxt "sF_ADDFRIEND_LABEL3_1"
 msgid "Name"
-msgstr ""
+msgstr "Namme"
 
 msgctxt "sF_ADDFRIEND_LABEL3_2"
 msgid "Phone number"
@@ -2004,7 +2004,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_BTN_ADD"
 msgid "Browse..."
-msgstr ""
+msgstr "Blêdzje..."
 
 msgctxt "sF_SOUNDS_BTN_SET"
 msgid "OK"
@@ -2062,7 +2062,7 @@ msgstr ""
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT_TITLE"
 msgid "Remove sound file?"
-msgstr ""
+msgstr "Lûdstriem fuortsmite?"
 
 msgctxt "sF_SOUNDS_MSG1_1"
 msgid "This sound \"%s\" belongs to %s."
@@ -2104,15 +2104,15 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_SKYPENAME"
 msgid "Skype Name"
-msgstr ""
+msgstr "Skypenamme"
 
 msgctxt "sF_USERINFO_BTN_COPY"
 msgid "Copy"
-msgstr ""
+msgstr "Kopiearje"
 
 msgctxt "sF_USERINFO_BTN_COPY_PROFILE"
 msgid "Copy profile"
-msgstr ""
+msgstr "Profyl kopiearje"
 
 msgctxt "sF_OPTIONS_PAGE_FORWARDINGANDVOICEMAIL"
 msgid "Call forwarding"
@@ -2286,7 +2286,7 @@ msgstr ""
 
 msgctxt "sDATAPATH_MISSING_CAPTION"
 msgid "Information"
-msgstr ""
+msgstr "Ynformaasje"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT9"
 msgid ""
@@ -2397,7 +2397,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LB_WEBPRESENCE1"
 msgid "Learn more"
-msgstr ""
+msgstr "Mear ynformaasje"
 
 msgctxt "sF_OPTIONS_LBC_SOUNDLIBRARY"
 msgid "My custom sounds"
@@ -2553,7 +2553,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO1"
 msgid "no one"
-msgstr ""
+msgstr "nimmen"
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO2"
 msgid "people in my Contact list only"
@@ -2561,7 +2561,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO3"
 msgid "anyone"
-msgstr ""
+msgstr "elkenien"
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
@@ -2586,7 +2586,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_MOOD"
 msgid "Mood"
-msgstr ""
+msgstr "Stimming"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT10"
 msgid "New password can't be the same as the old password."
@@ -2699,7 +2699,7 @@ msgstr ""
 
 msgctxt "sVIDEOMENU_SETTINGS"
 msgid "Video Settings"
-msgstr ""
+msgstr "Fideo-ynstellingen"
 
 msgctxt "sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT1"
 msgid "Ringtone (Classic)"
@@ -2755,7 +2755,7 @@ msgstr "SMS-berjocht ferstjoere"
 
 msgctxt "sF_OPTIONS_PAGE_SMS"
 msgid "SMS settings"
-msgstr ""
+msgstr "SMS-ynstellingen"
 
 msgctxt "sF_OPTIONS_LBC_SMS"
 msgid "<b>SMS settings:</b> Send text messages directly from Skype"
@@ -2771,11 +2771,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_BTN_SEND_CODE"
 msgid "Send"
-msgstr ""
+msgstr "Ferstjoere"
 
 msgctxt "sF_OPTIONS_BTN_SUBMIT_CODE"
 msgid "Submit"
-msgstr ""
+msgstr "Befêstigje"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB1"
 msgid "The verification code has been sent"
@@ -2897,7 +2897,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_DOWNLOAD_FILESIZE"
 msgid "File size %d KB"
-msgstr ""
+msgstr "Triemgrutte %d KB"
 
 msgctxt "sF_UPGRADE_BTN_DECIDELATER"
 msgid "Decide later"
@@ -2913,7 +2913,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_HIDE"
 msgid "Hide"
-msgstr ""
+msgstr "Ferbergje"
 
 msgctxt "sF_OPTIONS_PAGE_UPDATES"
 msgid "Advanced settings"
@@ -2994,7 +2994,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_QUIT"
 msgid "Quit"
-msgstr ""
+msgstr "Ofslute"
 
 msgctxt "sF_CONFIRM_LEAVE"
 msgid "Leave"
@@ -3016,7 +3016,7 @@ msgstr ""
 
 msgctxt "sF_INPUT_FORM_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 msgctxt "sF_INPUT_FORM_NOTE"
 msgid "Enter phone number in %s (with area code)."
@@ -3120,7 +3120,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_NOTIF_PROMOTIONS"
 msgid "Promotions"
-msgstr ""
+msgstr "Promoasjes"
 
 msgctxt "sGENERAL_BROWSER_ERROR"
 msgid "Unable to launch web browser."
@@ -3128,7 +3128,7 @@ msgstr ""
 
 msgctxt "sF_LOGIN_WELCOME"
 msgid "Welcome to Skype."
-msgstr ""
+msgstr "Wolkom by Skype."
 
 msgctxt "sF_STRING_EDIT_TITLE"
 msgid "String edit"
@@ -3160,11 +3160,11 @@ msgstr ""
 
 msgctxt "sFROWNEY_SMILEY"
 msgid "Sad"
-msgstr ""
+msgstr "Bedrôve"
 
 msgctxt "sBIG_SMILEY"
 msgid "Laugh"
-msgstr ""
+msgstr "Laitsjen"
 
 msgctxt "sSUNGLASSES_SMILEY"
 msgid "Cool"
@@ -3176,7 +3176,7 @@ msgstr ""
 
 msgctxt "sWINK_SMILEY"
 msgid "Wink"
-msgstr ""
+msgstr "Knypeagje"
 
 msgctxt "sWINK_FROWNEY_SMILEY"
 msgid "Crying"
@@ -3188,11 +3188,11 @@ msgstr ""
 
 msgctxt "sSPEECHLESS_SMILEY"
 msgid "Speechless"
-msgstr ""
+msgstr "Sprakeleas"
 
 msgctxt "sKISS_SMILEY"
 msgid "Kiss"
-msgstr ""
+msgstr "Tútsje"
 
 msgctxt "sTONGUE_OUT_SMILEY"
 msgid "Cheeky"
@@ -3256,7 +3256,7 @@ msgstr ""
 
 msgctxt "sMMM_SMILEY"
 msgid "mmmmm..."
-msgstr ""
+msgstr "mmmmm..."
 
 msgctxt "sNERDY_SMILEY"
 msgid "Nerdy"
@@ -3268,7 +3268,7 @@ msgstr ""
 
 msgctxt "sHI_SMILEY"
 msgid "Hi"
-msgstr ""
+msgstr "Hallo"
 
 msgctxt "sCALL_SMILEY"
 msgid "Call"
@@ -3276,11 +3276,11 @@ msgstr ""
 
 msgctxt "sDEVIL_SMILEY"
 msgid "Devil"
-msgstr ""
+msgstr "Duvel"
 
 msgctxt "sANGEL_SMILEY"
 msgid "Angel"
-msgstr ""
+msgstr "Ingel"
 
 msgctxt "sENVY_SMILEY"
 msgid "Envy"
@@ -3348,11 +3348,11 @@ msgstr ""
 
 msgctxt "sYES_SMILEY"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgctxt "sNO_SMILEY"
 msgid "No"
-msgstr ""
+msgstr "Nee"
 
 msgctxt "sHANDSHAKE_SMILEY"
 msgid "Handshake"
@@ -3360,11 +3360,11 @@ msgstr ""
 
 msgctxt "sSKYPE_SMILEY"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sHEART_SMILEY"
 msgid "Heart"
-msgstr ""
+msgstr "Hertsje"
 
 msgctxt "sBROKENHEART_SMILEY"
 msgid "Broken heart"
@@ -3376,7 +3376,7 @@ msgstr ""
 
 msgctxt "sFLOWER_SMILEY"
 msgid "Flower"
-msgstr ""
+msgstr "Blom"
 
 msgctxt "sRAINING_SMILEY"
 msgid "Raining"
@@ -3400,7 +3400,7 @@ msgstr ""
 
 msgctxt "sPHONE_SMILEY"
 msgid "Phone"
-msgstr ""
+msgstr "Tillefoan"
 
 msgctxt "sCOFFEE_SMILEY"
 msgid "Coffee"
@@ -3408,7 +3408,7 @@ msgstr ""
 
 msgctxt "sPIZZA_SMILEY"
 msgid "Pizza"
-msgstr ""
+msgstr "Pizza"
 
 msgctxt "sCASH_SMILEY"
 msgid "Cash"
@@ -3424,7 +3424,7 @@ msgstr ""
 
 msgctxt "sBEER_SMILEY"
 msgid "Beer"
-msgstr ""
+msgstr "Bier"
 
 msgctxt "sDRINK_SMILEY"
 msgid "Drink"
@@ -3448,7 +3448,7 @@ msgstr ""
 
 msgctxt "sFINGER_SMILEY"
 msgid "Finger"
-msgstr ""
+msgstr "Finger"
 
 msgctxt "sBANDIT_SMILEY"
 msgid "Bandit"
@@ -3480,11 +3480,11 @@ msgstr ""
 
 msgctxt "sBUG_SMILEY"
 msgid "Bug"
-msgstr ""
+msgstr "Bug"
 
 msgctxt "sFUBAR_SMILEY"
 msgid "FUBAR"
-msgstr ""
+msgstr "FUBAR"
 
 msgctxt "sTMI_SMILEY"
 msgid "Too much information"
@@ -3644,11 +3644,11 @@ msgstr ""
 
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE_TITLE"
 msgid "Remove message?"
-msgstr ""
+msgstr "Berjocht fuortsmite?"
 
 msgctxt "sCHAT_COPY_LINK"
 msgid "Copy link location"
-msgstr ""
+msgstr "Linklokaasje kopiearje"
 
 msgctxt "sF_OPTIONS_LINK_SMS_RATES"
 msgid "SMS destinations and rates"
@@ -3679,7 +3679,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakten"
 
 msgctxt "sCHAT_STATUSMESSAGE_PWD_REQUIRED"
 msgid "Password required"
@@ -3787,11 +3787,11 @@ msgstr "Annulearje"
 
 msgctxt "sF_CALL_QLT_BTN_FINISH"
 msgid "Finish"
-msgstr ""
+msgstr "Klear"
 
 msgctxt "sF_CALL_QLT_BTN_SEND_FEEDBACK"
 msgid "Send feedback"
-msgstr ""
+msgstr "Feedback ferstjoere"
 
 msgctxt "sF_CALL_QLT_LBL_RATE"
 msgid "Your feedback will help us make Skype better."
@@ -3823,7 +3823,7 @@ msgstr ""
 
 msgctxt "sCHAT_PASSWORD_LABEL"
 msgid "Password:"
-msgstr ""
+msgstr "Wachtwurd:"
 
 msgctxt "sACL_DISCONNECT"
 msgid "Disconnect"
@@ -3867,11 +3867,11 @@ msgstr ""
 
 msgctxt "sPREMIUMCALL_WEBWINDOW_TITLE"
 msgid "Skype Prime"
-msgstr ""
+msgstr "Skype Prime"
 
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
-msgstr ""
+msgstr "Meldingen & berjochten"
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
@@ -3883,7 +3883,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SAVEAS_FILTER"
 msgid "Skype language files"
-msgstr ""
+msgstr "Skype-taaltriem"
 
 msgctxt "sCALL_IS_FORWARDED"
 msgid "Your call is being forwarded free of charge. Please wait."
@@ -3935,7 +3935,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_RECENTCALLS"
 msgid "Recent Calls"
-msgstr ""
+msgstr "Resinte petearen"
 
 msgctxt "sSTATUS_ONLINE_MOBILE"
 msgid "Online (on a mobile device)"
@@ -4084,7 +4084,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CALLS"
 msgid "Calls"
-msgstr ""
+msgstr "Petearen"
 
 msgctxt "sF_OPTIONS_LINK_BUY_WEBCAM"
 msgid "Buy a webcam from the Skype shop"
@@ -4198,7 +4198,7 @@ msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_SAVE"
 msgid "Save As"
-msgstr ""
+msgstr "Opslaan as"
 
 msgctxt "sF_IMAGE_CONTENT_SAVE_ERROR"
 msgid "Source file is invalid or does not exist"
@@ -4230,7 +4230,7 @@ msgstr ""
 
 msgctxt "sCHAT_EDIT_MESSAGE"
 msgid "Edit Message"
-msgstr ""
+msgstr "Berjocht bewurkje"
 
 msgctxt "sCALL_ALERT_EXAMPLE"
 msgid "This is an example of a call alert"
@@ -4246,7 +4246,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
-msgstr ""
+msgstr "%s fan %s"
 
 msgctxt "sFILETRANSFER_MULTI_FAILED"
 msgid "Failed"
@@ -4254,7 +4254,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_FILE_COUNT"
 msgid "%d files"
-msgstr ""
+msgstr "%d triemmen"
 
 msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS1"
 msgid "Call Forwarding Options"
@@ -4292,31 +4292,31 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TOO_LONG"
 msgid "> 24 hours"
-msgstr ""
+msgstr "> 24 oeren"
 
 msgctxt "sZAPCONTACT_HOME_PHONE"
 msgid "Home"
-msgstr ""
+msgstr "Thús"
 
 msgctxt "sZAPCONTACT_OFFICE_PHONE"
 msgid "Office"
-msgstr ""
+msgstr "Wurk"
 
 msgctxt "sZAPCONTACT_MOBILE_PHONE"
 msgid "Mobile"
-msgstr ""
+msgstr "Mobyl"
 
 msgctxt "sZAPBUTTON_NONE"
 msgid "none"
-msgstr ""
+msgstr "gjin"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
-msgstr ""
+msgstr "Akseptearje"
 
 msgctxt "sZAPBUTTON_ADD"
 msgid "Add people"
-msgstr ""
+msgstr "Persoanen tafoegje"
 
 msgctxt "sZAPBUTTON_ADD2"
 msgid "Add"
@@ -4324,7 +4324,7 @@ msgstr "Tafoegje"
 
 msgctxt "sZAPBUTTON_ADDNUMBER"
 msgid "Add phone number"
-msgstr ""
+msgstr "Tillefoannûmer tafoegje"
 
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
@@ -4372,11 +4372,11 @@ msgstr "Akseptearje"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
-msgstr ""
+msgstr "Lûdsynstellingen"
 
 msgctxt "sZAPBUTTON_BACK"
 msgid "Back"
-msgstr ""
+msgstr "Werom"
 
 msgctxt "sZAPBUTTON_BUYCREDIT"
 msgid "Buy Skype Credit"
@@ -4392,7 +4392,7 @@ msgstr "Belje"
 
 msgctxt "sZAPBUTTON_CALLMULTIPLE"
 msgid "Call"
-msgstr ""
+msgstr "Petear"
 
 msgctxt "sZAPBUTTON_ADDTOCALL"
 msgid "Add to call"
@@ -4464,19 +4464,19 @@ msgstr "Mikrofoan"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_INACTIVE"
 msgid "Speaker"
-msgstr ""
+msgstr "Lûdsprekker"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_GOOD"
 msgid "Speaker"
-msgstr ""
+msgstr "Lûdsprekker"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_AVERAGE"
 msgid "Speaker"
-msgstr ""
+msgstr "Lûdsprekker"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_POOR"
 msgid "Speaker"
-msgstr ""
+msgstr "Lûdsprekker"
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_INACTIVE"
 msgid "Computer"
@@ -4512,7 +4512,7 @@ msgstr "Ferbining"
 
 msgctxt "sZAPBUTTON_CQ_PLAY"
 msgid "Play"
-msgstr ""
+msgstr "Ofspylje"
 
 msgctxt "sZAPBUTTON_CQ_CHECK"
 msgid "Check call quality guide"
@@ -4540,7 +4540,7 @@ msgstr "*"
 
 msgctxt "sZAPBUTTON_CALLPHONES"
 msgid "Call phones"
-msgstr ""
+msgstr "Tillefoans belje"
 
 msgctxt "sZAPBUTTON_CANCEL"
 msgid "Cancel"
@@ -4552,7 +4552,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SUBMITPASSWORD"
 msgid "Submit"
-msgstr ""
+msgstr "Befêstigje"
 
 msgctxt "sZAPBUTTON_CANCELVOICEMAIL"
 msgid "Cancel voice message"
@@ -4584,7 +4584,7 @@ msgstr "Slute"
 
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sZAPBUTTON_CONTACTS"
 msgid "Contacts"
@@ -4604,7 +4604,7 @@ msgstr "Wegerje"
 
 msgctxt "sZAPBUTTON_DECLINECALL"
 msgid "Decline"
-msgstr ""
+msgstr "Wegerje"
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
@@ -4668,7 +4668,7 @@ msgstr "Bewurkje"
 
 msgctxt "sZAPBUTTON_FINDOUTMORE"
 msgid "Find out more"
-msgstr ""
+msgstr "Mear ynformaasje"
 
 msgctxt "sZAPBUTTON_FINDCONTACT"
 msgid "Find this person"
@@ -4768,7 +4768,7 @@ msgstr "Oar"
 
 msgctxt "sZAPBUTTON_ADDPEOPLE"
 msgid "Add people"
-msgstr ""
+msgstr "Persoanen tafoegje"
 
 msgctxt "sZAPBUTTON_ADDPEOPLESKYPE"
 msgid "Skype"
@@ -4820,7 +4820,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr ""
+msgstr "Thús"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -4848,7 +4848,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_LEARNMORE"
 msgid "Learn more"
-msgstr ""
+msgstr "Mear ynformaasje"
 
 msgctxt "sZAPBUTTON_LEAVECONVERSATION"
 msgid "Leave conversation"
@@ -4920,7 +4920,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
-msgstr ""
+msgstr "Ofspylje"
 
 msgctxt "sZAPBUTTON_PREVIOUS"
 msgid "Previous"
@@ -4948,7 +4948,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RECORD"
 msgid "Record"
-msgstr ""
+msgstr "Opnimme"
 
 msgctxt "sZAPBUTTON_TESTRECORD"
 msgid "Test"
@@ -4956,11 +4956,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RECORDING"
 msgid "Recording..."
-msgstr ""
+msgstr "Opnimme..."
 
 msgctxt "sZAPBUTTON_PLAYRECORDED"
 msgid "Playing..."
-msgstr ""
+msgstr "Ofspylje..."
 
 msgctxt "sZAPBUTTON_REDIAL"
 msgid "Redial"
@@ -4980,11 +4980,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr ""
+msgstr "Petear ferfetsje"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr ""
+msgstr "Download ferfetsje"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -4992,27 +4992,27 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 msgctxt "sZAPBUTTON_SAVEALL"
 msgid "Save all"
-msgstr ""
+msgstr "Alles opslaan"
 
 msgctxt "sZAPBUTTON_SAVEALLAS"
 msgid "Save all"
-msgstr ""
+msgstr "Alles opslaan"
 
 msgctxt "sZAPBUTTON_SAVECONTACT"
 msgid "Save Contact"
-msgstr ""
+msgstr "Kontakt opslaan"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "Alles annulearje"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
-msgstr ""
+msgstr "Opslaan as"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
@@ -5044,11 +5044,11 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SIGNIN"
 msgid "Sign in"
-msgstr ""
+msgstr "Oanmelde"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
-msgstr ""
+msgstr "Oerslaan"
 
 msgctxt "sZAPBUTTON_SELECTCONTACTS"
 msgid "Select contacts"
@@ -5080,7 +5080,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SKIPVERSION"
 msgid "Skip version"
-msgstr ""
+msgstr "Ferzje oerslaan"
 
 msgctxt "sZAPBUTTON_SKYPEHOME"
 msgid "Skype Home"
@@ -5088,15 +5088,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SMS"
 msgid "Send SMS"
-msgstr ""
+msgstr "SMS ferstjoere"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr ""
+msgstr "Fideopetear"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr ""
+msgstr "Fideopetear"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
@@ -5104,11 +5104,11 @@ msgstr "Fideoberjocht"
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "Fideoberjocht ferstjoere"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
-msgstr ""
+msgstr "Fideoberjocht ôfspylje"
 
 msgctxt "sZAPBUTTON_POPOUTPLAY"
 msgid "Play voice message"
@@ -5168,19 +5168,19 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
-msgstr ""
+msgstr "Fideo oansette"
 
 msgctxt "sZAPBUTTON_VIDEOSTOP"
 msgid "Turn off video"
-msgstr ""
+msgstr "Fideo útsette"
 
 msgctxt "sZAPBUTTON_VIDEOOFF"
 msgid "Turn off video"
-msgstr ""
+msgstr "Fideo útsette"
 
 msgctxt "sZAPBUTTON_VIDEOCONTINUE"
 msgid "Keep video on"
-msgstr ""
+msgstr "Fideo oanhâlde"
 
 msgctxt "sZAPBUTTON_REMOTEUISENDMESSAGE"
 msgid "Send update message"
@@ -5192,7 +5192,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSHAREFULLSCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "Skermen diele..."
 
 msgctxt "sZAPBUTTON_SCREENSHARINGSTOPSHARING"
 msgid "Stop sharing"
@@ -5256,7 +5256,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_PARTNER"
 msgid "Partner"
-msgstr ""
+msgstr "Partner"
 
 msgctxt "sZAPBUTTON_FEEDBACK"
 msgid "Give feedback"
@@ -5350,7 +5350,7 @@ msgstr ""
 
 msgctxt "sZAPCONTACT_PHONE"
 msgid "Phone"
-msgstr ""
+msgstr "Tillefoan"
 
 msgctxt "sCALLPHONES_PHONE_EDIT_HINT"
 msgid "Enter number"
@@ -5370,11 +5370,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_INCOMING"
 msgid "Call from %s"
-msgstr ""
+msgstr "Petear fan %s"
 
 msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
-msgstr ""
+msgstr "Petear nei %s"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
@@ -5494,7 +5494,7 @@ msgstr ""
 
 msgctxt "sCONVERSATIONSEARCH_TEXT"
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 msgctxt "sCONVERSATIONSEARCH_FILES"
 msgid "Files"
@@ -5502,7 +5502,7 @@ msgstr "Triemmen"
 
 msgctxt "sCONVERSATIONSEARCH_CALLS"
 msgid "Calls"
-msgstr ""
+msgstr "Petearen"
 
 msgctxt "sCONVERSATIONSEARCH_VOICEMAILS"
 msgid "Voice messages"
@@ -5510,11 +5510,11 @@ msgstr ""
 
 msgctxt "sCONVERSATIONSEARCH_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sZAPCONTACT_SKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sCALL_VM_RERECORD"
 msgid "Re-record the voice message"
@@ -5597,7 +5597,7 @@ msgstr ""
 
 msgctxt "sOPTIONS_NO_AUDIO_DEVICE"
 msgid "None"
-msgstr ""
+msgstr "gjin"
 
 msgctxt "sOPTIONS_UNMUTE_SPEAKERS"
 msgid "Automatically adjust speaker settings"
@@ -5605,15 +5605,15 @@ msgstr ""
 
 msgctxt "sSMS_RECIPIENTS"
 msgid "%d Recipients"
-msgstr ""
+msgstr "%d untfangers"
 
 msgctxt "sSMS_STATUS_PENDING_SINGLE"
 msgid "Sent"
-msgstr ""
+msgstr "Ferstjoerd"
 
 msgctxt "sSMS_STATUS_SENT_SINGLE"
 msgid "Delivered"
-msgstr ""
+msgstr "Oflevere"
 
 msgctxt "sSMS_STATUS_FAILED_SINGLE"
 msgid "Failed"
@@ -5621,11 +5621,11 @@ msgstr ""
 
 msgctxt "sSMS_STATUS_PENDING_MULTIPLE"
 msgid "%d sent"
-msgstr ""
+msgstr "%d ferstjoerd"
 
 msgctxt "sSMS_STATUS_SENT_MULTIPLE"
 msgid "%d delivered"
-msgstr ""
+msgstr "%d ôflevere"
 
 msgctxt "sSMS_STATUS_FAILED_MULTIPLE"
 msgid "%d failed"
@@ -5650,11 +5650,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_REMAINING_TIME"
 msgid "%s remaining"
-msgstr ""
+msgstr "%s oerbliuwend"
 
 msgctxt "sFILETRANSFER_MULTI_COMPLETED"
 msgid "Completed"
-msgstr ""
+msgstr "Klear"
 
 msgctxt "sFILETRANSFER_MULTI_CANCELLED"
 msgid "Cancelled"
@@ -5676,7 +5676,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_SUMMARY_COMPLETED"
 msgid "%d completed"
-msgstr ""
+msgstr "%d klear"
 
 msgctxt "sFILETRANSFER_SUMMARY_CANCELLED"
 msgid "%d cancelled"
@@ -5742,7 +5742,7 @@ msgstr "Mikrofoan"
 
 msgctxt "sOPTIONS_AUDIO_SPEAKERS"
 msgid "Speakers"
-msgstr ""
+msgstr "Lûdsprekkers"
 
 msgctxt "sOPTIONS_AUDIO_MOVEUP"
 msgid "Move up"
@@ -5758,11 +5758,11 @@ msgstr "Fuortsmite"
 
 msgctxt "sOPTIONS_MEGABYTES"
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgctxt "sOPTIONS_AUDIO_DEVICE_NONE"
 msgid "None"
-msgstr ""
+msgstr "gjin"
 
 msgctxt "sOPTIONS_AUDIO_ADVANCED_LBL"
 msgid ""
@@ -5805,7 +5805,7 @@ msgstr "Profyl"
 
 msgctxt "sMAINMENU_SKYPE_PRIVACY"
 msgid "Privacy..."
-msgstr ""
+msgstr "Privacy..."
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
 msgid "My account"
@@ -5821,7 +5821,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_SIGN_OUT"
 msgid "Sign Out"
-msgstr ""
+msgstr "Ofmelde"
 
 msgctxt "sMAINMENU_SKYPE_CLOSE"
 msgid "Close"
@@ -5849,7 +5849,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Namme"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
@@ -5889,11 +5889,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION"
 msgid "Conversation"
-msgstr ""
+msgstr "Petear"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Ferstjoere"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_MESSAGE"
 msgid "Instant Message (IM)"
@@ -5901,11 +5901,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VIDEOMESSAGE"
 msgid "Video Message"
-msgstr ""
+msgstr "Fideoberjocht"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_FILE"
 msgid "File..."
@@ -5921,7 +5921,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_HIDE"
 msgid "Hide"
-msgstr ""
+msgstr "Ferbergje"
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_TO_CONTACTS"
 msgid "Save Group to Contacts"
@@ -5941,7 +5941,7 @@ msgstr "Deblokkearje"
 
 msgctxt "sMAINMENU_CONVERSATION_SEARCH"
 msgid "Find..."
-msgstr ""
+msgstr "Sykje..."
 
 msgctxt "sMAINMENU_CONVERSATION_MARK_AS_UNREAD"
 msgid "Mark as Unread"
@@ -5957,7 +5957,7 @@ msgstr "Belje"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr ""
+msgstr "Fideopetear"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
@@ -5993,19 +5993,19 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL_AUDIO"
 msgid "Audio Settings..."
-msgstr ""
+msgstr "Lûdsynstellingen..."
 
 msgctxt "sMAINMENU_CALL_VIDEO"
 msgid "Video"
-msgstr ""
+msgstr "Fideo"
 
 msgctxt "sMAINMENU_CALL_VIDEO_SNAPSHOT"
 msgid "Video Snapshot"
-msgstr ""
+msgstr "Fot"
 
 msgctxt "sMAINMENU_CALL_VIDEO_SETTINGS"
 msgid "Video Settings"
-msgstr ""
+msgstr "Fideo-ynstellingen"
 
 msgctxt "sMAINMENU_CALL_QUALITY"
 msgid "Learn about Call Quality"
@@ -6238,7 +6238,7 @@ msgstr ""
 
 msgctxt "sGROUP_AVATAR_BROWSER_DEFAULT_PIC"
 msgid "No picture"
-msgstr ""
+msgstr "Gjin ôfbylding"
 
 msgctxt "sFEEDBACK_TITLE"
 msgid "Leave feedback about Skype™"
@@ -6270,7 +6270,7 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_GROUP_STATUS"
 msgid "%d recipients: %s"
-msgstr ""
+msgstr "%d untfangers: %s"
 
 msgctxt "sINBOX_PINNED_CONVERSATIONS"
 msgid "Pinned conversations"
@@ -6282,7 +6282,7 @@ msgstr ""
 
 msgctxt "sF_CONVERSATIONS_MANY"
 msgid "%d conversations"
-msgstr ""
+msgstr "%d petearen"
 
 msgctxt "sLIVECONVLIST_CALL_FINISHED"
 msgid "Call ended"
@@ -6305,7 +6305,7 @@ msgstr ""
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
-msgstr ""
+msgstr "Triem ferstjoere nei %s"
 
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
@@ -6325,7 +6325,7 @@ msgstr ""
 
 msgctxt "sTRAYALERT_ISONLINE"
 msgid "is online"
-msgstr ""
+msgstr "is online"
 
 msgctxt "sTRAYALERT_ISOFFLINE"
 msgid "went offline"
@@ -6333,7 +6333,7 @@ msgstr ""
 
 msgctxt "sTRAYALERT_EXAMPLE"
 msgid "Example"
-msgstr ""
+msgstr "Foarbyld"
 
 msgctxt "sTRAYALERT_ALLMESSAGES2"
 msgid "View all messages"
@@ -6381,7 +6381,7 @@ msgstr ""
 
 msgctxt "sREMOVEGROUP_CAPTION"
 msgid "Delete List?"
-msgstr ""
+msgstr "List fuortsmite?"
 
 msgctxt "sREMOVEGROUP_WARNING"
 msgid "Do you want to delete the list \"%s\"?"
@@ -6389,7 +6389,7 @@ msgstr ""
 
 msgctxt "sREMOVEGROUP_TITLE"
 msgid "Delete list"
-msgstr ""
+msgstr "List fuortsmite?"
 
 msgctxt "sCONTACT_PROFILE_EDIT_PHONE"
 msgid "Edit number"
@@ -6412,7 +6412,7 @@ msgstr ""
 
 msgctxt "sSHOP_CAPTION"
 msgid "Shop"
-msgstr ""
+msgstr "Winkel"
 
 msgctxt "sCONTACT_PROFILE_SAVE"
 msgid "Save this number as a contact"
@@ -6428,7 +6428,7 @@ msgstr ""
 
 msgctxt "sF_COM_MULTIPLE"
 msgid "%s messages"
-msgstr ""
+msgstr "%s berjochten"
 
 msgctxt "sCONTACT_ADD_TO_GROUP"
 msgid "Add to List"
@@ -6540,7 +6540,7 @@ msgstr ""
 
 msgctxt "sFILESIZE_UNIT"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgctxt "sCALL_LB2_FINISHED2"
 msgid "Call ended, duration %s"
@@ -6556,11 +6556,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_SMALL"
 msgid "Small"
-msgstr ""
+msgstr "Lyts"
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_LARGE"
 msgid "Large"
-msgstr ""
+msgstr "Grut"
 
 msgctxt "sPARTICIPANT_REMOVE_FROM_CONVERSATION"
 msgid "Remove person from this group"
@@ -6568,15 +6568,15 @@ msgstr ""
 
 msgctxt "sHISTORY_QF_HINT"
 msgid "Search history"
-msgstr ""
+msgstr "Skiednis sykje"
 
 msgctxt "sHISTORY_FILTER_ALL_EVENTS"
 msgid "All events"
-msgstr ""
+msgstr "Alle barrens"
 
 msgctxt "sHISTORY_FILTER_ALL_CALLS"
 msgid "All calls"
-msgstr ""
+msgstr "Alle petearen"
 
 msgctxt "sHISTORY_FILTER_MISSED_CALLS"
 msgid "Missed calls"
@@ -6604,7 +6604,7 @@ msgstr ""
 
 msgctxt "sHISTORY_FILTER_SMSES"
 msgid "SMS messages"
-msgstr ""
+msgstr "SMS-berjochten"
 
 msgctxt "sBROWSER_LOADING"
 msgid "Please wait while the page loads..."
@@ -6630,7 +6630,7 @@ msgstr ""
 
 msgctxt "sFILESIZE_PREFIXES"
 msgid "\\k\\M\\G\\T"
-msgstr ""
+msgstr "\\k\\M\\G\\T"
 
 msgctxt "sBLOCK_TEXT2"
 msgid ""
@@ -6672,7 +6672,7 @@ msgstr ""
 
 msgctxt "sBLOCK_PEOPLE"
 msgid "%s people"
-msgstr ""
+msgstr "%s persoanen"
 
 msgctxt "sBLOCK_REMOVE"
 msgid "Remove from your Contact list"
@@ -6714,11 +6714,11 @@ msgstr ""
 
 msgctxt "sOPTIONS_FONT_LABEL"
 msgid "Font:"
-msgstr ""
+msgstr "Lettertype:"
 
 msgctxt "sOPTIONS_FONT_POINTS"
 msgid "pt"
-msgstr ""
+msgstr "pt"
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
 msgid "Open a new window when I receive a new message in Compact view"
@@ -6726,11 +6726,11 @@ msgstr ""
 
 msgctxt "sF_CALL_QLT_LBL_AUDIO_PROBLEMS"
 msgid "Audio problems"
-msgstr ""
+msgstr "Lûdsproblemen"
 
 msgctxt "sF_CALL_QLT_LBL_VIDEO_PROBLEMS"
 msgid "Video problems"
-msgstr ""
+msgstr "Fideoproblemen"
 
 msgctxt "sF_CALL_QLT_LBL2_VERY_GOOD"
 msgid "<b>Excellent</b><br />Perfect, clear, no problems"
@@ -6875,11 +6875,11 @@ msgstr ""
 
 msgctxt "sCHAT_MENU_COPY_MESSAGE"
 msgid "Copy Message"
-msgstr ""
+msgstr "Berjocht kopiearje"
 
 msgctxt "sMAINMENU_CONVERSATION_TOPIC"
 msgid "Topic"
-msgstr ""
+msgstr "Underwerp"
 
 msgctxt "sMAINMENU_CONVERSATION_SETTOPIC"
 msgid "Set Topic..."
@@ -6891,7 +6891,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_PEOPLE"
 msgid "Add People..."
-msgstr ""
+msgstr "Persoanen tafoegje..."
 
 msgctxt "sPUBLICCHAT_NOT_SUPPORTED"
 msgid "Public chats are not supported in this version"
@@ -6899,7 +6899,7 @@ msgstr ""
 
 msgctxt "sPROFILE_OUTLOOK_CONTACT"
 msgid "Outlook Contact"
-msgstr ""
+msgstr "Outlook-kontakt"
 
 msgctxt "sCALL_LB2_BLOCKED_BY_US"
 msgid "Destination is temporarily blocked"
@@ -6943,7 +6943,7 @@ msgstr "Bewurkje"
 
 msgctxt "sPFOFILE_HEADER_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 msgctxt "sPFOFILE_HEADER_CANCEL"
 msgid "Cancel"
@@ -7083,7 +7083,7 @@ msgstr ""
 
 msgctxt "sVERSION"
 msgid "Version"
-msgstr ""
+msgstr "Ferzje"
 
 msgctxt "sCALL_CONF_NO_EMERGENCY"
 msgid "Group calling with emergency services is not supported"
@@ -7134,7 +7134,7 @@ msgstr "Dielnimmers"
 
 msgctxt "sVIDEOMENU_START_SCREEN_SHARING"
 msgid "Share Screens..."
-msgstr ""
+msgstr "Skermen diele..."
 
 msgctxt "sVIDEOMENU_STOP_SCREEN_SHARING"
 msgid "Stop Sharing Screen"
@@ -7313,15 +7313,15 @@ msgstr ""
 
 msgctxt "sTRAYMENU_ANSWER"
 msgid "Answer Call"
-msgstr ""
+msgstr "Opnimme"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr ""
+msgstr "Negearje"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr ""
+msgstr "Ophingje"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -7504,7 +7504,7 @@ msgstr ""
 
 msgctxt "sCQGUIDE_BACK_BUTTON"
 msgid "« Back"
-msgstr ""
+msgstr "« Werom"
 
 msgctxt "SCQGUIDE_BACK_TO_MAINSCREEN"
 msgid "Return to main screen"
@@ -7544,7 +7544,7 @@ msgstr "Annulearje"
 
 msgctxt "sF_SEND_CONTACTS_DLG_CAPTION"
 msgid "Send contacts"
-msgstr ""
+msgstr "Kontakten ferstjoere"
 
 msgctxt "sF_SEND_CONTACTS_TO"
 msgid "Send contacts to <b>%s</b>"
@@ -7580,7 +7580,7 @@ msgstr ""
 
 msgctxt "sTASKBAR_MENU_QUIT"
 msgid "Quit Skype"
-msgstr ""
+msgstr "Skype ôfslute"
 
 msgctxt "sTASKBAR_MENU_SKYACCESS"
 msgid "Skype WiFi..."
@@ -8152,15 +8152,15 @@ msgstr "Mikrofoan"
 
 msgctxt "sCQ_INDICATOR_SPK_BUTTON_HINT"
 msgid "Speakers"
-msgstr ""
+msgstr "Lûdsprekkers"
 
 msgctxt "sCQ_INDICATOR_CAM_BUTTON_HINT"
 msgid "Video"
-msgstr ""
+msgstr "Fideo"
 
 msgctxt "sCQ_INDICATOR_NET_BUTTON_HINT"
 msgid "Internet connection"
-msgstr ""
+msgstr "Ynternetferbining"
 
 msgctxt "sCQ_INDICATOR_CPU_BUTTON_HINT"
 msgid "Computer speed"
@@ -8400,7 +8400,7 @@ msgstr ""
 
 msgctxt "sNO_WEBCAM_BUTTON_HINT"
 msgid "Video call"
-msgstr ""
+msgstr "Fideopetear"
 
 msgctxt "sERROR_HINT_VIDEO_24"
 msgid ""
@@ -8482,7 +8482,7 @@ msgstr ""
 
 msgctxt "sVIDEO_IMAGE_SEND_TO_MANY"
 msgid "Send to..."
-msgstr ""
+msgstr "Ferstjoere nei..."
 
 msgctxt "sVIDEO_IMAGE_SEND_TO_ONE"
 msgid "Send to %s"
@@ -8526,15 +8526,15 @@ msgstr ""
 
 msgctxt "sACCOUNT_PANEL_NO_SUBSCRIPTION"
 msgid "No subscription"
-msgstr ""
+msgstr "Gjin abonnemint"
 
 msgctxt "sACCOUNT_PANEL_NR_OF_SUBSCRIPTIONS"
 msgid "%d subscriptions"
-msgstr ""
+msgstr "%d abonneminten"
 
 msgctxt "sMAINMENU_CONTACTS_ADD_CONTACT"
 msgid "Add Contact"
-msgstr ""
+msgstr "Kontakt tafoegje"
 
 msgctxt "sMAINMENU_CONTACTS_FRIEND_FINDER"
 msgid "Search Skype Directory..."
@@ -8620,7 +8620,7 @@ msgstr ""
 
 msgctxt "sMYSELF_PROFILE_CONTACTS"
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakten"
 
 msgctxt "sMYSELF_PROFILE_VOICEMAIL_LINK"
 msgid "Set up voice messaging"
@@ -8689,7 +8689,7 @@ msgstr ""
 
 msgctxt "sPROFILE_PRIVACY_PUBLIC_SHORT"
 msgid "Public"
-msgstr ""
+msgstr "Iepenbier"
 
 msgctxt "sPROFILE_PRIVACY_PUBLIC_LONG"
 msgid "Public - visible to everyone on Skype"
@@ -8697,7 +8697,7 @@ msgstr ""
 
 msgctxt "sPROFILE_PRIVACY_BUDDIES_SHORT"
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakten"
 
 msgctxt "sPROFILE_PRIVACY_BUDDIES_LONG"
 msgid "Contacts only - visible just to your contacts"
@@ -8705,7 +8705,7 @@ msgstr ""
 
 msgctxt "sPROFILE_PRIVACY_PRIVATE_SHORT"
 msgid "Private"
-msgstr ""
+msgstr "Privee"
 
 msgctxt "sPROFILE_PRIVACY_PRIVATE_LONG"
 msgid "Private - visible only to you"
@@ -8713,7 +8713,7 @@ msgstr ""
 
 msgctxt "sPROFILE_MOOD_LABEL"
 msgid "Mood"
-msgstr ""
+msgstr "Stimming"
 
 msgctxt "sMAINMENU_SHOW_HIDDEN_CONV"
 msgid "Show Hidden Conversations"
@@ -8729,7 +8729,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW_SMSMESSAGES"
 msgid "SMS Messages"
-msgstr ""
+msgstr "SMS-berjochten"
 
 msgctxt "sMAINMENU_CONVERSATION_HIDE"
 msgid "Hide Conversation"
@@ -8811,7 +8811,7 @@ msgstr ""
 
 msgctxt "sCQ_MSG_OFFLINE_TITLE"
 msgid "%s is offline"
-msgstr ""
+msgstr "%s is offline"
 
 msgctxt "sCQ_MSG_OFFLINE_TEXT"
 msgid "Hold on while we try to get the call back."
@@ -8849,7 +8849,7 @@ msgstr ""
 
 msgctxt "sACCOUNT_PANEL_ONE_SUBSCRIPTION"
 msgid "1 subscription"
-msgstr ""
+msgstr "1 abonnemint"
 
 msgctxt "sMYSELFPROFILE_SKYPEIN_LINK"
 msgid "Get a Skype Number"
@@ -8929,19 +8929,19 @@ msgstr ""
 
 msgctxt "sLIVE_MOBILE"
 msgid "(mobile)"
-msgstr ""
+msgstr "(mobyl)"
 
 msgctxt "sLIVE_HOME"
 msgid "(home)"
-msgstr ""
+msgstr "(thús)"
 
 msgctxt "sLIVE_OFFICE"
 msgid "(office)"
-msgstr ""
+msgstr "(wurk)"
 
 msgctxt "sLIVE_PHONE"
 msgid "(phone)"
-msgstr ""
+msgstr "(tillefoan)"
 
 msgctxt "s_OPTIONS_WATERMARK"
 msgid "Show Skype watermark during calls"
@@ -8949,11 +8949,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW_INSTANT_MESSAGES"
 msgid "Instant Messages"
-msgstr ""
+msgstr "Chatberjochten"
 
 msgctxt "sCALLPHONES_RATES_SUBSCR_PER"
 msgid "%s for %s"
-msgstr ""
+msgstr "%s foar %s"
 
 msgctxt "sMYSELF_PROFILE_NOT_SPECIFIED"
 msgid "Not specified"
@@ -9016,15 +9016,15 @@ msgstr ""
 
 msgctxt "sMYSELF_PROFILE_ADD_NUMBER"
 msgid "Add number"
-msgstr ""
+msgstr "Nûmer tafoegje"
 
 msgctxt "sMYSELF_PROFILE_ADD_EMAIL"
 msgid "Add email address"
-msgstr ""
+msgstr "E-mailadres tafoegje"
 
 msgctxt "sMYSELF_PROFILE_ADD_HOMEPAGE"
 msgid "Add homepage"
-msgstr ""
+msgstr "Webstee tafoegje"
 
 msgctxt "sMYSELF_PROFILE_ADD_ABOUTME"
 msgid "Write a few words..."
@@ -9036,11 +9036,11 @@ msgstr ""
 
 msgctxt "sMYSELF_PROFILE_ADD_CITY"
 msgid "Add city"
-msgstr ""
+msgstr "Plak tafoegje"
 
 msgctxt "sLIVE_PRICE_FORMAT"
 msgid "%s/min"
-msgstr ""
+msgstr "%s/min"
 
 msgctxt "sOPTIONS_DISPLAY_AVATARS"
 msgid "Show profile pictures in Contact List"
@@ -9136,7 +9136,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
-msgstr ""
+msgstr "Petear fan %s (%s)"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
@@ -9148,7 +9148,7 @@ msgstr "Kontante ferstjoere..."
 
 msgctxt "sSHARE_MENU_SHARE_MY_SCREEN"
 msgid "Share screens..."
-msgstr ""
+msgstr "Skermen diele..."
 
 msgctxt "sSMSPOPUP_DESC_NONUMBER"
 msgid "Add this person's phone number to send them text messages (SMS)"
@@ -9190,15 +9190,15 @@ msgstr ""
 
 msgctxt "sF_CALL_FAILURE_RATES_EXCL_VAT"
 msgid "(%s /min incl. VAT)"
-msgstr ""
+msgstr "(%s /min ynkl. btw)"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION"
 msgid "From %s for %s"
-msgstr ""
+msgstr "Fan %s foar %s"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCR_EXCL_VAT"
 msgid "(%s incl. VAT)"
-msgstr ""
+msgstr "(%s ynkl. btw)"
 
 msgctxt "sAVATAR_VIEW_ONE_PERSON"
 msgid "%d person"
@@ -9206,7 +9206,7 @@ msgstr "%d persoan"
 
 msgctxt "sAVATAR_VIEW_MULTIPLE_PERSONS"
 msgid "%d people"
-msgstr ""
+msgstr "%d persoanen"
 
 msgctxt "sF_OPTIONS_VIDEO_DISABLED"
 msgid "This feature is disabled by your administrator."
@@ -9246,11 +9246,11 @@ msgstr ""
 
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
-msgstr ""
+msgstr "(%s/min ynkl. btw)"
 
 msgctxt "sCALLPHONES_SUBSCR_INC_VAT"
 msgid "(%s incl. VAT)"
-msgstr ""
+msgstr "(%s ynkl. btw)"
 
 msgctxt "sCALLPHONES_SUBSCR_EXPIRED"
 msgid "Subscription expired"
@@ -9266,7 +9266,7 @@ msgstr "Tillefoan belje"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr ""
+msgstr "Tillefoannûmer tafoegje"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -9485,7 +9485,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_NO_BTN"
 msgid "No"
-msgstr ""
+msgstr "Nee"
 
 msgctxt "sDELETE_VOICEMAIL_ERROR"
 msgid "Please wait a few moments and try deleting the message again."
@@ -9513,7 +9513,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr ""
+msgstr "Dielnimmers tafoegje, triemmen ferstjoere en mear"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -9521,7 +9521,7 @@ msgstr ""
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_TITLE"
 msgid "Share Screens"
-msgstr ""
+msgstr "Skermen diele"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_OK"
 msgid "Call"
@@ -9537,7 +9537,7 @@ msgstr ""
 
 msgctxt "sMENU_EXTRAS_GET_APPS_CAPTION"
 msgid "Get Apps..."
-msgstr ""
+msgstr "Mear apps..."
 
 msgctxt "sLIVE_PLUS_MENU_ADD_PEOPLE"
 msgid "Add people to this call..."
@@ -9591,7 +9591,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SETUP_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "Trochgean"
 
 msgctxt "sGETTING_STARTED_TITLE"
 msgid "<b>Setting up Skype</b>"
@@ -9651,7 +9651,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_MORE_HELP"
 msgid "More help"
-msgstr ""
+msgstr "Mear help"
 
 msgctxt "sGETTING_STARTED_PLAY_SOUND"
 msgid "Test sound"
@@ -9692,7 +9692,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_CHOOSE_FILE_BUTTON"
 msgid "Browse..."
-msgstr ""
+msgstr "Blêdzje..."
 
 msgctxt "sGETTING_STARTED_CHOOSE_WEBCAM_LABEL"
 msgid "Choose a different webcam"
@@ -9822,7 +9822,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_PRIVACY"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privacybelied"
 
 msgctxt "sTEST_SOUND_PLAY_ACC_DESC"
 msgid "Click to start playing test sound"
@@ -9916,7 +9916,7 @@ msgstr ""
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
 msgid "&Send contact details"
-msgstr ""
+msgstr "Kontaktdetails fer&stjoere"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
@@ -9926,7 +9926,7 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "Favoriten"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
@@ -9946,11 +9946,11 @@ msgstr "Fuortsmite"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr ""
+msgstr "Tafoegje oan favoriten"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "Fuortsmite út favoriten"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
@@ -9994,7 +9994,7 @@ msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_INTRO_HEADER"
 msgid "Introducing Skype WiFi"
-msgstr ""
+msgstr "Yntroduksje fan Skype WiFi"
 
 msgctxt "sSKYPEWIFI_INTRO_DESC"
 msgid ""
@@ -10016,7 +10016,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_INTRO_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "Trochgean"
 
 msgctxt "sSKYPEWIFI_NOTCONNECTED_HEADER"
 msgid "You're not connected to WiFi"
@@ -10028,7 +10028,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_NOTCONNECTED_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "Mear ynformaasje"
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_HEADER"
 msgid "You're already online"
@@ -10042,7 +10042,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ALREADYONLINE_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "Mear ynformaasje"
 
 msgctxt "sSKYPEWIFI_ERROR_HEADER"
 msgid "Unable to connect"
@@ -10137,11 +10137,11 @@ msgstr "Kaartnûmer"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_MONTH"
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_YEAR"
 msgid "yy"
-msgstr ""
+msgstr "jj"
 
 msgctxt "sSKYPEWIFI_PAYMENT_EDITHINT_SECURITYNUMBER"
 msgid "Security"
@@ -10183,7 +10183,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "Trochgean"
 
 msgctxt "sSKYPEWIFI_PAYMENTFAIL_HEADER"
 msgid "Payment error"
@@ -10283,7 +10283,7 @@ msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_FLOATER_AVAILABLE"
 msgid "Available"
-msgstr ""
+msgstr "Beskikber"
 
 msgctxt "sSKYPEWIFI_FLOATER_CONNECTING"
 msgid "Connecting..."
@@ -10295,7 +10295,7 @@ msgstr "Skype WiFi"
 
 msgctxt "sSKYPEWIFI_FAQ_TITLE"
 msgid "FAQ"
-msgstr ""
+msgstr "Faak stelde fragen"
 
 msgctxt "sSKYPEWIFI_FAQ"
 msgid ""
@@ -10346,11 +10346,11 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADING"
 msgid "Sending"
-msgstr ""
+msgstr "Ferstjoere"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UPLOADED"
 msgid "Sent"
-msgstr ""
+msgstr "Ferstjoerd"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_EXPIRED"
 msgid "Video message expired"
@@ -10431,7 +10431,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_MESSENGER"
 msgid "Messenger"
-msgstr ""
+msgstr "Messenger"
 
 msgctxt "sOPTIONS_ALLOW_DATA_COLLECTION1"
 msgid ""
@@ -10449,7 +10449,7 @@ msgstr ""
 
 msgctxt "sLIVE_LOGIN_BACK"
 msgid "Go back"
-msgstr ""
+msgstr "Werom"
 
 msgctxt "sLIVE_LOGIN_AUTO_SIGNIN"
 msgid "Sign me in when Skype starts"
@@ -10481,11 +10481,11 @@ msgstr ""
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER"
 msgid "Add number"
-msgstr ""
+msgstr "Nûmer tafoegje"
 
 msgctxt "sADD_PHONES_FORM_ADD_NAME"
 msgid "Add name"
-msgstr ""
+msgstr "Namme tafoegje"
 
 msgctxt "sADD_PHONES_FORM_NUMBER"
 msgid "Number"
@@ -10493,11 +10493,11 @@ msgstr "Nûmer"
 
 msgctxt "sADD_PHONES_FORM_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Namme"
 
 msgctxt "sADD_PHONES_FORM_TYPE"
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 msgctxt "sSMS_FAILED_BUY_CREDIT"
 msgid "<a href=\"skype:?payments\">Buy Skype Credit</a>"
@@ -10531,7 +10531,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_LOGINHELP_BUTTON"
 msgid "Learn more"
-msgstr ""
+msgstr "Mear ynformaasje"
 
 msgctxt "sOUTLOOK_CAPTION"
 msgid "Outlook"
@@ -10539,7 +10539,7 @@ msgstr "Outlook"
 
 msgctxt "sMESSENGER_CAPTION"
 msgid "Messenger"
-msgstr ""
+msgstr "Messenger"
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
 msgid "No results for %s"
@@ -10569,7 +10569,7 @@ msgstr "Skype"
 
 msgctxt "sCHANNEL_SWITCHER_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sCHAT_MESSAGING_UNAVAILABLE"
 msgid "Messaging unavailable."
@@ -10581,7 +10581,7 @@ msgstr "Facebook"
 
 msgctxt "sCHANNEL_SWITCHER_PASSPORT"
 msgid "Messenger"
-msgstr ""
+msgstr "Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
 msgid "Lync"
@@ -10593,7 +10593,7 @@ msgstr "fia <a href=\"x\">Skype</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SMS"
 msgid "via <a href=\"x\">SMS</a>"
-msgstr ""
+msgstr "fia <a href=\"x\">SMS</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_FACEBOOK"
 msgid "via <a href=\"x\">Facebook</a>"
@@ -10601,11 +10601,11 @@ msgstr "fia <a href=\"x\">Facebook</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_PASSPORT"
 msgid "via <a href=\"x\">Messenger</a>"
-msgstr ""
+msgstr "fia <a href=\"x\">Messenger</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
 msgid "via <a href=\"x\">Lync</a>"
-msgstr ""
+msgstr "fia <a href=\"x\">Lync</a>"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
@@ -10652,7 +10652,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_INTRO_NEW_PICTURE"
 msgid "New picture"
-msgstr ""
+msgstr "Nije ôfbylding"
 
 msgctxt "sUPSELL_PLUS_BUTTON_HINT"
 msgid "Do more Skype to Skype"
@@ -10660,7 +10660,7 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_HINT"
 msgid "Send"
-msgstr ""
+msgstr "Ferstjoere"
 
 msgctxt "sPARTICIPANTS_HAVE_NO_NUMBER_STATUS"
 msgid "You can only send an SMS to people with saved numbers."
@@ -10668,7 +10668,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_TOU_CAPTION"
 msgid "Terms of Use"
-msgstr ""
+msgstr "Brûkersbetingsten"
 
 msgctxt "sCONVERSATION_FLAMINGO_PARTNER_BLOCKED"
 msgid ""
@@ -10711,7 +10711,7 @@ msgstr ""
 
 msgctxt "sMYINFO_SUBSCRIPTIONS"
 msgid "Subscriptions"
-msgstr ""
+msgstr "Abonneminten"
 
 msgctxt "sMYINFO_ONE_SUBSCRIPTION"
 msgid "1 subscription<br/><a href=\"%s\">Manage subscriptions</a>"
@@ -10789,11 +10789,11 @@ msgstr ""
 
 msgctxt "sPROFILE_ACCOUNTS"
 msgid "Accounts"
-msgstr ""
+msgstr "Accounts"
 
 msgctxt "sPROFILE_MANAGE"
 msgid "Manage"
-msgstr ""
+msgstr "Beheare"
 
 msgctxt "sTOPUP_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
@@ -10823,7 +10823,7 @@ msgstr ""
 
 msgctxt "sTOPUP_INC_VAT"
 msgid "%s incl. VAT"
-msgstr ""
+msgstr "%s ynkl. btw"
 
 msgctxt "sTOPUP_ADD_CREDIT"
 msgid "Add credit"
@@ -10837,7 +10837,7 @@ msgstr ""
 
 msgctxt "sTOPUP_CONFIRMATION_CONT"
 msgid "Continue"
-msgstr ""
+msgstr "Trochgean"
 
 msgctxt "sTOPUP_GENERIC_ERROR"
 msgid ""
@@ -10857,7 +10857,7 @@ msgstr ""
 
 msgctxt "sTOPUP_CONT_ERROR_BUTTON"
 msgid "Continue"
-msgstr ""
+msgstr "Trochgean"
 
 msgctxt "sTOPUP_CONN_ERROR"
 msgid ""
@@ -10875,11 +10875,11 @@ msgstr "Slute"
 
 msgctxt "sLYNC_CAPTION"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sCONTACT_GROUP_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
 msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
@@ -11019,11 +11019,11 @@ msgstr ""
 
 msgctxt "sCALL_LYNC"
 msgid "Lync"
-msgstr ""
+msgstr "Lync"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
-msgstr ""
+msgstr "Nûmer tafoegje"
 
 msgctxt "sADD_PHONE_NUMBER_CAPTION"
 msgid "Save a phone number"
@@ -11035,7 +11035,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr ""
+msgstr "Tafoegje oan favoriten"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
@@ -11043,7 +11043,7 @@ msgstr "Fideoberjocht ferstjoere..."
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
-msgstr ""
+msgstr "Fideoberjocht ferstjoere"
 
 msgctxt "sAC_SEND_REQ"
 msgid "%s is not in your Contacts"
@@ -11119,11 +11119,11 @@ msgstr "Annulearje"
 
 msgctxt "sVIDEOMSG_RECORD_CAPTION"
 msgid "Record"
-msgstr ""
+msgstr "Opnimme"
 
 msgctxt "sTASKBAR_MENU_SIGN_OUT"
 msgid "Sign Out"
-msgstr ""
+msgstr "Ofmelde"
 
 msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
 msgid "recording a video message or sharing screens"
@@ -11139,7 +11139,7 @@ msgstr ""
 
 msgctxt "sPREM_VIDEO_MESSAGE_WEB_WINDOW_CAPTION"
 msgid "Video messaging"
-msgstr ""
+msgstr "Fideoberjochten"
 
 msgctxt "sOPTIONS_NOTIF_VIDEO_MESSAGE"
 msgid "sends me a video message"
@@ -11147,7 +11147,7 @@ msgstr ""
 
 msgctxt "sTRAYALERT_VIDEO_MESSAGE"
 msgid "New video message"
-msgstr ""
+msgstr "Nij fideoberjocht"
 
 msgctxt "sVIDEOMSG_STATUS_TEXT_UNAVAILABLE"
 msgid "Video message is unavailable"
@@ -11155,11 +11155,11 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_VIDEO_MESSAGE"
 msgid "Send video message..."
-msgstr ""
+msgstr "Fideoberjocht ferstjoere..."
 
 msgctxt "sCONVERSATION_VIDEO_MESSAGE"
 msgid "New video message"
-msgstr ""
+msgstr "Nij fideoberjocht"
 
 msgctxt "sACC_NAME_MYSELF_HEADER"
 msgid "My profile"
@@ -11171,11 +11171,11 @@ msgstr "Sykje"
 
 msgctxt "sACC_NAME_CONTACTS_TAB"
 msgid "All contacts"
-msgstr ""
+msgstr "Alle kontakten"
 
 msgctxt "sACC_NAME_CONVERSATION_LIST"
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakten"
 
 msgctxt "sACC_NAME_CONVERSATIONS_TAB"
 msgid "All recent messages."
@@ -11187,7 +11187,7 @@ msgstr "Resinte berjochten"
 
 msgctxt "sACC_NAME_CONVERSATION_FAVORITE"
 msgid "Favorite"
-msgstr ""
+msgstr "Favoryt"
 
 msgctxt "sACC_NAME_ONLINE_STATUS"
 msgid "%0:s, select to change status"
@@ -11199,7 +11199,7 @@ msgstr ""
 
 msgctxt "sACC_NAME_SELECTED_GROUP_CUSTOM"
 msgid "All %0:s"
-msgstr ""
+msgstr "All %0:s"
 
 msgctxt "sVIDEOMSG_UPSELL"
 msgid "Would you like to leave a video message?"
@@ -11207,7 +11207,7 @@ msgstr ""
 
 msgctxt "sVIDEOMSG_UPSELL_BUTTON"
 msgid "Video message"
-msgstr ""
+msgstr "Fideoberjocht"
 
 msgctxt "sACC_NAME_CONVERSATION_SEARCH_EDIT_CLEAR"
 msgid "Clear search input"
@@ -11253,11 +11253,11 @@ msgstr ""
 
 msgctxt "sACC_NAME_SELECTED_GROUP_ALL_BUDDIES"
 msgid "All contacts"
-msgstr ""
+msgstr "Alle kontakten"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_SKYPE_BUDDIES"
 msgid "All Skype contacts"
-msgstr ""
+msgstr "Alle Skype-kontakten"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_ONLINE_BUDDIES"
 msgid "All online contacts"
@@ -11265,19 +11265,19 @@ msgstr ""
 
 msgctxt "sACC_NAME_SELECTED_GROUP_EXTERNAL_CONTACTS"
 msgid "All Outlook contacts"
-msgstr ""
+msgstr "Alle Outlook-kontakten"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_XMPP_CONTACTS"
 msgid "All Facebook contacts"
-msgstr ""
+msgstr "Alle Facebook-kontakten"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_PASSPORT_CONTACTS"
 msgid "All Messenger contacts"
-msgstr ""
+msgstr "Alle Messenger-kontakten"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
 msgid "All Lync contacts"
-msgstr ""
+msgstr "Alle Lync-kontakten"
 
 msgctxt "sACC_CALL_POPUP_NAME"
 msgid "Call options"
@@ -11337,11 +11337,11 @@ msgstr "Tiidsône"
 
 msgctxt "sACC_MYSELF_PROFILE_COUNTRY_COMBO_NAME"
 msgid "Country/Region"
-msgstr ""
+msgstr "Lân/regio"
 
 msgctxt "sACC_MYSELF_PROFILE_GENDER_COMBO_NAME"
 msgid "Gender"
-msgstr ""
+msgstr "Geslacht"
 
 msgctxt "sACC_MYSELF_PROFILE_LANGUAGE_COMBO_NAME"
 msgid "Language"
@@ -11349,11 +11349,11 @@ msgstr "Taal"
 
 msgctxt "sACC_MYSELF_PROFILE_BIRTH_DAY_COMBO_NAME"
 msgid "Day"
-msgstr ""
+msgstr "Dei"
 
 msgctxt "sACC_MYSELF_PROFILE_BIRTH_MONTH_COMBO_NAME"
 msgid "Month"
-msgstr ""
+msgstr "Moanne"
 
 msgctxt "sACC_MYSELF_PROFILE_BIRTH_YEAR_COMBO_NAME"
 msgid "Year"
@@ -11535,7 +11535,7 @@ msgstr ""
 
 msgctxt "sACC_OPTIONS_SMS_SETTINGS"
 msgid "SMS settings"
-msgstr ""
+msgstr "SMS-ynstellingen"
 
 msgctxt "sACC_OPTIONS_CALL_FORWARDING_ENTER_PHONE_COMBO_NAME"
 msgid "Enter phone number"
@@ -11595,11 +11595,11 @@ msgstr ""
 
 msgctxt "sACC_ACTION_BUTTON_CLICK"
 msgid "Click"
-msgstr ""
+msgstr "Klik"
 
 msgctxt "sACC_ACTION_LINK_CLICK"
 msgid "Click"
-msgstr ""
+msgstr "Klik"
 
 msgctxt "sACC_ACTION_CHECK"
 msgid "Check"
@@ -11623,7 +11623,7 @@ msgstr "Tillefoannûmer"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE"
 msgid "Offline"
-msgstr ""
+msgstr "Offline"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE_VM"
 msgid "Offline with voice messaging"
@@ -11635,7 +11635,7 @@ msgstr ""
 
 msgctxt "sACC_NAME_STATUS_ONLINE"
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 msgctxt "sACC_NAME_STATUS_AWAY"
 msgid "Away"
@@ -11887,7 +11887,7 @@ msgstr ""
 
 msgctxt "sACC_GSW_PROFILE_PICTURE"
 msgid "Profile picture"
-msgstr ""
+msgstr "Profylôfbylding"
 
 msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P"
 msgid ""
@@ -12006,7 +12006,7 @@ msgstr ""
 
 msgctxt "sVP8LEGACY_SEND_UPGRADE_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Ferstjoere"
 
 msgctxt "sVP8LEGACY_SEND_UPGRADE_CANCEL"
 msgid "Not now"
@@ -12140,11 +12140,11 @@ msgstr "Facebook > %s"
 
 msgctxt "sPROFILE_MESSENGER_PRESENCE"
 msgid "Messenger > %s"
-msgstr ""
+msgstr "Messenger > %s"
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
 msgid "Lync > %s"
-msgstr ""
+msgstr "Lync > %s"
 
 msgctxt "sCHAT_PROFILE_ONE_PERSON"
 msgid "%d person"
@@ -12152,11 +12152,11 @@ msgstr "%d persoan"
 
 msgctxt "sCHAT_PROFILE_MANY_PERSONS"
 msgid "%d people"
-msgstr ""
+msgstr "%d persoanen"
 
 msgctxt "sCHAT_PROFILE_ZERO_PERSONS"
 msgid "0 people"
-msgstr ""
+msgstr "0 persoanen"
 
 msgctxt "sCHAT_PROFILE_AVATAR_ACC_NAME"
 msgid "Conversation with %s, view profile"
@@ -12168,7 +12168,7 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CONTEXT_MENU_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Ferstjoere"
 
 msgctxt "sPARTICIPANT_CONTEXT_MENU_SETNUMBER"
 msgid "Group call to..."
@@ -12180,11 +12180,11 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_SEND_SMS"
 msgid "Send SMS..."
-msgstr ""
+msgstr "SMS ferstjoere..."
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SMS_MULTIPLE"
 msgid "Send SMS to %s"
-msgstr ""
+msgstr "SMS ferstjoere nei %s"
 
 msgctxt "sFLOW_AUTH_REQUEST_HEADER"
 msgid "<b>%s</b> would like to add you on Skype"
@@ -12248,23 +12248,23 @@ msgstr ""
 
 msgctxt "sidea_SMILEY"
 msgid "Idea"
-msgstr ""
+msgstr "Idee"
 
 msgctxt "ssheep_SMILEY"
 msgid "Sheep"
-msgstr ""
+msgstr "Skiep"
 
 msgctxt "scat_SMILEY"
 msgid "Cat"
-msgstr ""
+msgstr "Kat"
 
 msgctxt "sbike_SMILEY"
 msgid "Bicycle"
-msgstr ""
+msgstr "Fyts"
 
 msgctxt "sdog_SMILEY"
 msgid "Dog"
-msgstr ""
+msgstr "Hûn"
 
 msgctxt "scaptain_SMILEY"
 msgid "Captain America"
@@ -12284,7 +12284,7 @@ msgstr ""
 
 msgctxt "sshielddeflect_SMILEY"
 msgid "Shield"
-msgstr ""
+msgstr "Skyld"
 
 msgctxt "sCALLNOTIF_TITLE_V2"
 msgid "%s calling..."
@@ -12328,11 +12328,11 @@ msgstr "%s"
 
 msgctxt "sFILETRANSFER_PROGRESS_ASYNC"
 msgid "%s of %s..."
-msgstr ""
+msgstr "%s fan %s..."
 
 msgctxt "sFILETRANSFER_PROGRESS_ASYNC_GROUP"
 msgid "%s of %s"
-msgstr ""
+msgstr "%s fan %s"
 
 msgctxt "sFILETRANSFER_FILE_MOVED"
 msgid "File moved"
@@ -12352,11 +12352,11 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_PHOTO_COUNT_SINGLE"
 msgid "photo"
-msgstr ""
+msgstr "foto"
 
 msgctxt "sFILETRANSFER_PHOTO_COUNT_MANY"
 msgid "photos"
-msgstr ""
+msgstr "foto's"
 
 msgctxt "sFILETRANSFER_FILE_COUNT_SINGLE"
 msgid "file"
@@ -12368,19 +12368,19 @@ msgstr "triemmen"
 
 msgctxt "sFILETRANSFER_FILES_SENT"
 msgid "Files sent"
-msgstr ""
+msgstr "Triemmen ferstjoerd"
 
 msgctxt "sFILETRANSFER_FILES_RECEIVED"
 msgid "Files received"
-msgstr ""
+msgstr "Triemmen ûntfange"
 
 msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
 msgid "Download all"
-msgstr ""
+msgstr "Alles downloade"
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "Alles annulearje"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
@@ -12432,27 +12432,27 @@ msgstr ""
 
 msgctxt "sFILETRANSFER_SUMMARY_MORE_FILES"
 msgid "%d more file(s)"
-msgstr ""
+msgstr "%d mear triem(men)"
 
 msgctxt "sFILESIZE_PREFIXES_ASYNC"
 msgid "\\K\\M\\G\\T"
-msgstr ""
+msgstr "\\K\\M\\G\\T"
 
 msgctxt "sFILESIZE_UNIT_ASYNC"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgctxt "sCONTACT_MSG_MULTIPLE_SENT"
 msgid "contacts sent"
-msgstr ""
+msgstr "kontakten ferstjoerd"
 
 msgctxt "sCONTACT_MSG_MULTIPLE_RECEIVED"
 msgid "contacts received"
-msgstr ""
+msgstr "kontakten ûntfange"
 
 msgctxt "sCONTACT_MSG_CONTACT_SENT"
 msgid "Contact sent"
-msgstr ""
+msgstr "Kontakt ferstjoerd"
 
 msgctxt "sCONTACT_MSG_CONTACT_EXISTING"
 msgid "Already a contact"
@@ -12468,51 +12468,51 @@ msgstr "Skype:"
 
 msgctxt "sF_USERPROFILE_HOME_FIRST"
 msgid "Home:"
-msgstr ""
+msgstr "Thús:"
 
 msgctxt "sF_USERPROFILE_OFFICE_FIRST"
 msgid "Office:"
-msgstr ""
+msgstr "Wurk:"
 
 msgctxt "sF_USERPROFILE_MOBILE_FIRST"
 msgid "Mobile:"
-msgstr ""
+msgstr "Mobyl:"
 
 msgctxt "sF_USERPROFILE_OTHER_FIRST"
 msgid "Other:"
-msgstr ""
+msgstr "Oar:"
 
 msgctxt "sF_USERPROFILE_PHONE_FIRST"
 msgid "Phone:"
-msgstr ""
+msgstr "Tillefoan:"
 
 msgctxt "sF_USERPROFILE_HOME_SUBSEQUENT"
 msgid "Home %0:s:"
-msgstr ""
+msgstr "Thús %0:s:"
 
 msgctxt "sF_USERPROFILE_OFFICE_SUBSEQUENT"
 msgid "Office %0:s:"
-msgstr ""
+msgstr "Wurk %0:s:"
 
 msgctxt "sF_USERPROFILE_MOBILE_SUBSEQUENT"
 msgid "Mobile %0:s:"
-msgstr ""
+msgstr "Mobyl %0:s:"
 
 msgctxt "sF_USERPROFILE_OTHER_SUBSEQUENT"
 msgid "Other %0:s:"
-msgstr ""
+msgstr "Oar %0:s:"
 
 msgctxt "sF_USERPROFILE_PHONE_SUBSEQUENT"
 msgid "Phone %0:s:"
-msgstr ""
+msgstr "Tillefoan %0:s:"
 
 msgctxt "sF_USERPROFILE_ADD_NUMBER"
 msgid "Add Number"
-msgstr ""
+msgstr "Nûmer tafoegje"
 
 msgctxt "sF_CHAT_INFO_PEOPLE"
 msgid "%0:s people"
-msgstr ""
+msgstr "%0:s persoanen"
 
 msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS"
 msgid "Conversation notifications"
@@ -12614,7 +12614,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_VIEW_FAVORITES"
 msgid "Favorites"
-msgstr ""
+msgstr "Favoriten"
 
 msgctxt "sCONTACT_GROUP_ALLCONTACTS"
 msgid "All Contacts"
@@ -12654,11 +12654,11 @@ msgstr ""
 
 msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
 msgid "%s for 1 month"
-msgstr ""
+msgstr "%s foar 1 moanne"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
 msgid "From %s for 1 month"
-msgstr ""
+msgstr "Foar %s foar 1 moanne"
 
 msgctxt "sCALLPHONES_PAYG_CAPTION_NO_RATE"
 msgid "Pay As You Go"
@@ -12674,11 +12674,11 @@ msgstr ""
 
 msgctxt "sVOICEMAIL_PROMPT_CAP"
 msgid "Voice message"
-msgstr ""
+msgstr "Fideoberjocht"
 
 msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
 msgid "Phone:"
-msgstr ""
+msgstr "Tillefoan:"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER"
 msgid "Edit"
@@ -12686,7 +12686,7 @@ msgstr "Bewurkje"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
 msgid "Edit %s"
-msgstr ""
+msgstr "%s bewurkje"
 
 msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
 msgid "Leave Conversation"
@@ -12704,15 +12704,15 @@ msgstr ""
 
 msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
 msgid "SMS sent to <a href=\"x\">%d people</a>"
-msgstr ""
+msgstr "SMS ferstjoerd nei <a href=\"x\">%d persoanen</a>"
 
 msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
 msgid "SMS sent to <a href=\"x\">%d person</a>"
-msgstr ""
+msgstr "SMS ferstjoerd nei <a href=\"x\">%d persoan</a>"
 
 msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
 msgid "SMS sent to <a href=\"x\">%d people</a>"
-msgstr ""
+msgstr "SMS ferstjoerd nei <a href=\"x\">%d persoanen</a>"
 
 msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a video call"
@@ -12748,7 +12748,7 @@ msgstr "Nije foto"
 
 msgctxt "sPHOTO_SAVE_AS"
 msgid "Save as..."
-msgstr ""
+msgstr "Opslaan as..."
 
 msgctxt "sPHOTO_MSG_LEGACY_MESSAGE"
 msgid "To view this shared photo, go to: %1"

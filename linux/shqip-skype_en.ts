@@ -102,9 +102,9 @@
         <translation>Emri Syke, i shoqëruar me markat tregtare dhe stemat dhe stemën &quot;S&quot; janë marka tregtare të Skype ose entitete të lidhura.</translation>
     </message>
     <message>
-        <source>Copyright 2003-2013 Skype and/or Microsoft</source>
+        <source>© 2014 Skype and/or Microsoft</source>
         <comment>sF_ABOUT_COPYRIGHT_1_1</comment>
-        <translation>© 2003 - 2013 Skype dhe/ose Microsoft</translation>
+        <translation>© 2014 Skype dhe/ose Microsoft</translation>
     </message>
 </context>
 <context>
@@ -114,16 +114,8 @@
         <translation>Shto pjesëmarrës</translation>
     </message>
     <message>
-        <source>Add, send and share...</source>
-        <translation>Dhe, dërgo dhe ndaj...</translation>
-    </message>
-    <message>
         <source>End call</source>
         <translation>Përfundo thirrjen</translation>
-    </message>
-    <message>
-        <source>Show chat</source>
-        <translation>Shfaq bisedimin</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
@@ -178,12 +170,20 @@
         <translation>Shto njerëz në Këtë thirrje</translation>
     </message>
     <message>
-        <source>Click this button to resume the call.</source>
-        <translation>Kliko këtë pullë që ta vazhdosh thirrjen.</translation>
-    </message>
-    <message>
         <source>Share Selection</source>
         <translation>Ndaj përzgjedhjen</translation>
+    </message>
+    <message>
+        <source>Add participants, send files and more...</source>
+        <translation>Shto pjesëmarrës, dërgo skedarë dhe më tepër...</translation>
+    </message>
+    <message>
+        <source>Show IM</source>
+        <translation>Shfaq IM</translation>
+    </message>
+    <message>
+        <source>Resume call</source>
+        <translation>Vazhdo thirrjen</translation>
     </message>
 </context>
 <context>
@@ -209,28 +209,8 @@
 <context>
     <name>Calls</name>
     <message>
-        <source>Answer Call</source>
-        <translation>Përgjigju thirrjes</translation>
-    </message>
-    <message>
-        <source>Reject Call</source>
-        <translation>Refuzo thirrjen</translation>
-    </message>
-    <message>
-        <source>Ignore Call</source>
-        <translation>Injoro thirrjen</translation>
-    </message>
-    <message>
         <source>Call with %1</source>
         <translation>Thirr me %1</translation>
-    </message>
-    <message>
-        <source>Start Call</source>
-        <translation>Nis thirrje</translation>
-    </message>
-    <message>
-        <source>Hold Call</source>
-        <translation>Mbaje në pritje thirrjen</translation>
     </message>
     <message>
         <source>Resume Call</source>
@@ -261,56 +241,8 @@
         <translation>&amp;Anulo</translation>
     </message>
     <message>
-        <source>&amp;Add</source>
-        <translation>&amp;Shto</translation>
-    </message>
-    <message>
-        <source>&amp;Do not add</source>
-        <translation>&amp;Mos e shto</translation>
-    </message>
-    <message>
-        <source>Contacts in your list</source>
-        <translation>Kontaktet në listën tuaj</translation>
-    </message>
-    <message>
-        <source>Contacts to call</source>
-        <translation>Kontaktet për t&apos;i thirrur</translation>
-    </message>
-    <message>
-        <source>Type a number to call</source>
-        <translation>Shkruaj numrin që ta thirrni</translation>
-    </message>
-    <message>
-        <source>Connecting...</source>
-        <translation>Duke u lidhur...</translation>
-    </message>
-    <message>
-        <source>Problem with Audio Capture</source>
-        <translation>Probleme me pajisjen regjistruese.</translation>
-    </message>
-    <message>
-        <source>Problem with Audio Playback</source>
-        <translation>Probleme me pajisjen reprodukuese.</translation>
-    </message>
-    <message>
-        <source>Call Failed</source>
-        <translation>Thirrja dështoi</translation>
-    </message>
-    <message>
-        <source>Ringing...</source>
-        <translation>Duke cingërruar...</translation>
-    </message>
-    <message>
         <source>Call Finished</source>
         <translation>Thirrja mbaroi</translation>
-    </message>
-    <message>
-        <source>Call Missed</source>
-        <translation>Thirrje e humbur</translation>
-    </message>
-    <message>
-        <source>Call Refused</source>
-        <translation>Thirrje e refuzuar</translation>
     </message>
     <message>
         <source>Busy</source>
@@ -319,18 +251,6 @@
     <message>
         <source>Call Dropped</source>
         <translation>Thirrje e ndërprerë</translation>
-    </message>
-    <message>
-        <source>Calling rates</source>
-        <translation>Tarifat e thirrjes</translation>
-    </message>
-    <message>
-        <source>and %1</source>
-        <translation>dhe %1</translation>
-    </message>
-    <message>
-        <source>%1 is calling you</source>
-        <translation>%1 është duke ju thirrur juve</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
@@ -347,10 +267,6 @@
     <message>
         <source>Insufficient Credit</source>
         <translation>Kredi të pamjaftueshme</translation>
-    </message>
-    <message>
-        <source>Invalid Number</source>
-        <translation>Numër i pavlefshëm</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
@@ -385,14 +301,6 @@
         <translation>Kostoja e përllogaritur: %1</translation>
     </message>
     <message>
-        <source>Voice Message Greeting</source>
-        <translation>Mesazhi zanor përshëndetës</translation>
-    </message>
-    <message>
-        <source>Voice Message Recording</source>
-        <translation>Regjistrimi i mesazhit zanor</translation>
-    </message>
-    <message>
         <source>Unable to connect</source>
         <translation>E pamundur të lidhet</translation>
     </message>
@@ -417,79 +325,121 @@
         <translation>Bashkëngjitju thirrjes</translation>
     </message>
     <message>
-        <source>Hang up</source>
-        <translation>Ndërprit</translation>
-    </message>
-    <message>
-        <source>Invite to Conference call</source>
-        <translation>Fto në Thirrje konferencë</translation>
-    </message>
-    <message>
-        <source>You are receiving a conference call from %1 %2</source>
-        <translation>Ju jeni duke pranuar një thirrje konferencë nga %1 %2</translation>
-    </message>
-    <message>
         <source>Join Conference Call</source>
         <translation>Bashkëngjitju thirrjes konferencë</translation>
-    </message>
-    <message>
-        <source>Start Conference Call with Selected Contacts</source>
-        <translation>Nis Thirrje konferencë me Kontatet e përzgjedhura</translation>
-    </message>
-    <message>
-        <source>Invite Selected Contacts to Conference Call</source>
-        <translation>Fto Kontaktet e përzgjedhura në Thirrje konferencë</translation>
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
         <translation>Nëse ju thirrni %1 ky mesazh zanor do të anulohet.</translation>
     </message>
     <message>
-        <source>Start a conference call</source>
-        <translation>Nis një Thirrje konferencë</translation>
-    </message>
-    <message>
-        <source>Conference call topic (optional):</source>
-        <translation>Tema e thirrjes konferencë (opsionale)</translation>
-    </message>
-    <message>
         <source>Covered by subscription</source>
         <translation>Mbuluar nga abonimi</translation>
     </message>
     <message>
-        <source>End call with this person</source>
-        <translation>Mbaro thirrjen me Këtë person</translation>
-    </message>
-</context>
-<context>
-    <name>Chat</name>
-    <message>
-        <source>sent file</source>
-        <translation>dërgoi skedar</translation>
+        <source>Playing voice message greeting</source>
+        <translation>Reproduktimi i përshëndetjes së mesazhit zanor</translation>
     </message>
     <message>
-        <source>sent files</source>
-        <translation>dërgoi skedarë</translation>
+        <source>Recording my voice message greeting</source>
+        <translation>Regjistrimi i përshëndetjes sime të mesazhit zanor</translation>
     </message>
     <message>
-        <source>Open Chat</source>
-        <translation>Hap Bisedimin</translation>
+        <source>Problem with recording device</source>
+        <translation>Probleme me pajisjen regjistruese</translation>
     </message>
     <message>
-        <source>%1 user(s)</source>
-        <translation>%1 përdorues</translation>
+        <source>Problem with playback device</source>
+        <translation>Probleme me pajisjen reprodukuese</translation>
     </message>
     <message>
-        <source>No recent messages.</source>
-        <translation>Ska mesazhe  të fundme.</translation>
+        <source>Invalid phone number</source>
+        <translation>Numër telefonik i pavlefshëm</translation>
     </message>
     <message>
-        <source>%1 and %2 are writing...</source>
-        <translation>%1 dhe %2 janë duke shkruar...</translation>
+        <source>No answer</source>
+        <translation>Pa përgjigjje</translation>
     </message>
     <message>
-        <source>%1 is writing...</source>
-        <translation>%1 është duke shkruar...</translation>
+        <source>Sorry, call failed</source>
+        <translation>Na falni, thirrja dështoi.</translation>
+    </message>
+    <message>
+        <source>Calling...</source>
+        <translation>Duke thirrë</translation>
+    </message>
+    <message>
+        <source>Enter number</source>
+        <translation>Shkruaj numrin</translation>
+    </message>
+    <message>
+        <source>See all rates</source>
+        <translation>Tarifat e thirrjes</translation>
+    </message>
+    <message>
+        <source>Answer</source>
+        <translation>Përgjigju</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>Refuzo</translation>
+    </message>
+    <message>
+        <source>Invite to group call</source>
+        <translation>Shto në thirrje grupore</translation>
+    </message>
+    <message>
+        <source>%1 calling</source>
+        <translation>%1 duke thirrur</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Injoro</translation>
+    </message>
+    <message>
+        <source>Put Call on Hold</source>
+        <translation>Vë thirrjen në pritje</translation>
+    </message>
+    <message>
+        <source>Answering this call will put your active call on hold.</source>
+        <comment>sCALLALERT_CALLEXISTS_NO_OR</comment>
+        <translation>Duke iu përgjigjur kësaj thirrje do ta vendos thirrjen tuaj aktuale në pritje.</translation>
+    </message>
+    <message>
+        <source>End Call</source>
+        <translation>Përfundo thirrjen</translation>
+    </message>
+    <message>
+        <source>Call the Group</source>
+        <translation>Thirr grup</translation>
+    </message>
+    <message>
+        <source>Start a group call</source>
+        <translation>Nis një thirrje grupore</translation>
+    </message>
+    <message>
+        <source>Group call topic (optional):</source>
+        <translation>Tema e thirrjes grupore (opsionale)</translation>
+    </message>
+    <message>
+        <source>&amp;Select</source>
+        <translation>Përzgjidh</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>Hiq</translation>
+    </message>
+    <message>
+        <source>Choose contacts</source>
+        <translation>Përzgjidh kontaktet</translation>
+    </message>
+    <message>
+        <source>People in this group</source>
+        <translation>Njerëz në këtë grup</translation>
+    </message>
+    <message>
+        <source>Voice message sent</source>
+        <translation>Mesazh zanor i dërguar</translation>
     </message>
 </context>
 <context>
@@ -507,32 +457,12 @@
         <translation>Shiriti i veglave kontrollues i dritares së bisedimit</translation>
     </message>
     <message>
-        <source>Start Chat</source>
-        <translation>Nis Bisedimin</translation>
-    </message>
-    <message>
-        <source>Open Chat</source>
-        <translation>Hap bisedimin</translation>
-    </message>
-    <message>
         <source>Unbookmark Chat</source>
         <translation>Ç&apos;referencoje Bisedimin</translation>
     </message>
     <message>
         <source>Bookmark Chat</source>
         <translation>Referencoje Bisedimin</translation>
-    </message>
-    <message>
-        <source>Start Chat with Selected Contacts</source>
-        <translation>Nis Bisedimin me Kontatet e përzgjedhura</translation>
-    </message>
-    <message>
-        <source>Add to Chat</source>
-        <translation>Shto në Bisedim</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation>&amp;Mirë</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -551,48 +481,12 @@
         <translation>Përzgjidh kontaktet</translation>
     </message>
     <message>
-        <source>Chat participants</source>
-        <translation>Pjesëmarrësit e Bisedimit</translation>
-    </message>
-    <message>
         <source>Adding users failed</source>
         <translation>Shtimi i përdoruesve dështoi</translation>
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
         <translation>Nuk arritëm t&apos;i shtojmë disa përdorues në bisedim</translation>
-    </message>
-    <message>
-        <source>Load previous history from the chat</source>
-        <translation>Ngarko historinë paraprake nga bisedimi</translation>
-    </message>
-    <message>
-        <source>Leave Chat</source>
-        <translation>Braktis Bisedimin</translation>
-    </message>
-    <message>
-        <source>Last 24 Hours</source>
-        <translation>24 orët e fundit</translation>
-    </message>
-    <message>
-        <source>Last 7 Days</source>
-        <translation>7 ditët e fundit</translation>
-    </message>
-    <message>
-        <source>Last 14 Days</source>
-        <translation>14 ditët e fundit</translation>
-    </message>
-    <message>
-        <source>Last 30 Days</source>
-        <translation>30 ditët e fundit</translation>
-    </message>
-    <message>
-        <source>Forever</source>
-        <translation>Përherë</translation>
-    </message>
-    <message>
-        <source>Emoticons</source>
-        <translation>Emotikonët</translation>
     </message>
     <message>
         <source>Find</source>
@@ -604,28 +498,12 @@
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <source>If you leave this chat, you will no longer receive any new messages from the chat.  Are you really sure you want to leave the chat?</source>
-        <translation>Nëse ju e lëni këtë bisedim ju nuk do të pranoni më mesazhe të reja nga bisedimi. A jeni me të vërtetë të sigurtë që doni ta lëni bisedimin?</translation>
-    </message>
-    <message>
         <source>Click here to hide members of this chat</source>
         <translation>Kliko këtu që të fshehni anëtarët e këtij bisedimi</translation>
     </message>
     <message>
         <source>Click here to show members of this chat</source>
         <translation>Kliko këtu që të shfaqësh anëtarët e këtij bisedimi</translation>
-    </message>
-    <message>
-        <source>invited %1</source>
-        <translation>e ftoi %1</translation>
-    </message>
-    <message>
-        <source>has changed the chat topic to &quot;%1&quot;</source>
-        <translation>%s ka ndryshuar temën e bisedimit në &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>kicked %1 from the chat.</source>
-        <translation>dëboi %1 nga bisedimi.</translation>
     </message>
     <message>
         <source>Information</source>
@@ -637,46 +515,12 @@
         <translation>Nuk mund ta gjejë &quot;%1&quot; në bisedë (ju mund të dëshironi që së pari të shfaqni mesazhet paraprake)</translation>
     </message>
     <message>
-        <source>Cannot find more occurences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation>Nuk mund të gjejë më tepër gjetje të &quot;%1&quot; në bisedim (ju mund të dëshironi që së pari të shfaqni mesazhet paraprake)</translation>
-    </message>
-    <message>
-        <source>Double-click here to set chat topic.</source>
-        <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation>Kliko dy herë që ta caktoni temën e bisedimit.</translation>
-    </message>
-    <message>
-        <source>Double-click here to set chat topic</source>
-        <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation>Kliko dy herë që ta caktoni temën e bisedimit.</translation>
-    </message>
-    <message>
         <source>Chat with %1</source>
         <translation>Bisedo me %1</translation>
     </message>
     <message>
-        <source>%1 has joined the chat</source>
-        <translation>%1 iu bashkëngjit bisedimit</translation>
-    </message>
-    <message>
         <source>%1 new members were added to the chat</source>
         <translation>%1 anëtarë të rinj ishin shtuar në bisedim</translation>
-    </message>
-    <message>
-        <source>%1 has left the chat</source>
-        <translation>%1 e braktisi bisedimin</translation>
-    </message>
-    <message>
-        <source>%1 has set the topic to %2</source>
-        <translation>%1 ka vënë temën e bisedimit në &quot;%2&quot;</translation>
-    </message>
-    <message>
-        <source>This message is not delivered yet.</source>
-        <translation>Ky mesazh ende nuk është dërguar.</translation>
-    </message>
-    <message>
-        <source>Copy Selected Text</source>
-        <translation>Kopjo përzgjedhjen</translation>
     </message>
     <message>
         <source>Open Link</source>
@@ -699,30 +543,6 @@
         <translation>Largo fotografinë</translation>
     </message>
     <message>
-        <source>Loading Image Error!</source>
-        <translation>Gabim i ngarkimit të imazhit!</translation>
-    </message>
-    <message>
-        <source>Failed to convert the selected image to a proper format for Skype!
-Please select a different image file.</source>
-        <translation>Dështim në kthimin e imazhit të përzgjedhur në formatin e duhur për Skype!
-Të lutem zgjedh një skedar imazh tjetër.</translation>
-    </message>
-    <message>
-        <source>Image Size Error!</source>
-        <translation>Gabim i madhësisë së imazhit!</translation>
-    </message>
-    <message>
-        <source>The image file you have selected is too large!
-Please use a smaller size image!</source>
-        <translation>Skedari imazh që keni zgjedhur është tepër i madh!
-Të lutem përdor një imazh me madhësi më të vogël!</translation>
-    </message>
-    <message>
-        <source>Internal Error!</source>
-        <translation>Gabim i brendshëm!</translation>
-    </message>
-    <message>
         <source>The selected image file could not be set as a chat picture.
 Please use a different image file!</source>
         <translation>Skedari imazh i përzgjedhur nuk mund të vendoset si një fotografi të bisedimit.
@@ -739,18 +559,6 @@ Të lutem përdor një skedar imazh tjetër!</translation>
 Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë leximi.</translation>
     </message>
     <message>
-        <source>joined the chat</source>
-        <translation>%1 iu bashkëngjit bisedimit</translation>
-    </message>
-    <message>
-        <source>left the chat (%1).</source>
-        <translation>e braktisi bisedimin (%1).</translation>
-    </message>
-    <message>
-        <source>has changed the chat guidelines to &quot;%1&quot;.</source>
-        <translation>ka ndërruar udhëzimet e bisedimit për &quot;%1&quot;.</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>Imazhet</translation>
     </message>
@@ -761,14 +569,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Please select a file.</source>
         <translation>Të lutem zgjedh një skedar.</translation>
-    </message>
-    <message>
-        <source>This message has been removed by you.</source>
-        <translation>Ky mesazh ka qenë i larguar nga ju.</translation>
-    </message>
-    <message>
-        <source>This message has been removed.</source>
-        <translation>Ky mesazh ka qenë i larguar.</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -791,60 +591,12 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Kliko dy herë që ta caktoni/heqni imazhin e bisedimit.</translation>
     </message>
     <message>
-        <source>Rename Group</source>
-        <translation>Riemërto grupin</translation>
-    </message>
-    <message>
-        <source>Delete Group</source>
-        <translation>Fshi grupin</translation>
-    </message>
-    <message>
-        <source>This message has been edited by %1 at %2</source>
-        <translation>Ky mesazh ka qenë i redaktuar nga %1 te %2</translation>
-    </message>
-    <message>
-        <source>This message has been edited at %1</source>
-        <translation>Ky mesazh është redaktuar te %1</translation>
-    </message>
-    <message>
-        <source>This message has been removed by %1</source>
-        <translation>Ky mesazh ka qenë i larguar nga %1.</translation>
-    </message>
-    <message>
-        <source>Declined to be added</source>
-        <translation>Refuzuar që të shtohet</translation>
-    </message>
-    <message>
-        <source>Unsubscribed</source>
-        <translation>I ç&apos;abonuar</translation>
-    </message>
-    <message>
-        <source>Unknown reason</source>
-        <translation>Arsye e panjohur</translation>
-    </message>
-    <message>
         <source>Quote message</source>
         <translation>Cito mesazhin</translation>
     </message>
     <message>
-        <source>This person is using a version of Skype that doesn&apos;t support group chat</source>
-        <translation>Ky person është duke përdorur një version të Skype që nuk e përkrah bisedimin grupor</translation>
-    </message>
-    <message>
-        <source>Only people who have accepted contact request can be added</source>
-        <translation>Vetëm njerëzit që kanë pranuar kërkesën për miqësi mund të shtohen</translation>
-    </message>
-    <message>
         <source>%1 - Skype™ Chat</source>
         <translation>%1 - Skype™ Chat</translation>
-    </message>
-    <message>
-        <source>Last 6 Months</source>
-        <translation>6 muajt e fundit</translation>
-    </message>
-    <message>
-        <source>Last Year</source>
-        <translation>Viti i fundit</translation>
     </message>
     <message>
         <source>Are you sure you want to call?</source>
@@ -853,14 +605,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
         <translation>Jeni gati që të bëni një thirrje te %1. A jeni të sigurtë q[ të vazhdoni tutje?</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to leave this chat?</source>
-        <translation>A jeni të sigurtë që doni ta braktisni këtë bisedim?</translation>
-    </message>
-    <message>
-        <source>has changed the chat picture.</source>
-        <translation>ka ndryshuar imazhin e bisedimit.</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -873,10 +617,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Call Phones</source>
         <translation>Thirr telefonat</translation>
-    </message>
-    <message>
-        <source>%1 - %2</source>
-        <translation>%1 - %2</translation>
     </message>
     <message>
         <source>Remove from Favorites</source>
@@ -901,14 +641,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Fsheh bisedimin</translation>
     </message>
     <message>
-        <source>Add participants, send files and more</source>
-        <translation>Shto pjesëmarrës, dërgo skedarë dhe më tepër</translation>
-    </message>
-    <message>
-        <source>Send Files</source>
-        <translation>Dërgo skedar</translation>
-    </message>
-    <message>
         <source>Add people</source>
         <translation>Shto njerëz</translation>
     </message>
@@ -927,18 +659,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Add to Bookmarks</source>
         <translation>Shto te Referencat</translation>
-    </message>
-    <message>
-        <source>created a group chat with (%1).</source>
-        <translation>krijoi një bisedim grupor me (%1).</translation>
-    </message>
-    <message>
-        <source>created a group chat.</source>
-        <translation>krijoi një grup bisedimi.</translation>
-    </message>
-    <message>
-        <source>%1 has a birthday.</source>
-        <translation>%1 e ka ditëlindjen.</translation>
     </message>
     <message>
         <source>Call to %1, no answer.</source>
@@ -963,26 +683,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Call from %1, duration %2.</source>
         <translation>Thirrja nga %1, kohëzgjatja %2.</translation>
-    </message>
-    <message>
-        <source>blocked %1 from the chat.</source>
-        <translation>bllokoi %1 nga bisedimi.</translation>
-    </message>
-    <message>
-        <source>sent file %1.</source>
-        <translation>dërgoi skedar %1.</translation>
-    </message>
-    <message>
-        <source>sent files %1.</source>
-        <translation>dërgoi skedar %1.</translation>
-    </message>
-    <message>
-        <source>sent you a voice message.</source>
-        <translation>ju dërgoi një mesazh zanor.</translation>
-    </message>
-    <message>
-        <source>sent a voice message.</source>
-        <translation>dërgoi një mesazh zanor</translation>
     </message>
     <message>
         <source>Place a Call</source>
@@ -1024,16 +724,313 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation><numerusform>Aktiviteti i fundëm %n sekond(ë) më parë</numerusform><numerusform>Aktiviteti i fundëm %n sekond(ë) më parë</numerusform></translation>
     </message>
     <message>
-        <source>Conference call, duration %1.</source>
-        <translation>Thirrja konferencë, kohëzgjatja %1.</translation>
+        <source>[%1]%2 - %3</source>
+        <comment>%1 is the number of unread conversations, %2 is the display name of the conversation, %3 is 'Skype™'</comment>
+        <translation>[%1]%2 - %3</translation>
     </message>
     <message>
-        <source>Add to Conference Call</source>
-        <translation>Shto në Thirrje konferencë</translation>
+        <source>%1 - %2</source>
+        <comment>%1 is the display name of the conversation, %2 is 'Skype™'</comment>
+        <translation>%1 - %2</translation>
     </message>
     <message>
-        <source>Call participants</source>
-        <translation>Pjesëmarrësit e Bisedimit</translation>
+        <source>[%1]%2</source>
+        <comment>%1 is the number of unread conversations, %2 is 'Skype™'</comment>
+        <translation>[%1]%2</translation>
+    </message>
+    <message>
+        <source>Add participants and send files</source>
+        <translation>Shto pjesëmarrës dhe dërgo skedarë</translation>
+    </message>
+    <message>
+        <source>Show messages from</source>
+        <translation>Shfaq alarmet nga...</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>Dje</translation>
+    </message>
+    <message>
+        <source>7 days</source>
+        <translation>7 ditë</translation>
+    </message>
+    <message>
+        <source>14 days</source>
+        <translation>14 ditë</translation>
+    </message>
+    <message>
+        <source>30 days</source>
+        <translation>30 ditë</translation>
+    </message>
+    <message>
+        <source>6 months</source>
+        <translation>6 muaj</translation>
+    </message>
+    <message>
+        <source>1 year</source>
+        <translation>1 vit</translation>
+    </message>
+    <message>
+        <source>From beginning</source>
+        <translation>Që nga fillimi</translation>
+    </message>
+    <message>
+        <source>From older chat</source>
+        <translation>bisedimi më i vjetër</translation>
+    </message>
+    <message>
+        <source>Insert emoticon</source>
+        <translation>Vendos emotikonë</translation>
+    </message>
+    <message>
+        <source>Send a message</source>
+        <comment>sCHAT_SEND_MESSAGE</comment>
+        <translation>Dërgo një mesazh</translation>
+    </message>
+    <message>
+        <source>Find text in this chat</source>
+        <translation>Gjej tekstin në këtë bisedë</translation>
+    </message>
+    <message>
+        <source>Send file...</source>
+        <translation>Dërgo skedar...</translation>
+    </message>
+    <message>
+        <source>Add people...</source>
+        <translation>Shto njerëz</translation>
+    </message>
+    <message>
+        <source>Messaging unavailable.</source>
+        <comment>sCHAT_MESSAGING_UNAVAILABLE</comment>
+        <translation>Mesazhimi i pa disponueshëm.</translation>
+    </message>
+    <message>
+        <source>This chat has been updated to a new version. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Go to the new chat&lt;/a&gt;.</source>
+        <comment>sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_INPUT</comment>
+        <translation>Ky bisedim është përditësuar në një version të ri. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Shko te bisedimi i ri&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>Send SMS</source>
+        <comment>sCHAT_SEND_SMS</comment>
+        <translation>Dërgo SMS</translation>
+    </message>
+    <message>
+        <source>Leave chat</source>
+        <translation>Braktis Bisedimin</translation>
+    </message>
+    <message>
+        <source>Loading image error</source>
+        <translation>Gabim gjatë ngarkimit të imazhit!</translation>
+    </message>
+    <message>
+        <source>Failed to convert the selected image to a proper format for Skype.
+Please select a different image file.</source>
+        <translation>Dështim në kthimin e imazhit të përzgjedhur në formatin e duhur për Skype!
+Të lutem zgjedh një skedar imazh tjetër.</translation>
+    </message>
+    <message>
+        <source>Image size error</source>
+        <translation>Gabim i madhësisë së imazhit!</translation>
+    </message>
+    <message>
+        <source>The image file you have selected is too large.
+Please use a smaller size image.</source>
+        <translation>Skedari imazh që keni zgjedhur është tepër i madh! 
+Të lutem përdor një imazh me madhësi më të vogël.</translation>
+    </message>
+    <message>
+        <source>Skype internal error</source>
+        <translation>Gabim i brendshëm i Skype</translation>
+    </message>
+    <message>
+        <source>Leave this group</source>
+        <translation>Braktis këtë grup</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to leave this group?</source>
+        <translation>A je i/e sigurt që do ta braktisësh këtë grup?</translation>
+    </message>
+    <message>
+        <source>%1 joined.</source>
+        <translation>%1 u bashkëngjit.</translation>
+    </message>
+    <message>
+        <source>%1 added %2.</source>
+        <translation>%1 shtoi %2</translation>
+    </message>
+    <message>
+        <source>%1 needs to update Skype to participate in this chat. Help by sending them to Skype.com/downloads. Learn more about new group chat.</source>
+        <comment>sCHAT_LEGACY_MEMBER_ADDED_SINGLE</comment>
+        <translation>%1 i duhet ta përditësojë Skype që të merr pjesë në këtë bisedë. Ndihmo atë duke e dërguar Skype.com/downloads. Mëso më tepër për bisedën grupore të re </translation>
+    </message>
+    <message>
+        <source>%1 need to update Skype to participate in this chat. Help by sending them to Skype.com/downloads. Learn more about new group chat.</source>
+        <comment>sCHAT_LEGACY_MEMBER_ADDED_PLURAL</comment>
+        <translation>%1 i duhet ta përditësojë Skype që të merr pjesë në këtë bisedë. Ndihmo duke i dërguar ata te Skype.com/downloads. Mëso më tepër për bisedën grupore të re</translation>
+    </message>
+    <message>
+        <source>%1 can now participate in this chat.</source>
+        <comment>sCHAT_LEGACY_MEMBER_UPGRADED</comment>
+        <translation>%1 tani mund të merr pjesë në këtë bisedë.</translation>
+    </message>
+    <message>
+        <source>%1 has left.</source>
+        <translation>%1 e braktisi bisedimin</translation>
+    </message>
+    <message>
+        <source>%1 created a group chat with %2.</source>
+        <translation>%1 krijoi një bisedë grupore me %2</translation>
+    </message>
+    <message>
+        <source>%1 created a group chat.</source>
+        <translation>%1 krijoi një bisedë grupore</translation>
+    </message>
+    <message>
+        <source>%1 has changed the chat topic to &quot;%2&quot;.</source>
+        <translation>%1 e ndërroi temën e bisedimit në &quot;%2&quot;.</translation>
+    </message>
+    <message>
+        <source>%1 has changed the chat picture.</source>
+        <translation>%1 e ndërroi fotografinë e bisedimit.</translation>
+    </message>
+    <message>
+        <source>%1 started a call.</source>
+        <translation>%1 e nisi një thirrje.</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;It&apos;s %1&apos;s birthday today.&lt;/b&gt; Forgot the card? Make it up with a &lt;a href=&quot;%2&quot;&gt;Skype Gift Card&lt;/a&gt;.</source>
+        <comment>sCHAT_HAS_BIRTHDAY</comment>
+        <translation>&lt;b&gt;Është ditëlindja e %1 sot.&lt;/b&gt;&lt;br /&gt;Harrove kartolinën? Bëje një me&lt;a href=&quot;%2&quot;&gt;Kartolinë dhuratë e Skype&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>Group call, duration %1.</source>
+        <translation>Thirrje grupore, kohëzgjatja %1.</translation>
+    </message>
+    <message>
+        <source>%1 blocked %2.</source>
+        <translation>%1 bllokoi %2.</translation>
+    </message>
+    <message>
+        <source>%1 removed %2 from this chat.</source>
+        <translation>%1 e largoi %2 nga kjo bisedë.</translation>
+    </message>
+    <message>
+        <source>%1 sent file %2.</source>
+        <translation>%1 i dërgoi skedar %2.</translation>
+    </message>
+    <message>
+        <source>%1 sent files %2.</source>
+        <translation>%1 i dërgoi skedarë %2.</translation>
+    </message>
+    <message>
+        <source>%1 sent you a voice message.</source>
+        <translation>%1 iu dërgoi një mesazh zanor.</translation>
+    </message>
+    <message>
+        <source>%1 sent a voice message.</source>
+        <translation>%1 dërgoi një mesazh zanor.</translation>
+    </message>
+    <message>
+        <source>Cannot find more occurrences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
+        <translation>Nuk mund të gjejë më tepër gjetje të &quot;%1&quot; në bisedim (ju mund të dëshironi që së pari të shfaqni mesazhet paraprake)</translation>
+    </message>
+    <message>
+        <source>%1 and %2 are typing...</source>
+        <translation>%1 dhe %2 janë duke shkruar...</translation>
+    </message>
+    <message>
+        <source>%1 is typing...</source>
+        <translation>%1 është duke shkruar,,,</translation>
+    </message>
+    <message>
+        <source>Edited by %1 at %2</source>
+        <translation>Redaktuar nga %1 dhe %2</translation>
+    </message>
+    <message>
+        <source>Edited at %1</source>
+        <translation>Redaktuar nga %1</translation>
+    </message>
+    <message>
+        <source>Message removed by you.</source>
+        <translation>Mesazh u heq nga ju</translation>
+    </message>
+    <message>
+        <source>Message removed by %1.</source>
+        <translation>Mesazh i hequr nga %1.</translation>
+    </message>
+    <message>
+        <source>Message removed.</source>
+        <translation>Mesazh i hequr.</translation>
+    </message>
+    <message>
+        <source>Not delivered yet.</source>
+        <translation>E pa dërguar akoma.</translation>
+    </message>
+    <message>
+        <source>No recent messages.</source>
+        <translation>Ska mesazhe  të fundme.</translation>
+    </message>
+    <message>
+        <source>Copy Selection</source>
+        <translation>Kopjo përzgjedhjen</translation>
+    </message>
+    <message>
+        <source>Enter a topic for the chat</source>
+        <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
+        <translation>Shkruaj një temë për bisedim</translation>
+    </message>
+    <message>
+        <source>Send IM</source>
+        <translation>Dërgo MÇ</translation>
+    </message>
+    <message>
+        <source>%1 joined</source>
+        <translation>%1 u bashkëngjit</translation>
+    </message>
+    <message>
+        <source>%1 has left</source>
+        <translation>%1 ka ikur</translation>
+    </message>
+    <message>
+        <source>%1 has changed the chat topic to %2</source>
+        <translation>%1 e ndërroi temën e bisedimit në %2</translation>
+    </message>
+    <message>
+        <source>This chat has been updated to a new version. You need to get the latest Skype to participate in it.</source>
+        <translation>Ky bisedim është përditësuar në një version të ri. Duhet ta merrni Skypen e fundit që të marrësh pjesë në të.</translation>
+    </message>
+    <message>
+        <source>sent file</source>
+        <translation>skedari i derguar</translation>
+    </message>
+    <message>
+        <source>sent files</source>
+        <translation>skedarët e dërguar</translation>
+    </message>
+    <message>
+        <source>%1 user(s)</source>
+        <translation>%1 përdorues</translation>
+    </message>
+    <message>
+        <source>Add to group call</source>
+        <translation>Shto në thirrje grupore</translation>
+    </message>
+    <message>
+        <source>&amp;Select</source>
+        <translation>Pë&amp;rzgjidh</translation>
+    </message>
+    <message>
+        <source>People in this group</source>
+        <translation>Njerëz në këtë grup</translation>
+    </message>
+    <message>
+        <source>Call group</source>
+        <translation>Thirr grup</translation>
+    </message>
+    <message>
+        <source>Show group chat</source>
+        <comment>sCHAT_SPAWNED_CONF_LINK</comment>
+        <translation>Shfaq bisedën grupore</translation>
     </message>
 </context>
 <context>
@@ -1123,12 +1120,12 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Nuk pajtoj</translation>
     </message>
     <message>
-        <source>Report abuse from this person</source>
-        <translation>Raporto keqpërdorim për këtë person</translation>
-    </message>
-    <message>
         <source>You can also report abuse from this user. &lt;a href=&quot;%1&quot;&gt;Learn more&lt;/a&gt;</source>
         <translation>Mund të raportoni keqpërdorim nga ky përdorues. &lt;a href=&quot;%1&quot;&gt;Mëso më tepër&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Report abuse</source>
+        <translation>Raporto abuzim</translation>
     </message>
 </context>
 <context>
@@ -1138,28 +1135,8 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>%1 njerëz</translation>
     </message>
     <message>
-        <source>Say Hello to %1</source>
-        <translation>Përshëndete %1</translation>
-    </message>
-    <message>
         <source>Type a short message to introduce yourself to %1</source>
         <translation>Shkruaj një mesazh për të prezantuar veten te %1</translation>
-    </message>
-    <message>
-        <source>Please allow me to see when you are online</source>
-        <translation>Të lutem më lejo kur të jesh në linjë</translation>
-    </message>
-    <message>
-        <source> Call %1</source>
-        <translation>Thirr %1</translation>
-    </message>
-    <message>
-        <source> Start a chat with %1</source>
-        <translation>Bisedo me %1</translation>
-    </message>
-    <message>
-        <source> View the profile of %1</source>
-        <translation>Shih profilin e %1</translation>
     </message>
     <message>
         <source>Please let me see your contact details.</source>
@@ -1170,20 +1147,12 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Kërkesë kontakti nga %1</translation>
     </message>
     <message>
-        <source>Ignore Contact Request</source>
-        <translation>Injoro kërkesë kontakti</translation>
-    </message>
-    <message>
         <source>Ignore the contact request</source>
         <translation>Injoro kërkesë kontakti</translation>
     </message>
     <message>
         <source>Send Contact Request</source>
         <translation>Dërgo kërkesë kontakti</translation>
-    </message>
-    <message>
-        <source>Accept Contact Request</source>
-        <translation>Prano kërkesë kontakti</translation>
     </message>
     <message>
         <source>Hide Picture</source>
@@ -1200,6 +1169,34 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Accept contact request and add contact to your contact list</source>
         <translation>Prano kërkesë kontakti dhe shto kontaktin në listën e kotnakteve tuaj</translation>
+    </message>
+    <message>
+        <source>Decline</source>
+        <translation>Refuzo</translation>
+    </message>
+    <message>
+        <source>Accept</source>
+        <translation>Prano</translation>
+    </message>
+    <message>
+        <source>Hi %1, I&apos;d like to add you as a contact. %2</source>
+        <translation>Përshëndetje %1, do të doja t&apos;iu shtoja si një kontakt %2</translation>
+    </message>
+    <message>
+        <source>Send %1 a contact request</source>
+        <translation>Dërgo %1 një kërkesë kontakti</translation>
+    </message>
+    <message>
+        <source>Call %1</source>
+        <translation>Thirr %1</translation>
+    </message>
+    <message>
+        <source>Start a chat with %1</source>
+        <translation>Bisedo me %1</translation>
+    </message>
+    <message>
+        <source>View the profile of %1</source>
+        <translation>Shih profilin e %1</translation>
     </message>
 </context>
 <context>
@@ -1237,14 +1234,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Shih profilin</translation>
     </message>
     <message>
-        <source>Click this button to view this contact&apos;s profile.</source>
-        <translation>Kliko këtë pullë për të parë profilin e kontaktit.</translation>
-    </message>
-    <message>
-        <source>Profile Button</source>
-        <translation>Pulla e profilit</translation>
-    </message>
-    <message>
         <source>This contact is configured for video conferencing.</source>
         <translation>Ky kontakt është konfiguruar për video konferencë.</translation>
     </message>
@@ -1277,40 +1266,8 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Numër i fshehur</translation>
     </message>
     <message>
-        <source>Last Seen: %1</source>
-        <translation>Parë së fundi %1</translation>
-    </message>
-    <message>
         <source>Edit Contact</source>
         <translation>Redakto kontakt...</translation>
-    </message>
-    <message>
-        <source>Contact Groups</source>
-        <translation>Grupet e kontakteve</translation>
-    </message>
-    <message>
-        <source>Add to Contact List</source>
-        <translation>Shto te Lista e kontaktet</translation>
-    </message>
-    <message>
-        <source>Block Contact</source>
-        <translation>Blloko kontaktin</translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to delete %1 from your contact list?</source>
-        <translation>A je i/e sigurt që do ta fshish %1 nga lista e kontakteve tuaja?</translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to block %1?</source>
-        <translation>A je i/e sigurt që do ta bllokosh %1?</translation>
-    </message>
-    <message>
-        <source>Delete Selected Contacts</source>
-        <translation>Fshij kontaktet e përzgjedhura</translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to delete the selected users from your contact list?</source>
-        <translation>A je i/e sigurt që do ta fshish persona të përzgjedhur nga lista e kontakteve tuaja?</translation>
     </message>
     <message>
         <source>This contact is using a mobile device that does not support chats.</source>
@@ -1377,12 +1334,12 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Gjuha:</translation>
     </message>
     <message>
-        <source>Country:</source>
-        <translation>Shteti:</translation>
+        <source>Country/Region:</source>
+        <translation>Shteti/Rajoni:</translation>
     </message>
     <message>
-        <source>Region:</source>
-        <translation>Rajoni:</translation>
+        <source>State/Province:</source>
+        <translation>Shteti/Krahina:</translation>
     </message>
     <message>
         <source>City:</source>
@@ -1419,10 +1376,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Clear Birthday</source>
         <translation>Fshij ditëlindjen</translation>
-    </message>
-    <message>
-        <source>-- Unspecified --</source>
-        <translation>-- E përcaktuar --</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -1476,10 +1429,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <source>Undisclosed number</source>
         <translation>Numër i fshehur</translation>
     </message>
-    <message>
-        <source>Echo Test Service</source>
-        <translation>Shërbimi testues i jehonës</translation>
-    </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
         <translation><numerusform>%n kontakt</numerusform><numerusform>%n kontakte</numerusform></translation>
@@ -1495,10 +1444,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Unnamed</source>
         <translation>I/e pa emërtuar</translation>
-    </message>
-    <message>
-        <source>Choose Avatar Image</source>
-        <translation>Përzgjedh imazhin e avatarit</translation>
     </message>
     <message>
         <source>Contact Options</source>
@@ -1529,28 +1474,12 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Largo nga kontaktet</translation>
     </message>
     <message>
-        <source>Unblock This User</source>
-        <translation>Zhblloko këtë përdorues</translation>
-    </message>
-    <message>
-        <source>Block This User</source>
-        <translation>Blloko këtë përdorues</translation>
-    </message>
-    <message>
         <source>Are you sure you wish to unblock %1?</source>
         <translation>A je i/e sigurt që do ta zhbllokosh %1?</translation>
     </message>
     <message>
-        <source>Pending contact request</source>
-        <translation>Kërkesat kontakti në pritje</translation>
-    </message>
-    <message>
         <source>Are you sure you wish to delete the selected group?</source>
         <translation>A je i/e sigurt që do ta fshish grupin e përzgjedhur?</translation>
-    </message>
-    <message>
-        <source>Send SMS</source>
-        <translation>Dërgo SMS</translation>
     </message>
     <message>
         <source>Click this button to send SMS.</source>
@@ -1567,10 +1496,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Create Group</source>
         <translation>Krijo grup</translation>
-    </message>
-    <message>
-        <source>Enter name for new group</source>
-        <translation>Shkruaj emrin për grupin e ri</translation>
     </message>
     <message>
         <source>Edit Phone Number</source>
@@ -1591,20 +1516,6 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Edit Labels...</source>
         <translation>Redakto emërtimet...</translation>
-    </message>
-    <message>
-        <source>Block this user</source>
-        <comment>This is a window title</comment>
-        <translation>Blloko këtë përdorues</translation>
-    </message>
-    <message>
-        <source>Unblock this user</source>
-        <comment>This is a window title</comment>
-        <translation>Zhblloko këtë përdorues</translation>
-    </message>
-    <message>
-        <source>Last Seen:</source>
-        <translation>Parë së fundi:</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -1645,6 +1556,97 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Other Phone:</source>
         <translation>Tjetër telefon:</translation>
+    </message>
+    <message>
+        <source>Skype Test Call</source>
+        <translation>Thirrje testuese Skype</translation>
+    </message>
+    <message>
+        <source>Last seen: %1</source>
+        <translation>Parë së fundi: %1</translation>
+    </message>
+    <message>
+        <source>Contact Lists</source>
+        <translation>Listat e kontakteve</translation>
+    </message>
+    <message>
+        <source>Add to Contacts</source>
+        <translation>Shto te kontaktet</translation>
+    </message>
+    <message>
+        <source>Unblock This Person...</source>
+        <translation>Zhblloko këtë person...</translation>
+    </message>
+    <message>
+        <source>Block This Person...</source>
+        <translation>Blloko këtë person...</translation>
+    </message>
+    <message>
+        <source>Remove %1 from Contacts?</source>
+        <translation>Largo %1 nga kontaktet?</translation>
+    </message>
+    <message>
+        <source>This person has not shared their details with you</source>
+        <translation>Ky person nuk ka ndarë detajet e tija/saja me ty.</translation>
+    </message>
+    <message>
+        <source>Contacts</source>
+        <translation>Kontaktet</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Largo</translation>
+    </message>
+    <message numerus="yes">
+        <source>Remove %n selected contact(s)?</source>
+        <comment>Confirmation dialog's main text when removing contacts</comment>
+        <translation><numerusform>Largo %n nga kontaktet?</numerusform><numerusform>Largo %n kontakte të zgjedhura?</numerusform></translation>
+    </message>
+    <message>
+        <source>View %1 profile</source>
+        <translation>Shih profilin e %1</translation>
+    </message>
+    <message>
+        <source>Block this person</source>
+        <comment>This is a window title</comment>
+        <translation>Blloko këtë person</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to block %1?</source>
+        <translation>A je i/e sigurt që do ta bllokosh %1?</translation>
+    </message>
+    <message>
+        <source>Show more options for this contact</source>
+        <translation>Shfaq më tepër opsione për këtë kontakt</translation>
+    </message>
+    <message>
+        <source>Write SMS</source>
+        <translation>Shkruaj SMS</translation>
+    </message>
+    <message>
+        <source>Enter name for new list</source>
+        <translation>Shkruaj emrin për listën e re</translation>
+    </message>
+    <message>
+        <source>Last seen:</source>
+        <translation>Parë së fundi</translation>
+    </message>
+    <message>
+        <source>Change picture</source>
+        <translation>Ndrysho fotografinël</translation>
+    </message>
+    <message>
+        <source>-- Not specified --</source>
+        <translation>E pa specifikuar</translation>
+    </message>
+    <message>
+        <source>Unblock this person</source>
+        <comment>This is a window title</comment>
+        <translation>Zhblloko këtë person</translation>
+    </message>
+    <message>
+        <source>Choose profile picture</source>
+        <translation>Shfaq fotografinë e profilit</translation>
     </message>
 </context>
 <context>
@@ -1700,9 +1702,9 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Emri Skype</translation>
     </message>
     <message>
-        <source>City, Country</source>
-        <comment>Result Table Header: City, Country</comment>
-        <translation>Qytet, Shteti</translation>
+        <source>Location</source>
+        <comment>Result Table Header: Location</comment>
+        <translation>Lokacioni</translation>
     </message>
     <message>
         <source>Add a Skype Contact</source>
@@ -1768,6 +1770,22 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <source>Search Again</source>
         <translation>Kërko përsëri</translation>
     </message>
+    <message>
+        <source>Search by name, Skype name or email</source>
+        <translation>Kërko sipas emrit, Emrit Skype ose email</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Emri</translation>
+    </message>
+    <message>
+        <source>Skype Name</source>
+        <translation>Emri Skype</translation>
+    </message>
+    <message>
+        <source>No results for %1</source>
+        <translation>Nuk ka rezultate për %1</translation>
+    </message>
 </context>
 <context>
     <name>Controls</name>
@@ -1806,12 +1824,12 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
         <translation>Kushtet e përdorimit të Skype</translation>
     </message>
     <message>
-        <source>To start using Skype, you must agree to the Terms of Use.</source>
-        <translation>Që të fillosh ta përdorësh Skype, duhet të pajtohesh me Kushtet e përdorimit.</translation>
-    </message>
-    <message>
         <source>Terms of Use</source>
         <translation>Kushtet e përdorimit</translation>
+    </message>
+    <message>
+        <source>Before we start, you must agree to the &lt;a href=&quot;%1&quot;&gt;Skype Terms of Use&lt;/a&gt; and &lt;a href=&quot;%2&quot;&gt;Skype Privacy Policy&lt;/a&gt;.</source>
+        <translation>Para se të nisesmi, të duhet të pajtohesh me &lt;a href=&quot;%1&quot;&gt;Skype Kushtet e përdorimit&lt;/a&gt; dhe &lt;a href=&quot;%2&quot;&gt;Skype Politika e privatësisë&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1898,649 +1916,677 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     </message>
     <message>
         <source>%1, %2 turns %3</source>
-        <translation type="unfinished"/>
+        <translation>%1, %2 i bënë %3</translation>
     </message>
     <message>
         <source>Test Event</source>
-        <translation type="unfinished"/>
+        <translation>Ngjarje testuese</translation>
     </message>
     <message>
         <source>Example Chat Message</source>
-        <translation type="unfinished"/>
+        <translation>Shembull i Mesazhit të bisedimit</translation>
     </message>
     <message>
         <source>This is an example of a chat event popup.</source>
-        <translation type="unfinished"/>
+        <translation>Ky është një shembull i një ngjarjes kërcyese të bisedimit.</translation>
     </message>
     <message>
         <source>Test Sound</source>
-        <translation type="unfinished"/>
+        <translation>Testo zërimin</translation>
     </message>
     <message>
         <source>Skype Login</source>
-        <translation type="unfinished"/>
+        <translation>Kyçu në Skype</translation>
     </message>
     <message>
         <source>Skype Logout</source>
-        <translation type="unfinished"/>
+        <translation>Shkëputu nga Skype</translation>
     </message>
     <message>
         <source>Skype Login Failed</source>
-        <translation type="unfinished"/>
+        <translation>Dështoi kyçja në Skype</translation>
     </message>
     <message>
         <source>Call Connecting</source>
-        <translation type="unfinished"/>
+        <translation>Duke u lidhur thirrja</translation>
     </message>
     <message>
         <source>Incoming Call Ringing</source>
-        <translation type="unfinished"/>
+        <translation>Cingërimi i thirrjes pranuese</translation>
     </message>
     <message>
         <source>Outgoing Call Ringing</source>
-        <translation type="unfinished"/>
+        <translation>Cingërimi i thirrjes dalëse</translation>
     </message>
     <message>
         <source>Call Answered</source>
-        <translation type="unfinished"/>
+        <translation>Thirrje e përgjigjur</translation>
     </message>
     <message>
         <source>Number Busy</source>
-        <translation type="unfinished"/>
+        <translation>Numri i zënë</translation>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation type="unfinished"/>
+        <translation>Thirrje e humbur</translation>
     </message>
     <message>
         <source>Call Failed</source>
-        <translation type="unfinished"/>
+        <translation>Thirrja dështoi</translation>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>Thirrje në pritje</translation>
     </message>
     <message>
         <source>Call Resumed</source>
-        <translation type="unfinished"/>
+        <translation>Thirrje e vazhduar</translation>
     </message>
     <message>
         <source>Call Waiting</source>
-        <translation type="unfinished"/>
+        <translation>Thirrje në pritje</translation>
     </message>
     <message>
         <source>Call Hungup</source>
-        <translation type="unfinished"/>
+        <translation>Ndërprerje e thirrjes</translation>
     </message>
     <message>
         <source>Call Ended</source>
-        <translation type="unfinished"/>
+        <translation>Thirrje e përfunduar</translation>
     </message>
     <message>
         <source>First Chat Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Mesazhi i parë i bisedimit i pranuar</translation>
     </message>
     <message>
         <source>Chat Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Mesazh i bisedimit i pranuar</translation>
     </message>
     <message>
         <source>Chat Message Sent</source>
-        <translation type="unfinished"/>
+        <translation>Mesazh i bisedimit i dërguar</translation>
     </message>
     <message>
         <source>Contact Joined Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt i bashkëngjitur në bisedim</translation>
     </message>
     <message>
         <source>Contact Left Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt i larguar nga bisedimi</translation>
     </message>
     <message>
         <source>Contact Kicked from Chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt i dëbuar nga bisedimi</translation>
     </message>
     <message>
         <source>Contact Came Online</source>
-        <translation type="unfinished"/>
+        <translation>Kontakti erdhi në linjë</translation>
     </message>
     <message>
         <source>Contact Went Offline</source>
-        <translation type="unfinished"/>
+        <translation>Kontakti doli nga linja</translation>
     </message>
     <message>
         <source>Contact Profile Updated</source>
-        <translation type="unfinished"/>
+        <translation>Profili i kontaktit u përditësua</translation>
     </message>
     <message>
         <source>Contact Added to List</source>
-        <translation type="unfinished"/>
+        <translation>Kontakti u shtua në listë</translation>
     </message>
     <message>
         <source>Contact Deleted from List</source>
-        <translation type="unfinished"/>
+        <translation>Kontakti u fshi nga lista</translation>
     </message>
     <message>
         <source>File Transfer Request</source>
-        <translation type="unfinished"/>
+        <translation>Kërkesë për transferim të skedarit</translation>
     </message>
     <message>
         <source>File Transfer Complete</source>
-        <translation type="unfinished"/>
+        <translation>Transferim i kompletuar i skedarit</translation>
     </message>
     <message>
         <source>File Transfer Failed</source>
-        <translation type="unfinished"/>
+        <translation>Dështim i transferimit të skedarit</translation>
     </message>
     <message>
         <source>Contacts Received</source>
-        <translation type="unfinished"/>
+        <translation>Kontakte të pranuara</translation>
     </message>
     <message>
         <source>Contacts Sent</source>
-        <translation type="unfinished"/>
+        <translation>Kontakte të dërguara</translation>
     </message>
     <message>
         <source>SMS Received</source>
-        <translation type="unfinished"/>
+        <translation>SMS të pranuara</translation>
     </message>
     <message>
         <source>SMS Sent</source>
-        <translation type="unfinished"/>
+        <translation>SMS i dërguar</translation>
     </message>
     <message>
         <source>SMS Failed</source>
-        <translation type="unfinished"/>
+        <translation>SMS i dështuar</translation>
     </message>
     <message>
         <source>Money Received</source>
-        <translation type="unfinished"/>
+        <translation>Të holla të pranuara</translation>
     </message>
     <message>
         <source>Money Sent</source>
-        <translation type="unfinished"/>
+        <translation>Të holla të dërguara</translation>
     </message>
     <message>
         <source>Credit Received</source>
-        <translation type="unfinished"/>
+        <translation>Kredi të pranuara</translation>
     </message>
     <message>
         <source>Credit Sent</source>
-        <translation type="unfinished"/>
+        <translation>Kredi të dërguara</translation>
     </message>
     <message>
         <source>Advertisement</source>
-        <translation type="unfinished"/>
+        <translation>Reklamë</translation>
     </message>
     <message>
         <source>Upsell</source>
-        <translation type="unfinished"/>
+        <translation>Nismë shitje</translation>
     </message>
     <message>
         <source>Contact&apos;s Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Ditëlindja e kontaktit</translation>
     </message>
     <message>
         <source>Our Birthday</source>
-        <translation type="unfinished"/>
+        <translation>Ditëlindja jonë</translation>
     </message>
     <message>
         <source>Credit is Low</source>
-        <translation type="unfinished"/>
+        <translation>Kredia është e paktë</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>I/e panjohur</translation>
     </message>
     <message>
         <source>%1, %2 had a birthday</source>
         <comment>Example: [Yesterday, 29/12/2008], [Andrew] had a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>%1, %2 e kishin ditëlindjen</translation>
     </message>
     <message>
         <source>%1, %2 has a birthday</source>
         <comment>Example: [Tomorrow, 29/12/2008], [Andrew] has a birthday</comment>
-        <translation type="unfinished"/>
+        <translation>%1, %2 e ka ditëlindjen</translation>
     </message>
     <message>
         <source>Incoming Contact Request</source>
-        <translation type="unfinished"/>
+        <translation>Kërkesë pranuese e kontaktit</translation>
     </message>
     <message>
         <source>&amp;Unread Chats</source>
-        <translation type="unfinished"/>
+        <translation>Bisedime të palex&amp;uara</translation>
     </message>
     <message>
         <source>&amp;Recent Chats</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bisedimet e fundme</translation>
     </message>
     <message>
         <source>&amp;Bookmarked Chats</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bisedime të referencuara</translation>
     </message>
     <message>
         <source>Mark as Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Shënoje si të parë</translation>
     </message>
     <message>
         <source>Incoming</source>
-        <translation type="unfinished"/>
+        <translation>Pranuese</translation>
     </message>
     <message>
         <source>Voice Message Received</source>
-        <translation type="unfinished"/>
+        <translation>Mesazh zanor i pranuar</translation>
     </message>
     <message>
         <source>Voice Message Sent</source>
-        <translation type="unfinished"/>
+        <translation>Mesazh zanor i dërguar</translation>
     </message>
     <message>
         <source>Skype WiFi - Extend Session</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi - Zgjat seancën</translation>
     </message>
     <message>
         <source>Your Skype WiFi session is due to expire in %1 minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Seanca juaj Skype WiFi është gati të skadojë në %1 minuta.</translation>
     </message>
     <message>
         <source>This is an example of an SMS event popup.</source>
-        <translation type="unfinished"/>
+        <translation>Ky është një shembull i një kërcyesi të ngarjes së SMS.</translation>
     </message>
     <message>
         <source>Voice messages</source>
-        <translation type="unfinished"/>
+        <translation>Mesazhet zanore</translation>
+    </message>
+    <message>
+        <source>This is an example of a voice message event popup.</source>
+        <translation>Ky është një shembull i një ngjarjes kërcyese të mesazhit zanor.</translation>
+    </message>
+    <message>
+        <source>New message from %1</source>
+        <translation>Mesazhe i ri nga %1</translation>
+    </message>
+    <message>
+        <source>Message from %1</source>
+        <translation>Mesazhe nga %1</translation>
+    </message>
+    <message>
+        <source>SMS received %1</source>
+        <translation>SMS të pranuara %1</translation>
+    </message>
+    <message>
+        <source>SMS sent %1</source>
+        <translation>SMS të dërguara %1</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Injoro</translation>
     </message>
 </context>
 <context>
     <name>File Transfer</name>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Dërgo skedar</translation>
     </message>
     <message>
         <source>Send File to Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Dërgo skedar te Kontaktet e përzgjedhura</translation>
     </message>
     <message>
         <source>Incoming files from %1</source>
-        <translation type="unfinished"/>
+        <translation>Skedar pranues nga %1</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Prano</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Refuzo</translation>
     </message>
     <message>
         <source>%1 files - %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 skedarë - %2</translation>
     </message>
     <message>
         <source>Could not read from the file</source>
-        <translation type="unfinished"/>
+        <translation>Nuk mund ta lexojë nga skedari</translation>
     </message>
     <message>
         <source>Could not write to the file</source>
-        <translation type="unfinished"/>
+        <translation>Nuk mund të shkruaj në skedar</translation>
     </message>
     <message>
         <source>%1 could not write the file</source>
-        <translation type="unfinished"/>
+        <translation>%1 nuk mund ta shkruaj skedarin</translation>
     </message>
     <message>
         <source>%1 has been offline for too long</source>
-        <translation type="unfinished"/>
+        <translation>%1 ka qenë i/e shkëputur për shumë kohë</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"/>
+        <translation>I/e dështuar</translation>
     </message>
     <message>
         <source>Connecting to %1</source>
-        <translation type="unfinished"/>
+        <translation>Duke u lidhur me %1</translation>
     </message>
     <message>
         <source>Receiving from %1</source>
-        <translation type="unfinished"/>
+        <translation>Duke pranuar nga %1</translation>
     </message>
     <message>
         <source>Paused - Receiving from %1</source>
-        <translation type="unfinished"/>
+        <translation>I pushuar - Duke pranuar nga %1</translation>
     </message>
     <message>
         <source>Completed - Received from %1</source>
-        <translation type="unfinished"/>
+        <translation>Kompletuar - Pranuar nga %1</translation>
     </message>
     <message>
         <source>Failed - %1</source>
-        <translation type="unfinished"/>
+        <translation>Dështoi - %1</translation>
     </message>
     <message>
         <source>Sending file to %1</source>
-        <translation type="unfinished"/>
+        <translation>Dërgimi i skedarit te %1</translation>
     </message>
     <message>
         <source>Paused - Sending file to %1</source>
-        <translation type="unfinished"/>
+        <translation>I pushuar - Duke dërguar skedarin te %1</translation>
     </message>
     <message>
         <source>Completed - Sent to %1</source>
-        <translation type="unfinished"/>
+        <translation>Kompletuar - Dërguar te %1</translation>
     </message>
     <message>
         <source>Status Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Gjendje e panjohur</translation>
     </message>
     <message>
         <source>Accept All</source>
-        <translation type="unfinished"/>
+        <translation>Prano të gjitha</translation>
     </message>
     <message>
         <source>Decline All</source>
-        <translation type="unfinished"/>
+        <translation>Refuzo të gjitha</translation>
     </message>
     <message>
         <source>Open the directory for this file</source>
-        <translation type="unfinished"/>
+        <translation>Hap dosjen për këtë skedr</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation type="unfinished"/>
+        <translation>Hap dosjen</translation>
     </message>
     <message>
         <source>%1 files</source>
-        <translation type="unfinished"/>
+        <translation>%1 skedarë</translation>
     </message>
     <message>
         <source>%1 recipients</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 - %2 (%3) - %4</source>
-        <comment>Sub-transfer partner skypename, progress, speed and finish ETA</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 - %2 (%3) - %4</source>
-        <comment>Top transfer partner skypename or recipient/file count, progress, speed and finish ETA</comment>
-        <translation type="unfinished"/>
+        <translation>%1 Pranues</translation>
     </message>
     <message>
         <source>%1 of %2</source>
         <comment>Progress: bytes transferred of bytes total</comment>
-        <translation type="unfinished"/>
+        <translation>%1 nga %2</translation>
     </message>
     <message>
         <source>%1ps</source>
         <comment>Speed: size units per second</comment>
-        <translation type="unfinished"/>
+        <translation>%1ps</translation>
     </message>
     <message>
         <source>Finishing in %1</source>
-        <translation type="unfinished"/>
+        <translation>Duke përfunduar në %1</translation>
     </message>
     <message>
         <source>%1 seconds</source>
-        <translation type="unfinished"/>
+        <translation>%1 sekondash</translation>
     </message>
     <message>
         <source>Choose Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Përzgjedh Dosjen ku do t&apos;i ruash skedarët</translation>
     </message>
     <message>
         <source>Choose File Name to Save</source>
-        <translation type="unfinished"/>
+        <translation>Përzgjedh Emrin e skedarit që ta ruash</translation>
     </message>
     <message>
         <source>All files downloaded to:</source>
-        <translation type="unfinished"/>
+        <translation>Të gjithë skedarët shkarkohen në:</translation>
     </message>
     <message>
         <source>Open Default Download Directory</source>
-        <translation type="unfinished"/>
+        <translation>Hap Dosjen e rëndomtë të shkarkimit</translation>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
-        <translation type="unfinished"/>
+        <translation>Përzgjedh dosjen e rëndomt për ruajtjen e skedarëve</translation>
     </message>
     <message>
         <source>Change Default Download Directory...</source>
-        <translation type="unfinished"/>
+        <translation>Ndërro Dosjen e rëndomtë të shkarkimit</translation>
     </message>
     <message>
         <source>Choose File(s) to send to %1</source>
-        <translation type="unfinished"/>
+        <translation>Përzgjedh Skedarin(ët) që do t&apos;ia dërgosh %1</translation>
     </message>
     <message>
         <source>Choose File(s) to send to selected users</source>
-        <translation type="unfinished"/>
+        <translation>Përzgjedh Skedarin(ët) që do t&apos;ia dërgosh përdorues të përzgjedhur</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Transferimet e skedarëve</translation>
     </message>
     <message>
         <source>Accept File</source>
-        <translation type="unfinished"/>
+        <translation>Prano skedar</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"/>
+        <translation>Vazhdo</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pusho</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anulo</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Riprovo</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"/>
+        <translation>Pastro</translation>
     </message>
     <message>
         <source>Remove all completed and failed files from the list</source>
-        <translation type="unfinished"/>
+        <translation>Largo të gjithë skedarët e kompletuar dhe të dështuar nga lista</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"/>
+        <translation>Të gjithë skedarët</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Pastro</translation>
     </message>
     <message>
         <source>All Inactive Files</source>
-        <translation type="unfinished"/>
+        <translation>Skedarët joaktiv</translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Received File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Pastro %n Skedar të pranuar</numerusform><numerusform>Pastro %n Skedarë të pranuar</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Sent File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Pastro %n Skedarë të dërguar</numerusform><numerusform>Pastro %n Skedarë të dërguar</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Failed File(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Pastro %n Skedarë të dështuar</numerusform><numerusform>Pastro %n Skedarë të dështuar</numerusform></translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Auto prano skedarë</translation>
     </message>
     <message>
         <source>Sending your file is being relayed. Click this icon to find out what this means.</source>
-        <translation type="unfinished"/>
+        <translation>Dërgimi i skedarëve tuaj është i ritransmetuar. Kliko këtë ikonë që të arrish ta kuptosh atë.</translation>
     </message>
     <message>
         <source>Some of the files are being relayed. Click this icon to find out what this means.</source>
-        <translation type="unfinished"/>
+        <translation>Disa nga skedarët janë duke u ritransmetuar. Kliko këtë ikonë që të arrish ta kuptosh.</translation>
     </message>
     <message>
         <source>The file is being relayed. Click this icon to find out what this means.</source>
-        <translation type="unfinished"/>
+        <translation>Skedari është duke u ritransmetuar. Kliko këtu të arrish ta kuptosh.</translation>
     </message>
     <message>
         <source>1 file</source>
-        <translation type="unfinished"/>
+        <translation>1 skedarë</translation>
     </message>
     <message>
         <source>%1 has to accept your contact request first</source>
-        <translation type="unfinished"/>
+        <translation>%1 ka për të pranuar paraprakisht kërkesën tuaj të kontaktit</translation>
     </message>
     <message>
         <source>%1 cancelled the file sending</source>
-        <translation type="unfinished"/>
+        <translation>%1 anuloi dërgimin e skedarit</translation>
     </message>
     <message>
         <source>%1 could not read the file</source>
-        <translation type="unfinished"/>
+        <translation>%1 nuk mund ta lexojë skedarin</translation>
     </message>
     <message>
         <source>%1 does not support file sending</source>
-        <translation type="unfinished"/>
+        <translation>%1 nuk e përkrah dërgimin e skedarëve</translation>
     </message>
     <message>
         <source>Incoming file from %1</source>
-        <translation type="unfinished"/>
+        <translation>Skedar pranues nga %1</translation>
     </message>
     <message>
         <source>Cancelled - File from %1</source>
-        <translation type="unfinished"/>
+        <translation>Anuluar - Skedar nga %1</translation>
     </message>
     <message>
         <source>Cancelled - File to %1</source>
-        <translation type="unfinished"/>
+        <translation>Anuluar - Skedarë për %1</translation>
     </message>
     <message>
         <source>Accept File to...</source>
-        <translation type="unfinished"/>
+        <translation>Prano skearë për...</translation>
     </message>
     <message>
         <source>Decline file</source>
-        <translation type="unfinished"/>
+        <translation>Refuzo skedar</translation>
     </message>
     <message>
         <source>Decline File</source>
-        <translation type="unfinished"/>
+        <translation>Refuzo skedar</translation>
     </message>
     <message>
         <source>Accept all files</source>
-        <translation type="unfinished"/>
+        <translation>Prano të gjitha</translation>
     </message>
     <message>
         <source>Accept All Files</source>
-        <translation type="unfinished"/>
+        <translation>Prano të gjithë skedarët</translation>
     </message>
     <message>
         <source>Accept All Files to...</source>
-        <translation type="unfinished"/>
+        <translation>Prano të gjithë skedarët për...</translation>
     </message>
     <message>
         <source>Decline all files</source>
-        <translation type="unfinished"/>
+        <translation>Refuzo të gjithë skedarët</translation>
     </message>
     <message>
         <source>Decline All Files</source>
-        <translation type="unfinished"/>
+        <translation>Refuzo të gjithë skedarët</translation>
     </message>
     <message>
         <source>Pause all files</source>
-        <translation type="unfinished"/>
+        <translation>Pusho të gjithë skedarët</translation>
     </message>
     <message>
         <source>Pause All Files</source>
-        <translation type="unfinished"/>
+        <translation>Pusho të gjithë skedarët</translation>
     </message>
     <message>
         <source>Cancel all files</source>
-        <translation type="unfinished"/>
+        <translation>Anulo të gjithë skedarët</translation>
     </message>
     <message>
         <source>Cancel All Files</source>
-        <translation type="unfinished"/>
+        <translation>Anulo të gjithë skedarët</translation>
     </message>
     <message>
         <source>Retry failed files</source>
-        <translation type="unfinished"/>
+        <translation>Riprovo skedarët e dështuar</translation>
     </message>
     <message>
         <source>Retry Failed Files</source>
-        <translation type="unfinished"/>
+        <translation>Riprovo skedarët e dështuar</translation>
     </message>
     <message>
         <source>Cancel active files</source>
-        <translation type="unfinished"/>
+        <translation>Anulo skedarët aktiv</translation>
     </message>
     <message>
         <source>Cancel Active Files</source>
-        <translation type="unfinished"/>
+        <translation>Anulo skedarët aktiv</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n skedar nga %1</numerusform><numerusform>%n skedar nga %1</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Accept %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Prano %n skedar nga %1</numerusform><numerusform>Prano %n skedar nga %1</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Decline %n file(s) from %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Refuzo %n skedar nga %1</numerusform><numerusform>Refuzo %n skedar nga %1</numerusform></translation>
     </message>
     <message>
         <source>Incoming file from %1 isn&apos;t available yet</source>
-        <translation type="unfinished"/>
+        <translation>Skedari pranues nga %1 ende nuk është i gatshëm</translation>
     </message>
     <message>
         <source>Waiting for %1 to accept</source>
-        <translation type="unfinished"/>
+        <translation>Duke pritur për %1 që ta pranoj</translation>
     </message>
     <message>
         <source>The file isn&apos;t available on this computer</source>
-        <translation type="unfinished"/>
+        <translation>Skedari nuk është i disponueshëm në këtë llogaritës</translation>
     </message>
     <message>
         <source>If you cancel now you will not receive this file.</source>
-        <translation type="unfinished"/>
+        <translation>Nëse anulon tani nuk do ta pranosh këtë skedar.</translation>
     </message>
     <message>
         <source>If you cancel now the other party will not receive this file.</source>
-        <translation type="unfinished"/>
+        <translation>Nëse anulon tani pala tjetër nuk do ta pranoj këtë skedar.</translation>
     </message>
     <message>
         <source>If you cancel now you will not receive these files.</source>
-        <translation type="unfinished"/>
+        <translation>Nëse anulon tani nuk do ta pranosh këta skedarë.</translation>
+    </message>
+    <message>
+        <source>If you cancel now the other party will not receive these files.</source>
+        <translation>Nëse anulon tani pala tjetër nuk do t&apos;i pranoj këta skedarë.</translation>
+    </message>
+    <message>
+        <source>%1 - %2 (%3) - %4</source>
+        <comment>Sub-transfer partner Display Name, progress, speed and finish ETA</comment>
+        <translation>%1 - %2 (%3) - %4</translation>
+    </message>
+    <message>
+        <source>%1 - %2 (%3) - %4</source>
+        <comment>Top transfer partner Display Name or recipient/file count, progress, speed and finish ETA</comment>
+        <translation>%1 - %2 (%3) - %4</translation>
     </message>
 </context>
 <context>
     <name>FindDialog</name>
     <message>
         <source>Search options</source>
-        <translation type="unfinished"/>
+        <translation>Opsionet e kërkimit</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"/>
+        <translation>Drejtimi</translation>
     </message>
     <message>
         <source>Find</source>
         <comment>sF_FIND_CAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Gjej</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
         <comment>sF_FIND_FIND_WHAT</comment>
-        <translation type="unfinished"/>
+        <translation>Çfarë të kërkosh:</translation>
     </message>
     <message>
         <source>&amp;Match whole word only</source>
@@ -2560,12 +2606,12 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>&amp;Up</source>
         <comment>sF_FIND_DIRECTION_UP</comment>
-        <translation type="unfinished"/>
+        <translation>Lart</translation>
     </message>
     <message>
         <source>D&amp;own</source>
         <comment>sF_FIND_DIRECTION_DOWN</comment>
-        <translation type="unfinished"/>
+        <translation>Poshtë</translation>
     </message>
     <message>
         <source>Cance&amp;l</source>
@@ -2575,7 +2621,7 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     <message>
         <source>Find Text</source>
         <comment>sF_FIND_CAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Kërko tekstin</translation>
     </message>
 </context>
 <context>
@@ -2586,15 +2632,15 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     </message>
     <message>
         <source>loadhistory</source>
-        <translation type="unfinished"/>
+        <translation>Ngarko historine</translation>
     </message>
     <message>
         <source>Load chat history progress</source>
-        <translation type="unfinished"/>
+        <translation>Progresi i ngarkimit te historise se bisedes</translation>
     </message>
     <message>
         <source>Loading chat history...</source>
-        <translation type="unfinished"/>
+        <translation>Duke ngarkuar historine e bisedes</translation>
     </message>
     <message>
         <source>sendprogress</source>
@@ -2606,7 +2652,7 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
@@ -2633,19 +2679,19 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Ndërro fjalëkalimin</translation>
     </message>
     <message>
         <source>Current Password</source>
-        <translation type="unfinished"/>
+        <translation>Shkruaj fjalëkalimin e tanishëm</translation>
     </message>
     <message>
         <source>New Password</source>
-        <translation type="unfinished"/>
+        <translation>Shkruaj fjalëkalimin e ri</translation>
     </message>
     <message>
         <source>Verify New Password</source>
-        <translation type="unfinished"/>
+        <translation>Verifiko fjalekalimin e ri</translation>
     </message>
     <message>
         <source>Your password must be at least 6 characters in length.</source>
@@ -2657,7 +2703,7 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     </message>
     <message>
         <source>Password Changed.</source>
-        <translation type="unfinished"/>
+        <translation>Fjalekalimi u ndryshuar</translation>
     </message>
     <message>
         <source>Your password has been successfully changed.</source>
@@ -2681,7 +2727,7 @@ Të lutem provo një skedar tjetër dhe sigurohu që skedari ka të drejtë lexi
     </message>
     <message>
         <source>Changing Password...</source>
-        <translation type="unfinished"/>
+        <translation>Duke ndërruar fjalëkalimin...</translation>
     </message>
     <message>
         <source>Please wait while your password is changed.
@@ -2736,23 +2782,11 @@ Please try again later.</source>
         <source>Connect with Skype WiFi</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Failed to log in. Check your Skype Name or password</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>Main Window</name>
     <message>
-        <source>Click here to change your status</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Click here to personalise your mood and profile</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to change your avatar</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2761,19 +2795,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype Credit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Visit account page</source>
-        <translation type="unfinished"/>
+        <translation>Kredi Skype</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ndërprit</translation>
     </message>
     <message>
         <source>Event History</source>
-        <translation type="unfinished"/>
+        <translation>Historia e ngjarjeve</translation>
     </message>
     <message>
         <source>Add or Search for Skype Contacts</source>
@@ -2781,16 +2811,16 @@ Please try again later.</source>
     </message>
     <message>
         <source>Main Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menuja kryesore</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"/>
+        <translation>Tranferimi i file-ve</translation>
     </message>
     <message>
         <source>%1 %2%3 for Linux</source>
         <comment>Pre-login main window title: ie. %1 = &quot;Skype&quot;, %2 = &quot;1.5&quot;, %3 = &quot; (Alpha)&quot;</comment>
-        <translation type="unfinished"/>
+        <translation>%1 %2%3 për Linux</translation>
     </message>
     <message>
         <source>%1 Skype Credit available</source>
@@ -2798,55 +2828,35 @@ Please try again later.</source>
     </message>
     <message>
         <source>%1 People Online</source>
-        <translation type="unfinished"/>
+        <translation>%1 Persone Online</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"/>
+        <translation>Figurat</translation>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to show contact list</source>
-        <translation type="unfinished"/>
+        <translation>Shfaq kontaktet</translation>
     </message>
     <message>
         <source>Show History</source>
-        <translation type="unfinished"/>
+        <translation>Shfaq historinë</translation>
     </message>
     <message>
         <source>Mark All Viewed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click here to hide new events</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to show new events</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to show event history</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to show contacts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>Opsionet</translation>
     </message>
     <message>
         <source>Sign &amp;Out</source>
-        <translation type="unfinished"/>
+        <translation>Shkëputu</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ndërpre</translation>
     </message>
     <message>
         <source>New Version Available</source>
@@ -2854,7 +2864,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Open Download Page</source>
-        <translation type="unfinished"/>
+        <translation>Hap faqen e download</translation>
     </message>
     <message>
         <source>A new version of Skype is now available for download.</source>
@@ -2870,11 +2880,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Te gjithe kontaktet</translation>
     </message>
     <message>
         <source>Online Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktet Online</translation>
     </message>
     <message>
         <source>Recently Contacted Contacts</source>
@@ -2882,11 +2892,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktet e Skype</translation>
     </message>
     <message>
         <source>Ungrouped Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktet e pa grupuara</translation>
     </message>
     <message>
         <source>%1 is not in your Contact list</source>
@@ -2902,7 +2912,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Contact &amp;Groups</source>
-        <translation type="unfinished"/>
+        <translation>Grupet e &amp;kontakteve</translation>
     </message>
     <message>
         <source>&amp;Hide Contact Groups</source>
@@ -2922,19 +2932,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Bookmarked Chats</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bisedime të referencuara</translation>
     </message>
     <message>
         <source>Change &amp;Password...</source>
-        <translation type="unfinished"/>
+        <translation>Ndërro fjalëkalimin...</translation>
     </message>
     <message>
         <source>&amp;About Skype</source>
-        <translation type="unfinished"/>
+        <translation>Rreth Skype</translation>
     </message>
     <message>
         <source>Total Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktet totale</translation>
     </message>
     <message>
         <source>Bookmarked Chats (0)</source>
@@ -2985,29 +2995,13 @@ Please try again later.</source>
         <translation>Blejë Kredi Skype</translation>
     </message>
     <message>
-        <source>Skype number expires in %1 days</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Buy a Skype number</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Skype number</source>
-        <translation>Numri Skype</translation>
-    </message>
-    <message>
-        <source>Skype Voice Messaging</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Start a &amp;Conference Call...</source>
         <translation>Nis një &amp;Thirrje konferencë...</translation>
     </message>
     <message>
         <source>Get a subscription</source>
         <comment>This appears in case of account not having any subscriptions</comment>
-        <translation type="unfinished"/>
+        <translation>Merr një abonim</translation>
     </message>
     <message numerus="yes">
         <source>%n subscription(s)</source>
@@ -3021,6 +3015,158 @@ Please try again later.</source>
     <message>
         <source>Subscriptions</source>
         <translation>Abonimet</translation>
+    </message>
+    <message>
+        <source>Get Premium</source>
+        <comment>This appears in case of account not having any premium video subscription</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Manage Premium</source>
+        <comment>This appears in case of account having a premium video subscription</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Lync Contacts</source>
+        <translation>Të gjitha kontaktet e Lync</translation>
+    </message>
+    <message>
+        <source>%1, select to change status</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Contact list is empty or all groups are hidden</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search for a contact in the Skype Directory</source>
+        <translation>Kërko një kontaktë në direktorinë e Skype</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n new event(s). Click here to show contacts</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_SHOW_CONTACTS</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <source>Click here to show contacts</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_NO_NEW_EVENTS_SHOW_CONTACTS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>%n new event(s). Click here to hide new event(s)</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_HIDE_NEW_EVENTS</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n new event(s). Click here to show new event(s)</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_SHOW_NEW_EVENTS</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <source>Click here to show event history</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_NO_NEW_EVENTS_SHOW_HISTORY</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Contacts</source>
+        <translation>Kontaktet</translation>
+    </message>
+    <message>
+        <source>C&amp;hats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check for &amp;Updates...</source>
+        <comment>sSKYPEMENU_UPDATES</comment>
+        <translation>Kontrollo për përditësime</translation>
+    </message>
+    <message>
+        <source>Add Contact</source>
+        <translation>Shto kontakt...</translation>
+    </message>
+    <message>
+        <source>Search Skype Directory...</source>
+        <translation>Kërko direktorinë Skype...</translation>
+    </message>
+    <message>
+        <source>Save a Phone Number...</source>
+        <translation>Ruaj një Numër telefonik...</translation>
+    </message>
+    <message>
+        <source>Sort Contacts by</source>
+        <translation>Rendit kontaktet sipas</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Emri</translation>
+    </message>
+    <message>
+        <source>Online Status</source>
+        <translation>Statusit në linjë</translation>
+    </message>
+    <message>
+        <source>Hide Contacts Who</source>
+        <translation>Fsheh kontaktet që</translation>
+    </message>
+    <message>
+        <source>Are Offline</source>
+        <translation>Janë të shkëputur</translation>
+    </message>
+    <message>
+        <source>Are Offline with Call Forwarding</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Haven&apos;t Shared Contact Details</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Premium account</source>
+        <translation>Llogari premium</translation>
+    </message>
+    <message>
+        <source>You already have the latest version of Skype installed.</source>
+        <comment>sF_UPGRADE_UPTODATE</comment>
+        <translation>Keni të instaluar versionin e fundit të Skype.</translation>
+    </message>
+    <message>
+        <source>Check for updates</source>
+        <comment>sF_UPGRADE_HEADER</comment>
+        <translation>Kontrollo për përditësime</translation>
+    </message>
+    <message>
+        <source>We are currently not able to check if there&apos;s a new update available. Please try a little later.</source>
+        <comment>sF_UPGRADE_CHECK_FAILED</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 Skype Credit. Click here to check your account features.</source>
+        <comment>sSKYPE_CREDIT_BUTTON_ACCESSIBLE_TEXT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skype Number expires in %1 days</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Buy a Skype Number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click here to change your profile picture</source>
+        <translation>Ndërro imazhin e profilit tuaj...</translation>
+    </message>
+    <message>
+        <source>Skype Number</source>
+        <translation>Numri Skype</translation>
+    </message>
+    <message>
+        <source>Voice Messaging</source>
+        <translation>Mesazh zanor</translation>
+    </message>
+    <message>
+        <source>Visit My account page</source>
+        <translation>Shih llogarinë time</translation>
     </message>
 </context>
 <context>
@@ -3036,10 +3182,6 @@ Please try again later.</source>
     <message>
         <source>Notifications</source>
         <translation>Njoftimet</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation>Biseda</translation>
     </message>
     <message>
         <source>Call Forwarding</source>
@@ -3119,35 +3261,35 @@ Please try again later.</source>
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>Përherë</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"/>
+        <translation>2 javë</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"/>
+        <translation>1 muaj</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"/>
+        <translation>3 muaj</translation>
     </message>
     <message>
         <source>Disable History</source>
-        <translation type="unfinished"/>
+        <translation>Fshih historinë?</translation>
     </message>
     <message>
         <source>Allow my status to be shown on the web.</source>
-        <translation type="unfinished"/>
+        <translation>Lejo statusin tim në linjë të shfaqet në ueb</translation>
     </message>
     <message>
         <source>Automatically answer incoming calls.</source>
-        <translation type="unfinished"/>
+        <translation>Prano automatikisht skedarët pranues</translation>
     </message>
     <message>
         <source>Allow calls from...</source>
-        <translation type="unfinished"/>
+        <translation>Lejo thirrjet nga...</translation>
     </message>
     <message>
         <source>Allow chats from...</source>
@@ -3155,7 +3297,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Keep chat history for...</source>
-        <translation type="unfinished"/>
+        <translation>Mbaje historinë e chat</translation>
     </message>
     <message>
         <source>Enable Event</source>
@@ -3179,7 +3321,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Play sound file:</source>
-        <translation type="unfinished"/>
+        <translation>Reprodukto këtë tingull</translation>
     </message>
     <message>
         <source>None Configured</source>
@@ -3207,7 +3349,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Tingujtë</translation>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
@@ -3227,7 +3369,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Show emoticons</source>
-        <translation type="unfinished"/>
+        <translation>Shfaq emotikonët</translation>
     </message>
     <message>
         <source>Show animated emoticons</source>
@@ -3327,19 +3469,19 @@ Please try again later.</source>
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Hosti</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Porti</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Nofka</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Fjalëkalimi</translation>
     </message>
     <message>
         <source>Unblock Selected People</source>
@@ -3383,10 +3525,6 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send a verification code to your mobile number.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Select your country</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3518,15 +3656,94 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Allow calls to my Skype number(s) from...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>You&apos;ll need Skype Credit or a subscription to forward calls. Calls forwarded to a phone number will be charged at &lt;a href=&quot;normalrates&quot;&gt;our rates&lt;/a&gt; for calling phones and mobiles or may be included as part of your subscription.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Skype watermark during calls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide files I&apos;ve sent on other devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IM</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Display built-in system pop-up notification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You need &apos;notify-send&apos; binary in your path to use this option; on Debian/Ubuntu distributions you can install &apos;libnotify-bin&apos; package.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter the code</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select your country/region</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hotkeys</source>
+        <comment>sF_OPTIONS_PAGE_KEYBOARD</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set up keyboard shortcuts for frequently used functions</source>
+        <comment>sF_OPTIONS_LBC_HOTKEYS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable keyboard shortcuts</source>
+        <comment>sF_OPTIONS_TCB11</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Active</source>
+        <comment>sF_OPTIONS_HK_STATUS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Action</source>
+        <comment>sF_OPTIONS_HK_ACTION</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hotkey</source>
+        <comment>sF_OPTIONS_HK_HOTKEY</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Answer call</source>
+        <comment>sHOTKEY_ANSWER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ignore call</source>
+        <comment>sHOTKEY_IGNORE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hang up</source>
+        <comment>sHOTKEY_HANGUP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Focus Skype</source>
+        <comment>sHOTKEY_FOCUS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow calls to my Skype Number(s) from...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go to your system settings to change the shortcuts.</source>
+        <comment>sF_OPTIONS_HK_INFO_LABEL</comment>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3588,6 +3805,10 @@ Please try again later.</source>
         <source>** Add to conference call by name/number</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Change search options</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>Screensharing</name>
@@ -3647,10 +3868,6 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Contacts in your list</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Contacts to send</source>
         <translation type="unfinished"/>
     </message>
@@ -3675,10 +3892,6 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Accept</source>
         <translation type="unfinished"/>
     </message>
@@ -3700,6 +3913,14 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send Contacts to Selected Contacts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Select</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Choose contacts</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3731,7 +3952,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation type="unfinished"/>
+        <translation>24 / 100</translation>
     </message>
     <message>
         <source>sendprogressbar</source>
@@ -3750,12 +3971,12 @@ Please try again later.</source>
     <name>Skype WiFi</name>
     <message>
         <source>Skype WiFi...</source>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi...</translation>
     </message>
     <message>
         <source>Skype WiFi</source>
         <comment>This is a window title</comment>
-        <translation type="unfinished"/>
+        <translation>Skype WiFi</translation>
     </message>
     <message>
         <source>Detecting Skype WiFi availability</source>
@@ -3861,10 +4082,6 @@ Please try again later.</source>
 <context>
     <name>Sms</name>
     <message>
-        <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Delivery failed.</source>
         <translation type="unfinished"/>
     </message>
@@ -3874,7 +4091,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>SMS message to %1 is sent</source>
-        <translation type="unfinished"/>
+        <translation>Mesazhi SMS i %1 u dergua</translation>
     </message>
     <message>
         <source>SMS message to %1 is failed</source>
@@ -3886,19 +4103,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Celular</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Shtëpi</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Punë</translation>
     </message>
     <message>
         <source>Connection to server failed.</source>
@@ -3918,15 +4131,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>User is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Perdoruesi eshte bllokuar</translation>
     </message>
     <message>
         <source>IP address is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa IP eshte bllokuar</translation>
     </message>
     <message>
         <source>Node is blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Nyja eshte bllokuar</translation>
     </message>
     <message>
         <source>No user id capability.</source>
@@ -3979,14 +4192,26 @@ Please try again later.</source>
     </message>
     <message>
         <source>SMS:</source>
-        <translation type="unfinished"/>
+        <translation>SMS:</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Tjeter</translation>
     </message>
     <message>
         <source>Send SMS Message</source>
+        <translation>Dergo SMS</translation>
+    </message>
+    <message>
+        <source>Not delivered yet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Write SMS</source>
+        <translation>Shkruaj SMS</translation>
+    </message>
+    <message>
+        <source>Buy Skype Credit</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3994,7 +4219,7 @@ Please try again later.</source>
     <name>TopicContainer</name>
     <message>
         <source>Change Picture...</source>
-        <translation type="unfinished"/>
+        <translation>Ndrysho figuren</translation>
     </message>
     <message>
         <source>Remove Picture</source>
@@ -4022,7 +4247,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation type="unfinished"/>
+        <translation>Zgjidh webcam:</translation>
     </message>
     <message>
         <source>No devices found</source>
@@ -4053,7 +4278,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>sekonda</translation>
     </message>
     <message>
         <source>I reject an incoming call</source>
@@ -4114,10 +4339,6 @@ Personalize your voice message greeting, save messages to listen to again, and l
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Learn more about Skype voice messaging</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Listen to this voice message</source>
         <translation type="unfinished"/>
     </message>
@@ -4127,6 +4348,10 @@ Personalize your voice message greeting, save messages to listen to again, and l
     </message>
     <message>
         <source>Enable voice messaging</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Learn more about voice messaging</source>
         <translation type="unfinished"/>
     </message>
 </context>

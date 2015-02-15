@@ -5,7 +5,8 @@
 # Abdolreza Shafaeiy <Abdolreza@outlook.com>, 2014
 # Abdollah Nateghi <a.nateghi1019@gmail.com>, 2014
 # Claudius Henrichs <claudius.h@gmx.de>, 2013
-# Khalil Delavaran <khalil.delavaran@gmail.com>, 2013
+# hos v. <gavad_vb@yahoo.com>, 2014
+# Khalil Delavaran <khalil.delavaran@gmail.com>, 2013,2015
 # Omid Bordbar <bordbar.omid@yahoo.com>, 2013
 # Omid Mohammadzadeh <m.omid136767@yahoo.com>, 2013
 # Reza Moghadam <r.moghadam@hotmail.com>, 2013
@@ -15,9 +16,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-12-06 05:32+0000\n"
-"Last-Translator: Abdolreza Shafaeiy <Abdolreza@outlook.com>\n"
+"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
+"PO-Revision-Date: 2015-02-15 16:26+0000\n"
+"Last-Translator: Michael Bauer\n"
 "Language-Team: Persian (http://www.transifex.com/projects/p/skype-translation-project/language/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,19 +40,19 @@ msgstr "نیستم"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "مزاحم نشو"
+msgstr "مزاحم نشوید"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
-msgstr "مـخـفـی"
+msgstr "پنهان"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr "جواب نمیدم"
+msgstr "جواب نمیدهد"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
-msgstr "سرم شلوغه"
+msgstr "اشغال"
 
 msgctxt "sQUIT_PROMPT"
 msgid ""
@@ -100,7 +101,7 @@ msgstr "افزودن به فهرست تماسها"
 
 msgctxt "sTRAYMENU_CHANGESTATUS"
 msgid "Online Status"
-msgstr "وضعیت مـتـصـل"
+msgstr "وضعیت روی خط"
 
 msgctxt "sTRAYMENU_SHOWFRIENDS"
 msgid "Open Skype"
@@ -559,7 +560,7 @@ msgstr "انتخاب همه"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr "Persian/فارسی"
+msgstr "فارسي"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -665,11 +666,11 @@ msgstr "این شخص تا به اطلاعات مربوط به خود را با 
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr "افلاين"
+msgstr "خارج از خط"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
-msgstr "برخط"
+msgstr "روی خط"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
@@ -677,11 +678,11 @@ msgstr "در دسترس نيست"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr "قابل انتشار نیست"
+msgstr "مزاحم نشوید"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
-msgstr "بلوكه شده"
+msgstr "مسدود شده"
 
 msgctxt "s_MAINMENU_TOOLS_LANG_USER_DEFINED"
 msgid "(user-defined)"
@@ -1038,7 +1039,7 @@ msgstr "محل كار (%s)"
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr "تماس اسكايپي"
+msgstr "ارتباط Skype"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1129,7 +1130,7 @@ msgstr "منصرف شده"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr "خطا در ارسال فایل رخ داده است."
+msgstr "ارسل موفق نبود"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1898,51 +1899,51 @@ msgstr ""
 
 msgctxt "sF_USERPROFILE_MONTHNAME1"
 msgid "January"
-msgstr "ژانويه"
+msgstr "دی/ژانویه"
 
 msgctxt "sF_USERPROFILE_MONTHNAME2"
 msgid "February"
-msgstr "فوريه"
+msgstr "بهمن/فوریه"
 
 msgctxt "sF_USERPROFILE_MONTHNAME3"
 msgid "March"
-msgstr "مارس"
+msgstr "اسفند/مارس"
 
 msgctxt "sF_USERPROFILE_MONTHNAME4"
 msgid "April"
-msgstr "آوريل"
+msgstr "فروردین/آوریل"
 
 msgctxt "sF_USERPROFILE_MONTHNAME5"
 msgid "May"
-msgstr "مي"
+msgstr "اردیبهشت/می"
 
 msgctxt "sF_USERPROFILE_MONTHNAME6"
 msgid "June"
-msgstr "ژوئن"
+msgstr "خرداد/جوئن"
 
 msgctxt "sF_USERPROFILE_MONTHNAME7"
 msgid "July"
-msgstr "جولاي"
+msgstr "تیر/جولای"
 
 msgctxt "sF_USERPROFILE_MONTHNAME8"
 msgid "August"
-msgstr "آگوست"
+msgstr "مرداد/آگوست"
 
 msgctxt "sF_USERPROFILE_MONTHNAME9"
 msgid "September"
-msgstr "سپتامبر"
+msgstr "شهریور/سپتامبر"
 
 msgctxt "sF_USERPROFILE_MONTHNAME10"
 msgid "October"
-msgstr "اكتبر"
+msgstr "مهر/اکتبر"
 
 msgctxt "sF_USERPROFILE_MONTHNAME11"
 msgid "November"
-msgstr "نوامبر"
+msgstr "آبان/نوامبر"
 
 msgctxt "sF_USERPROFILE_MONTHNAME12"
 msgid "December"
-msgstr "دسامبر"
+msgstr "آذر/دسامبر"
 
 msgctxt "sF_OPTIONS_LBC_FORWARDING"
 msgid ""
@@ -3852,7 +3853,7 @@ msgstr "%s درحال تماس است"
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
-msgstr "قطع ميكروفون"
+msgstr "صدابر/میکروفون خاموش"
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
@@ -4893,7 +4894,7 @@ msgstr "پيامك گروهي"
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr "ثوسط اسكايپي"
+msgstr "ثوسط Skype"
 
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
@@ -4989,11 +4990,11 @@ msgstr "ريست"
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr "از سر گيري تماس"
+msgstr "ادامه تماس"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
-msgstr "از سر گيري دانلود"
+msgstr "ادامه بارگیری"
 
 msgctxt "sZAPBUTTON_PLAYTHISSOUND"
 msgid "Play this sound"
@@ -5017,11 +5018,11 @@ msgstr "ذخیره تماس"
 
 msgctxt "sZAPBUTTON_CANCELALL"
 msgid "Cancel all"
-msgstr "انصرف همه"
+msgstr "لغو همه"
 
 msgctxt "sZAPBUTTON_SAVEAS"
 msgid "Save as"
-msgstr "ذخيره با"
+msgstr "ذخیره با عنوان"
 
 msgctxt "sZAPBUTTON_SEEVIDEO"
 msgid "See my video"
@@ -5029,7 +5030,7 @@ msgstr "مشاهده ویدیوها"
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr "ارسال فايل"
+msgstr "ارسال پرونده"
 
 msgctxt "sZAPBUTTON_SENDIMAGE"
 msgid "Send image"
@@ -5165,7 +5166,7 @@ msgstr "الان بروز رساني شود"
 
 msgctxt "sZAPBUTTON_VIEWPROFILE"
 msgid "View Profile"
-msgstr "نمايش پروفايل"
+msgstr "مشاهده نمایه"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View my account"
@@ -5349,7 +5350,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
-msgstr ""
+msgstr "انجام شد"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5735,7 +5736,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr "تماس بدون پاسخ از %s"
+msgstr "فراخوان تماس بدون پاسخ از %s"
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
@@ -5806,7 +5807,7 @@ msgstr "اسكايپ"
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr "وضعيت برخط"
+msgstr "وضعیت مـتـصـل"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -5862,7 +5863,7 @@ msgstr "نام"
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr "وضعيت برخط"
+msgstr "وضعیت مـتـصـل"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -6030,11 +6031,11 @@ msgstr "تماس ها"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr "اخير"
+msgstr "اخیر"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr "نما یه"
+msgstr "نمایه"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -6142,11 +6143,11 @@ msgstr "ديروز"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr "7 روز"
+msgstr "۷ روز"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr "30 روز"
+msgstr "۳۰ روز"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
@@ -6314,7 +6315,7 @@ msgstr ""
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
-msgstr "ارسال فايل به %s"
+msgstr "ارسال پرونده به %s"
 
 msgctxt "sCHAT_DRAGFILE_CONF"
 msgid "Post file to conversation"
@@ -7290,7 +7291,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr "درج شکلک ها"
+msgstr "درج شکلک"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -7330,7 +7331,7 @@ msgstr "صرفنظر شود"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
-msgstr "ختم تماس"
+msgstr "پایان تماس"
 
 msgctxt "sF_OPTIONS_PAGE_SKYACCESS"
 msgid "Skype WiFi"
@@ -9137,19 +9138,19 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr "تماس بدون پاسخ از %s (%s)"
+msgstr "فراخوان تماس بدون پاسخ از (s (%s% "
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
-msgstr "رد تماس از %s (%s)"
+msgstr "فراخوان تماس از (s (%s% رد گردید"
 
 msgctxt "sFLOW_CALL_INCOMING_PSTN"
 msgid "Call from %s (%s)"
-msgstr "تماس از %s (%s)"
+msgstr "فراخوان تماس از (s (%s%"
 
 msgctxt "sSHARE_MENU_SEND_FILE"
 msgid "Send file..."
-msgstr "ارسال فايل"
+msgstr "ارسال پرونده"
 
 msgctxt "sSHARE_MENU_SEND_CONTACTS"
 msgid "Send contacts..."
@@ -9522,7 +9523,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr "اضافه کردن شرکت کنندگان، ارسال فایل ها و بیشتر"
+msgstr "افزودن شرکت کنندگان ، ارسال پرونده ها و بیشتر"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -9955,7 +9956,7 @@ msgstr "حذف"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr "افزودن به عنوان محبوبها"
+msgstr "افزودن به علاقمندیها"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
@@ -9963,7 +9964,7 @@ msgstr "از فهرست محبوبها حذف شود"
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr "برخط"
+msgstr "روی خط"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -10416,7 +10417,7 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Type a message here"
-msgstr ""
+msgstr "پیام را اینجا بنویسید"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -11040,11 +11041,11 @@ msgstr "ذخیره شماره تلفن"
 
 msgctxt "sBUDDYMENU_UNPIN_ICON"
 msgid "Remove from favorites"
-msgstr "از فهرست محبوبها حذف شود"
+msgstr "حذف از علاقمندیها"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr "افزودن به عنوان محبوبها"
+msgstr "افزودن به علاقمندیها"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
@@ -12737,11 +12738,11 @@ msgstr ""
 
 msgctxt "sCONTACTS_LINK_CAPS"
 msgid "CONTACTS"
-msgstr ""
+msgstr "دفترچه تلفن"
 
 msgctxt "sRECENTS_LINK_CAPS"
 msgid "RECENT"
-msgstr ""
+msgstr "اخیر"
 
 msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
 msgid "This photo is unavailable"
@@ -12861,51 +12862,51 @@ msgstr ""
 
 msgctxt "sDIALPAD_MAIN_1"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "sDIALPAD_MAIN_2"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "sDIALPAD_MAIN_3"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "sDIALPAD_MAIN_4"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "sDIALPAD_MAIN_5"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "sDIALPAD_MAIN_6"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "sDIALPAD_MAIN_7"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "sDIALPAD_MAIN_8"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "sDIALPAD_MAIN_9"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "sDIALPAD_MAIN_ASTERISK"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "sDIALPAD_MAIN_0"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "sDIALPAD_MAIN_HASH"
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgctxt "sDIALPAD_AUX_2"
 msgid "ABC"
@@ -12941,7 +12942,7 @@ msgstr ""
 
 msgctxt "sDIALPAD_AUX_0"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgctxt "sDIALPAD_COUNTRY_SELECTOR"
 msgid "%s (+%d)"

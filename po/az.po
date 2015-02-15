@@ -1,14 +1,14 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# Azer <siranas@yandex.com>, 2014
+# Azer <siranas@yandex.com>, 2014-2015
 # Michael Bauer, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2014-12-24 01:54+0000\n"
+"PO-Revision-Date: 2015-01-03 11:25+0000\n"
 "Last-Translator: Azer <siranas@yandex.com>\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/projects/p/skype-translation-project/language/az/)\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr "Skype Adı tapılmadı"
 
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
-msgstr "%s"
+msgstr "Şəxsi Səhifə %s"
 
 msgctxt "sF_USERINFO_LABEL_FULLNAME"
 msgid "Full name"
@@ -431,7 +431,7 @@ msgstr "Yeni şifrənizi daxil edin"
 
 msgctxt "sF_CHANGE_PASSWORD_INNER_TEXT3"
 msgid "Re-enter new password"
-msgstr "Şifrənizi təsdiqləyin"
+msgstr "Yeni şifrənizi təkrar daxil edin"
 
 msgctxt "sF_CHANGE_PASSWORD_BTN1_TEXT"
 msgid "Apply"
@@ -974,7 +974,7 @@ msgstr "Balans sıfıra bərabərdir"
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
-msgstr "Təəssüf ki, zəng mümkün olmadı."
+msgstr "Üzr, zəng uğursuz."
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
@@ -982,7 +982,7 @@ msgstr "Balans sıfıra bərabərdir"
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
-msgstr "Təəssüf ki, zəng mümkün olmadı."
+msgstr "Üzr, zəng uğursuz."
 
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
@@ -1060,7 +1060,7 @@ msgstr "İfadələri göstər"
 
 msgctxt "sF_AVATAR_BROWSER_WRONG_FILE"
 msgid "The file you chose was invalid."
-msgstr "Ehtibarsız fayl seçilib."
+msgstr "Etibarsız fayl seçilib."
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT_TITLE"
 msgid "Remove picture?"
@@ -1072,7 +1072,7 @@ msgstr "Təsviri sil?"
 
 msgctxt "sPSTN_RES_6009"
 msgid "Invalid phone number"
-msgstr "Ehtibarsız telefon nömrəsi"
+msgstr "Etibarsız telefon nömrəsi"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL"
 msgid "File sent."
@@ -1121,7 +1121,7 @@ msgstr "Ləğv edildi"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2"
 msgid "Sending failed"
-msgstr "Fayl göndərilməsi mümkün olmadı"
+msgstr "Fayl göndərilməsi uğursuz"
 
 msgctxt "sFILETRANSFER_CLOSE_TEXT_2"
 msgid ""
@@ -1150,7 +1150,7 @@ msgstr "Hazırda Skype-dan bu nömrəyə zəng etmək olmaz."
 
 msgctxt "sPSTN_RES_10408"
 msgid "Could not connect."
-msgstr "Bağlanmaq mümkün olmadı"
+msgstr "Bağlantı alınmadı"
 
 msgctxt "sPSTN_RES_10420"
 msgid "Bad extension"
@@ -1162,7 +1162,7 @@ msgstr "Şəbəkədə xəta"
 
 msgctxt "sPSTN_RES_10484"
 msgid "Invalid phone number"
-msgstr "Ehtibarsız telefon nömrəsi"
+msgstr "Etibarsız telefon nömrəsi"
 
 msgctxt "sPSTN_RES_10487"
 msgid "Busy"
@@ -1178,7 +1178,7 @@ msgstr "Xidmət mövcud deyil"
 
 msgctxt "sPSTN_RES_10504"
 msgid "Could not connect"
-msgstr "Bağlanmaq mümkün olmadı"
+msgstr "Bağlantı alınmadı"
 
 msgctxt "sPSTN_RES_10600"
 msgid "Network busy"
@@ -1190,7 +1190,7 @@ msgstr "Nömrə məşğuldur"
 
 msgctxt "sPSTN_RES_10604"
 msgid "Invalid phone number"
-msgstr "Ehtibarsız telefon nömrəsi"
+msgstr "Etibarsız telefon nömrəsi"
 
 msgctxt "sPSTN_RES_10686"
 msgid "Network busy"
@@ -1199,7 +1199,7 @@ msgstr "Şəbəkə məşğuldur"
 msgctxt "sINFORM_PASSWORD_OUTDATED_LOGOFF"
 msgid ""
 "You recently changed your password. Please sign in with your new password."
-msgstr "Şifrəniz dəyişdirildi. Skype-a girişi yeni şifrəylə həyata keçirin"
+msgstr "Şifrəniz dəyişdirilib. Skype-a yeni şifrəylə daxil olun."
 
 msgctxt "sINFORM_UIC_FAILED_LOGOFF"
 msgid ""
@@ -1209,11 +1209,11 @@ msgstr "Skype-dan çıxdınız. Yəqin, bağlantıda nasazlıq var və ya şifr�
 
 msgctxt "sINVALID_NUMBER_CAPTION"
 msgid "Invalid Skype Name or phone number"
-msgstr "Yanlış istifadəçi adı və ya telefon nömrəsi"
+msgstr "Yanlış Skype Adı və ya telefon nömrəsi"
 
 msgctxt "sINVALID_NUMBER_HEADER"
 msgid "Invalid Skype Name or phone number"
-msgstr "Yanlış istifadəçi adı və ya telefon nömrəsi"
+msgstr "Yanlış Skype Adı və ya telefon nömrəsi"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_OK"
 msgid "%s %s Skype Credit <a href=\"skype:?payments#skypeout\">Buy more</a>"
@@ -1259,11 +1259,11 @@ msgstr "Əlavə et"
 
 msgctxt "sPSTN_RES_1000"
 msgid "Sorry, call failed."
-msgstr "Təəssüf ki, zəng alınmadı."
+msgstr "Üzr, zəng uğursuz."
 
 msgctxt "sF_USERENTRY_CB_START_SKYPE"
 msgid "Start Skype when computer starts"
-msgstr "Kompüterin açılışında Skype-ı işə sal"
+msgstr "Kompüter qoşulduqda Skype qoşulsun"
 
 msgctxt "sACL_CHANGE"
 msgid "Change"
@@ -2368,7 +2368,7 @@ msgstr "%s tarixli balansınız sıfıra enəcək <a href=\"skype:?dialpad\"> Z�
 
 msgctxt "sF_USERENTRY_LINK_REGISTER"
 msgid "Don't have a Skype Name?"
-msgstr "İstifadəçi Adınız yoxdur?"
+msgstr "Skype Adınız yoxdur?"
 
 msgctxt "sF_USERENTRY_LOGGING_HELP"
 msgid "<a href=\"skype:?go#help.password.faq1\">Get help</a>"
@@ -2380,7 +2380,7 @@ msgstr "Əlaqələr İdxalı..."
 
 msgctxt "sMAINMENU_TOOLS_TRANSLATE"
 msgid "Edit Skype Language File..."
-msgstr "Dil Düzəlişi..."
+msgstr "Dil Faylı Düzəlişi..."
 
 msgctxt "sF_USERENTRY_ERROR_1101"
 msgid "Skype can't connect."
@@ -3073,7 +3073,7 @@ msgstr "Özünüzə fayl göndərə bilməzsiniz"
 
 msgctxt "sPSTN_RES_6519"
 msgid "Sorry, call failed."
-msgstr "Təəssüf, zəng mümkün olmadı!"
+msgstr "Üzr, zəng uğursuz."
 
 msgctxt "sPSTN_RES_10480"
 msgid "Phone network error"
@@ -3085,7 +3085,7 @@ msgstr "Ətraflı məlumat üçün quruluş idarəçinizə müraciət edin."
 
 msgctxt "sCALL_LB2_FAILED_GENERAL"
 msgid "Call failed"
-msgstr "Zəng mümkün olmadı"
+msgstr "Zəng uğursuz"
 
 msgctxt "sF_CONFIRM_COUNTRY_CAPTION"
 msgid "Start call"
@@ -3493,7 +3493,7 @@ msgstr "Həddindən Çox Məlumat"
 
 msgctxt "sSILENT_GUI_WARNING1"
 msgid "Another program is trying to put Skype in Silent Mode."
-msgstr "XƏBƏRDARLIQ!Bu proqram Skype-ı Lal Vəziyyətə salmağa çalışır."
+msgstr "Başqa bir proqram Skype-ı Lal Vəziyyətə salmağa çalışır."
 
 msgctxt "sSILENT_GUI_WARNING2"
 msgid ""
@@ -3501,11 +3501,11 @@ msgid ""
 "IMs or other Skype events, although you will still hear your ringtone when "
 "someone calls you. To return to normal, click on the Skype icon in the "
 "System Tray at the bottom of your screen and choose Open Skype."
-msgstr "XƏBƏRDARLIQ!Bu o deməkdir ki, zəng, ismarıc və digər Skype hadisələri barədə heç bir görüntülü bildiriş almayacaqsınız. Amma telefon zənglərini eşidəcəksiniz. Məqbul vəziyyətə qayıtmaq üçün ekranınızın sağ alt küncündəki Skype işarəsinə basın."
+msgstr "Bu o deməkdir ki, zəng, ismarıc və digər Skype hadisələri barədə heç bir görüntülü bildiriş almayacaqsınız. Amma telefon zənglərini eşidəcəksiniz. Məqbul vəziyyətə qayıtmaq üçün ekranınızın sağ alt küncündəki Skype işarəsinə basın."
 
 msgctxt "sSILENT_GUI_WARNING3"
 msgid "Click OK to accept or Cancel to deny this request."
-msgstr "Sorğunu qəbul etmək üçün 'OLDU', imtina etmək üçün 'İmtina' düyməsini seçin."
+msgstr "Sorğunu qəbul etmək üçün OLDU, imtina etmək üçün İmtina düyməsini seçin."
 
 msgctxt "sSILENT_GUI_CAPTION"
 msgid "Confirm silent mode"
@@ -3792,7 +3792,7 @@ msgstr "Bitir"
 
 msgctxt "sF_CALL_QLT_BTN_SEND_FEEDBACK"
 msgid "Send feedback"
-msgstr "Bildiriş İsmarıcı Göndər"
+msgstr "Rəy Göndər"
 
 msgctxt "sF_CALL_QLT_LBL_RATE"
 msgid "Your feedback will help us make Skype better."
@@ -4917,7 +4917,7 @@ msgstr "Fasilə"
 
 msgctxt "sZAPBUTTON_PAUSEUPGRADEDOWNLOAD"
 msgid "Pause download"
-msgstr "Yükləməni müvəqqəti dayandır"
+msgstr "Yükləməyə fasilə"
 
 msgctxt "sZAPBUTTON_PLAY"
 msgid "Play"
@@ -5049,7 +5049,7 @@ msgstr "Giriş"
 
 msgctxt "sZAPBUTTON_SKIP"
 msgid "Skip"
-msgstr "Fikir Vermə"
+msgstr "Burax"
 
 msgctxt "sZAPBUTTON_SELECTCONTACTS"
 msgid "Select contacts"
@@ -5225,7 +5225,7 @@ msgstr "Dəstə zənginə əlavə et"
 
 msgctxt "sZAPBUTTON_CT_RESUME"
 msgid "Resume call"
-msgstr "Zəngə davam et"
+msgstr "Zəngi bərpa et"
 
 msgctxt "sZAPBUTTON_DIALPADRECENT"
 msgid "Recently dialed numbers"
@@ -5297,7 +5297,7 @@ msgstr "Bağlantını Bərpa Et"
 
 msgctxt "sZAPBUTTON_SKYPEWIFICONNECT"
 msgid "Connect"
-msgstr "Qoşul"
+msgstr "Bağlan"
 
 msgctxt "sZAPBUTTON_NOSSEHINT"
 msgid "Video Call"
@@ -5413,15 +5413,15 @@ msgstr "Əlaqələrdən sil"
 
 msgctxt "sCALL_DROPPED"
 msgid "Call with %s dropped."
-msgstr "%s ilə edilən zəng kəsildi."
+msgstr "%s ilə zəng kəsildi."
 
 msgctxt "sCALL_CANNOT_CONNECT"
 msgid "Cannot connect to %s."
-msgstr "%s ilə bağlanmaq mümkün deyil."
+msgstr "%s ilə bağlantə alınmadı."
 
 msgctxt "sCALL_INTERNAL_ERROR"
 msgid "Call with %s failed."
-msgstr "%s ilə olan zəng alınmadı."
+msgstr "%s ilə zəng uğursuz."
 
 msgctxt "sCALL_OTHER_LIVE"
 msgid "You can only have one call at a time."
@@ -5433,7 +5433,7 @@ msgstr "%s adlı şəxsə zəng etsəniz, bu səsli ismarıc ləğv olunacaq."
 
 msgctxt "sLOGIN_CONNECTION_OPTIONS"
 msgid "Connection options..."
-msgstr "Bağlantı xətası..."
+msgstr "Bağlantı imkanları..."
 
 msgctxt "sLOGIN_CHANGE_LANGUAGE"
 msgid "Change language"
@@ -5822,7 +5822,7 @@ msgstr "Şifrəni Dəyiş..."
 
 msgctxt "sMAINMENU_SKYPE_SIGN_OUT"
 msgid "Sign Out"
-msgstr "Çıxış"
+msgstr "Şəxsi Səhifədən Çıxış"
 
 msgctxt "sMAINMENU_SKYPE_CLOSE"
 msgid "Close"
@@ -5858,7 +5858,7 @@ msgstr "Şəbəkə Vəziyyətinə Görə"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
-msgstr "Gizlət, Kimlər..."
+msgstr "Gizlət, Kim"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE"
 msgid "Are Offline"
@@ -6066,7 +6066,7 @@ msgstr "%s, əlaqə vasitələrini %s adlı şəxsə göndərdi."
 
 msgctxt "sCALL_LB2_CANNOT_CONNECT"
 msgid "Call failed"
-msgstr "Bağlanmaq mümkün olmadı"
+msgstr "Zəng uğursuz"
 
 msgctxt "sCALL_LB2_INTERNET_LOST"
 msgid "Internet connection lost"
@@ -6186,7 +6186,7 @@ msgstr "Çatdırılma mümkün olmadı"
 
 msgctxt "sCALL_LB2_BLOCKED"
 msgid "Call failed"
-msgstr "Zəng mümkün olmadı"
+msgstr "Zəng uğursuz"
 
 msgctxt "sZAPBUTTON_UNREADMESSAGE"
 msgid "New message"
@@ -6219,15 +6219,15 @@ msgstr "%s göndərdi %s"
 
 msgctxt "sCALL_LB2_PSTN_MISC"
 msgid "Sorry, call failed."
-msgstr "Üzr istəyirik, zəng mümkün olmadı."
+msgstr "Üzr, zəng uğursuz."
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE_2"
 msgid "Cancelling"
-msgstr "İmtina"
+msgstr "Ləğv et"
 
 msgctxt "sFILETRANSFER_CLOSE_CAP_2"
 msgid "Reject the file"
-msgstr "Fayldan imtina et"
+msgstr "Fayldan imtina"
 
 msgctxt "sMAINMENU_CONVERSATION_REMOVE_FROM_CONTACTS"
 msgid "Remove from Contacts"
@@ -6505,7 +6505,7 @@ msgstr "Bu İnsanları Qadağadan Azad Et"
 
 msgctxt "sCALL_OUT_CREDIT1"
 msgid "Sorry, call with %s failed"
-msgstr "Üzr istəyirik, %s ilə zəng mümkün olmadı"
+msgstr "Üzr, zəng %s uğursuz"
 
 msgctxt "sCALL_OUT_CREDIT2"
 msgid ""
@@ -6968,7 +6968,7 @@ msgstr "Yığ"
 
 msgctxt "sPROFILE_AVATAR_MAX"
 msgid "Maximize"
-msgstr "Aç"
+msgstr "Böyüt"
 
 msgctxt "sACTION_ON_YOURSELF"
 msgid ""
@@ -7219,7 +7219,7 @@ msgstr "Zəngə görüntülü cavab ver"
 
 msgctxt "INVALID_HOTKEY_TITLE"
 msgid "Invalid hotkeys detected"
-msgstr "Ehtibarsız cəld düymə uyğunluğu aşkarlandı"
+msgstr "Etibarsız cəld düymə uyğunluğu aşkarlandı"
 
 msgctxt "INVALID_HOTKEY_WARNING"
 msgid "WinKey cannot be used as a hotkey for %s"
@@ -7243,7 +7243,7 @@ msgstr "Çatdırılmadı"
 
 msgctxt "sCHATITEM_DESCRIPTION_FAILED"
 msgid "Failed to deliver"
-msgstr "Çatdırmaq mümkün olmadı"
+msgstr "Çatdırma uğursuz"
 
 msgctxt "sCHATITEM_DESCRIPTION_UNCONSUMED"
 msgid "New"
@@ -7294,7 +7294,7 @@ msgstr "Dəstəni Əlaqələrdə saxla"
 
 msgctxt "sCALL_FAILED"
 msgid "Call failed"
-msgstr "Zəng mümkün olmadı"
+msgstr "Zəng uğursuz"
 
 msgctxt "sNOTIF_POSTED_SINGLE_CONTACT"
 msgid "Contact sent: %s"
@@ -7318,7 +7318,7 @@ msgstr "Dəstəyi Qaldır"
 
 msgctxt "sTRAYMENU_IGNORE"
 msgid "Ignore Call"
-msgstr "Zəngə Cavab Vermə"
+msgstr "Zəngdən İmtina"
 
 msgctxt "sTRAYMENU_HANGUP"
 msgid "Hang Up"
@@ -7371,7 +7371,7 @@ msgstr "Skype WiFi..."
 
 msgctxt "sUSERCREATE_PWD_HINT"
 msgid "6-20 characters needed"
-msgstr "İşarə sayı 6-dan 20-ə qədər olmalıdır"
+msgstr "Zəruri işarə sayı 6-20"
 
 msgctxt "sUSERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid "Too short: 6 characters min."
@@ -7593,7 +7593,7 @@ msgstr "Tam ekran"
 
 msgctxt "sLIVE_B_FULLSCREENEXIT"
 msgid "Exit fullscreen"
-msgstr "Tam ekranndan çıxış"
+msgstr "Tam ekrandan çıxış"
 
 msgctxt "sLIVE_B_ACTUALSIZE"
 msgid "Actual size"
@@ -7752,18 +7752,18 @@ msgid ""
 "installed the latest drivers. Also try plugging it into a different USB port"
 " on your computer, then restart Skype. For more help, go to the call quality"
 " guide."
-msgstr "Əgər kameranız varsa, onun qoşulu, açıq və yeni əlaqəndiricilərin yüklənmiş olduğuna əmin olun. Həmçinin, onu digər USB limanına qoşmağa və Skype-ı yenidən işə salmağa cəhd edin. Əlavə kömək üçün rabitə keyfiyyəti bələdçisinə baxın."
+msgstr "Əgər kameranız varsa, onun qoşulu, açıq və yeni əlaqəndiricilərin yüklənmiş olduğuna əmin olun. Həmçinin, onu digər USB limanına qoşub, Skype-ı yenidən işə salın. Əlavə kömək üçün rabitə keyfiyyəti bələdçisinə baxın."
 
 msgctxt "sCQ_CANT_CONNECT_TO_WEBCAM_TITLE"
 msgid "Skype can't connect to your webcam"
-msgstr "Skype kameranıza bağlana bilmir"
+msgstr "Skype kameranıza qoşula bilmir"
 
 msgctxt "sCQ_CANT_CONNECT_TO_WEBCAM_DESC"
 msgid ""
 "Close any other applications that might be using your webcam. You could also"
 " plug your webcam into a different USB port on your computer, then restart. "
 "For more help, check the call quality guide."
-msgstr "Kameranızdan istifadə edən digər proqramları bağlayın. Həmçinin, veb-kameranı kompüterin digər USB limanına qoşmağa və proqramı yenidən işə salmağa cəhd edin. Əlavə kömək üçün rabitə keyfiyyəti bələdçisinə baxın."
+msgstr "Kameranızdan istifadə edən digər proqramları bağlayın. Həmçinin, veb-kameranı kompüterin digər USB limanına qoşub, yenidən işə salın. Əlavə kömək üçün rabitə keyfiyyəti bələdçisinə baxın."
 
 msgctxt "sCQ_UNPLUG_USB_TITLE"
 msgid "Unplug some USB devices"
@@ -7901,14 +7901,14 @@ msgstr "Kompüteriniz zəng üçün çox zəif işləyir. Digər açıq proqraml
 
 msgctxt "sCQ_RUNNING_ON_BATTERY_TITLE"
 msgid "Running on battery? Switch to AC power"
-msgstr "Kompüteriniz batereya ilə işləyir? Tarazlaşdırılmış (AC) vəziyyətə keçin"
+msgstr "Batareya işlədirsiz? Tarazlaşdırılmış vəziyyətinə keçin."
 
 msgctxt "sCQ_RUNNING_ON_BATTERY_DESC"
 msgid ""
 "Your laptop is in power saving mode. To get better sound or video quality, "
 "change your computer to AC power or switch your computer to maximum "
 "performance."
-msgstr "Kompüteriniz enerji qənaəti vəziyyətindədir. Daha yaxşı səs və görüntü keyfiyyəti üçün kompüterinizi tarazlaşdırılmış (AC) və ya yüksək məhsuldrlıq vəziyyətinə keçirin."
+msgstr "Dizüstünüz Qənaətli vəziyyətindədir. Daha yaxşı səs və görüntü keyfiyyəti üçün, kompüterinizi Tarazlaşdırılmış və ya Yüksək Səmərə vəziyyətinə keçirin."
 
 msgctxt "sCQ_SKYPE_IS_RUNNING_SLOWLY_TITLE"
 msgid "Skype is running slowly"
@@ -7918,18 +7918,18 @@ msgctxt "sCQ_SKYPE_IS_RUNNING_SLOWLY_DESC"
 msgid ""
 "Close any Extras, toolbars or other applications that use Skype. If that "
 "doesn't help, try quitting Skype then restarting it."
-msgstr "Skype istifadə edən bütün əlavələri, alətlər lövhəsini və digər proqramları bağlayın. Bu kömək etmədisə, Skype-dan çıxıb yenidən işə salmağa cəhd edin."
+msgstr "Skype istifadə edən bütün əlavələri, alətlər lövhəsini və digər proqramları bağlayın. Bu kömək etmədisə, Skype-dan çıxıb yenidən işə salın."
 
 msgctxt "sCQ_YOUR_COMP_RUNNING_SLOWLY_TITLE"
 msgid "Your computer is running slowly"
-msgstr "Kompüterinizin imkanları zəifdir"
+msgstr "Kompüteriniz zəif işləyir"
 
 msgctxt "sCQ_YOUR_COMP_RUNNING_SLOWLY_DESC"
 msgid ""
 "Your computer might be too slow to make clear calls. Try closing other "
 "applications you have running, or switch to AC power if your laptop is "
 "running on battery."
-msgstr "Yəqin kompüterinizin sürəti keyfiyyətli zənglər üçün çox aşağıdır. Digər proqramları bağlayın və ya kompüteriniz batereya ilə işləyirsə, tarazlaşdırılmış (AC) vəziyyətinə keçin."
+msgstr "Yəqin kompüterinizin sürəti keyfiyyətli zənglər üçün çox aşağıdır. Digər proqramları bağlayın və ya kompüteriniz batareya ilə işləyirsə, Tarazlaşdırılmış vəziyyətinə keçin."
 
 msgctxt "sCQ_YOUR_COMP_SPEED_SLOW_TITLE"
 msgid "Your computer speed is slow"
@@ -7971,7 +7971,7 @@ msgctxt "sCQ_CONNECTION_SPEED_UNKNOW_DESC"
 msgid ""
 "Skype is unable to measure the speed of the internet connection between you "
 "at this time."
-msgstr "Hazırda Skype İnternetlə bağlantınızın sürətini ölçə bilmir."
+msgstr "Hazırda Skype İnternet bağlantınızın sürətini ölçə bilmir."
 
 msgctxt "sCQ_YOUR_CONNECTION_VERY_SLOW_TITLE"
 msgid "Connection is very slow"
@@ -7986,7 +7986,7 @@ msgstr "Yəqin bağlantı sürəti, keyfiyyətli zəng üçün çox aşağıdır
 
 msgctxt "sCQ_SKYPE_RESTRICTED_WEB_ACCESS_TITLE"
 msgid "Skype has restricted internet access"
-msgstr "Skype-ın İnternetə keçidi məhdudlaşdırılıb"
+msgstr "Skype məhdud İnternet çıxışa malikdir"
 
 msgctxt "sCQ_SKYPE_RESTRICTED_WEB_ACCESS_DESC"
 msgid ""
@@ -8089,19 +8089,19 @@ msgctxt "sCQ_YOU_HAVE_BG_NOISE_DESC"
 msgid ""
 "Try moving to a quiet location, move your microphone closer to your mouth, "
 "or try to speak a little louder."
-msgstr "Səssiz bir otağa keçməyi çalışın, mikrofonu özünüzə yaxınlaşdırın və ya bir az daha yüksək səslə danışmağa cəhd edin."
+msgstr "Səssiz bir otağa keçməyə çalışın, mikrofonu özünüzə yaxınlaşdırın və ya bir az daha yüksək səslə danışmağa cəhd edin."
 
 msgctxt "sCALL_LB2_TRANSFER_FAILED"
 msgid "Transfering call failed"
-msgstr "Zəngi ötürmək mümkün olmadı"
+msgstr "Zəng ötürmə uğursuz"
 
 msgctxt "sCALL_TRANSFER_FAILED1"
 msgid "Sorry, transfering the call to %s failed"
-msgstr "Üzr istəyirik, %s adlı şəxsə zəng ötürülməsi mümkün olmadı"
+msgstr "Üzr, %s adlı şəxsə zəng ötürmə uğursuz"
 
 msgctxt "sCALL_TRANSFER_FAILED2"
 msgid "You need Skype Credit to call this number"
-msgstr "Bu nömrəyə zəng etmək üçün Skype hesabınızda kifayət qədər vəsait olmalıdır"
+msgstr "Bu nömrəyə zəng etmək üçün, Skype Hesabınızda vəsait olmalıdır"
 
 msgctxt "sCQ_NON_VIDEO_CALL_TITLE"
 msgid "Video not available"
@@ -8117,13 +8117,13 @@ msgstr "Sabit və mobil telefonlara görüntülü zəng edə bilməzsiniz."
 
 msgctxt "sCQ_SO_CALL_NET_STATUS_TITLE"
 msgid "Your connection speed is good"
-msgstr "İnternetlə bağlantınız sürətlidir"
+msgstr "İnternet bağlantınız sürətlidir"
 
 msgctxt "sCQ_SO_CALL_NET_STATUS_DESC"
 msgid ""
 "Your internet connection is fast enough to call and receive calls from a "
 "phone or mobile."
-msgstr "İnternetlə bağlantız sabit və mobil telefonlara zəng edilməsi və qəbulu üçün kifayət qədər sürətlidir."
+msgstr "İnternet bağlantınız sabit və mobil telefonlara zəng edilməsi və ya qəbulu üçün kifayət qədər sürətlidir."
 
 msgctxt "sFLOW_CALLTRANSFER_INCOMING"
 msgid "Call transferred by %s"
@@ -8272,7 +8272,7 @@ msgstr "İstifadəçi hesabında vəsait mövcud deyil"
 
 msgctxt "sCALL_TRANSFER_NO_FUNDS1"
 msgid "Sorry, call with %s failed."
-msgstr "Üzr istəyirik, %s ilə bağlantı kəsildi."
+msgstr "Üzr, zəng %s uğursuz"
 
 msgctxt "sCALL_TRANSFER_NO_FUNDS2"
 msgid ""
@@ -8958,7 +8958,7 @@ msgstr "%s - %s üçün"
 
 msgctxt "sMYSELF_PROFILE_NOT_SPECIFIED"
 msgid "Not specified"
-msgstr "Göstərilməyib"
+msgstr "Qeyd edilməyib"
 
 msgctxt "sSEND_MSG_FOOTER_MSG_3"
 msgid ""
@@ -9761,7 +9761,7 @@ msgstr "Tənzimlər saxlanılmadı"
 
 msgctxt "sFLOW_CALL_UNANSW_OUT_FBPLUGIN_INST"
 msgid "Call to %s, failed. Plugin required"
-msgstr "Zəng %s uğursuz oldu. Təminat lazımdır"
+msgstr "Zəng %s uğursuz. Təminat lazımdır"
 
 msgctxt "sFBPLUGIN_INSTALL_WARNING"
 msgid ""
@@ -10937,7 +10937,7 @@ msgstr "Seçilmiş Wi-Fi şəbəkəsinə qoşulma mümkün olmadı. Wi-Fi qəbul
 
 msgctxt "sSKYPEWIFI_ERROR_DESC_CREDENTIALS"
 msgid "We were unable to recognize your Skype Name or password."
-msgstr "Sizin Skype adı və ya şifrə tanınmadı."
+msgstr "Sizin Skype Adı və ya şifrə tanınmadı."
 
 msgctxt "sOPTIONS_SHOW_ME_AWAY_WHEN_INACTIVE_1"
 msgid "Show me as Away when I've been inactive for"
@@ -11048,7 +11048,7 @@ msgstr "Görüntülü ismarıc göndər"
 
 msgctxt "sAC_SEND_REQ"
 msgid "%s is not in your Contacts"
-msgstr "%s Əlaqələr siyahınızda deyil"
+msgstr "%s Əlaqələrinizdə deyil"
 
 msgctxt "sAC_RESEND_REQ"
 msgid "Contact request sent - <a href=\"%s\">Resend contact request</a>"
@@ -11056,7 +11056,7 @@ msgstr "Əlaqə vasitələri sorğusu göndərildi - <a href=\"%s\">Əlaqə vas
 
 msgctxt "sAC_ACCEPT_REQ"
 msgid "%s is not in your Contacts - <a href=\"%s\">Add to Contacts</a>"
-msgstr "%s Əlaqələr siyahınızda deyil - <a href=\"%s\">Əlaqələr Siyahısına Əlavə Et</a>"
+msgstr "%s Əlaqələrinizdə deyil - <a href=\"%s\">Əlaqələrinizə Əlavə Edin</a>"
 
 msgctxt "sAC_REQ_SENT"
 msgid "Contact request sent"
@@ -11554,23 +11554,23 @@ msgstr "Skype-la birlikdə %0:s təminatını istifadə edirsiz.  Skype-ın üç
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SMS"
 msgid "Chat via SMS, switch message type"
-msgstr "SMS vasitəsiylə söhbət, ismarıc qismini dəyişdir"
+msgstr "SMS vasitəsiylə söhbət, ismarıc qisminə keç"
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_SKYPE"
 msgid "Chat via Skype, switch message type"
-msgstr "Skype vasitəsiylə söhbət, ismarıc qismini dəyişdir"
+msgstr "Skype vasitəsiylə söhbət, ismarıc qisminə keç"
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_FACEBOOK"
 msgid "Chat via Facebook, switch message type"
-msgstr "Facebook vasitəsiylə söhbət, ismarıc qismini dəyişdir"
+msgstr "Facebook vasitəsiylə söhbət, ismarıc qisminə keç"
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_PASSPORT"
 msgid "Chat via Messenger, switch message type"
-msgstr "Messenger vasitəsiylə söhbət, ismarıc qismini dəyişdir"
+msgstr "Messenger vasitəsiylə söhbət, ismarıc qisminə keç"
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
 msgid "Chat via Lync, switch message type"
-msgstr "Lync vasitəsiylə söhbət, ismarıc qismini dəyişdir"
+msgstr "Lync vasitəsiylə söhbət, ismarıc qisminə keç"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
 msgid ""
@@ -12021,7 +12021,7 @@ msgstr "Bu görüntülü dəstə zənginə qoşulmaq üçün Skype-ı yeniləmə
 
 msgctxt "sLIVE_TOGGLE_ORIGINAL_VIDEO_SIZE"
 msgid "Show Full Size Video"
-msgstr "Görüntünü Tam Ekran Boyu Göstər"
+msgstr "Görüntünü Tam Ölçüdə Göstər"
 
 msgctxt "sVP8LEGACY_UPGRADE_LEGACY_HOST"
 msgid ""
@@ -12241,7 +12241,7 @@ msgstr "Çox təşəkkür. Siz indicə bir neçə Skype mühəndisini məmnun et
 
 msgctxt "sINBOX_PENDING_CONTACT_REQUESTS"
 msgid "Pending contact requests"
-msgstr "Təsdiq olunmamış əlaqələr mövcuddur"
+msgstr "Gözləyən əlaqə sorğuları"
 
 msgctxt "stalktothehand_SMILEY"
 msgid "Talk to the hand"
