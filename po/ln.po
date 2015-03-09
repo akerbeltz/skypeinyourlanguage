@@ -1,13 +1,14 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
+# E, 2015
 # Michael Bauer, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-11-19 17:43:16+0000\n"
-"PO-Revision-Date: 2014-12-12 10:44+0000\n"
+"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
+"PO-Revision-Date: 2015-03-09 19:45+0000\n"
 "Last-Translator: Michael Bauer\n"
 "Language-Team: Lingala (http://www.transifex.com/projects/p/skype-translation-project/language/ln/)\n"
 "MIME-Version: 1.0\n"
@@ -18,31 +19,31 @@ msgstr ""
 
 msgctxt "sSTATUSMENU_CAPTION_ONLINE"
 msgid "Online"
-msgstr "Okoti"
+msgstr "Ambémbí"
 
 msgctxt "sSTATUSMENU_CAPTION_OFFLINE"
 msgid "Offline"
-msgstr ""
+msgstr "Embémbóí"
 
 msgctxt "sSTATUSMENU_CAPTION_AWAY"
 msgid "Away"
-msgstr "Naza te"
+msgstr "Nazalí tɛ́"
 
 msgctxt "sSTATUSMENU_CAPTION_DND"
 msgid "Do Not Disturb"
-msgstr "Kotungisa te"
+msgstr "Kobulunganisa  tɛ́"
 
 msgctxt "sSTATUSMENU_CAPTION_INVISIBLE"
 msgid "Invisible"
-msgstr ""
+msgstr "Óyo ɛmɔ́nání tɛ́"
 
 msgctxt "sCALL_LB2_MISSED"
 msgid "No answer"
-msgstr "Ezoyanola te..."
+msgstr "Ezoyanola tɛ́"
 
 msgctxt "sCALL_LB2_REJECTED"
 msgid "Busy"
-msgstr ""
+msgstr "Okipé"
 
 msgctxt "sQUIT_PROMPT"
 msgid ""
@@ -55,7 +56,7 @@ msgstr "Kobwakisa appel"
 
 msgctxt "sMAINMENU_HELP_MENU"
 msgid "&Help"
-msgstr "&Sunga"
+msgstr "&Bosálisi"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
@@ -67,7 +68,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_CALL"
 msgid "Call"
-msgstr "Kobenga moto oyo"
+msgstr "Mbéngá"
 
 msgctxt "sBUDDYMENU_SENDMESSAGE"
 msgid "Send IM"
@@ -79,7 +80,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
-msgstr ""
+msgstr "Kobátisa..."
 
 msgctxt "sBUDDYMENU_REMOVE"
 msgid "Remove from Contacts"
@@ -550,7 +551,7 @@ msgstr "Kopona nioso"
 
 msgctxt "s_LANGUAGE_NAME"
 msgid "English"
-msgstr "Lingala"
+msgstr "Lingála"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
@@ -656,7 +657,7 @@ msgstr ""
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
-msgstr ""
+msgstr "Embémbóí"
 
 msgctxt "sSTATUS_ONLINE"
 msgid "Online"
@@ -664,11 +665,11 @@ msgstr "Okoti"
 
 msgctxt "sSTATUS_AWAY"
 msgid "Away"
-msgstr ""
+msgstr "Nazalí tɛ́"
 
 msgctxt "sSTATUS_DND"
 msgid "Do Not Disturb"
-msgstr ""
+msgstr "Kobulunganisa  tɛ́"
 
 msgctxt "sSTATUS_BLOCKED"
 msgid "Blocked"
@@ -1029,7 +1030,7 @@ msgstr ""
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr ""
+msgstr "Mbéngá Skype"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
@@ -1396,7 +1397,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr ""
+msgstr "Kotínda nsango mwa mongóngó"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this conversation?"
@@ -3839,7 +3840,7 @@ msgstr ""
 
 msgctxt "sCALLNOTIF_TITLE"
 msgid "%s calling"
-msgstr ""
+msgstr "%s kobénga"
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
@@ -4368,7 +4369,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr ""
+msgstr "Kondima"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
@@ -4388,7 +4389,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
-msgstr ""
+msgstr "Mbéngá"
 
 msgctxt "sZAPBUTTON_CALLMULTIPLE"
 msgid "Call"
@@ -4808,7 +4809,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HANGUPANDCALL"
 msgid "Call"
-msgstr "Kobenga moto oyo"
+msgstr "Mbéngá"
 
 msgctxt "sZAPBUTTON_HIDEMESSAGES"
 msgid "Hide messages"
@@ -4820,7 +4821,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_HOME"
 msgid "Home"
-msgstr ""
+msgstr "Lokásá ya libosó"
 
 msgctxt "sZAPBUTTON_HOMEORANGE"
 msgid "Skype Home, new updates"
@@ -4884,7 +4885,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr ""
+msgstr "na Skype"
 
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
@@ -5020,7 +5021,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SENDFILE"
 msgid "Send file"
-msgstr ""
+msgstr "Kotínda kásá"
 
 msgctxt "sZAPBUTTON_SENDIMAGE"
 msgid "Send image"
@@ -5068,7 +5069,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SEND"
 msgid "Send"
-msgstr "Kotinda"
+msgstr "Kotínda"
 
 msgctxt "sZAPBUTTON_SHOWME"
 msgid "Show me where"
@@ -5092,11 +5093,11 @@ msgstr "Kotinda SMS"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr ""
+msgstr "Mbéngá videó"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr ""
+msgstr "Mbéngá videó"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
@@ -5104,7 +5105,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_SENDVIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "Kotínda nsango ya videó"
 
 msgctxt "sZAPBUTTON_PLAYVIDEOMESSAGE"
 msgid "Play video message"
@@ -5370,11 +5371,11 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_INCOMING"
 msgid "Call from %s"
-msgstr ""
+msgstr "Mbéngá útá na %s"
 
 msgctxt "sFLOW_CALL_OUTGOING"
 msgid "Call to %s"
-msgstr ""
+msgstr "Mbéngá na %s"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
@@ -5797,7 +5798,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Kobongola statut"
+msgstr "Zala ambémbí"
 
 msgctxt "sMAINMENU_SKYPE_PROFILE"
 msgid "Profile"
@@ -5853,7 +5854,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_SORT_ONLINESTATUS"
 msgid "Online Status"
-msgstr "Kobongola statut"
+msgstr "Zala ambémbí"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE"
 msgid "Hide Contacts Who"
@@ -5949,15 +5950,15 @@ msgstr ""
 
 msgctxt "sMAINMENU_CALL"
 msgid "Call"
-msgstr "Kobenga moto oyo"
+msgstr "Mbéngá"
 
 msgctxt "sMAINMENU_CALL_START"
 msgid "Call"
-msgstr "Kobenga moto oyo"
+msgstr "Mbéngá"
 
 msgctxt "sMAINMENU_CALL_START_VIDEO"
 msgid "Video Call"
-msgstr ""
+msgstr "Mbéngá videó"
 
 msgctxt "sMAINMENU_CALL_ANSWER"
 msgid "Answer"
@@ -6021,7 +6022,7 @@ msgstr "Batu"
 
 msgctxt "sMAINMENU_VIEW_CONVERSATIONS"
 msgid "Recent"
-msgstr ""
+msgstr "Na sika"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
@@ -6033,11 +6034,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS"
 msgid "Tools"
-msgstr ""
+msgstr "Bisáleli"
 
 msgctxt "sMAINMENU_TOOLS_LANGUAGE"
 msgid "Change Language"
-msgstr ""
+msgstr "Kobóngola lokótá"
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
@@ -6045,7 +6046,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
-msgstr ""
+msgstr "Bosálisi"
 
 msgctxt "sMAINMENU_HELP_QUALITY"
 msgid "Call Quality Guide"
@@ -6129,15 +6130,15 @@ msgstr ""
 
 msgctxt "sCHAT_HISTORY_YESTERDAY"
 msgid "Yesterday"
-msgstr "Lobi eleki"
+msgstr "Lóbí elekí"
 
 msgctxt "sCHAT_HISTORY_7DAYS"
 msgid "7 days"
-msgstr ""
+msgstr "Mikɔlɔ 7"
 
 msgctxt "sCHAT_HISTORY_30DAYS"
 msgid "30 days"
-msgstr ""
+msgstr "Mikɔlɔ 30"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
@@ -7194,7 +7195,7 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CALL_STATE_RINGING"
 msgid "Ringing"
-msgstr ""
+msgstr "Ngɛlɛngɛlɛ"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
@@ -8636,7 +8637,7 @@ msgstr ""
 
 msgctxt "sRECENTS_TAB_TEXT"
 msgid "Recent"
-msgstr ""
+msgstr "Na sika"
 
 msgctxt "sCONTACT_QF_HINT"
 msgid "Search"
@@ -9497,7 +9498,7 @@ msgstr ""
 
 msgctxt "sLIVE_CALLING"
 msgid "calling"
-msgstr ""
+msgstr "kobénga"
 
 msgctxt "sAVATAR_CAPTURE_SMALL_IMAGE_TEXT"
 msgid "Pick a bigger picture. It will be easier for people to see."
@@ -9926,7 +9927,7 @@ msgstr ""
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
-msgstr ""
+msgstr "Makútoli-lonkásá"
 
 msgctxt "sFAVORITES_BKGROUND_TEXT"
 msgid "Drag contacts here"
@@ -9938,7 +9939,7 @@ msgstr "Kokanga"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
-msgstr ""
+msgstr "Kobátisa"
 
 msgctxt "sFAVORITES_DELETE_BUTTON_HINT"
 msgid "Delete"
@@ -9954,7 +9955,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ONLINE2"
 msgid "Online"
-msgstr "Okoti"
+msgstr "Ambémbí"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
@@ -9966,7 +9967,7 @@ msgstr ""
 
 msgctxt "sCONTACT_GROUP_ALL2"
 msgid "All"
-msgstr ""
+msgstr "Mobimba"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
@@ -10411,7 +10412,7 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
-msgstr "Kotinda SMS"
+msgstr "Kotínda SMS"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -11039,7 +11040,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
-msgstr ""
+msgstr "Kotínda nsango ya videó"
 
 msgctxt "sVIDEOMSG_REPLY_HINT"
 msgid "Send video message"
@@ -12728,11 +12729,11 @@ msgstr ""
 
 msgctxt "sCONTACTS_LINK_CAPS"
 msgid "CONTACTS"
-msgstr ""
+msgstr "BATU"
 
 msgctxt "sRECENTS_LINK_CAPS"
 msgid "RECENT"
-msgstr ""
+msgstr "NA SIKA"
 
 msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
 msgid "This photo is unavailable"

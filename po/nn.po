@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2015-02-10 13:41+0000\n"
+"PO-Revision-Date: 2015-02-20 01:54+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: Norwegian Nynorsk (http://www.transifex.com/projects/p/skype-translation-project/language/nn/)\n"
 "MIME-Version: 1.0\n"
@@ -1687,39 +1687,39 @@ msgstr "Lengd: %s sek."
 
 msgctxt "sF_OPTIONS_VM_REMAIN"
 msgid "%s seconds remaining"
-msgstr "%s sekund att"
+msgstr "%s sekund står att"
 
 msgctxt "sF_OPTIONS_VM_DOWNLOADING"
 msgid "Loading my voice message greeting"
-msgstr "Lastar velkomstmelding"
+msgstr "Lastar inn velkomstmelding for talepost"
 
 msgctxt "sF_OPTIONS_VM_SET"
 msgid "My voice message greeting"
-msgstr "Mi velkomstmelding"
+msgstr "Mi velkomstmelding for talepost"
 
 msgctxt "sF_OPTIONS_VM_PLAYING"
 msgid "Playing my voice message greeting"
-msgstr "Spelar av velkomstmelding"
+msgstr "Spelar av velkomstmelding for talepost"
 
 msgctxt "sF_OPTIONS_VM_RECORDING"
 msgid "Recording my voice message greeting"
-msgstr "Spelar inn velkomstmelding"
+msgstr "Spelar inn velkomstmelding for talepost"
 
 msgctxt "sF_OPTIONS_VM_UPLOADING"
 msgid "Saving my voice message greeting"
-msgstr "Lagrar velkomstmelding"
+msgstr "Lagrar velkomstmelding for talepost"
 
 msgctxt "sF_OPTIONS_SOUNDS_PLAY_HINT"
 msgid "Play:"
-msgstr "Spel av:"
+msgstr "Spel:"
 
 msgctxt "sF_OPTIONS_BTN_UNMUTE"
 msgid "Enable all sounds"
-msgstr "Slå på all lyd"
+msgstr "Slå på alle lydar"
 
 msgctxt "sF_OPTIONS_LINK_VOICEMAIL_SUBSCR"
 msgid "Set up voice messaging"
-msgstr "Set opp talemelding"
+msgstr "Still inn talemelding"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_NO_SUBSCR"
 msgid "Never miss another call with voice messages"
@@ -5840,7 +5840,7 @@ msgstr "Opprett ny gruppe …"
 
 msgctxt "sMAINMENU_CONTACTS_GROUPS"
 msgid "Contact Lists"
-msgstr "Kontaktkategoriar"
+msgstr "Kontaktlister"
 
 msgctxt "sMAINMENU_CONTACTS_SHOW_OUTLOOK"
 msgid "Show Outlook Contacts"
@@ -6376,7 +6376,7 @@ msgstr "Det er ikkje mykje lyd i mikrofonen din"
 
 msgctxt "sCONTACT_GROUP_NEW"
 msgid "New List"
-msgstr "Ny kategori"
+msgstr "Ny liste"
 
 msgctxt "sCONTACTGROUPS_NEW"
 msgid "Create New List..."
@@ -6384,15 +6384,15 @@ msgstr "Lag ny liste …"
 
 msgctxt "sREMOVEGROUP_CAPTION"
 msgid "Delete List?"
-msgstr "Slette kategori?"
+msgstr "Slette liste?"
 
 msgctxt "sREMOVEGROUP_WARNING"
 msgid "Do you want to delete the list \"%s\"?"
-msgstr "Ynskjer du å slette kategorien «%s»?"
+msgstr "Ynskjer du å slette lista «%s»?"
 
 msgctxt "sREMOVEGROUP_TITLE"
 msgid "Delete list"
-msgstr "Slett kategorien"
+msgstr "Slett lista"
 
 msgctxt "sCONTACT_PROFILE_EDIT_PHONE"
 msgid "Edit number"
@@ -6427,7 +6427,7 @@ msgstr "Skriv inn eit namn for denne kontakten"
 
 msgctxt "sF_COM_CAPTION"
 msgid "Application access"
-msgstr "Nyttige råd"
+msgstr "Programtilgang"
 
 msgctxt "sF_COM_MULTIPLE"
 msgid "%s messages"
@@ -6435,7 +6435,7 @@ msgstr "%s meldingar"
 
 msgctxt "sCONTACT_ADD_TO_GROUP"
 msgid "Add to List"
-msgstr "Legg til i kategori"
+msgstr "Legg til i liste"
 
 msgctxt "sCONTACT_MANAGE_GROUP"
 msgid "Manage Lists"
@@ -6475,11 +6475,11 @@ msgstr "Vis gruppesamtale"
 
 msgctxt "sCONTACTGROUPS_DELETE_SELECTED"
 msgid "Delete List \"%s\"..."
-msgstr "Slett kategorien «%s» …"
+msgstr "Slett lista «%s» …"
 
 msgctxt "sCONTACTGROUPS_RENAME_SELECTED"
 msgid "Rename List \"%s\"..."
-msgstr "Endre namn på kategorien «%s» …"
+msgstr "Endre namn på lista «%s» …"
 
 msgctxt "sF_CALLQUALITYGUIDE_WINDOW_TITLE"
 msgid "Call Quality Guide"

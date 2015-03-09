@@ -171,6 +171,10 @@ Ligurian (Lìgure)
 Translator(s): Unknown
 Source: http://genoves.com.ar/Archivos%20y%20fotos/Ligurian%20%28Zeneize%29_%205.10.0.116_20120927_.lang
 
+Lingala
+Translator: L10N
+Source: Transifex
+
 Lojban
 Translator: gleki, DaKrazyJak
 Source: Transifex
@@ -255,6 +259,9 @@ Sardinian (Sardu)
 Translator: utalabi
 Source: Transifex
 
+Scots
+Translator: Marco Cafolla
+
 Scottish Gaelic (Gàidhlig)
 Translator: Michael Bauer
 
@@ -269,6 +276,10 @@ Source: Transifex
 Tajik (Тоҷикӣ, تاجیکی‎)
 Translator(s): Unknown
 Source: http://www.millat.tj/AFpersian%20cirillic.lang
+
+Talossan (El Glheþ Talossan)
+Translators: Robin van der Vliet, Marcel Machado
+Source: Transifex
 
 Tamil (தமிழ்)
 Translator(s): Unknown
