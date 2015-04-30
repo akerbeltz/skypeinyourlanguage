@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2015-03-04 07:29+0000\n"
+"PO-Revision-Date: 2015-03-23 16:54+0000\n"
 "Last-Translator: Gideon Wentink <gjwentink@gmail.com>\n"
 "Language-Team: Afrikaans (http://www.transifex.com/projects/p/skype-translation-project/language/af/)\n"
 "MIME-Version: 1.0\n"
@@ -384,7 +384,7 @@ msgstr "Wys tyd langs boodskap"
 
 msgctxt "sF_RENAMEUSER_LABEL"
 msgid "Enter new name for %s"
-msgstr "Nuwwe naam vir %s"
+msgstr "Voer nuwe naam vir %s in"
 
 msgctxt "sF_RENAMEUSER_CAPTION"
 msgid "Rename"
@@ -412,7 +412,7 @@ msgstr "&Kanselleer"
 
 msgctxt "sBUDDYMENU_QUERYAUTH"
 msgid "Resend Contact Request"
-msgstr "Herstuur Kontak Versoek"
+msgstr "Herstuur Kontakversoek"
 
 msgctxt "sF_INFORM_DEFAULT_CAPTION"
 msgid "Information"
@@ -450,7 +450,7 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT4"
 msgid ""
 "The passwords don't match. Please re-enter your new password and "
 "confirmation again"
-msgstr "Wagwoorde is nie dieselfde nie"
+msgstr "Wagwoorde is nie dieselfde nie. Voer u nuwe wagwoord en die bevestiging weer in"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT5"
 msgid "Change password"
@@ -462,13 +462,13 @@ msgstr "Die ou wagwoord is nie geldig nie. Probeer weer."
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT7"
 msgid "Unable to change password due to connection problems"
-msgstr "Kon nie die wagwoord verander nie, as gevolg van verbindings probleme"
+msgstr "Kon nie die wagwoord verander nie, as gevolg van verbindingsprobleme"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT8"
 msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
-msgstr "Suksesvol! U wagwoord is nou veraander."
+msgstr "Suksesvol! U wagwoord is nou verander. Gebruik dit wanneer u volgende keer by Skype inteken."
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -490,7 +490,7 @@ msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SHORT"
 msgid ""
 "Your password is too short. It needs to be 6-20 characters long. Try a new "
 "password."
-msgstr "U wagwoord is te kort"
+msgstr "U wagwoord is te kort. Dit moet 6-20 karakters lank wees/ Probeer ’n nuwe wagwoord."
 
 msgctxt "sF_OPTIONS_PAGE_CONNECTION"
 msgid "Connection"
@@ -518,11 +518,11 @@ msgstr "U veranderings sal begin sodra u Skype weer begin"
 
 msgctxt "sF_OPTIONS_SOUNDDEVICESETTING_FAILED"
 msgid "Your sound devices aren't working. Please check your settings."
-msgstr "U klank stelsel werk nie. Kyk na u verstellings."
+msgstr "U klanktoestelle werk nie. Gaan u instellings na."
 
 msgctxt "sF_OPTIONS_PAGE_DEVICES"
 msgid "Audio settings"
-msgstr "Klank verstellings"
+msgstr "Oudioinstellings"
 
 msgctxt "sF_OPTIONS_LB20"
 msgid "Microphone"
@@ -540,11 +540,11 @@ msgctxt "sF_USERENTRY_ERROR_PASSWORD_TOO_SIMPLE"
 msgid ""
 "Your password needs to contain at least 1 letter and 1 number. Try a new "
 "password."
-msgstr "Kies 'n nuwwe wagwoord"
+msgstr "U wagwoord moet ten minste 1 letter en 1 syfer bevat. Probeer ’n nuwe wagwoord."
 
 msgctxt "sF_OPTIONS_LB24"
 msgid "Use Skype to call callto: links on the web"
-msgstr "Gebruik Skype om te skakell callto: skakels op die net"
+msgstr "Gebruik Skype om callto te skakel: skakels op die web"
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_COPY"
 msgid "Copy Selection"
@@ -560,17 +560,17 @@ msgstr "Afrikaans"
 
 msgctxt "sF_SPEEDDIAL_CAPTION"
 msgid "Set speed dial number"
-msgstr "Kies spoed skakel nommer"
+msgstr "Stel snelskakelnommer in"
 
 msgctxt "sF_SPEEDDIAL_LABEL"
 msgid "Enter new speed dial number for %s"
-msgstr "Kies nuwwe spoed skakel nommer vir %s"
+msgstr "Voer nuwe snelskakelnommer vir %s in"
 
 msgctxt "sF_SPEEDDIAL_DUPLICATE"
 msgid ""
 "Speed dial number &lt;%s&gt; is already used for %s. Please choose another "
 "number."
-msgstr "Spoed skakel nommer &lt;%s&gt; is is in gebruik virr %s. Kies asb 'n ander nommer."
+msgstr "Snelskakelnommer &lt;%s&gt; is reeds in gebruik vir %s. Kies asb ’n ander nommer."
 
 msgctxt "sF_ABOUT_CAPTION"
 msgid "About Skype"
@@ -578,11 +578,11 @@ msgstr "Omtrent Skype"
 
 msgctxt "sF_OPTIONS_PAGE_KEYBOARD"
 msgid "Hotkeys"
-msgstr "Kortpad sleutels"
+msgstr "Snelsleutels"
 
 msgctxt "sF_OPTIONS_TCB11"
 msgid "Enable keyboard shortcuts"
-msgstr "Skakel kortpad sleutels aan"
+msgstr "Aktiveer snelsleutels"
 
 msgctxt "sF_OPTIONS_TNTB6"
 msgid "Change selected shortcut"
@@ -610,13 +610,13 @@ msgstr "Soek mense op Skype"
 
 msgctxt "sF_HOTKEYEDIT_CAPTION"
 msgid "Set hotkey for %s"
-msgstr "kortpad sleutel vir %s"
+msgstr "Stel snelsleutel vir %s in"
 
 msgctxt "sF_HOTKEYEDIT_ERROR"
 msgid ""
 "The hotkey for %s is probably used by another application and will be "
 "disabled for Skype"
-msgstr "Die kortpad sleutel vir %s word waarskynik vir iets anders gebruik en is gekanseleer vir Skype"
+msgstr "Die snelsleutel vir %s word waarskynik vir iets anders gebruik en is gedeaktiveer vir Skype"
 
 msgctxt "sBUDDYMENU_BLOCK"
 msgid "Block This Person..."
@@ -624,15 +624,15 @@ msgstr "Blokkeer hierdie persoon"
 
 msgctxt "sBUDDYMENU_UNBLOCK"
 msgid "Unblock This Person"
-msgstr "Maak die prosoon oop"
+msgstr "Ontban Hierdie Persoon"
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
-msgstr "Domp die mikrofoon"
+msgstr "Demp mikrofoon"
 
 msgctxt "sAVATAR_MENUITEM_UNMUTE"
 msgid "Unmute Microphone"
-msgstr "Maak mikrofoon oop"
+msgstr "Ondemp mikrofoon"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
@@ -644,7 +644,7 @@ msgstr "Aktief"
 
 msgctxt "sF_OPTIONS_HK_HOTKEY"
 msgid "Hotkey"
-msgstr "Kortpad sleutel"
+msgstr "Snelsleutel"
 
 msgctxt "sF_OPTIONS_TNTB8"
 msgid "<b>Blocked contacts:</b> Stop someone contacting you"
@@ -654,7 +654,7 @@ msgctxt "sINFORM_DND"
 msgid ""
 "Your presence will be set to Do Not Disturb. You will not receive "
 "notifications about incoming calls or messages."
-msgstr "U word nou gewys as Moet Nie Pla nie. U sal nie in kennis gestel word van enige inkomende boodskappe of oproepe nie."
+msgstr "U teenwoordigheid  nou gewys as Moet Nie Pla nie. U sal nie in kennis gestel word van enige inkomende boodskappe of oproepe nie."
 
 msgctxt "sSTATUS_PENDING"
 msgid "This person has not shared their details with you."
@@ -686,7 +686,7 @@ msgstr "(gebruiker-verstel)"
 
 msgctxt "s_MAINMENU_TOOLS_LOADLANG"
 msgid "Load Skype Language File..."
-msgstr "Laai Skype Taal leer..."
+msgstr "Laai Skype-taallêer…"
 
 msgctxt "sF_USERENTRY_CB_STOREPASSWORD"
 msgid "Sign me in when Skype starts"
@@ -694,7 +694,7 @@ msgstr "Teken in wanneer Skype begin"
 
 msgctxt "sF_TRANSLATE_CAPTION"
 msgid "Language file editor"
-msgstr "Skype UI teks notas"
+msgstr "Taallêerredigeerder"
 
 msgctxt "sF_TRANSLATE_SAVE"
 msgid "Save as..."
@@ -712,7 +712,7 @@ msgctxt "sF_TRANSLATE_CONFIRM_NOSAVE"
 msgid ""
 "The language file has been modified since last save. Do you want to exit "
 "without saving the changes?"
-msgstr "Die taal nota het verander. Wil u dit stoor?"
+msgstr "Die taallêer is gewysig sedert dit laas gestoor is. Wil u afsluit sonder om die wysigings te stoor?"
 
 msgctxt "sF_TRANSLATE_NO"
 msgid "No"
@@ -736,19 +736,19 @@ msgstr "Blok hierdie persoon"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_UNBLOCK"
 msgid "Unblock this person"
-msgstr "Maak die persoon oop"
+msgstr "Ontban hierdie persoon"
 
 msgctxt "sF_OPTIONS_TCB10"
 msgid "Automatically pause Winamp during calls"
-msgstr "Stop Winamp gedurende oproeppe"
+msgstr "Laat Winamp outomaties wag gedurende oproepe"
 
 msgctxt "sF_OPTIONS_CB21"
 msgid "Ring PC speaker"
-msgstr "Gebruik Komper luidspreker"
+msgstr "Gebruik rekenaarluidspreker"
 
 msgctxt "sBUDDYMENU_SPEEDDIAL"
 msgid "Set Speed Dial..."
-msgstr "Kies Sleutel Kortpad..."
+msgstr "Stel Snelskakel in…"
 
 msgctxt "sTRAYHINT_PROFILE_NOT_LOGGED_IN"
 msgid "Not signed in"
@@ -756,11 +756,11 @@ msgstr "Nie ingeteken nie"
 
 msgctxt "sCONFIRM_OFFLINE"
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr "Alle oproepe saal afgesny word. Is u seker u wil uitteken?"
+msgstr "Alle oproepe sal afgesny word. Is u seker u wil aflyn gaan?"
 
 msgctxt "sREMOVE_BUDDY_PROMPT"
 msgid "Remove %s from Contacts?"
-msgstr "Verwyder %s van kontakte?"
+msgstr "Verwyder %s uit kontakte?"
 
 msgctxt "sTRAYMENU_LOGIN"
 msgid "Sign in"
@@ -768,11 +768,11 @@ msgstr "Teken in"
 
 msgctxt "sBUDDYMENU_INVITE_CONFERENCE"
 msgid "Invite to group call"
-msgstr "Nooi in vergadering"
+msgstr "Nooi na groepoproep"
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
-msgstr "Jammer, u het hierdie persoon geblok en kan hulle nie kontak nie"
+msgstr "Jammer, u het hierdie persoon geblokkeer en kan hulle nie kontak nie."
 
 msgctxt "sF_OPTIONS_RADIOGROUP1"
 msgid "Allow calls from..."
@@ -784,7 +784,7 @@ msgstr "almal"
 
 msgctxt "sF_OPTIONS_RG1_3"
 msgid "people in my Contact list only"
-msgstr "Mense in my kontak lys alleenlik"
+msgstr "slegs mense in my kontaklys"
 
 msgctxt "sF_OPTIONS_RADIOGROUP2"
 msgid "Allow IMs from..."
@@ -796,11 +796,11 @@ msgstr "almal"
 
 msgctxt "sF_OPTIONS_RG2_3"
 msgid "people in my Contact list only"
-msgstr "Mense in my kontak lys alleenlik"
+msgstr "slegs mense in my kontaklys"
 
 msgctxt "sQUIT_PROMPT_CAP"
 msgid "Sure you want to quit Skype?"
-msgstr "Is jy seker jy wil uit Skype gaan?"
+msgstr "Is u seker u wil Skype afsluit?"
 
 msgctxt "sQUIT_PROMPT_TITLE"
 msgid "Quit Skype?"
@@ -842,7 +842,7 @@ msgctxt "sLANGUAGE_ERROR"
 msgid ""
 "Error %s|Skype can't load custom language file. Please make sure it is a "
 "valid Skype language file, and try again."
-msgstr "Fout %s|Skype kan nie die leer laai nie. Maak seker dit is 'n geldige taal leer en probeer weer."
+msgstr "Fout %s|Skype kan nie die lêer laai nie. Maak seker dit is ’n geldige Skype-taallêer leer en probeer weer."
 
 msgctxt "sLANGUAGE_ERROR_TITLE"
 msgid "Error"
@@ -874,23 +874,23 @@ msgstr "laas gesien:"
 
 msgctxt "sAVATAR_MENUITEM_CONF_REMOTE_HANGUP"
 msgid "Leave group call"
-msgstr "Verlaat Vergadering"
+msgstr "Verlaat groepoproep"
 
 msgctxt "sAVATAR_MENUITEM_CONF_INCOMING_REJECT"
 msgid "Reject group call"
-msgstr "Ignoreer Vergadering Oproep"
+msgstr "Verwerp groepoproep"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_1"
 msgid "Answer group call from %s and put %s on hold?"
-msgstr "Antwoord oproep van %s en plaas %s op hou?"
+msgstr "Antwoord groepoproep van %s en laat %s wag?"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_2"
 msgid "Answer call from %s and put group call with %s on hold?"
-msgstr "Antwoord oproep van %s en plaas %s op hou?"
+msgstr "Antwoord groepoproep van %s en laat groepoproep met %s wag?"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_3"
 msgid "Answer group call from %s and put call with %s on hold?"
-msgstr "Antwoord oproep van %s en plaas %s op hou?"
+msgstr "Antwoord groepoproep van %s en laat %s wag?"
 
 msgctxt "sCONF_TOO_MUCH_PARTICIPANTS_TITLE"
 msgid "Error"
@@ -898,11 +898,11 @@ msgstr "Fout"
 
 msgctxt "sCALL_LB2_BUSY"
 msgid "Busy"
-msgstr "Besig"
+msgstr "Beset"
 
 msgctxt "sF_STARTCONF_TITLE"
 msgid "Start a group call"
-msgstr "Begin 'n vergadering"
+msgstr "Begin ’n groepoproep"
 
 msgctxt "sF_STARTCONF_ALL_CONTACTS_LABEL"
 msgid "Choose contacts"
@@ -910,7 +910,7 @@ msgstr "Kies kontakte"
 
 msgctxt "sF_STARTCONF_SELECTED_CONTACTS_LABEL"
 msgid "Group call participants (max. %d)"
-msgstr "Vergaderings lede (maks. %d)"
+msgstr "Groepoproepdeelnemers (maks. %d)"
 
 msgctxt "sF_STARTCONF_ADD_BUTTON"
 msgid "Select"
@@ -926,15 +926,15 @@ msgstr "Begin"
 
 msgctxt "sF_STARTCONF_CANCEL_BUTTON"
 msgid "Cancel"
-msgstr "Kanseleer"
+msgstr "Kanselleer"
 
 msgctxt "sDEFAULT_CONFERENCE_TOPIC"
 msgid "Enter a topic for the conversation"
-msgstr "Besprekings onderwerp"
+msgstr "Voer ’n gespreksonderwerp in"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE"
 msgid "The Skype Name you entered is invalid."
-msgstr "Die Skype naam is ongeldig."
+msgstr "Die Skype-naam is ongeldig."
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_TITLE"
 msgid "Error"
@@ -942,7 +942,7 @@ msgstr "Fout"
 
 msgctxt "sF_BLOCK_INVALID_HANDLE_CAP"
 msgid "Cannot block"
-msgstr "Kan nie blokeer nie"
+msgstr "Kan nie blokkeer nie"
 
 msgctxt "sF_USERENTRY_ERROR_TOO_MANY_ATTEMPTS"
 msgid ""
@@ -952,22 +952,22 @@ msgstr "Te veel probeerslae, wag 1 minuut en probeer weer."
 
 msgctxt "sCALL_LB2_FAILED_SOUND_RECORDING_ERROR"
 msgid "Problem with recording device."
-msgstr "Probleem met opname toestel."
+msgstr "Probleem met opneemtoestel."
 
 msgctxt "sCALL_LB2_FAILED_SOUND_PLAYBACK_ERROR"
 msgid "Problem with playback device."
-msgstr "Probleem met terugspeel toestel."
+msgstr "Probleem met afspeeltoestel."
 
 msgctxt "sF_OPTIONS_TNTCB20"
 msgid "Automatically adjust microphone settings"
-msgstr "Verstel mikrofoon automaties."
+msgstr "Verstel mikrofooninstellings outomaties."
 
 msgctxt "sINVALID_NUMBER"
 msgid ""
 "The phone number you tried to dial was not entered correctly. You must dial "
 "+ then the country code and number you wish to call. Example: +1 212 555 "
 "1212"
-msgstr "Verkeerde telefoon nommer. U moet + voor die land kode insit. Vb : +1 212 323 4567"
+msgstr "Die telefoonnommer wat u probeer bel het is nie reg ingevoer nie. Voer eers + en dan die landkode en die nommer wat u wil bel in. Voorbeeld: +27 12 345 6789"
 
 msgctxt "sPSTN_ERR_UNKNOWN"
 msgid "Sorry, there was a problem. Please try again."
@@ -975,7 +975,7 @@ msgstr "Die ou wagwoord is nie geldig nie. Probeer weer."
 
 msgctxt "sPSTN_RES_6423"
 msgid "No Skype Credit."
-msgstr "Geen Skype krediet"
+msgstr "Geen Skype-krediet"
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
@@ -983,7 +983,7 @@ msgstr "Jammer, die oproep het misluk."
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
-msgstr "Geen Skype krediet"
+msgstr "Geen Skype-krediet"
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
@@ -991,11 +991,11 @@ msgstr "Jammer, die oproep het misluk."
 
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
-msgstr "Ongeldige foon nommer"
+msgstr "Ongeldige foonnommer"
 
 msgctxt "sPSTN_RES_10486"
 msgid "Phone number busy"
-msgstr "Telefoon nommer besig"
+msgstr "Telefoonnommer besig"
 
 msgctxt "sF_OPTIONS_GREETING_RECORD"
 msgid "Record"
@@ -1003,11 +1003,11 @@ msgstr "Neem op"
 
 msgctxt "sF_OPTIONS_GREETING_PLAYBACK"
 msgid "Playback"
-msgstr "Speel"
+msgstr "Speel af"
 
 msgctxt "sF_OPTIONS_GREETING_DELETE"
 msgid "Reset to default voicemail greeting"
-msgstr "Gebruik gewone stempos groet"
+msgstr "Gebruik verstek stemboodskapbegroeting"
 
 msgctxt "sF_OPTIONS_GREETING_STOP"
 msgid "Stop"
@@ -1015,11 +1015,11 @@ msgstr "Stop"
 
 msgctxt "sF_HOTKEY_EDITOR_OK"
 msgid "OK"
-msgstr "reg"
+msgstr "Goed"
 
 msgctxt "sF_HOTKEY_EDITOR_CANCEL"
 msgid "Cancel"
-msgstr "Kanseleer"
+msgstr "Kanselleer"
 
 msgctxt "sCALL_PSTN_HOME"
 msgid "Home (%s)"
@@ -1035,25 +1035,25 @@ msgstr "Kantoor (%s)"
 
 msgctxt "sCALL_SKYPE"
 msgid "Skype Call"
-msgstr "Skype oproep"
+msgstr "Skype-oproep"
 
 msgctxt "sSTATUS_PSTN"
 msgid "phone number"
-msgstr "Telefoon nommer"
+msgstr "Telefoonnommer"
 
 msgctxt "sF_CONFIRM_BLOCK"
 msgid "Block"
-msgstr "Blok"
+msgstr "Blokkeer"
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERNAME"
 msgid ""
 "You can prevent a person from contacting you by selecting their name from "
 "the list below."
-msgstr "U kan n persoon blok deur hulle van die lys hieronder te kies, of deur hul Skype naam in te tik."
+msgstr "U kan ’n persoon blokkeer deur hulle uit die lys hieronder te kies."
 
 msgctxt "sF_BLOCKUSERS_LABEL_USERS"
 msgid "Blocked people:"
-msgstr "Geblokte persone:"
+msgstr "Geblokkeerde persone:"
 
 msgctxt "sF_USERPROFILE_OPENDLG_CAPTION"
 msgid "Choose your picture"
@@ -1061,11 +1061,11 @@ msgstr "Kies u foto"
 
 msgctxt "sF_OPTIONS_TCB18"
 msgid "Show emoticons"
-msgstr "Wys prentjies"
+msgstr "Wys emosikone"
 
 msgctxt "sF_AVATAR_BROWSER_WRONG_FILE"
 msgid "The file you chose was invalid."
-msgstr "Die leer is ongeldig."
+msgstr "Die gekose lêer is ongeldig."
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT_TITLE"
 msgid "Remove picture?"
@@ -1077,15 +1077,15 @@ msgstr "Verwyder foto?"
 
 msgctxt "sPSTN_RES_6009"
 msgid "Invalid phone number"
-msgstr "Ongeldige foon nommer"
+msgstr "Ongeldige telefoonnommer"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL"
 msgid "File sent."
-msgstr "Leer gestuur."
+msgstr "Lêer gestuur."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_RECEIVED"
 msgid "File received."
-msgstr "Leer ontvang."
+msgstr "Lêer ontvang."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CANCELLED"
 msgid "Sending cancelled"
@@ -1098,11 +1098,11 @@ msgstr "Stoor"
 msgctxt "sFILETRANSFER_CLOSE_TEXT"
 msgid ""
 "Are you sure you want to cancel? If you do, %s will not receive this file."
-msgstr "Is u seker u wil kanseleer? indien so sal  %s nie die leer kry nie."
+msgstr "Is u seker u wil kanselleer? indien so sal  %s nie die lêer kry nie."
 
 msgctxt "sFILETRANSFER_CLOSE_TITLE"
 msgid "Cancelling"
-msgstr "Kanseleer"
+msgstr "Kanselleer"
 
 msgctxt "sFILETRANSFER_CLOSE_CAP"
 msgid "Stop sending file"
@@ -1110,7 +1110,7 @@ msgstr "Stop die versending"
 
 msgctxt "sFILETRANSFER_INFORM"
 msgid "Add this person as a contact to send and receive files."
-msgstr "U kan slegs leers stuur aan persone in u kontak lys."
+msgstr "Voeg hierdie persoon tot u kontakte om lêers te stuur en ontvang."
 
 msgctxt "sFILETRANSFER_HINT1_RELAYED"
 msgid "You have a relayed connection. This means that sending will be slow."
@@ -1151,7 +1151,7 @@ msgstr "Aanvaar die lêer(s)"
 
 msgctxt "sPSTN_RES_10403"
 msgid "You can't call this number on Skype right now."
-msgstr "Currently can't call this number on Skype."
+msgstr "U kan nie nou hierdie nommer op Skype skakel nie."
 
 msgctxt "sPSTN_RES_10408"
 msgid "Could not connect."
@@ -1163,11 +1163,11 @@ msgstr "Swak verlenging"
 
 msgctxt "sPSTN_RES_10482"
 msgid "Phone network error"
-msgstr "Telefoon netwerk fout"
+msgstr "Telefoonnetwerkfout"
 
 msgctxt "sPSTN_RES_10484"
 msgid "Invalid phone number"
-msgstr "Ongeldige foon nommer"
+msgstr "Ongeldige telefoonnommer"
 
 msgctxt "sPSTN_RES_10487"
 msgid "Busy"
@@ -1175,7 +1175,7 @@ msgstr "Besig"
 
 msgctxt "sPSTN_RES_10500"
 msgid "Phone network error"
-msgstr "Telefoon netwerk fout"
+msgstr "Telefoonnetwerkfout"
 
 msgctxt "sPSTN_RES_10503"
 msgid "Service unavailable"
@@ -1183,7 +1183,7 @@ msgstr "Diens nie beskikbaar nie"
 
 msgctxt "sPSTN_RES_10504"
 msgid "Could not connect"
-msgstr "Kon nie aansluit nie"
+msgstr "Kon nie verbind nie"
 
 msgctxt "sPSTN_RES_10600"
 msgid "Network busy"
@@ -1191,11 +1191,11 @@ msgstr "Netwerk besig"
 
 msgctxt "sPSTN_RES_10603"
 msgid "Number busy"
-msgstr "Nommer besig"
+msgstr "Nommer beset"
 
 msgctxt "sPSTN_RES_10604"
 msgid "Invalid phone number"
-msgstr "Ongeldige foon nommer"
+msgstr "Ongeldige telefoonnommer"
 
 msgctxt "sPSTN_RES_10686"
 msgid "Network busy"
@@ -1214,53 +1214,53 @@ msgstr ""
 
 msgctxt "sINVALID_NUMBER_CAPTION"
 msgid "Invalid Skype Name or phone number"
-msgstr "Onbekende Skype naam of telefoon nommer"
+msgstr "Ongeldige Skype-naam of telefoonnommer"
 
 msgctxt "sINVALID_NUMBER_HEADER"
 msgid "Invalid Skype Name or phone number"
-msgstr "Onbekende Skype naam of telefoon nommer"
+msgstr "Ongeldige Skype-naam of telefoonnommer"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_OK"
 msgid "%s %s Skype Credit <a href=\"skype:?payments#skypeout\">Buy more</a>"
-msgstr "%s %s Skype Krediet <a href=\"skype:?payments#skypeout\">Koop Nog</a>"
+msgstr "%s %s Skype-krediet <a href=\"skype:?payments#skypeout\">Koop nog</a>"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_LOW"
 msgid "%s %s Skype Credit <a href=\"skype:?payments#skypeout\">Buy more</a>"
-msgstr "%s %s Skype Krediet <a href=\"skype:?payments#skypeout\">Koop Nog</a>"
+msgstr "%s %s Skype-krediet <a href=\"skype:?payments#skypeout\">Koop nog</a>"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_NO"
 msgid "Call mobile phones and landlines at great low rates"
-msgstr "Skakel sel, en landlyn nommers goedkoper"
+msgstr "Skakel selfoon- en landlynnommers teen lae tariewe"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_PAUSED"
 msgid "Sending paused."
-msgstr "Versending gehou."
+msgstr "Versending wagtend."
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_CONNECTING"
 msgid "Connecting..."
-msgstr "Slauit aan..."
+msgstr "Verbind..."
 
 msgctxt "sHOTKEY_MUTE"
 msgid "Mute microphone"
-msgstr "Domp mikrofoon"
+msgstr "Demp mikrofoon"
 
 msgctxt "sF_STARTCHAT_TITLE"
 msgid "Add people"
-msgstr "Voeg by groep"
+msgstr "Voeg mense toe"
 
 msgctxt "sF_STARTCHAT_SELECTED_CONTACTS_LABEL"
 msgid "People in this group"
-msgstr "Begin KB met groep"
+msgstr "Mense in hierdie groep"
 
 msgctxt "sF_STARTCHAT_TEXT"
 msgid ""
 "Choose a contact or enter a phone number and click Select. Do this for "
 "everyone you want to join, then click Add."
-msgstr "Kies wie u in die groep wil he."
+msgstr "Kies ’n kontak of voer ’n telefoonnommer in en klik Kies. Doen dit vir elkeen wat u wil hê moet aansluit, klik dan Voeg toe."
 
 msgctxt "sF_STARTCHAT_INVITE_BUTTON"
 msgid "Add"
-msgstr "Reg"
+msgstr "Voeg toe"
 
 msgctxt "sPSTN_RES_1000"
 msgid "Sorry, call failed."
@@ -1268,7 +1268,7 @@ msgstr "Jammer, oproep het misluk."
 
 msgctxt "sF_USERENTRY_CB_START_SKYPE"
 msgid "Start Skype when computer starts"
-msgstr "Begin Skype wanneer u die komper aanskakel"
+msgstr "Begin Skype wanneer die rekenaar aangaan"
 
 msgctxt "sACL_CHANGE"
 msgid "Change"
@@ -1276,7 +1276,7 @@ msgstr "Verander"
 
 msgctxt "sACL_OK"
 msgid "OK"
-msgstr "Reg"
+msgstr "Goed"
 
 msgctxt "sACL_REMOVE"
 msgid "Remove"
@@ -1284,11 +1284,11 @@ msgstr "Verwyder"
 
 msgctxt "sACL_ANOTHER_PROGRAM"
 msgid "Another program wants to use Skype"
-msgstr "n Ander prograam wil Skype gebruik"
+msgstr "’n Ander program wil Skype gebruik"
 
 msgctxt "sACL_CHANGED_PROGRAM"
 msgid "** WARNING!** A changed program is trying to access Skype."
-msgstr "** WAARSKUWING! ** 'n Veranderde program probeer toegang kry tot Skype."
+msgstr "** WAARSKUWING! ** ’n Veranderde program probeer toegang kry tot Skype."
 
 msgctxt "sACL_WHAT_TO_DO"
 msgid "What would you like to do?"
@@ -1364,15 +1364,15 @@ msgstr "sekondes"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_RECORDING_ERROR"
 msgid "Voice message recording error"
-msgstr "Stempos opname fout"
+msgstr "Stemboodskapopnamefout"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_PLAYBACK_ERROR"
 msgid "Voice message playback error"
-msgstr "Stempos terugspeel fout"
+msgstr "Stemboodskapafspeelfout"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_UPLOAD_ERROR"
 msgid "Voice message upload error"
-msgstr "Stempos oplaai fout"
+msgstr "Stemboodskapoplaaifout"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CREATING_ERROR"
 msgid "Error creating voice message greeting"
@@ -1402,7 +1402,7 @@ msgstr ""
 
 msgctxt "sBUDDYMENU_VOICEMAIL"
 msgid "Send Voice Message"
-msgstr "Stuur Stempos"
+msgstr "Stuur Stemboodskap"
 
 msgctxt "sCONFIRM_MULTICHAT_LEAVE"
 msgid "Are you sure you want to leave this conversation?"
@@ -1442,7 +1442,7 @@ msgstr "%s en %s"
 
 msgctxt "sF_MULTICHAT_USERS_MANY"
 msgid "%d contacts"
-msgstr "%d contakte"
+msgstr "%d kontakte"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_CAPTION"
 msgid "Send file to %s"
@@ -1486,7 +1486,7 @@ msgstr "Wagwoord"
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
-msgstr "Aktiveer volmag verifikasie"
+msgstr "Aktiveer proksiebekragtiging"
 
 msgctxt "sF_OPTIONS_SOCKS_AUTOMATIC"
 msgid "Automatic proxy detection"
@@ -1494,11 +1494,11 @@ msgstr "Outomatiese volmag verifikasie"
 
 msgctxt "sF_OPTIONS_DELETE_HISTORY"
 msgid "Clear history"
-msgstr "Vee ou pos uit"
+msgstr "Maak geskiedenis skoon"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_0"
 msgid "no history"
-msgstr "geen ou pos"
+msgstr "geen geskiedenis"
 
 msgctxt "sF_OPTIONS_CHAT_HISTORY_1"
 msgid "2 weeks"
@@ -1526,11 +1526,11 @@ msgstr "Gesprekstitel/onderwerp"
 
 msgctxt "sF_STARTCHAT_INTRO_TEXT"
 msgid "Select who you would like to add to the conversation and press Create."
-msgstr "Kies wie jy tot die gesprek wil toevoeg en druk \"Create\"."
+msgstr "Kies wie u tot die gesprek wil toevoeg en druk “Skep”."
 
 msgctxt "sCONTACTS_SKYPEOUT"
 msgid "Phone numbers"
-msgstr "Telefoon nommers"
+msgstr "Telefoonnommers"
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TEXT"
 msgid ""
@@ -1541,11 +1541,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_HISTORY_DEL_TITLE"
 msgid "Delete history?"
-msgstr "Vee ou pos uit"
+msgstr "Skrap geskiedenis?"
 
 msgctxt "sSKYPE_LANG_FILES"
 msgid "Skype language files (*.lang)\\|*.LANG"
-msgstr "Skype taallêers (*.lang)\\|*.LANG"
+msgstr "Skype-taallêers (*.lang)\\|*.LANG"
 
 msgctxt "sUSERMENU_JOINCONFERENCE"
 msgid "Join Conversation"
@@ -1605,7 +1605,7 @@ msgstr "begin 'n IM met my"
 
 msgctxt "sF_OPTIONS_NOTIF_FILE"
 msgid "sends me a file"
-msgstr "stuur my 'n lêer"
+msgstr "stuur vir my ’n lêer"
 
 msgctxt "sF_OPTIONS_NOTIF_AUTH"
 msgid "requests my contact details"
@@ -1613,7 +1613,7 @@ msgstr "versoek my kontakbesonderhede"
 
 msgctxt "sF_OPTIONS_NOTIF_VOICEMAIL"
 msgid "leaves me a voice message"
-msgstr "leaves me a voicemail"
+msgstr "laat vir my ’n stemboodskap"
 
 msgctxt "sF_OPTIONS_NOTIF_SENDCONTACTS"
 msgid "sends me contacts"
@@ -1670,11 +1670,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_NOTIFICATIONS"
 msgid "Notification settings"
-msgstr "Kennisgewings"
+msgstr "Kennisgewingsinstellings"
 
 msgctxt "sF_OPTIONS_LBC_OTHER"
 msgid "Other things you can do"
-msgstr "Ander dinge wat jy kan doen"
+msgstr "Ander dinge wat u kan doen"
 
 msgctxt "sF_OPTIONS_LBC_PRIVACY"
 msgid "<b>Privacy settings:</b> Protect yourself from unwanted calls and IMs"
@@ -1766,15 +1766,15 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RG3_1"
 msgid "anyone"
-msgstr "almal"
+msgstr "enigeen"
 
 msgctxt "sF_OPTIONS_RG3_2"
 msgid "block calls when phone number is hidden"
-msgstr "blokkeer oproepe as telefoonnommer nie getoon word nie"
+msgstr "blokkeer oproepe as telefoonnommer verskuil is"
 
 msgctxt "sF_OPTIONS_RG3_3"
 msgid "phone numbers in my Contact list only"
-msgstr "slegs nommers van my kontakte"
+msgstr "slegs telefoonnommers in my Kontaklys"
 
 msgctxt "sF_CONFIRM_OK_BTN"
 msgid "OK"
@@ -1796,7 +1796,7 @@ msgctxt "sF_AVATAR_BROWSER_DELETE_PROMPT2"
 msgid ""
 "Are you sure you want to remove this picture? The picture will also be "
 "deleted from your Skype Pictures folder."
-msgstr "Is jy seker jy wil hierdie foto verwyder? Die prentjie sal ook verwyder word uit jou Skype Pictures lêer."
+msgstr "Is u seker u wil hierdie prent verwyder? Die prent sal ook uit u Skype Pictures-lêer verwyder word."
 
 msgctxt "sF_USERPROFILE_WRONG_EMAIL"
 msgid ""
@@ -1821,7 +1821,7 @@ msgstr "Ouderdom"
 
 msgctxt "sF_USERINFO_AGE_MORE"
 msgid "%s and a bit more"
-msgstr "bietjie oor die %s"
+msgstr "%s en ’n bietjie meer"
 
 msgctxt "sF_USERINFO_AGE_JUST_GOT"
 msgid "Just turned %s"
@@ -1837,11 +1837,11 @@ msgstr "Onlangs gekontak"
 
 msgctxt "sF_OPTIONS_LINK_TEST_CALL"
 msgid "Make a free test call"
-msgstr "Gratis toetsoproep"
+msgstr "Maak ’n gratis toetsoproep"
 
 msgctxt "sF_OPTIONS_LINK_AUDIO_HELP"
 msgid "Learn more about setting up your audio equipment"
-msgstr "Meer oor die opstel van jou klanktoerusting"
+msgstr "Leer meer oor die opstel van u klanktoerusting"
 
 msgctxt "sF_USERPROFILE_LB_ABOUT2"
 msgid "About me"
@@ -1865,7 +1865,7 @@ msgstr "Jaar"
 
 msgctxt "sCONTACT_GROUP_BLOCKED"
 msgid "Blocked contacts"
-msgstr "Geblokte persone"
+msgstr "Geblokkeerde kontakte"
 
 msgctxt "sF_USERPROFILE_PHONE_NOTE"
 msgid "Enter %s's phone number."
@@ -1887,7 +1887,7 @@ msgstr "Naam"
 
 msgctxt "sF_ADDFRIEND_LABEL3_2"
 msgid "Phone number"
-msgstr "Telefoon nommer"
+msgstr "Telefoonnommer"
 
 msgctxt "sF_OPTIONS_CB_SHOW_ANIMATED_EMOTS"
 msgid "Show animated emoticons"
@@ -1958,7 +1958,7 @@ msgctxt "sERROR_HINT_9401"
 msgid ""
 "You need Skype Credit to call phones.<a href=\"skype:?payments#skypeout\"> "
 "Click here to get Skype Credit now</a>."
-msgstr "Jy benodig Skype Krediet om telefone te bel.<a href=\"skype:?payments#skypeout\"> Kliek hier om Skype Krediet te kry </a>."
+msgstr "U benodig Skype-krediet om telefone te bel.<a href=\"skype:?payments#skypeout\"> Klik hier om Skype-krediet te kry</a>."
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_3"
 msgid "Receive unanswered calls as a voice message"
@@ -1966,7 +1966,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_VOICEMAIL"
 msgid "Voice messages"
-msgstr "Stempos"
+msgstr "Stemboodskap"
 
 msgctxt "sF_OPTIONS_SOUNDS_CONNECTING"
 msgid "connecting call"
@@ -1974,17 +1974,17 @@ msgstr "verbind oproep"
 
 msgctxt "sF_USERINFO_LABEL_ADD"
 msgid "Add contact"
-msgstr "Voeg kontak by"
+msgstr "Voeg kontak toe"
 
 msgctxt "sF_USERINFO_LABEL_NOT_FOUND"
 msgid ""
 "We can't show more information about this contact because they have not been"
 " online for a long time."
-msgstr "Geen verdere inligting oor dié kontak, want hy het lanklaas gebel."
+msgstr "Ons kan geen verdere inligting van hierdie kontak toon nie omdat hulle lanklaas aanlyn was."
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_1"
 msgid "This picture \"%s\" belongs to %s."
-msgstr "Foto \"%s\" behoort aan%s."
+msgstr "Foto “%s” behoort aan %s."
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_2"
 msgid "Please sign in as %s to select this picture."
@@ -2006,7 +2006,7 @@ msgstr "Probeer die lêer weer aflaai."
 
 msgctxt "sF_AVATAR_BROWSER_MSG2_TITLE"
 msgid "File not installed"
-msgstr "Lêer nie geïnstalleer"
+msgstr "Lêer nie geïnstalleer nie"
 
 msgctxt "sF_SOUNDS_BTN_ADD"
 msgid "Browse..."
@@ -2050,7 +2050,7 @@ msgstr "Skype IM ontvang (Modern)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT8"
 msgid "Skype contact online (Modern)"
-msgstr "Skype Kontak aanlyn  (Modern)"
+msgstr "Skype-kontak aanlyn (Modern)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT9"
 msgid "Skype connecting call (Modern)"
@@ -2064,7 +2064,7 @@ msgctxt "sF_SOUNDS_DELETE_PROMPT"
 msgid ""
 "Remove %s from your sound library? This file will also be deleted from My "
 "Skype Content folder."
-msgstr "Verwyder %s uit jou klankbiblioteek? Hierdie lêer sal ook van jou My Skype Content lêer verwyder word."
+msgstr "Verwyder %s uit u klankbiblioteek? Hierdie lêer sal ook uit u My Skype Content-vouer verwyder word."
 
 msgctxt "sF_SOUNDS_DELETE_PROMPT_TITLE"
 msgid "Remove sound file?"
@@ -2072,7 +2072,7 @@ msgstr "Verwyder klanklêer?"
 
 msgctxt "sF_SOUNDS_MSG1_1"
 msgid "This sound \"%s\" belongs to %s."
-msgstr "Die klank \"%s\" behoort aan %s."
+msgstr "Die klank “%s” behoort aan %s."
 
 msgctxt "sF_SOUNDS_MSG1_2"
 msgid "Please sign in as %s to select this sound."
@@ -2096,13 +2096,13 @@ msgstr "Klankinstallasie onsuksesvol"
 
 msgctxt "sF_SOUNDS_DELETE_ERROR1"
 msgid "Cannot delete Skype default sound."
-msgstr "Kan nie Skype verstekklank uitvee nie."
+msgstr "Kan nie Skype-verstekklank uitvee nie."
 
 msgctxt "sF_SOUNDS_DELETE_ERROR2"
 msgid ""
 "Cannot delete this sound as the file contains more than one sound and might "
 "be in use elsewhere."
-msgstr "Kan nie die klank verwyder nie, want die lêer bevat meer as een klank wat dalk elders gebruik word."
+msgstr "Kan nie die klank verwyder nie want die lêer bevat meer as een klank wat dalk elders gebruik word."
 
 msgctxt "sF_AVATAR_BROWSER_DELETE_ERROR1"
 msgid "Cannot delete this picture - the file does not exist."
@@ -2110,7 +2110,7 @@ msgstr "Kan nie die foto verwyder nie - die lêer bestaan ​​nie."
 
 msgctxt "sF_USERINFO_LABEL_SKYPENAME"
 msgid "Skype Name"
-msgstr "Skype Naam"
+msgstr "Skype-naam"
 
 msgctxt "sF_USERINFO_BTN_COPY"
 msgid "Copy"
@@ -2136,7 +2136,7 @@ msgstr "Voeg meer telefoonnommers by"
 
 msgctxt "sF_OPTIONS_LINK_CF_BASIC"
 msgid "One phone number only"
-msgstr "Net een nommer"
+msgstr "Net een telefoonnommer"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_LB2"
 msgid "Start recording a voice message if..."
@@ -2152,7 +2152,7 @@ msgstr "Ek's reeds besig met 'n oproep"
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT"
 msgid "Enter phone number"
-msgstr "Sleutel foon nr in"
+msgstr "Voer telefoonnommer in"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8"
 msgid "You'll need"
@@ -2178,7 +2178,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CF_ERROR1"
 msgid "Phone number or Skype Name is invalid. Please check and try again."
-msgstr "Telefoon nommer of Skype Naam verkeerd. Probeer weer."
+msgstr "Telefoonnommer of Skype-naam is ongeldig. Gaan na en probeer weer."
 
 msgctxt "sF_OPTIONS_CF_ERROR2"
 msgid "Error in call forwarding settings"
@@ -2195,7 +2195,7 @@ msgstr "Oproep herlei inligting"
 
 msgctxt "sF_OPTIONS_LB_MESSAGES"
 msgid "Show messages about..."
-msgstr "Wys boodskappe van ..."
+msgstr "Wys boodskappe oor ..."
 
 msgctxt "sF_OPTIONS_NOTIF_TIPS"
 msgid "Help and Skype tips"
@@ -2268,7 +2268,7 @@ msgstr "Lêer kan nie gebruik word nie"
 
 msgctxt "sF_OPTIONS_CF_DEFAULT_TEXT2"
 msgid "Enter Skype Name"
-msgstr "Sleutel Skype Naam in"
+msgstr "Voer Skype-naam in"
 
 msgctxt "sDATAPATH_REMOVED"
 msgid ""
@@ -2307,7 +2307,7 @@ msgstr "As jy jou oproep aanstuur instellings wil verander, kliek Herstel en voe
 
 msgctxt "sF_OPTIONS_BTN_RESET"
 msgid "Reset to default"
-msgstr "Stel terug na standaardinstellings"
+msgstr "Stel terug na verstekinstellings"
 
 msgctxt "sF_OPTIONS_VIDEO_LB1"
 msgid "Select webcam:"
@@ -2385,7 +2385,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_TRANSLATE"
 msgid "Edit Skype Language File..."
-msgstr "Verander Skype taal leer"
+msgstr "Wysig Skype-taallêer…"
 
 msgctxt "sF_USERENTRY_ERROR_1101"
 msgid "Skype can't connect."
@@ -2439,11 +2439,11 @@ msgstr "Skype oproepfout 2"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
-msgstr "Skype inkomende kontakte"
+msgstr "Skype-inkomende kontakte"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT15"
 msgid "Skype incoming voice message"
-msgstr "Skype incoming voicemail"
+msgstr "Skype-inkomende stemboodskap"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT16"
 msgid "Skype incoming file"
@@ -2463,7 +2463,7 @@ msgstr "Skype aftekenklank"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT20"
 msgid "Skype contact offline"
-msgstr "Skype Kontak van lyn af"
+msgstr "Skype-kontak van lyn af"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT21"
 msgid "Skype message sent"
@@ -2471,7 +2471,7 @@ msgstr "Skypeboodskap gestuur"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT22"
 msgid "Skype voice message sent"
-msgstr "Skype voicemail sent"
+msgstr "Skype-stemboodskap gestuur"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT23"
 msgid "Skype file sending complete"
@@ -2503,23 +2503,23 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_MESSAGE2"
 msgid "incoming IM in current chat"
-msgstr ""
+msgstr "inkomende IM in huidige klets"
 
 msgctxt "sF_OPTIONS_SOUNDS_CONTACTS"
 msgid "incoming contacts"
-msgstr ""
+msgstr "inkomende kontakte"
 
 msgctxt "sF_OPTIONS_SOUNDS_VOICEMAIL"
 msgid "incoming voice message"
-msgstr ""
+msgstr "inkomende stemboodskap"
 
 msgctxt "sF_OPTIONS_SOUNDS_FILE"
 msgid "incoming file"
-msgstr ""
+msgstr "inkomende lêer"
 
 msgctxt "sF_OPTIONS_SOUNDS_AUTH"
 msgid "incoming request for my details"
-msgstr ""
+msgstr "inkomende versoek vir my besonderhede"
 
 msgctxt "sF_OPTIONS_SOUNDS_LOGIN"
 msgid "I sign in"
@@ -2551,11 +2551,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SOUNDS_USER_ADDED"
 msgid "person was added to the group call"
-msgstr "persoon aanvaar by die vergadering"
+msgstr "persoon is tot die groepoproep toegevoeg"
 
 msgctxt "sF_OPTIONS_SOUNDS_USER_LEFT"
 msgid "person left the group call"
-msgstr "persoon het die vergadering verlaat"
+msgstr "persoon het die groepoproep verlaat"
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO1"
 msgid "no one"
@@ -2563,11 +2563,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO2"
 msgid "people in my Contact list only"
-msgstr "slegs persone in my kontak lys"
+msgstr "slegs persone in my Kontaklys"
 
 msgctxt "sF_OPTIONS_RC_REC_VIDEO3"
 msgid "anyone"
-msgstr "almal"
+msgstr "enigeen"
 
 msgctxt "sF_OPTIONS_SOUNDS_RESET_CAP"
 msgid "Reset all sounds?"
@@ -2592,7 +2592,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_LABEL_MOOD"
 msgid "Mood"
-msgstr "Mood:"
+msgstr "Gemoed:"
 
 msgctxt "sF_CHANGE_PASSWORD_TEXT10"
 msgid "New password can't be the same as the old password."
@@ -2612,7 +2612,7 @@ msgstr "Wagwoord verander"
 
 msgctxt "sF_CHANGE_PASSWORD_CAP2"
 msgid "Incorrect password"
-msgstr ""
+msgstr "Verkeerde wagwoord"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT27"
 msgid "Skype call forwarded."
@@ -2624,19 +2624,19 @@ msgstr ""
 
 msgctxt "s_FVIDEOTEST_BUTTON_SETTINGS"
 msgid "Webcam settings"
-msgstr "Webkamera verstellings"
+msgstr "Webkamera-instellings"
 
 msgctxt "sREMOVE_CONTACTS_PROMPT"
 msgid "Remove %d selected contacts?"
-msgstr ""
+msgstr "Verwyder %d gekose kontakte?"
 
 msgctxt "sREMOVE_CONTACTS_TITLE"
 msgid "Remove contacts"
-msgstr ""
+msgstr "Verwyder kontakte"
 
 msgctxt "sREMOVE_CONTACTS_CAP"
 msgid "Remove contacts"
-msgstr ""
+msgstr "Verwyder kontakte"
 
 msgctxt "sUNSAFE_FILE"
 msgid ""
@@ -2829,19 +2829,19 @@ msgstr ""
 
 msgctxt "sOUTLOOK_GROUP_TITLE"
 msgid "Microsoft Office Outlook"
-msgstr ""
+msgstr "Microsoft Office Outlook"
 
 msgctxt "sF_TRANSLATE_SEARCH"
 msgid "Search"
-msgstr ""
+msgstr "Soek"
 
 msgctxt "sF_TRANSLATE_SEARCH_AGAIN"
 msgid "Search again"
-msgstr ""
+msgstr "Soek weer"
 
 msgctxt "sF_TRANSLATE_NOT_FOUND"
 msgid "Sorry, string not found."
-msgstr ""
+msgstr "Jammer, string nie gevind."
 
 msgctxt "sF_UPGRADE_FRM_CAPTION"
 msgid "Update"
@@ -2849,11 +2849,11 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FORCED_CAPTION"
 msgid "Skype update required."
-msgstr ""
+msgstr "Skype moet opgedateer word."
 
 msgctxt "sF_UPGRADE_NORMAL_CAPTION"
 msgid "Download a Skype update."
-msgstr ""
+msgstr "Laai ’n Skype-opdatering af."
 
 msgctxt "sF_UPGRADE_LINK"
 msgid "View technical release notes for this update."
@@ -2903,11 +2903,11 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_DOWNLOAD_FILESIZE"
 msgid "File size %d KB"
-msgstr ""
+msgstr "Lêergrootte %d KB"
 
 msgctxt "sF_UPGRADE_BTN_DECIDELATER"
 msgid "Decide later"
-msgstr ""
+msgstr "Besluit later"
 
 msgctxt "sF_UPGRADE_BTN_CANCEL"
 msgid "Cancel"
@@ -2915,19 +2915,19 @@ msgstr "Kanselleer"
 
 msgctxt "sF_UPGRADE_BTN_DOWNLOAD"
 msgid "Download"
-msgstr ""
+msgstr "Laai af"
 
 msgctxt "sF_UPGRADE_BTN_HIDE"
 msgid "Hide"
-msgstr ""
+msgstr "Versteek"
 
 msgctxt "sF_OPTIONS_PAGE_UPDATES"
 msgid "Advanced settings"
-msgstr ""
+msgstr "Gevorderde instellings"
 
 msgctxt "sF_OPTIONS_LBC_UPDATES"
 msgid "<b>Advanced settings:</b> Skype updates and external programs"
-msgstr ""
+msgstr "<b>Gevorderde instellings:</b> Skype-opdaterings en eksterne programme"
 
 msgctxt "sCALL_LB2_DROPPED"
 msgid "Call dropped"
@@ -2935,7 +2935,7 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "Goed"
 
 msgctxt "sF_UPGRADE_BTN_QUIT"
 msgid "Quit Skype"
@@ -2959,15 +2959,15 @@ msgstr ""
 
 msgctxt "sF_UPGRADE_FAILED_LINK"
 msgid "Click here"
-msgstr ""
+msgstr "Klik hier"
 
 msgctxt "sF_OPTIONS_SMS_STATUS_LB10"
 msgid "You do not have enough Skype Credit to send a code"
-msgstr ""
+msgstr "U het nie genoeg Skype-krediet om ’n kode te stuur nie"
 
 msgctxt "sF_UPGRADE_UPTODATE"
 msgid "You already have the latest version of Skype installed."
-msgstr ""
+msgstr "Die nuutste weergawe van Skype is reeds geïnstalleer."
 
 msgctxt "sF_UPGRADE_UPTODATE_CAPTION"
 msgid "Check for update"
@@ -2992,11 +2992,11 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_DELETE"
 msgid "Delete"
-msgstr ""
+msgstr "Skrap"
 
 msgctxt "sF_CONFIRM_RESET"
 msgid "Reset"
-msgstr ""
+msgstr "Herstel"
 
 msgctxt "sF_CONFIRM_QUIT"
 msgid "Quit"
@@ -3004,13 +3004,13 @@ msgstr "Sluit"
 
 msgctxt "sF_CONFIRM_LEAVE"
 msgid "Leave"
-msgstr ""
+msgstr "Verlaat"
 
 msgctxt "sF_OPTIONS_SMS_NR_INVALID"
 msgid ""
 "The phone number is not entered correctly. Please select the country and "
 "then enter the number Example: Select United Kingdom and enter 020 5555 1212"
-msgstr ""
+msgstr "Die telefoonnommer is verkeerd ingevoer. Kies die land en vier dan die nommer in Voorbeeld: Kies Verenigde Koninkryk en voer 020 5555 1212 in"
 
 msgctxt "sLOGIN_PROGRESS_LABEL"
 msgid "Skype is updating files. This may take some time."
@@ -3026,7 +3026,7 @@ msgstr "Stoor"
 
 msgctxt "sF_INPUT_FORM_NOTE"
 msgid "Enter phone number in %s (with area code)."
-msgstr "Sleutel foon nr in %s (with area kode)."
+msgstr "Voer telefoonnommer in %s (met areakode)."
 
 msgctxt "sF_INPUT_FORM_NOTE2"
 msgid "Enter the phone number with country or region code."
@@ -3054,23 +3054,23 @@ msgstr ""
 
 msgctxt "sF_EDITSKYPEOUT_CAPTION"
 msgid "Edit phone number"
-msgstr "Verander telefoon nommer"
+msgstr "Wysig telefoonnommer"
 
 msgctxt "sBUDDYMENU_EDIT"
 msgid "Edit Contact..."
-msgstr "Verander Kontak..."
+msgstr "Wysig Kontak..."
 
 msgctxt "sEDIT_MY_PROFILE"
 msgid "Edit Your Profile..."
-msgstr "Verander u profiel..."
+msgstr "Wysig U Profiel…"
 
 msgctxt "sCHANGE_MY_PICTURE"
 msgid "Change Your Picture..."
-msgstr "Verander u foto..."
+msgstr "Wysig U Foto…"
 
 msgctxt "sCHANGE_SOUNDS"
 msgid "Change Sounds..."
-msgstr "Verander geluide..."
+msgstr "Verander geluide…"
 
 msgctxt "sFILETRANSFER_CANT_SEND_TO_YOURSELF"
 msgid "You can't send a file to yourself."
@@ -3082,7 +3082,7 @@ msgstr ""
 
 msgctxt "sPSTN_RES_10480"
 msgid "Phone network error"
-msgstr "Telefoon netwerk fout"
+msgstr "Telefoonnetwerkfout"
 
 msgctxt "sF_UPGRADE_FORCED_TEXT3"
 msgid "Please contact your system administrator for more information."
@@ -3094,7 +3094,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_COUNTRY_CAPTION"
 msgid "Start call"
-msgstr "Start call."
+msgstr "Begin oproep"
 
 msgctxt "sF_CONFIRM_COUNTRY_HEADER"
 msgid "You are about to call a phone or mobile number"
@@ -3146,7 +3146,7 @@ msgstr ""
 
 msgctxt "sF_STRING_EDIT_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "Goed"
 
 msgctxt "sF_STRING_EDIT_BTN_CANCEL"
 msgid "Cancel"
@@ -3154,7 +3154,7 @@ msgstr "Kanselleer"
 
 msgctxt "sF_TRANSLATE_TITLE"
 msgid "Language file editor"
-msgstr "Taal veranderings leer"
+msgstr "Taallêerredigeerder"
 
 msgctxt "sF_TRANSLATE_CANCEL"
 msgid "Cancel"
@@ -3170,19 +3170,19 @@ msgstr "Hartseer"
 
 msgctxt "sBIG_SMILEY"
 msgid "Laugh"
-msgstr ""
+msgstr "Lag"
 
 msgctxt "sSUNGLASSES_SMILEY"
 msgid "Cool"
-msgstr "Ek Dink ek lyk mooi"
+msgstr "Gaaf"
 
 msgctxt "sSURPRISED_SMILEY"
 msgid "Surprised"
-msgstr ""
+msgstr "Verras"
 
 msgctxt "sWINK_SMILEY"
 msgid "Wink"
-msgstr "Knik"
+msgstr "Knipoog"
 
 msgctxt "sWINK_FROWNEY_SMILEY"
 msgid "Crying"
@@ -3202,11 +3202,11 @@ msgstr "Soen"
 
 msgctxt "sTONGUE_OUT_SMILEY"
 msgid "Cheeky"
-msgstr ""
+msgstr "Parmantig"
 
 msgctxt "sBLUSH_SMILEY"
 msgid "Blushing"
-msgstr ""
+msgstr "Bloos"
 
 msgctxt "sWONDERING_SMILEY"
 msgid "Wondering"
@@ -3214,11 +3214,11 @@ msgstr "Wonder"
 
 msgctxt "sSLEEPY_SMILEY"
 msgid "Sleepy"
-msgstr ""
+msgstr "Vaak"
 
 msgctxt "sDULL_SMILEY"
 msgid "Dull"
-msgstr ""
+msgstr "Saai"
 
 msgctxt "sINLOVE_SMILEY"
 msgid "In love"
@@ -3226,11 +3226,11 @@ msgstr "Verlief"
 
 msgctxt "sEVILGRIN_SMILEY"
 msgid "Evil grin"
-msgstr ""
+msgstr "Bose glimlag"
 
 msgctxt "sTALKING_SMILEY"
 msgid "Talking"
-msgstr ""
+msgstr "Praat"
 
 msgctxt "sYAWN_SMILEY"
 msgid "Yawn"
@@ -3238,19 +3238,19 @@ msgstr "Gaap"
 
 msgctxt "sPUKING_SMILEY"
 msgid "Puking"
-msgstr ""
+msgstr "Opgooi"
 
 msgctxt "sDOH_SMILEY"
 msgid "Doh!"
-msgstr ""
+msgstr "Doh!"
 
 msgctxt "sANGRY_SMILEY"
 msgid "Angry"
-msgstr ""
+msgstr "Kwaad"
 
 msgctxt "sWASNTME_SMILEY"
 msgid "It wasn't me!"
-msgstr ""
+msgstr "Dit was nie ek nie!"
 
 msgctxt "sPARTY_SMILEY"
 msgid "Party"
@@ -3262,19 +3262,19 @@ msgstr "Bekommerd"
 
 msgctxt "sMMM_SMILEY"
 msgid "mmmmm..."
-msgstr ""
+msgstr "mmmmm…"
 
 msgctxt "sNERDY_SMILEY"
 msgid "Nerdy"
-msgstr ""
+msgstr "Bleeksiel"
 
 msgctxt "sLIPSSEALED_SMILEY"
 msgid "My lips are sealed"
-msgstr "Ek skinder nie"
+msgstr "My lippe is gesnoer"
 
 msgctxt "sHI_SMILEY"
 msgid "Hi"
-msgstr ""
+msgstr "Hallo"
 
 msgctxt "sCALL_SMILEY"
 msgid "Call"
@@ -3282,11 +3282,11 @@ msgstr "Skakel"
 
 msgctxt "sDEVIL_SMILEY"
 msgid "Devil"
-msgstr ""
+msgstr "Duiwel"
 
 msgctxt "sANGEL_SMILEY"
 msgid "Angel"
-msgstr ""
+msgstr "Engel"
 
 msgctxt "sENVY_SMILEY"
 msgid "Envy"
@@ -3298,7 +3298,7 @@ msgstr "Wag"
 
 msgctxt "sHUG_SMILEY"
 msgid "Hug"
-msgstr ""
+msgstr "Drukkie"
 
 msgctxt "sMAKEUP_SMILEY"
 msgid "Make-up"
@@ -3306,11 +3306,11 @@ msgstr ""
 
 msgctxt "sGIGGLE_SMILEY"
 msgid "Giggle"
-msgstr ""
+msgstr "Giggel"
 
 msgctxt "sCLAP_SMILEY"
 msgid "Clapping"
-msgstr ""
+msgstr "Applous"
 
 msgctxt "sTHINKING_SMILEY"
 msgid "Thinking"
@@ -3318,39 +3318,39 @@ msgstr "Dink"
 
 msgctxt "sBOW_SMILEY"
 msgid "Bowing"
-msgstr ""
+msgstr "Buig"
 
 msgctxt "sROFL_SMILEY"
 msgid "Rolling on the floor laughing"
-msgstr ""
+msgstr "Rol rond van die lag"
 
 msgctxt "sWHEW_SMILEY"
 msgid "Relieved"
-msgstr ""
+msgstr "Verlig"
 
 msgctxt "sHAPPY_SMILEY"
 msgid "Happy"
-msgstr ""
+msgstr "Gelukkig"
 
 msgctxt "sSMIRK_SMILEY"
 msgid "Smirking"
-msgstr ""
+msgstr "Grinnik"
 
 msgctxt "sNOD_SMILEY"
 msgid "Nodding"
-msgstr "Kop knik"
+msgstr "Kopknik"
 
 msgctxt "sSHAKE_SMILEY"
 msgid "Shake"
-msgstr ""
+msgstr "Skud"
 
 msgctxt "sPUNCH_SMILEY"
 msgid "Punch"
-msgstr ""
+msgstr "Slaan"
 
 msgctxt "sEMO_SMILEY"
 msgid "Emo"
-msgstr ""
+msgstr "Emo"
 
 msgctxt "sYES_SMILEY"
 msgid "Yes"
@@ -3366,19 +3366,19 @@ msgstr "Totsiens"
 
 msgctxt "sSKYPE_SMILEY"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sHEART_SMILEY"
 msgid "Heart"
-msgstr ""
+msgstr "Hart"
 
 msgctxt "sBROKENHEART_SMILEY"
 msgid "Broken heart"
-msgstr ""
+msgstr "Gebroke hart"
 
 msgctxt "sMAIL_SMILEY"
 msgid "You have mail"
-msgstr ""
+msgstr "U het e-pos"
 
 msgctxt "sFLOWER_SMILEY"
 msgid "Flower"
@@ -3386,11 +3386,11 @@ msgstr "Blom"
 
 msgctxt "sRAINING_SMILEY"
 msgid "Raining"
-msgstr ""
+msgstr "Reën"
 
 msgctxt "sSUN_SMILEY"
 msgid "Sun"
-msgstr ""
+msgstr "Son"
 
 msgctxt "sTIME_SMILEY"
 msgid "Time"
@@ -3402,7 +3402,7 @@ msgstr "Musiek"
 
 msgctxt "sMOVIE_SMILEY"
 msgid "Movie"
-msgstr "Fliek"
+msgstr "Rolprent"
 
 msgctxt "sPHONE_SMILEY"
 msgid "Phone"
@@ -3414,7 +3414,7 @@ msgstr "Koffie"
 
 msgctxt "sPIZZA_SMILEY"
 msgid "Pizza"
-msgstr ""
+msgstr "Pizza"
 
 msgctxt "sCASH_SMILEY"
 msgid "Cash"
@@ -3422,7 +3422,7 @@ msgstr "Kontant"
 
 msgctxt "sMUSCLE_SMILEY"
 msgid "Muscle"
-msgstr "Ek is sterk, kyk hier ...."
+msgstr "Spiere"
 
 msgctxt "sCAKE_SMILEY"
 msgid "Cake"
@@ -3430,11 +3430,11 @@ msgstr "Koek"
 
 msgctxt "sBEER_SMILEY"
 msgid "Beer"
-msgstr "Castle"
+msgstr "Bier"
 
 msgctxt "sDRINK_SMILEY"
 msgid "Drink"
-msgstr ""
+msgstr "Drankie"
 
 msgctxt "sDANCING_SMILEY"
 msgid "Dancing"
@@ -3442,7 +3442,7 @@ msgstr "Dans"
 
 msgctxt "sNINJA_SMILEY"
 msgid "Ninja"
-msgstr ""
+msgstr "Ninja"
 
 msgctxt "sSTAR_SMILEY"
 msgid "Star"
@@ -3462,15 +3462,15 @@ msgstr "Malema"
 
 msgctxt "sDRUNK_SMILEY"
 msgid "Drunk"
-msgstr "Dronkaaard"
+msgstr "Dronkaard"
 
 msgctxt "sSMOKING_SMILEY"
 msgid "Smoking"
-msgstr ""
+msgstr "Rook"
 
 msgctxt "sROCK_SMILEY"
 msgid "Rock"
-msgstr ""
+msgstr "Rock"
 
 msgctxt "sHEADBANG_SMILEY"
 msgid "Banging head on wall"
@@ -3498,7 +3498,7 @@ msgstr "Te veel inligting"
 
 msgctxt "sSILENT_GUI_WARNING1"
 msgid "Another program is trying to put Skype in Silent Mode."
-msgstr "'n Ander program probeer Skype se klank steel"
+msgstr "’n Ander program probeer Skype se klank uitdoof."
 
 msgctxt "sSILENT_GUI_WARNING2"
 msgid ""
@@ -3510,7 +3510,7 @@ msgstr ""
 
 msgctxt "sSILENT_GUI_WARNING3"
 msgid "Click OK to accept or Cancel to deny this request."
-msgstr "Kliek OK om te aanvaar, of Kanselleer om nee dankie te sê."
+msgstr "Klik Goed vir aanvaarding of Kanselleer vir verwerping van die versoek."
 
 msgctxt "sSILENT_GUI_CAPTION"
 msgid "Confirm silent mode"
@@ -3534,7 +3534,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_TOOLS_START_PUBLIC_CHAT"
 msgid "Start Public IM"
-msgstr "Begin openbare KB"
+msgstr "Begin Openbare IM"
 
 msgctxt "sF_CHAT_NOTIFY_TITLE"
 msgid "Notification settings"
@@ -3546,7 +3546,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "Goed"
 
 msgctxt "sF_CHAT_NOTIFY_BTN_CANCEL"
 msgid "Cancel"
@@ -3576,7 +3576,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_LB_FOOTER"
 msgid "Enter single words separated by spaces."
-msgstr "Enkelwoorde, onderskei deur spasies."
+msgstr "Voer enkelwoorde in, geskei deur spasies."
 
 msgctxt "sCHAT_STATUSMESSAGE_APPLICANT"
 msgid ""
@@ -3602,7 +3602,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
-msgstr "Foto album"
+msgstr "Fotoalbum"
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
@@ -3610,7 +3610,7 @@ msgstr "Bel die Groep"
 
 msgctxt "sCHAT_MEMBER_JOINED"
 msgid "%s joined."
-msgstr "%s het bygekom"
+msgstr "%s het aangesluit."
 
 msgctxt "sCHAT_MEMBER_PROMOTED_TO_ADMIN"
 msgid "%s has been promoted to conversation host."
@@ -3618,11 +3618,11 @@ msgstr ""
 
 msgctxt "sCHAT_MEMBER_APPLIED"
 msgid "%s is waiting to join."
-msgstr "%s wag om by te kom."
+msgstr "%s wag om aan te sluit."
 
 msgctxt "sCHAT_SETPICTURE"
 msgid "%s has changed the conversation picture."
-msgstr "%s het die gespreksprentjie verander."
+msgstr "%s het die gespreksprent verander."
 
 msgctxt "sCHAT_SETGUIDELINES"
 msgid "%s has updated the conversation guidelines."
@@ -3642,11 +3642,11 @@ msgstr "Verwyder deur %s, %s"
 
 msgctxt "sCHAT_EDITED_MESSAGE_TITLE"
 msgid "Edited by %s, %s"
-msgstr "Verander deur %s, %s"
+msgstr "Gewysig deur %s, %s"
 
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE"
 msgid "Are you sure you want to remove this message?"
-msgstr "Is jy seker jy wil die boodskap verwyder?"
+msgstr "Is u seker u wil die boodskap verwyder?"
 
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE_TITLE"
 msgid "Remove message?"
@@ -3685,7 +3685,7 @@ msgstr ""
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
-msgstr "Kontakte:"
+msgstr "Kontakte"
 
 msgctxt "sCHAT_STATUSMESSAGE_PWD_REQUIRED"
 msgid "Password required"
@@ -3722,19 +3722,19 @@ msgstr "Maak toe"
 
 msgctxt "sF_CHAT_INFO_BTN_COPYLINK"
 msgid "Copy link to clipboard"
-msgstr ""
+msgstr "Kopieer skakel na knipbord"
 
 msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
-msgstr ""
+msgstr "Skepper:"
 
 msgctxt "sF_CHAT_INFO_LB_ADMIN"
 msgid "Administrators:"
-msgstr ""
+msgstr "Administrateurs:"
 
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
-msgstr ""
+msgstr "Modereringsreëls:"
 
 msgctxt "sF_CHAT_INFO_LB_LINK1"
 msgid "IM link:"
@@ -3821,11 +3821,11 @@ msgstr ""
 
 msgctxt "sCHAT_PASSWORD_PROMPT"
 msgid "Password required for this IM."
-msgstr "Wagwoord benodig"
+msgstr "Wagwoord benodig vir hierdie IM."
 
 msgctxt "sCHAT_PASSWORD_HINT"
 msgid "Password hint: %s"
-msgstr "Wagwoord wenk: %s"
+msgstr "Wagwoordwenk: %s"
 
 msgctxt "sCHAT_PASSWORD_LABEL"
 msgid "Password:"
@@ -3849,7 +3849,7 @@ msgstr "%s skakel"
 
 msgctxt "sCALL_TOOLBAR_MUTE"
 msgid "Mute your microphone"
-msgstr "Demp jou mikrofoon"
+msgstr "Demp u mikrofoon"
 
 msgctxt "sCALL_TOOLBAR_QUALITY"
 msgid "Call quality information"
@@ -3889,7 +3889,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_SAVEAS_FILTER"
 msgid "Skype language files"
-msgstr ""
+msgstr "Skype-taallêers"
 
 msgctxt "sCALL_IS_FORWARDED"
 msgid "Your call is being forwarded free of charge. Please wait."
@@ -3985,11 +3985,11 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_PRIVACY_SETTINGS"
 msgid "Privacy settings"
-msgstr "Privaatheid stellings"
+msgstr "Privaatheidsinstellings"
 
 msgctxt "sF_OPTIONS_BLOCKED_USERS"
 msgid "Blocked contacts"
-msgstr "Geblokte persone"
+msgstr "Geblokkeerde kontakte"
 
 msgctxt "sF_OPTIONS_CHAT_APPEARANCE"
 msgid "IM appearance"
@@ -3997,7 +3997,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CHATS_SMS"
 msgid "IM & SMS"
-msgstr "KB & SMS"
+msgstr "IM & SMS"
 
 msgctxt "SF_OPTIONS_GENERAL_CAPTION"
 msgid "<b>General settings:</b> Set up all the basics you need to use Skype"
@@ -4190,13 +4190,13 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SETUP_CALLS"
 msgid "<b>Call settings:</b> Set up your call options"
-msgstr "Set up your call options"
+msgstr "<b>Oproepinstellings:</b> Verstel u oproepopsies"
 
 msgctxt "sF_OPTIONS_VOICEMAIL_LABEL1"
 msgid ""
 "Personalize your voice message greeting, save messages to listen to again, "
 "and leave voice messages for your contacts if you can't get hold of them."
-msgstr "Maak u eie stempos boodskap, stoor boodskappe om later te luister en los boodskappe."
+msgstr "Verpersoonlik u stemboodskapbegroeting, stoor boodskappe om later te luister en laat boodskappe indien u kontakte nie bereikbaar is nie."
 
 msgctxt "sCONTACT_LONG_HINT_LAST_SEEN"
 msgid "Last seen"
@@ -4248,7 +4248,7 @@ msgstr "Beëindig oproep"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
-msgstr "Voeg mense by"
+msgstr "Voeg nog mense toe"
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
@@ -4268,7 +4268,7 @@ msgstr ""
 
 msgctxt "sSTATUSMENU_CAPTION_CF_OPTIONS2"
 msgid "Set up Call Forwarding..."
-msgstr "Stel oproep herlei in..."
+msgstr "Stel Deurskakeling in…"
 
 msgctxt "sREDBUTTON_HINT_CANCEL_VOICEMAIL"
 msgid "Cancel voice message"
@@ -4322,7 +4322,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADD"
 msgid "Add people"
-msgstr "Voeg mense by"
+msgstr "Voeg mense toe"
 
 msgctxt "sZAPBUTTON_ADD2"
 msgid "Add"
@@ -4330,7 +4330,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDNUMBER"
 msgid "Add phone number"
-msgstr "Voeg 'n telefoon nr. by"
+msgstr "Voeg ’n telefoonnommer toe"
 
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
@@ -4350,7 +4350,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCE"
 msgid "Add to group call"
-msgstr "Voeg by vergadering"
+msgstr "Voeg toe tot groepoproep"
 
 msgctxt "sZAPBUTTON_ADDTOCONFERENCEMULTIPLE"
 msgid "Add to group call"
@@ -4362,7 +4362,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_ADDTOCONTACTS"
 msgid "Add to Contacts"
-msgstr "Voeg by kontakte"
+msgstr "Voeg toe tot Kontakte"
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
@@ -4386,7 +4386,7 @@ msgstr "Terug"
 
 msgctxt "sZAPBUTTON_BUYCREDIT"
 msgid "Buy Skype Credit"
-msgstr "Koop Skype Krediet"
+msgstr "Koop Skype-krediet"
 
 msgctxt "sZAPBUTTON_BUYSUBSCRIPTION"
 msgid "Buy a subscription"
@@ -4470,19 +4470,19 @@ msgstr "Mikrofoon"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_INACTIVE"
 msgid "Speaker"
-msgstr "Luidsprekers"
+msgstr "Luidspreker"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_GOOD"
 msgid "Speaker"
-msgstr "Luidsprekers"
+msgstr "Luidspreker"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_AVERAGE"
 msgid "Speaker"
-msgstr "Luidsprekers"
+msgstr "Luidspreker"
 
 msgctxt "sZAPBUTTON_CQ_SPEAKER_POOR"
 msgid "Speaker"
-msgstr "Luidsprekers"
+msgstr "Luidspreker"
 
 msgctxt "sZAPBUTTON_CQ_COMPUTER_INACTIVE"
 msgid "Computer"
@@ -4614,7 +4614,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_DELETE"
 msgid "Delete"
-msgstr "Vee uit"
+msgstr "Skrap"
 
 msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
@@ -4802,7 +4802,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CONTACTLISTCLOSE_INACTIVE"
 msgid "Hide contacts"
-msgstr "Maak toe"
+msgstr "Versteek kontakte"
 
 msgctxt "sZAPBUTTON_SAVEGROUP"
 msgid "Save group in Contacts"
@@ -4986,7 +4986,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_RESUME"
 msgid "Resume call"
-msgstr "Gaan voort met oproep"
+msgstr "Sit oproep voort"
 
 msgctxt "sZAPBUTTON_RESUMEUPGRADEDOWNLOAD"
 msgid "Resume download"
@@ -5098,11 +5098,11 @@ msgstr "Stuur SMS"
 
 msgctxt "sZAPBUTTON_STARTVIDEOCALL"
 msgid "Video call"
-msgstr "Video oproep"
+msgstr "Video-oproep"
 
 msgctxt "sZAPBUTTON_NOWEBCAM"
 msgid "Video call"
-msgstr "Video oproep"
+msgstr "Video-oproep"
 
 msgctxt "sZAPBUTTON_OPENVIDEOMESSAGING"
 msgid "Video Message"
@@ -5170,7 +5170,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
-msgstr "Take snapshot"
+msgstr "Maak skermkiekie"
 
 msgctxt "sZAPBUTTON_VIDEOSTART"
 msgid "Turn on video"
@@ -5218,7 +5218,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CT_MESSAGE"
 msgid "IM"
-msgstr "KB"
+msgstr "IM"
 
 msgctxt "sZAPBUTTON_CT_MESSAGEUNREAD"
 msgid "IM"
@@ -5226,7 +5226,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CT_ADDTOCONFERENCE"
 msgid "Add to group call"
-msgstr "Voeg by vergadering"
+msgstr "Voeg toe tot groepoproep"
 
 msgctxt "sZAPBUTTON_CT_RESUME"
 msgid "Resume call"
@@ -5270,7 +5270,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_INVITENOTIFACCEPT"
 msgid "Add to contacts"
-msgstr "Voeg by kontakte"
+msgstr "Voeg toe tot kontakte"
 
 msgctxt "sZAPBUTTON_INVITENOTIFIGNORE"
 msgid "Ignore"
@@ -5360,7 +5360,7 @@ msgstr "Telefoon"
 
 msgctxt "sCALLPHONES_PHONE_EDIT_HINT"
 msgid "Enter number"
-msgstr "Sleutel foon nr in"
+msgstr "Voer telefoonnommer in"
 
 msgctxt "sCALLPHONES_RATES_LOADING"
 msgid "Loading..."
@@ -5384,7 +5384,7 @@ msgstr "Oproep na %s"
 
 msgctxt "sFLOW_CALL_GROUP"
 msgid "Group call"
-msgstr "Conference call"
+msgstr "Groepoproep"
 
 msgctxt "sFLOW_CALL_END"
 msgid "Call ended"
@@ -5472,7 +5472,7 @@ msgstr ""
 
 msgctxt "sF_ADDTOCONF_TITLE"
 msgid "Add more people"
-msgstr "Voeg mense by"
+msgstr "Voeg nog mense toe"
 
 msgctxt "sCALL_IN_PROGRESS"
 msgid "If you call %s your current call will be put on hold."
@@ -5603,7 +5603,7 @@ msgstr ""
 
 msgctxt "sOPTIONS_NO_AUDIO_DEVICE"
 msgid "None"
-msgstr "geen"
+msgstr "Geen"
 
 msgctxt "sOPTIONS_UNMUTE_SPEAKERS"
 msgid "Automatically adjust speaker settings"
@@ -5615,7 +5615,7 @@ msgstr ""
 
 msgctxt "sSMS_STATUS_PENDING_SINGLE"
 msgid "Sent"
-msgstr "Stuur"
+msgstr "Gestuur"
 
 msgctxt "sSMS_STATUS_SENT_SINGLE"
 msgid "Delivered"
@@ -5712,11 +5712,11 @@ msgstr ""
 
 msgctxt "sOPTIONS_AUTO_SAVE_FILE"
 msgid "save all files to:"
-msgstr "Stoor lêers na:"
+msgstr "stoor alle lêers na:"
 
 msgctxt "sOPTIONS_CHANGE_DIR"
 msgid "Change folder"
-msgstr "Verander Houer"
+msgstr "Verander vouer"
 
 msgctxt "sCALL_LB2_NO_FUNDS"
 msgid "No Skype Credit"
@@ -5736,11 +5736,11 @@ msgstr "Oproep van %s gemis."
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
-msgstr "Oproep van %s, Oproeplengte %s."
+msgstr "Oproep van %s, duur van oproep %s."
 
 msgctxt "sFLOW_CALL_WITH_OUT"
 msgid "Call to %s, duration %s."
-msgstr "Oproep na %s, Oproeplengte %s."
+msgstr "Oproep na %s, duur van oproep %s."
 
 msgctxt "sOPTIONS_AUDIO_MICROFONE"
 msgid "Microphone"
@@ -5768,7 +5768,7 @@ msgstr ""
 
 msgctxt "sOPTIONS_AUDIO_DEVICE_NONE"
 msgid "None"
-msgstr "geen"
+msgstr "Geen"
 
 msgctxt "sOPTIONS_AUDIO_ADVANCED_LBL"
 msgid ""
@@ -5795,7 +5795,7 @@ msgstr ""
 
 msgctxt "sCALLALERT_ADDTOCONF"
 msgid "Add to group call"
-msgstr "Voeg by vergadering"
+msgstr "Voeg by groepoproep"
 
 msgctxt "sMAINMENU_SKYPE"
 msgid "Skype"
@@ -5819,11 +5819,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
-msgstr "Koop Skype krediet…"
+msgstr "Koop Skype-krediet…"
 
 msgctxt "sMAINMENU_SKYPE_CHANGEPASSWORD"
 msgid "Change Password..."
-msgstr "Verander wagwoord…"
+msgstr "Verander Wagwoord…"
 
 msgctxt "sMAINMENU_SKYPE_SIGN_OUT"
 msgid "Sign Out"
@@ -5903,7 +5903,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_MESSAGE"
 msgid "Instant Message (IM)"
-msgstr "Kits Boodskap (KB)"
+msgstr "Kitsboodskap (IM)"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VIDEOMESSAGE"
 msgid "Video Message"
@@ -5915,7 +5915,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_FILE"
 msgid "File..."
-msgstr "Leer…"
+msgstr "Lêer…"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_VOICEMAIL"
 msgid "Voice Message"
@@ -5923,7 +5923,7 @@ msgstr "Stempos"
 
 msgctxt "sMAINMENU_CONVERSATION_SEND_CONTACTS"
 msgid "Contacts..."
-msgstr "Kontakte"
+msgstr "Kontakte…"
 
 msgctxt "sMAINMENU_CONVERSATION_PROFILE_HIDE"
 msgid "Hide"
@@ -5931,11 +5931,11 @@ msgstr ""
 
 msgctxt "sMAINMENU_CONVERSATION_ADD_TO_CONTACTS"
 msgid "Save Group to Contacts"
-msgstr "Voeg by kontakte"
+msgstr "Stoor Groep na Kontakte"
 
 msgctxt "sMAINMENU_CONVERSATION_RENAME"
 msgid "Rename..."
-msgstr "Rename…"
+msgstr "Herbenoem…"
 
 msgctxt "sMAINMENU_CONVERSATION_BLOCK"
 msgid "Block..."
@@ -6921,7 +6921,7 @@ msgstr ""
 
 msgctxt "sPASTE_AS_QUOTE_NOT"
 msgid "paste message as plain text"
-msgstr "Plak boodskap as teks"
+msgstr "plak boodskap as plat teks"
 
 msgctxt "sHISTORY_FILTER_EMPTY"
 msgid "No events matching \"%s\""
@@ -7204,7 +7204,7 @@ msgstr "Lui"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FINISHED"
 msgid "Call ended"
-msgstr "Telefoonoproep geëindig"
+msgstr "Telefoonoproep beëindig"
 
 msgctxt "sPARTICIPANT_CALL_STATE_FORWARDING"
 msgid "Forwarding"
@@ -7287,7 +7287,7 @@ msgstr ""
 
 msgctxt "sINSERTSMILEY"
 msgid "Insert emoticon"
-msgstr "Voeg smiley in"
+msgstr "Voeg emosikoon in"
 
 msgctxt "sSAVE_GROUP_LABEL"
 msgid "Save this group conversation in your Contact list."
@@ -8166,7 +8166,7 @@ msgstr ""
 
 msgctxt "sCQ_INDICATOR_NET_BUTTON_HINT"
 msgid "Internet connection"
-msgstr "Internet aansluiting"
+msgstr "Internetverbinding"
 
 msgctxt "sCQ_INDICATOR_CPU_BUTTON_HINT"
 msgid "Computer speed"
@@ -8769,7 +8769,7 @@ msgstr ""
 
 msgctxt "sINBOX_SHOW_EARLIER_MESSAGES"
 msgid "Show earlier messages"
-msgstr "Toon vroeër boodskappe"
+msgstr "Toon vroeëre boodskappe"
 
 msgctxt "sINBOX_HIDE_EARLIER_MESSAGES"
 msgid "Hide earlier messages"
@@ -9116,7 +9116,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_WITH_IN_PSTN"
 msgid "Call from %s (%s), duration %s."
-msgstr "Oproep van %s (%s), Oproep lengte %s."
+msgstr "Oproep van %s (%s), duur van oproep %s."
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a call"
@@ -9134,7 +9134,7 @@ msgstr ""
 
 msgctxt "sFLOW_CALL_MISSED_IN_PSTN"
 msgid "Missed call from %s (%s)"
-msgstr "Oproep van %s (%s) gemis."
+msgstr "Oproep van %s (%s) gemis"
 
 msgctxt "sFLOW_CALL_REJECTED_IN_PSTN"
 msgid "Call from %s (%s) declined."
@@ -9272,7 +9272,7 @@ msgstr "Skakel nommer"
 
 msgctxt "sCALL_POPUP_ADD_PHONE"
 msgid "Add phone number"
-msgstr "Voeg 'n telefoon nr. by"
+msgstr "Voeg ’n telefoon nr. toe"
 
 msgctxt "sCALL_POPUP_FREE_CALL"
 msgid "Your first call is free"
@@ -9436,11 +9436,11 @@ msgstr ""
 
 msgctxt "sTUMBLEWEED_SMILEY"
 msgid "Tumbleweed"
-msgstr ""
+msgstr "Rolbos"
 
 msgctxt "sWTF_SMILEY"
 msgid "What the..."
-msgstr ""
+msgstr "Wat de…"
 
 msgctxt "sWFH_SMILEY"
 msgid "Working from home"
@@ -9482,7 +9482,7 @@ msgstr ""
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_CAPTION"
 msgid "Close this window"
-msgstr ""
+msgstr "Sluit die venster"
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_TEXT"
 msgid ""
@@ -9491,7 +9491,7 @@ msgstr ""
 
 msgctxt "sF_CONFIRM_NO_BTN"
 msgid "No"
-msgstr ""
+msgstr "Nee"
 
 msgctxt "sDELETE_VOICEMAIL_ERROR"
 msgid "Please wait a few moments and try deleting the message again."
@@ -9519,7 +9519,7 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_HINT"
 msgid "Add participants, send files and more"
-msgstr "Voeg deelnemers by, stuur lêers en meer"
+msgstr "Voeg deelnemers toe, stuur lêers en meer"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING"
 msgid "You need to be on a call to share screens"
@@ -9527,11 +9527,11 @@ msgstr ""
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_TITLE"
 msgid "Share Screens"
-msgstr ""
+msgstr "Deel Skerms"
 
 msgctxt "sSTARTCALL_FOR_SCEENSHARING_OK"
 msgid "Call"
-msgstr ""
+msgstr "Skakel"
 
 msgctxt "sMAINMENU_HIDE_DIALPAD"
 msgid "Hide dial pad"
@@ -9559,7 +9559,7 @@ msgstr ""
 
 msgctxt "sCALL_ACCOUNT_FIRST_CALL_FREE"
 msgid "First call is free"
-msgstr ""
+msgstr "Eerste oproep is gratis"
 
 msgctxt "sCHANGE_SHARING_OPTIONS_HINT"
 msgid "Change sharing options"
@@ -9605,55 +9605,55 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_SOUND_CAPTION"
 msgid "Check your sound and video"
-msgstr ""
+msgstr "Gaan u klank en video na"
 
 msgctxt "sGETTING_STARTED_SPEAKERS_LABEL"
 msgid "<b>Speakers</b> - can you hear the test sound?"
-msgstr ""
+msgstr "<b>Luidsprekers</b> - kan u die toetsklank hoor?"
 
 msgctxt "sGETTING_STARTED_MIC_LABEL"
 msgid "<b>Microphone</b> - can your voice be heard?"
-msgstr ""
+msgstr "<b>Mikrofoon</b> - word u stem gehoor?"
 
 msgctxt "sGETTING_STARTED_VIDEO_LABEL"
 msgid "<b>Video</b> - can you see yourself?"
-msgstr ""
+msgstr "<b>Video</b> - kan u uself sien?"
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEMS"
 msgid "<b>Problems with your sound?</b>"
-msgstr ""
+msgstr "<b>Probleme met u klank?</b>"
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_1"
 msgid "Check your speakers are plugged in."
-msgstr ""
+msgstr "Maak seker u luidsprekers is ingeprop."
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_2"
 msgid "Check your speakers are switched on."
-msgstr ""
+msgstr "Maak seker u luidsprekers is aangeskakel."
 
 msgctxt "sGETTING_STARTED_SPEAKER_PROBLEM_3"
 msgid "Check your volume is turned up."
-msgstr ""
+msgstr "Maak seker die volume is hard genoeg"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEMS"
 msgid "<b>Problems with your microphone?</b>"
-msgstr ""
+msgstr "<b>Probleme met u mikrofoon?</b>"
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_1"
 msgid "Check your microphone is switched on."
-msgstr ""
+msgstr "Maak seker u mikrofoon is aangeskakel."
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_2"
 msgid "Check mute isn’t on."
-msgstr ""
+msgstr "Maak seker u mikrofoon is nie gedemp nie."
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_3"
 msgid "Try adjusting the input level."
-msgstr ""
+msgstr "Probeer die invoervlak aanpas."
 
 msgctxt "sGETTING_STARTED_MIC_PROBLEM_4"
 msgid "Select a different microphone."
-msgstr ""
+msgstr "Kies ’n ander mikrofoon"
 
 msgctxt "sGETTING_STARTED_MORE_HELP"
 msgid "More help"
@@ -9661,7 +9661,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_PLAY_SOUND"
 msgid "Test sound"
-msgstr ""
+msgstr "Toetsklank"
 
 msgctxt "sGETTING_STARTED_INTRO_CAPTION"
 msgid "Add a profile picture"
@@ -9800,11 +9800,11 @@ msgstr ""
 
 msgctxt "sCALL_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sSTATUSMENU_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sSTATUSMENU_FLAMINGO_SAMEASSKYPE"
 msgid "Same as on Skype"
@@ -9828,7 +9828,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_HELP_PRIVACY"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privaatheidsbeleid"
 
 msgctxt "sTEST_SOUND_PLAY_ACC_DESC"
 msgid "Click to start playing test sound"
@@ -9856,7 +9856,7 @@ msgstr ""
 
 msgctxt "sSMS_FROM_SKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sSMS_FROM_MY_PHONE"
 msgid "My mobile"
@@ -9868,7 +9868,7 @@ msgstr ""
 
 msgctxt "sF_TRANSLATE_OK"
 msgid "OK"
-msgstr ""
+msgstr "Goed"
 
 msgctxt "sF_OPTIONS_PAGE_UPGRATES"
 msgid "Automatic updates"
@@ -9952,7 +9952,7 @@ msgstr "Skrap"
 
 msgctxt "sBUDDYMENU_PIN"
 msgid "Add to Favorites"
-msgstr "Voeg by gunstelinge"
+msgstr "Voeg toe tot Gunstelinge"
 
 msgctxt "sBUDDYMENU_UNPIN"
 msgid "Remove from Favorites"
@@ -9964,7 +9964,7 @@ msgstr "Aanlyn"
 
 msgctxt "sCONTACT_GROUP_FLAMINGO"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sPREM_SCREENSHARING_WEB_WINDOW_CAPTION"
 msgid "Screen sharing"
@@ -9976,7 +9976,7 @@ msgstr "Alle"
 
 msgctxt "sCONTACTS_SKYPE2"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sSELECTED_LIST_HINT"
 msgid "Change Contact list"
@@ -10099,7 +10099,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENT_BUTTON"
 msgid "Buy Now"
-msgstr ""
+msgstr "Koop Nou"
 
 msgctxt "sSKYPEWIFI_PAYMENT_LABEL_ORDER"
 msgid "Your order"
@@ -10179,7 +10179,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_HEADER"
 msgid "Thank you"
-msgstr ""
+msgstr "Dankie"
 
 msgctxt "sSKYPEWIFI_PAYMENTOK_DESC"
 msgid ""
@@ -10413,7 +10413,7 @@ msgstr ""
 
 msgctxt "sCHAT_SEND_MESSAGE"
 msgid "Type a message here"
-msgstr "Tik jou boodskap hier in"
+msgstr "Tik ’n boodskap hier"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Send SMS"
@@ -10479,7 +10479,7 @@ msgstr ""
 
 msgctxt "sSEND_SMS_ENTER_INFO_TIP_NOTYET"
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselleer"
 
 msgctxt "sPROFILE_DEFAULT_AUTH_REQUEST"
 msgid "Hi %s, I'd like to add you as a contact."
@@ -10495,19 +10495,19 @@ msgstr ""
 
 msgctxt "sADD_PHONES_FORM_NUMBER"
 msgid "Number"
-msgstr ""
+msgstr "Nommer"
 
 msgctxt "sADD_PHONES_FORM_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 msgctxt "sADD_PHONES_FORM_TYPE"
 msgid "Type"
-msgstr ""
+msgstr "Tipe"
 
 msgctxt "sSMS_FAILED_BUY_CREDIT"
 msgid "<a href=\"skype:?payments\">Buy Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"skype:?payments\">Koop Skype-krediet</a>"
 
 msgctxt "sMSN_UPSELL_PANEL_MESSAGE"
 msgid ""
@@ -10541,11 +10541,11 @@ msgstr ""
 
 msgctxt "sOUTLOOK_CAPTION"
 msgid "Outlook"
-msgstr ""
+msgstr "Outlook"
 
 msgctxt "sMESSENGER_CAPTION"
 msgid "Messenger"
-msgstr ""
+msgstr "Messenger"
 
 msgctxt "sADD_CONTACT_PANEL_TITLE_NO_RESULTS_EMAIL_INVITE"
 msgid "No results for %s"
@@ -10571,11 +10571,11 @@ msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_SKYPE"
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 msgctxt "sCHANNEL_SWITCHER_SMS"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 msgctxt "sCHAT_MESSAGING_UNAVAILABLE"
 msgid "Messaging unavailable."
@@ -10583,11 +10583,11 @@ msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_FACEBOOK"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgctxt "sCHANNEL_SWITCHER_PASSPORT"
 msgid "Messenger"
-msgstr ""
+msgstr "Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
 msgid "Lync"
@@ -10595,19 +10595,19 @@ msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
 msgid "via <a href=\"x\">Skype</a>"
-msgstr ""
+msgstr "via <a href=\"x\">Skype</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SMS"
 msgid "via <a href=\"x\">SMS</a>"
-msgstr ""
+msgstr "via <a href=\"x\">SMS</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_FACEBOOK"
 msgid "via <a href=\"x\">Facebook</a>"
-msgstr ""
+msgstr "via <a href=\"x\">Facebook</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_PASSPORT"
 msgid "via <a href=\"x\">Messenger</a>"
-msgstr ""
+msgstr "via <a href=\"x\">Messenger</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
 msgid "via <a href=\"x\">Lync</a>"
@@ -11041,7 +11041,7 @@ msgstr "Verwyder van gunstelinge"
 
 msgctxt "sBUDDYMENU_PIN_ICON"
 msgid "Add to favorites"
-msgstr "Voeg by gunstelinge"
+msgstr "Voeg toe tot gunstelinge"
 
 msgctxt "sBUDDYMENU_SEND_VIDEOMESSAGE"
 msgid "Send Video Message"
@@ -11625,7 +11625,7 @@ msgstr ""
 
 msgctxt "sACC_NAME_STATUS_PSTN"
 msgid "Phone number"
-msgstr "Telefoon nommer"
+msgstr "Telefoonnommer"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE"
 msgid "Offline"
@@ -11885,11 +11885,11 @@ msgstr ""
 
 msgctxt "sACC_GSW_SELECT_SPEAKER"
 msgid "Select speaker"
-msgstr ""
+msgstr "Kies luidspreker"
 
 msgctxt "sACC_GSW_SELECT_MIC"
 msgid "Select microphone"
-msgstr ""
+msgstr "Kies mikrofoon"
 
 msgctxt "sACC_GSW_PROFILE_PICTURE"
 msgid "Profile picture"
@@ -11976,15 +11976,15 @@ msgstr ""
 
 msgctxt "sACC_GSW_SPEAKER_HELP_BUTTON"
 msgid "Speakers help button"
-msgstr ""
+msgstr "Luidsprekerhulpknop"
 
 msgctxt "sACC_GSW_MIC_HELP_BUTTON"
 msgid "Microphone help button"
-msgstr ""
+msgstr "Mikrofoonhulpknop"
 
 msgctxt "sACC_GSW_SELECT_WEBCAM"
 msgid "Select web camera"
-msgstr ""
+msgstr "Kies webkamera"
 
 msgctxt "sVP8LEGACY_CLIENT_GVC_CAPABLE"
 msgid ""
@@ -12012,11 +12012,11 @@ msgstr ""
 
 msgctxt "sVP8LEGACY_SEND_UPGRADE_SEND"
 msgid "Send"
-msgstr ""
+msgstr "Stuur"
 
 msgctxt "sVP8LEGACY_SEND_UPGRADE_CANCEL"
 msgid "Not now"
-msgstr ""
+msgstr "Nie nou nie"
 
 msgctxt "sVP8LEGACY_UPGRADE_MESSAGE"
 msgid ""
@@ -12037,7 +12037,7 @@ msgstr ""
 
 msgctxt "sCONFIRM_FILE_TRANSFER_OK"
 msgid "Ok"
-msgstr ""
+msgstr "Goed"
 
 msgctxt "sCONFIRM_FILE_TRANSFER_CANCEL"
 msgid "Close"
@@ -12142,11 +12142,11 @@ msgstr ""
 
 msgctxt "sPROFILE_FACEBOOK_PRESENCE"
 msgid "Facebook > %s"
-msgstr ""
+msgstr "Facebook > %s"
 
 msgctxt "sPROFILE_MESSENGER_PRESENCE"
 msgid "Messenger > %s"
-msgstr ""
+msgstr "Messenger > %s"
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
 msgid "Lync > %s"
@@ -12178,7 +12178,7 @@ msgstr ""
 
 msgctxt "sPARTICIPANT_CONTEXT_MENU_SETNUMBER"
 msgid "Group call to..."
-msgstr ""
+msgstr "Groepoproep na…"
 
 msgctxt "sMAIN_MENU_DOGFOOD_FEEDBACK"
 msgid "Dogfood feedback"
@@ -12186,91 +12186,91 @@ msgstr ""
 
 msgctxt "sPLUS_MENU_SEND_SMS"
 msgid "Send SMS..."
-msgstr ""
+msgstr "Stuur SMS…"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SMS_MULTIPLE"
 msgid "Send SMS to %s"
-msgstr ""
+msgstr "Stuur SMS na %s"
 
 msgctxt "sFLOW_AUTH_REQUEST_HEADER"
 msgid "<b>%s</b> would like to add you on Skype"
-msgstr ""
+msgstr "<b>%s</b> wil u op Skype toevoeg"
 
 msgctxt "sCHAT_HISTORY_JUMPBACK"
 msgid "Jump Back"
-msgstr ""
+msgstr "Spring Terug"
 
 msgctxt "sMSNP24_MERGE_MESSAGE"
 msgid "From now on your chats will sync on all your devices."
-msgstr ""
+msgstr "Van nou af sal al u kletsies op al u toestelle sinchroniseer."
 
 msgctxt "sCHAT_TYPING_ONE"
 msgid "%s is typing..."
-msgstr ""
+msgstr "%2 tik…"
 
 msgctxt "sCHAT_TYPING_TWO"
 msgid "%s and %s are typing..."
-msgstr ""
+msgstr "%s en %s tik…"
 
 msgctxt "sCHAT_TYPING_MANY"
 msgid "%s, %s and others are typing..."
-msgstr ""
+msgstr "%s, %s en ander tik…"
 
 msgctxt "sRMC_NONE"
 msgid "How was the quality of this call?"
-msgstr ""
+msgstr "Hoe was die kwaliteit van hierdie oproep?"
 
 msgctxt "sRMC_ONE_STAR"
 msgid "Really poor. <a href=\"%s\">Tell us more.</a>"
-msgstr ""
+msgstr "Regtig swak. <a href=\"%s\">Vertel ons nog.>/a>"
 
 msgctxt "sRMC_TWO_STARS"
 msgid "Poor. <a href=\"%s\">Help us to fix it.</a>"
-msgstr ""
+msgstr "Swak. <a href=\"%s\">Help ons om dit reg te stel.</a>"
 
 msgctxt "sRMC_THREE_STARS"
 msgid "Fair. <a href=\"%s\">Help us to fix it.</a>"
-msgstr ""
+msgstr "So-so. <a href=\"%s\">Help ons om dit reg te stel.</a>"
 
 msgctxt "sRMC_FOUR_STARS"
 msgid "Good. <a href=\"%s\">Help us to fix it.</a>"
-msgstr ""
+msgstr "Goed. <a href=\"%s\">Help ons om dit reg te stel.</a>"
 
 msgctxt "sRMC_FIVE_STARS"
 msgid "Excellent."
-msgstr ""
+msgstr "Uitstekend."
 
 msgctxt "sTHANKS_FOR_YOUR_FEEDBACK"
 msgid "Many thanks. You've just made some engineers at Skype very happy..."
-msgstr ""
+msgstr "Baie dankie. U het sopas ’n paar ingenieurs by Skype baie gelukkig gemaak…"
 
 msgctxt "sINBOX_PENDING_CONTACT_REQUESTS"
 msgid "Pending contact requests"
-msgstr ""
+msgstr "Hangende kontakversoeke"
 
 msgctxt "stalktothehand_SMILEY"
 msgid "Talk to the hand"
-msgstr ""
+msgstr "Praat met die hand"
 
 msgctxt "sidea_SMILEY"
 msgid "Idea"
-msgstr ""
+msgstr "Idee"
 
 msgctxt "ssheep_SMILEY"
 msgid "Sheep"
-msgstr ""
+msgstr "Skaap"
 
 msgctxt "scat_SMILEY"
 msgid "Cat"
-msgstr ""
+msgstr "Kat"
 
 msgctxt "sbike_SMILEY"
 msgid "Bicycle"
-msgstr ""
+msgstr "Fiets"
 
 msgctxt "sdog_SMILEY"
 msgid "Dog"
-msgstr ""
+msgstr "Hond"
 
 msgctxt "scaptain_SMILEY"
 msgid "Captain America"
@@ -12310,135 +12310,135 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
 msgid "Show images in conversations"
-msgstr ""
+msgstr "Toon beelde in gesprekke"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
 msgid "Sent"
-msgstr ""
+msgstr "Gestuur"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_2_ASYNC"
 msgid "Transfer failed"
-msgstr ""
+msgstr "Oordrag het misluk"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_FAILED_SENDING_2_ASYNC"
 msgid "Sending failed"
-msgstr ""
+msgstr "Versending het misluk"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_ASYNC"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING_FOR_ACCEPT"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "sFILETRANSFER_PROGRESS_ASYNC"
 msgid "%s of %s..."
-msgstr ""
+msgstr "%s van %s..."
 
 msgctxt "sFILETRANSFER_PROGRESS_ASYNC_GROUP"
 msgid "%s of %s"
-msgstr ""
+msgstr "%s van %s"
 
 msgctxt "sFILETRANSFER_FILE_MOVED"
 msgid "File moved"
-msgstr ""
+msgstr "Lêer het geskuif"
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
 msgid "Show in folder"
-msgstr ""
+msgstr "Toon in vouer"
 
 msgctxt "sFILETRANSFER_AUTO_ACCEPT"
 msgid "Automatically accept incoming files"
-msgstr ""
+msgstr "Aanvaar inkomende lêers outomaties"
 
 msgctxt "sFILETRANSFER_INLINE_IMAGES"
 msgid "Show images in conversations"
-msgstr ""
+msgstr "Toon beelde in gesprekke"
 
 msgctxt "sFILETRANSFER_PHOTO_COUNT_SINGLE"
 msgid "photo"
-msgstr ""
+msgstr "foto"
 
 msgctxt "sFILETRANSFER_PHOTO_COUNT_MANY"
 msgid "photos"
-msgstr ""
+msgstr "foto’s"
 
 msgctxt "sFILETRANSFER_FILE_COUNT_SINGLE"
 msgid "file"
-msgstr ""
+msgstr "lêer"
 
 msgctxt "sFILETRANSFER_FILE_COUNT_MANY"
 msgid "files"
-msgstr ""
+msgstr "lêers"
 
 msgctxt "sFILETRANSFER_FILES_SENT"
 msgid "Files sent"
-msgstr ""
+msgstr "Lêers gestuur"
 
 msgctxt "sFILETRANSFER_FILES_RECEIVED"
 msgid "Files received"
-msgstr ""
+msgstr "Lêers ontvang"
 
 msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
 msgid "Download all"
-msgstr ""
+msgstr "Laai alles af"
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "Kanselleer alles"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
-msgstr ""
+msgstr "(gestuur na <a href=\"{%skakel%}\">{%n%} mens</a>)"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_MANY"
 msgid "(sent to <a href=\"{%link%}\">{%n%} people</a>)"
-msgstr ""
+msgstr "(gestuur na <a href=\"{%skakel%}\">{%n%} mense</a>)"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_EVERYONE"
 msgid "(sent to <a href=\"{%link%}\">everyone</a>)"
-msgstr ""
+msgstr "(gestuur na <a href=\"{%skakel%}\">almal</a>)"
 
 msgctxt "sFILETRANSFER_SENT_TO_ONE"
 msgid "Sent to <a href=\"{%link%}\">{%n%} person</a>"
-msgstr ""
+msgstr "Gestuur na <a href=\"{%skakel%}\">{%n%} mens</a>"
 
 msgctxt "sFILETRANSFER_SENT_TO_MANY"
 msgid "Sent to <a href=\"{%link%}\">{%n%} people</a>"
-msgstr ""
+msgstr "Gestuur na <a href=\"{%skakel%}\">{%n%} mense</a>"
 
 msgctxt "sFILETRANSFER_SENT_TO_EVERYONE"
 msgid "Sent to <a href=\"{%link%}\">everyone</a>"
-msgstr ""
+msgstr "Gestuur na <a href=\"{%skakel%}\">almal</a>"
 
 msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_ONE"
 msgid "(sending to <a href=\"{%link%}\">{%n%} person</a>)"
-msgstr ""
+msgstr "(stuur na <a href\"{%skakel%}\">{%n%} mens</a>)"
 
 msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_MANY"
 msgid "(sending to <a href=\"{%link%}\">{%n%} people</a>)"
-msgstr ""
+msgstr "(stuur na <a href\"{%skakel%}\">{%n%} mense</a>)"
 
 msgctxt "sFILETRANSFER_SENDING_TO_IN_BRACES_EVERYONE"
 msgid "(sending to <a href=\"{%link%}\">everyone</a>)"
-msgstr ""
+msgstr "(stuur na <a href\"{%skakel%}\">almal</a>)"
 
 msgctxt "sFILETRANSFER_SENDING_TO_ONE"
 msgid "to <a href=\"{%link%}\">{%n%} person</a>..."
-msgstr ""
+msgstr "na <a href\"{%skakel%}\">{%n%} mens</a>…"
 
 msgctxt "sFILETRANSFER_SENDING_TO_MANY"
 msgid "to <a href=\"{%link%}\">{%n%} people</a>..."
-msgstr ""
+msgstr "na <a href\"{%skakel%}\">{%n%} mense</a>…"
 
 msgctxt "sFILETRANSFER_SENDING_TO_EVERYONE"
 msgid "to <a href=\"{%link%}\">everyone</a>..."
-msgstr ""
+msgstr "na <a href\"{%skakel%}\">almal</a>…"
 
 msgctxt "sFILETRANSFER_SUMMARY_MORE_FILES"
 msgid "%d more file(s)"
-msgstr ""
+msgstr "nog %s lêer(s)"
 
 msgctxt "sFILESIZE_PREFIXES_ASYNC"
 msgid "\\K\\M\\G\\T"
@@ -12450,83 +12450,83 @@ msgstr ""
 
 msgctxt "sCONTACT_MSG_MULTIPLE_SENT"
 msgid "contacts sent"
-msgstr ""
+msgstr "kontakte gestuur"
 
 msgctxt "sCONTACT_MSG_MULTIPLE_RECEIVED"
 msgid "contacts received"
-msgstr ""
+msgstr "kontakte ontvang"
 
 msgctxt "sCONTACT_MSG_CONTACT_SENT"
 msgid "Contact sent"
-msgstr ""
+msgstr "Kontak gestuur"
 
 msgctxt "sCONTACT_MSG_CONTACT_EXISTING"
 msgid "Already a contact"
-msgstr ""
+msgstr "Reeds ’n kontak"
 
 msgctxt "sCONTACT_MSG_CONTACT_NEW"
 msgid "Add to contacts"
-msgstr ""
+msgstr "Voeg toe tot kontakte"
 
 msgctxt "sF_USERPROFILE_SKYPE"
 msgid "Skype:"
-msgstr ""
+msgstr "Skype:"
 
 msgctxt "sF_USERPROFILE_HOME_FIRST"
 msgid "Home:"
-msgstr ""
+msgstr "Huis:"
 
 msgctxt "sF_USERPROFILE_OFFICE_FIRST"
 msgid "Office:"
-msgstr ""
+msgstr "Kantoor:"
 
 msgctxt "sF_USERPROFILE_MOBILE_FIRST"
 msgid "Mobile:"
-msgstr ""
+msgstr "Selfoon:"
 
 msgctxt "sF_USERPROFILE_OTHER_FIRST"
 msgid "Other:"
-msgstr ""
+msgstr "Ander:"
 
 msgctxt "sF_USERPROFILE_PHONE_FIRST"
 msgid "Phone:"
-msgstr ""
+msgstr "Telefoon:"
 
 msgctxt "sF_USERPROFILE_HOME_SUBSEQUENT"
 msgid "Home %0:s:"
-msgstr ""
+msgstr "Huis %0:s:"
 
 msgctxt "sF_USERPROFILE_OFFICE_SUBSEQUENT"
 msgid "Office %0:s:"
-msgstr ""
+msgstr "Kantoor %0:s:"
 
 msgctxt "sF_USERPROFILE_MOBILE_SUBSEQUENT"
 msgid "Mobile %0:s:"
-msgstr ""
+msgstr "Selfoon %0:s:"
 
 msgctxt "sF_USERPROFILE_OTHER_SUBSEQUENT"
 msgid "Other %0:s:"
-msgstr ""
+msgstr "Ander %0:s:"
 
 msgctxt "sF_USERPROFILE_PHONE_SUBSEQUENT"
 msgid "Phone %0:s:"
-msgstr ""
+msgstr "Telefoon %0:s:"
 
 msgctxt "sF_USERPROFILE_ADD_NUMBER"
 msgid "Add Number"
-msgstr ""
+msgstr "Voeg Nommer toe"
 
 msgctxt "sF_CHAT_INFO_PEOPLE"
 msgid "%0:s people"
-msgstr ""
+msgstr "%0:s mense"
 
 msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS"
 msgid "Conversation notifications"
-msgstr ""
+msgstr "Gesprekkennisgewings"
 
 msgctxt "sF_CHAT_INFO_CONVERSATION_NOTIFICATIONS_NOTIFY"
 msgid "Notify me when something new happens"
-msgstr ""
+msgstr "Stel my in kennis wanneer iets nuuts gebeur"
 
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS"
 msgid "Creator settings"
@@ -12534,23 +12534,23 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
 msgid "Make chat history available to new joiners"
-msgstr ""
+msgstr "Stel kletsgeskiedenis beskikbaar aan nuwe aansluiters"
 
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOIN"
 msgid "Allow people to join this group"
-msgstr ""
+msgstr "Laat mense toe om by hierdie groep an te sluit"
 
 msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
 msgid "Administrator settings"
-msgstr ""
+msgstr "Administrateursinstellings"
 
 msgctxt "sF_CHAT_INFO_COPY_LINK"
 msgid "Copy conversation link"
-msgstr ""
+msgstr "Kopieer gesprekskakel"
 
 msgctxt "sF_CHAT_INFO_LEAVE"
 msgid "Leave this conversation?"
-msgstr ""
+msgstr "Verlaat hierdie gesprek?"
 
 msgctxt "sF_CHAT_INFO_LEAVE_ASK"
 msgid "Always ask"
@@ -12566,7 +12566,7 @@ msgstr ""
 
 msgctxt "sSIDEBAR_CHAT_TOOLTIP"
 msgid "Start a new chat. Create a group, send instant messages and files."
-msgstr ""
+msgstr "Begin ’n nuwe klets. Skep ’n groep, stuur kitsboodskappe en lêers."
 
 msgctxt "sSIDEBAR_RECENTS_TOOLTIP"
 msgid "See your recent messages."
@@ -12582,11 +12582,11 @@ msgstr ""
 
 msgctxt "sSIDEBAR_GROUP_TOOLTIP"
 msgid "Create a new group."
-msgstr ""
+msgstr "Skep ’n nuwe groep."
 
 msgctxt "sADFORM_TITLE"
 msgid "Advertisement"
-msgstr ""
+msgstr "Advertensie"
 
 msgctxt "sSIDEBAR_AVATAR_TOOLTIP"
 msgid "See your profile"
@@ -12594,21 +12594,21 @@ msgstr ""
 
 msgctxt "sSIDEBAR_AVATAR_STATUS_TOOLTIP"
 msgid "Change your status"
-msgstr ""
+msgstr "Verander u status"
 
 msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TITLE"
 msgid "File transfers will start automatically from now on."
-msgstr ""
+msgstr "Van nou af sal alle lêeroordragte outomaties begin."
 
 msgctxt "sFILE_TRANSFER_AUTO_ACCEPT_FIRST_RUN_TEXT"
 msgid ""
 "You can revert this change or choose a different destination folder in <a "
 "href=\"skype:?options#chatsettings:advanced\">settings</a>."
-msgstr ""
+msgstr "U kan hierdie verandering terugstel of ’n ander bestemmingsvouer in <a href=\"skype:?options#chatsettings:advanced\">instellings</a> kies."
 
 msgctxt "sBUBBLE_POPOVER_OK"
 msgid "OK"
-msgstr ""
+msgstr "Goed"
 
 msgctxt "sCHAT_HISTORY_TODAY"
 msgid "Today"
@@ -12660,11 +12660,11 @@ msgstr ""
 
 msgctxt "sCALLPHONES_RATES_SUBSCR_PER_MONTH"
 msgid "%s for 1 month"
-msgstr ""
+msgstr "%s vir 1 maand"
 
 msgctxt "sF_CALL_FAILURE_RATES_SUBSCRIPTION_MONTH"
 msgid "From %s for 1 month"
-msgstr ""
+msgstr "Van %s vir 1 maand"
 
 msgctxt "sCALLPHONES_PAYG_CAPTION_NO_RATE"
 msgid "Pay As You Go"
@@ -12672,7 +12672,7 @@ msgstr ""
 
 msgctxt "sVOICEMAIL_PROMPT"
 msgid "Are you sure you want to send a voice message to<b>%s</b>?"
-msgstr ""
+msgstr "Is u seker u wil ’n stemboodskap na <b>%s</b> stuur?"
 
 msgctxt "sVOICEMAIL_PROMPT_TITLE"
 msgid "Send voice message"
@@ -12684,41 +12684,41 @@ msgstr "Stemboodskap"
 
 msgctxt "sF_USERPROFILE_ADD_NUMBER_LABEL"
 msgid "Phone:"
-msgstr ""
+msgstr "Telefoon:"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER"
 msgid "Edit"
-msgstr ""
+msgstr "Wysig"
 
 msgctxt "sF_USERPROFILE_EDIT_NUMBER_HINT"
 msgid "Edit %s"
-msgstr ""
+msgstr "Wysig %s"
 
 msgctxt "sF_CHAT_INFO_LEAVE_CONVERSATION"
 msgid "Leave Conversation"
-msgstr ""
+msgstr "Verlaat Gesprek"
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY1"
 msgid "Limited emergency calling"
-msgstr ""
+msgstr "Beperkte noodoproepe"
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2"
 msgid ""
 "Emergency calling is only supported by certain countries/regions. Please, go"
 " to Call settings to set your default location."
-msgstr ""
+msgstr "Noodoproepe word slegs in sekere lande/streke ondersteun. Gaan asb. na Oproepinstellings om u verstekligging te stel."
 
 msgctxt "sSMS_STATUS_SENT_ZERO_PERSONS"
 msgid "SMS sent to <a href=\"x\">%d people</a>"
-msgstr ""
+msgstr "SMS gestuur aan <a href=\"x\">%d mense</a>"
 
 msgctxt "sSMS_STATUS_SENT_ONE_PERSON"
 msgid "SMS sent to <a href=\"x\">%d person</a>"
-msgstr ""
+msgstr "SMS gestuur aan <a href=\"x\">%d mens</a>"
 
 msgctxt "sSMS_STATUS_SENT_MANY_PERSONS"
 msgid "SMS sent to <a href=\"x\">%d people</a>"
-msgstr ""
+msgstr "SMS gestuur aan <a href=\"x\">%d mens</a>"
 
 msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
 msgid "Select no more than %d participants to be able to start a video call"
@@ -12790,7 +12790,7 @@ msgstr ""
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_SINGLE"
 msgid "Shared a photo"
-msgstr "'n foto gedeel"
+msgstr "Het ’n foto gedeel"
 
 msgctxt "sMESGPREVIEW_POSTED_LOCATION_SINGLE"
 msgid "Shared a location"
@@ -12798,11 +12798,11 @@ msgstr ""
 
 msgctxt "sMESGPREVIEW_VOICE_MESSAGE_SINGLE"
 msgid "Sent you a voice message"
-msgstr ""
+msgstr "Het vir u ’n oudeoboodskap gestuur"
 
 msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_SINGLE"
 msgid "Sent you a video message"
-msgstr ""
+msgstr "Het vir u ’n videoboodskap gestuur"
 
 msgctxt "sMESGPREVIEW_POSTED_CONTACTS_SINGLE"
 msgid "Sent you contacts"
@@ -12810,7 +12810,7 @@ msgstr ""
 
 msgctxt "sMESGPREVIEW_POSTED_FILES_MULTI"
 msgid "%s sent files"
-msgstr "%s lêers gestuur"
+msgstr "%s het lêers gestuur"
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
 msgid "%s shared a photo"
@@ -12946,19 +12946,19 @@ msgstr "%s (+%d)"
 
 msgctxt "sBUDDYMENU_CHANGE_TOPIC"
 msgid "Change topic..."
-msgstr ""
+msgstr "Verander onderwerp…"
 
 msgctxt "sF_CHANGE_TOPIC_CAPTION"
 msgid "Change topic"
-msgstr ""
+msgstr "Verander onderwerp"
 
 msgctxt "sMAINMENU_CONVERSATION_CHANGE_TOPIC"
 msgid "Change topic..."
-msgstr ""
+msgstr "Verander onderwerp…"
 
 msgctxt "sF_CHANGE_TOPIC_LABEL"
 msgid "Enter new topic"
-msgstr ""
+msgstr "Voer nuwe onderwerp in"
 
 msgctxt "sFRE_TITLE"
 msgid "Welcome Tour"
@@ -12986,11 +12986,11 @@ msgstr ""
 
 msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
 msgid "File transfer limit"
-msgstr ""
+msgstr "Lêeroordraglimiet"
 
 msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
 msgid "Emergency numbers"
-msgstr ""
+msgstr "Noodnommers"
 
 msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
 msgid ""
@@ -13000,7 +13000,7 @@ msgstr ""
 
 msgctxt "sCALL_PHONES_EMERGENCY2_INLINE"
 msgid "Emergency calls are not supported in your country/region."
-msgstr ""
+msgstr "Noodoproepe word nie in u land/streek ondersteun nie."
 
 msgctxt "sCALL_PHONES_LIMITED_EMERGENCY2_INLINE"
 msgid ""

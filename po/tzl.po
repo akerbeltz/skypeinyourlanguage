@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2015-03-06 13:25+0000\n"
-"Last-Translator: Marcel Machado <marcel_d_machado@web.de>\n"
+"PO-Revision-Date: 2015-04-07 22:54+0000\n"
+"Last-Translator: Robin van der Vliet <info@robinvandervliet.nl>\n"
 "Language-Team: Talossan (http://www.transifex.com/projects/p/skype-translation-project/language/tzl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -301,7 +301,7 @@ msgstr "Niþiliçarh"
 
 msgctxt "sF_OPTIONS_CAPTION"
 msgid "- Options"
-msgstr ""
+msgstr "- Opziuns"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
 msgid "© 2014 Skype and/or Microsoft"
@@ -435,7 +435,7 @@ msgstr ""
 
 msgctxt "sF_CHANGE_PASSWORD_BTN1_TEXT"
 msgid "Apply"
-msgstr ""
+msgstr "Aplicarh"
 
 msgctxt "sF_CHANGE_PASSWORD_BTN2_TEXT"
 msgid "Cancel"
@@ -697,7 +697,7 @@ msgstr "Guardarh come..."
 
 msgctxt "sF_TRANSLATE_APPLY"
 msgid "Apply"
-msgstr ""
+msgstr "Aplicarh"
 
 msgctxt "sF_TRANSLATE_LOAD"
 msgid "Load"
@@ -4693,7 +4693,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_GALLERY"
 msgid "Gallery"
-msgstr ""
+msgstr "Galería"
 
 msgctxt "sZAPBUTTON_GALLERYSHARE"
 msgid "Share"
@@ -6042,7 +6042,7 @@ msgstr "Cambiarh el glheþ"
 
 msgctxt "sMAINMENU_TOOLS_OPTIONS"
 msgid "Options..."
-msgstr ""
+msgstr "Opziuns..."
 
 msgctxt "sMAINMENU_HELP"
 msgid "Help"
@@ -8629,7 +8629,7 @@ msgstr ""
 
 msgctxt "sMYSELF_PROFILE_CALL_TIME"
 msgid "Time"
-msgstr ""
+msgstr "Temp"
 
 msgctxt "sLIVE_PARTICIPANT_NO_MPV_SUPPORT"
 msgid "%s needs to get the latest Skype to use group video."
@@ -8884,7 +8884,7 @@ msgstr ""
 
 msgctxt "sCALL_PRICE_FREE"
 msgid "Free"
-msgstr ""
+msgstr "Gratis"
 
 msgctxt "sLIVE_COMPACT_VIEW"
 msgid "Pop-out"
@@ -10220,7 +10220,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_READY_FREE"
 msgid "FREE"
-msgstr ""
+msgstr "GRATIS"
 
 msgctxt "sSKYPEWIFI_READY_TOS"
 msgid ""
@@ -10250,7 +10250,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_CONNECTING_FREE"
 msgid "FREE"
-msgstr ""
+msgstr "GRATIS"
 
 msgctxt "sSKYPEWIFI_ONLINE_HEADER"
 msgid "You're online with Skype WiFi"

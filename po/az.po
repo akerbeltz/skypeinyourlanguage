@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2015-03-03 12:08+0000\n"
+"PO-Revision-Date: 2015-04-02 11:27+0000\n"
 "Last-Translator: Azer <siranas@yandex.com>\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/projects/p/skype-translation-project/language/az/)\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr "Skype Adı tapılmadı"
 
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
-msgstr "Şəxsi Səhifə %s"
+msgstr "%s Şəxsi Səhifəsi"
 
 msgctxt "sF_USERINFO_LABEL_FULLNAME"
 msgid "Full name"
@@ -241,7 +241,7 @@ msgstr "İş telefonu"
 
 msgctxt "sF_USERPROFILE_LB_MOBILEPHONE"
 msgid "Mobile phone"
-msgstr "Mobil telefonu"
+msgstr "Mobil telefon"
 
 msgctxt "sF_USERPROFILE_LB_EMAIL"
 msgid "Email"
@@ -3485,7 +3485,7 @@ msgstr "Qurd"
 
 msgctxt "sFUBAR_SMILEY"
 msgid "FUBAR"
-msgstr "Korlanmış @#$&*"
+msgstr "Səfeh"
 
 msgctxt "sTMI_SMILEY"
 msgid "Too much information"
@@ -3529,7 +3529,7 @@ msgstr "İştirakçılar ismarıc oxumaq və göndərmək üçün icazə almalı
 
 msgctxt "sMAINMENU_TOOLS_START_PUBLIC_CHAT"
 msgid "Start Public IM"
-msgstr "İctimai söhbətə başla"
+msgstr "İctimai Söhbətə Başla"
 
 msgctxt "sF_CHAT_NOTIFY_TITLE"
 msgid "Notification settings"
@@ -3645,7 +3645,7 @@ msgstr "Bu ismarıcı silmək istəyinizə əminsiniz?"
 
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE_TITLE"
 msgid "Remove message?"
-msgstr "Sil?"
+msgstr "İsmarıc silinsin?"
 
 msgctxt "sCHAT_COPY_LINK"
 msgid "Copy link location"
@@ -3653,11 +3653,11 @@ msgstr "İstinadın surətini çıxar"
 
 msgctxt "sF_OPTIONS_LINK_SMS_RATES"
 msgid "SMS destinations and rates"
-msgstr "SMS isiqamətləri və tariflər"
+msgstr "SMS istiqamətləri və tariflər"
 
 msgctxt "sF_STARTCONF_INFO_LABEL"
 msgid "Skype group calls can include both Skype contacts and phone numbers."
-msgstr "Skype dəstə zənglərində, Skype istifadəçiləriylə bərabər adi telefon istifadəçiləridə iştirak edə bilər."
+msgstr "Skype dəstə zənglərində, Skype istifadəçilərilə bərabər adi telefon istifadəçiləridə iştirak edə bilər."
 
 msgctxt "sF_STARTCONF_ENTER_PHONE_LABEL"
 msgid "or enter someone's phone number."
@@ -3676,7 +3676,7 @@ msgid ""
 "The phone number you tried to add was not entered correctly. You must select"
 " the country and then enter the number you wish to add. Example: Select "
 "United Kingdom and enter 020 5555 1212"
-msgstr "Telefon nömrəsi yanlış daxil edilib. Əvvəl ölkə seçin, sonra əlavə etmək istədiyiniz telefon nömrəsini daxil edin. Məsələn: Azərbaycanı seçin."
+msgstr "Telefon nömrəsi yanlış daxil edilib. Əvvəl ölkə seçin, sonra əlavə etmək istədiyiniz telefon nömrəsini daxil edin. Məsələn:  Birləşmiş Krallıq seçin və 020 5555 1212 daxil edin."
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
@@ -9443,7 +9443,7 @@ msgstr "Evdə İşləyirəm"
 
 msgctxt "sHOLLEST_SMILEY"
 msgid "Hollest"
-msgstr "Hollest"
+msgstr "Cazibəli Əndam"
 
 msgctxt "sCALL_TOOLBAR_SHOW_CONTACTS_HINT"
 msgid "Show contacts"
@@ -12269,11 +12269,11 @@ msgstr "İt"
 
 msgctxt "scaptain_SMILEY"
 msgid "Captain America"
-msgstr "Amerika Kapitanı"
+msgstr "Kapitan"
 
 msgctxt "sbucky_SMILEY"
 msgid "Bucky"
-msgstr "Bucky"
+msgstr "Şəvə Saçlı"
 
 msgctxt "sblackwidow_SMILEY"
 msgid "Black Widow"
@@ -12281,7 +12281,7 @@ msgstr "Qara Dul Qadın"
 
 msgctxt "snickfury_SMILEY"
 msgid "Nick Fury"
-msgstr "Nik Füri"
+msgstr "Tək Göz"
 
 msgctxt "sshielddeflect_SMILEY"
 msgid "Shield"

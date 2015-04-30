@@ -1,38 +1,38 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="az" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="sco" version="2.0">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>API</name>
     <message>
         <source>Skype API Authorisation Request</source>
-        <translation>Skype API Tətbiqinə Sorğu</translation>
+        <translation>Skype API Authorisation Speirin</translation>
     </message>
     <message>
         <source>Another program wants to use Skype</source>
-        <translation>Başqa bir proqram Skype istifadə etmək istəyir</translation>
+        <translation>Anither program wants tae uise Skype</translation>
     </message>
     <message>
         <source>A program &quot;%1&quot; is trying to connect to Skype. Do you want to allow it?</source>
-        <translation>&quot;%1&quot; Skype-a qoşulmağa çalışır. İcazə verirsiniz?</translation>
+        <translation>A program &quot;%1&quot; is ettlin tae connect til Skype. Dae ye want tae allou it?</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation>İctimai APİ</translation>
+        <translation>Public API</translation>
     </message>
     <message>
         <source>Allowed programs:</source>
-        <translation>İcazəli proqramlar:</translation>
+        <translation>Alloued programs:</translation>
     </message>
     <message>
         <source>Blocked programs:</source>
-        <translation>İcazəsiz proqramlar:</translation>
+        <translation>Blockit programs:</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Sil</translation>
+        <translation>Remuive</translation>
     </message>
     <message>
         <source>Enabled transports:</source>
-        <translation>Fəal nəql:</translation>
+        <translation>Enabled transports:</translation>
     </message>
     <message>
         <source>X11</source>
@@ -44,453 +44,453 @@
     </message>
     <message>
         <source>Session</source>
-        <translation>Müəyyən Dövr</translation>
+        <translation>Session</translation>
     </message>
     <message>
         <source>System</source>
-        <translation>Quruluş</translation>
+        <translation>Seestem</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Sabit</translation>
+        <translation>Default</translation>
     </message>
     <message>
         <source>UNIX domain socket</source>
-        <translation>UNIX domen mənbəyi</translation>
+        <translation>UNIX domain socket</translation>
     </message>
     <message>
         <source>TCP network socket</source>
-        <translation>TCP şəbəkə mənbəyi</translation>
+        <translation>TCP network socket</translation>
     </message>
     <message>
         <source>Enable networked TCP socket</source>
-        <translation>TCP şəbəkə mənbəyinı qoş</translation>
+        <translation>Enable networked TCP socket</translation>
     </message>
     <message>
         <source>Bus:</source>
-        <translation>Hərəkət:</translation>
+        <translation>Bus:</translation>
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
-        <translation>Şəbəkə üzərindən Skype API giriş icazəsi təhlükəsiz deyil. Bunu yalnız &lt;br&gt; yaxşı nəzarət mühitlərində edin və heç vaxt internet üzərindən etməyin.&lt;br&gt;Skype heç bir təhlükəsizlik zəmanəti vermir, əgər siz şəbəkə mənbəyi kimi&lt;br&gt;TCP mənbəyini, şifrələnməmiş açıq mətinli ötürmə halında istifadə etsəniz. </translation>
+        <translation>Allouin access tae Skype API over network is unsiccar. Dae it ainly&lt;br&gt;in weel-controlled environments an niver ower the internet.&lt;br&gt;Skype daesnae mak ony siccarity guarantee gin ye enable networked&lt;br&gt;TCP socket, as the cantation channel is unencrypted clear text.</translation>
     </message>
 </context>
 <context>
     <name>About</name>
     <message>
         <source>Version</source>
-        <translation>Buraxılış</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Warning: This program is protected by copyright law and international treaties.</source>
         <comment>sF_ABOUT_WARNING_1</comment>
-        <translation>Diqqət! Bu proqram müəllif hüquqları haqqında qanunlarla və beynəlxalq qanunvericiliklə mühafizə olunur.</translation>
+        <translation>Warnin: This program is protectit bi copyright law an internaitional treaties.</translation>
     </message>
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>sF_ABOUT_WARNING_2</comment>
-        <translation>Bu proqramın qanunsuz olaraq surətinin çıxarılması və yayılması və ya onun hər hansı bir hissəsinin yayılması, sərt mülki və cinayət cəzalarına səbəb ola bilər və qanunun bütün sərtliyi ilə təqib ediləcək</translation>
+        <translation>Unauthorized reproduction or distribution o this program, or ony pairts o&apos;t, micht affcome in dour ceevil an creeminal penalties, an will be prosecutit taw the maximum stent possible unner the law.</translation>
     </message>
     <message>
         <source>Patents Pending</source>
         <comment>sF_ABOUT_COPYRIGHT_1_2</comment>
-        <translation>Xüsusi İstisna Hüquqlu Sənəd (Patent) Gözləyir</translation>
+        <translation>Pautents Pendin</translation>
     </message>
     <message>
         <source>The Skype name, associated trademarks and logos and the &quot;S&quot; logo are trademarks of Skype or related entities.</source>
         <comment>sF_ABOUT_COPYRIGHT_1_3</comment>
-        <translation>Skype adı, əlaqəli əmtəə nişanları, işarələr və “S” işarəsi, Skype şirkətinin və ya onunla əlaqəli şirkətlərin ticarət nişanlarıdır</translation>
+        <translation>The Skype name, associatit trademarks an logos an the &quot;S&quot; logo are trademarks o Skype or relatit entities.</translation>
     </message>
     <message>
         <source>© 2014 Skype and/or Microsoft</source>
         <comment>sF_ABOUT_COPYRIGHT_1_1</comment>
-        <translation>© 2014 Skype və/və ya Microsoft</translation>
+        <translation>© 2014 Skype an/or Microsoft</translation>
     </message>
 </context>
 <context>
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation>İştirakçılar əlavə et</translation>
+        <translation>Add participants</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Zəngi bitir</translation>
+        <translation>End caw</translation>
     </message>
     <message>
         <source>Hide dial pad</source>
-        <translation>Rəqəmləri gizlət</translation>
+        <translation>Hide dial pad</translation>
     </message>
     <message>
         <source>Show dial pad</source>
-        <translation>Rəqəmləri göstər</translation>
+        <translation>Shaw dial pad</translation>
     </message>
     <message>
         <source>Unmute your microphone</source>
-        <translation>Mikrofonu aç</translation>
+        <translation>Unmute yer microphone</translation>
     </message>
     <message>
         <source>Mute your microphone</source>
-        <translation>Mikrofonu bağla</translation>
+        <translation>Mute yer microphone</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
-        <translation>Tam ekrandan çıx</translation>
+        <translation>Ootgate fouscreen</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation>Tam ekran</translation>
+        <translation>Fou screen</translation>
     </message>
     <message>
         <source>Turn off video</source>
-        <translation>Görüntünü söndür</translation>
+        <translation>Turn aff video</translation>
     </message>
     <message>
         <source>Turn on video</source>
-        <translation>Görüntünü fəallaşdır</translation>
+        <translation>Turn on video</translation>
     </message>
     <message>
         <source>Send File...</source>
-        <translation>Fayl Göndər...</translation>
+        <translation>Send File...</translation>
     </message>
     <message>
         <source>Send Contacts...</source>
-        <translation>Əlaqələr Göndər...</translation>
+        <translation>Send Contacts...</translation>
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation>Bölüşməni dayandır</translation>
+        <translation>Stop sharin</translation>
     </message>
     <message>
         <source>Share screens</source>
-        <translation>Ekran nümayişi</translation>
+        <translation>Share screens</translation>
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation>Bu Zəngə İştirakçı Əlavə Et</translation>
+        <translation>Add Fowk tae This Caw</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation>Bölüşmə Seçimi</translation>
+        <translation>Share Walin</translation>
     </message>
     <message>
         <source>Add participants, send files and more...</source>
-        <translation>İştirakçılar əlavə et, fayllar göndər və daha...</translation>
+        <translation>Add participants, send files an mair...</translation>
     </message>
     <message>
         <source>Show IM</source>
-        <translation>İsmarıcı göstər</translation>
+        <translation>Shaw IM</translation>
     </message>
     <message>
         <source>Resume call</source>
-        <translation>Zəngi bərpa et</translation>
+        <translation>Conteena caw</translation>
     </message>
 </context>
 <context>
     <name>CallView</name>
     <message>
         <source>Call with %1</source>
-        <translation>%1 ilə ünsiyyət</translation>
+        <translation>Caw wi %1</translation>
     </message>
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation>Texniki Dəstək Zəngi</translation>
+        <translation>Caw Technical Info</translation>
     </message>
     <message>
         <source>Held remotely</source>
-        <translation>Məsafədən təşkil et</translation>
+        <translation>Haudit remotely</translation>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation>Zəng Gözləmədə</translation>
+        <translation>Caw on Haud</translation>
     </message>
 </context>
 <context>
     <name>Calls</name>
     <message>
         <source>Call with %1</source>
-        <translation>Zəng %1</translation>
+        <translation>Caw wi %1</translation>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation>Zəngi Bərpa Et </translation>
+        <translation>Conteena Caw</translation>
     </message>
     <message>
         <source>Hangup</source>
-        <translation>Dəstəyi As</translation>
+        <translation>Hingup</translation>
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation>Toplantıya Dəvət Et</translation>
+        <translation>Inveete tae Collogue</translation>
     </message>
     <message>
         <source>Call %1</source>
-        <translation>Zəng %1</translation>
+        <translation>Caw %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation>Müddəti: %1</translation>
+        <translation>Duration: %1</translation>
     </message>
     <message>
         <source>Ca&amp;ll</source>
-        <translation>Zə&amp;ng</translation>
+        <translation>Ca&amp;w</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Bağla</translation>
+        <translation>&amp;Elide</translation>
     </message>
     <message>
         <source>Call Finished</source>
-        <translation>Zəng Bitdi</translation>
+        <translation>Caw Feenist</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation>Məşğuldur</translation>
+        <translation>Busy</translation>
     </message>
     <message>
         <source>Call Dropped</source>
-        <translation>Zəng Kəsildi</translation>
+        <translation>Caw drappit</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
-        <translation>Naməlum əlaqə sizə zəng edir</translation>
+        <translation>An unkent contact is cawin ye</translation>
     </message>
     <message>
         <source>Page %1</source>
-        <translation>Səhifə %1</translation>
+        <translation>Page %1</translation>
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation>Dəqiqəsi %1</translation>
+        <translation>%1 per meenute</translation>
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation>Kifayət Qədər Vəsait Yoxdur</translation>
+        <translation>Insufficient Credit</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation>Telefona Zəng və ya SMS Göndər</translation>
+        <translation>Caw Phones or Send SMS</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation>Zəng</translation>
+        <translation>Caw</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation>SMS Göndər</translation>
+        <translation>Send SMS</translation>
     </message>
     <message>
         <source>Skype Call</source>
-        <translation>Skype Zəngi</translation>
+        <translation>Skype Caw</translation>
     </message>
     <message>
         <source>Transfer to...</source>
-        <translation>Bura köçür...</translation>
+        <translation>Transfer tae...</translation>
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
-        <translation>Zəng %1, cari zəngi gözlədəcək.</translation>
+        <translation>Gin ye caw %1 yer current caw will be pit on haud.</translation>
     </message>
     <message>
         <source>You can only have one call at a time.</source>
-        <translation>Eyni anda yalnız bir zəng edə bilərsiniz</translation>
+        <translation>Ye can ainly hiv ane caw at a time.</translation>
     </message>
     <message>
         <source>Estimated cost: %1</source>
-        <translation>Təxmini qiyməti: %1</translation>
+        <translation>Estimatit cost: %1</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>Bağlantı mümkün deyil</translation>
+        <translation>No able tae connect</translation>
     </message>
     <message>
         <source>Problem with legacy client</source>
-        <translation>Mövcud sifarişlə çətinlik</translation>
+        <translation>Problem wi legacy client</translation>
     </message>
     <message>
         <source>Join call</source>
-        <translation>Zəngə qoşul</translation>
+        <translation>Jyne caw</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation>Zəngi bitir</translation>
+        <translation>End caw</translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation>Zəng Sifarişi</translation>
+        <translation>Place a Caw</translation>
     </message>
     <message>
         <source>Join Call</source>
-        <translation>Zəngə Qoşul</translation>
+        <translation>Jyne Caw</translation>
     </message>
     <message>
         <source>Join Conference Call</source>
-        <translation>Toplantı Zənginə Qoşul</translation>
+        <translation>Jyne collogue Caw</translation>
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
-        <translation>Əgər siz %1 zəng etsəniz, bu səsli ismarıc ləğv olunacaq.</translation>
+        <translation>Gin ye caw %1 this vyce message will be elidit.</translation>
     </message>
     <message>
         <source>Covered by subscription</source>
-        <translation>Abunəliklə əhatəli</translation>
+        <translation>Kivert bi subscription</translation>
     </message>
     <message>
         <source>Playing voice message greeting</source>
-        <translation>Səsli ismarıc salamlamasını səsləndir</translation>
+        <translation>Playin vyce message hailsin</translation>
     </message>
     <message>
         <source>Recording my voice message greeting</source>
-        <translation>Səsli ismarıc salamlamamın yazılması</translation>
+        <translation>Recordin ma vyce message hailsin</translation>
     </message>
     <message>
         <source>Problem with recording device</source>
-        <translation>Səsyazma cihazıyla nasazlıq</translation>
+        <translation>Problem wi recordin device</translation>
     </message>
     <message>
         <source>Problem with playback device</source>
-        <translation>Səsləndirmə cihazyla nasazlıq</translation>
+        <translation>Problem wi playback device</translation>
     </message>
     <message>
         <source>Invalid phone number</source>
-        <translation>Yanlış telefon nömrəsi</translation>
+        <translation>Phone nummer isnae habile</translation>
     </message>
     <message>
         <source>No answer</source>
-        <translation>Cavab yoxdur</translation>
+        <translation>Nae answer</translation>
     </message>
     <message>
         <source>Sorry, call failed</source>
-        <translation>Üzr istəyirik, zəng uğursuz</translation>
+        <translation>Sairy, caw failt</translation>
     </message>
     <message>
         <source>Calling...</source>
-        <translation>Çağırır...</translation>
+        <translation>Cawin...</translation>
     </message>
     <message>
         <source>Enter number</source>
-        <translation>Nömrə daxil edin</translation>
+        <translation>Pit in nummer</translation>
     </message>
     <message>
         <source>See all rates</source>
-        <translation>Bütün tariflərə baxın</translation>
+        <translation>See aw rates</translation>
     </message>
     <message>
         <source>Answer</source>
-        <translation>Cavab</translation>
+        <translation>Answer</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation>İmtina</translation>
+        <translation>Reject</translation>
     </message>
     <message>
         <source>Invite to group call</source>
-        <translation>Dəstə zənginə dəvət et</translation>
+        <translation>Inveete tae group caw</translation>
     </message>
     <message>
         <source>%1 calling</source>
-        <translation>%1 çağırır </translation>
+        <translation>%1 cawin</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Sayma</translation>
+        <translation>Deifie</translation>
     </message>
     <message>
         <source>Put Call on Hold</source>
-        <translation>Zəngi Gözlət</translation>
+        <translation>Pit Caw on Haud</translation>
     </message>
     <message>
         <source>Answering this call will put your active call on hold.</source>
         <comment>sCALLALERT_CALLEXISTS_NO_OR</comment>
-        <translation>Bu zəng, fəal zəngi gözlədəcək.</translation>
+        <translation>Answerin this caw will pit yer acteeve caw on haud.</translation>
     </message>
     <message>
         <source>End Call</source>
-        <translation>Zəngi Bitir</translation>
+        <translation>End Caw</translation>
     </message>
     <message>
         <source>Call the Group</source>
-        <translation>Dəstəyə Zəng</translation>
+        <translation>Caw the group</translation>
     </message>
     <message>
         <source>Start a group call</source>
-        <translation>Dəstə zənginə başla</translation>
+        <translation>Stairt a group caw</translation>
     </message>
     <message>
         <source>Group call topic (optional):</source>
-        <translation>Dəstə zənginə mövzu (vacib deyil):</translation>
+        <translation>Group caw topic (optional):</translation>
     </message>
     <message>
         <source>&amp;Select</source>
-        <translation>&amp;Seçin</translation>
+        <translation>&amp;Chyse</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Silin</translation>
+        <translation>&amp;Remuive</translation>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation>Əlaqələri seçin</translation>
+        <translation>Chyse contacts</translation>
     </message>
     <message>
         <source>People in this group</source>
-        <translation>Bu dəstədəki insanlar</translation>
+        <translation>Fowk in this group</translation>
     </message>
     <message>
         <source>Voice message sent</source>
-        <translation>Səsli ismarıc göndər</translation>
+        <translation>Vyce message sent</translation>
     </message>
 </context>
 <context>
     <name>Chats</name>
     <message>
         <source>Chats</source>
-        <translation>Söhbətlər</translation>
+        <translation>Bletherins</translation>
     </message>
     <message>
         <source>ChatToolbar</source>
-        <translation>Söhbət Alətləri Lövhasi</translation>
+        <translation>BletherinTuilbar</translation>
     </message>
     <message>
         <source>Chat window control toolbar</source>
-        <translation>Söhbət pəncərəsi idarəetmə alətləri</translation>
+        <translation>Bletherin windae guidal tuilbar</translation>
     </message>
     <message>
         <source>Unbookmark Chat</source>
-        <translation>Söhbət Əlfəcini Çıxar</translation>
+        <translation>Unbuikmerk Bletheri</translation>
     </message>
     <message>
         <source>Bookmark Chat</source>
-        <translation>Söhbət Əlfəcini</translation>
+        <translation>Beukmerk Bletherin</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Bağla</translation>
+        <translation>&amp;Elide</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Əlavə Edin</translation>
+        <translation>&amp;Add</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Sil</translation>
+        <translation>&amp;Remuive</translation>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation>Əlaqələri seçin</translation>
+        <translation>Chyse contacts</translation>
     </message>
     <message>
         <source>Adding users failed</source>
-        <translation>İstifadəçilər əlavəsi uğursuz</translation>
+        <translation>Addin uisers failt</translation>
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
-        <translation>Söhbətdə bəzi istifadəçilərin əlavəsi alınmadı.</translation>
+        <translation>Coudnae add some uiser til the bletherin</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Tap</translation>
+        <translation>Find</translation>
     </message>
     <message>
         <source>%1 / %2</source>
@@ -499,153 +499,154 @@
     </message>
     <message>
         <source>Click here to hide members of this chat</source>
-        <translation>Bu söhbət üzvlərini gizlətmək üçün bura basın</translation>
+        <translation>Click here tae hide members o this bletherin</translation>
     </message>
     <message>
         <source>Click here to show members of this chat</source>
-        <translation>Bu söhbət üzvlərini göstərmək üçün bura basın</translation>
+        <translation>Click here tae shaw members o this bletherin</translation>
     </message>
     <message>
         <source>Information</source>
         <comment>sF_INFORM_DEFAULT_CAPTION</comment>
-        <translation>Məlumat</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation>Söhbətdə &quot;%1&quot; tapılmır (yəqin siz ilk növbədə əvvəlki ismarıcların göstərilməsini istəyirsiz)</translation>
+        <translation>Cannae find &quot;%1&quot; in bletherin (ye micht want taw shaw aw previous messages first)</translation>
     </message>
     <message>
         <source>Chat with %1</source>
-        <translation>%1 ilə söhbət</translation>
+        <translation>Blether wi %1</translation>
     </message>
     <message>
         <source>%1 new members were added to the chat</source>
-        <translation>Söhbətə %1 yeni üzv əlavə edildi</translation>
+        <translation>%1 new members were added tae the bletherin</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation>Keçidi Aç</translation>
+        <translation>Appen Airtin</translation>
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation>Keçid İstinadının Surətini Çıxar</translation>
+        <translation>Copy Airtin Location</translation>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation>Mövzu Seçin</translation>
+        <translation>Set Topic</translation>
     </message>
     <message>
         <source>Set Picture</source>
-        <translation>Şəkil Seçin</translation>
+        <translation>Set Pictur</translation>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation>Şəkli Silin</translation>
+        <translation>Remuive Pictur</translation>
     </message>
     <message>
         <source>The selected image file could not be set as a chat picture.
 Please use a different image file!</source>
-        <translation>Seçilmiş şəkil söhbət təsviri kimi istifadə oluna bilməz. Fərqli bir şəkil istifadə edin!</translation>
+        <translation>The selectit eemage file couldnaw be set as a bletherin pictur.
+Please uise a different eemage file!</translation>
     </message>
     <message>
         <source>Loading Image failure!</source>
-        <translation>Rəsim yüklənməsi uğursuz!</translation>
+        <translation>Loadin eemage failure!</translation>
     </message>
     <message>
         <source>File could not be loaded.
  Please try a different a file and also make sure that file has read permission.</source>
-        <translation>Fayl yüklənə bilməz. Fərqli bir fayl istifadə edin, və əmin olun ki, faylın oxunması mümkündür.
-</translation>
+        <translation>File couldnae be loaded.
+ Please try a different file an mak siccar that file has read permeession an aw.</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Rəsimlər</translation>
+        <translation>Eemages</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Bütün Fayllar</translation>
+        <translation>Aw Files</translation>
     </message>
     <message>
         <source>Please select a file.</source>
-        <translation>Buyurun, fayl seçin</translation>
+        <translation>Please chyse a file.</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Hamısını Seç</translation>
+        <translation>Chyse Aw</translation>
     </message>
     <message>
         <source>Find Again</source>
-        <translation>Yenidən Tap</translation>
+        <translation>Find Again</translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>İsmarıca Düzəliş</translation>
+        <translation>Edit Message</translation>
     </message>
     <message>
         <source>Remove Message</source>
-        <translation>İsmarıcı Silmək</translation>
+        <translation>Remuive Message</translation>
     </message>
     <message>
         <source>Right click here to set/unset the chat picture.</source>
-        <translation>Söhbət təsvirini seçmək/sıfırlamaq üçün siçanın sağ düyməsiylə bura basın.</translation>
+        <translation>Richt click here taw set/unset the bletherin pictur.</translation>
     </message>
     <message>
         <source>Quote message</source>
-        <translation>İsmarıca mətindən çıxarış əlavə et</translation>
+        <translation>Quote message</translation>
     </message>
     <message>
         <source>%1 - Skype™ Chat</source>
-        <translation>%1 - Skype™ Söhbət</translation>
+        <translation>%1 - Skype™ Bletherin</translation>
     </message>
     <message>
         <source>Are you sure you want to call?</source>
-        <translation>Zəng etmək istəyinizə əminsiniz?</translation>
+        <translation>Are ye shuir ye want tae caw?</translation>
     </message>
     <message>
         <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
-        <translation>Siz bu söhbətin %1 iştirakçısına zəng etmək fikrindəsiniz. Siz zəng etmək istəyinizə əminsiniz?</translation>
+        <translation>Ye are aboot to mak a caw tae %1 members o this bletherin. Are ye sure you want tae caw?</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Seçilmişlər</translation>
+        <translation>Favourites</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation>Sonuncular</translation>
+        <translation>Recent</translation>
     </message>
     <message>
         <source>Call Phones</source>
-        <translation>Telefonlara Zəng</translation>
+        <translation>Caw Phones</translation>
     </message>
     <message>
         <source>Remove from Favorites</source>
-        <translation>Seçilmişlərdən Sil</translation>
+        <translation>Remuive frae Favourites</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation>Seçilmişlərə Əlavə Et</translation>
+        <translation>Add tae Favourites</translation>
     </message>
     <message>
         <source>Pop-in chat</source>
         <comment>This command will attach the separate chat window back to the combined/default view of chats. Opposite of Pop-out chat</comment>
-        <translation>Peydə olan söhbət</translation>
+        <translation>Pap-in bletherin</translation>
     </message>
     <message>
         <source>Pop-out chat</source>
         <comment>This will open the chosen chat in a separate window</comment>
-        <translation>Hərəkətli söhbət</translation>
+        <translation>Pap-oot bletherin</translation>
     </message>
     <message>
         <source>Hide chat</source>
-        <translation>Söhbəti gizlət</translation>
+        <translation>Hide bletherin</translation>
     </message>
     <message>
         <source>Add people</source>
-        <translation>Adamlar əlavə et</translation>
+        <translation>Add fowk</translation>
     </message>
     <message>
         <source>Chat options</source>
-        <translation>Söhbət tənzimləri</translation>
+        <translation>Bletherin options</translation>
     </message>
     <message>
         <source>SMS</source>
@@ -653,74 +654,74 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Remove from Bookmarks</source>
-        <translation>Əlfəcinlərdən Sil</translation>
+        <translation>Remuive frae Beukmerks</translation>
     </message>
     <message>
         <source>Add to Bookmarks</source>
-        <translation>Əlfəcinlərə Əlavə Et</translation>
+        <translation>Add tae Beukmerks</translation>
     </message>
     <message>
         <source>Call to %1, no answer.</source>
-        <translation>Zəng %1, cavabsız.</translation>
+        <translation>Caw tae %1, nae answer.</translation>
     </message>
     <message>
         <source>Missed call from %1.</source>
-        <translation>Cavabsız zəng: %1.</translation>
+        <translation>Misst caw frae %1.</translation>
     </message>
     <message>
         <source>Call to %1, busy.</source>
-        <translation>Zəng %1, məşğul.</translation>
+        <translation>Caw til %1, busy</translation>
     </message>
     <message>
         <source>Call from %1, busy.</source>
-        <translation>%1 tərəfindən zəng, məşğul.</translation>
+        <translation>Caw frae %1, busy.</translation>
     </message>
     <message>
         <source>Call to %1, duration %2.</source>
-        <translation>Zəng %1, müddəti %2.</translation>
+        <translation>Caw tae %1, duration %2.</translation>
     </message>
     <message>
         <source>Call from %1, duration %2.</source>
-        <translation>%1 tərəfindən zəng, müddəti %2.</translation>
+        <translation>Caw frae %1, duration %2.</translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation>Zəng Sifarişi</translation>
+        <translation>Place a Caw</translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n year(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation><numerusform>Son fəallıq %n il əvvəl</numerusform><numerusform>Son fəallıq %n il əvvəl</numerusform></translation>
+        <translation><numerusform>Last acteevity %n year(s) aby</numerusform><numerusform>Last acteevity %n year(s) aby</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n month(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation><numerusform>Son fəallığ %n ay əvvəl</numerusform><numerusform>Son fəallıq %n ay əvvəl</numerusform></translation>
+        <translation><numerusform>Last acteevity %n month(s) aby</numerusform><numerusform>Last acteevity %n month(s) aby</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n week(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation><numerusform>Son fəallığ %n həftə əvvə</numerusform><numerusform>Son fəallıq %n həftə əvvəl</numerusform></translation>
+        <translation><numerusform>Last acteevity %n week(s) aby</numerusform><numerusform>Last acteevity %n week(s) aby</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n day(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation><numerusform>g</numerusform><numerusform>Son fəallıq %n gün əvvəl</numerusform></translation>
+        <translation><numerusform>Last acteevity %n day(s) aby</numerusform><numerusform>Last acteevity %n day(s) aby</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n hour(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation><numerusform>Son fəallığ %n saat əvvəl</numerusform><numerusform>Son fəallıq %n saat əvvəl</numerusform></translation>
+        <translation><numerusform>Last acteevity %n oor(s) aby</numerusform><numerusform>Last acteevity %n oor(s) aby</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n minute(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation><numerusform>Son fəallığ %n dəqiqə əvvəl</numerusform><numerusform>Son fəallıq %n dəqiqə əvvəl</numerusform></translation>
+        <translation><numerusform>Last acteevity %n meenute(s) aby</numerusform><numerusform>Last acteevity %n meenute(s) aby</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Last activity %n second(s) ago</source>
         <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation><numerusform>Son fəallığ %n saniyə əvvəl</numerusform><numerusform>Son fəallıq %n saniyə əvvəl</numerusform></translation>
+        <translation><numerusform>Last acteevity %n seicont(s) aby</numerusform><numerusform>Last acteevity %n seicont(s) aby</numerusform></translation>
     </message>
     <message>
         <source>[%1]%2 - %3</source>
@@ -739,720 +740,722 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add participants and send files</source>
-        <translation>Iştirakçılar əlavə et və fayllar göndər</translation>
+        <translation>Add participants an send files</translation>
     </message>
     <message>
         <source>Show messages from</source>
-        <translation>İsmarıclarını göstər</translation>
+        <translation>Shaw messages frae</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation>Dünən</translation>
+        <translation>Yesterday</translation>
     </message>
     <message>
         <source>7 days</source>
-        <translation>7 gün</translation>
+        <translation>7 days</translation>
     </message>
     <message>
         <source>14 days</source>
-        <translation>14 gün</translation>
+        <translation>14 days</translation>
     </message>
     <message>
         <source>30 days</source>
-        <translation>30 gün</translation>
+        <translation>30 days</translation>
     </message>
     <message>
         <source>6 months</source>
-        <translation>6 ay</translation>
+        <translation>6 months</translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation>1 il</translation>
+        <translation>1 year</translation>
     </message>
     <message>
         <source>From beginning</source>
-        <translation>Əvvəldən</translation>
+        <translation>Frae Beginnin</translation>
     </message>
     <message>
         <source>From older chat</source>
-        <translation>Köhnə söhbətdən</translation>
+        <translation>Frae aulder bletherin</translation>
     </message>
     <message>
         <source>Insert emoticon</source>
-        <translation>Cizgili ifadə əlavə et</translation>
+        <translation>Pit in emoticon</translation>
     </message>
     <message>
         <source>Send a message</source>
         <comment>sCHAT_SEND_MESSAGE</comment>
-        <translation>İsmarıc göndər</translation>
+        <translation>Send a message</translation>
     </message>
     <message>
         <source>Find text in this chat</source>
-        <translation>Bu söhbətdə mətn tap</translation>
+        <translation>Find text in this bletherin</translation>
     </message>
     <message>
         <source>Send file...</source>
-        <translation>Fayl göndər...</translation>
+        <translation>Send file...</translation>
     </message>
     <message>
         <source>Add people...</source>
-        <translation>Insanlar əlavə et...</translation>
+        <translation>Add fowk...</translation>
     </message>
     <message>
         <source>Messaging unavailable.</source>
         <comment>sCHAT_MESSAGING_UNAVAILABLE</comment>
-        <translation>İsmarıc mübadiləsi mövcud deyil.</translation>
+        <translation>Messagin unavailable.</translation>
     </message>
     <message>
         <source>This chat has been updated to a new version. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Go to the new chat&lt;/a&gt;.</source>
         <comment>sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_INPUT</comment>
-        <translation>Bu söhbət növü yeniləndi. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Yeni söhbətə keçin&lt;/a&gt;.</translation>
+        <translation>This bletherin haes been updatit tae a new version. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Gae til the new blether&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Send SMS</source>
         <comment>sCHAT_SEND_SMS</comment>
-        <translation>SMS Göndər</translation>
+        <translation>Send SMS</translation>
     </message>
     <message>
         <source>Leave chat</source>
-        <translation>Söhbəti tərk et</translation>
+        <translation>Lea&apos; Bletherin</translation>
     </message>
     <message>
         <source>Loading image error</source>
-        <translation>Rəsim yükləməsində xəta</translation>
+        <translation>Loadin eemage error</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype.
 Please select a different image file.</source>
-        <translation>Seçilmiş rəsmi Skype üçün gərəkli vəziyyətə çevirmək mümkün olmadı. Zəhmət olmasa, başqa fayl seçin.</translation>
+        <translation>Failit tae chynge the selectit eemage tae a proper format for Skype.
+Please chysea different eemage file.</translation>
     </message>
     <message>
         <source>Image size error</source>
-        <translation>Rəsim ölçüsündə xəta</translation>
+        <translation>Eemage size error</translation>
     </message>
     <message>
         <source>The image file you have selected is too large.
 Please use a smaller size image.</source>
-        <translation>Seçdiyiniz şəkil faylı çox böyükdür. Xahiş edirik, kiçik ölçülü şəkil istifadə edin.</translation>
+        <translation>The eemage file ye hiv selectit is ower large.
+Please uise a smawer size eemage.</translation>
     </message>
     <message>
         <source>Skype internal error</source>
-        <translation>Daxili Skype xətası</translation>
+        <translation>Skype inner error</translation>
     </message>
     <message>
         <source>Leave this group</source>
-        <translation>Bu dəstəni tərk et</translation>
+        <translation>Leave this group</translation>
     </message>
     <message>
         <source>Are you sure you want to leave this group?</source>
-        <translation>Bu dəstəni tərk etmək istəyinizə əminsiniz?</translation>
+        <translation>Are ye shuir ye want tae leave this group?</translation>
     </message>
     <message>
         <source>%1 joined.</source>
-        <translation>%1 qoşuldu.</translation>
+        <translation>%1 jynt.</translation>
     </message>
     <message>
         <source>%1 added %2.</source>
-        <translation>%1, %2 əlavə edib.</translation>
+        <translation>%1 added %2.</translation>
     </message>
     <message>
         <source>%1 needs to update Skype to participate in this chat. Help by sending them to Skype.com/downloads. Learn more about new group chat.</source>
         <comment>sCHAT_LEGACY_MEMBER_ADDED_SINGLE</comment>
-        <translation>%1 bu söhbətdə iştirak etmək üçün, Skype-ı yeniləməlidirlər. Skype.com/downloads keçidini göndərərək onlara kömək edin. Yeni dəstə söhbəti haqqında daha çox öyrənin.</translation>
+        <translation>%1 needs tae update Skype tae jyne in this bletherin. Help bi sendin thaim til Skype.com/downloads. Learn mair aboot new group bletherin.</translation>
     </message>
     <message>
         <source>%1 need to update Skype to participate in this chat. Help by sending them to Skype.com/downloads. Learn more about new group chat.</source>
         <comment>sCHAT_LEGACY_MEMBER_ADDED_PLURAL</comment>
-        <translation>%1 bu söhbətdə iştirak etmək üçün, Skype-ı yeniləməlidir. Skype.com/downloads keçidini göndərərək ona kömək edin. Yeni dəstə söhbəti haqqında daha çox öyrənin.</translation>
+        <translation>%1 need tae update Skype tae jyne in this bletherin. Help bi sendin thaim til Skype.com/downloads. Learn mair aboot new group bletherin.</translation>
     </message>
     <message>
         <source>%1 can now participate in this chat.</source>
         <comment>sCHAT_LEGACY_MEMBER_UPGRADED</comment>
-        <translation>%1 indi bu söhbətdə iştirak edə bilər.</translation>
+        <translation>%1 can nou jyne in this bletherin.</translation>
     </message>
     <message>
         <source>%1 has left.</source>
-        <translation>%1 tərk etdi.</translation>
+        <translation>%1 haes left.</translation>
     </message>
     <message>
         <source>%1 created a group chat with %2.</source>
-        <translation>%1, %2 ilə dəstə söhbəti yaratdı.</translation>
+        <translation>%1 creatit a group bletheri wi %2.</translation>
     </message>
     <message>
         <source>%1 created a group chat.</source>
-        <translation>%1  dəstə söhbəti yaratdı.</translation>
+        <translation>%1 creatit a group bletherin.</translation>
     </message>
     <message>
         <source>%1 has changed the chat topic to &quot;%2&quot;.</source>
-        <translation>%1, &quot;%2&quot; üçün söhbət mövzusunu dəyişdi.</translation>
+        <translation>%1 haes chynged the bletherin topic tae &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>%1 has changed the chat picture.</source>
-        <translation>%1 söhbət şəklini dəyişdi.</translation>
+        <translation>%1 haes chynged the bletherin pictur.</translation>
     </message>
     <message>
         <source>%1 started a call.</source>
-        <translation>%1 zəngə başladı.</translation>
+        <translation>%1 stairtit a caw.</translation>
     </message>
     <message>
         <source>&lt;b&gt;It&apos;s %1&apos;s birthday today.&lt;/b&gt; Forgot the card? Make it up with a &lt;a href=&quot;%2&quot;&gt;Skype Gift Card&lt;/a&gt;.</source>
         <comment>sCHAT_HAS_BIRTHDAY</comment>
-        <translation>&lt;b&gt;%1 adlı şəxsin bugün ad günüdür.&lt;/b&gt; Kartı xatırmarsız? Bununla edirlər &lt;a href=&quot;%2&quot;&gt;Skype Hədiyyə Kartları&lt;/a&gt;.</translation>
+        <translation>&lt;b&gt;It&apos;s %1&apos;s birthday the day.&lt;/b&gt; Didnae mynd the caird? Mak it up wi a &lt;a href=&quot;%2&quot;&gt;Skype Gift Caird&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Group call, duration %1.</source>
-        <translation>Dəstə zəngi, müddəti %1.</translation>
+        <translation>Group caw, duration %1.</translation>
     </message>
     <message>
         <source>%1 blocked %2.</source>
-        <translation>%1 qadağan edilib %2.</translation>
+        <translation>%1 blocked %2.</translation>
     </message>
     <message>
         <source>%1 removed %2 from this chat.</source>
-        <translation>%1 bu söhbətdən %2 silindi.</translation>
+        <translation>%1 remuived %2 frae this bletherin.</translation>
     </message>
     <message>
         <source>%1 sent file %2.</source>
-        <translation>%1 fayl göndərdi %2.</translation>
+        <translation>%1 sent file %2.</translation>
     </message>
     <message>
         <source>%1 sent files %2.</source>
-        <translation>%1 fayllar göndərdi %2.</translation>
+        <translation>%1 sent files %2.</translation>
     </message>
     <message>
         <source>%1 sent you a voice message.</source>
-        <translation>%1 sizə səsli ismarıc göndərdi.</translation>
+        <translation>%1 sent ye a vyce message.</translation>
     </message>
     <message>
         <source>%1 sent a voice message.</source>
-        <translation>%1 səsli ismarıc göndərdi.</translation>
+        <translation>%1 sent a vyce message.</translation>
     </message>
     <message>
         <source>Cannot find more occurrences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation>Söhbətdə &quot;%1&quot; hadisədən artıq tapılmadı (yəqin, siz ilk növbədə bütün əvvəlki ismarıcları görmək istəyirsiniz)</translation>
+        <translation>Cannae find mir occurrences o &quot;%1&quot; in bletherin (ye micht want tae shaw aw previous messages first)</translation>
     </message>
     <message>
         <source>%1 and %2 are typing...</source>
-        <translation>%1 və %2 üçün yazın...</translation>
+        <translation>%1 an %2 are teepin...</translation>
     </message>
     <message>
         <source>%1 is typing...</source>
-        <translation>%1 yazır...</translation>
+        <translation>%1 is teepin...</translation>
     </message>
     <message>
         <source>Edited by %1 at %2</source>
-        <translation>%1 düzəliş etdi - %2</translation>
+        <translation>Editit bi %1 at %2</translation>
     </message>
     <message>
         <source>Edited at %1</source>
-        <translation>%1 düzəliş etdi</translation>
+        <translation>Edited at %1</translation>
     </message>
     <message>
         <source>Message removed by you.</source>
-        <translation>Ismarıcı siz sildiniz.</translation>
+        <translation>Message remuived bi ye.</translation>
     </message>
     <message>
         <source>Message removed by %1.</source>
-        <translation>İsmarıcı %1 sildi.</translation>
+        <translation>Message remuived bi %1.</translation>
     </message>
     <message>
         <source>Message removed.</source>
-        <translation>İsmarıc silindi.</translation>
+        <translation>Message remuived.</translation>
     </message>
     <message>
         <source>Not delivered yet.</source>
-        <translation>Hələ çatdırılmayıb.</translation>
+        <translation>No delivered yet.</translation>
     </message>
     <message>
         <source>No recent messages.</source>
-        <translation>Sonuncu ismarıclar yoxdur.</translation>
+        <translation>Nae recent messages.</translation>
     </message>
     <message>
         <source>Copy Selection</source>
-        <translation>Seçimin Surətini Çıxar</translation>
+        <translation>Copy Walin</translation>
     </message>
     <message>
         <source>Enter a topic for the chat</source>
         <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation>Söhbət üçün mövzu daxil edin</translation>
+        <translation>Pit in a topic for the bletherin</translation>
     </message>
     <message>
         <source>Send IM</source>
-        <translation>İsmarıc Göndər</translation>
+        <translation>Send IM</translation>
     </message>
     <message>
         <source>%1 joined</source>
-        <translation>%1 qoşuldu</translation>
+        <translation>%1 jynt</translation>
     </message>
     <message>
         <source>%1 has left</source>
-        <translation>%1 tərk etdi</translation>
+        <translation>%1 haes left.</translation>
     </message>
     <message>
         <source>%1 has changed the chat topic to %2</source>
-        <translation>%1 söhbət mövzusunu dəyişdi - %2</translation>
+        <translation>%1 haes chynged the bletherin topic tae %2.</translation>
     </message>
     <message>
         <source>This chat has been updated to a new version. You need to get the latest Skype to participate in it.</source>
-        <translation>Bu söhbətin yeni növü qurulub. İştirak etmək üçün, sizə son Skype lazımdır.</translation>
+        <translation>This bletherin haes been updatit tae a new version. Ye need tae git the latest Skype tae participate in it.</translation>
     </message>
     <message>
         <source>sent file</source>
-        <translation>fayl göndər</translation>
+        <translation>sent file</translation>
     </message>
     <message>
         <source>sent files</source>
-        <translation>fayl göndər</translation>
+        <translation>sent files</translation>
     </message>
     <message>
         <source>%1 user(s)</source>
-        <translation>%1 istifadəçi</translation>
+        <translation>%1 uiser(s)</translation>
     </message>
     <message>
         <source>Add to group call</source>
-        <translation>Dəstə zənginə əlavə et</translation>
+        <translation>Add tae group caw</translation>
     </message>
     <message>
         <source>&amp;Select</source>
-        <translation>&amp;Seçin</translation>
+        <translation>&amp;Chyse</translation>
     </message>
     <message>
         <source>People in this group</source>
-        <translation>Bu dəstədəki insanlar</translation>
+        <translation>Fowk in this group</translation>
     </message>
     <message>
         <source>Call group</source>
-        <translation>Dəstə zəngi</translation>
+        <translation>Caw group</translation>
     </message>
     <message>
         <source>Show group chat</source>
         <comment>sCHAT_SPAWNED_CONF_LINK</comment>
-        <translation>Dəstə söhbətini göstər</translation>
+        <translation>Shaw group bletherin</translation>
     </message>
 </context>
 <context>
     <name>Confirmation</name>
     <message>
         <source>Accept</source>
-        <translation>Qəbul</translation>
+        <translation>Accept</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation>İmtina</translation>
+        <translation>Refuise</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Bağla</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Bəli</translation>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Xeyr</translation>
+        <translation>Na</translation>
     </message>
     <message>
         <source>Remember this selection</source>
-        <translation>Bu seçimi yadda saxla</translation>
+        <translation>Mynd this walin</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>Əminsiniz?</translation>
+        <translation>Are ye shuir?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ləğv et</translation>
+        <translation>Elide</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Yenilə</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Təmizlə</translation>
+        <translation>Clear</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Tətbiq</translation>
+        <translation>Applee</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Sıfırla</translation>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OLDU</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Geri</translation>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Try Again</source>
-        <translation>Yenidən Cəhd Edin</translation>
+        <translation>Ettle Again</translation>
     </message>
     <message>
         <source>Do not ask me again</source>
-        <translation>Birdə soruşma</translation>
+        <translation>Dinnae speir me again</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation>Şifrəni Dəyiş</translation>
+        <translation>Chynge Trystwird</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Yarat</translation>
+        <translation>Creaut</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Yenidən yüklə</translation>
+        <translation>Reload</translation>
     </message>
     <message>
         <source>I agree</source>
-        <translation>Razıyam</translation>
+        <translation>A gree</translation>
     </message>
     <message>
         <source>I do not agree</source>
-        <translation>Razı deyiləm</translation>
+        <translation>A dinnae gree</translation>
     </message>
     <message>
         <source>You can also report abuse from this user. &lt;a href=&quot;%1&quot;&gt;Learn more&lt;/a&gt;</source>
-        <translation>Həmçinin Skype-a bu istifadəçi tərəfindən qayda pozuntusu edildiyi barədə bildirə bilərsiniz. &lt;a href=&quot;%1&quot;&gt;Ətraflı&lt;/a&gt;</translation>
+        <translation>Ye can report abuise frae this uiser an aw. &lt;a href=&quot;%1&quot;&gt;Lear mair&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Report abuse</source>
-        <translation>Şikayət et</translation>
+        <translation>Report abuise</translation>
     </message>
 </context>
 <context>
     <name>Contact Authorisation</name>
     <message>
         <source>%1 people</source>
-        <translation>%1 adam</translation>
+        <translation>%1 fowk</translation>
     </message>
     <message>
         <source>Type a short message to introduce yourself to %1</source>
-        <translation>%1 - Özünüzü təqdim etmək üçün qısa ismarıc yazın</translation>
+        <translation>Teep a short message tae introduce yersel tae %1</translation>
     </message>
     <message>
         <source>Please let me see your contact details.</source>
-        <translation>Zəhmət olmasa, mənə əlaqə vasitələrinizi bildirin.</translation>
+        <translation>Please lat me see yer contact details.</translation>
     </message>
     <message>
         <source>Contact request from %1</source>
-        <translation>%1 üçün əlaqə sorğusu</translation>
+        <translation>Contact request frae %1</translation>
     </message>
     <message>
         <source>Ignore the contact request</source>
-        <translation>Əlaqə sorğusundan imtina</translation>
+        <translation>Deifie the contact request</translation>
     </message>
     <message>
         <source>Send Contact Request</source>
-        <translation>Əlaqə Sorğusu Göndər</translation>
+        <translation>Send Contact Request</translation>
     </message>
     <message>
         <source>Hide Picture</source>
-        <translation>Şəkli Gizlət</translation>
+        <translation>Hide Pictur</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation>Şəkli Göstər</translation>
+        <translation>Shaw Pictur</translation>
     </message>
     <message>
         <source>Accept and Add to Contacts</source>
-        <translation>Qəbul Et və Əlaqələrə Əlavə Et</translation>
+        <translation>Accept an Add tae Contacts</translation>
     </message>
     <message>
         <source>Accept contact request and add contact to your contact list</source>
-        <translation>Əlaqə vasitələri sorğusunu qəbul et və əlaqəni əlaqə siyahısına əlavə et</translation>
+        <translation>Accept contact request an add contact tae yer contact list</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation>İmtina</translation>
+        <translation>Refuise</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Qəbul</translation>
+        <translation>Accept</translation>
     </message>
     <message>
         <source>Hi %1, I&apos;d like to add you as a contact. %2</source>
-        <translation>Salam %1, Mən sizi əlaqəmə əlavə etmək istəyirəm. %2</translation>
+        <translation>Awricht %1, A&apos;d like tae add ye as a contact. %2</translation>
     </message>
     <message>
         <source>Send %1 a contact request</source>
-        <translation>Əlaqə sorğusu göndər: %1</translation>
+        <translation>Send %1 a contact request</translation>
     </message>
     <message>
         <source>Call %1</source>
-        <translation>Zəng et: %1</translation>
+        <translation>Caw %1</translation>
     </message>
     <message>
         <source>Start a chat with %1</source>
-        <translation>%1 ilə söhbətə başla</translation>
+        <translation>Stairt a bletherin wi %1</translation>
     </message>
     <message>
         <source>View the profile of %1</source>
-        <translation>Şəxsi səhifəsinə bax: %1</translation>
+        <translation>View the profile o %1</translation>
     </message>
 </context>
 <context>
     <name>Contact Information</name>
     <message>
         <source>This is the user&apos;s current mood message. </source>
-        <translation>Bu istifadəçinin cari əhval ismarıcıdır.</translation>
+        <translation>This is the uiser&apos;s current muid message. </translation>
     </message>
     <message>
         <source>Call Contact</source>
-        <translation>Əlaqəyə Zəng</translation>
+        <translation>Caw Contact</translation>
     </message>
     <message>
         <source>Click this button to place a call to this contact.</source>
-        <translation>Bu əlaqəyə zəng üçün bu düyməni basın.</translation>
+        <translation>Click this button tae place a caw tae this contact.</translation>
     </message>
     <message>
         <source>Call Button</source>
-        <translation>Zəng Düyməsi</translation>
+        <translation>Caw Button</translation>
     </message>
     <message>
         <source>Chat to Contact</source>
-        <translation>Söhbət Əlaqəsi</translation>
+        <translation>Blether wi Contact</translation>
     </message>
     <message>
         <source>Click this button to start a chat with this contact.</source>
-        <translation>Bu əlaqə ilə söhbətə başlamaq üçün bu düyməni basın.</translation>
+        <translation>Click this button tae stairt a bletherin wi this contact.</translation>
     </message>
     <message>
         <source>Chat Button</source>
-        <translation>Söhbət Düyməsi</translation>
+        <translation>Bletherin Button</translation>
     </message>
     <message>
         <source>View Profile</source>
-        <translation>Şəxsi Səhifəsinə Bax</translation>
+        <translation>View Profile</translation>
     </message>
     <message>
         <source>This contact is configured for video conferencing.</source>
-        <translation>Bu əlaqə görüntülü toplantı üçün təyin edilib.</translation>
+        <translation>This contact is configured for video colloguin.</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Şəbəkədə</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Yerində Deyil</translation>
+        <translation>Awa</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation>Narahat Etməyin</translation>
+        <translation>Dinnae Fash</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Görünməz</translation>
+        <translation>Inveesible</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Şəbəkədə Deyil</translation>
+        <translation>Affline</translation>
     </message>
     <message>
         <source>Edit Profile</source>
-        <translation>Şəxsi Səhifəyə Düzəliş</translation>
+        <translation>Edit Profile</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
-        <translation>Məxfi</translation>
+        <translation>Undisclosed Nummer</translation>
     </message>
     <message>
         <source>Edit Contact</source>
-        <translation>Əlaqəyə Düzəliş</translation>
+        <translation>Edit Contact</translation>
     </message>
     <message>
         <source>This contact is using a mobile device that does not support chats.</source>
-        <translation>Bu əlaqə sohbətləri dəstəkləməyən mobil qurğu istifadə edir.</translation>
+        <translation>This contact is uisin a mobile device that daesnae support bletherins.</translation>
     </message>
     <message>
         <source>Profile for %1</source>
-        <translation>Şəxsi Səhifə: %1</translation>
+        <translation>Profile for %1</translation>
     </message>
     <message>
         <source>Contact Information</source>
-        <translation>Əlaqə Məlumatları</translation>
+        <translation>Contact Information</translation>
     </message>
     <message>
         <source>Skype Name:</source>
-        <translation>Skype Adı:</translation>
+        <translation>Skype Name:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation>Tam Ad:</translation>
+        <translation>Fou Name:</translation>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation>E-poçt:</translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Home Phone:</source>
-        <translation>Ev Telefonu:</translation>
+        <translation>Hame Phone:</translation>
     </message>
     <message>
         <source>Office Phone:</source>
-        <translation>İş Telefonu:</translation>
+        <translation>Office Phone:</translation>
     </message>
     <message>
         <source>Mobile Phone:</source>
-        <translation>Mobil Telefon:</translation>
+        <translation>Mobile Phone:</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation>Şəxsi Məlumat</translation>
+        <translation>Personal Information</translation>
     </message>
     <message>
         <source>Contacts:</source>
-        <translation>Əlaqələr:</translation>
+        <translation>Contacts:</translation>
     </message>
     <message>
         <source>Local Time:</source>
-        <translation>Saat Qurşağı:</translation>
+        <translation>Local Time:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation>Doğum Tarixi:</translation>
+        <translation>Birthday:</translation>
     </message>
     <message>
         <source>Age:</source>
-        <translation>Yaş:</translation>
+        <translation>Age:</translation>
     </message>
     <message>
         <source>Gender:</source>
-        <translation>Cins:</translation>
+        <translation>Gender:</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation>Dil:</translation>
+        <translation>Leid:</translation>
     </message>
     <message>
         <source>Country/Region:</source>
-        <translation>Ölkə/Bölgə:</translation>
+        <translation>Kintra/Region:</translation>
     </message>
     <message>
         <source>State/Province:</source>
-        <translation>Əyalət/Vilayət:</translation>
+        <translation>State/Province:</translation>
     </message>
     <message>
         <source>City:</source>
-        <translation>Şəhər:</translation>
+        <translation>Ceety:</translation>
     </message>
     <message>
         <source>Homepage:</source>
-        <translation>Veb Səhifə:</translation>
+        <translation>Hamepage:</translation>
     </message>
     <message>
         <source>Phone Number:</source>
-        <translation>Telefon Nömrəsi:</translation>
+        <translation>Phone Nummer:</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation>Kişi</translation>
+        <translation>Male</translation>
     </message>
     <message>
         <source>Female</source>
-        <translation>Qadın</translation>
+        <translation>Female</translation>
     </message>
     <message>
         <source>Change Avatar</source>
-        <translation>Təsviri Dəyiş</translation>
+        <translation>Chynge Avatar</translation>
     </message>
     <message>
         <source>Remove Avatar</source>
-        <translation>Təsviri Sil</translation>
+        <translation>Remuive Avatar</translation>
     </message>
     <message>
         <source>Click here to read the privacy policy</source>
-        <translation>Məxfilik siyasətini oxumaq üçün bura basın</translation>
+        <translation>Click here tae read the privacy policy</translation>
     </message>
     <message>
         <source>Clear Birthday</source>
-        <translation>Doğum Tarixini Təmizlə</translation>
+        <translation>Clear Birthday</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Yenidən Adlandır</translation>
+        <translation>Rename</translation>
     </message>
     <message>
         <source>Type a new name or number for %1</source>
-        <translation>%1 üçün yeni bir ad və ya nömrə daxil edin</translation>
+        <translation>Teep a new name or nummer for %1</translation>
     </message>
     <message>
         <source>Clear Name</source>
-        <translation>Adı Təmizlə</translation>
+        <translation>Clear Name</translation>
     </message>
     <message>
         <source>Rename %1</source>
-        <translation>Yenidən Adlandır %1</translation>
+        <translation>Rename %1</translation>
     </message>
     <message>
         <source>Type a new display name for %1</source>
-        <translation>%1 üçün yeni bir görünüş adı daxil edin</translation>
+        <translation>Teep a new kythin name for %1</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Ad</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Gender</source>
-        <translation>Cins</translation>
+        <translation>Gender</translation>
     </message>
     <message>
         <source>City</source>
-        <translation>Şəhər</translation>
+        <translation>Ceety</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Dil</translation>
+        <translation>Leid</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation>Bağlanırıq</translation>
+        <translation>Conenctin</translation>
     </message>
     <message>
         <source>Blocked</source>
-        <translation>Qadağan edilmişlər</translation>
+        <translation>Blockit</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Naməlum</translation>
+        <translation>Unkent</translation>
     </message>
     <message>
         <source>Undisclosed number</source>
-        <translation>Məxfi</translation>
+        <translation>Undisclosed Nummer</translation>
     </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
-        <translation><numerusform>%n əlaqə</numerusform><numerusform>%n əlaqə</numerusform></translation>
+        <translation><numerusform>%n contact(s)</numerusform><numerusform>%n contact(s)</numerusform></translation>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
-        <translation>Bu əlaqənin bu gün ad günüdür.</translation>
+        <translation>This contact haes a birthday the day.</translation>
     </message>
     <message>
         <source>This contact is currently using a mobile device.</source>
-        <translation>Bu əlaqə hazırda mobil qurğu istifadə edir.</translation>
+        <translation>This contact is uising a mobile device the nou.</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation>Adsızlar</translation>
+        <translation>Unnamed</translation>
     </message>
     <message>
         <source>Contact Options</source>
-        <translation>Əlaqə Nizamları</translation>
+        <translation>Contact Options</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation>Telefon nömrəsi</translation>
+        <translation>Phone nummer</translation>
     </message>
     <message>
         <source>%1 (%2) - %3 since %4</source>
-        <translation>%1 (%2) - %3, %4 bəri</translation>
+        <translation>%1 (%2) - %3 syne %4</translation>
     </message>
     <message>
         <source>&lt;br&gt;
@@ -1460,2897 +1463,2898 @@ Please use a smaller size image.</source>
 &lt;u&gt;%1 is typing a message&lt;/u&gt;</source>
         <translation>&lt;br&gt;
 &lt;br&gt;
-&lt;u&gt;%1 ismarıc yazır&lt;/u&gt;</translation>
+&lt;u&gt;%1 is teepin a message&lt;/u&gt;</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Yenidən Adlandır...</translation>
+        <translation>Rename...</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
-        <translation>Əlaqələrdən Sil</translation>
+        <translation>Remuive frae Contacts</translation>
     </message>
     <message>
         <source>Are you sure you wish to unblock %1?</source>
-        <translation>%1 adlı şəxsi qadağdan çıxarmaq istəyənizə əminsiniz?</translation>
+        <translation>Are ye shuir ye wiss tae unblock %1?</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected group?</source>
-        <translation>Seçilmiş dəstəni silmək istəyinizə əminsiniz?</translation>
+        <translation>Are ye shuir ye wiss tae delete the selectit group?</translation>
     </message>
     <message>
         <source>Click this button to send SMS.</source>
-        <translation>SMS göndərmək üçün bu düyməni basın.</translation>
+        <translation>Click this button tae send SMS.</translation>
     </message>
     <message>
         <source>SMS Button</source>
-        <translation>SMS Düyməsi</translation>
+        <translation>SMS Button</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OLDU</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Create Group</source>
-        <translation>Dəstə Yarat</translation>
+        <translation>Creaut Group</translation>
     </message>
     <message>
         <source>Edit Phone Number</source>
-        <translation>Telefon Nömrəsinə Düzəliş</translation>
+        <translation>Edit Phone Nummer</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Saxla</translation>
+        <translation>Hain</translation>
     </message>
     <message>
         <source>Labels for %1</source>
-        <translation>%1 üçün qeydlər</translation>
+        <translation>Labels for %1</translation>
     </message>
     <message>
         <source>Enter a comma separated list of labels for %1</source>
-        <translation>%1 üçün qedlər siyahısını vergüllə ayırıb daxil edin</translation>
+        <translation>Pit in a comma separatit list o labels for %1</translation>
     </message>
     <message>
         <source>Edit Labels...</source>
-        <translation>Qeydlərə Düzəliş...</translation>
+        <translation>Edit Labels...</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Gizlət</translation>
+        <translation>Hide</translation>
     </message>
     <message>
         <source>Add more email addresses</source>
-        <translation>Daha çox e-poçt ünvanları əlavə et</translation>
+        <translation>Add mair email addresses</translation>
     </message>
     <message>
         <source>Offline with voice messaging</source>
-        <translation>Səsli ismarıc mübadiləsi mövcud deyil</translation>
+        <translation>Affline wi vyce messagin</translation>
     </message>
     <message>
         <source>Offline with call forwarding</source>
-        <translation>Zəng yönəldilmə mövcud deyil</translation>
+        <translation>Affline wi caw forritin</translation>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
-        <translation>Şəbəkədə (mobil qurğuda)</translation>
+        <translation>Online (on a mobile device)</translation>
     </message>
     <message>
         <source>Away (on a mobile device)</source>
-        <translation>Yerində Deyil (mobil qurğuda)</translation>
+        <translation>Awa (on a mobile device)</translation>
     </message>
     <message>
         <source>Do Not Disturb (on a mobile device)</source>
-        <translation>Narahat Etməyin (mobil qurğuda)</translation>
+        <translation>Dinnae Fash (on a mobile device)</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Düzəliş</translation>
+        <translation>Edit</translation>
     </message>
     <message>
         <source>Add phone number</source>
-        <translation>Telefon nömrəsi əlavə et</translation>
+        <translation>Add phone numer</translation>
     </message>
     <message>
         <source>Other Phone:</source>
-        <translation>Digər Telefon:</translation>
+        <translation>Ither Phone:</translation>
     </message>
     <message>
         <source>Skype Test Call</source>
-        <translation>Skype Sınaq Zəngi</translation>
+        <translation>Skype Test Caw</translation>
     </message>
     <message>
         <source>Last seen: %1</source>
-        <translation>Son göründüyü: %1</translation>
+        <translation>Last seen: %1</translation>
     </message>
     <message>
         <source>Contact Lists</source>
-        <translation>Əlaqə Siyahıları</translation>
+        <translation>Contact Lists</translation>
     </message>
     <message>
         <source>Add to Contacts</source>
-        <translation>Əlaqələrə Əlavə Et</translation>
+        <translation>Add tae Contacts</translation>
     </message>
     <message>
         <source>Unblock This Person...</source>
-        <translation>Bu Şəxsi Qadağadan Çıxar...</translation>
+        <translation>Unblock this body...</translation>
     </message>
     <message>
         <source>Block This Person...</source>
-        <translation>Bu Şəxsi Qadağan Et...</translation>
+        <translation>Block This Body...</translation>
     </message>
     <message>
         <source>Remove %1 from Contacts?</source>
-        <translation>%1 Əlaqələrdən Sil?</translation>
+        <translation>Remuive %s frae Contacts?</translation>
     </message>
     <message>
         <source>This person has not shared their details with you</source>
-        <translation>Bu şəxs sizə əlaqə vasitələrini verməyib</translation>
+        <translation>This body haesnae shared thair details wi ye</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Əlaqələr</translation>
+        <translation>Contacts</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Sil</translation>
+        <translation>Remuive</translation>
     </message>
     <message numerus="yes">
         <source>Remove %n selected contact(s)?</source>
         <comment>Confirmation dialog's main text when removing contacts</comment>
-        <translation><numerusform>%n seçilmiş əlaqəni sil?</numerusform><numerusform>%n seçilmiş əlaqəni sil?</numerusform></translation>
+        <translation><numerusform>Remuive %n selectit contact(s)?</numerusform><numerusform>Remuive %n selectit contact(s)?</numerusform></translation>
     </message>
     <message>
         <source>View %1 profile</source>
-        <translation>%1 adlı istifadəçinin şəxsi səhifəsinə bax </translation>
+        <translation>View %1 profile</translation>
     </message>
     <message>
         <source>Block this person</source>
         <comment>This is a window title</comment>
-        <translation>Bu şəxsi qadağan et</translation>
+        <translation>Block this body</translation>
     </message>
     <message>
         <source>Are you sure you want to block %1?</source>
-        <translation>%1 adlı şəxsi qadağan etmək istəyinizə əminsiniz?</translation>
+        <translation>Are ye shuit ye want tae block %1?</translation>
     </message>
     <message>
         <source>Show more options for this contact</source>
-        <translation>Bu əlaqə üçün daha çox imkan göstər</translation>
+        <translation>Shaw mair options for this contact</translation>
     </message>
     <message>
         <source>Write SMS</source>
-        <translation>SMS yaz</translation>
+        <translation>Scrieve SMS</translation>
     </message>
     <message>
         <source>Enter name for new list</source>
-        <translation>Yeni siyahı üçün ad daxil edin</translation>
+        <translation>Pit in name for new list</translation>
     </message>
     <message>
         <source>Last seen:</source>
-        <translation>Son göründüyü:</translation>
+        <translation>Last seen:</translation>
     </message>
     <message>
         <source>Change picture</source>
-        <translation>Şəkli dəyiş</translation>
+        <translation>Chynge pictur</translation>
     </message>
     <message>
         <source>-- Not specified --</source>
-        <translation>-- Qeyd edilməyib --</translation>
+        <translation>-- No condescend on --</translation>
     </message>
     <message>
         <source>Unblock this person</source>
         <comment>This is a window title</comment>
-        <translation>Bu şəxsi qadağadan çıxar</translation>
+        <translation>Unblock this body</translation>
     </message>
     <message>
         <source>Choose profile picture</source>
-        <translation>Şəxsi səhifə şəkli seçin</translation>
+        <translation>Chyse profile pictur</translation>
     </message>
 </context>
 <context>
     <name>Contact Search</name>
     <message>
         <source>Add Contact</source>
-        <translation>Əlaqə Əlavə Et</translation>
+        <translation>Add Contact</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Axtarış</translation>
+        <translation>Rake</translation>
     </message>
     <message>
         <source>Country/Region</source>
-        <translation>Ölkə/Bölgə</translation>
+        <translation>Kintra/Region</translation>
     </message>
     <message>
         <source>Phone Number</source>
-        <translation>Telefon Nömrəsi</translation>
+        <translation>Phone Nummer</translation>
     </message>
     <message>
         <source>All Countries/Regions</source>
-        <translation>Bütün Ölkələr/Bölgələr</translation>
+        <translation>Aw Kintras/Regions</translation>
     </message>
     <message>
         <source>Age Range</source>
-        <translation>Yaş Həddi</translation>
+        <translation>Age Reenge</translation>
     </message>
     <message>
         <source>All Ages</source>
-        <translation>Bütün Yaşlar</translation>
+        <translation>Aw Ages</translation>
     </message>
     <message>
         <source>State/Province</source>
-        <translation>Əyalət/Vilayət</translation>
+        <translation>State/Province</translation>
     </message>
     <message>
         <source>Do not specify</source>
-        <translation>Məlum deyil</translation>
+        <translation>Dinnae condescend on</translation>
     </message>
     <message>
         <source>All Languages</source>
-        <translation>Bütün Dillər</translation>
+        <translation>Aw Leids</translation>
     </message>
     <message>
         <source>Full Name</source>
         <comment>Result Table Header: Full Name</comment>
-        <translation>Tam Adı</translation>
+        <translation>For Name</translation>
     </message>
     <message>
         <source>Skype Name</source>
         <comment>Result Table Header: Skype Name</comment>
-        <translation>Skype Adı</translation>
+        <translation>Skype Name</translation>
     </message>
     <message>
         <source>Location</source>
         <comment>Result Table Header: Location</comment>
-        <translation>Yerləşmə</translation>
+        <translation>Location</translation>
     </message>
     <message>
         <source>Add a Skype Contact</source>
-        <translation>Skype Əlaqəsi Əlavə Et</translation>
+        <translation>Add a Skype Contact</translation>
     </message>
     <message>
         <source>Search for Skype Contacts</source>
-        <translation>Skype Əlaqələri Axtar</translation>
+        <translation>Rake ootcome for Skype Contacts</translation>
     </message>
     <message>
         <source>New Search</source>
-        <translation>Yeni Axtarış</translation>
+        <translation>New Rake</translation>
     </message>
     <message>
         <source>Or add a Skype contact</source>
-        <translation>Və ya Skype əlaqəsi əlavə et</translation>
+        <translation>Or add a Skype contact</translation>
     </message>
     <message>
         <source>Add Number</source>
-        <translation>Nömrə Əlavə Et</translation>
+        <translation>Add Nummer</translation>
     </message>
     <message>
         <source>Cancel Search</source>
-        <translation>Axtarışı Ləğv Et</translation>
+        <translation>Elide Rakin</translation>
     </message>
     <message>
         <source>Search for Skype users</source>
-        <translation>Skype istifadəçiləri axtar</translation>
+        <translation>Rake ootcome for Skype users</translation>
     </message>
     <message>
         <source>Add a Skype contact using their Skype Name</source>
-        <translation>Skype Adını istifadə edərək Skype əlaqəsi əlavə et</translation>
+        <translation>Add a Skype contact uisin thair Skype Name</translation>
     </message>
     <message>
         <source>Add a phone number as a contact</source>
-        <translation>Bir əlaqə kimi telefon nömrəsi əlavə edin</translation>
+        <translation>Add a phone nummer as a contact</translation>
     </message>
     <message>
         <source>Search the Skype directory for old and new friends. If you know their Skype Name, full name or e-mail address, enter it into the box below.</source>
-        <translation>Köhnə və yeni dostları Skype siyahı qovluğunda axtar. Əgər onların Skype Adı, tam adı və ya e-poçt ünvanını bilirsinizsə, aşağıdakı sahəyə daxil edin.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Or add a phone number as a contact</source>
-        <translation>Və ya bir əlaqə kimi telefon nömrəsi əlavə edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter the Skype Name of the person you wish to add into the box below.</source>
-        <translation>Əlavə etmək istədiyiniz şəxsin Skype Adını aşağıdakı sahəyə daxil edin.</translation>
+        <translation>Pit in the Skype name o the body ye wiss tae add intil the box ablow.</translation>
     </message>
     <message>
         <source>Add a Phone Number</source>
-        <translation>Telefon Nömrəsi Əlavə Edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The phone number %1 you entered is already in your contacts</source>
-        <translation>%1 nömrəsini artıq əlaqələrinizə daxil etmisiniz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation>%1 artıq əlaqələrinizdədir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search Again</source>
-        <translation>Yenidən Axtar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search by name, Skype name or email</source>
-        <translation>Adı, Skype adı və ya e-poçt ilə axtar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>Adı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Name</source>
-        <translation>Skype Adı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No results for %1</source>
-        <translation>%1 üçün nəticə yoxdur</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Controls</name>
     <message>
         <source>Ctrl+O</source>
-        <translation>Ctrl+O</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation>Ctrl+Q</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Dates and Time</name>
     <message>
         <source>Tomorrow</source>
-        <translation>Sabah</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Today</source>
-        <translation>Bugün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation>Dünən</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>EULA</name>
     <message>
         <source>Language</source>
-        <translation>Dil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Terms of Use</source>
-        <translation>Skype İstifadə Şərtləri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Terms of Use</source>
-        <translation>İstifadə Şərtləri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Before we start, you must agree to the &lt;a href=&quot;%1&quot;&gt;Skype Terms of Use&lt;/a&gt; and &lt;a href=&quot;%2&quot;&gt;Skype Privacy Policy&lt;/a&gt;.</source>
-        <translation>Biz başlamzdan əvvəl, siz razı olmalısınız &lt;a href=&quot;%1&quot;&gt;Skype İstifadə Şərtləri&lt;/a&gt; və &lt;a href=&quot;%2&quot;&gt;Skype Məxfilik Siyasəti&lt;/a&gt;.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Events</name>
     <message>
         <source>Show History</source>
-        <translation>Tarixçəni Göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation>Bütün Baxılmışları İşarələ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Undisclosed Number</source>
-        <translation>Qeyri Müəyyən  Nömrə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Birthday for %1</source>
-        <translation>%1 ad günüdür</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Event</source>
-        <translation>Hadisəni Sil </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Selected Events</source>
-        <translation>Bütün Seçilmiş Hadisələri Sil </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown event</source>
-        <translation>Naməlum hadisə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Event History</source>
-        <translation>Hadisə Tarixçəsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Events</source>
-        <translation>Yeni Hadisələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Calls</source>
-        <translation>Zənglər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chats</source>
-        <translation>Söhbətlər</translation>
+        <translation>Bletherins</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation>Fayl Köçürmələri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS</source>
-        <translation>SMS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Birthdays</source>
-        <translation>Ad Günləri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has appeared online</source>
-        <translation>%1 şəbəkədə göründü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has gone offline</source>
-        <translation>%1 şəbəkədən getdi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has been added to your contact list</source>
-        <translation>%1 əlaqə siyahınıza əlavə edildi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has been deleted from your contact list</source>
-        <translation>%1 əlaqə siyahınızdan silindi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has a birthday</source>
-        <translation>%1 ad günüdür</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1, %2 turned %3</source>
-        <translation>%1, %2 keçdi %3</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1, %2 turns %3</source>
-        <translation>%1, %2 keçib %3</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Test Event</source>
-        <translation>Hadisə Sınağı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Example Chat Message</source>
-        <translation>Söhbət İsmarıcı Nümunəsi</translation>
+        <translation>Ensaumple Bletherin Message</translation>
     </message>
     <message>
         <source>This is an example of a chat event popup.</source>
-        <translation>Bu peydə olan söhbət hadisəsi nümunəsidir.</translation>
+        <translation>This is an ensaumple o a blether event pap-up.</translation>
     </message>
     <message>
         <source>Test Sound</source>
-        <translation>Səs Sınağı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Login</source>
-        <translation>Skype Adı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Logout</source>
-        <translation>Skype-dan Çıxış</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Login Failed</source>
-        <translation>Skype Adı Uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Connecting</source>
-        <translation>Zəng Qoşulur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming Call Ringing</source>
-        <translation>Daxil Olan Zəng</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Outgoing Call Ringing</source>
-        <translation>Çıxan Zəng</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Answered</source>
-        <translation>Zəngə Cavab Verdi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number Busy</source>
-        <translation>Nömrə Məşğuldur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Missed</source>
-        <translation>Buraxılmış Zəng</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Failed</source>
-        <translation>Zəng Uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation>Zəng Gözləmədə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Resumed</source>
-        <translation>Zəng Bərpa Edildi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Waiting</source>
-        <translation>Zəng Gözləmədə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Hungup</source>
-        <translation>Zəngi Bitir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Ended</source>
-        <translation>Zəng Bitdi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First Chat Message Received</source>
-        <translation>İlk Söhbət İsmarıcı Qəbul Olundu</translation>
+        <translation>First Bletherin Message Received</translation>
     </message>
     <message>
         <source>Chat Message Received</source>
-        <translation>Söhbət İsmarıcı Qəbul Olundu</translation>
+        <translation>Bletherin Message Received</translation>
     </message>
     <message>
         <source>Chat Message Sent</source>
-        <translation>Söhbət İsmarıcı Göndərildi</translation>
+        <translation>Bletherin Message Sent</translation>
     </message>
     <message>
         <source>Contact Joined Chat</source>
-        <translation>Əlaqə Söhbətə Qoşuldu</translation>
+        <translation>Contact Jynt Bletherin</translation>
     </message>
     <message>
         <source>Contact Left Chat</source>
-        <translation>Əlaqə Söhbəti Tərk Etdi</translation>
+        <translation>Contact Lea&apos;d Bletherin</translation>
     </message>
     <message>
         <source>Contact Kicked from Chat</source>
-        <translation>Əlaqə Söhbətdən Xaric Edildi</translation>
+        <translation>Contact Bootit frae Bletherin</translation>
     </message>
     <message>
         <source>Contact Came Online</source>
-        <translation>Əlaqə Şəbəkəyə Gəldi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact Went Offline</source>
-        <translation>Əlaqə Şəbəkədən Getdi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact Profile Updated</source>
-        <translation>Əlaqənin Şəxsi Səhifəsi Yeniləndi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact Added to List</source>
-        <translation>Əlaqə Siyahıya Əlavə Edildi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact Deleted from List</source>
-        <translation>Əlaqə Siyahıdan Silindi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Transfer Request</source>
-        <translation>Fayl Köçürmə Sorğusu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Transfer Complete</source>
-        <translation>Fayl Köçürmə Tamam</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Transfer Failed</source>
-        <translation>Fayl Köçürmə Uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts Received</source>
-        <translation>Əlaqələr Qəbul Olundu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts Sent</source>
-        <translation>Əlaqələr Göndərildi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS Received</source>
-        <translation>SMS Qəbul Olundu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS Sent</source>
-        <translation>SMS Göndərildi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS Failed</source>
-        <translation>SMS Uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Money Received</source>
-        <translation>Pul Qəbul Olundu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Money Sent</source>
-        <translation>Pul Göndərildi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Credit Received</source>
-        <translation>Kredit Qəbul Olundu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Credit Sent</source>
-        <translation>Kredit Göndərildi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Advertisement</source>
-        <translation>Təbliğ Elanı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Upsell</source>
-        <translation>İnkişaf Edtirmək</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact&apos;s Birthday</source>
-        <translation>Əlaqənin Ad günü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Our Birthday</source>
-        <translation>Bizim Ad Günümüz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Credit is Low</source>
-        <translation>Kredit Aşağıdır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Naməlum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1, %2 had a birthday</source>
         <comment>Example: [Yesterday, 29/12/2008], [Andrew] had a birthday</comment>
-        <translation>%1, %2 ad günüdür</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1, %2 has a birthday</source>
         <comment>Example: [Tomorrow, 29/12/2008], [Andrew] has a birthday</comment>
-        <translation>%1, %2 ad günüdür</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming Contact Request</source>
-        <translation>Daxil Olan Əlaqə Sorğusu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Unread Chats</source>
-        <translation>&amp;Oxunmamış Söhbətlər</translation>
+        <translation>&amp;Unrade Bletherins</translation>
     </message>
     <message>
         <source>&amp;Recent Chats</source>
-        <translation>&amp;Sonuncu Söhbətlər</translation>
+        <translation>&amp;Recent Bletherins</translation>
     </message>
     <message>
         <source>&amp;Bookmarked Chats</source>
-        <translation>&amp;Əlfəcindəki Söhbətlər</translation>
+        <translation>&amp;Beukmerkit Bletherins</translation>
     </message>
     <message>
         <source>Mark as Viewed</source>
-        <translation>Baxılmış kimi Qeyd Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming</source>
-        <translation>Daxil Olan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Message Received</source>
-        <translation>Səsli İsmarıc Qəbul Olundu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Message Sent</source>
-        <translation>Səsli İsmarıc Göndərildi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype WiFi - Extend Session</source>
-        <translation>Skype WiFi - Dövrünü Uzat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your Skype WiFi session is due to expire in %1 minutes.</source>
-        <translation>Skype WiFi dövrünüz %1 dəqiqə sonra bitəcək</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is an example of an SMS event popup.</source>
-        <translation>Bu peydə olan SMS hadisəsi nümunəsidir.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice messages</source>
-        <translation>Səsli ismarıclar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is an example of a voice message event popup.</source>
-        <translation>Bu peydə olan səsli ismarıc hadisəsi nümunəsidir.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New message from %1</source>
-        <translation>Yeni ismarıc: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Message from %1</source>
-        <translation>Ismarıc: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS received %1</source>
-        <translation>SMS qəbul etdi: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS sent %1</source>
-        <translation>SMS göndərildi %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Sayma</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>File Transfer</name>
     <message>
         <source>Send File</source>
-        <translation>Fayl Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send File to Selected Contacts</source>
-        <translation>Seçilmiş Əlaqələrə Fayl Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming files from %1</source>
-        <translation> %1 tərəfindən göndərilən fayllar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Qəbul</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decline</source>
-        <translation>İmtina</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 files - %2</source>
-        <translation>%1 fayl - %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Could not read from the file</source>
-        <translation>Faylı oxumaq alınmadı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Could not write to the file</source>
-        <translation>Faylı yazmaq alınmadı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 could not write the file</source>
-        <translation>%1 fayl yaza bilməz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has been offline for too long</source>
-        <translation>%1 uzun müddət şəbəkədə olmamışdır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed</source>
-        <translation>Uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connecting to %1</source>
-        <translation>Qoşulma %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Receiving from %1</source>
-        <translation>Qəbul olundu %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paused - Receiving from %1</source>
-        <translation>Dayandı - Qəbul %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Completed - Received from %1</source>
-        <translation>Tamamlandı - Qəbul %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed - %1</source>
-        <translation>Uğursuz - %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sending file to %1</source>
-        <translation>Fayl göndərilməsi %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paused - Sending file to %1</source>
-        <translation>Dayandı - fayl göndərilməsi %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Completed - Sent to %1</source>
-        <translation>Tamamlandı - Göndərilmə %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status Unknown</source>
-        <translation>Naməlum Vəziyyət</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept All</source>
-        <translation>Hamısını Qəbul Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decline All</source>
-        <translation>Hamısından İmtina </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open the directory for this file</source>
-        <translation>Bu fayl üçün qovluq açın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation>Qovluğu Aç </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 files</source>
-        <translation>%1 fayl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 recipients</source>
-        <translation>%1 qəbul edənlər </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 of %2</source>
         <comment>Progress: bytes transferred of bytes total</comment>
-        <translation>%1 / %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1ps</source>
         <comment>Speed: size units per second</comment>
-        <translation>%1ps</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Finishing in %1</source>
-        <translation>Tamamlanması %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 seconds</source>
-        <translation>%1 saniyə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose Directory to Save Files</source>
-        <translation>Fayl Saxlanması üçün Qovluq Seçin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose File Name to Save</source>
-        <translation>Saxlamaq üçün Fayl Adı Seçin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All files downloaded to:</source>
-        <translation>Bütün fayllar üçün nazil:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Default Download Directory</source>
-        <translation>Sabit Nazil Qovluğunu Açın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
-        <translation>Fayl Saxlamaq üçün Sabit Qovluq Seçin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Default Download Directory...</source>
-        <translation>Sabit Nazil Qovluğunu Dəyiş...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose File(s) to send to %1</source>
-        <translation>%1 göndərmək üçün Fayl seçin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose File(s) to send to selected users</source>
-        <translation>Seçilmiş istifadəçilərə göndərmək üçün Fayl seçin </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation>Fayl Köçrülməsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept File</source>
-        <translation>Fayl Qəbul Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resume</source>
-        <translation>Bərpa</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pause</source>
-        <translation>Fasilə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Bağla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Retry</source>
-        <translation>Yenidən cəhd et                </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Hamısını Təmizlə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove all completed and failed files from the list</source>
-        <translation>Bütün bitmiş və uğursuz faylları siyahıdan sil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Bütün Fayllar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Təmizlə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Inactive Files</source>
-        <translation>Bütün Qeyri Fəal Fayylar</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>Clear %n Received File(s)</source>
-        <translation><numerusform>Qəbul Olunan %n Faylı Təmizlə</numerusform><numerusform>Qəbul Olunan %n Faylı Təmizlə</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Sent File(s)</source>
-        <translation><numerusform>Göndərilmiş %n Faylı Təmizlə</numerusform><numerusform>Göndərilmiş %n Faylı Təmizlə</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Clear %n Failed File(s)</source>
-        <translation><numerusform>%n Uğursuz Faylı Təmizlə</numerusform><numerusform>%n Uğursuz Faylı Təmizlə</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation>Bilavasitə Fayl Qəbulu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sending your file is being relayed. Click this icon to find out what this means.</source>
-        <translation>Fayl göndərilməsi nümayiş olunur. Bunun nə demək olduğunu bilmək üçün, bu işarəni basın.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Some of the files are being relayed. Click this icon to find out what this means.</source>
-        <translation>Bəzi fayllar nümayiş olunur. Bunun nə demək olduğunu bilmək üçün, bu işarəni basın.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is being relayed. Click this icon to find out what this means.</source>
-        <translation>Fayl nümayiş olunur. Bunun nə demək olduğunu bilmək üçün, bu işarəni basın.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1 file</source>
-        <translation>1 fayl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has to accept your contact request first</source>
-        <translation>%1 öncə sizin əlaqə sorğunuzu qəbul etməlidir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 cancelled the file sending</source>
-        <translation>%1 fayl göndərilməsini ləğv edib</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 could not read the file</source>
-        <translation>%1 faylı oxuya bilmədi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 does not support file sending</source>
-        <translation>%1 fayl göndərilməsini dəstəkləmir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming file from %1</source>
-        <translation>%1 tərəfindən göndərilən fayl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancelled - File from %1</source>
-        <translation>Fayl %1 tərəfindən Ləğv Olundu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancelled - File to %1</source>
-        <translation>%1 Faylı Ləğv Olundu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept File to...</source>
-        <translation>Fayl Qəbulu...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decline file</source>
-        <translation>İmtina olunan fayl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decline File</source>
-        <translation>İmtina Olunan Fayl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept all files</source>
-        <translation>Qəbul olunan bütün fayllar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept All Files</source>
-        <translation>Qəbul Olunan Bütün Fayllar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept All Files to...</source>
-        <translation>Bütün Faylların Qəbulu...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decline all files</source>
-        <translation>İmtina olunan bütün fayllar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decline All Files</source>
-        <translation>İmtina Olunan Bütün Fayllar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pause all files</source>
-        <translation>Bütün fayllara fasilə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pause All Files</source>
-        <translation>Bütün Fayllara Fasilə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel all files</source>
-        <translation>Bütün faylları ləğv et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel All Files</source>
-        <translation>Bütün Faylları Ləğv Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Retry failed files</source>
-        <translation>Uğursuz faylları yenidən sına</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Retry Failed Files</source>
-        <translation>Uğursuz Faylları Yenidən Sına</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel active files</source>
-        <translation>Fəal faylları ləğv et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel Active Files</source>
-        <translation>Fəal Faylları Ləğv Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>%n file(s) from %1</source>
-        <translation><numerusform>%1 tərəfindən %n fayl</numerusform><numerusform>%1 tərəfindən %n fayl</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Accept %n file(s) from %1</source>
-        <translation><numerusform>%1 tərəfindən qəbul olunan %n fayl</numerusform><numerusform>%1 tərəfindən %n fayl</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Decline %n file(s) from %1</source>
-        <translation><numerusform>%1 tərəfindən imtina olunan %n fayl</numerusform><numerusform>%1 tərəfindən imtina olunan %n fayl</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Incoming file from %1 isn&apos;t available yet</source>
-        <translation>%1 tərəfindən daxil olan fayl hələ mövcud deyil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Waiting for %1 to accept</source>
-        <translation>Qəbul etmək üçün, %1 gözləyin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file isn&apos;t available on this computer</source>
-        <translation>Fayl bu kompüterdə mövcud deyil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you cancel now you will not receive this file.</source>
-        <translation>Əgər bu hərəkəti indi ləğv etsəz bu faylı almayacaqsız.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you cancel now the other party will not receive this file.</source>
-        <translation>Əgər bu hərəkəti indi ləğv etsəz digər tərəf bu faylı almayacaq.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you cancel now you will not receive these files.</source>
-        <translation>Əgər bu hərəkəti indi ləğv etsəz bu faylları almayacaqsız.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you cancel now the other party will not receive these files.</source>
-        <translation>Əgər bu hərəkəti indi ləğv etsəz digər tərəf bu faylları almayacaq.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 - %2 (%3) - %4</source>
         <comment>Sub-transfer partner Display Name, progress, speed and finish ETA</comment>
-        <translation>%1 - %2 (%3) - %4</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 - %2 (%3) - %4</source>
         <comment>Top transfer partner Display Name or recipient/file count, progress, speed and finish ETA</comment>
-        <translation>%1 - %2 (%3) - %4</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>FindDialog</name>
     <message>
         <source>Search options</source>
-        <translation>Axtarış seçimləri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Direction</source>
-        <translation>İstiqamət</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find</source>
         <comment>sF_FIND_CAPTION</comment>
-        <translation>Tap</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
         <comment>sF_FIND_FIND_WHAT</comment>
-        <translation>Ta&amp;p nə:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Match whole word only</source>
         <comment>sF_FIND_WHOLE_WORDS</comment>
-        <translation>&amp;Yalnız bütöv söz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>M&amp;atch case</source>
         <comment>sF_FIND_MATCH_CASE</comment>
-        <translation>U&amp;yğunluq icrası</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I&amp;gnore poster names</source>
         <comment>sF_FIND_IGNORE_TITLES</comment>
-        <translation>A&amp;dlı elanlardan imtina</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Up</source>
         <comment>sF_FIND_DIRECTION_UP</comment>
-        <translation>&amp;Yuxarı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>D&amp;own</source>
         <comment>sF_FIND_DIRECTION_DOWN</comment>
-        <translation>A&amp;şağı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cance&amp;l</source>
         <comment>sF_OPTIONS_BUTTON_CANCEL</comment>
-        <translation>Ləğv&amp;et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find Text</source>
         <comment>sF_FIND_CAPTION</comment>
-        <translation>Mətn Tap</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>LoadHistory</name>
     <message>
         <source>Form</source>
-        <translation>Tərtib</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>loadhistory</source>
-        <translation>yüklənən  tarixçə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Load chat history progress</source>
-        <translation>Yüklənən söhbət tarixçəsi tərəqqisi</translation>
+        <translation>Load bletherin history forder</translation>
     </message>
     <message>
         <source>Loading chat history...</source>
-        <translation>Söhbət tarixçəsi yüklənməsi...</translation>
+        <translation>Loadin bletherin history...</translation>
     </message>
     <message>
         <source>sendprogress</source>
-        <translation>göndəriş tərəqqisi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send progress count</source>
-        <translation>Tərəqqi nəticəsi göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation>24 / 100</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sendprogressbar</source>
-        <translation>nəticəsiz göndəriş tərəqqisi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send progress bar</source>
-        <translation>Nəticəsiz göndəriş tərəqqisi</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Login</name>
     <message>
         <source>Sign me in when Skype starts</source>
-        <translation>Skype qoşulduqda birbaşa şəxsi səhifəyə daxil ol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your password must be at least 6 characters.</source>
-        <translation>Şifrəniz 6 işarədən az olmamalıdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your entered passwords do not match.</source>
-        <translation>Daxil etdiyiniz şifrələr uyğun gəlmir.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Password</source>
-        <translation>Şifrəni Dəyiş</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Current Password</source>
-        <translation>Cari Şifrə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Password</source>
-        <translation>Yeni Şifrə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verify New Password</source>
-        <translation>Yeni Şifrəni Təsdiqlə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your password must be at least 6 characters in length.</source>
-        <translation>Şifrəniz 6 işarədən az olmamalıdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatically sign-in when I start Skype</source>
-        <translation>Skype qoşulduqda birbaşa giriş</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password Changed.</source>
-        <translation>Şifrə Dəyişdi.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your password has been successfully changed.</source>
-        <translation>Şifrəniz müvəffəqiyyətlə dəyişdirildi.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your new and old passwords match.</source>
-        <translation>Yeni və köhnə şifrələr uyğundur.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your password is too long.</source>
-        <translation>Şifrəniz çox uzundur.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your password contains an invalid character.</source>
-        <translation>Şifrəniz yalnış işarə təşkil edir.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click here to change your password</source>
-        <translation>Şifrənizi dəyişmək üçün bura basın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changing Password...</source>
-        <translation>Şifrə Dəyişdirilməsi...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please wait while your password is changed.
 
 This shouldn&apos;t take more than a few seconds.</source>
-        <translation>Xaiş, şifrəniz dəyişdirilənə qədər gözləyin.                                                                      Bu bir neçə saniyədən artıq olmamalıdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Current password is incorrect.</source>
-        <translation>Cari şifrə səhvdir.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Server connect failed.
 Please check your internet connection and try again.</source>
-        <translation>Bağlantı uğursuz. Internet bağlantınızı yoxlayın və yenidən cəhd edin.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your new password can not be the same as your old password.</source>
-        <translation>Yeni şifrəniz köhnə şifrənizlə eyni ola bilməz.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your new password is invalid.</source>
-        <translation>Yeni şifrə yanlışdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You must be logged in in order to change your password.</source>
-        <translation>Şifrənizi dəyişdirmək üçün səhifənizə daxil olmalısınız.
-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password Change Failed</source>
-        <translation>Şifrə Dəyişməsi Uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your password must differ from your Skype Name.</source>
-        <translation>Şifrəniz Skype Adınızdan fərqli olmalıdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your password has invalid format.</source>
-        <translation>Şifrəniz yalnışdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An unknown error occured while changing your password.
 
 Please try again later.</source>
-        <translation>Şifrəni dəyişərkən naməlum xəta baş verdi. Daha sonra bir daha cəhd edin.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign in with a different account</source>
-        <translation>Başqa hesabla daxil ol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation>Skype WiFi-la Bağlantı</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Main Window</name>
     <message>
         <source>Click here to personalise your mood and profile</source>
-        <translation>Əhval-ruhiyyənizi və şəxsi səhifənizi fərdiləşdirmək üçün buraya basın</translation>
+        <translation>Click here tae personalise yer muid an profile</translation>
     </message>
     <message>
         <source>Type your mood message in this box</source>
-        <translation>Bu sahəyə əhval ismarıcı yazın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Credit</source>
-        <translation>Skype Etimad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Çıxış</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Event History</source>
-        <translation>Hadisə Tarixçəsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add or Search for Skype Contacts</source>
-        <translation>Əlavə Etmək üçün Skype Əlaqələri Axtar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Main Menu</source>
-        <translation>Əsas Təkliflər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation>Fayl Köçürülməsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 %2%3 for Linux</source>
         <comment>Pre-login main window title: ie. %1 = &quot;Skype&quot;, %2 = &quot;1.5&quot;, %3 = &quot; (Alpha)&quot;</comment>
-        <translation>%1 %2%3 Linux üçün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 Skype Credit available</source>
-        <translation>%1 Mövcud Skype Etimad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 People Online</source>
-        <translation>%1 Adam Şəbəkədə</translation>
+        <translation>%1 Fowk Online</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Təsvirlər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation>Əlaqələri Göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show History</source>
-        <translation>Tarixçəni Göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation>Bütün Baxılmışları İşarələ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation>&amp;Tənzimləmələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign &amp;Out</source>
-        <translation>Şəxsi Səhifədən &amp;Çıxış</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;Çıxış</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Version Available</source>
-        <translation>Yeni Buraxılış Mövcuddur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Download Page</source>
-        <translation>Yükləmə Səhifəsini Aç</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A new version of Skype is now available for download.</source>
-        <translation>Yükləmək üçün yeni Skype mövcuddur.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is a required upgrade.</source>
-        <translation>Bu vacib yeniləmədir.</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>%n new event(s)</source>
-        <translation><numerusform>%n yeni hadisə</numerusform><numerusform>%n yeni hadisə</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation>Bütün Əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Contacts</source>
-        <translation>Şəbəkədəki Əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recently Contacted Contacts</source>
-        <translation>Son Əlaqə Qurulan Əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Contacts</source>
-        <translation>Skype Əlaqələri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ungrouped Contacts</source>
-        <translation>Dəstələnmiş Əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 is not in your Contact list</source>
-        <translation>%1 Əlaqə siyahınızda deyil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search for &quot;%1&quot; in the Skype Directory</source>
-        <translation>&quot;%1&quot; üçün Skype Siyahı Qovluğunda Axtarış</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Contact &amp;Groups</source>
-        <translation>Dəstələr Əlaqəsi &amp;Göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact &amp;Groups</source>
-        <translation>Dəstələr &amp;Əlaqəsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Hide Contact Groups</source>
-        <translation>&amp;Dəstələr Əlaqəsini Gizlət</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Compact Contact Groups</source>
-        <translation>&amp;Yığcam Əlaqə Dəstələri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;New Contact Group...</source>
-        <translation>&amp;Yeni Dəstə Əlaqəsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Predefined Groups</source>
-        <translation>&amp;Öncədən Təyinli Dəstələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bookmarked Chats</source>
-        <translation>Əlfəcindəki Söhbətlər</translation>
+        <translation>Beukmerkit Bletherins</translation>
     </message>
     <message>
         <source>Change &amp;Password...</source>
-        <translation>Şifrəni &amp;Dəyiş...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;About Skype</source>
-        <translation>Skype &amp;Haqqında</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Total Contacts</source>
-        <translation>Cəmi Əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bookmarked Chats (0)</source>
-        <translation>Əlfəcindəki Söhbətlər (0)</translation>
+        <translation>Beukmerkit Bletherins (0)</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation>Naməlum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change &amp;Status</source>
-        <translation>Vəziyyətini &amp;Dəyiş</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search Directory</source>
-        <translation>Siyahı Qovluğunda Axtar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation>Telefonlara Zəng və ya SMS Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is the amount of credit you have on your Skype account for making phone calls.</source>
-        <translation>Skype hesabınızdakı bu məbləğ telefonlara zənglər üçündür.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Requests from New Contacts</source>
-        <translation>Yeni Əlaqələrdən Sorğular</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Phone Numbers</source>
-        <translation>Telefon Nömrələri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Requests to New Contacts</source>
-        <translation>Yeni Əlaqələrə Sorğular</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1 free call</source>
-        <translation>1 ödənişsiz zəng</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call any phone with Skype. Your first call is free.</source>
-        <translation>Skype vasitəsilə istənilən telefona zəng edin. İlk zənginiz ödənişsizdir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Buy Skype Credit</source>
-        <translation>Skype Hesabınıza Vəsait Yerləşdirin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start a &amp;Conference Call...</source>
-        <translation>Toplantı &amp;Zənginə Başla...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get a subscription</source>
         <comment>This appears in case of account not having any subscriptions</comment>
-        <translation>Abunə olun</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>%n subscription(s)</source>
         <comment>This appears in case of account having subscriptions</comment>
-        <translation><numerusform>%n abunəlik</numerusform><numerusform>%n abunəlik</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Messenger Contacts</source>
-        <translation>Messenger Əlaqələri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscriptions</source>
-        <translation>Abunəliklər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get Premium</source>
         <comment>This appears in case of account not having any premium video subscription</comment>
-        <translation>Premium Alın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Manage Premium</source>
         <comment>This appears in case of account having a premium video subscription</comment>
-        <translation>Premium İdarəetmə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lync Contacts</source>
-        <translation>Lync Əlaqələri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1, select to change status</source>
-        <translation>%1, vəziyyəti dəyişdirmək üçün seçin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The Contact list is empty or all groups are hidden</source>
-        <translation>Əlaqə siyahısı boşdur və ya bütün dəstələr gizlidir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search for a contact in the Skype Directory</source>
-        <translation>Skype Siyahı Qovluğunda əlaqə axtarışı</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>%n new event(s). Click here to show contacts</source>
         <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_SHOW_CONTACTS</comment>
-        <translation><numerusform>%n yeni tədbir. Əlaqələri görmək üçün buraya basın</numerusform><numerusform>%n yeni hadisə. Əlaqələri görmək üçün buraya basın</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Click here to show contacts</source>
         <comment>sEVENTS_BUTTON_TOOLTIP_NO_NEW_EVENTS_SHOW_CONTACTS</comment>
-        <translation>Əlaqələri görmək üçün buraya basın</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>%n new event(s). Click here to hide new event(s)</source>
         <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_HIDE_NEW_EVENTS</comment>
-        <translation><numerusform>%n yeni hadisə. Yeni hadisəni gizlətmək üçün buraya basın</numerusform><numerusform>%n yeni hadisə. Yeni hadisəni gizlətmək üçün buraya basın</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n new event(s). Click here to show new event(s)</source>
         <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_SHOW_NEW_EVENTS</comment>
-        <translation><numerusform>%n yeni hadisə. Yeni hadisəni görmək üçün buraya basın</numerusform><numerusform>%n yeni hadisə. Yeni hadisəni görmək üçün buraya basın</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Click here to show event history</source>
         <comment>sEVENTS_BUTTON_TOOLTIP_NO_NEW_EVENTS_SHOW_HISTORY</comment>
-        <translation>Hadisə tarixçəsini görmək üçün buraya basın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Contacts</source>
-        <translation>&amp;Əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;hats</source>
-        <translation>S&amp;öhbətlər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check for &amp;Updates...</source>
         <comment>sSKYPEMENU_UPDATES</comment>
-        <translation>Yeniləmə &amp;Yoxlanışı...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation>Əlaqə Əlavə Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search Skype Directory...</source>
-        <translation>Skype Siyahı Qovluğunda Axtarış...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save a Phone Number...</source>
-        <translation>Telefon Nömrəsi Saxla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Contacts by</source>
-        <translation>Əlaqələri Sırala</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>Ada Görə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Status</source>
-        <translation>Şəbəkə Vəziyyətinə Görə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide Contacts Who</source>
-        <translation>Əlaqələri Gizlət Kim</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are Offline</source>
-        <translation>Şəbəkədə Deyil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are Offline with Call Forwarding</source>
-        <translation>Şəbəkədə Deyil Zəng Yönəldilməsilə </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Haven&apos;t Shared Contact Details</source>
-        <translation>Ətraflı Paylaşılmayan Əlaqə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Premium account</source>
-        <translation>Premium hesab</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You already have the latest version of Skype installed.</source>
         <comment>sF_UPGRADE_UPTODATE</comment>
-        <translation>Sizdə artıq ən son Skype qurulmuşdur.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check for updates</source>
         <comment>sF_UPGRADE_HEADER</comment>
-        <translation>Yeniləmə yoxlanışı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>We are currently not able to check if there&apos;s a new update available. Please try a little later.</source>
         <comment>sF_UPGRADE_CHECK_FAILED</comment>
-        <translation>Hal-hazırda yeni yeniləmə mövcudluğunu yoxlamaq mümkün deyil. Daha sonra təkrar cəhd edin.</translation>
+        <translation>We arenae able tae chack gin thare&apos;s a new update available the nou. Please try a wee bit later.</translation>
     </message>
     <message>
         <source>%1 Skype Credit. Click here to check your account features.</source>
         <comment>sSKYPE_CREDIT_BUTTON_ACCESSIBLE_TEXT</comment>
-        <translation>%1 Skype Kredit. Hesab xassələrini yoxlamaq üçün buraya basın.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Number expires in %1 days</source>
-        <translation>Skype Nömrə %1 gün sonra bitir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Buy a Skype Number</source>
-        <translation>Skype Nömrəsi Alın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click here to change your profile picture</source>
-        <translation>Şəxsi səhifə şəklinizi dəyişmək üçün bura basın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype Number</source>
-        <translation>Skype Nömrə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Messaging</source>
-        <translation>Səsli İsmarıc Mübadiləsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visit My account page</source>
-        <translation>Hesab səhifəmə baxış</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Options</name>
     <message>
         <source>General</source>
-        <translation>Ümumi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Məxfilik</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Notifications</source>
-        <translation>Bildirişlər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call Forwarding</source>
-        <translation>Zəng Yönəldilməsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sound Devices</source>
-        <translation>Ses Cihazlar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Video Devices</source>
-        <translation>Video Cihazlar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Qabaqcıl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Blocked People</source>
-        <translation>Qadağalı Adamlar</translation>
+        <translation>Blockit Fowk:</translation>
     </message>
     <message>
         <source>Public API</source>
-        <translation>İctimai API</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation>Bağla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
-        <translation>Seçimlər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
-        <translation>Əlaqə üzərinə cüt basın və ya ünvan sahəsini istifadə edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start a call</source>
-        <translation>Zəngə başla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start a chat</source>
-        <translation>Söhbətə başla</translation>
+        <translation>Stairt a Bletherin</translation>
     </message>
     <message>
         <source>Show me as &apos;Away&apos; when I am inactive for</source>
-        <translation>Fəal deyiləmsə məni &apos;Yerində Deyil&apos; kimi göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>minutes</source>
-        <translation>dəqiqə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Skype minimised in the system tray</source>
-        <translation>Skype qoşulduqda alt məcməyədə kiçilsin </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set program language to:</source>
-        <translation>Dil seçimi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>anybody</source>
-        <translation>hər kəs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>only people I have allowed</source>
-        <translation>yalnız mən icazə verdiyim insanlar</translation>
+        <translation>ainly fowk A hiv alloued</translation>
     </message>
     <message>
         <source>anybody with a visible number</source>
-        <translation>görünən nömrə ilə hər kəs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>only numbers of my Contacts</source>
-        <translation>yalnız mənim Əlaqələr nömrələrimdən</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Forever</source>
-        <translation>Daim</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation>2 həftə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1 month</source>
-        <translation>1 ay</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3 months</source>
-        <translation>3 ay</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable History</source>
-        <translation>Tarixçəni Söndür</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow my status to be shown on the web.</source>
-        <translation>Şəbəkə vəziyyətimin İnternetdə göstərilməsinə icazə.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatically answer incoming calls.</source>
-        <translation>Bilavasitə daxil olan zənglərə cavab.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow calls from...</source>
-        <translation>İcazə verilən zənglər...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow chats from...</source>
-        <translation>İcazə verilən söhbətlər...</translation>
+        <translation>Allow blethers frae...</translation>
     </message>
     <message>
         <source>Keep chat history for...</source>
-        <translation>Söhbət tarixçəsini qorumaq...</translation>
+        <translation>Keep bletherin history for...</translation>
     </message>
     <message>
         <source>Enable Event</source>
-        <translation>Hadisəni Qoş</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Test Event</source>
-        <translation>Hadisəni Sına</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restore Default</source>
-        <translation>Sabit Vəziyyətin Bərpası</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Advanced View</source>
-        <translation>Ətraflı Baxış</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Execute the following script on any event:</source>
-        <translation>Növbəti əməliyyatın istənilən hadisədə icrası:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play sound file:</source>
-        <translation>Səsli faylı səsləndirmək:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None Configured</source>
-        <translation>Heç Biri Təyin Edilməyib</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is not accessible.</source>
-        <translation>Fayl əlçatan deyil.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset to Default Sound</source>
-        <translation>Sabit Səsə Sıfırla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display pop-up notification</source>
-        <translation>Peydə olan bildiriş görünsün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send the other contact a message:</source>
-        <translation>Digər əlaqəyə bir ismarıc göndər:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Execute the following script:</source>
-        <translation>Növbəti əməliyyatın icrası:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sounds</source>
-        <translation>Səslər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When somebody starts a chat with me...</source>
-        <translation>Kimsə mənimlə söhbətə başlayarkən...</translation>
+        <translation>Whan somebody stairts a bletherin wi me...</translation>
     </message>
     <message>
         <source>Display an event notification</source>
-        <translation>Hadisə bildirişi nümayişi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create a minimised chat window</source>
-        <translation>Yığılmış söhbət pəncərəsi yarat</translation>
+        <translation>Creaut a minimised bletherin windae</translation>
     </message>
     <message>
         <source>Open a chat window in front of me</source>
-        <translation>Önümdə bir söhbət pəncərəsi açılsın</translation>
+        <translation>Appen a bletherin windae tae the fore of me</translation>
     </message>
     <message>
         <source>Show emoticons</source>
-        <translation>İfadələri göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show animated emoticons</source>
-        <translation>Cizgili ifadələri göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show others when I am typing</source>
-        <translation>Mənim yazdığımı digərlərinə göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>With call forwarding, you can answer your Skype calls even when you&apos;re not currently online.</source>
-        <translation>Zəng yönəldilməsi vasitəsilə, Skype zənglərini hətta şəbəkədə olmadığınızdada cavablandıra bilərsiniz.</translation>
+        <translation>Wi caw forritin, ye can answer yer Skype caws e&apos;en whan ye arenae online the nou.</translation>
     </message>
     <message>
         <source>So you could be away from home, or perhaps traveling on the other side of the planet with no internet access, and still receive your calls.</source>
-        <translation>Beləliklə siz evdən uzaqda və ya dünyanın digər tərəfində səyahət edərkən, İnternet bağlantısı olmadıqda belə, hələ də zəngləri qəbul etmək imkanı əldə edirsiz.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Learn more about Call Forwarding</source>
-        <translation>Zəng Yönəldilməsi haqqında daha ətraflı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Forward calls when I&apos;m not on Skype</source>
-        <translation>Mən Skype-da olmadıqda zəng yönəldilmə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Forward calls if I do not answer on Skype within</source>
-        <translation>Əgər mən Skype-da cavab vermirəmsə, zəngin yönəldilmə müddəti</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>seconds</source>
-        <translation>saniyə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ringing</source>
-        <translation>Zəng Çalır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make a test sound</source>
-        <translation>Səs sınağı edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make a test call</source>
-        <translation>Zəng sınağı edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow Skype to automatically adjust my mixer levels</source>
-        <translation>Skype birbaşa olaraq səs səviyyəsini nizamlasın </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>nobody</source>
-        <translation>heç kim</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatically receive video from...</source>
-        <translation>Birbaşa görüntü qəbul et...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show that I have video to...</source>
-        <translation>Mənim görüntümü göstər...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype</source>
-        <translation>Skype</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation>Qoşulduqda yeniləmələr mövcudluğunu yoxlayın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display technical call info</source>
-        <translation>Texniki zəng məlumatı göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connection</source>
-        <translation>Bağlantı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use port</source>
-        <translation>Limanı istifadə et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>for incoming connections</source>
-        <translation>daxil olan bağlantılar üçün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatic Proxy Detection</source>
-        <translation>Şəbəkə Təmsilçisi (Proksi) Qəbulunu Birbaşa Aşkarla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>HTTPS Proxy</source>
-        <translation>HTTPS Şəbəkə Təmsilçisi (proksi)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SOCKS Proxy</source>
-        <translation>SOCKS Şəbəkə Təmsilçisi (proksi)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Host</source>
-        <translation>Əsas Qəbuledici</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Port</source>
-        <translation>Liman</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User</source>
-        <translation>İstifadəçi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password</source>
-        <translation>Şifrə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unblock Selected People</source>
-        <translation>Seçilmiş İnsanların Yasağ Ləğvi</translation>
+        <translation>Unblock Selectit Fowk</translation>
     </message>
     <message>
         <source>Allow my contacts to see the number of contacts I have.</source>
-        <translation>Əlaqələrimə əlaqələr sayımı görməyə icazə ver.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show when others are typing</source>
-        <translation>Digərləri yazdıqda göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS</source>
-        <translation>SMS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose Sound File</source>
-        <translation>Səs Faylı Seçin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The hassle-free way to send text messages to friends when they are offline or on the move.</source>
-        <translation>Şəbəkədə olmayanlara mətnli ismarıclar göndərilməsi üçün sadə üsul.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sending an SMS from the comfort of your keyboard is simple, plus it&apos;s cheap and easy to pay for - all you need is a little Skype Credit.</source>
-        <translation>Skype-dan SMS göndərmək çox ucuz başa gəlir və SMS-ə görə ödəniş üçün lazım olan yalnız Skype Hesabınızdakı vəsaitlərdir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You can even set your messages to look like they came from your mobile so friends reply to your mobile.</source>
-        <translation> Bütün SMS-lər elə görünəcək ki, sanki mobil nömrənizdən göndərilib. Deməli, dostlarınız çətinlik çəkmədən mobil telefonunuza cavab SMS-i göndərə biləcəklər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Learn more about SMS</source>
-        <translation>SMS haqqında daha ətraflı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Skype Name (%1). Recipients cannot send SMS replies.</source>
-        <translation>Skype Adım (%1). Qəbul edənlər cavab SMS-i göndərə bilməyəcəklər.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send a verification code to your mobile number.</source>
-        <translation>Mobil nömrəyə təsdiq şifrəsini göndərin.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type your mobile number</source>
-        <translation>Mobil nömrənizi daxil edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Submit</source>
-        <translation>Təqdim</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You will be charged the standard rate for one SMS message.</source>
-        <translation>Siz bir SMS ismarıc üçün tətbiq edilmiş tariflə ödəyəcəksiz.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter the code you received on your phone and click Confirm.</source>
-        <translation>Telefonla qəbul olunan şifrəni daxil edin və Təsdiq edin.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Təsdiq</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;smsrates&quot;&gt;SMS destinations and rates&lt;/a&gt;.</source>
-        <translation>&lt;a href=&quot;smsrates&quot;&gt;SMS istiqamətləri və tariflər&lt;/a&gt;.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Microphone</source>
-        <translation>Mikrofon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Speakers</source>
-        <translation>Səs Sütunları</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose style: </source>
-        <translation>Dəb seçin:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Desktop Settings</source>
-        <translation>İş Masası Tənzimləri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When I send an SMS message, identify me by...</source>
-        <translation>Mən SMS göndərəndə məni belə təqdim edin...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>It appears your system has PulseAudio running: to change sound settings you need to use your Desktop Manager volume control or PulseAudio volume control.</source>
-        <translation>Görünür, Səs Nəbzi işləkdir: səs tənzimlərini dəyişmək üçün, İş Masası səs nizamlayıcısından və ya Səs Nəbzi nizamından istifadə etmək lazımdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open PulseAudio Volume Control</source>
-        <translation>Açıq Səs Nəbzi Həcminə Nəzarət</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open %1</source>
-        <translation>Aç %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Trying to open %1</source>
-        <translation>%1 açmağa çalışarkən</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to start %1</source>
-        <translation>%1 başlanması uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Skype WiFi</source>
-        <translation>Skype WiFi-ı Tətbiq Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call forwarding options</source>
-        <translation>Zəng istiqamətləndirmə tənzimləri</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When you&apos;re away from Skype, forward incoming calls to a phone or mobile, to another Skype account, or receive them as voice messages.</source>
-        <translation>Siz Skype-da olmadıqda, bütün daxil olan zənglər, sabit və mobil telefona və ya başqa bir Skype istifadəçisinin şəxsi səhifəsinə, eyni zamanda səsli ismarıclar bölməsinə yönəldilə bilər.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add more phone numbers</source>
-        <translation>Daha çox telefon nömrələri əlavə et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>One phone number only</source>
-        <translation>Yalnız bir telefon nömrəsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use Default View</source>
-        <translation>Sabit İstifadə Görünüşü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation>Təsvirləri Göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pressing Enter will...</source>
-        <translation>&apos;Enter&apos; düyməsinə basdıqda...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert line break</source>
-        <translation>Sətir başlığı əlavə et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send chat message</source>
-        <translation>Söhbətə ismarıc göndər</translation>
+        <translation>Send bletherin message</translation>
     </message>
     <message>
         <source>Voice Messages</source>
-        <translation>Səsli İsmarıclar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(requires restarting Skype)</source>
-        <translation>(tələb, Skype yenidən qoşulsun)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation>Birbaşa Fayl Qəbulu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save files to:</source>
-        <translation>Faylları burda saxla:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose Default Directory to Save Files</source>
-        <translation>Fayl Saxlamaq üçün Sabit Qovluq Seçin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(might require restarting Skype)</source>
-        <translation>(Skype yenidən qoşulsun tələbi edilə bilər)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You&apos;ll need Skype Credit or a subscription to forward calls. Calls forwarded to a phone number will be charged at &lt;a href=&quot;normalrates&quot;&gt;our rates&lt;/a&gt; for calling phones and mobiles or may be included as part of your subscription.</source>
-        <translation>Zəngləri istiqamətləndirmək üçün, Skype Hesabında Vəsait və ya abunəlik lazımdır. Adi telefona yönəldilən zənglər, sabit və mobil telefonlara olunan zəng &lt;a href=&quot;normalrates&quot;&gt;tariflərimizlə&lt;/a&gt; hesablanacaq və ya abunəliyinizdə yer ala bilər.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Skype watermark during calls</source>
-        <translation>Zənglər vaxtı Skype su nişanını göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide files I&apos;ve sent on other devices</source>
-        <translation>Digər cihazlarla göndərdiyim faylları gizlət</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IM</source>
-        <translation>Ani İsmarıc</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display built-in system pop-up notification</source>
-        <translation>Tətbiq edilmiş peydə olan bildirişlər nümayişi </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You need &apos;notify-send&apos; binary in your path to use this option; on Debian/Ubuntu distributions you can install &apos;libnotify-bin&apos; package.</source>
-        <translation>Sizə bu xüsussiyətdən istifadə üçün ikili istiqamət &quot;bildir-göndər&quot; lazımdır; Debian/Ubuntu bölüşdürmələrini &quot;istiqamətli bildiriş-qutu&quot; bağlamasında quraşdıra bilərsiniz.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter the code</source>
-        <translation>Şifrə daxil edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select your country/region</source>
-        <translation>Ölkəni/bölgəni seç</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hotkeys</source>
         <comment>sF_OPTIONS_PAGE_KEYBOARD</comment>
-        <translation>Cəld düymə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set up keyboard shortcuts for frequently used functions</source>
         <comment>sF_OPTIONS_LBC_HOTKEYS</comment>
-        <translation>Müntəzəm istifadə olunan xassələrin cəld çağırışını təyin edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable keyboard shortcuts</source>
         <comment>sF_OPTIONS_TCB11</comment>
-        <translation>Düymələr uyğunluğunu tətbiq et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active</source>
         <comment>sF_OPTIONS_HK_STATUS</comment>
-        <translation>Fəal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Action</source>
         <comment>sF_OPTIONS_HK_ACTION</comment>
-        <translation>Fəaliyyət</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hotkey</source>
         <comment>sF_OPTIONS_HK_HOTKEY</comment>
-        <translation>Uyğunluq</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Answer call</source>
         <comment>sHOTKEY_ANSWER</comment>
-        <translation>Zəngi qəbul et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore call</source>
         <comment>sHOTKEY_IGNORE</comment>
-        <translation>Zəngdən İmtina</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hang up</source>
         <comment>sHOTKEY_HANGUP</comment>
-        <translation>Dəstəyi As</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Focus Skype</source>
         <comment>sHOTKEY_FOCUS</comment>
-        <translation>Skype-ı Göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow calls to my Skype Number(s) from...</source>
-        <translation>Skype Nömrəmə zənglərə icazə ver...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Go to your system settings to change the shortcuts.</source>
         <comment>sF_OPTIONS_HK_INFO_LABEL</comment>
-        <translation>Qısa yollarını dəyişdirmək üçün quruluş tənzimlərinə keçin.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Quickfilter</name>
     <message>
         <source>Show contact list</source>
-        <translation>Əlaqə siyahısını göstər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>** Show contact list with groups</source>
-        <translation>** Əlaqə siyahısını dəstələrlə gostər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Call a contact not in your list</source>
-        <translation>Siyahınızda olmayan bir əlaqəyə zəng</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>** Add to conference by name/number</source>
-        <translation>** Toplantıya ad/nömrə ilə əlavə et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>** Send an SMS message</source>
-        <translation>** Bir SMS ismarıcı göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>** Join a public chat</source>
-        <translation>** İctimai söhbətə qatıl</translation>
+        <translation>** Jyne a public bletherin</translation>
     </message>
     <message>
         <source>Search through your contacts</source>
-        <translation>Sizin əlaqələr siyahınız vasitəsilə axtarış</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search through event history</source>
-        <translation>Hadisə tarixçəsində axtarış</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter a public chat blob</source>
-        <translation>İctimai söhbətə qeyd daxil edin</translation>
+        <translation>Pit in a public bletherin blab</translation>
     </message>
     <message>
         <source>Usage: +number message</source>
-        <translation>İstifadə: +nömrə ismarıc</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send an SMS message</source>
-        <translation>Bir SMS ismarıcı göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter a number or Skype Name</source>
-        <translation>Nömrə və ya Skype Adı daxil edin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Join a public chat</source>
-        <translation>İctimai söhbətə qatıl</translation>
+        <translation>Jyne a public bletherin</translation>
     </message>
     <message>
         <source>** Add to conference call by name/number</source>
-        <translation>** Toplantı zənginə ad/nömrə ilə əlavə et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change search options</source>
-        <translation>Axtarış seçimlərini dəyiş</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Screensharing</name>
     <message>
         <source>Stop screen sharing</source>
-        <translation>Ekran bölüşməsini dayandır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Your Screen</source>
-        <translation>Ekranınızı Bölüşün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Full Screen</source>
-        <translation>Tam Ekran Bölüşməsi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation>Bölüşmə Seçimi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start screen sharing</source>
-        <translation>Ekran bölüşməsinə başla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen sharing</source>
-        <translation>Ekran nümayişi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Starting screen sharing will also start an audio call. Are you sure you want to start an audio call?</source>
-        <translation>Ekran nümayişilə birlikdə səsli zəngdə başlayacaq. Siz səsli zəngə başlamaq istəyinizə əminsiniz?</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Send Contacts</name>
     <message>
         <source>Send Contacts</source>
-        <translation>Əlaqələr Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send contacts</source>
-        <translation>Əlaqələr göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Ləğv Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send</source>
-        <translation>Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do not send</source>
-        <translation>Göndərmə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts to send</source>
-        <translation>Göndərilən əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation>%1 / %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bağla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sent contacts to %1.</source>
-        <translation>%1 üçün əlaqələr göndərildi.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts NOT sent to %1.</source>
-        <translation>%1 üçün əlaqələr Göndərilmədi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Received contacts from %1 (%2)</source>
-        <translation>%1 (%2) tərəfindən alınan əlaqələr </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Qəbul et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do not accept</source>
-        <translation>Qəbul etmə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Received contacts</source>
-        <translation>Alınan əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts to accept</source>
-        <translation>Əlaqələr qəbulu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recipients list (space separated Skype Names):</source>
-        <translation>Qəbul edənlər siyahısı (boşluqla ayrılmış Skype Adları):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Contacts to Selected Contacts</source>
-        <translation>Seçilmiş Əlaqələrə, Əlaqələr Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Select</source>
-        <translation>&amp;Seçin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation>Əlaqələri seç</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SendProgress</name>
     <message>
         <source>Form</source>
-        <translation>Tərtibat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sentcontacts</source>
-        <translation>göndərilən əlaqələr</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sent contacts list</source>
-        <translation>Göndərilən əlaqələr siyahısı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sending contacts...</source>
-        <translation>Əlaqələr göndərişi...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sendprogress</source>
-        <translation>göndəriş tərəqqisi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send progress count</source>
-        <translation>Tərəqqili göndəriş sayı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>24 / 100</source>
-        <translation>24 / 100</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sendprogressbar</source>
-        <translation>nəticəsiz göndəriş tərəqqisi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send progress bar</source>
-        <translation>Nəticəsiz göndəriş tərəqqisi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Ləğv et</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Skype WiFi</name>
     <message>
         <source>Skype WiFi...</source>
-        <translation>Skype WiFi...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype WiFi</source>
         <comment>This is a window title</comment>
-        <translation>Skype WiFi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detecting Skype WiFi availability</source>
-        <translation>Skype WiFi mövcudluğu aşkarlanması</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation>Skype WiFi-la Bağlantı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connect to this hotspot for free internet access with %1 ¹.</source>
-        <translation>%1 ¹ ilə bu ödənişsiz İnternetə bağlanti nöqtəsinə qoşulma.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use your Skype Credit to pay for internet access at &lt;b&gt;%1&lt;/b&gt; per minute.&lt;br /&gt;&lt;br /&gt;Skype will reserve some credit from your account so your connection doesn&apos;t get interrupted. But don&apos;t worry - when you disconnect we&apos;ll only charge you for the minutes you&apos;ve actually used.</source>
-        <translation>İnternetə daxil olmaq üçün, Skype Hesabınızdan &lt;b&gt;%1&lt;/b&gt; dəqiqə görə&lt;br /&gt;&lt;br /&gt; istifadə edin. Rabitənizin kəsilməməsi üçün Skype hesabınızdan müəyyən vəsait ehtiyat edəcək. Amma narahat olmayın - söndürdüyünüz zaman, biz həqiqətən, yalnız istifadə etdiyiniz dəqiqələrin haqqını tutacayıq.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use your Skype Credit to pay for internet access with %1 ¹.&lt;br /&gt;&lt;br /&gt;Your credit balance is &lt;b&gt;%2&lt;/b&gt;, which means you can have about &lt;b&gt;%3 minutes&lt;/b&gt; online at %4 per minute.&lt;br /&gt;&lt;br /&gt;Skype will reserve some credit from your account so your connection doesn&apos;t get interrupted. But don&apos;t worry - when you disconnect we&apos;ll only charge you for the minutes you&apos;ve actually used.</source>
-        <translation>%1 ¹ ilə İnternetə daxil olmaq üçün, Skype Hesabınızdan istifadə edin.&lt;br /&gt;&lt;br /&gt;Sizin etimad balansı &lt;b&gt;%2&lt;/b&gt;, bu o deməkdir ki, siz &lt;b&gt;%3 dəqiqəyə&lt;/b&gt; şəbəkədə %4 dəqiqəyə.&lt;br /&gt;&lt;br /&gt;maliksiniz. Rabitənizin kəsilməməsi üçün Skype hesabınızdan müəyyən vəsait ehtiyat edəcək. Amma narahat olmayın - söndürdüyünüz zaman, biz həqiqətən, yalnız istifadə etdiyiniz dəqiqələrin haqqını tutacayıq.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connect</source>
-        <translation>Bağlan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation>Bağlanırıq...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype WiFi is connecting you to %1</source>
-        <translation>Skype WiFi, sizi %1 ilə birləşdirir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connected</source>
-        <translation>Qoşuldu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are connected to the internet.</source>
-        <translation>Siz İnternetə qoşulmusunuz.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WiFi network: %1</source>
-        <translation>WiFi şəbəkə: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation>Müddəti: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cost: %1</source>
-        <translation>Qiyməti: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To disconnect and stop being charged, click the Disconnect button. Any reserved credit that you don&apos;t use will appear back in your account.</source>
-        <translation>Ayırmaq və sərfiyatı dayandırmaq üçün, Ayırmaq düyməsinə toxunun. Bütün istifadə etmədiyiniz ehtiyat vəsait, yenidən hesabınızda görünəcək.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation>Ayırmaq</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation>Ayrılıb</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your Skype WiFi session has expired.</source>
-        <translation>Sizin Skype WiFi dövrünüz bitdi.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your Skype WiFi session has ended.</source>
-        <translation>Sizin Skype WiFi dövrünüz sona çatdı.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Extend your Skype WiFi session</source>
-        <translation>Skype WiFi dövrünüzü uzadın</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your session will expire in %1 minutes.</source>
-        <translation>Skype WiFi dövrünüz %1 dəqiqə sonra bitəcək</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click Extend session to reserve more minutes online.</source>
-        <translation>İnternetdə daha çox dəqiqə ehtiyatı üçün, dövrü Uzat düyməsinə toxun.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Extend session</source>
-        <translation>Dövrü uzat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skype WiFi - hotspot not supported</source>
-        <translation>Skype WiFi - bağlantı nöqtəsi dəstəklənmir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use Skype WiFi to connect to the web and pay per minute with your Skype Credit at over 1 million WiFi hotspots worldwide.&lt;br /&gt;&lt;br /&gt;The current network does not support Skype WiFi. Please try another available public WiFi network.&lt;br /&gt;&lt;br /&gt;Tip: Skype WiFi doesn&apos;t work with private or closed networks.</source>
-        <translation>Skype WiFi istifadə edərək, bütün dünyada 1 milyondan artıq qoşulma noqtələrindən şəbəkəyə bağlanaraq, dəqiqəyə görə Skype Hesabınızdan ödəyin.&lt;br /&gt;&lt;br /&gt;Cari şəbəkə Skype WiFi bağlantısını dəstəkləmir.Digər açıq WiFi şəbəkəyə qoşulmağa cəhd edin.&lt;br /&gt;&lt;br /&gt;Məsləhət: Skype WiFi məxfi və ya qapalı şəbəkələrlə işləmir.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This WiFi hotspot supports Skype WiFi - the easy way to get online.&lt;br /&gt;Simply pay per minute with Skype Credit.&lt;br /&gt;&lt;br /&gt;Unfortunately you don&apos;t have enough credit to use Skype WiFi today.&lt;br /&gt;&lt;br /&gt;You can buy credit from skype.com. When you&apos;re next online, visit skype.com/go/skypecredit to find out more.</source>
-        <translation>Bu WiFi giriş nöqtəsi Skype WiFi dəstəkləyir - şəbəkəyə qoşulmaq üçün asan yol.&lt;br /&gt;Sadəcə Skype Hesabla dəqiqəyə görə ödənilir.&lt;br /&gt;&lt;br /&gt;Təəssüf ki, bu gün Skype WiFi istifadə etmək üçün kifayət qədər vəsait yoxdur.&lt;br /&gt;&lt;br /&gt;skype.com səhifəsində vəsait yerləşdirə bilərsiz.Növbəti şəbəkədə olduğunuzda, daha çox öyrənmək üçün skype.com/go/skypecredit səhifəsini ziyarət edin.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Sms</name>
     <message>
         <source>Delivery failed.</source>
-        <translation>Çatdırılma uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Message is delivered.</source>
-        <translation>İsmarıc çatdırılır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS message to %1 is sent</source>
-        <translation>%1 üçün SMS ismarıcı göndərilir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS message to %1 is failed</source>
-        <translation>%1 üçün SMS ismarıcı uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown SMS event</source>
-        <translation>Naməlum SMS hadisə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mobile</source>
-        <translation>Mobil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Home</source>
-        <translation>Ev</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Office</source>
-        <translation>İş</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connection to server failed.</source>
-        <translation>Bağlantı uğursuz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No SMS capability.</source>
-        <translation>SMS qabiliyyəti yoxdur.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No credit to pay for SMS.</source>
-        <translation>SMS ödənişi üçün, heç bir vəsait yoxdur.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid confirmation code.</source>
-        <translation>Yanlış təsdiq şifrəsi.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User is blocked.</source>
-        <translation>İstifadəçi qadağan olunub</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IP address is blocked.</source>
-        <translation>IP ünvanı yasaqdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Node is blocked.</source>
-        <translation>Düyün yasaqdır.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No user id capability.</source>
-        <translation>İstifadəçi müəyyənliyi qabiliyyəti yoxdur.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation>Naməlum xəta</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: %1</source>
-        <translation>%1 üçün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: Mobile %1</source>
-        <translation>Mobil %1 üçün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: Home %1</source>
-        <translation>Ev %1 üçün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: Office %1</source>
-        <translation>İş %1 üçün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To: Other %1</source>
-        <translation>Digər %1 üçün</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>free</source>
-        <translation>ödənişsiz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You need Skype Credit to send text messages (SMS)</source>
-        <translation>Mətinli ismarıclar (SMS) göndərmək üçün, sizə Skype Hesabında vəsait lazımdır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You don&apos;t have enough Skype Credit to send text messages (SMS)</source>
-        <translation>Mətinli ismarıclar (SMS) göndərmək üçün, Skype Hesabınızda kifayət qədər vəsait yoxdur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None of the intended recipients has a mobile phone number saved in their profile. Please view profiles individually to add a number.</source>
-        <translation>Nəzərdə tutulan qəbul edənlərin heç biri, öz fərdi səhifəsində telefon nömrəsi saxlamayıb. Nömrə əlavə etmək üçün, fərdi səhifələrə ayrı-ayrılıqda baxın.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Message is received.</source>
         <comment>This is for the future 2-way SMS feature. The string indicates that an SMS has been received in Skype</comment>
-        <translation>İsmarıc qəbul edilir.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SMS:</source>
-        <translation>SMS:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other</source>
-        <translation>Digər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send SMS Message</source>
-        <translation>SMS İsmarıcı Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not delivered yet.</source>
-        <translation>Hələ çatdırılmayıb.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Write SMS</source>
-        <translation>SMS yaz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Buy Skype Credit</source>
-        <translation>Skype Hesabınıza Vəsait Yerləşdirin</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>TopicContainer</name>
     <message>
         <source>Change Picture...</source>
-        <translation>Şəklinizi Dəyişdirin...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Picture</source>
-        <translation>Şəkli Silin</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Video</name>
     <message>
         <source>Skype Full-Screen Video</source>
-        <translation>Skype Tam Ekran Video</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 would like to start a video call with you</source>
-        <translation>%1 sizinlə görüntülü zəngə başlamaq istəyir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Skype Video</source>
-        <translation>Skype Görüntünü Fəallaşdır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start my video automatically
 when I am in a call</source>
-        <translation>Zəng zamanı birbaşa görüntümün nümayişinə başla</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select webcam:</source>
-        <translation>Kamera seçin:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No devices found</source>
-        <translation>Cihazlar tapılmadı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable Auto-Exposure (darker video, higher frame rate)</source>
-        <translation>Birbaşa Nizamlama (qaranlıq video, yüksək tezlik) söndürülsün</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Voicemail</name>
     <message>
         <source>Play Greeting</source>
-        <translation>Salamlama Səsləndir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Record New Greeting</source>
-        <translation>Yeni Salamlama Yazılışı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restore Default Greeting</source>
-        <translation>Sabit Salamlamanı Bərpa Et</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duration: %1 seconds</source>
-        <translation>Müddəti: %1 saniyə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>seconds</source>
-        <translation>saniyə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I reject an incoming call</source>
-        <translation>Gələn zəngdən imtina etsəm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I am already on a call</source>
-        <translation>Artıq ünsiyyətdə iştirak edirəm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop Greeting Playback</source>
-        <translation>Salamlama Səslənməsini Dayandır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Finish Recording</source>
-        <translation>Yazılış Sona Çatdı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I do not answer within</source>
-        <translation>Əgər mən bu müddət ərzində cavab vermirəmsə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice messaging is activated </source>
-        <translation>Səsli ismarıc mübadiləsi fəalldır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice messaging is not activated</source>
-        <translation>Səsli ismarıc mübadiləsi qeyri-fəalldır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Voice message</source>
-        <translation>Səsli İsmarıc Göndər</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My voice message greeting</source>
-        <translation>Səsli ismarıc üçün mənim salamlamam</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default voice message greeting</source>
-        <translation>Səsli ismarıc üçün sabit salamlama</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom voice message greeting</source>
-        <translation>Fərdi sesli ismarıc salamlaması</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start recording a voice message if...</source>
-        <translation>Səsli ismarıc yazılışına başla. Əgər...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Never miss another call with voice messages</source>
-        <translation>Səsli ismarıcların köməkliyilə, bir zəngdə ötürməyəcəksiniz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Let Skype take a message if you're offline or away from your computer when someone calls.
 
 Personalize your voice message greeting, save messages to listen to again, and leave voice messages for your contacts if you can&apos;t get hold of them.</source>
-        <translation>Siz şəbəkədə və ya kompüter qarşısında olmadıqda, əgər kimsə zəng etsə, Skype ismarıc qəbul etsin. Skype sizə şəxsi salamlama yazmağa, zənginizi qəbul edə bilməyənlər üçün səsli ismarıclar göndərməyə, sonra yenidən dinləmək üçün dost və tanışlarınızdan səsli ismarıclar saxlamağa, imkan verir.</translation>
+        <translation>Lat Skype tak a message gin ye&apos;re affline or awa frae yer computer whan somebody caws.
+
+Personalize yer vyce message hailsin, hain messages tae listen tae again, an lea&apos; vyice messages for yer contacts gin ye cannae git a haud o thaim.</translation>
     </message>
     <message>
         <source>Listen to this voice message</source>
-        <translation>Bu səsli ismarıcı dinlə</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop playback</source>
-        <translation>Səsləndirməni dayandır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable voice messaging</source>
-        <translation>Səsli ismarıc mübadiləsini qoş</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Learn more about voice messaging</source>
-        <translation>Səsli ismarıc mübadiləsi haqqında daha ətraflı</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
