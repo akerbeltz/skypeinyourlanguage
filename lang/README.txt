@@ -2,6 +2,8 @@
 
 These files are language files for Skype on Windows and Linux for languages which do not come bundled with Skype itself.
 
+We try hard to keep this up to date and credit all translators but sometimes we miss new contributors. If you are contributing but you name is missing, please don't be offended. Just drop us a message and we'll add you.
+
 Please note:
 
 On Windows
@@ -22,7 +24,7 @@ Translator(s): Unknown
 Source: http://vk.com/pages?oid=-47071&p=%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4_Skype_%D0%BD%D0%B0_%D0%B0%D0%B4%D1%8B%D0%B3%D1%8D%D0%B1%D0%B7%D1%8D
 
 Afrikaans
-Translator(s): Unknown, OomDaan
+Translator(s): Unknown, Daniël Venter, Gideon Wentink, Dexter Roderick, Edrean Ernst
 Source: http://sariemarais.com/SkypeAfrikaans.lang & Transifex
 
 Albanian (Shqip)
@@ -46,20 +48,24 @@ Translator(s): Unknown, HrantOhanyan
 Source: https://www.dropbox.com/s/zbx8ebrmztgpws4/Armenian.lang
 
 Asturian (Asturianu)
-Translator(s): ivarela, Xose Álvarez, lasturianu06
+Translators: ivarela, Xose Álvarez, lasturianu06
 Source: Transifex, Skype Mini Marathion
 
 Azeri (Azərbaycanca, Azərbaycan dili)
-Translator(s): Unknown, Гасымов Гудрет
+Translators: Unknown, Гасымов Гудрет, Turqut Abasli, Sirab
 Source:http://www.boxca.com/8slkcaewyjrm/Skype_Az%C9%99rbaycan_dilind%C9%99_5.9.rar.html & Transifex
 
+Bashkir (башҡорт теле)
+Translators: Rustam Nuri, Ildar Kinyabulatov, Ilyir, Galinur Baysuwakov, AiseluRB, Ildus, Bulat Gabitov, Röstäm Battal, Zahir, Magira, Gulnaz, Rail Salimov, Ruslan Makhmutov, Urmanchin Marsely, Usman, Ilyur, Zagir, Guzyaly
+Source: Transifex
+
 Basque (Euskara)
-Translator(s): Unknown, urruyurre
+Translators: Unknown, urruyurre
 Source: http://librezale.org/pipermail/librezale/attachments/20080801/b9ecb6a7/attachment.obj & https://sourceforge.net/projects/skypeeuskarazkoitzulpena/?source=directory
 
-Belarusian ((Беларуская)
-Translator:
-Source: ﻿https://github.com/SpadarShut
+Belarusian (Беларуская)
+Translators: Unknown, spadarshut, debconf, dvarfy, vitalikus
+Source: ﻿https://github.com/SpadarShut, Transifex
 
 Belarusian (Беларуская мова, тарашкевіца)
 Translator(s): Unknown
@@ -71,6 +77,10 @@ Source: Transifex
 
 Bosnian (Bosanski)
 Translator(s): sreamthedj
+Source: Transifex
+
+Brazilian Portuguese (Brasileiro)
+Translators: Flávio Monteiro, Carlos Alberto Soares, Davyson Cassiano Sales
 Source: Transifex
 
 Breton (Brezhoneg)
@@ -86,8 +96,8 @@ Translator: Michael Bauer
 Source: Transifex
 
 Chuvash (Чӑвашла)
-Translator(s): Unknown, haychikki
-Source: http://ru.chuvash.org/e/d0a1d0bad0b0d0b9d0bf20d0bdd0b020d18dd180d0b7d18fd0bdd181d0bad0bed0bc20283120d187d0b0d181d182d18c29
+Translator(s): Unknown, haychikki, pentile, mirontoli
+Source: http://ru.chuvash.org/e/d0a1d0bad0b0d0b9d0bf20d0bdd0b020d18dd180d0b7d18fd0bdd181d0bad0bed0bc20283120d187d0b0d181d182d18c29, Transifex
 
 Colognian (Kölsch)
 Translator: Purodha Blissenbach
@@ -116,6 +126,10 @@ Source: http://www.gluggin.net/teldutilfar/Faroese_4.2.32.158_20100410_torsim.la
 Franconian (Frängisch)
 Translator: Sabine Cretella
 Source: Skype Mini Marathon
+
+Friulian (Furlan)
+Translator: Adriano Biason
+Source: Transifex
 
 Fula/Fulani (Fulfulde/Pulaar/Pular)
 Translator: Ibraahiima Saar
@@ -146,6 +160,10 @@ Source: Transifex
 
 Icelandic (Íslenska)
 Translator: Grétar Orri Kristinson
+
+Indonesian (Bahasa Indonesia)
+Translators: Asroul Irsyad, Deraidos, Anthony Santana
+Source: Transifex
 
 Irish (Gaeilge)
 Translator(s): Kevin Scannell
@@ -261,6 +279,7 @@ Source: Transifex
 
 Scots
 Translator: Marco Cafolla
+Source: Transifex
 
 Scottish Gaelic (Gàidhlig)
 Translator: Michael Bauer
@@ -278,12 +297,16 @@ Translator(s): Unknown
 Source: http://www.millat.tj/AFpersian%20cirillic.lang
 
 Talossan (El Glheþ Talossan)
-Translators: Robin van der Vliet, Marcel Machado
+Translators: Robin van der Vliet, Marcel Machado, Cresti Siervicül
 Source: Transifex
 
 Tamil (தமிழ்)
-Translator(s): Unknown
-Source: http://www.siruppiddy.net/?p=7092
+Translator(s): Mohamed Hussain, Annamalai Samy, Antony Amirtharaj)
+Source: http://www.siruppiddy.net/?p=7092 and Transifex
+
+Tatar (Татарча)
+Translators: Röstäm Battal
+Source: Transifex
 
 Telugu
 Translator(s): Unknown, pranava, naveenkumar_aremanda
@@ -294,7 +317,7 @@ Translator: Michał Wjelk
 Source: http://www.sorbzilla.de/skype/hsb.lang
 
 Urdu (اُردُو‎)
-Translator: Contrib2012, mrfix900
+Translator: Contrib2012, mrfix900, urduninja, Junaid Atari, Imran Shahid, Ahsan Naseer, Yousaf Saleem
 Source: Transifex
 
 Uyghur (ئۇيغۇرچە‎)
