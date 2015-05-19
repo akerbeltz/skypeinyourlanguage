@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2015-04-02 11:27+0000\n"
+"POT-Creation-Date: 2015-05-16 18:31:59+0100\n"
+"PO-Revision-Date: 2015-05-18 12:26+0000\n"
 "Last-Translator: Azer <siranas@yandex.com>\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/projects/p/skype-translation-project/language/az/)\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +60,7 @@ msgstr "&Kömək"
 
 msgctxt "sMAINMENU_HELP_HELP"
 msgid "Get Help: Answers and Support"
-msgstr "Kömək: Cavablar və Texniki Dəstək"
+msgstr "Kömək: Cavablar və Dəstək"
 
 msgctxt "sMAINMENU_HELP_UPDATES"
 msgid "Check for Updates"
@@ -76,7 +76,7 @@ msgstr "İsmarıc Göndər"
 
 msgctxt "sBUDDYMENU_VIEWPROFILE"
 msgid "View Profile"
-msgstr "Şəxsi Məlumatlarına Bax"
+msgstr "Fərdi Səhifəsinə Baxın"
 
 msgctxt "sBUDDYMENU_RENAME"
 msgid "Rename..."
@@ -157,7 +157,7 @@ msgstr "Skype Adı tapılmadı"
 
 msgctxt "sF_USERINFO_PROFILE_FOR_2"
 msgid "Profile for %s"
-msgstr "%s Şəxsi Səhifəsi"
+msgstr "%s Fərdi Səhifəsi"
 
 msgctxt "sF_USERINFO_LABEL_FULLNAME"
 msgid "Full name"
@@ -212,8 +212,8 @@ msgid "Forgot your password?"
 msgstr "Şifrəni xatırlamırsız?"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype və/və ya Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr "© 2015 Skype və/və ya Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -265,7 +265,7 @@ msgstr "Əlavə"
 
 msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
-msgstr "Əlaqəyə, cüt basmaqla zəng"
+msgstr "Əlaqəyə, cüt toxunuşla zəng"
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
@@ -273,11 +273,11 @@ msgstr "Windows qoşulduqda Skype qoşulsun"
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "Şəxsi səhifənizdə əlaqə vasitələrinizi qeyd edin"
+msgstr "Fərdi səhifənizdə əlaqə vasitələrinizi qeyd edin"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
-msgstr "Gələn zənglərə birbaşa cavab ver"
+msgstr "Gələn zənglərə birbaşa cavab"
 
 msgctxt "sF_OPTIONS_CB_22"
 msgid "call on hold"
@@ -285,7 +285,7 @@ msgstr "zəngi gözlət"
 
 msgctxt "sF_OPTIONS_CB_23"
 msgid "hang up"
-msgstr "zəngi bitir"
+msgstr "dəstəyi as"
 
 msgctxt "sF_OPTIONS_CB_25"
 msgid "contact online"
@@ -297,19 +297,19 @@ msgstr "Saxla"
 
 msgctxt "sF_OPTIONS_BUTTON_CANCEL"
 msgid "Cancel"
-msgstr "Ləğv et"
+msgstr "Ləğv Et"
 
 msgctxt "sF_OPTIONS_CAPTION"
 msgid "- Options"
 msgstr "- Tənzimləmələr"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype və/və ya Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr "© 2015 Skype və/və ya Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
-msgstr "Xüsusi İstisna Hüquqlu Sənəd (Patent) Gözləyir"
+msgstr "Səlahiyyətnamələr (Patentlər) Gözləyir"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_3"
 msgid ""
@@ -328,14 +328,14 @@ msgid ""
 "Unauthorized reproduction or distribution of this program, or any portions "
 "of it, may result in severe civil and criminal penalties, and will be "
 "prosecuted to the maximum extent possible under the law."
-msgstr "Bu proqramın qanunsuz olaraq surətinin çıxarılması və yayılması və ya onun hər hansı bir hissəsinin yayılması, sərt mülki və cinayət cəzalarına səbəb ola bilər və qanunun bütün sərtliyi ilə təqib ediləcək."
+msgstr "Bu proqramın qanunsuz nüsxələnməsi və yayılması və ya onun hər hansı bir hissəsinin yayılması, sərt mülki və cinayət cəzalarına səbəb ola bilər və qanunun bütün sərtliyi ilə təqib ediləcək."
 
 msgctxt "sF_ABOUT_VERSION"
 msgid ""
 "Unauthorized reproduction or distribution of this program, or any portions "
 "of it, may result in severe civil and criminal penalties, and will be "
 "prosecuted to the maximum extent possible under the law."
-msgstr "Bu proqramın qanunsuz olaraq surətinin çıxarılması və yayılması və ya onun hər hansı bir hissəsinin yayılması, sərt mülki və cinayət cəzalarına səbəb ola bilər və qanunun bütün sərtliyi ilə təqib ediləcək."
+msgstr "Bu proqramın qanunsuz nüsxələnməsi və yayılması və ya onun hər hansı bir hissəsinin yayılması, sərt mülki və cinayət cəzalarına səbəb ola bilər və qanunun bütün sərtliyi ilə təqib ediləcək."
 
 msgctxt "sF_USERPROFILE_LB_HOMEPHONE"
 msgid "Home phone"
@@ -351,15 +351,15 @@ msgstr "Zəngi Gözlət"
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr "Ünsiyyəti Bərpa Et"
+msgstr "Ünsiyyətin Bərpası"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
-msgstr "s% adlı şəxsin zənginə cavab ver və %s ilə ünsiyyəti gözlət?"
+msgstr "s% zənginə cavab ver və %s ilə ünsiyyəti gözlət?"
 
 msgctxt "sF_CONFIRM_DEFAULT_CAPTION"
 msgid "Confirm"
-msgstr "Təsdiqlə"
+msgstr "Təsdiq"
 
 msgctxt "sF_OPTIONS_PAGE_SOUNDS2"
 msgid "Sounds"
@@ -383,7 +383,7 @@ msgstr "%s üçün yeni ad daxil edin"
 
 msgctxt "sF_RENAMEUSER_CAPTION"
 msgid "Rename"
-msgstr "Yenidən adlandır"
+msgstr "Yenidən Adlandır"
 
 msgctxt "sF_CONFIRM_CBNOMORE"
 msgid "Do not ask me again"
@@ -463,7 +463,7 @@ msgctxt "sF_CHANGE_PASSWORD_TEXT8"
 msgid ""
 "Success! Your password has been changed. Use your new password the next time"
 " you sign in."
-msgstr "Şifrə müvəffəqiyətlə dəyişdirildi. Dəyişikliklər Skype-a növbəti girişinizdə qüvvəyə minəcəkdir."
+msgstr "Şifrə müvəffəqiyətlə dəyişdirildi! Yeni şifrəni növbəti girişinizdə istifadə edin."
 
 msgctxt "sF_SEND_CONTACTS_BTN_TEXT3"
 msgid "Send"
@@ -493,7 +493,7 @@ msgstr "Bağlantı"
 
 msgctxt "sF_OPTIONS_LB15"
 msgid "Use port"
-msgstr "Limanı istifadə et"
+msgstr "Limanın istifadəsi"
 
 msgctxt "sF_OPTIONS_LB19"
 msgid "for incoming connections"
@@ -501,7 +501,7 @@ msgstr "daxil olan bağlantılar üçün"
 
 msgctxt "sF_OPTIONS_TCB8"
 msgid "Use port 80 and 443 for additional incoming connections"
-msgstr "80 və 443 limanlarını əlavə daxili bağlantılar üçün istifadə et"
+msgstr "Əlavə daxili bağlantılar üçün 80 və 443 limanlarının  istifadəsi"
 
 msgctxt "sF_OPTIONS_CONNDATA_INVALIDPORT"
 msgid "Invalid port"
@@ -509,7 +509,7 @@ msgstr "Liman mövcud deyil"
 
 msgctxt "sF_OPTIONS_CONNDATA_CHANGED"
 msgid "Your changes will be applied the next time you start Skype"
-msgstr "Bütün dəyişikliklər Skype-ın növbəti işə salınmasında qüvvəyə minəcəkdir."
+msgstr "Bütün dəyişikliklər Skype növbəti dəfə qoşulduqda tətbiq ediləcək."
 
 msgctxt "sF_OPTIONS_SOUNDDEVICESETTING_FAILED"
 msgid "Your sound devices aren't working. Please check your settings."
@@ -539,11 +539,11 @@ msgstr "Şifrə bir hərf və bir rəqəmdən az olmamalıdır. Başqa şifrə s
 
 msgctxt "sF_OPTIONS_LB24"
 msgid "Use Skype to call callto: links on the web"
-msgstr "Skype-ı birbaşa nömrə yığımı callto: üçün istifadə et"
+msgstr "Birbaşa nömrə yığımı callto: üçün Skype istifadəsi"
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_COPY"
 msgid "Copy Selection"
-msgstr "Seçimin Surətini Çıxar"
+msgstr "Seçimi Nüsxələ"
 
 msgctxt "sF_CHAT_FORM_IMGRID_PMENUITEM_SELALL"
 msgid "Select All"
@@ -577,7 +577,7 @@ msgstr "Cəld düymə uyğunluğu"
 
 msgctxt "sF_OPTIONS_TCB11"
 msgid "Enable keyboard shortcuts"
-msgstr "Düymələr uyğunluğunu tətbiq et"
+msgstr "Düymələr uyğunluğu tətbiqi"
 
 msgctxt "sF_OPTIONS_TNTB6"
 msgid "Change selected shortcut"
@@ -585,27 +585,27 @@ msgstr "Düymələr uyğunluğunu dəyiş"
 
 msgctxt "sHOTKEY_ANSWER"
 msgid "Answer call"
-msgstr "Zəngi qəbul et"
+msgstr "Zəngin qəbulu"
 
 msgctxt "sHOTKEY_IGNORE"
 msgid "Ignore call"
-msgstr "Zəngə əhəmiyyət vermə"
+msgstr "Zəngdən imtina"
 
 msgctxt "sHOTKEY_HANGUP"
 msgid "Hang up"
-msgstr "Zəngdən imtina/dəstəyi as"
+msgstr "Dəstəyi as"
 
 msgctxt "sHOTKEY_FOCUS"
 msgid "Focus Skype"
-msgstr "Skype-ı göstər"
+msgstr "Skype-ı Göstər"
 
 msgctxt "sHOTKEY_SEARCH"
 msgid "Search for people on Skype"
-msgstr "Skype istifadəçilərini axtar"
+msgstr "Skype istifadəçiləri axtar"
 
 msgctxt "sF_HOTKEYEDIT_CAPTION"
 msgid "Set hotkey for %s"
-msgstr "%s üçün cəld düymə təyin et"
+msgstr "%s üçün cəld düymə təyini"
 
 msgctxt "sF_HOTKEYEDIT_ERROR"
 msgid ""
@@ -615,11 +615,11 @@ msgstr "Çox guman ki, %s düymə uyğunluğu artıq başqa proqram tərəfində
 
 msgctxt "sBUDDYMENU_BLOCK"
 msgid "Block This Person..."
-msgstr "Bu İstifadəçini Qadağan Et..."
+msgstr "Bu Şəxsi Qadağan Et..."
 
 msgctxt "sBUDDYMENU_UNBLOCK"
 msgid "Unblock This Person"
-msgstr "İstifadəçini qadağadan çıxar"
+msgstr "Bu Şəxsin Qadağa Ləğvi"
 
 msgctxt "sAVATAR_MENUITEM_MUTE"
 msgid "Mute Microphone"
@@ -631,11 +631,11 @@ msgstr "Mikrofonu Aç"
 
 msgctxt "sF_OPTIONS_HK_ACTION"
 msgid "Action"
-msgstr "Fəaliyyət"
+msgstr "Hərəkət"
 
 msgctxt "sF_OPTIONS_HK_STATUS"
 msgid "Active"
-msgstr "İşləyir"
+msgstr "Fəal"
 
 msgctxt "sF_OPTIONS_HK_HOTKEY"
 msgid "Hotkey"
@@ -643,7 +643,7 @@ msgstr "Uyğunluq"
 
 msgctxt "sF_OPTIONS_TNTB8"
 msgid "<b>Blocked contacts:</b> Stop someone contacting you"
-msgstr "<b>Qadağan edilmiş istifadəçilər:</b> Kiminsə sizinlə münasibətini qadağan edin"
+msgstr "<b>Qadağan edilmiş əlaqələr:</b> Kiminsə sizinlə ünsiyyətini dayandırın"
 
 msgctxt "sINFORM_DND"
 msgid ""
@@ -653,7 +653,7 @@ msgstr "Narahat Etməyin vəziyyəti seçilib. Bu vəziyyətdə gələn zənglə
 
 msgctxt "sSTATUS_PENDING"
 msgid "This person has not shared their details with you."
-msgstr "Bu istifadəçi hələ əlaqə vasitələrini sizə verməyib"
+msgstr "Bu şəxs əlaqə vasitələrini hələ sizə verməyib"
 
 msgctxt "sSTATUS_OFFLINE"
 msgid "Offline"
@@ -685,7 +685,7 @@ msgstr "Skype Dil Faylı Yüklə..."
 
 msgctxt "sF_USERENTRY_CB_STOREPASSWORD"
 msgid "Sign me in when Skype starts"
-msgstr "Skype açıldıqda şəxsi səhifəyə birbaşa daxil ol"
+msgstr "Skype qoşulduqda birbaşa giriş"
 
 msgctxt "sF_TRANSLATE_CAPTION"
 msgid "Language file editor"
@@ -697,7 +697,7 @@ msgstr "Fərqli saxla..."
 
 msgctxt "sF_TRANSLATE_APPLY"
 msgid "Apply"
-msgstr "Tətbiq et"
+msgstr "Tətbiq"
 
 msgctxt "sF_TRANSLATE_LOAD"
 msgid "Load"
@@ -727,19 +727,19 @@ msgstr "Cari"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_BLOCK"
 msgid "Block this person"
-msgstr "İstifadəçini qadağan et"
+msgstr "Bu istifadəçini qadağan et"
 
 msgctxt "sF_BLOCKUSERS_BUTTON_UNBLOCK"
 msgid "Unblock this person"
-msgstr "İstifadəçini qadağadan çıxar"
+msgstr "Bu istifadəçinin qadağa ləğvi"
 
 msgctxt "sF_OPTIONS_TCB10"
 msgid "Automatically pause Winamp during calls"
-msgstr "Zənglər zamanı Winamp-a birbaşa fasilə ver"
+msgstr "Zənglər zamanı Winamp-a birbaşa fasilə"
 
 msgctxt "sF_OPTIONS_CB21"
 msgid "Ring PC speaker"
-msgstr "Kompüterin səs sütunları vasitəsiylə zəng"
+msgstr "Kompüterin səs sütunları vasitəsilə zəng"
 
 msgctxt "sBUDDYMENU_SPEEDDIAL"
 msgid "Set Speed Dial..."
@@ -763,7 +763,7 @@ msgstr "Giriş"
 
 msgctxt "sBUDDYMENU_INVITE_CONFERENCE"
 msgid "Invite to group call"
-msgstr "Dəstə zənginə qoşulmağa dəvət et"
+msgstr "Dəstə zənginə qoşulmağa dəvət"
 
 msgctxt "sCALLING_BLOCKED"
 msgid "You can't communicate with this person because you have blocked them."
@@ -837,7 +837,7 @@ msgctxt "sLANGUAGE_ERROR"
 msgid ""
 "Error %s|Skype can't load custom language file. Please make sure it is a "
 "valid Skype language file, and try again."
-msgstr "Xəta %s |Skype qeyri-sabit dil faylını yükləyə bilmir. Zəhmət olmasa, ehtibarlı Skype dil faylı seçin. Sonra təkrar cəhd edin."
+msgstr "Xəta %s|Skype qeyri-sabit dil faylını yükləyə bilmir. Zəhmət olmasa, ehtibarlı Skype dil faylı seçin. Sonra təkrar cəhd edin."
 
 msgctxt "sLANGUAGE_ERROR_TITLE"
 msgid "Error"
@@ -869,7 +869,7 @@ msgstr "son göründüyü:"
 
 msgctxt "sAVATAR_MENUITEM_CONF_REMOTE_HANGUP"
 msgid "Leave group call"
-msgstr "Dəstə zəngindən çıx"
+msgstr "Dəstə zəngindən çıxış"
 
 msgctxt "sAVATAR_MENUITEM_CONF_INCOMING_REJECT"
 msgid "Reject group call"
@@ -877,7 +877,7 @@ msgstr "Dəstə zəngi dəvətindən imtina"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_1"
 msgid "Answer group call from %s and put %s on hold?"
-msgstr "%s tərəfindən edilən dəstə zənginə cavab ver və %s adlı şəxsi gözlət?"
+msgstr "%s tərəfindən edilən dəstə zənginə cavab ver və %s ilə ünsiyyəti gözlət?"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER_2"
 msgid "Answer call from %s and put group call with %s on hold?"
@@ -943,15 +943,15 @@ msgctxt "sF_USERENTRY_ERROR_TOO_MANY_ATTEMPTS"
 msgid ""
 "There were too many failed sign-in attempts, please wait 1 minute before you"
 " retry."
-msgstr "Həddindən çox uğursuz bağlantı cəhdi. Bir dəqiqə sonra yenidən cəhd edin."
+msgstr "Həddindən çox uğursuz bağlantı cəhdi. 1 dəqiqə sonra yenidən cəhd edin."
 
 msgctxt "sCALL_LB2_FAILED_SOUND_RECORDING_ERROR"
 msgid "Problem with recording device."
-msgstr "Səs yazma cihazında nasazlıq var"
+msgstr "Səs yazma cihazında nasazlıq"
 
 msgctxt "sCALL_LB2_FAILED_SOUND_PLAYBACK_ERROR"
 msgid "Problem with playback device."
-msgstr "Səsləndirmə cihazında nasazlıq var"
+msgstr "Səsləndirmə cihazında nasazlıq"
 
 msgctxt "sF_OPTIONS_TNTCB20"
 msgid "Automatically adjust microphone settings"
@@ -962,7 +962,7 @@ msgid ""
 "The phone number you tried to dial was not entered correctly. You must dial "
 "+ then the country code and number you wish to call. Example: +1 212 555 "
 "1212"
-msgstr "Yığılan nömrə yanlış daxil edilib. Əvvəlcə +, sonra ölkə kodu, daha sonra nömrə yığılmalıdır. Nümunə: +1 212 555 1213"
+msgstr "Yığılan nömrə yanlış daxil edilib. Əvvəlcə +, sonra ölkə kodu, daha sonra nömrə yığılmalıdır. Nümunə: +1 212 555 1212"
 
 msgctxt "sPSTN_ERR_UNKNOWN"
 msgid "Sorry, there was a problem. Please try again."
@@ -974,7 +974,7 @@ msgstr "Balans sıfıra bərabərdir"
 
 msgctxt "sPSTN_RES_9401"
 msgid "Sorry, call failed."
-msgstr "Üzr, zəng uğursuz."
+msgstr "Təəssüf, zəng uğursuz."
 
 msgctxt "sPSTN_RES_9402"
 msgid "No Skype Credit."
@@ -982,7 +982,7 @@ msgstr "Balans sıfıra bərabərdir"
 
 msgctxt "sPSTN_RES_9409"
 msgid "Sorry, call failed."
-msgstr "Üzr, zəng uğursuz."
+msgstr "Təəssüf, zəng uğursuz."
 
 msgctxt "sPSTN_RES_10404"
 msgid "Invalid phone number"
@@ -1002,7 +1002,7 @@ msgstr "Səsləndir"
 
 msgctxt "sF_OPTIONS_GREETING_DELETE"
 msgid "Reset to default voicemail greeting"
-msgstr "Sabit salamlamanı bərpa et"
+msgstr "Sabit salamlamanın bərpası"
 
 msgctxt "sF_OPTIONS_GREETING_STOP"
 msgid "Stop"
@@ -1217,11 +1217,11 @@ msgstr "Yanlış Skype Adı və ya telefon nömrəsi"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_OK"
 msgid "%s %s Skype Credit <a href=\"skype:?payments#skypeout\">Buy more</a>"
-msgstr "Skype balansı - qalıb %s %s <a href=\"skype:?payments#skypeout\">Hesabınıza vəsait yerləşdirin</a>"
+msgstr "%s %s Skype Hesabı <a href=\"skype:?payments#skypeout\">Hesabınıza vəsait yerləşdirin</a>"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_LOW"
 msgid "%s %s Skype Credit <a href=\"skype:?payments#skypeout\">Buy more</a>"
-msgstr "Skype balansı: qalıb %s %s <a href=\"skype:?payments#skypeout\">Daha çox alın</a>"
+msgstr "%s %s Skype Hesabı <a href=\"skype:?payments#skypeout\">Daha çox alın</a>"
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_NO"
 msgid "Call mobile phones and landlines at great low rates"
@@ -1241,7 +1241,7 @@ msgstr "Mikrofonu bağla"
 
 msgctxt "sF_STARTCHAT_TITLE"
 msgid "Add people"
-msgstr "İştirakçı əlavə et"
+msgstr "İştirakçı əlavəsi"
 
 msgctxt "sF_STARTCHAT_SELECTED_CONTACTS_LABEL"
 msgid "People in this group"
@@ -1259,7 +1259,7 @@ msgstr "Əlavə et"
 
 msgctxt "sPSTN_RES_1000"
 msgid "Sorry, call failed."
-msgstr "Üzr, zəng uğursuz."
+msgstr "Təəssüf, zəng uğursuz."
 
 msgctxt "sF_USERENTRY_CB_START_SKYPE"
 msgid "Start Skype when computer starts"
@@ -1409,11 +1409,11 @@ msgstr "Söhbəti tərk et"
 
 msgctxt "sCHAT_MEMBER_ADDED"
 msgid "%s added %s"
-msgstr "%s, söhbətə %s adlı şəxsi əlavə etdi"
+msgstr "%s, bu söhbətə %s əlavə etdi"
 
 msgctxt "sF_MULTICHAT_TOPIC_CHANGED"
 msgid "%s has changed the conversation topic to \"%s\""
-msgstr "%s mövzunu dəyişdirdi: \"%s\""
+msgstr "%s ünsiyyət mövzusunu dəyişdirdi: \"%s\""
 
 msgctxt "sNUMBER_HIDDEN"
 msgid "Unknown phone number"
@@ -1421,7 +1421,7 @@ msgstr "Naməlum nömrə"
 
 msgctxt "sF_APIACL_CERTIFICATE"
 msgid "Certificate"
-msgstr "Xüsusi Təsdiq Sənədi (Sertifikat)"
+msgstr "Təsdiqnamə (Sertifikat)"
 
 msgctxt "sACL_FAQ_LINK"
 msgid "What does this mean?"
@@ -1445,11 +1445,11 @@ msgstr "Fayl göndər: %s"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING"
 msgid "Are you sure you want to send file \"%s\" to %s?"
-msgstr "\"%s\" faylını %s adlı şəxsə göndərmək istəyirsiniz?"
+msgstr "\"%s\" faylını %s göndərmək istəyirsiniz?"
 
 msgctxt "sF_MULTICHAT_SENDFILE_MULTI_WARNING2"
 msgid "Are you sure you want to send %d files to %s?"
-msgstr "%d ədəd faylı %s adlı şəxsə göndərmək istəyirsiniz?"
+msgstr "%d ədəd faylı %s göndərmək istəyirsiniz?"
 
 msgctxt "sF_MULTICHAT_SENDFILE_LIMIT_ERROR"
 msgid "You can't send files to more than %d people at once."
@@ -1461,11 +1461,11 @@ msgstr "Səsli ismarıc yazılışı bitdikdə bura basın."
 
 msgctxt "sBUDDYMENU_HANGUP"
 msgid "End Call with This Person"
-msgstr "Bu Şəxslə Olan Zəngi Bitir"
+msgstr "Bu Şəxslə Zəngi Bitir"
 
 msgctxt "sF_OPTIONS_SOCKS_HOST"
 msgid "Host"
-msgstr "Əsas Qəbuledici"
+msgstr "Qəbuledici (Host)"
 
 msgctxt "sF_OPTIONS_SOCKS_PORT"
 msgid "Port"
@@ -1481,7 +1481,7 @@ msgstr "Şifrə"
 
 msgctxt "sF_OPTIONS_SOCKS_ENABLE_AUTH"
 msgid "Enable proxy authentication"
-msgstr "Şəbəkə təmsilçisi (proksi) qəbulunun tətbiqinə icazə ver"
+msgstr "Şəbəkə təmsilçisi (proksi) qəbulu tətbiqinə icazə"
 
 msgctxt "sF_OPTIONS_SOCKS_AUTOMATIC"
 msgid "Automatic proxy detection"
@@ -1556,7 +1556,7 @@ msgstr "Kəs"
 
 msgctxt "sF_MULTICHAT_EDIT_COPY"
 msgid "Copy"
-msgstr "Surətini çıxar"
+msgstr "Nüsxələ"
 
 msgctxt "sF_MULTICHAT_EDIT_PASTE"
 msgid "Paste"
@@ -1644,7 +1644,7 @@ msgstr "Şəklinizi dəyişdirin"
 
 msgctxt "sF_OPTIONS_LINK_LEARN_MORE"
 msgid "Learn more about how Skype deals with proxies and firewalls"
-msgstr "Skype-ın şəbəkə təmsilçisi (proksi) bağlantılarıyla və Mühafizə səddiylə (Brandmauer,Firewall) necə işlədiyi haqqında ətraflı"
+msgstr "Skype-ın şəbəkə təmsilçisi (proksi) bağlantıları ilə və Mühafizə səddilə (Brandmauer, Firewall) necə işlədiyi haqqında ətraflı"
 
 msgctxt "sF_OPTIONS_LBC_CONNECTION"
 msgid "<b>Connection:</b> Set up how Skype connects to the internet"
@@ -1943,7 +1943,7 @@ msgstr "<b>Zənglərin yönəldilməsi:</b> Zənglərin kompütersiz qəbulu"
 
 msgctxt "sF_OPTIONS_CB_FORWARDING"
 msgid "Forward my calls to:"
-msgstr "Mənim zənglərimi istiqamətləndir:"
+msgstr "Zənglərimi istiqamətləndir:"
 
 msgctxt "sF_OPTIONS_FORWARD_HINT5"
 msgid "Calls will be forwarded to all phone numbers at the same time"
@@ -1953,11 +1953,11 @@ msgctxt "sERROR_HINT_9401"
 msgid ""
 "You need Skype Credit to call phones.<a href=\"skype:?payments#skypeout\"> "
 "Click here to get Skype Credit now</a>."
-msgstr "Sabit və mobil telefon nömrələrinə zəng etmək üçün Skype hesabınızda vəsait olmalıdır.<a href=\"skype:?payments#skypeout\"> Skype hesabınıza ödəmə etmək üçün bura basın</a>."
+msgstr "Sabit və mobil telefon nömrələrinə zəng etmək üçün Skype Hesabınızda vəsait olmalıdır.<a href=\"skype:?payments#skypeout\"> Skype hesabınıza ödəmə etmək üçün bura basın</a>."
 
 msgctxt "sF_OPTIONS_VOICEMAIL_CB_3"
 msgid "Receive unanswered calls as a voice message"
-msgstr "Cavabsız zəngləri səsli ismarıc kimi qəbul et"
+msgstr "Cavabsız zənglərin səsli ismarıc halında qəbulu"
 
 msgctxt "sF_OPTIONS_LBC_VOICEMAIL"
 msgid "Voice messages"
@@ -1969,7 +1969,7 @@ msgstr "bağlantı qurulur"
 
 msgctxt "sF_USERINFO_LABEL_ADD"
 msgid "Add contact"
-msgstr "Əlaqə əlavə et"
+msgstr "Əlaqə əlavəsi"
 
 msgctxt "sF_USERINFO_LABEL_NOT_FOUND"
 msgid ""
@@ -1979,7 +1979,7 @@ msgstr "Bu əlaqə barədə əlavə məlumat yoxdur, çünki o uzun müddətdir 
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_1"
 msgid "This picture \"%s\" belongs to %s."
-msgstr "«%s» şəkli %s adlı şəxsə məxsusdur."
+msgstr "«%s» şəkli %s məxsusdur."
 
 msgctxt "sF_AVATAR_BROWSER_MSG1_2"
 msgid "Please sign in as %s to select this picture."
@@ -2041,7 +2041,7 @@ msgstr "Dəstəyi as (Müasir)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT7"
 msgid "Skype IM received (Modern)"
-msgstr "İcmarıc daxil oldu (Müasir)"
+msgstr "İcmarıc gəldi (Müasir)"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT8"
 msgid "Skype contact online (Modern)"
@@ -2123,11 +2123,11 @@ msgctxt "sF_OPTIONS_VOICEMAIL_ADVAMCED"
 msgid ""
 "Let Skype take a message if you're offline or away from your computer when "
 "someone calls."
-msgstr "Şəbəkədə və ya kompüter qarşısında olmadığınız zaman, Skype-ın zənglər zamanı səsli ismarıclar qəbul etmək imkanını tətbiq edin."
+msgstr "Şəbəkədə və ya kompüter qarşısında olmadığınız zaman, Skype-ın zənglər zamanı səsli ismarıclar qəbulu imkanını tətbiq edin."
 
 msgctxt "sF_OPTIONS_LINK_CF_ADVANCED"
 msgid "Add more phone numbers"
-msgstr "Yeni nömrə əlavə et"
+msgstr "Yeni nömrə əlavəsi"
 
 msgctxt "sF_OPTIONS_LINK_CF_BASIC"
 msgid "One phone number only"
@@ -2173,7 +2173,7 @@ msgstr "Tənzimlər tətbiq edilmədi"
 
 msgctxt "sF_OPTIONS_CF_ERROR1"
 msgid "Phone number or Skype Name is invalid. Please check and try again."
-msgstr "Qeyd olunan nömrə və ya istifadəçi adı səhvdir. Xaiş edirik, səhvinizi düzəldib yenidən cəhd edin."
+msgstr "Telefon nömrəsi və ya Skype Adı yanlışdır. Yoxlayın və yenidən cəhd edin."
 
 msgctxt "sF_OPTIONS_CF_ERROR2"
 msgid "Error in call forwarding settings"
@@ -2235,7 +2235,7 @@ msgstr "Səsləndirmə dəstəklənmir"
 
 msgctxt "sPSTN_RES_9403"
 msgid "Account blocked."
-msgstr "Şəxsi Səhifə qadağan edilib."
+msgstr "Hesab qadağan edilib."
 
 msgctxt "sF_AVATAR_BROWSER_MSG3_1"
 msgid "The file %s can't be used as a picture."
@@ -2310,7 +2310,7 @@ msgstr "Veb-kamera seçin:"
 
 msgctxt "sF_OPTIONS_VIDEO_ENABLE"
 msgid "Enable video"
-msgstr "Görüntü rabitəsini aç"
+msgstr "Görüntünü qoş"
 
 msgctxt "sF_OPTIONS_VIDEO_SEND_AUTOMATICALLY"
 msgid "Start my video automatically when I am in a call"
@@ -2348,11 +2348,11 @@ msgstr "Skype USB yaddaş cihazından işə salınıb. %s tərəfindən qurulan 
 
 msgctxt "sF_AUTHQUERY_DEFAULT2"
 msgid "Hello! Please add me to your Contact list."
-msgstr "Salam! Xaiş edirəm, məni əlaqələr siyahınıza əlavə edin."
+msgstr "Salam! Xaiş edirəm, məni Əlaqələr siyahınıza əlavə edin."
 
 msgctxt "sMOODMESSAGE_HINT"
 msgid "Enter mood message"
-msgstr "İsmarıc daxil edin"
+msgstr "Əhval ismarıcı daxil edin"
 
 msgctxt "sSTATUS_OFFLINE_VM"
 msgid "Offline with voice messaging"
@@ -2364,7 +2364,7 @@ msgstr "Şəbəkədə deyil, zəng yönəldilmə mövcuddur."
 
 msgctxt "sSTATUSPAGE_SKYPEOUT_SHORT"
 msgid "Credit expires %s <a href=\"skype:?dialpad\"> Make a call</a>."
-msgstr "%s tarixli balansınız sıfıra enəcək <a href=\"skype:?dialpad\"> Zəng et</a>"
+msgstr "Hesabınız sıfıra enəcək %s <a href=\"skype:?dialpad\"> Zəng et</a>"
 
 msgctxt "sF_USERENTRY_LINK_REGISTER"
 msgid "Don't have a Skype Name?"
@@ -2380,7 +2380,7 @@ msgstr "Əlaqələr İdxalı..."
 
 msgctxt "sMAINMENU_TOOLS_TRANSLATE"
 msgid "Edit Skype Language File..."
-msgstr "Dil Faylı Düzəlişi..."
+msgstr "Skype Dil Faylı Düzəlişi..."
 
 msgctxt "sF_USERENTRY_ERROR_1101"
 msgid "Skype can't connect."
@@ -2422,7 +2422,7 @@ msgstr "Yeni melodiya və səslər yükləyin"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT10"
 msgid "Skype knocking sound"
-msgstr "Döyüntü səsi"
+msgstr "Tıqqıltı səsi"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT11"
 msgid "Skype call error1"
@@ -2434,7 +2434,7 @@ msgstr "Zəng zamanı xəta2"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT14"
 msgid "Skype incoming contacts"
-msgstr "Əlaqələr qəbul olundu"
+msgstr "Əlaqələr qəbulu"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT15"
 msgid "Skype incoming voice message"
@@ -2442,11 +2442,11 @@ msgstr "Səsli ismarıc qəbulu"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT16"
 msgid "Skype incoming file"
-msgstr "Fayl qəbul olundu"
+msgstr "Fayl qəbulu"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT17"
 msgid "Skype incoming request"
-msgstr "Sorğu qəbul olundu"
+msgstr "Sorğu qəbulu"
 
 msgctxt "sF_SOUNDS_DEFAULT_SOUND_TEXT18"
 msgid "Skype sign in sound"
@@ -2486,7 +2486,7 @@ msgstr "İstifadəçi getdi"
 
 msgctxt "sF_OPTIONS_SOUNDS_KNOCKING"
 msgid "knocking"
-msgstr "döyür (taqqıldadır)"
+msgstr "tıqqıltı"
 
 msgctxt "sF_OPTIONS_SOUNDS_ERROR1"
 msgid "call error1"
@@ -2858,7 +2858,7 @@ msgctxt "sF_UPGRADE_FORCED_TEXT1"
 msgid ""
 "The version of Skype you are running needs to be updated for the following "
 "reason:"
-msgstr "Cari Skype növü növbəti səbəbə görə yeniləmə tələb edir:"
+msgstr "Cari Skype buraxılışı növbəti səbəbə görə yeniləmə tələb edir:"
 
 msgctxt "sF_UPGRADE_FORCED_TEXT2"
 msgid "You need to update Skype now for security reasons."
@@ -2868,13 +2868,13 @@ msgctxt "sF_UPGRADE_NORMAL_TEXT1"
 msgid ""
 "There's a new version of Skype available. Update now to get the latest "
 "features and improvements."
-msgstr "Skype yeni növü hazırdır. Yeni imkanlardan yararlanmaq üçün, Skype-ı yeniləyin."
+msgstr "Skype yeni buraxılışı hazırdır. Yeni imkanlardan yararlanmaq üçün, Skype-ı yeniləyin."
 
 msgctxt "sF_UPGRADE_NORMAL_TEXT2"
 msgid ""
 "This is a <b>major release</b>, which means it is a significant update which"
 " has several new features and offers dramatic improvements."
-msgstr "<b>Yeni növ </b> mövcud əhəmiyyətli dəyişikliklər ilə fərqlənir, yeni imkanlar və təkmilləşmələr təqdim edir."
+msgstr "<b>Yeni buraxılış </b> mövcud əhəmiyyətli dəyişikliklərlə fərqlənir, yeni imkanlar və təkmilləşmələr təqdim edir."
 
 msgctxt "sF_UPGRADE_INIT"
 msgid "Initializing..."
@@ -2962,7 +2962,7 @@ msgstr "Şifrəni göndərmək üçün Hesabınızda kifayət qədər vəsait yo
 
 msgctxt "sF_UPGRADE_UPTODATE"
 msgid "You already have the latest version of Skype installed."
-msgstr "Qurulmuş Skype ən yeni növdür."
+msgstr "Sizdə artıq ən son Skype buraxılışı quraşdırılıb."
 
 msgctxt "sF_UPGRADE_UPTODATE_CAPTION"
 msgid "Check for update"
@@ -3003,9 +3003,10 @@ msgstr "Ayrıl"
 
 msgctxt "sF_OPTIONS_SMS_NR_INVALID"
 msgid ""
-"The phone number is not entered correctly. Please select the country and "
-"then enter the number Example: Select United Kingdom and enter 020 5555 1212"
-msgstr "Nömrə yanlış daxil edilib. Əvvəlcə ölkə seçin, daha sonra telefon nömrəsini daxil edin. Məsələn, Azərbaycanı seçin və nömrəni daxil edin"
+"The phone number is not entered correctly. Please select the country/region "
+"and then enter the number Example: Select United Kingdom and enter 020 5555 "
+"1212"
+msgstr "Telefon nömrəsi yanlış daxil edilib. Əvvəl ölkə/bölgə seçin və sonra telefon nömrəsi daxil edin. Məsələn: Birləşmiş Krallıq seçin və 020 5555 1212 daxil edin."
 
 msgctxt "sLOGIN_PROGRESS_LABEL"
 msgid "Skype is updating files. This may take some time."
@@ -3053,11 +3054,11 @@ msgstr "Telefon nömrəsini dəyiş"
 
 msgctxt "sBUDDYMENU_EDIT"
 msgid "Edit Contact..."
-msgstr "Əlaqəyə Düzəliş Et..."
+msgstr "Əlaqəyə Düzəliş..."
 
 msgctxt "sEDIT_MY_PROFILE"
 msgid "Edit Your Profile..."
-msgstr "Məlumatlarınıza Düzəliş Edin..."
+msgstr "Məlumatlarınıza Düzəliş..."
 
 msgctxt "sCHANGE_MY_PICTURE"
 msgid "Change Your Picture..."
@@ -3073,7 +3074,7 @@ msgstr "Özünüzə fayl göndərə bilməzsiniz"
 
 msgctxt "sPSTN_RES_6519"
 msgid "Sorry, call failed."
-msgstr "Üzr, zəng uğursuz."
+msgstr "Təəssüf, zəng uğursuz"
 
 msgctxt "sPSTN_RES_10480"
 msgid "Phone network error"
@@ -3541,7 +3542,7 @@ msgstr "Söhbət bildirişləri tənzimləri"
 
 msgctxt "sF_CHAT_NOTIFY_BTN_OK"
 msgid "OK"
-msgstr "Oldu"
+msgstr "OLDU"
 
 msgctxt "sF_CHAT_NOTIFY_BTN_CANCEL"
 msgid "Cancel"
@@ -3674,9 +3675,9 @@ msgstr "Nömrəni ölkə və ya bölgə kodu ilə birgə daxil edin"
 msgctxt "sF_STARTCONF_ADD_NR_INVALID"
 msgid ""
 "The phone number you tried to add was not entered correctly. You must select"
-" the country and then enter the number you wish to add. Example: Select "
-"United Kingdom and enter 020 5555 1212"
-msgstr "Telefon nömrəsi yanlış daxil edilib. Əvvəl ölkə seçin, sonra əlavə etmək istədiyiniz telefon nömrəsini daxil edin. Məsələn:  Birləşmiş Krallıq seçin və 020 5555 1212 daxil edin."
+" the country/region and then enter the number you wish to add. Example: "
+"Select United Kingdom and enter 020 5555 1212"
+msgstr "Telefon nömrəsi yanlış daxil edilib. Əvvəl ölkə seçin, sonra əlavə etmək istədiyiniz telefon nömrəsini daxil edin. Məsələn: Birləşmiş Krallıq seçin və 020 5555 1212 daxil edin."
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
@@ -3688,7 +3689,7 @@ msgstr "Şifrə lazımdır"
 
 msgctxt "sCHAT_STATUSMESSAGE_QUEUED"
 msgid "This public IM is full. Please try joining again later."
-msgstr "Bu ictimai söhbətdə boş yer yoxdur. Daha sonra yenidən daxil olmağa cəhd edin."
+msgstr "Bu ictimai söhbətdə boş yer yoxdur. Bir qədər sonra yenidən daxil olmağa cəhd edin."
 
 msgctxt "sCHAT_STATUSMESSAGE_DENIED"
 msgid ""
@@ -3717,7 +3718,7 @@ msgstr "Bağla"
 
 msgctxt "sF_CHAT_INFO_BTN_COPYLINK"
 msgid "Copy link to clipboard"
-msgstr "İstinadın surətini çıxararaq mübadilə lövhəsinə yerləşdir"
+msgstr "İstinadı nüsxələyib mübadilə lövhəsinə yerləşdirin"
 
 msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
@@ -3788,7 +3789,7 @@ msgstr "İmtina"
 
 msgctxt "sF_CALL_QLT_BTN_FINISH"
 msgid "Finish"
-msgstr "Bitir"
+msgstr "Son"
 
 msgctxt "sF_CALL_QLT_BTN_SEND_FEEDBACK"
 msgid "Send feedback"
@@ -3872,7 +3873,7 @@ msgstr "Skype Prime"
 
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
-msgstr "Bildiriş və ismarıclar"
+msgstr "Bildiriş & ismarıclar"
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
@@ -3892,7 +3893,7 @@ msgstr "Zənginiz ödənişsiz yönəldilir. Zəhmət olmasa, gözləyin."
 
 msgctxt "sCALL_QUALITY_DIAL_PAD"
 msgid "Problems sending dial pad (DTMF) tones."
-msgstr "Tonlu yığım səslərinin göndərilməsi ilə bağlı nöqsanlar var idi."
+msgstr "Tonlu yığım səslərinin (DTMF) göndərilməsilə nöqsanlar var idi."
 
 msgctxt "sCALL_QUALITY_CALL_DROPPED"
 msgid "Call dropped."
@@ -3940,21 +3941,21 @@ msgstr "Son zənglər"
 
 msgctxt "sSTATUS_ONLINE_MOBILE"
 msgid "Online (on a mobile device)"
-msgstr "Şəbəkədə (mobil)"
+msgstr "Şəbəkədə (mobil cihazda)"
 
 msgctxt "sSTATUS_AWAY_MOBILE"
 msgid "Away (on a mobile device)"
-msgstr "Yerində Deyil (mobil)"
+msgstr "Yerində Deyil (mobil cihazda)"
 
 msgctxt "sSTATUS_DND_MOBILE"
 msgid "Do Not Disturb (on a mobile device)"
-msgstr "Narahat Etməyin (mobil)"
+msgstr "Narahat Etməyin (mobil cihazda)"
 
 msgctxt "sCHAT_GAP_IN_CHAT"
 msgid ""
 "You have been offline for too long. Some messages have been lost from that "
 "period."
-msgstr "Skype-da uzun müddət olmamısınız. Bu müddət ərzində ismarıcların bəziləri silinib."
+msgstr "Uzun müddət Skype-da olmamısınız. Bu müddət ərzində bəzi ismarıclar silinib."
 
 msgctxt "sERROR_HINT_VIDEO_13"
 msgid ""
@@ -4041,11 +4042,11 @@ msgstr "Əlavə tənzimlərə bax"
 
 msgctxt "sF_OPTIONS_ANYONE_CAN_CONTACT"
 msgid "Allow anyone to contact me"
-msgstr "Bütün zəng və ismarəcları qəbul et"
+msgstr "Bütün zəng və ismarəclar qəbulu"
 
 msgctxt "sF_OPTIONS_ONLY_CONTACT_LIST"
 msgid "Only allow people in my Contact list to contact me"
-msgstr "Yalnız əlaqələr siyahımdakı şəxslərdən gələn zəng və ismarıları qəbul et"
+msgstr "Yalnız Əlaqələr siyahımdakı şəxslərdən gələn zəng və ismarılar qəbulu"
 
 msgctxt "sF_OPTIONS_ABOUT_PRIVACY"
 msgid "Learn more about privacy and security in Skype"
@@ -4065,19 +4066,19 @@ msgstr "Nümunə göstər"
 
 msgctxt "sF_OPTIONS_CALL_ANYONE"
 msgid "Allow anyone to call me"
-msgstr "Bütün zəngləri qəbul et"
+msgstr "Bütün zənglərin qəbulu"
 
 msgctxt "sF_OPTIONS_CALL_BUDDY"
 msgid "Only allow people in my Contact list to call me"
-msgstr "Yalnız əlaqələr siyahımdakı şəxslərdən gələn zəngləri qəbul et"
+msgstr "Yalnız Əlaqələr siyahımdakı şəxslərdən zənglər qəbulu"
 
 msgctxt "sF_OPTIONS_ANYONE_CAN_CHAT"
 msgid "Allow anyone to send IMs to me"
-msgstr "Hər kəsdən ismarıclar qəbul et"
+msgstr "Hər kəsdən ismarıc qəbulu"
 
 msgctxt "sF_OPTIONS_BUDDY_CAN_CHAT"
 msgid "Only allow people in my Contact list to send me instant messages"
-msgstr "Yalnız əlaqələr siyahımdakı şəxslərdən ismarıclar qəbul et"
+msgstr "Yalnız Əlaqələr siyahımdakı şəxslərdən ismarıc qəbulu"
 
 msgctxt "sF_OPTIONS_CHAT_LOOKS"
 msgid "<b>IM appearance:</b> Set up how IM looks"
@@ -4100,7 +4101,7 @@ msgstr "Kömək lazımdır? <a href=\"skype:?go#help.guide.callwithvideo\">Veb-k
 
 msgctxt "sF_OPTIONS_TAKE_SNAPSHOT"
 msgid "Change your profile picture"
-msgstr "Şəklini dəyişdir"
+msgstr "Şəklinizi dəyişdirin"
 
 msgctxt "sF_OPTIONS_SMS_INFO"
 msgid ""
@@ -4114,11 +4115,11 @@ msgid ""
 "value – all you need is a little Skype Credit. You can even set your "
 "messages to look like they came from your mobile phone so friends can reply "
 "to your mobile."
-msgstr "İsmarıc yazmaq kompüter klavişi ilə çox rahatdır və bundan əlavə, Skype-dan SMS göndərmək çox ucuz başa gəlir. SMS-ə görə ödəniş üçün lazım olan yalnız Skype hesabınızdakı vəsaitlərdir. Bütün SMS-lər elə görünəcək ki, sanki onlar mobil nömrənizdən göndərilib. Deməli, dostlarınız çətinlik çəkmədən mobil telefonunuza cavab SMS-i göndərə biləcəklər."
+msgstr "İsmarıc yazmaq kompüter düymələrilə çox rahatdır və bundan əlavə, Skype-dan SMS göndərmək çox ucuz başa gəlir. SMS-ə görə ödəniş üçün lazım olan yalnız Skype Hesabınızdakı vəsaitlərdir. Bütün SMS-lər elə görünəcək ki, sanki onlar mobil nömrənizdən göndərilib. Deməli, dostlarınız çətinlik çəkmədən mobil telefonunuza cavab SMS-i göndərə biləcəklər."
 
 msgctxt "sF_OPTIONS_BUY_CREDIT_SMS"
 msgid "Buy Skype Credit to send SMS to mobile phone"
-msgstr "Mobil telefonlara SMS göndərmək üçün Skype hesabınıza vəsait yerləşdirin."
+msgstr "Mobil telefonlara SMS göndərmək üçün Skype Hesabınıza vəsait yerləşdirin."
 
 msgctxt "sF_OPTIONS_CALL_FORWARD1"
 msgid "Answer your Skype calls no matter where you are with call forwarding"
@@ -4133,7 +4134,7 @@ msgstr "Zəng yönəldilməsi üçün sizə Skype Hesabında vəsait və ya <a h
 
 msgctxt "sF_OPTIONS_CALL_FORWARD4"
 msgid "Rates for calling phones and mobiles"
-msgstr "Sabit və mobil telefonlara olunan zənglər üçün tariflər."
+msgstr "Sabit və mobil telefonlara edilən zənglər üçün tariflər."
 
 msgctxt "sF_OPTIONS_ABOUT_CALL_FORWARD"
 msgid "Learn more about call forwarding"
@@ -4141,7 +4142,7 @@ msgstr "Zənglərin yönəldilməsi haqqında ətraflı məlumat"
 
 msgctxt "SF_OPTIONS_BUY_CREDIT_CALL_FRW"
 msgid "Buy Skype Credit to forward calls to phones and mobiles"
-msgstr "Skype hesabınıza vəsait yerləşdirin və gələn zəngləri sabit və mobil telefonlara yönəldin"
+msgstr "Skype Hesabınıza vəsait yerləşdirin və gələn zəngləri sabit və mobil telefonlara yönəldin"
 
 msgctxt "sF_OPTIONS_CALL_FRW_OPTIONS"
 msgid "Call forwarding options"
@@ -4155,7 +4156,7 @@ msgctxt "sF_OPTIONS_CALL_FORWARDING"
 msgid ""
 "When you're away from Skype, forward incoming calls to a phone or mobile, to"
 " another Skype account, or receive a voice message."
-msgstr "Siz Skype-da olmadıqda, bütün daxil olan zənglər, sabit və mobil telefona və ya başqa bir Skype istifadəçisinin şəxsi səhifəsinə, eyni zamanda səsli ismarıclar bölməsinə yönəldilə bilər."
+msgstr "Siz Skype-da olmadıqda, bütün daxil olan zənglər, sabit və mobil telefona və ya başqa bir Skype istifadəçi hesabına, eyni zamanda səsli ismarıclar bölməsinə yönəldilə bilər."
 
 msgctxt "sF_OPTIONS_FORWARD_HINT8a"
 msgid "Skype Credit"
@@ -4173,7 +4174,7 @@ msgctxt "sF_OPTIONS_VOICEMAIL_LABEL"
 msgid ""
 "When you're away from Skype, callers can leave a voice message or be "
 "forwarded to a phone number or another Skype account."
-msgstr "Əgər siz Skype-a gələn zəngi qəbul edə bilmirsiniszə, sizə zəng edən şəxsə səsli ismarıc qoymaq təklif olunacaq və ya zəng qeyd etdiyiniz telefon nomrəsinə və ya başqa bir Skype şəxsi səhifəsinə yönəldiləcək."
+msgstr "Əgər siz Skype-a gələn zəngi qəbul edə bilmirsiniszə, sizə zəng edən şəxsə səsli ismarıc qoymaq təklif olunacaq və ya zəng qeyd etdiyiniz telefon nomrəsinə və ya başqa bir Skype hesabına yönəldiləcək."
 
 msgctxt "sF_BLOCK_ALREADY_BLOCKED"
 msgid "This person is already blocked."
@@ -4219,7 +4220,7 @@ msgstr "İşguzar əlaqə"
 
 msgctxt "sCALL_LB2_FAILED_COMMERCIAL_CONTACT"
 msgid "Contact can only receive IMs."
-msgstr "Əlaqə yalnız ismarıclar qəbul edə bilər."
+msgstr "Əlaqə yalnız İsmarıc qəbul edə bilər."
 
 msgctxt "sCHAT_EDITED_BY_SELF_MESSAGE_TITLE"
 msgid "Edited %s"
@@ -4243,7 +4244,7 @@ msgstr "Dəstəyi As"
 
 msgctxt "sZAP_ADDTOCONV"
 msgid "Add more people"
-msgstr "Daha çox isifadəçi əlavə et"
+msgstr "Daha çox isifadəçi əlavəsi"
 
 msgctxt "sFILETRANSFER_PROGRESS"
 msgid "%s of %s"
@@ -4267,7 +4268,7 @@ msgstr "Zəng Yönəldilmə Tənzimləri..."
 
 msgctxt "sREDBUTTON_HINT_CANCEL_VOICEMAIL"
 msgid "Cancel voice message"
-msgstr "Səsli ismarıcı ləğv et"
+msgstr "Səsli ismarıcın ləğvi"
 
 msgctxt "sTEXT_ILLFORMED_XML"
 msgid "The language string %s is invalid. Cannot load the language file."
@@ -4285,11 +4286,11 @@ msgstr "Fayllar bu müəssənin nümayəndəsinə göndərilə bilməz."
 
 msgctxt "s_OPTIONS_ACCEPT_COOKIES"
 msgid "Accept Skype browser cookies"
-msgstr "Skype çərəzlərini (cookies) qəbul et"
+msgstr "Skype çərəzlərin (cookies) qəbulu"
 
 msgctxt "s_OPTIONS_CLEAR_COOKIES"
 msgid "Clear Skype cookies"
-msgstr "Skype çərəzlərini (cookies) sil"
+msgstr "Skype çərəzlərin (cookies) silinməsi"
 
 msgctxt "sF_UPGRADE_DOWNLOAD_TOO_LONG"
 msgid "> 24 hours"
@@ -4313,11 +4314,11 @@ msgstr "Yoxdur"
 
 msgctxt "sZAPBUTTON_ACCEPT"
 msgid "Accept"
-msgstr "Qəbul et"
+msgstr "Qəbul"
 
 msgctxt "sZAPBUTTON_ADD"
 msgid "Add people"
-msgstr "Adam əlavə et"
+msgstr "Adam əlavəsi"
 
 msgctxt "sZAPBUTTON_ADD2"
 msgid "Add"
@@ -4325,7 +4326,7 @@ msgstr "Əlavə Et"
 
 msgctxt "sZAPBUTTON_ADDNUMBER"
 msgid "Add phone number"
-msgstr "Telefon nömrəsi əlavə et"
+msgstr "Telefon nömrəsi əlavəsi"
 
 msgctxt "sZAPBUTTON_ADDSOCONTACT"
 msgid "Add to Contacts"
@@ -4333,7 +4334,7 @@ msgstr "Əlaqələrə Əlavə Et"
 
 msgctxt "sZAPBUTTON_ADDCONTACT"
 msgid "Add a contact"
-msgstr "Əlaqə əlavə et"
+msgstr "Əlaqə əlavəsi"
 
 msgctxt "sZAPBUTTON_ADDALL"
 msgid "Add all to contacts"
@@ -4361,15 +4362,15 @@ msgstr "Əlaqələrə Əlavə Et"
 
 msgctxt "sZAPBUTTON_ANSWER"
 msgid "Answer"
-msgstr "Cavab Ver"
+msgstr "Cavab"
 
 msgctxt "sZAPBUTTON_ANSWERWITHVIDEO"
 msgid "Answer with video"
-msgstr "Görüntülü Cavab Ver"
+msgstr "Görüntülü Cavab"
 
 msgctxt "sZAPBUTTON_ACCEPTVIDEO"
 msgid "Accept"
-msgstr "Qəbul et"
+msgstr "Qəbul"
 
 msgctxt "sZAPBUTTON_AUDIOSETTINGS"
 msgid "Audio settings"
@@ -4385,7 +4386,7 @@ msgstr "Hesaba Vəsait Köçürün"
 
 msgctxt "sZAPBUTTON_BUYSUBSCRIPTION"
 msgid "Buy a subscription"
-msgstr "Abunə ol"
+msgstr "Abunə olun"
 
 msgctxt "sZAPBUTTON_CALL"
 msgid "Call"
@@ -4405,7 +4406,7 @@ msgstr "Dəstəyə Zəng"
 
 msgctxt "sZAPBUTTON_COPYCONVERSATIONLINK"
 msgid "Copy conversation link"
-msgstr "Zəngə keçidin surətini çıxar"
+msgstr "Zəngə keçidi nüsxələ"
 
 msgctxt "sZAPBUTTON_CQ_INACTIVE"
 msgid "Check settings"
@@ -4549,7 +4550,7 @@ msgstr "Ləğv et"
 
 msgctxt "sZAPBUTTON_ADDPHONENUMBER"
 msgid "Add phone number"
-msgstr "Telefon nömrəsi əlavə et"
+msgstr "Telefon nömrəsi əlavəsi"
 
 msgctxt "sZAPBUTTON_SUBMITPASSWORD"
 msgid "Submit"
@@ -4633,11 +4634,11 @@ msgstr "Bir daha göstərmə"
 
 msgctxt "sZAPBUTTON_REPLY"
 msgid "Reply"
-msgstr "Cavab Ver"
+msgstr "Cavab"
 
 msgctxt "sZAPBUTTON_DIALPADSHOW"
 msgid "Show dial pad"
-msgstr "Yığım"
+msgstr "Yığım düymələrini göstər"
 
 msgctxt "sZAPBUTTON_COUNTRYSELECTOR"
 msgid "Choose country/region"
@@ -4653,7 +4654,7 @@ msgstr "Tam ekrandan çıx"
 
 msgctxt "sZAPBUTTON_TOPUPHELP"
 msgid "Help"
-msgstr "Bələdçi"
+msgstr "Kömək"
 
 msgctxt "sZAPBUTTON_CHATBOOK"
 msgid "Facebook"
@@ -4665,7 +4666,7 @@ msgstr "Bu zəngi ötür"
 
 msgctxt "sZAPBUTTON_EDIT"
 msgid "Edit"
-msgstr "Düzəliş et"
+msgstr "Düzəliş"
 
 msgctxt "sZAPBUTTON_FINDOUTMORE"
 msgid "Find out more"
@@ -4689,7 +4690,7 @@ msgstr "<ks>Ə</ks>vvəlki"
 
 msgctxt "sZAPBUTTON_FOLLOWLINK"
 msgid "My account"
-msgstr "Mənim Şəxsi Səhifəm və Hesabım"
+msgstr "Mənim Hesabım"
 
 msgctxt "sZAPBUTTON_GALLERY"
 msgid "Gallery"
@@ -4713,7 +4714,7 @@ msgstr "%d yeni ismarıc"
 
 msgctxt "sZAPBUTTON_GETPREMIUMVIDEO"
 msgid "Get group video"
-msgstr "Dəstə halında görüntülü rabitə"
+msgstr "Görüntülü dəstə rabitəsi"
 
 msgctxt "sZAPBUTTON_UPGRADEPREMIUMVIDEO"
 msgid "Upgrade now"
@@ -4721,7 +4722,7 @@ msgstr "Yenilə!"
 
 msgctxt "sZAPBUTTON_SENDFREEUPGRADELINK"
 msgid "Send upgrade link"
-msgstr "Yeniləmə keçidi göndər"
+msgstr "Yeniləmə istinadı göndər"
 
 msgctxt "sZAPBUTTON_GROUPCALLSKYPE"
 msgid "Skype"
@@ -4885,7 +4886,7 @@ msgstr "Dəstə üçün SMS"
 
 msgctxt "sZAPBUTTON_MESSAGEVIACHANNEL"
 msgid "via Skype"
-msgstr "Skype vasitəsiylə"
+msgstr "Skype vasitəsilə"
 
 msgctxt "sZAPBUTTON_MORE"
 msgid "More"
@@ -4941,7 +4942,7 @@ msgstr "Şəxsi Məlumatları Yığ "
 
 msgctxt "sZAPBUTTON_PROFILEMAX"
 msgid "Maximize Profile"
-msgstr "Şəxsi Məlumatları Aç"
+msgstr "Şəxsi Məlumatları Genişlə"
 
 msgctxt "sZAPBUTTON_READ"
 msgid "Read"
@@ -5081,7 +5082,7 @@ msgstr "İsmarıcları göstər"
 
 msgctxt "sZAPBUTTON_SKIPVERSION"
 msgid "Skip version"
-msgstr "İmtina"
+msgstr "Bu buraxılışı ötür"
 
 msgctxt "sZAPBUTTON_SKYPEHOME"
 msgid "Skype Home"
@@ -5161,7 +5162,7 @@ msgstr "Şəxsi Məlumatları Göstər"
 
 msgctxt "sZAPBUTTON_VIEWACCOUNT"
 msgid "View my account"
-msgstr "Şəxsi səhifəyə baxış"
+msgstr "Fərdi səhifəyə baxış"
 
 msgctxt "sZAPBUTTON_TAKESNAPSHOT"
 msgid "Take a picture"
@@ -5342,6 +5343,14 @@ msgstr "Skype-da Axtar"
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
 msgstr "Oldu"
+
+msgctxt "sZAPBUTTON_COPYLINK"
+msgid "Copy link"
+msgstr "İstinadı nüsxələ"
+
+msgctxt "sZAPBUTTON_EMAILLINK"
+msgid "Email"
+msgstr "E-poçt"
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5810,7 +5819,7 @@ msgstr "Təhlükəsizlik..."
 
 msgctxt "sMAINMENU_SKYPE_ACCOUNT"
 msgid "My account"
-msgstr "Mənim Şəxsi Səhifəm və Hesabım"
+msgstr "Mənim Hesabım"
 
 msgctxt "sMAINMENU_SKYPE_BUYCREDIT"
 msgid "Buy Skype Credit..."
@@ -5822,7 +5831,7 @@ msgstr "Şifrəni Dəyiş..."
 
 msgctxt "sMAINMENU_SKYPE_SIGN_OUT"
 msgid "Sign Out"
-msgstr "Şəxsi Səhifədən Çıxış"
+msgstr "Fərdi Səhifədən Çıxış"
 
 msgctxt "sMAINMENU_SKYPE_CLOSE"
 msgid "Close"
@@ -5866,7 +5875,7 @@ msgstr "Şəbəkədə Deyil"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_OFFLINE_CF"
 msgid "Are Offline with Call Forwarding"
-msgstr "Şəbəkədə Deyil və Yönəldilmişdir"
+msgstr "Şəbəkədə Deyil  Zəng Yönəldilməsilə"
 
 msgctxt "sMAINMENU_CONTACTS_HIDE_NOT_AUTHORIZED"
 msgid "Haven't Shared Contact Details"
@@ -6026,7 +6035,7 @@ msgstr "Sonuncular"
 
 msgctxt "sMAINMENU_VIEW_PROFILE"
 msgid "Profile"
-msgstr "Şəxsi Məlumatlar"
+msgstr "Fərdi Səhifə"
 
 msgctxt "sMAINMENU_VIEW_CALL_PHONES"
 msgid "Call Phones"
@@ -6074,7 +6083,7 @@ msgstr "İnternetlə bağlantı itdi"
 
 msgctxt "sCALL_LB2_SKYPEOUT_BLOCKED"
 msgid "Account blocked"
-msgstr "Şəxsi Səhifə qadağan edilib"
+msgstr "Hesab qadağan edilib"
 
 msgctxt "sVOICEMAIL_NOTDOWNLOADED"
 msgid "You have to be online to listen to this voice message."
@@ -6142,7 +6151,7 @@ msgstr "30 gün"
 
 msgctxt "sCHAT_HISTORY_BEGINNING"
 msgid "From Beginning"
-msgstr "Lap Əvvəldən"
+msgstr "Əvvəldən"
 
 msgctxt "sCHAT_HISTORY_MESSAGE"
 msgid "Show messages from: %s"
@@ -6197,7 +6206,7 @@ msgid ""
 "Instant messaging isn't currently available. This may be resolved shortly "
 "once the chat has updated, or the other person may be using an older version"
 " of Skype which doesn't support calling and IM at the same time."
-msgstr "Ani ismarıc mübadiləsi müvəqqəti işləmir. Nöqsan, söhbətin yenilənməsindən sonra aradan qalxa bilər. Xəta səbəbi eləcədə, həmsöhbətinizin zəng zamanı ani ismarıclar mübadiləsini dəstəkləməyən, köhnə Skype növünü istifadə etməsi ola bilər."
+msgstr "Ani ismarıc mübadiləsi müvəqqəti işləmir. Nöqsan, söhbətin yenilənməsindən sonra aradan qalxa bilər. Xəta səbəbi eləcədə, həmsöhbətinizin zəng zamanı ani ismarıclar mübadiləsini dəstəkləməyən, köhnə Skype buraxılışı istifadə etməsi ola bilər."
 
 msgctxt "sCALL_TOO_MUCH_PARTICIPANTS2"
 msgid "Sorry, there are too many people to make this call"
@@ -6345,8 +6354,8 @@ msgid "View all %d new conversations"
 msgstr "Baxış üçün yeni ünsiyyətlər: %d"
 
 msgctxt "sMAINMENU_VIEW_SINGLE_WINDOW_MODE"
-msgid "Default View"
-msgstr "Sabit Baxış Vəziyyəti"
+msgid "Single Window View"
+msgstr "Vahid Pəncərə Görünüşü"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
 msgid "Split Window View"
@@ -6722,8 +6731,8 @@ msgid "pt"
 msgstr "pt"
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
-msgid "Open a new window when I receive a new message in Compact view"
-msgstr "İsmarıc aldıqda yeni yığcam pəncərədə aç."
+msgid "Open a new window when I receive a new message in Split Window View"
+msgstr "Bölünmüş Pəncərə Görünüşündə yeni bir ismarıc aldığımda yeni pəncərə aç"
 
 msgctxt "sF_CALL_QLT_LBL_AUDIO_PROBLEMS"
 msgid "Audio problems"
@@ -6896,7 +6905,7 @@ msgstr "İstifadəçi Əlavə Et..."
 
 msgctxt "sPUBLICCHAT_NOT_SUPPORTED"
 msgid "Public chats are not supported in this version"
-msgstr "Bu növ, ictimai söhbətləri dəstəkləmir"
+msgstr "Bu buraxılış ictimai söhbətləri dəstəkləmir"
 
 msgctxt "sPROFILE_OUTLOOK_CONTACT"
 msgid "Outlook Contact"
@@ -7084,7 +7093,7 @@ msgstr "Fövqəlada və təcili zənglər dəstəklənmir"
 
 msgctxt "sVERSION"
 msgid "Version"
-msgstr "Növ"
+msgstr "Buraxılış"
 
 msgctxt "sCALL_CONF_NO_EMERGENCY"
 msgid "Group calling with emergency services is not supported"
@@ -7264,7 +7273,7 @@ msgid ""
 "Geographical, software version and other limitations apply - see our <a "
 "href=\"skype:?go#tos\">Terms of Service</a>. Make alternative emergency "
 "service access arrangements through a traditional telephone service."
-msgstr "Coğrafi, proqram təminatı növü və başqa məhdudiyyətlər mövcuddur. <a href=\"skype:?go#tos\">Xidmət Şərtləri</a>nə baxın. Təcili yardım zəngləri üçün, adi telefonlardan istifadə edin."
+msgstr "Coğrafi, proqram təminatı buraxılışı və başqa məhdudiyyətlər mövcuddur. <a href=\"skype:?go#tos\">Xidmət Şərtləri</a>nə baxın. Təcili yardım zəngləri üçün, adi telefonlardan istifadə edin."
 
 msgctxt "sBROWSER_OFFLINE_CAPTION"
 msgid "You are currently offline"
@@ -8187,7 +8196,7 @@ msgctxt "sINFORM_UNSUPPORTED_VERSION"
 msgid ""
 "We've signed you out because you're using an outdated version of Skype. <a "
 "href=\"skype:?go#download\">Download the latest version now</a>"
-msgstr "Skype köhnə növündən istifadə etdiyiniz üçün şəbəkədən söndürüldünüz. <a href=\"skype:?go#download\">Yeni növü yükləyin</a>"
+msgstr "Köhnə Skype buraxılışı istifadə etdiyiniz üçün şəbəkədən söndürüldünüz. <a href=\"skype:?go#download\">Yeni buraxılışı yükləyin</a>"
 
 msgctxt "sF_OPTIONS_CF_ERROR7"
 msgid ""
@@ -8234,7 +8243,7 @@ msgid ""
 "The other person is using a version of Skype that doesn't let us check the "
 "network. They should also try upgrading to the latest version if possible, "
 "since newer versions of Skype have better sound quality."
-msgstr "Qarşı tərəf şəbəkə sınağı aparmağımıza imkan verməyən Skype növündən istifadə edir. Gələcəkdə belə çətinliklərin qarşısını almaq üçün qarşı tərəfinizə Skype-ı yeniləməyi tövsiyə edirik. Bundan əlavə, Skype-ın hər yeni növünün rabitə keyfiyyəti daha yaxşı olur."
+msgstr "Qarşı tərəf şəbəkə sınağı aparmağımıza imkan verməyən Skype buraxılışı istifadə edir. Gələcəkdə belə çətinliklərin qarşısını almaq üçün qarşı tərəfinizə Skype-ı yeniləməyi tövsiyə edirik. Bundan əlavə, hər yeni Skype buraxılışının rabitə keyfiyyəti daha yaxşı olur."
 
 msgctxt "sCQ_BUSY_REMOTE_CLIENT_DESC"
 msgid ""
@@ -8326,13 +8335,13 @@ msgctxt "sERROR_HINT_VIDEO_16"
 msgid ""
 "Skype internal error. Check you've got the latest version of Skype and "
 "restart."
-msgstr "Daxili Skype xətası. Skype-ın ən yeni növünün qurulduğuna əmin olun və yenidən işə salın."
+msgstr "Daxili Skype xətası. Ən yeni Skype buraxılışı qurulduğuna əmin olun və yenidən qoşun."
 
 msgctxt "sERROR_HINT_VIDEO_17"
 msgid ""
 "Skype internal error. Check you've got the latest version of Skype and "
 "restart."
-msgstr "Daxili Skype xətası. Skype-ın ən yeni növünün qurulduğuna əmin olun və yenidən işə salın."
+msgstr "Daxili Skype xətası. Ən yeni Skype buraxılışı qurulduğuna əmin olun və yenidən qoşun."
 
 msgctxt "sERROR_HINT_VIDEO_18"
 msgid ""
@@ -8357,17 +8366,17 @@ msgctxt "sERROR_HINT_VIDEO_21"
 msgid ""
 "Skype internal error. Upgrade your webcam drivers and check you've got the "
 "latest version of Skype."
-msgstr "Daxili Skype xətası. Kamera əlaqəndiricilərini (drayver) yeniləyin və kompüterinizdə Skype-ın ən yeni növünün qurulduğuna əmin olun."
+msgstr "Daxili Skype xətası. Kamera əlaqəndiricilərini (drayver) yeniləyin və kompüterinizdə ən yeni Skype buraxılışı qurulduğuna əmin olun."
 
 msgctxt "sERROR_HINT_VIDEO_22"
 msgid ""
 "Skype internal error. Upgrade your webcam drivers and check you've got the "
 "latest version of Skype."
-msgstr "Daxili Skype xətası. Kamera əlaqəndiricilərini (drayver) yeniləyin və kompüterinizdə Skype-ın son növünün qurulduğuna əmin olun."
+msgstr "Daxili Skype xətası. Kamera əlaqəndiricilərini (drayver) yeniləyin və kompüterinizdə ən yeni Skype buraxılışı qurulduğuna əmin olun."
 
 msgctxt "sERROR_HINT_VIDEO_23"
 msgid "Skype internal error. Try upgrading to the latest version of Skype."
-msgstr "Daxili Skype xətası. Skype-ın ən yeni növünü yükləməyə cəhd edin."
+msgstr "Daxili Skype xətası. Ən yeni Skype buraxılışı yükləməyə cəhd edin."
 
 msgctxt "sCHATHISTORY_MESSAGE_REMOVED"
 msgid "Message removed"
@@ -8966,7 +8975,7 @@ msgid ""
 "Skype: <a href=\"skype:?go#download\">skype.com/go/download</a><br/>Want to "
 "start your own group video calls? <a "
 "href=\"skype:?go#groupvideocalling\">Find out how</a>."
-msgstr "Görüntülü zəngdə iştirak üçün, sizə Skype 5.0  və ya daha təkmil növ lazım olacaq.<br/>Ən yeni növ Skype yükləyin: <a href=\"skype:?go#download\">skype.com/go/download</a><br/>Görüntülü dəstə zəngləri etmək istəyirsiniz? <a href=\"skype:?go#groupvideocalling\">Bilin bu necə edilir</a>."
+msgstr "Görüntülü zəngdə iştirak üçün, sizə Skype 5.0  və ya daha təkmil buraxılış lazım olacaq.<br/>Ən yeni Skype buraxılışı yükləyin: <a href=\"skype:?go#download\">skype.com/go/download</a><br/>Görüntülü dəstə zəngləri etmək istəyirsiniz? <a href=\"skype:?go#groupvideocalling\">Bilin bu necə edilir</a>."
 
 msgctxt "sFREE_CALL_INFO"
 msgid "Your free call to this phone number is limited to %d minutes."
@@ -9459,7 +9468,7 @@ msgstr "Yeniləmələr var"
 
 msgctxt "sF_UPGRADE_READY_TEXT"
 msgid "The latest version of %s is ready to install now."
-msgstr "%s təminatının ən yeni növü artıq yükləməyə və qurulmağa hazırdır."
+msgstr "%s təminatının ən yeni buraxılışı artıq yükləməyə və qurulmağa hazırdır."
 
 msgctxt "sF_UPGRADE_READY_TEXT2"
 msgid ""
@@ -9871,13 +9880,13 @@ msgstr "Bilavasitə yeniləmə"
 
 msgctxt "sF_OPTIONS_LBC_UPGRADES"
 msgid "<b>Automatic updates:</b> ensure you always have the latest version"
-msgstr "<b>Bilavasitə yeniləmə  – </b> hər zaman ən son Skype növünə sahib olmaqdır"
+msgstr "<b>Bilavasitə yeniləmə  – </b> hər zaman ən son Skype buraxılışına sahib olmaqdır"
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL1"
 msgid ""
 "With automatic updates, Skype will upgrade itself, so you'll always have the"
 " latest version without needing to do anything."
-msgstr "Bilavasitə yeniləmə xüsusiyyətini tətbiq etdikdə, siz Skype yeni növünün yüklənməsinə və qurulmasına vaxt sərf etməyəcəksiz."
+msgstr "Bilavasitə yeniləmə xüsusiyyətini tətbiq etdikdə, siz yeni Skype buraxılışı yüklənməsinə və qurulmasına vaxt sərf etməyəcəksiz."
 
 msgctxt "sF_OPTIONS_UPGRADE_LABEL2"
 msgid ""
@@ -9907,7 +9916,7 @@ msgctxt "sSEND_ONE_CONTACT_CONFIRMATION_TEXT"
 msgid ""
 "Do you want to send %s's contact details to the people in this "
 "conversation?<br /><br />This doesn't add %s to the conversation."
-msgstr "%s adlı şəxsin əlaqə vasitələrini, bu ünsiyyətin iştirakçılarına göndərmək istəyirsiz?<br /><br />Əlaqə vasitələrinin ötürülməsi %s adlı şəxsin ünsiyyətə iştirakçı kimi qoşulması anlamına gəlmir."
+msgstr "%s əlaqə vasitələrini, bu ünsiyyətin iştirakçılarına göndərmək istəyirsiz?<br /><br />Əlaqə vasitələrinin ötürülməsi %s ünsiyyətə iştirakçı kimi qoşulması anlamına gəlmir."
 
 msgctxt "sSEND_MANY_CONTACT_CONFIRMATION_TEXT"
 msgid ""
@@ -9916,14 +9925,14 @@ msgid ""
 msgstr "Əlaqə vasitələrini, bu ünsiyyətin iştirakçılarına göndərmək istəyirsiz?<br /><br />Əlaqə vasitələrinin ötürülməsi bu şəxslərin ünsiyyətə iştirakçı kimi qoşulması anlamına gəlmir."
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
-msgid "&Send contact details"
+msgid "&Send"
 msgstr "&Göndər"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
 "Sorry, you can't call %s right now because they're signed into more than one"
 " Skype account linked to Facebook."
-msgstr "Təəssüf ki, %s adlı şəxsə zəng çatmır, çünki o Facebook-la bağlı bir neçə Skype şəxsi səhifəsinə daxil olub."
+msgstr "Təəssüf ki, %s zəng çatmır, çünki o Facebook-la bağlı bir neçə Skype hesabına daxil olub."
 
 msgctxt "sFAVORITES_CAPTION"
 msgid "Favorites"
@@ -10411,8 +10420,8 @@ msgid "Type a message here"
 msgstr "Ismarıc daxil edin"
 
 msgctxt "sCHAT_SEND_SMS"
-msgid "Send SMS"
-msgstr "SMS göndər"
+msgid "Type an SMS here"
+msgstr "Bura bir SMS daxil edin"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -10446,7 +10455,7 @@ msgid ""
 "The reports may contain your Skype ID and/or Microsoft account ID, but we "
 "will not use it to identify you or contact you. <a "
 "href=\"skype:?go#privacy\">Learn More</a>"
-msgstr "Hesabatlara sizin Skype adı və/və ya Microsoft şəxsi səhifənizin adı daxil ola bilər, lakin bu məlumatlar şəxsiyyətinizi təyin etmək və sizinlə rabitə üçün istifadə edilə bilməz. <a href=\"skype:?go#privacy\">Ətraflı</a>"
+msgstr "Hesabatlara sizin Skype Adı və/və ya Microsoft hesabı Adı daxil ola bilər, lakin bu məlumatlar şəxsiyyətinizi təyin etmək və sizinlə rabitə üçün istifadə edilə bilməz. <a href=\"skype:?go#privacy\">Ətraflı</a>"
 
 msgctxt "sLIVE_LOGIN_BACK"
 msgid "Go back"
@@ -10454,11 +10463,11 @@ msgstr "Geri"
 
 msgctxt "sLIVE_LOGIN_AUTO_SIGNIN"
 msgid "Sign me in when Skype starts"
-msgstr "Skype qoşulduqda birbaşa şəxsi səhifəyə daxil ol"
+msgstr "Skype qoşulduqda birbaşa giriş"
 
 msgctxt "sLIVE_LOGIN_DIFF_ACCOUNT"
 msgid "Sign in with a different account"
-msgstr "Başqa şəxsi səhifəylə daxil ol"
+msgstr "Başqa hesabla daxil olun"
 
 msgctxt "sLIVE_LOGIN_SCRIPTERROR"
 msgid "This page contains errors."
@@ -10585,8 +10594,8 @@ msgid "Messenger"
 msgstr "Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype İşgüzar"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
 msgid "via <a href=\"x\">Skype</a>"
@@ -10605,8 +10614,8 @@ msgid "via <a href=\"x\">Messenger</a>"
 msgstr "<a href=\"x\">Messenger</a> vasitəsiylə"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
-msgid "via <a href=\"x\">Lync</a>"
-msgstr "<a href=\"x\">Lync</a> vasitəsiylə"
+msgid "via <a href=\"x\">Skype for Business</a>"
+msgstr "<a href=\"x\">Skype İşgüzar</a> vasitəsilə"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
@@ -10625,8 +10634,8 @@ msgid "Switch to Messenger"
 msgstr "Messenger-ə keç"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_LYNC"
-msgid "Switch to Lync"
-msgstr "Lync-ə keç"
+msgid "Switch to Skype for Business"
+msgstr "Skype İşgüzar-a keç"
 
 msgctxt "sCHANNEL_SWITCHER_COST_HINT"
 msgid "Cost of SMS"
@@ -10730,11 +10739,11 @@ msgstr "Çox zəng edirsiz? Daha çox qənayət edin...<br/>• Zənglər üçü
 
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage my account"
-msgstr "Şəxsi səhifənin idarə olunması"
+msgstr "Hesabı idarəetmə"
 
 msgctxt "sMYINFO_ACCOUNT_BUTTON_HINT"
 msgid "Manage your account online"
-msgstr "Şəxsi səhifənin və hesabın idarə olunması"
+msgstr "Hesabı şəbəkədə idarəetmə"
 
 msgctxt "sAPP_TOOLBAR_HOME_TOOLTIP"
 msgid "See updates from your contacts in Skype Home."
@@ -10769,8 +10778,8 @@ msgid "Message type"
 msgstr "İsmarıc qismi"
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
-msgid "select country"
-msgstr "ölkə seçin"
+msgid "select country or region"
+msgstr "ölkə və ya bölgə seçin"
 
 msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
 msgid "select type of number"
@@ -10782,15 +10791,15 @@ msgstr "nömrə daxil edin"
 
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
-msgstr "Şəxsi səhifəni bütöv göstər"
+msgstr "Fərdi səhifəni bütöv göstər"
 
 msgctxt "sHIDE_FULL_PROFILE"
 msgid "Hide full profile"
-msgstr "Bütöv şəxsi səhifəni gizlət"
+msgstr "Bütöv fərdi səhifəni gizlət"
 
 msgctxt "sPROFILE_ACCOUNTS"
 msgid "Accounts"
-msgstr "Şəxsi səhifələr"
+msgstr "Hesablar"
 
 msgctxt "sPROFILE_MANAGE"
 msgid "Manage"
@@ -10875,16 +10884,17 @@ msgid "Close"
 msgstr "Bağla"
 
 msgctxt "sLYNC_CAPTION"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype İşgüzar"
 
 msgctxt "sCONTACT_GROUP_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype İşgüzar"
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
-msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr "%s Lync-də şəbəkədə deyil. <a href=\"skype:%s?sms\">SMS göndər.</a>"
+msgid ""
+"%s is offline on Skype for Business. <a href=\"skype:%s?sms\">Send SMS.</a>"
+msgstr "%s Skype İşgüzar-da şəbəkədə deyil. <a href=\"skype:%s?sms\">SMS göndər.</a>"
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
@@ -10913,7 +10923,7 @@ msgid ""
 "balance is low. You can disable Auto-recharge any time in My Account, under "
 "Billing and Payments. For more information read <a "
 "href=\"http://www.skype.com/go/tou.refund\">Skype’s refund policy</a>."
-msgstr "Hesabın birbaşa artırılması ilə vaxtınıza qənaət edin. Bu xüsusiyyət, aşağı balans zamanı birbaşa olaraq yuxarıda göstərilən məbləği, üstünlük verilən üsul ilə hesaba yüklənməsinə imkan verir. Birbaşa artırılma xüsusiyyətini istənilən vaxt sizin şəxsi səhifənizin \"Hesablamalar və ödənişlər\" bölməsində söndürmək olar. Daha ətraflı məlumatla siz burda tanış ola bilərsiniz: <a href=\"http://www.skype.com/go/tou.refund\">Skype-ın vəsaitlərin geri qaytarılması qaydaları</a>."
+msgstr "Hesabın birbaşa artırılması ilə vaxtınıza qənaət edin. Bu xüsusiyyət, aşağı balans zamanı birbaşa yuxarıda göstərilən məbləği, üstünlük verilən üsul ilə hesaba yüklənməsinə imkan verir. Birbaşa artırılma xüsusiyyətini istənilən vaxt Hesabınızın \"Hesablamalar və Ödənişlər\" bölməsində söndürmək olar. Daha ətraflı məlumatla siz burda tanış ola bilərsiniz: <a href=\"http://www.skype.com/go/tou.refund\">Skype-ın vəsaitlərin geri qaytarılma qaydaları</a>."
 
 msgctxt "sSKYPEWIFI_ERROR_CAPTION"
 msgid "Skype WiFi"
@@ -10962,7 +10972,7 @@ msgid ""
 "We've improved video calling, but unfortunately your computer doesn't "
 "support our latest version.<br/><br/>Don't worry, we have another version so"
 " you can still make video calls."
-msgstr "Biz görüntülü zənglərin keyfiyyətini yaxşılaşdırdıq, lakin təəssüf ki, sizin kompüter yeni növü dəstəkləmir.<br/><br/>Narahat olmayın, bizdə görüntülü rabitədən istifadə etmək üçün, digər növ var. "
+msgstr "Biz görüntülü zəng keyfiyyətini yaxşılaşdırdıq, lakin təəssüf ki, sizin kompüter yeni buraxılışı dəstəkləmir.<br/><br/>Narahat olmayın, bizdə görüntülü rabitədən istifadə etmək üçün, digər buraxılış var. "
 
 msgctxt "sERROR_HINT_VIDEO_SSE2_LINK"
 msgid "<a href=\"http://www.skype.com/go/novideo\">Learn more.</a>"
@@ -10978,7 +10988,7 @@ msgstr "Dəstək Xidməti"
 
 msgctxt "sMAINMENU_HELP_ASKCOMM"
 msgid "Ask the Skype Community"
-msgstr "Skype İcma Birliyinə Sual Ver"
+msgstr "Skype Cəmiyyətinə Sual"
 
 msgctxt "sTOPUP_AUTO_RECHARGE_SUSPENDED"
 msgid "Auto-recharge (unavailable)"
@@ -11019,8 +11029,8 @@ msgid "Send video message"
 msgstr "Görüntülü ismarıc göndər"
 
 msgctxt "sCALL_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype İşgüzar"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
@@ -11124,7 +11134,7 @@ msgstr "Yazılış"
 
 msgctxt "sTASKBAR_MENU_SIGN_OUT"
 msgid "Sign Out"
-msgstr "Şəxsi Səhifədən Çıxış"
+msgstr "Fərdi Səhifədən Çıxış"
 
 msgctxt "sOPTIONS_HIDE_NOTIFICATIONS"
 msgid "recording a video message or sharing screens"
@@ -11277,8 +11287,8 @@ msgid "All Messenger contacts"
 msgstr "Bütün Messenger əlaqələri"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
-msgid "All Lync contacts"
-msgstr "Bütün Lync əlaqələri"
+msgid "All Skype for Business contacts"
+msgstr "Bütün Skype İşgüzar əlaqələri"
 
 msgctxt "sACC_CALL_POPUP_NAME"
 msgid "Call options"
@@ -11569,8 +11579,8 @@ msgid "Chat via Messenger, switch message type"
 msgstr "Messenger vasitəsiylə söhbət, ismarıc qisminə keç"
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
-msgid "Chat via Lync, switch message type"
-msgstr "Lync vasitəsiylə söhbət, ismarıc qisminə keç"
+msgid "Chat via Skype for Business, switch message type"
+msgstr "Skype İşgüzar vasitəsilə söhbət, ismarıc qismini dəyişdirin"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
 msgid ""
@@ -11699,28 +11709,28 @@ msgid "Messenger contact on Do Not Disturb"
 msgstr "Messenger əlaqəsi Narahat Etməyin vəziyyətində"
 
 msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
-msgid "This person has not shared their details with you. Lync"
-msgstr "Bu şəxs sizə əlaqə vasitələrini verməyib. Lync"
+msgid "This person has not shared their details with you. Skype for Business"
+msgstr "Bu şəxs sizə əlaqə vasitələrini verməyib. Skype İşgüzar"
 
 msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
-msgid "Lync contact Blocked"
-msgstr "Lync əlaqəsi Qadağan Edilib"
+msgid "Skype for Business contact Blocked"
+msgstr "Skype İşgüzar əlaqəsi Qadağan Edilib"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
-msgid "Lync contact Offline"
-msgstr "Lync əlaqəsi Şəbəkədə Deyil"
+msgid "Skype for Business contact Offline"
+msgstr "Skype İşgüzar əlaqəsi Şəbəkədə Deyil"
 
 msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
-msgid "Lync contact Online"
-msgstr "Lync əlaqəsi Şəbəkədə"
+msgid "Skype for Business contact Online"
+msgstr "Skype İşgüzar əlaqəsi Şəbəkədə"
 
 msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
-msgid "Lync contact Away"
-msgstr "Lync əlaqəsi Yerində Deyil"
+msgid "Skype for Business contact Away"
+msgstr "Skype İşgüzar əlaqəsi Yerində Deyil"
 
 msgctxt "sACC_NAME_STATUS_DND_LYNC"
-msgid "Lync contact on Do Not Disturb"
-msgstr "Lync əlaqəsi Narahat Etməyin vəziyyətində"
+msgid "Skype for Business contact on Do Not Disturb"
+msgstr "Skype İşgüzar əlaqəsi Narahat Etməyin vəziyyətində"
 
 msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
 msgid "Use Skype to call tel: links on the web"
@@ -11731,8 +11741,8 @@ msgid "Call Facebook"
 msgstr "Zəng et: Facebook"
 
 msgctxt "sCALL_POPUP_CALL_LYNC"
-msgid "Call Lync"
-msgstr "Zəng et: Lync"
+msgid "Call Skype for Business"
+msgstr "Skype İşgüzar-a zəng"
 
 msgctxt "sCALL_POPUP_CALL_SKYPE"
 msgid "Call Skype"
@@ -11895,31 +11905,31 @@ msgid ""
 "has updated this group with a better chat experience. To join and keep "
 "chatting get the latest download. Go to skype.com/updateme. %0:sLearn more "
 "about new group chat%1:s."
-msgstr "Skype-ın təkmiləşmiş söhbətli, yeni növündən istifadə edir. Onunla ünsiyyət qurmaq üçün Skype yeni növünü quraşdırın. Ətraflı skype.com/updateme səhifəsində. %0:sYeni dəstə söhbəti haqqında ətraflı%1:s."
+msgstr "təkmiləşmiş söhbətli, yeni Skype buraxılışı istifadə edir. Onunla ünsiyyət qurmaq üçün, yeni Skype buraxılışı quraşdırın. Ətraflı skype.com/updateme səhifəsində. %0:sYeni dəstə söhbəti haqqında ətraflı%1:s."
 
 msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_DOGFOOD"
 msgid ""
 "has a new version of Skype with a better chat experience. To join and keep "
 "chatting get the latest download. Go to %0:s"
-msgstr "Skype-ın təkmiləşmiş söhbətli, yeni növündən istifadə edir. Onunla ünsiyyət qurmaq üçün Skype yeni növünü quraşdırın. %0:s ünvanına daxil olun"
+msgstr "təkmiləşmiş söhbətli, yeni Skype buraxılışı istifadə edir. Onunla ünsiyyət qurmaq üçün, yeni Skype buraxılışı quraşdırın. %0:s ünvanına daxil olun"
 
 msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_INPUT"
 msgid ""
 "This chat has been updated to a new version. <a "
 "href=\"skype:?chat&id=%0:s\">Go to the new chat</a>."
-msgstr "Bu söhbətin yeni növü qurulub. <a href=\"skype:?chat&id=%0:s\">Yeni söhbətə keçin</a>."
+msgstr "Bu söhbətin yeni buraxılışı qurulub. <a href=\"skype:?chat&id=%0:s\">Yeni söhbətə keçin</a>."
 
 msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
 msgid ""
 "This chat has been updated to a new version. <a "
 "href=\"skype:?chat&id=%1\">Go to the new chat</a>."
-msgstr "Bu söhbətin yeni növü qurulub. <a href=\"skype:?chat&id=%1\">Yeni söhbətə keçin</a>."
+msgstr "Bu söhbətin yeni buraxılışı qurulub. <a href=\"skype:?chat&id=%1\">Yeni söhbətə keçin</a>."
 
 msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHATEX"
 msgid ""
 "This chat has been updated to a new version. <a "
 "href=\"skype:?chat&id=%0:s\">Go to the new chat</a>."
-msgstr "Bu söhbətin yeni növü qurulub. <a href=\"skype:?chat&id=%0:s\">Yeni söhbətə keçin</a>."
+msgstr "Bu söhbətin yeni buraxılışı qurulub. <a href=\"skype:?chat&id=%0:s\">Yeni söhbətə keçin</a>."
 
 msgctxt "sMSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
 msgid "Show messages from <a href=\"skype:?chat&id=%1\">older chat</a>."
@@ -11933,13 +11943,13 @@ msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_CHAT"
 msgid ""
 "This chat has been updated to a new version. Press tab to go to the new "
 "chat."
-msgstr "Bu söhbətin yeni növü qurulub. Yeni söhbətə keçmək üçün Tab düyməsinə basın."
+msgstr "Bu söhbətin yeni buraxılışı qurulub. Yeni söhbətə keçmək üçün Tab düyməsinə basın."
 
 msgctxt "sACC_MSNP24_UPGRADE_MESSAGE_IN_SERVER_BASED"
 msgid ""
 "This chat has been updated to a new version. Press tab to show messages from"
 " older chat."
-msgstr "Bu söhbətin yeni növü qurulub. Köhnə söhbətin ismarıclarını göstərmək üçün Tab düyməsinə basın."
+msgstr "Bu söhbətin yeni buraxılışı qurulub. Köhnə söhbətin ismarıclarını göstərmək üçün Tab düyməsinə basın."
 
 msgctxt "sCHAT_LEGACY_MEMBER_ADDED_SINGLE"
 msgid ""
@@ -11985,25 +11995,25 @@ msgctxt "sVP8LEGACY_CLIENT_GVC_CAPABLE"
 msgid ""
 "%s needs to get the latest version of Skype at skype.com/updateme to "
 "experience group video and sharing."
-msgstr "İstifadəçi %s görüntülü dəstə rabitəsi və ekran nümayişi xüsusiyyətindən istifadə etmək üçün, skype.com/updateme ünvanından Skype-ın ən son növünü qurmalıdır."
+msgstr "%s görüntülü dəstə rabitəsi və ekran nümayişi xüsusiyyətindən istifadə etmək üçün, skype.com/updateme səhifəsindən ən son Skype buraxılışı yükləməlidir."
 
 msgctxt "sVP8LEGACY_CLIENT_GVC_NOT_CAPABLE"
 msgid ""
 "%s can't experience group video calling because their device doesn't support"
 " it."
-msgstr "İstifadəçi %s görüntülü dəstə rabitəsi istifadə edə bilməz, çünki istifadə etdiyi qurğu bunu dəstəkləmir "
+msgstr "%s görüntülü dəstə rabitəsi istifadə edə bilməz, çünki istifadə etdiyi cihaz bunu dəstəkləmir "
 
 msgctxt "sVP8LEGACY_SEND_UPGRADE_DESC"
 msgid ""
 "are using versions of Skype that don't support group video and "
 "sharing.<br/>Would you like to send a link to update?"
-msgstr "görüntülü dəstə rabitəsi və ekran nümayişi xüsusiyyətlərini dəstəkləməyən Skype növündən istifadə edirlər.<br/>Onlara yeni növə keçid ünvanı göndərmək istəyirsiniz?"
+msgstr "görüntülü dəstə rabitəsi və ekran nümayişi xüsusiyyətlərini dəstəkləməyən Skype buraxılışı istifadə edirlər.<br/>Onlara yeni buraxılışa istinad göndərmək istəyirsiniz?"
 
 msgctxt "sVP8LEGACY_SEND_UPGRADE_DESC_SINGLE"
 msgid ""
 "is using a version of Skype that doesn't support group video and "
 "sharing.<br/>Would you like to send a link to update?"
-msgstr "görüntülü dəstə rabitəsi və ekran nümayişi xüsusiyyətlərini dəstəkləməyən Skype növündən istifadə edirlər.<br/>Onlara yeni növə keçid ünvanı göndərmək istəyirsiniz?"
+msgstr "görüntülü dəstə rabitəsi və ekran nümayişi xüsusiyyətlərini dəstəkləməyən Skype buraxılışı istifadə edirlər.<br/>Onlara yeni buraxılışa istinad göndərmək istəyirsiniz?"
 
 msgctxt "sVP8LEGACY_SEND_UPGRADE_SEND"
 msgid "Send"
@@ -12017,7 +12027,7 @@ msgctxt "sVP8LEGACY_UPGRADE_MESSAGE"
 msgid ""
 "You need to update Skype to participate in this group video call. Get the "
 "latest version at skype.com/updateme."
-msgstr "Bu görüntülü dəstə zənginə qoşulmaq üçün Skype-ı yeniləməlisiniz. skype.com/updateme ünvanından quraşdıra bilərsiniz."
+msgstr "Bu görüntülü dəstə zənginə qoşulmaq üçün sizin Skype yenilənməlidir. Yeni buraxılışı skype.com/updateme səhifəsindən yükləyə bilərsiniz."
 
 msgctxt "sLIVE_TOGGLE_ORIGINAL_VIDEO_SIZE"
 msgid "Show Full Size Video"
@@ -12144,8 +12154,8 @@ msgid "Messenger > %s"
 msgstr "Messenger > %s"
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
-msgid "Lync > %s"
-msgstr "Lync > %s"
+msgid "Skype for Business > %s"
+msgstr "Skype İşgüzar > %s"
 
 msgctxt "sCHAT_PROFILE_ONE_PERSON"
 msgid "%d person"
@@ -12304,8 +12314,8 @@ msgid "%d participants"
 msgstr "%d iştirakçı"
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
-msgid "Show images in conversations"
-msgstr "Ünsiyyətlərdə şəkilləri göstər"
+msgid "Show images and other media previews"
+msgstr "Rəsimlərin və digər media öncəbaxışlarını göstər"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
 msgid "Sent"
@@ -12585,7 +12595,7 @@ msgstr "Təbliğ elanı"
 
 msgctxt "sSIDEBAR_AVATAR_TOOLTIP"
 msgid "See your profile"
-msgstr "Şəxsi səhifəyə baxış"
+msgstr "Fərdi səhifəyə baxış"
 
 msgctxt "sSIDEBAR_AVATAR_STATUS_TOOLTIP"
 msgid "Change your status"
@@ -12768,8 +12778,8 @@ msgid "Show message previews in the sidebar"
 msgstr "İsmarıclara öncədən baxışı yan lövhədə göstər"
 
 msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
-msgid "Simple List View"
-msgstr "Sadə Siyahı"
+msgid "Compact Sidebar View"
+msgstr "Yığcam Yan Lövhə Görünüşü"
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
 msgid "Give Feedback"
@@ -13007,6 +13017,78 @@ msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
 msgid "Your Country/Region:"
 msgstr "Sizin Ölkə/Bölgə"
 
+msgctxt "sCALL_PHONES_CREDIT_TITLE"
+msgid "Your Skype Credit"
+msgstr "Skype Hesabınız"
+
+msgctxt "sCALL_PHONES_RATES_MIN"
+msgid "Call %0:s from %1:s/min"
+msgstr "%0:s nömrələrinə %1:s/dəq. başlayan tariflərlə zəng edin"
+
+msgctxt "sCALL_PHONES_RATES_MIN_PAYG"
+msgid "Pay As You Go rates to %0:s from %1:s/min"
+msgstr "%0:s nömrələrinə %1:s/dəq. başlayan tariflərlə Zəng Etdiyin Qədər Ödə"
+
+msgctxt "sCALL_PHONES_RATES_MONTH"
+msgid "Call from %s/month"
+msgstr "%s/ay başlayan tariflərlə zəng edin"
+
+msgctxt "sCALL_PHONES_ADD_CREDIT"
+msgid "<a href=\"%s\">Add Skype Credit</a>"
+msgstr "<a href=\"%s\">Skype Hesabına Vəsait Yerləşdir</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_CREDIT"
+msgid "<a href=\"%s\">Request more credit</a>"
+msgstr "<a href=\"%s\">Hesabın artırılması sifarişi</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request a subscription</a>"
+msgstr "<a href=\"%s\">Abunəlik sifarişi</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request another subscription</a>"
+msgstr "<a href=\"%s\">Digər bir abunəlik sifarişi</a>"
+
+msgctxt "sCALL_PHONES_GET_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get a subscription</a>"
+msgstr "<a href=\"%s\">Abunə olun</a>"
+
+msgctxt "sCALL_PHONES_GET_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get another subscription</a>"
+msgstr "<a href=\"%s\">Digər bir abunə olun</a>"
+
+msgctxt "sCALL_PHONES_SUBSCRIPTIONS_TITLE"
+msgid "Subscriptions"
+msgstr "Abunəliklər"
+
+msgctxt "sCALL_PHONES_NO_SUBSCRIPTIONS"
+msgid "You have no subscriptions"
+msgstr "Abunəliyiniz yoxdur"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION"
+msgid "You have 1 subscription"
+msgstr "1 abunəliyiniz var"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS"
+msgid "You have %d subscriptions"
+msgstr "%d abunəliyiniz var"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRED"
+msgid "Subscription expired - <a href=\"%s\">Renew</a>"
+msgstr "Abunəlik dövrünüz bitib - <a href=\"%s\">Yenilə</a>"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRED"
+msgid "Subscriptions expired - <a href=\"%s\">Renew</a>"
+msgstr "Abunəliklər dövrünüz bitib - <a href=\"%s\">Yenilə</a>"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRING"
+msgid "Subscription expiring soon - <a href=\"%s\">Renew</a>"
+msgstr "Abunəlik dövrünüz bitir - <a href=\"%s\">Yenilə</a>"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRING"
+msgid "Subscriptions expiring soon - <a href=\"%s\">Renew</a>"
+msgstr "Abunəliklər dövrünüz bitir - <a href=\"%s\">Yenilə</a>"
+
 msgctxt "sSEND_MEDIA_MENU_HINT"
 msgid "Send contacts and media"
 msgstr "Əlaqələr və multimediya göndər"
@@ -13014,3 +13096,362 @@ msgstr "Əlaqələr və multimediya göndər"
 msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
 msgid "Advertisement"
 msgstr "Elan"
+
+msgctxt "sSHARE_MENU_SEND_PIC_OR_FILE"
+msgid "Send photos and files..."
+msgstr "Şəkil və fayllar göndərin..."
+
+msgctxt "sFILETRANSFER_SHOWALL"
+msgid "Show all"
+msgstr "Bütün göstər"
+
+msgctxt "sFILETRANSFER_SHOWLESS"
+msgid "Show less"
+msgstr "Bəzilərini göstər"
+
+msgctxt "sCONVERSATIONINFO_TITLE"
+msgid "Group profile"
+msgstr "Dəstənin fərdi səhifəsi"
+
+msgctxt "sCONTACTINFO_TITLE"
+msgid "Contact profile"
+msgstr "Əlaqənin fərdi səhifəsi"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON"
+msgid "Show all conversations"
+msgstr "Bütün ünsiyyətləri göstər"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF"
+msgid "Show unread conversations"
+msgstr "Oxunmamış ünsiyyətləri göstər"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON_EMPTY"
+msgid "No unread messages"
+msgstr "Oxunmamış ismarıc tapılmadı"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF_EMPTY"
+msgid "No messages"
+msgstr "İsmarıc yoxdur"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_ON"
+msgid "Unread"
+msgstr "Oxunmamış"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_OFF"
+msgid "All"
+msgstr "Bütün"
+
+msgctxt "sCHAT_MEDIADOC_LEGACY"
+msgid "To view this shared photo, go to: %1"
+msgstr "Bu ümumi şəkilə baxmaq üçün bura keçin: %1"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_FILE"
+msgid "Cancel file"
+msgstr "Faylın ləğvi"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN"
+msgid "Open"
+msgstr "Aç"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_FILE"
+msgid "Open File"
+msgstr "Faylı Aç"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_FILE"
+msgid "Download file"
+msgstr "Faylı yüklə"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_COLLAPSE"
+msgid "Collapse"
+msgstr "Yığ"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_EXPAND"
+msgid "Expand"
+msgstr "Genişlə"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_IMAGE"
+msgid "Cancel image"
+msgstr "Rəsmin ləğvi"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_IMAGE"
+msgid "Open image"
+msgstr "Rəsmi aç"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_IMAGE"
+msgid "Download image"
+msgstr "Rəsmi yüklə"
+
+msgctxt "sACC_NAME_CONTACT_TILE_ADD"
+msgid "Add contact"
+msgstr "Əlaqə əlavəsi"
+
+msgctxt "sACC_NAME_CONTACT_TILE_CHAT"
+msgid "Open chat"
+msgstr "Söhbəti aç"
+
+msgctxt "sACC_NAME_CONTACT_TILE_PROFILE"
+msgid "View profile"
+msgstr "Fərdi səhifəyə baxış"
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE_OPEN"
+msgid "Open video message"
+msgstr "Görüntülü ismarıcı aç"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR"
+msgid "Progress bar"
+msgstr "İcra tərəqqisi"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr "Saxla"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr "Ləğv Et"
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr "Saxla"
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr "Ləğv Et"
+
+msgctxt "sACC_NAME_FILE_TRANSFER"
+msgid "From %0:s, file transfer, sent on %1:s"
+msgstr "%0:s tərəfindən fayl, %1:s tarixində göndərildi"
+
+msgctxt "sACC_NAME_CONTACT_TRANSFER"
+msgid "From %0:s, contacts, sent on %1:s"
+msgstr "%0:s tərəfindən əlaqələr, %1:s tarixində göndərildi"
+
+msgctxt "sSHARE_MENU_SEND_PIC"
+msgid "Photos"
+msgstr "Şəkillər"
+
+msgctxt "sF_OPTIONS_CB_SHOW_LARGE_EMOTS"
+msgid "Show large emoticons"
+msgstr "Böyük cizgili ifadələri göstər"
+
+msgctxt "sOPTIONS_COMPACT_CHAT"
+msgid "Compact Chat View"
+msgstr "Yığcam Söhbət Görünüşü"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_CANCEL"
+msgid "Cancel media"
+msgstr "Medianın ləğvi"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_OPEN"
+msgid "Open media"
+msgstr "Medianı aç"
+
+msgctxt "sPSTN_RES_13430"
+msgid ""
+"You will not be able to call landlines or mobiles in India from Skype when "
+"you are inside India. <a href=\"https://support.skype.com/en/faq/FA34487"
+"/why-can-i-no-longer-make-calls-to-india-from-india\">Learn more.</a>"
+msgstr "Siz Hindistan ərazisində olduğunuz zaman, Skype vasitəsilə Hindistan sabit və ya mobil telefonlarına zəng edə bilməyəcəksiz. <a href=\"https://support.skype.com/en/faq/FA34487/why-can-i-no-longer-make-calls-to-india-from-india\">Ətraflı.</a>"
+
+msgctxt "sEMOTICON_ROSTER_NONE_SELECTED"
+msgid "Choose an emoticon"
+msgstr "Cizgili ifadə seçin"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TITLE"
+msgid "Receive files automatically"
+msgstr "Birbaşa fayl qəbulu"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_CAPTION"
+msgid "Receive files automatically"
+msgstr "Birbaşa fayl qəbulu"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TEXT"
+msgid ""
+"You will now automatically receive files sent from contacts on Skype. You "
+"can change this option or choose a different destination folder in settings."
+msgstr "Artıq Skype əlaqələrinizdən faylları birbaşa qəbul edəcəksiz. Bu xüsusiyyəti dəyişdirə və ya tənzimlərdə fərqli hədəf qovluğu seçə bilərsiniz."
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_YES"
+msgid "Allow"
+msgstr "İcazə ver"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_NO"
+msgid "No, thanks"
+msgstr "Xeyr, təşəkkür"
+
+msgctxt "sCHAT_PROFILE_OTHERS_CAN_JOIN"
+msgid "%s, anyone can join"
+msgstr "%s, hərkəs qoşula bilər"
+
+msgctxt "sCHAT_INVITE_OTHERS_MESSAGE"
+msgid "<a href=\"%s\">Invite others to join</a>"
+msgstr "<a href=\"%s\">Başqalarını dəvət edin</a>"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_JOIN_LABEL"
+msgid "Share this link with anyone to bring them into the Space:"
+msgstr "Ümumi söhbətə qoşulmaq üçün, digər istifadəçilərə bu istinadı təqdim edin:"
+
+msgctxt "sHUDDLE_EMAIL_SUBJECT"
+msgid "Join me in my Skype Space"
+msgstr "Buyurun Skype söhbətə "
+
+msgctxt "sHUDDLE_EMAIL_BODYTEXT"
+msgid ""
+"Hi there,'+#13#10+#13#10+'I''ve made a Skype Space for us to chat, share and"
+" collaborate.'+#13#10+#13#10+'Join the Space by clicking the "
+"link:'+#13#10+'%s'+#13#10+#13#10+'*Don''t have Skype yet? Download it before"
+" you can join http://www.skype.com"
+msgstr "Salam!'+#13#10+#13#10+'Ünsiyyət qurmaq, fayllar mübadiləsi və əməkdaşlıq etmək üçün, tərəfimdən bir Skype söhbət otağı yaratdıldı.'+#13#10+#13#10+'Qoşulmaq üçün bu istinadı vurun:'+#13#10+'%s'+#13#10+#13#10+'*Hələ Skype-ınız yoxdur? Qoşulmazdan əvvəl yükləyin: http://www.skype.com"
+
+msgctxt "sHUDDLE_POPUP_JOIN_CHECK"
+msgid "Allow others to join with a link"
+msgstr "Digər adamlara istinadla qoşulmağa icazə"
+
+msgctxt "sHUDDLE_POPUP_JOIN_LABEL"
+msgid "Others can join with a link"
+msgstr "Digər istifadəçilər istinadla qoşula bilər"
+
+msgctxt "sHUDDLE_POPUP_JOIN_LINKS"
+msgid "<a href=\"copy\">Copy link</a>%s<a href=\"email\">Email</a>"
+msgstr "<a href=\"copy\">Nüsxələ</a>%s<a href=\"email\">E-poçtla göndər</a>"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK"
+msgid ""
+"Would you like to select which Skype related actions this program should "
+"handle by default?"
+msgstr "Bu proqramın Skype-da sabit olaraq hansı hərəkətləri edəcəyini seçmək istəyirsiniz?"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_TITLE"
+msgid "%s for Windows desktop"
+msgstr "Windows iş masası üçün %s"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_YES"
+msgid "Yes"
+msgstr "Bəli"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_NO"
+msgid "No"
+msgstr "Xeyr"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_OPEN"
+msgid "Open"
+msgstr "Aç"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_VIEW"
+msgid "View"
+msgstr "Bax"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_PLAY"
+msgid "Play"
+msgstr "Səsləndir"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_JOIN"
+msgid "Join"
+msgstr "Qoşul"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_DOWNLOAD"
+msgid "Download"
+msgstr "Yüklə"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_START"
+msgid "Start"
+msgstr "Başla"
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_SINGLE"
+msgid "Shared a Flik"
+msgstr "Flik göndərdi"
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_MULTI"
+msgid "%s shared a Flik"
+msgstr "%s Flik göndərdi"
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_SINGLE"
+msgid "Shared a media message"
+msgstr "Mediya ismarıc göndərdi"
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_MULTI"
+msgid "%s shared a media message"
+msgstr "%s mediya ismarıc göndərdi"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE"
+msgid "From %0:s, new media, sent on %1:s"
+msgstr "%0:s, tərəfindən yeni mediya fayl, göndərildi %1:s"
+
+msgctxt "sACC_NAME_TILE_OPEN_URL"
+msgid "Open URL"
+msgstr "URL Aç"
+
+msgctxt "sACC_NAME_FLIK_OPEN"
+msgid "Open Skype Flik"
+msgstr "Skype Flik-i Aç"
+
+msgctxt "sACC_NAME_FLIK_MESSAGE"
+msgid "From %0:s, Skype Flik, sent on %1:s"
+msgstr "%0:s, tərəfindən Skype Flik, göndərildi %1:s"
+
+msgctxt "sFLIK_PLAY"
+msgid "Play Skype Flik"
+msgstr "Skype Flik-i Səsləndir"
+
+msgctxt "sFLIK_OPEN_LINK"
+msgid "Open Skype Flik Link"
+msgstr "Skype Flik İstinadını Aç"
+
+msgctxt "sAPP_TOOLBAR_HOME"
+msgid "Home"
+msgstr "Baş Səhifə"
+
+msgctxt "sAPP_TOOLBAR_CALL"
+msgid "Call"
+msgstr "Nömrə Yığımı"
+
+msgctxt "sAPP_TOOLBAR_NEW"
+msgid "New"
+msgstr "Yarat"
+
+msgctxt "sAPP_TOOLBAR_NEW_TOOLTIP"
+msgid "New conversation"
+msgstr "Yeni ünsiyyət"
+
+msgctxt "sMAINMENU_LOGGING"
+msgid "Turn on logging"
+msgstr "Qeyd kitabçasını qoş"
+
+msgctxt "sCOM_RESTART_HEADER"
+msgid "Restart required"
+msgstr "Yenidən qoşulma tələb olunur"
+
+msgctxt "sCOM_RESTART_MESSAGE"
+msgid "Restart Skype for your changes to take effect."
+msgstr "Dəyişikliklərin qüvvəyə minməsi üçün Skype-ı yenidən qoşun."
+
+msgctxt "sMAIN_MENU_SELF_HOST_FEEDBACK"
+msgid "Self-host feedback"
+msgstr "Müstəqil-qəbuledici (host), əks rabitəsi"
+
+msgctxt "sCONTACT_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr "Mümkün əlaqələr"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr "Mümkün əlaqələr"
+
+msgctxt "sOPTIONS_WIKI_MARKUP"
+msgid "Show advanced text formatting"
+msgstr "Mətnin geniş yenilənməsini göstər"
+
+msgctxt "sEMPTY_GROUP_HUDDLE"
+msgid "%s's Space"
+msgstr "%s söhbət otağı"
+
+msgctxt "sAC_SEND_REQ_SC"
+msgid "%s is an address book contact."
+msgstr "%s əlaqə ünvanları kitabçasıdır."
+
+msgctxt "sZAPBUTTON_SEND_REQ_SC"
+msgid "Connect on Skype"
+msgstr "Skype vasitəsilə rabitə"
+
+msgctxt "sSTATUS_UNKNOWN2_SC"
+msgid "Not connected on Skype yet"
+msgstr "Hələ Skype vasitəsilə rabitə yoxdur"

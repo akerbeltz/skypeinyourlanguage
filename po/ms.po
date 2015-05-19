@@ -2,15 +2,15 @@
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
 # abuyop <abuyop@gmail.com>, 2013
-# abuyop <abuyop@gmail.com>, 2013-2014
+# abuyop <abuyop@gmail.com>, 2013-2015
 # Michael Bauer, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2014-12-16 11:08+0000\n"
-"Last-Translator: Michael Bauer\n"
+"POT-Creation-Date: 2015-05-16 18:31:59+0100\n"
+"PO-Revision-Date: 2015-05-16 23:28+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>\n"
 "Language-Team: Malay (Malaysia) (http://www.transifex.com/projects/p/skype-translation-project/language/ms_MY/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -213,8 +213,8 @@ msgid "Forgot your password?"
 msgstr "Lupa kata laluan anda?"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype dan/atau Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr "© 2015 Skype dan/atau Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -305,8 +305,8 @@ msgid "- Options"
 msgstr "- Pilihan"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype dan/atau Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr "© 2015 Skype dan/atau Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -3004,9 +3004,10 @@ msgstr "Tinggalkan"
 
 msgctxt "sF_OPTIONS_SMS_NR_INVALID"
 msgid ""
-"The phone number is not entered correctly. Please select the country and "
-"then enter the number Example: Select United Kingdom and enter 020 5555 1212"
-msgstr "Nombor telefon tidak dimasukkan dengan betul. Sila pilih negara kemudian masukkan nombor. Contohnya: Pilih Malaysia dan masukkan 020 5555 1212"
+"The phone number is not entered correctly. Please select the country/region "
+"and then enter the number Example: Select United Kingdom and enter 020 5555 "
+"1212"
+msgstr "Nombor telefon tidak dimasukkan dengan betul. Sila pilih negara/wilayah kemudian masukkan nombor. Contohnya: Pilih United Kingdom dan masukkan 020 5555 1212"
 
 msgctxt "sLOGIN_PROGRESS_LABEL"
 msgid "Skype is updating files. This may take some time."
@@ -3675,9 +3676,9 @@ msgstr "Masukkan nombor telefon dengan kod negara dan wilayah."
 msgctxt "sF_STARTCONF_ADD_NR_INVALID"
 msgid ""
 "The phone number you tried to add was not entered correctly. You must select"
-" the country and then enter the number you wish to add. Example: Select "
-"United Kingdom and enter 020 5555 1212"
-msgstr "Nombor telefon yang anda mahu masukkan tidak betul. Anda mesti pilih negara kemudian masukkan nombor yang anda ingin tambah. Contohnya: Pilih Malaysia dan masukkan 020 5555 1212"
+" the country/region and then enter the number you wish to add. Example: "
+"Select United Kingdom and enter 020 5555 1212"
+msgstr "Nombor telefon yang anda mahu masukkan tidak betul. Anda mesti pilih negara/wilayah kemudian masukkan nombor yang anda ingin tambah. Contohnya: Pilih United Kingdom dan masukkan 020 5555 1212"
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
@@ -5344,6 +5345,14 @@ msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
 msgstr "Selesai"
 
+msgctxt "sZAPBUTTON_COPYLINK"
+msgid "Copy link"
+msgstr "Salin pautan"
+
+msgctxt "sZAPBUTTON_EMAILLINK"
+msgid "Email"
+msgstr "Emel"
+
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
 "Can't open Skype. You are already signed in on this computer. Please sign "
@@ -6346,8 +6355,8 @@ msgid "View all %d new conversations"
 msgstr "Lihat semua %d perbualan baharu"
 
 msgctxt "sMAINMENU_VIEW_SINGLE_WINDOW_MODE"
-msgid "Default View"
-msgstr "Paparan Lalai"
+msgid "Single Window View"
+msgstr "Paparan Tetingkap Tunggal"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
 msgid "Split Window View"
@@ -6723,8 +6732,8 @@ msgid "pt"
 msgstr "pt"
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
-msgid "Open a new window when I receive a new message in Compact view"
-msgstr "Buka tetingkap baharu bila saya menerima mesej baharu dalam paparan Padat"
+msgid "Open a new window when I receive a new message in Split Window View"
+msgstr "Buka tetingkap baharu bila saya menerima mesej baharu dalam Paparan Tetingkap Terpisah"
 
 msgctxt "sF_CALL_QLT_LBL_AUDIO_PROBLEMS"
 msgid "Audio problems"
@@ -9917,8 +9926,8 @@ msgid ""
 msgstr "Anda mahu hantar perincian kenalan kepada individu dalam perbualan ini?<br /><br />Ini tidak menambah mereka ke perbualan."
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
-msgid "&Send contact details"
-msgstr "&Hantar perincian kenalan"
+msgid "&Send"
+msgstr "&Hantar"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
@@ -10412,8 +10421,8 @@ msgid "Type a message here"
 msgstr "Taip mesej di sini"
 
 msgctxt "sCHAT_SEND_SMS"
-msgid "Send SMS"
-msgstr "Hantar SMS"
+msgid "Type an SMS here"
+msgstr "Taip SMS di sini"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -10586,8 +10595,8 @@ msgid "Messenger"
 msgstr "Pemesej"
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype untuk Perniagaan"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
 msgid "via <a href=\"x\">Skype</a>"
@@ -10606,8 +10615,8 @@ msgid "via <a href=\"x\">Messenger</a>"
 msgstr "melalui <a href=\"x\">Pemesej</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
-msgid "via <a href=\"x\">Lync</a>"
-msgstr "melalui <a href=\"x\">Lync</a>"
+msgid "via <a href=\"x\">Skype for Business</a>"
+msgstr "melalui <a href=\"x\">Skype untuk Perniagaan</a>"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
@@ -10626,8 +10635,8 @@ msgid "Switch to Messenger"
 msgstr "Tukar ke Pemesej"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_LYNC"
-msgid "Switch to Lync"
-msgstr "Tukar ke Lync"
+msgid "Switch to Skype for Business"
+msgstr "Tukar ke Skype untuk Perniagaan"
 
 msgctxt "sCHANNEL_SWITCHER_COST_HINT"
 msgid "Cost of SMS"
@@ -10770,8 +10779,8 @@ msgid "Message type"
 msgstr "Jenis mesej"
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
-msgid "select country"
-msgstr "pilih negara"
+msgid "select country or region"
+msgstr "Pilih negara atay wilayah"
 
 msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
 msgid "select type of number"
@@ -10876,16 +10885,17 @@ msgid "Close"
 msgstr "Tutup"
 
 msgctxt "sLYNC_CAPTION"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype untuk Perniagaan"
 
 msgctxt "sCONTACT_GROUP_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype untuk Perniagaan"
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
-msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr "Dalam Lync %s berada diluar talian. <a href=\"skype:%s?sms\">Hantar SMS.</a>"
+msgid ""
+"%s is offline on Skype for Business. <a href=\"skype:%s?sms\">Send SMS.</a>"
+msgstr "%s berada diluar talian dalam Skype untuk Perniagaan. <a href=\"skype:%s?sms\">Hantar SMS.</a>"
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
@@ -11020,8 +11030,8 @@ msgid "Send video message"
 msgstr "Hantar mesej video"
 
 msgctxt "sCALL_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype untuk Perniagaan"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
@@ -11278,8 +11288,8 @@ msgid "All Messenger contacts"
 msgstr "Semua kenalan Pemesej"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
-msgid "All Lync contacts"
-msgstr "Semua kenalan Lync"
+msgid "All Skype for Business contacts"
+msgstr "Semua kenalan Skype untuk Perniagaan"
 
 msgctxt "sACC_CALL_POPUP_NAME"
 msgid "Call options"
@@ -11570,8 +11580,8 @@ msgid "Chat via Messenger, switch message type"
 msgstr "Sembang melalui Pemesej, tukar jenis mesej"
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
-msgid "Chat via Lync, switch message type"
-msgstr "Sembang melalui Lync, tukar jenis mesej"
+msgid "Chat via Skype for Business, switch message type"
+msgstr "Sembang melalui Skype untuk Perniagaan, tukar jenis mesej"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
 msgid ""
@@ -11700,28 +11710,28 @@ msgid "Messenger contact on Do Not Disturb"
 msgstr "Kenalan Pemesej dengan Jangan Ganggu"
 
 msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
-msgid "This person has not shared their details with you. Lync"
-msgstr "Individu ini tidak berkongsi perinciannya dengan anda. Lync"
+msgid "This person has not shared their details with you. Skype for Business"
+msgstr "Individu ini tidak berkongsi perinciannya dengan anda. Skype untuk Perniagaan"
 
 msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
-msgid "Lync contact Blocked"
-msgstr "Kenalan Lync Disekat"
+msgid "Skype for Business contact Blocked"
+msgstr "Kenalan Skype untuk Perniagaan Disekat"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
-msgid "Lync contact Offline"
-msgstr "Kenalan Lync Luar Talian"
+msgid "Skype for Business contact Offline"
+msgstr "Kenalan Skype untuk Perniagaan Diluar Talian"
 
 msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
-msgid "Lync contact Online"
-msgstr "Kenalan Lync Atas Talian"
+msgid "Skype for Business contact Online"
+msgstr "Kenalan Skype untuk Perniagaan Diatas Talian"
 
 msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
-msgid "Lync contact Away"
-msgstr "Kenalan Lync Keluar"
+msgid "Skype for Business contact Away"
+msgstr "Kenalan Skype untuk Perniagaan Keluar"
 
 msgctxt "sACC_NAME_STATUS_DND_LYNC"
-msgid "Lync contact on Do Not Disturb"
-msgstr "Kenalan Kenalan dengan Jangan Ganggu"
+msgid "Skype for Business contact on Do Not Disturb"
+msgstr "Kenalan Skype untuk Perniagaan Tidak Mahu Diganggu"
 
 msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
 msgid "Use Skype to call tel: links on the web"
@@ -11732,8 +11742,8 @@ msgid "Call Facebook"
 msgstr "Panggilan Facebook"
 
 msgctxt "sCALL_POPUP_CALL_LYNC"
-msgid "Call Lync"
-msgstr "Panggilan Lync"
+msgid "Call Skype for Business"
+msgstr "Panggilan Skype untuk Perniagaan"
 
 msgctxt "sCALL_POPUP_CALL_SKYPE"
 msgid "Call Skype"
@@ -12145,8 +12155,8 @@ msgid "Messenger > %s"
 msgstr "Pemesej > %s"
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
-msgid "Lync > %s"
-msgstr "Lync > %s"
+msgid "Skype for Business > %s"
+msgstr "Skype untuk Perniagaan > %s"
 
 msgctxt "sCHAT_PROFILE_ONE_PERSON"
 msgid "%d person"
@@ -12305,8 +12315,8 @@ msgid "%d participants"
 msgstr "%d peserta"
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
-msgid "Show images in conversations"
-msgstr "Tunjuk imej dalam perbualan"
+msgid "Show images and other media previews"
+msgstr "Tunjuk imej dan lain-lain pratonton media"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
 msgid "Sent"
@@ -12769,8 +12779,8 @@ msgid "Show message previews in the sidebar"
 msgstr "Tunjuk pratonton mesej dalam palang sisi"
 
 msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
-msgid "Simple List View"
-msgstr "Paparan Senarai Ringkas"
+msgid "Compact Sidebar View"
+msgstr "Paparan Palang Sisi Padat"
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
 msgid "Give Feedback"
@@ -13008,6 +13018,78 @@ msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
 msgid "Your Country/Region:"
 msgstr "Negara/Wilayah Anda:"
 
+msgctxt "sCALL_PHONES_CREDIT_TITLE"
+msgid "Your Skype Credit"
+msgstr "Kredit Skype Anda"
+
+msgctxt "sCALL_PHONES_RATES_MIN"
+msgid "Call %0:s from %1:s/min"
+msgstr "Panggilan %0:s dari %1:s/min"
+
+msgctxt "sCALL_PHONES_RATES_MIN_PAYG"
+msgid "Pay As You Go rates to %0:s from %1:s/min"
+msgstr "Kadar Bayar Bila Anda Guna kepada %0:s dari %1:s/min"
+
+msgctxt "sCALL_PHONES_RATES_MONTH"
+msgid "Call from %s/month"
+msgstr "Panggilan dari %s/bulan"
+
+msgctxt "sCALL_PHONES_ADD_CREDIT"
+msgid "<a href=\"%s\">Add Skype Credit</a>"
+msgstr "<a href=\"%s\">Tambah Kredit Skype</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_CREDIT"
+msgid "<a href=\"%s\">Request more credit</a>"
+msgstr "<a href=\"%s\">Mohon lagi kredit</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request a subscription</a>"
+msgstr "<a href=\"%s\">Mohon langganan</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request another subscription</a>"
+msgstr "<a href=\"%s\">Mohon langganan lain</a>"
+
+msgctxt "sCALL_PHONES_GET_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get a subscription</a>"
+msgstr "<a href=\"%s\">Dapatkan langganan</a>"
+
+msgctxt "sCALL_PHONES_GET_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get another subscription</a>"
+msgstr "<a href=\"%s\">Dapatkan langganan lain</a>"
+
+msgctxt "sCALL_PHONES_SUBSCRIPTIONS_TITLE"
+msgid "Subscriptions"
+msgstr "Langganan"
+
+msgctxt "sCALL_PHONES_NO_SUBSCRIPTIONS"
+msgid "You have no subscriptions"
+msgstr "Anda tidak mempunyai langganan"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION"
+msgid "You have 1 subscription"
+msgstr "Anda mempunyai 1 langganan"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS"
+msgid "You have %d subscriptions"
+msgstr "Anda mempunyai %d langganan"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRED"
+msgid "Subscription expired - <a href=\"%s\">Renew</a>"
+msgstr "Langganan telah luput - <a href=\"%s\">Perbaharui</a>"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRED"
+msgid "Subscriptions expired - <a href=\"%s\">Renew</a>"
+msgstr "Langganan telah luput - <a href=\"%s\">Perbaharui</a>"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRING"
+msgid "Subscription expiring soon - <a href=\"%s\">Renew</a>"
+msgstr "Langganan akan luput tidak lama lagi - <a href=\"%s\">Perbaharui</a>"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRING"
+msgid "Subscriptions expiring soon - <a href=\"%s\">Renew</a>"
+msgstr "Langganan akan lumput tidak lama lagi - <a href=\"%s\">Perbaharui</a>"
+
 msgctxt "sSEND_MEDIA_MENU_HINT"
 msgid "Send contacts and media"
 msgstr "Hantar kenalan dan media"
@@ -13015,3 +13097,362 @@ msgstr "Hantar kenalan dan media"
 msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
 msgid "Advertisement"
 msgstr "Iklan"
+
+msgctxt "sSHARE_MENU_SEND_PIC_OR_FILE"
+msgid "Send photos and files..."
+msgstr "Hantar foto dan fail..."
+
+msgctxt "sFILETRANSFER_SHOWALL"
+msgid "Show all"
+msgstr "Tunjuk semua"
+
+msgctxt "sFILETRANSFER_SHOWLESS"
+msgid "Show less"
+msgstr "Tunjuk sedikit"
+
+msgctxt "sCONVERSATIONINFO_TITLE"
+msgid "Group profile"
+msgstr "Profil kumpulan"
+
+msgctxt "sCONTACTINFO_TITLE"
+msgid "Contact profile"
+msgstr "Profil kenalan"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON"
+msgid "Show all conversations"
+msgstr "Tunjuk semua perbualan"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF"
+msgid "Show unread conversations"
+msgstr "Tunjuk perbualan belum dibaca"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON_EMPTY"
+msgid "No unread messages"
+msgstr "Tiada mesej belum dibaca"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF_EMPTY"
+msgid "No messages"
+msgstr "Tiada mesej"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_ON"
+msgid "Unread"
+msgstr "Belum Dibaca"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_OFF"
+msgid "All"
+msgstr "Semua"
+
+msgctxt "sCHAT_MEDIADOC_LEGACY"
+msgid "To view this shared photo, go to: %1"
+msgstr "Untuk melihat foto dikongsi ini, pergi ke: %1"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_FILE"
+msgid "Cancel file"
+msgstr "Batal fail"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN"
+msgid "Open"
+msgstr "Buka"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_FILE"
+msgid "Open File"
+msgstr "Buka Fail"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_FILE"
+msgid "Download file"
+msgstr "Muat turun fail"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_COLLAPSE"
+msgid "Collapse"
+msgstr "Kuncup"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_EXPAND"
+msgid "Expand"
+msgstr "Kembang"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_IMAGE"
+msgid "Cancel image"
+msgstr "Batal imej"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_IMAGE"
+msgid "Open image"
+msgstr "Buka imej"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_IMAGE"
+msgid "Download image"
+msgstr "Muat turun imej"
+
+msgctxt "sACC_NAME_CONTACT_TILE_ADD"
+msgid "Add contact"
+msgstr "Tambah kenalan"
+
+msgctxt "sACC_NAME_CONTACT_TILE_CHAT"
+msgid "Open chat"
+msgstr "Buka sembang"
+
+msgctxt "sACC_NAME_CONTACT_TILE_PROFILE"
+msgid "View profile"
+msgstr "Lihat profil"
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE_OPEN"
+msgid "Open video message"
+msgstr "Buka mesej video"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR"
+msgid "Progress bar"
+msgstr "Palang kemajuan"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr "Simpan"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr "Batal"
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr "Simpan"
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr "Batal"
+
+msgctxt "sACC_NAME_FILE_TRANSFER"
+msgid "From %0:s, file transfer, sent on %1:s"
+msgstr "Daripada %0:s, pemindahan fail, dihantar pada %1:s"
+
+msgctxt "sACC_NAME_CONTACT_TRANSFER"
+msgid "From %0:s, contacts, sent on %1:s"
+msgstr "Daripada %0:s, kenalan, dihantar pada %1:s"
+
+msgctxt "sSHARE_MENU_SEND_PIC"
+msgid "Photos"
+msgstr "Foto"
+
+msgctxt "sF_OPTIONS_CB_SHOW_LARGE_EMOTS"
+msgid "Show large emoticons"
+msgstr "Tunjuk emotikon besar"
+
+msgctxt "sOPTIONS_COMPACT_CHAT"
+msgid "Compact Chat View"
+msgstr "Paparan Sembang Padat"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_CANCEL"
+msgid "Cancel media"
+msgstr "Batal media"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_OPEN"
+msgid "Open media"
+msgstr "Buka media"
+
+msgctxt "sPSTN_RES_13430"
+msgid ""
+"You will not be able to call landlines or mobiles in India from Skype when "
+"you are inside India. <a href=\"https://support.skype.com/en/faq/FA34487"
+"/why-can-i-no-longer-make-calls-to-india-from-india\">Learn more.</a>"
+msgstr "Anda tidak boleh membuat panggilan tetap atau mudah alih di negara India melalui Skype bila anda berada di dalam India. <a href=\"https://support.skype.com/en/faq/FA34487/why-can-i-no-longer-make-calls-to-india-from-india\">Ketahui lagi.</a>"
+
+msgctxt "sEMOTICON_ROSTER_NONE_SELECTED"
+msgid "Choose an emoticon"
+msgstr "Pilih satu emotikon"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TITLE"
+msgid "Receive files automatically"
+msgstr "Terima fail secara automatik"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_CAPTION"
+msgid "Receive files automatically"
+msgstr "Terima fail secara automatik"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TEXT"
+msgid ""
+"You will now automatically receive files sent from contacts on Skype. You "
+"can change this option or choose a different destination folder in settings."
+msgstr "Anda ini menerima fail secara automatik daripada kenalan Skype. Anda boleh ubah pilihan ini atau pilih folder destinasi lain di dalam tetapan."
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_YES"
+msgid "Allow"
+msgstr "Benarkan"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_NO"
+msgid "No, thanks"
+msgstr "Tidak, terima kasih"
+
+msgctxt "sCHAT_PROFILE_OTHERS_CAN_JOIN"
+msgid "%s, anyone can join"
+msgstr "%s, sesiapa sahaja boleh sertaican join"
+
+msgctxt "sCHAT_INVITE_OTHERS_MESSAGE"
+msgid "<a href=\"%s\">Invite others to join</a>"
+msgstr "<a href=\"%s\">Jemput orang lain untuk sertai</a>"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_JOIN_LABEL"
+msgid "Share this link with anyone to bring them into the Space:"
+msgstr "Kongsi pautan ini dengan sesiapa sahaja untuk membawa mereka ke dalam Space:"
+
+msgctxt "sHUDDLE_EMAIL_SUBJECT"
+msgid "Join me in my Skype Space"
+msgstr "Sertai saya dalam Skype Space saya"
+
+msgctxt "sHUDDLE_EMAIL_BODYTEXT"
+msgid ""
+"Hi there,'+#13#10+#13#10+'I''ve made a Skype Space for us to chat, share and"
+" collaborate.'+#13#10+#13#10+'Join the Space by clicking the "
+"link:'+#13#10+'%s'+#13#10+#13#10+'*Don''t have Skype yet? Download it before"
+" you can join http://www.skype.com"
+msgstr "Hai,'+#13#10+#13#10+'Saya telah membina Skype Space untuk kita sembang, kongsi dan kolaborasi bersama-sama.'+#13#10+#13#10+'Sertailah Space dengan mengklik pautan:'+#13#10+'%s'+#13#10+#13#10+'*Masih belum mempunyai Skype lagi? Muat turun ia sebelum anda dapat sertai http://www.skype.com"
+
+msgctxt "sHUDDLE_POPUP_JOIN_CHECK"
+msgid "Allow others to join with a link"
+msgstr "Benarkan orang lain menyertai dengan pautan ini"
+
+msgctxt "sHUDDLE_POPUP_JOIN_LABEL"
+msgid "Others can join with a link"
+msgstr "Orang lain boleh sertai dengan satu pautan"
+
+msgctxt "sHUDDLE_POPUP_JOIN_LINKS"
+msgid "<a href=\"copy\">Copy link</a>%s<a href=\"email\">Email</a>"
+msgstr "<a href=\"copy\">Salin pautan</a>%s<a href=\"email\">Emel</a>"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK"
+msgid ""
+"Would you like to select which Skype related actions this program should "
+"handle by default?"
+msgstr "Anda mahu pilih tindakan berkaitan Skype yang manakah program ini patut kendalikan secara lalai?"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_TITLE"
+msgid "%s for Windows desktop"
+msgstr "%s untuk desktop Windows"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_YES"
+msgid "Yes"
+msgstr "Ya"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_NO"
+msgid "No"
+msgstr "Tidak"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_OPEN"
+msgid "Open"
+msgstr "Buka"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_VIEW"
+msgid "View"
+msgstr "Lihat"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_PLAY"
+msgid "Play"
+msgstr "Main"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_JOIN"
+msgid "Join"
+msgstr "Sertai"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_DOWNLOAD"
+msgid "Download"
+msgstr "Muat turun"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_START"
+msgid "Start"
+msgstr "Mula"
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_SINGLE"
+msgid "Shared a Flik"
+msgstr "Kongsi Flik"
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_MULTI"
+msgid "%s shared a Flik"
+msgstr "%s berkongsi Flik"
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_SINGLE"
+msgid "Shared a media message"
+msgstr "Kongsi mesej media"
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_MULTI"
+msgid "%s shared a media message"
+msgstr "%s berkongsi mesej media"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE"
+msgid "From %0:s, new media, sent on %1:s"
+msgstr "Daripada %0:s, media baharu, hantar pada %1:s"
+
+msgctxt "sACC_NAME_TILE_OPEN_URL"
+msgid "Open URL"
+msgstr "Buka URL"
+
+msgctxt "sACC_NAME_FLIK_OPEN"
+msgid "Open Skype Flik"
+msgstr "Buka Skype Flik"
+
+msgctxt "sACC_NAME_FLIK_MESSAGE"
+msgid "From %0:s, Skype Flik, sent on %1:s"
+msgstr "Daripada %0:s, Skype Flik, hantar pada %1:s"
+
+msgctxt "sFLIK_PLAY"
+msgid "Play Skype Flik"
+msgstr "Main Skype Flik"
+
+msgctxt "sFLIK_OPEN_LINK"
+msgid "Open Skype Flik Link"
+msgstr "Buka Pautan Skype Flik"
+
+msgctxt "sAPP_TOOLBAR_HOME"
+msgid "Home"
+msgstr "Rumah"
+
+msgctxt "sAPP_TOOLBAR_CALL"
+msgid "Call"
+msgstr "Panggilan"
+
+msgctxt "sAPP_TOOLBAR_NEW"
+msgid "New"
+msgstr "Baharu"
+
+msgctxt "sAPP_TOOLBAR_NEW_TOOLTIP"
+msgid "New conversation"
+msgstr "Perbualan baharu"
+
+msgctxt "sMAINMENU_LOGGING"
+msgid "Turn on logging"
+msgstr "Hidupkan pengelogan"
+
+msgctxt "sCOM_RESTART_HEADER"
+msgid "Restart required"
+msgstr "Mula semula diperlukan"
+
+msgctxt "sCOM_RESTART_MESSAGE"
+msgid "Restart Skype for your changes to take effect."
+msgstr "Mula semula Skype supaya perubahan yang anda buat berkesan."
+
+msgctxt "sMAIN_MENU_SELF_HOST_FEEDBACK"
+msgid "Self-host feedback"
+msgstr "Maklumbalas hos-sendiri"
+
+msgctxt "sCONTACT_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr "Kenalan saranan"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr "Kenalan saranan"
+
+msgctxt "sOPTIONS_WIKI_MARKUP"
+msgid "Show advanced text formatting"
+msgstr "Tunjuk pemformatan teks lanjutan"
+
+msgctxt "sEMPTY_GROUP_HUDDLE"
+msgid "%s's Space"
+msgstr "Space %s"
+
+msgctxt "sAC_SEND_REQ_SC"
+msgid "%s is an address book contact."
+msgstr "%s ialah kenalan buku alamat."
+
+msgctxt "sZAPBUTTON_SEND_REQ_SC"
+msgid "Connect on Skype"
+msgstr "Sambung ke Skype"
+
+msgctxt "sSTATUS_UNKNOWN2_SC"
+msgid "Not connected on Skype yet"
+msgstr "Tidak bersambung dengan Skype lagi"

@@ -1,6 +1,6 @@
 ﻿Skype .lang Files README
 
-These files are language files for Skype on Windows and Linux for languages which do not come bundled with Skype itself.
+These files are language files for Skype on Windows (7.4.0.102) and Linux for languages which do not come bundled with Skype itself.
 
 We try hard to keep this up to date and credit all translators but sometimes we miss new contributors. If you are contributing but you name is missing, please don't be offended. Just drop us a message and we'll add you.
 

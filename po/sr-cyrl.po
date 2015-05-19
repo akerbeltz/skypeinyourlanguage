@@ -1,7 +1,7 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# markosm <chajbo@ro.ru>, 2014
+# markosm <chajbo@ro.ru>, 2014-2015
 # DakSrbija <vlabotami@gmail.com>, 2013
 # mite71 <m.krstev@hotmail.com>, 2013
 # markosm <chajbo@ro.ru>, 2014
@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2014-12-23 15:25+0000\n"
+"POT-Creation-Date: 2015-05-16 18:31:59+0100\n"
+"PO-Revision-Date: 2015-05-17 14:09+0000\n"
 "Last-Translator: markosm <chajbo@ro.ru>\n"
 "Language-Team: Serbian (Serbia) (http://www.transifex.com/projects/p/skype-translation-project/language/sr_RS/)\n"
 "MIME-Version: 1.0\n"
@@ -214,8 +214,8 @@ msgid "Forgot your password?"
 msgstr "Заборавили сте лозинку?"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype и/или Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr "© 2015 Skype и/или Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -306,8 +306,8 @@ msgid "- Options"
 msgstr "- Опције"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype и/или Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr "© 2015 Skype и/или Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -3005,9 +3005,10 @@ msgstr "Напусти"
 
 msgctxt "sF_OPTIONS_SMS_NR_INVALID"
 msgid ""
-"The phone number is not entered correctly. Please select the country and "
-"then enter the number Example: Select United Kingdom and enter 020 5555 1212"
-msgstr "Број телефона није исправно унет. Изаберите земљу и затим унесите број Пример: Изаберите Велика Британија и унесите 020 5555 1212"
+"The phone number is not entered correctly. Please select the country/region "
+"and then enter the number Example: Select United Kingdom and enter 020 5555 "
+"1212"
+msgstr ""
 
 msgctxt "sLOGIN_PROGRESS_LABEL"
 msgid "Skype is updating files. This may take some time."
@@ -3676,9 +3677,9 @@ msgstr "Унесите број телефона са позивним број�
 msgctxt "sF_STARTCONF_ADD_NR_INVALID"
 msgid ""
 "The phone number you tried to add was not entered correctly. You must select"
-" the country and then enter the number you wish to add. Example: Select "
-"United Kingdom and enter 020 5555 1212"
-msgstr "Број телефона који сте покушали да додате није исправно унет. Морате да изаберете земљу и затим унесите број који желите да додате. Пример: Изаберите Велика Британија и унесите 020 5555 1212"
+" the country/region and then enter the number you wish to add. Example: "
+"Select United Kingdom and enter 020 5555 1212"
+msgstr ""
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
@@ -5345,6 +5346,14 @@ msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
 msgstr "Довршено"
 
+msgctxt "sZAPBUTTON_COPYLINK"
+msgid "Copy link"
+msgstr "Копирај линк"
+
+msgctxt "sZAPBUTTON_EMAILLINK"
+msgid "Email"
+msgstr "Е-пошта"
+
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
 "Can't open Skype. You are already signed in on this computer. Please sign "
@@ -6347,8 +6356,8 @@ msgid "View all %d new conversations"
 msgstr "Прикажи све %d нове разговоре"
 
 msgctxt "sMAINMENU_VIEW_SINGLE_WINDOW_MODE"
-msgid "Default View"
-msgstr "Подразумевани приказ"
+msgid "Single Window View"
+msgstr "Преглед у једном прозору"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
 msgid "Split Window View"
@@ -6724,8 +6733,8 @@ msgid "pt"
 msgstr "тач."
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
-msgid "Open a new window when I receive a new message in Compact view"
-msgstr "Отвори нови прозор када примим нову поруку у компактном приказу"
+msgid "Open a new window when I receive a new message in Split Window View"
+msgstr "Отвори нови прозора када примим нову поруку у подељеном прозору"
 
 msgctxt "sF_CALL_QLT_LBL_AUDIO_PROBLEMS"
 msgid "Audio problems"
@@ -9918,8 +9927,8 @@ msgid ""
 msgstr "Желите ли да пошаљете ове детаље за контакт особама у овом разговору?<br/><br/>Тиме се неће додати у разговор."
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
-msgid "&Send contact details"
-msgstr "&Пошаљи детаље за контакт"
+msgid "&Send"
+msgstr "&Пошаљи"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
@@ -10413,8 +10422,8 @@ msgid "Type a message here"
 msgstr "Унесите поруку овде"
 
 msgctxt "sCHAT_SEND_SMS"
-msgid "Send SMS"
-msgstr "Пошаљи СМС"
+msgid "Type an SMS here"
+msgstr "Куцај СМС овде"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -10587,8 +10596,8 @@ msgid "Messenger"
 msgstr "Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype за посао"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
 msgid "via <a href=\"x\">Skype</a>"
@@ -10607,8 +10616,8 @@ msgid "via <a href=\"x\">Messenger</a>"
 msgstr "путем Messengerа"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
-msgid "via <a href=\"x\">Lync</a>"
-msgstr "путем Lyncа"
+msgid "via <a href=\"x\">Skype for Business</a>"
+msgstr "via <a href=\"x\">Skype за посао</a>"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
@@ -10627,8 +10636,8 @@ msgid "Switch to Messenger"
 msgstr "Пребаци на Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_LYNC"
-msgid "Switch to Lync"
-msgstr "Пребаци на Lync"
+msgid "Switch to Skype for Business"
+msgstr "Пређи на Skype за посао"
 
 msgctxt "sCHANNEL_SWITCHER_COST_HINT"
 msgid "Cost of SMS"
@@ -10771,8 +10780,8 @@ msgid "Message type"
 msgstr "Тип поруке"
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
-msgid "select country"
-msgstr "изабери државу"
+msgid "select country or region"
+msgstr "одабери државу или регион"
 
 msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
 msgid "select type of number"
@@ -10877,16 +10886,17 @@ msgid "Close"
 msgstr "Затвори"
 
 msgctxt "sLYNC_CAPTION"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype за посао"
 
 msgctxt "sCONTACT_GROUP_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype за посао"
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
-msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr "%s је ван мреже на Lync-у. <a href=\"skype:%s?sms\">Пошаљите СМС.</a>"
+msgid ""
+"%s is offline on Skype for Business. <a href=\"skype:%s?sms\">Send SMS.</a>"
+msgstr ""
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
@@ -11021,8 +11031,8 @@ msgid "Send video message"
 msgstr "Пошаљи видео поруку"
 
 msgctxt "sCALL_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype за посао"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
@@ -11279,8 +11289,8 @@ msgid "All Messenger contacts"
 msgstr "Сви Messenger контакти"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
-msgid "All Lync contacts"
-msgstr "Сви Lync контакти"
+msgid "All Skype for Business contacts"
+msgstr "Сви Skype за посао контакти"
 
 msgctxt "sACC_CALL_POPUP_NAME"
 msgid "Call options"
@@ -11571,8 +11581,8 @@ msgid "Chat via Messenger, switch message type"
 msgstr "Разговор преко Messenger, пребаци тип поруке"
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
-msgid "Chat via Lync, switch message type"
-msgstr "Разговор преко Lync, пребаци тип поруке"
+msgid "Chat via Skype for Business, switch message type"
+msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
 msgid ""
@@ -11701,28 +11711,28 @@ msgid "Messenger contact on Do Not Disturb"
 msgstr "Messenger контакти су на Не узнемиравај"
 
 msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
-msgid "This person has not shared their details with you. Lync"
-msgstr "Ова особа не дели своје детаље са Lync"
+msgid "This person has not shared their details with you. Skype for Business"
+msgstr ""
 
 msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
-msgid "Lync contact Blocked"
-msgstr "Lync контакти су блокирани"
+msgid "Skype for Business contact Blocked"
+msgstr "Skype за посао блокирани контакти"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
-msgid "Lync contact Offline"
-msgstr "Lync контакти су ван мреже"
+msgid "Skype for Business contact Offline"
+msgstr ""
 
 msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
-msgid "Lync contact Online"
-msgstr "Lync контакти су на мрежи"
+msgid "Skype for Business contact Online"
+msgstr ""
 
 msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
-msgid "Lync contact Away"
-msgstr "Lync контакти су одсутни"
+msgid "Skype for Business contact Away"
+msgstr ""
 
 msgctxt "sACC_NAME_STATUS_DND_LYNC"
-msgid "Lync contact on Do Not Disturb"
-msgstr "Lync контакти су на Не узнемиравај"
+msgid "Skype for Business contact on Do Not Disturb"
+msgstr ""
 
 msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
 msgid "Use Skype to call tel: links on the web"
@@ -11733,8 +11743,8 @@ msgid "Call Facebook"
 msgstr "Позови Facebook"
 
 msgctxt "sCALL_POPUP_CALL_LYNC"
-msgid "Call Lync"
-msgstr "Позови Lync"
+msgid "Call Skype for Business"
+msgstr ""
 
 msgctxt "sCALL_POPUP_CALL_SKYPE"
 msgid "Call Skype"
@@ -12146,8 +12156,8 @@ msgid "Messenger > %s"
 msgstr "Messenger > %s"
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
-msgid "Lync > %s"
-msgstr "Lync > %s"
+msgid "Skype for Business > %s"
+msgstr ""
 
 msgctxt "sCHAT_PROFILE_ONE_PERSON"
 msgid "%d person"
@@ -12199,11 +12209,11 @@ msgstr ""
 
 msgctxt "sMSNP24_MERGE_MESSAGE"
 msgid "From now on your chats will sync on all your devices."
-msgstr ""
+msgstr "Од сада ваши разговори се синхронизују на свим вашим уређајима."
 
 msgctxt "sCHAT_TYPING_ONE"
 msgid "%s is typing..."
-msgstr ""
+msgstr "%s куца..."
 
 msgctxt "sCHAT_TYPING_TWO"
 msgid "%s and %s are typing..."
@@ -12243,7 +12253,7 @@ msgstr ""
 
 msgctxt "sINBOX_PENDING_CONTACT_REQUESTS"
 msgid "Pending contact requests"
-msgstr ""
+msgstr "Чека на захтев контакта"
 
 msgctxt "stalktothehand_SMILEY"
 msgid "Talk to the hand"
@@ -12291,7 +12301,7 @@ msgstr "Штит"
 
 msgctxt "sCALLNOTIF_TITLE_V2"
 msgid "%s calling..."
-msgstr ""
+msgstr "%s позивање..."
 
 msgctxt "sSCREENSHARE_OPTION_DESKTOP"
 msgid "Share your screen"
@@ -12306,8 +12316,8 @@ msgid "%d participants"
 msgstr "%d учесника"
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
-msgid "Show images in conversations"
-msgstr "Прикажи слике у разговорима"
+msgid "Show images and other media previews"
+msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
 msgid "Sent"
@@ -12339,11 +12349,11 @@ msgstr "%s од %s"
 
 msgctxt "sFILETRANSFER_FILE_MOVED"
 msgid "File moved"
-msgstr ""
+msgstr "Датотека је премештена"
 
 msgctxt "sFILETRANSFER_OPEN_FOLDER_ASYNC"
 msgid "Show in folder"
-msgstr ""
+msgstr "Прикажи у фасцикли"
 
 msgctxt "sFILETRANSFER_AUTO_ACCEPT"
 msgid "Automatically accept incoming files"
@@ -12379,11 +12389,11 @@ msgstr "Фајлови примљени"
 
 msgctxt "sFILETRANSFER_MULTI_DOWNLOAD_ALL"
 msgid "Download all"
-msgstr ""
+msgstr "Преузми све"
 
 msgctxt "sFILETRANSFER_MULTI_CANCEL_ALL"
 msgid "Cancel all"
-msgstr ""
+msgstr "Откажи све"
 
 msgctxt "sFILETRANSFER_SENT_TO_IN_BRACES_ONE"
 msgid "(sent to <a href=\"{%link%}\">{%n%} person</a>)"
@@ -12527,7 +12537,7 @@ msgstr "Обавести ме када се нешто ново догоди"
 
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS"
 msgid "Creator settings"
-msgstr ""
+msgstr "Поставке креатора"
 
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
 msgid "Make chat history available to new joiners"
@@ -12539,7 +12549,7 @@ msgstr "Омогући људима да приступе овој групи"
 
 msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
 msgid "Administrator settings"
-msgstr ""
+msgstr "Администраторске поставке"
 
 msgctxt "sF_CHAT_INFO_COPY_LINK"
 msgid "Copy conversation link"
@@ -12555,15 +12565,15 @@ msgstr "Увек питај"
 
 msgctxt "sSIDEBAR_HOME_TOOLTIP"
 msgid "See updates from your contacts in Skype Home."
-msgstr ""
+msgstr "Погледајте новости Ваших контакта на Почетној страни."
 
 msgctxt "sSIDEBAR_DIAL_TOOLTIP"
 msgid "Call mobiles and landlines from the dial pad."
-msgstr ""
+msgstr "Зовите мобилне и фиксне телефоне са типковнице."
 
 msgctxt "sSIDEBAR_CHAT_TOOLTIP"
 msgid "Start a new chat. Create a group, send instant messages and files."
-msgstr ""
+msgstr "Покрените нови разговор. Направите нову групу, шаљите инстант поруке и датотеке."
 
 msgctxt "sSIDEBAR_RECENTS_TOOLTIP"
 msgid "See your recent messages."
@@ -12731,15 +12741,15 @@ msgstr ""
 
 msgctxt "sCONTACTS_LINK_CAPS"
 msgid "CONTACTS"
-msgstr ""
+msgstr "КОНТАКТИ"
 
 msgctxt "sRECENTS_LINK_CAPS"
 msgid "RECENT"
-msgstr ""
+msgstr "АКТУЕЛНО"
 
 msgctxt "sPHOTO_MSG_NOT_AVAILABLE"
 msgid "This photo is unavailable"
-msgstr ""
+msgstr "Ова слика није доступна"
 
 msgctxt "sACC_NAME_PHOTO_MESSAGE"
 msgid "From %0:s, new photo, sent on %1:s"
@@ -12770,8 +12780,8 @@ msgid "Show message previews in the sidebar"
 msgstr "Прикажи преглед поруке у бочној траци"
 
 msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
-msgid "Simple List View"
-msgstr "Једноставни преглед"
+msgid "Compact Sidebar View"
+msgstr ""
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
 msgid "Give Feedback"
@@ -12811,39 +12821,39 @@ msgstr "%s послати фајлови"
 
 msgctxt "sMESGPREVIEW_POSTED_MEDIA_MESSAGE_MULTI"
 msgid "%s shared a photo"
-msgstr ""
+msgstr "%s дељена слика"
 
 msgctxt "sMESGPREVIEW_POSTED_LOCATION_MULTI"
 msgid "%s shared a location"
-msgstr ""
+msgstr "%s дељена локација"
 
 msgctxt "sMESGPREVIEW_VOICE_MESSAGE_MULTI"
 msgid "%s sent a voice message"
-msgstr ""
+msgstr "%1 послата гласовна порука."
 
 msgctxt "sMESGPREVIEW_VIDEO_MESSAGE_MULTI"
 msgid "%s sent a video message"
-msgstr ""
+msgstr "%s послата видео порука"
 
 msgctxt "sMESGPREVIEW_POSTED_CONTACTS_MULTI"
 msgid "%s sent contacts"
-msgstr ""
+msgstr "%s послати контакти"
 
 msgctxt "sMESGPREVIEW_REQUESTED_AUTH"
 msgid "Sent you a contact request"
-msgstr ""
+msgstr "Послат вам је захтев контакта"
 
 msgctxt "sMESGPREVIEW_GRANTED_AUTH"
 msgid "Contact request accepted"
-msgstr ""
+msgstr "Контакт захтева прихватање"
 
 msgctxt "sMESGPREVIEW_HAS_BIRTHDAY"
 msgid "Birthday today"
-msgstr ""
+msgstr "Данашњи рођендан"
 
 msgctxt "sADDCONTACT_PROMPT"
 msgid "Are you sure you want to add contacts: <b>%s</b>?"
-msgstr ""
+msgstr "Јесте ли сигурни да желите да додате контакте: <b>%s</b>?"
 
 msgctxt "sADDCONTACT_PROMPT_TITLE"
 msgid "Add contacts"
@@ -12959,7 +12969,7 @@ msgstr "Унеси нову тему"
 
 msgctxt "sFRE_TITLE"
 msgid "Welcome Tour"
-msgstr ""
+msgstr "Увод за добродошлицу"
 
 msgctxt "sFRE_START"
 msgid "Welcome to the new Skype for Windows."
@@ -12983,11 +12993,11 @@ msgstr ""
 
 msgctxt "sTRANSFER_FAILED_TOO_MANY_PARALLEL_CAPTION"
 msgid "File transfer limit"
-msgstr ""
+msgstr "Ограничење за пренос фајлова"
 
 msgctxt "sCALL_PHONES_NOTSET_EMERGENCY1"
 msgid "Emergency numbers"
-msgstr ""
+msgstr "Хитни бројеви"
 
 msgctxt "sCALL_PHONES_NOTSET_EMERGENCY2_INLINE"
 msgid ""
@@ -13007,12 +13017,443 @@ msgstr ""
 
 msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
 msgid "Your Country/Region:"
+msgstr "Ваша држава/регион:"
+
+msgctxt "sCALL_PHONES_CREDIT_TITLE"
+msgid "Your Skype Credit"
+msgstr ""
+
+msgctxt "sCALL_PHONES_RATES_MIN"
+msgid "Call %0:s from %1:s/min"
+msgstr ""
+
+msgctxt "sCALL_PHONES_RATES_MIN_PAYG"
+msgid "Pay As You Go rates to %0:s from %1:s/min"
+msgstr ""
+
+msgctxt "sCALL_PHONES_RATES_MONTH"
+msgid "Call from %s/month"
+msgstr ""
+
+msgctxt "sCALL_PHONES_ADD_CREDIT"
+msgid "<a href=\"%s\">Add Skype Credit</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_REQUEST_CREDIT"
+msgid "<a href=\"%s\">Request more credit</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_REQUEST_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request a subscription</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_REQUEST_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request another subscription</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_GET_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get a subscription</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_GET_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get another subscription</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_SUBSCRIPTIONS_TITLE"
+msgid "Subscriptions"
+msgstr ""
+
+msgctxt "sCALL_PHONES_NO_SUBSCRIPTIONS"
+msgid "You have no subscriptions"
+msgstr ""
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION"
+msgid "You have 1 subscription"
+msgstr ""
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS"
+msgid "You have %d subscriptions"
+msgstr ""
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRED"
+msgid "Subscription expired - <a href=\"%s\">Renew</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRED"
+msgid "Subscriptions expired - <a href=\"%s\">Renew</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRING"
+msgid "Subscription expiring soon - <a href=\"%s\">Renew</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRING"
+msgid "Subscriptions expiring soon - <a href=\"%s\">Renew</a>"
 msgstr ""
 
 msgctxt "sSEND_MEDIA_MENU_HINT"
 msgid "Send contacts and media"
-msgstr ""
+msgstr "Пошаљи контакте и медије"
 
 msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
 msgid "Advertisement"
 msgstr "Рекламе"
+
+msgctxt "sSHARE_MENU_SEND_PIC_OR_FILE"
+msgid "Send photos and files..."
+msgstr ""
+
+msgctxt "sFILETRANSFER_SHOWALL"
+msgid "Show all"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SHOWLESS"
+msgid "Show less"
+msgstr ""
+
+msgctxt "sCONVERSATIONINFO_TITLE"
+msgid "Group profile"
+msgstr ""
+
+msgctxt "sCONTACTINFO_TITLE"
+msgid "Contact profile"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON"
+msgid "Show all conversations"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF"
+msgid "Show unread conversations"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON_EMPTY"
+msgid "No unread messages"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF_EMPTY"
+msgid "No messages"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_ON"
+msgid "Unread"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_OFF"
+msgid "All"
+msgstr ""
+
+msgctxt "sCHAT_MEDIADOC_LEGACY"
+msgid "To view this shared photo, go to: %1"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_FILE"
+msgid "Cancel file"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN"
+msgid "Open"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_FILE"
+msgid "Open File"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_FILE"
+msgid "Download file"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_COLLAPSE"
+msgid "Collapse"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_EXPAND"
+msgid "Expand"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_IMAGE"
+msgid "Cancel image"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_IMAGE"
+msgid "Open image"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_IMAGE"
+msgid "Download image"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACT_TILE_ADD"
+msgid "Add contact"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACT_TILE_CHAT"
+msgid "Open chat"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACT_TILE_PROFILE"
+msgid "View profile"
+msgstr ""
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE_OPEN"
+msgid "Open video message"
+msgstr ""
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR"
+msgid "Progress bar"
+msgstr ""
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr ""
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr ""
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sACC_NAME_FILE_TRANSFER"
+msgid "From %0:s, file transfer, sent on %1:s"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACT_TRANSFER"
+msgid "From %0:s, contacts, sent on %1:s"
+msgstr ""
+
+msgctxt "sSHARE_MENU_SEND_PIC"
+msgid "Photos"
+msgstr ""
+
+msgctxt "sF_OPTIONS_CB_SHOW_LARGE_EMOTS"
+msgid "Show large emoticons"
+msgstr ""
+
+msgctxt "sOPTIONS_COMPACT_CHAT"
+msgid "Compact Chat View"
+msgstr ""
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_CANCEL"
+msgid "Cancel media"
+msgstr ""
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_OPEN"
+msgid "Open media"
+msgstr ""
+
+msgctxt "sPSTN_RES_13430"
+msgid ""
+"You will not be able to call landlines or mobiles in India from Skype when "
+"you are inside India. <a href=\"https://support.skype.com/en/faq/FA34487"
+"/why-can-i-no-longer-make-calls-to-india-from-india\">Learn more.</a>"
+msgstr ""
+
+msgctxt "sEMOTICON_ROSTER_NONE_SELECTED"
+msgid "Choose an emoticon"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TITLE"
+msgid "Receive files automatically"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_CAPTION"
+msgid "Receive files automatically"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TEXT"
+msgid ""
+"You will now automatically receive files sent from contacts on Skype. You "
+"can change this option or choose a different destination folder in settings."
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_YES"
+msgid "Allow"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_NO"
+msgid "No, thanks"
+msgstr ""
+
+msgctxt "sCHAT_PROFILE_OTHERS_CAN_JOIN"
+msgid "%s, anyone can join"
+msgstr ""
+
+msgctxt "sCHAT_INVITE_OTHERS_MESSAGE"
+msgid "<a href=\"%s\">Invite others to join</a>"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_JOIN_LABEL"
+msgid "Share this link with anyone to bring them into the Space:"
+msgstr ""
+
+msgctxt "sHUDDLE_EMAIL_SUBJECT"
+msgid "Join me in my Skype Space"
+msgstr ""
+
+msgctxt "sHUDDLE_EMAIL_BODYTEXT"
+msgid ""
+"Hi there,'+#13#10+#13#10+'I''ve made a Skype Space for us to chat, share and"
+" collaborate.'+#13#10+#13#10+'Join the Space by clicking the "
+"link:'+#13#10+'%s'+#13#10+#13#10+'*Don''t have Skype yet? Download it before"
+" you can join http://www.skype.com"
+msgstr ""
+
+msgctxt "sHUDDLE_POPUP_JOIN_CHECK"
+msgid "Allow others to join with a link"
+msgstr ""
+
+msgctxt "sHUDDLE_POPUP_JOIN_LABEL"
+msgid "Others can join with a link"
+msgstr ""
+
+msgctxt "sHUDDLE_POPUP_JOIN_LINKS"
+msgid "<a href=\"copy\">Copy link</a>%s<a href=\"email\">Email</a>"
+msgstr ""
+
+msgctxt "sCONFIRM_DEFAULT_CHECK"
+msgid ""
+"Would you like to select which Skype related actions this program should "
+"handle by default?"
+msgstr ""
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_TITLE"
+msgid "%s for Windows desktop"
+msgstr ""
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_YES"
+msgid "Yes"
+msgstr ""
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_NO"
+msgid "No"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_OPEN"
+msgid "Open"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_VIEW"
+msgid "View"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_PLAY"
+msgid "Play"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_JOIN"
+msgid "Join"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_DOWNLOAD"
+msgid "Download"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_START"
+msgid "Start"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_SINGLE"
+msgid "Shared a Flik"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_MULTI"
+msgid "%s shared a Flik"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_SINGLE"
+msgid "Shared a media message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_MULTI"
+msgid "%s shared a media message"
+msgstr ""
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE"
+msgid "From %0:s, new media, sent on %1:s"
+msgstr ""
+
+msgctxt "sACC_NAME_TILE_OPEN_URL"
+msgid "Open URL"
+msgstr ""
+
+msgctxt "sACC_NAME_FLIK_OPEN"
+msgid "Open Skype Flik"
+msgstr ""
+
+msgctxt "sACC_NAME_FLIK_MESSAGE"
+msgid "From %0:s, Skype Flik, sent on %1:s"
+msgstr ""
+
+msgctxt "sFLIK_PLAY"
+msgid "Play Skype Flik"
+msgstr ""
+
+msgctxt "sFLIK_OPEN_LINK"
+msgid "Open Skype Flik Link"
+msgstr ""
+
+msgctxt "sAPP_TOOLBAR_HOME"
+msgid "Home"
+msgstr ""
+
+msgctxt "sAPP_TOOLBAR_CALL"
+msgid "Call"
+msgstr ""
+
+msgctxt "sAPP_TOOLBAR_NEW"
+msgid "New"
+msgstr ""
+
+msgctxt "sAPP_TOOLBAR_NEW_TOOLTIP"
+msgid "New conversation"
+msgstr ""
+
+msgctxt "sMAINMENU_LOGGING"
+msgid "Turn on logging"
+msgstr ""
+
+msgctxt "sCOM_RESTART_HEADER"
+msgid "Restart required"
+msgstr ""
+
+msgctxt "sCOM_RESTART_MESSAGE"
+msgid "Restart Skype for your changes to take effect."
+msgstr ""
+
+msgctxt "sMAIN_MENU_SELF_HOST_FEEDBACK"
+msgid "Self-host feedback"
+msgstr ""
+
+msgctxt "sCONTACT_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_SELECTED_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr ""
+
+msgctxt "sOPTIONS_WIKI_MARKUP"
+msgid "Show advanced text formatting"
+msgstr ""
+
+msgctxt "sEMPTY_GROUP_HUDDLE"
+msgid "%s's Space"
+msgstr ""
+
+msgctxt "sAC_SEND_REQ_SC"
+msgid "%s is an address book contact."
+msgstr ""
+
+msgctxt "sZAPBUTTON_SEND_REQ_SC"
+msgid "Connect on Skype"
+msgstr ""
+
+msgctxt "sSTATUS_UNKNOWN2_SC"
+msgid "Not connected on Skype yet"
+msgstr ""
