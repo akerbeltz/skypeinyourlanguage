@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2015-01-15 13:43+0000\n"
+"POT-Creation-Date: 2015-05-16 18:31:59+0100\n"
+"PO-Revision-Date: 2015-06-30 06:31+0000\n"
 "Last-Translator: Thierry Fohanno <thierry.fohanno@ofis-bzh.org>\n"
 "Language-Team: Breton (http://www.transifex.com/projects/p/skype-translation-project/language/br/)\n"
 "MIME-Version: 1.0\n"
@@ -213,8 +213,8 @@ msgid "Forgot your password?"
 msgstr "Ankounac'haet ho ker-tremen ?"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype ha/pe Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr "© 2015 Skype ha/pe Microsoft"
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -305,8 +305,8 @@ msgid "- Options"
 msgstr "- Dibarzhioù"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "© 2014 Skype ha/pe Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr "© 2015 Skype ha/pe Microsoft"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
 msgid "Patents Pending"
@@ -3004,8 +3004,9 @@ msgstr "Mont kuit"
 
 msgctxt "sF_OPTIONS_SMS_NR_INVALID"
 msgid ""
-"The phone number is not entered correctly. Please select the country and "
-"then enter the number Example: Select United Kingdom and enter 020 5555 1212"
+"The phone number is not entered correctly. Please select the country/region "
+"and then enter the number Example: Select United Kingdom and enter 020 5555 "
+"1212"
 msgstr "Direizh eo an niverenn bellgomz. Diuzit ar vro ha merkit an niverenn, mar plij. Da skouer : diuzit Frañs ha merkit 02 98 45 67 89"
 
 msgctxt "sLOGIN_PROGRESS_LABEL"
@@ -3675,8 +3676,8 @@ msgstr "Merkit an niverenn gant ar c'hod bro/rannvro."
 msgctxt "sF_STARTCONF_ADD_NR_INVALID"
 msgid ""
 "The phone number you tried to add was not entered correctly. You must select"
-" the country and then enter the number you wish to add. Example: Select "
-"United Kingdom and enter 020 5555 1212"
+" the country/region and then enter the number you wish to add. Example: "
+"Select United Kingdom and enter 020 5555 1212"
 msgstr "Direizh e oa an niverenn ho peus klasket merkañ. Ret eo deoc'h dibab ar vro ha merkañ an niverenn a fell deoc'h ouzhpennañ. Da skouer : Dibabit Rouantelezh-Unanet ha merkit 020 5555 1212"
 
 msgctxt "sF_USERINFO_FRIENDS"
@@ -5344,6 +5345,14 @@ msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
 msgstr "Echu"
 
+msgctxt "sZAPBUTTON_COPYLINK"
+msgid "Copy link"
+msgstr "Eilañ al liamm"
+
+msgctxt "sZAPBUTTON_EMAILLINK"
+msgid "Email"
+msgstr "Postel"
+
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
 "Can't open Skype. You are already signed in on this computer. Please sign "
@@ -6346,8 +6355,8 @@ msgid "View all %d new conversations"
 msgstr "Gwelet an holl %d kaoz nevez"
 
 msgctxt "sMAINMENU_VIEW_SINGLE_WINDOW_MODE"
-msgid "Default View"
-msgstr "Gwel dre ziouer"
+msgid "Single Window View"
+msgstr "Gwel gant ur prenestr hepken"
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
 msgid "Split Window View"
@@ -6723,8 +6732,8 @@ msgid "pt"
 msgstr "pt"
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
-msgid "Open a new window when I receive a new message in Compact view"
-msgstr "Digeriñ ur prenestr nevez pa resevan ur gemennadenn nevez er gwel fetis"
+msgid "Open a new window when I receive a new message in Split Window View"
+msgstr "Digeriñ ur prenestr nevez pa resevan ur gemennadenn nevez er gwel prenestr rannet"
 
 msgctxt "sF_CALL_QLT_LBL_AUDIO_PROBLEMS"
 msgid "Audio problems"
@@ -9917,8 +9926,8 @@ msgid ""
 msgstr "Daoust ha fellout a ra deoc'h kas munudoù an darempredoù-mañ d'an dud all er c'hendiviz ?<br /><br />Ne vint ket ouzhpennet d'an diviz evit kello-se."
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
-msgid "&Send contact details"
-msgstr "&Kas munudoù an darempred"
+msgid "&Send"
+msgstr "&Kas"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
@@ -10412,8 +10421,8 @@ msgid "Type a message here"
 msgstr "Skrivit ur gemennadenn amañ"
 
 msgctxt "sCHAT_SEND_SMS"
-msgid "Send SMS"
-msgstr "Kas un SMS"
+msgid "Type an SMS here"
+msgstr "Skrivit un SMS amañ"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -10586,8 +10595,8 @@ msgid "Messenger"
 msgstr "Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype evit an aferioù"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
 msgid "via <a href=\"x\">Skype</a>"
@@ -10606,8 +10615,8 @@ msgid "via <a href=\"x\">Messenger</a>"
 msgstr "dre <a href=\"x\">Messenger</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
-msgid "via <a href=\"x\">Lync</a>"
-msgstr "dre <a href=\"x\">Lync</a>"
+msgid "via <a href=\"x\">Skype for Business</a>"
+msgstr "dre <a href=\"x\">Skype evit an aferioù</a>"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
@@ -10626,8 +10635,8 @@ msgid "Switch to Messenger"
 msgstr "Mont da Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_LYNC"
-msgid "Switch to Lync"
-msgstr "Mont da Lync"
+msgid "Switch to Skype for Business"
+msgstr "Mont da Skype evit an aferioù"
 
 msgctxt "sCHANNEL_SWITCHER_COST_HINT"
 msgid "Cost of SMS"
@@ -10770,8 +10779,8 @@ msgid "Message type"
 msgstr "Seurt kemennadenn"
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
-msgid "select country"
-msgstr "diuzañ ar vro"
+msgid "select country or region"
+msgstr "diuzañ ar vro pe ar rannvro"
 
 msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
 msgid "select type of number"
@@ -10876,16 +10885,17 @@ msgid "Close"
 msgstr "Serriñ"
 
 msgctxt "sLYNC_CAPTION"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype evit an aferioù"
 
 msgctxt "sCONTACT_GROUP_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype evit an aferioù"
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
-msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr "%s zo ezlinenn war Lync. <a href=\"skype:%s?sms\">Kas un SMS.</a>"
+msgid ""
+"%s is offline on Skype for Business. <a href=\"skype:%s?sms\">Send SMS.</a>"
+msgstr "%s zo ezlinenn war Skype evit an aferioù. <a href=\"skype:%s?sms\">Kas un SMS.</a>"
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
@@ -11020,8 +11030,8 @@ msgid "Send video message"
 msgstr "Kas ur gemennadenn video"
 
 msgctxt "sCALL_LYNC"
-msgid "Lync"
-msgstr "Lync"
+msgid "Skype for Business"
+msgstr "Skype evit an aferioù"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
@@ -11278,8 +11288,8 @@ msgid "All Messenger contacts"
 msgstr "An holl zarempredoù Messenger"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
-msgid "All Lync contacts"
-msgstr "An holl zarempredoù Lync"
+msgid "All Skype for Business contacts"
+msgstr "An holl zarempredoù Skype evit an aferioù"
 
 msgctxt "sACC_CALL_POPUP_NAME"
 msgid "Call options"
@@ -11570,8 +11580,8 @@ msgid "Chat via Messenger, switch message type"
 msgstr "Flapañ dre Messenger, cheñch seurt kemennadenn"
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
-msgid "Chat via Lync, switch message type"
-msgstr "Flapañ dre Lync, cheñch seurt kemennadenn"
+msgid "Chat via Skype for Business, switch message type"
+msgstr "Flapañ dre Skype evit an aferioù, cheñch seurt kemennadenn"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
 msgid ""
@@ -11700,28 +11710,28 @@ msgid "Messenger contact on Do Not Disturb"
 msgstr "Darempred Messenger gant Arabat direnkañ"
 
 msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
-msgid "This person has not shared their details with you. Lync"
-msgstr "N'en deus ket lodet an implijer-mañ e ditouroù ganeoc'h. Lync"
+msgid "This person has not shared their details with you. Skype for Business"
+msgstr "N'en deus ket lodet an implijer-mañ e ditouroù ganeoc'h. Skype evit an aferioù"
 
 msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
-msgid "Lync contact Blocked"
-msgstr "Darempred Lync stanket"
+msgid "Skype for Business contact Blocked"
+msgstr "Stanket eo an darempred Skype evit an aferioù"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
-msgid "Lync contact Offline"
-msgstr "Darempred Lync ezlinenn"
+msgid "Skype for Business contact Offline"
+msgstr "Ezlinenn emañ an darempred Skype evit an aferioù"
 
 msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
-msgid "Lync contact Online"
-msgstr "Darempred Lync enlinenn"
+msgid "Skype for Business contact Online"
+msgstr "Enlinenn emañ an darempred Skype evit an aferioù"
 
 msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
-msgid "Lync contact Away"
-msgstr "Darempred Lync aet kuit"
+msgid "Skype for Business contact Away"
+msgstr "Ezvezant eo an darempred Skype evit an aferioù"
 
 msgctxt "sACC_NAME_STATUS_DND_LYNC"
-msgid "Lync contact on Do Not Disturb"
-msgstr "Darempred Lync gant Arabat direnkañ"
+msgid "Skype for Business contact on Do Not Disturb"
+msgstr "Arabat direnkañ an darempred Skype evit an aferioù"
 
 msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
 msgid "Use Skype to call tel: links on the web"
@@ -11732,8 +11742,8 @@ msgid "Call Facebook"
 msgstr "Gervel Facebook"
 
 msgctxt "sCALL_POPUP_CALL_LYNC"
-msgid "Call Lync"
-msgstr "Gervel Lync"
+msgid "Call Skype for Business"
+msgstr "Pellgomzadenn Skype evit an aferioù"
 
 msgctxt "sCALL_POPUP_CALL_SKYPE"
 msgid "Call Skype"
@@ -12145,8 +12155,8 @@ msgid "Messenger > %s"
 msgstr "Messenger > %s"
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
-msgid "Lync > %s"
-msgstr "Lync > %s"
+msgid "Skype for Business > %s"
+msgstr "Skype evit an aferioù > %s"
 
 msgctxt "sCHAT_PROFILE_ONE_PERSON"
 msgid "%d person"
@@ -12305,8 +12315,8 @@ msgid "%d participants"
 msgstr "%d a berzhidi"
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
-msgid "Show images in conversations"
-msgstr "Diskouez ar skeudennoù er c'haozeadennoù"
+msgid "Show images and other media previews"
+msgstr "Diskouez un alberz eus ar skeudennoù hag ar medioù all"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
 msgid "Sent"
@@ -12769,8 +12779,8 @@ msgid "Show message previews in the sidebar"
 msgstr "Diskouez un alberz eus ar c'hemennadennoù er varrenn-gostez"
 
 msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
-msgid "Simple List View"
-msgstr "Gwel roll eeun"
+msgid "Compact Sidebar View"
+msgstr "Gwel barrenn-gostez fetis"
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
 msgid "Give Feedback"
@@ -13008,6 +13018,78 @@ msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
 msgid "Your Country/Region:"
 msgstr "Ho pro/rannvro :"
 
+msgctxt "sCALL_PHONES_CREDIT_TITLE"
+msgid "Your Skype Credit"
+msgstr "Ho kredoù Skype"
+
+msgctxt "sCALL_PHONES_RATES_MIN"
+msgid "Call %0:s from %1:s/min"
+msgstr "Gervel %0:s adalek %1:s/mun"
+
+msgctxt "sCALL_PHONES_RATES_MIN_PAYG"
+msgid "Pay As You Go rates to %0:s from %1:s/min"
+msgstr "Feurioù Paeit-Pa'z-It da %0:s adalek %1:s/mun"
+
+msgctxt "sCALL_PHONES_RATES_MONTH"
+msgid "Call from %s/month"
+msgstr "Gervel adalek %s/miz"
+
+msgctxt "sCALL_PHONES_ADD_CREDIT"
+msgid "<a href=\"%s\">Add Skype Credit</a>"
+msgstr "<a href=\"%s\">Ouzhpennañ kredoù Skype</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_CREDIT"
+msgid "<a href=\"%s\">Request more credit</a>"
+msgstr "<a href=\"%s\">Goulenn muioc'h a gredoù</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request a subscription</a>"
+msgstr "<a href=\"%s\">Goulenn ur c'houmanant</a>"
+
+msgctxt "sCALL_PHONES_REQUEST_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request another subscription</a>"
+msgstr "<a href=\"%s\">Goulenn ur c'houmanant all</a>"
+
+msgctxt "sCALL_PHONES_GET_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get a subscription</a>"
+msgstr "<a href=\"%s\">Tapout ur c'houmanant</a>"
+
+msgctxt "sCALL_PHONES_GET_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get another subscription</a>"
+msgstr "<a href=\"%s\">Tapout ur c'houmanant all</a>"
+
+msgctxt "sCALL_PHONES_SUBSCRIPTIONS_TITLE"
+msgid "Subscriptions"
+msgstr "Koumanantoù"
+
+msgctxt "sCALL_PHONES_NO_SUBSCRIPTIONS"
+msgid "You have no subscriptions"
+msgstr "N'ho peus koumanant ebet"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION"
+msgid "You have 1 subscription"
+msgstr "1 c'houmanant ho peus"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS"
+msgid "You have %d subscriptions"
+msgstr "%d koumanant ho peus"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRED"
+msgid "Subscription expired - <a href=\"%s\">Renew</a>"
+msgstr "Koumanant echu - <a href=\"%s\">Neveziñ</a>"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRED"
+msgid "Subscriptions expired - <a href=\"%s\">Renew</a>"
+msgstr "Koumanantoù echu - <a href=\"%s\">Neveziñ</a>"
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRING"
+msgid "Subscription expiring soon - <a href=\"%s\">Renew</a>"
+msgstr "Koumanant echu a-benn nebeut - <a href=\"%s\">Neveziñ</a>"
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRING"
+msgid "Subscriptions expiring soon - <a href=\"%s\">Renew</a>"
+msgstr "Koumanantoù echu a-benn nebeut - <a href=\"%s\">Neveziñ</a>"
+
 msgctxt "sSEND_MEDIA_MENU_HINT"
 msgid "Send contacts and media"
 msgstr "Kas darempredoù ha mediaioù"
@@ -13015,3 +13097,362 @@ msgstr "Kas darempredoù ha mediaioù"
 msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
 msgid "Advertisement"
 msgstr "Bruderezh"
+
+msgctxt "sSHARE_MENU_SEND_PIC_OR_FILE"
+msgid "Send photos and files..."
+msgstr "Kas luc'hskeudennoù ha restroù..."
+
+msgctxt "sFILETRANSFER_SHOWALL"
+msgid "Show all"
+msgstr "Diskouez pep tra"
+
+msgctxt "sFILETRANSFER_SHOWLESS"
+msgid "Show less"
+msgstr "Diskouez nebeutoc'h a draoù"
+
+msgctxt "sCONVERSATIONINFO_TITLE"
+msgid "Group profile"
+msgstr "Profil ar strollad"
+
+msgctxt "sCONTACTINFO_TITLE"
+msgid "Contact profile"
+msgstr "Profil an darempred"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON"
+msgid "Show all conversations"
+msgstr "Diskouez an holl gaozeadennoù"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF"
+msgid "Show unread conversations"
+msgstr "Diskouez ar c'haozeadennoù n'int ket be lennet"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON_EMPTY"
+msgid "No unread messages"
+msgstr "N'eus ket kemennadennoù ha n'int ket bet lennet"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF_EMPTY"
+msgid "No messages"
+msgstr "Kemennadenn ebet"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_ON"
+msgid "Unread"
+msgstr "N'eo ket bet lennet"
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_OFF"
+msgid "All"
+msgstr "An  holl"
+
+msgctxt "sCHAT_MEDIADOC_LEGACY"
+msgid "To view this shared photo, go to: %1"
+msgstr "Evit gwelet al luc'hskeudenn lodet-mañ, kit da : %1"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_FILE"
+msgid "Cancel file"
+msgstr "Nullañ ar restr"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN"
+msgid "Open"
+msgstr "Digeriñ"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_FILE"
+msgid "Open File"
+msgstr "Digeriñ ar restr"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_FILE"
+msgid "Download file"
+msgstr "Pellgargañ ar restr"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_COLLAPSE"
+msgid "Collapse"
+msgstr "Koazhañ"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_EXPAND"
+msgid "Expand"
+msgstr "Astenn"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_IMAGE"
+msgid "Cancel image"
+msgstr "Nullañ ar skeudenn"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_IMAGE"
+msgid "Open image"
+msgstr "Digeriñ ar skeudenn"
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_IMAGE"
+msgid "Download image"
+msgstr "Pellgargañ ar skeudenn"
+
+msgctxt "sACC_NAME_CONTACT_TILE_ADD"
+msgid "Add contact"
+msgstr "Ouzhpennañ un darempred"
+
+msgctxt "sACC_NAME_CONTACT_TILE_CHAT"
+msgid "Open chat"
+msgstr "Digeriñ ar flap"
+
+msgctxt "sACC_NAME_CONTACT_TILE_PROFILE"
+msgid "View profile"
+msgstr "Gwelet ar profil"
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE_OPEN"
+msgid "Open video message"
+msgstr "Digeriñ ar gemennadenn video"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR"
+msgid "Progress bar"
+msgstr "Barrenn mont war-raok"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr "Enrollañ"
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr "Nullañ"
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr "Enrollañ"
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr "Nullañ"
+
+msgctxt "sACC_NAME_FILE_TRANSFER"
+msgid "From %0:s, file transfer, sent on %1:s"
+msgstr "Digant %0:s, treuzkas restr, kaset d'an %1:s"
+
+msgctxt "sACC_NAME_CONTACT_TRANSFER"
+msgid "From %0:s, contacts, sent on %1:s"
+msgstr "Digant %0:s, darempredoù, kaset d'an %1:s"
+
+msgctxt "sSHARE_MENU_SEND_PIC"
+msgid "Photos"
+msgstr "Luc'hskeudennoù"
+
+msgctxt "sF_OPTIONS_CB_SHOW_LARGE_EMOTS"
+msgid "Show large emoticons"
+msgstr "Diskouez fromlunioù bras"
+
+msgctxt "sOPTIONS_COMPACT_CHAT"
+msgid "Compact Chat View"
+msgstr "Gwel flap fetis"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_CANCEL"
+msgid "Cancel media"
+msgstr "Nullañ ar media"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_OPEN"
+msgid "Open media"
+msgstr "Digeriñ ar media"
+
+msgctxt "sPSTN_RES_13430"
+msgid ""
+"You will not be able to call landlines or mobiles in India from Skype when "
+"you are inside India. <a href=\"https://support.skype.com/en/faq/FA34487"
+"/why-can-i-no-longer-make-calls-to-india-from-india\">Learn more.</a>"
+msgstr "N'halloc'h ket gervel pellgomzerioù diloc'h pe hezoug en India diwar Skype pa vioc'h en India. <a href=\"https://support.skype.com/en/faq/FA34487/why-can-i-no-longer-make-calls-to-india-from-india\">Gouzout hiroc'h.</a>"
+
+msgctxt "sEMOTICON_ROSTER_NONE_SELECTED"
+msgid "Choose an emoticon"
+msgstr "Dibab ur fromlun"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TITLE"
+msgid "Receive files automatically"
+msgstr "Resev restroù ent emgefre"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_CAPTION"
+msgid "Receive files automatically"
+msgstr "Resev restroù ent emgefre"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TEXT"
+msgid ""
+"You will now automatically receive files sent from contacts on Skype. You "
+"can change this option or choose a different destination folder in settings."
+msgstr "Bremañ e resevoc'h ent emgefre ar restroù kaset deoc'h gant darempredoù war Skype. Gallout a rit cheñch an dibarzh-mañ pe dibab ur renkell all en arventennoù."
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_YES"
+msgid "Allow"
+msgstr "Aotren"
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_NO"
+msgid "No, thanks"
+msgstr "Ket, trugarez deoc'h"
+
+msgctxt "sCHAT_PROFILE_OTHERS_CAN_JOIN"
+msgid "%s, anyone can join"
+msgstr "%s, forzh piv a c'hall dont"
+
+msgctxt "sCHAT_INVITE_OTHERS_MESSAGE"
+msgid "<a href=\"%s\">Invite others to join</a>"
+msgstr "<a href=\"%s\">Pediñ tud all da zont</a>"
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_JOIN_LABEL"
+msgid "Share this link with anyone to bring them into the Space:"
+msgstr "Lodañ al liamm-mañ gant an holl evit degas anezho en Egorenn :"
+
+msgctxt "sHUDDLE_EMAIL_SUBJECT"
+msgid "Join me in my Skype Space"
+msgstr "Deuit davedon em Egorenn Skype"
+
+msgctxt "sHUDDLE_EMAIL_BODYTEXT"
+msgid ""
+"Hi there,'+#13#10+#13#10+'I''ve made a Skype Space for us to chat, share and"
+" collaborate.'+#13#10+#13#10+'Join the Space by clicking the "
+"link:'+#13#10+'%s'+#13#10+#13#10+'*Don''t have Skype yet? Download it before"
+" you can join http://www.skype.com"
+msgstr "Salud deoc'h,'+#13#10+#13#10+'Graet em eus un Egorenn Skype dimp da flapañ, lodañ traoù ha kenlabourat.'+#13#10+#13#10+'Deuit en Egorenn dre glikañ war al liamm :'+#13#10+'%s'+#13#10+#13#10+'*N'emañ ket Skype ganeoc'h c'hoazh ? Pellgargit anezhañ deoc'h da zont http://www.skype.com"
+
+msgctxt "sHUDDLE_POPUP_JOIN_CHECK"
+msgid "Allow others to join with a link"
+msgstr "Aotre tud all da zont gant ul liamm"
+
+msgctxt "sHUDDLE_POPUP_JOIN_LABEL"
+msgid "Others can join with a link"
+msgstr "Gallout a ra tud all dont gant ul liamm"
+
+msgctxt "sHUDDLE_POPUP_JOIN_LINKS"
+msgid "<a href=\"copy\">Copy link</a>%s<a href=\"email\">Email</a>"
+msgstr "<a href=\"copy\">Eilañ al liamm</a>%s<a href=\"email\">Postel</a>"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK"
+msgid ""
+"Would you like to select which Skype related actions this program should "
+"handle by default?"
+msgstr "Daoust ha c'hoant ho peus da ziuzañ peseurt oberoù a-zalc'h ouzh Skype a zlefe bezañ graet war o zro gant ar programm-mañ ?"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_TITLE"
+msgid "%s for Windows desktop"
+msgstr "%s evit Windows war urzhiataerioù-burev"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_YES"
+msgid "Yes"
+msgstr "Ya"
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_NO"
+msgid "No"
+msgstr "Ket"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_OPEN"
+msgid "Open"
+msgstr "Digeriñ"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_VIEW"
+msgid "View"
+msgstr "Gwelet"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_PLAY"
+msgid "Play"
+msgstr "Lenn"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_JOIN"
+msgid "Join"
+msgstr "Dont"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_DOWNLOAD"
+msgid "Download"
+msgstr "Pellgargañ"
+
+msgctxt "sMEDIA_FALLBACK_ACTION_START"
+msgid "Start"
+msgstr "Loc'hañ"
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_SINGLE"
+msgid "Shared a Flik"
+msgstr "En/he deus lodet ur Flik"
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_MULTI"
+msgid "%s shared a Flik"
+msgstr "%s en/he deus lodet ur Flik"
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_SINGLE"
+msgid "Shared a media message"
+msgstr "Lodet ez eus bet ur gemennadenn vedia"
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_MULTI"
+msgid "%s shared a media message"
+msgstr "Lodet ez eus bet ur gemennadenn vedia gant %s"
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE"
+msgid "From %0:s, new media, sent on %1:s"
+msgstr "Digant %0:s, media nevez, kaset d'an %1:s"
+
+msgctxt "sACC_NAME_TILE_OPEN_URL"
+msgid "Open URL"
+msgstr "Digeriñ an URL"
+
+msgctxt "sACC_NAME_FLIK_OPEN"
+msgid "Open Skype Flik"
+msgstr "Digeriñ ur Flik Skype"
+
+msgctxt "sACC_NAME_FLIK_MESSAGE"
+msgid "From %0:s, Skype Flik, sent on %1:s"
+msgstr "Digant %0:s, Flik Skype, kaset d'an %1:s"
+
+msgctxt "sFLIK_PLAY"
+msgid "Play Skype Flik"
+msgstr "Lenn ar Flik Skype"
+
+msgctxt "sFLIK_OPEN_LINK"
+msgid "Open Skype Flik Link"
+msgstr "Digeriñ liamm ar Flik Skype"
+
+msgctxt "sAPP_TOOLBAR_HOME"
+msgid "Home"
+msgstr "Er gêr"
+
+msgctxt "sAPP_TOOLBAR_CALL"
+msgid "Call"
+msgstr "Pellgomz"
+
+msgctxt "sAPP_TOOLBAR_NEW"
+msgid "New"
+msgstr "Nevez"
+
+msgctxt "sAPP_TOOLBAR_NEW_TOOLTIP"
+msgid "New conversation"
+msgstr "Kaozeadenn nevez"
+
+msgctxt "sMAINMENU_LOGGING"
+msgid "Turn on logging"
+msgstr "Enaouiñ ar c'hevreañ"
+
+msgctxt "sCOM_RESTART_HEADER"
+msgid "Restart required"
+msgstr "Ret eo adlañsañ"
+
+msgctxt "sCOM_RESTART_MESSAGE"
+msgid "Restart Skype for your changes to take effect."
+msgstr "Adlañsit Skype evit ma vo dalc'het kont eus ho kemmoù."
+
+msgctxt "sMAIN_MENU_SELF_HOST_FEEDBACK"
+msgid "Self-host feedback"
+msgstr "Keloù emherberc'h"
+
+msgctxt "sCONTACT_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr "Darempredoù aliet"
+
+msgctxt "sACC_NAME_SELECTED_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr "Darempredoù aliet"
+
+msgctxt "sOPTIONS_WIKI_MARKUP"
+msgid "Show advanced text formatting"
+msgstr "Diskouez ar furmadiñ testennoù araokaet"
+
+msgctxt "sEMPTY_GROUP_HUDDLE"
+msgid "%s's Space"
+msgstr "Egorenn %s"
+
+msgctxt "sAC_SEND_REQ_SC"
+msgid "%s is an address book contact."
+msgstr "%s zo un darempred er c'harned chomlec'hioù"
+
+msgctxt "sZAPBUTTON_SEND_REQ_SC"
+msgid "Connect on Skype"
+msgstr "Kevreañ ouzh Skype"
+
+msgctxt "sSTATUS_UNKNOWN2_SC"
+msgid "Not connected on Skype yet"
+msgstr "N'eo ket kevreet ouzh Skype c'hoazh"

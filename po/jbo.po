@@ -1,15 +1,15 @@
 # Translation of Skype into unsupported languages
 # Copyright (C) 2013 Kevin P. Scannell
 # Translators:
-# gleki <gleki.is.my.name@gmail.com>, 2014
+# gleki <gleki.is.my.name@gmail.com>, 2014-2015
 # gleki <gleki.is.my.name@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2014-12-16 10:48:31+0000\n"
-"PO-Revision-Date: 2015-01-01 21:15+0000\n"
-"Last-Translator: Michael Bauer\n"
+"POT-Creation-Date: 2015-05-16 18:31:59+0100\n"
+"PO-Revision-Date: 2015-07-12 09:45+0000\n"
+"Last-Translator: gleki <gleki.is.my.name@gmail.com>\n"
 "Language-Team: Lojban (http://www.transifex.com/projects/p/skype-translation-project/language/jbo/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -212,8 +212,8 @@ msgid "Forgot your password?"
 msgstr "co'u morji tu'a lo ckiku pe do"
 
 msgctxt "sF_SPLASH_COPYRIGHT1"
-msgid "© 2014 Skype and/or Microsoft"
-msgstr "fukpi krali  de'i li 2014 fa la'oi Skype ja la'oi Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
+msgstr ""
 
 msgctxt "sF_SPLASH_COPYRIGHT2"
 msgid "Protected by International Laws. All Rights Reserved."
@@ -253,7 +253,7 @@ msgstr "lo kibro stuzi"
 
 msgctxt "sF_OPTIONS_PAGE_GENERAL"
 msgid "General"
-msgstr ""
+msgstr "kampu"
 
 msgctxt "sF_OPTIONS_PAGE_PRIVACY"
 msgid "Privacy"
@@ -304,7 +304,7 @@ msgid "- Options"
 msgstr "lo te cuxna"
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_1"
-msgid "© 2014 Skype and/or Microsoft"
+msgid "© 2015 Skype and/or Microsoft"
 msgstr ""
 
 msgctxt "sF_ABOUT_COPYRIGHT_1_2"
@@ -367,7 +367,7 @@ msgstr "loi sance"
 
 msgctxt "sF_USERINFO_LABEL_CLOSE"
 msgid "Close"
-msgstr "vimcu lo canko"
+msgstr "gau ganlo"
 
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
@@ -2816,7 +2816,7 @@ msgstr ""
 
 msgctxt "sF_PAYMENTS_BTN_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sF_OPTIONS_SMS_HINT"
 msgid "Type in your mobile number"
@@ -3003,8 +3003,9 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_SMS_NR_INVALID"
 msgid ""
-"The phone number is not entered correctly. Please select the country and "
-"then enter the number Example: Select United Kingdom and enter 020 5555 1212"
+"The phone number is not entered correctly. Please select the country/region "
+"and then enter the number Example: Select United Kingdom and enter 020 5555 "
+"1212"
 msgstr ""
 
 msgctxt "sLOGIN_PROGRESS_LABEL"
@@ -3289,7 +3290,7 @@ msgstr ""
 
 msgctxt "sWAIT_SMILEY"
 msgid "Wait"
-msgstr ""
+msgstr "denpa"
 
 msgctxt "sHUG_SMILEY"
 msgid "Hug"
@@ -3309,7 +3310,7 @@ msgstr ""
 
 msgctxt "sTHINKING_SMILEY"
 msgid "Thinking"
-msgstr ""
+msgstr "ca'o pensi"
 
 msgctxt "sBOW_SMILEY"
 msgid "Bowing"
@@ -3325,7 +3326,7 @@ msgstr ""
 
 msgctxt "sHAPPY_SMILEY"
 msgid "Happy"
-msgstr ""
+msgstr "gleki"
 
 msgctxt "sSMIRK_SMILEY"
 msgid "Smirking"
@@ -3349,11 +3350,11 @@ msgstr ""
 
 msgctxt "sYES_SMILEY"
 msgid "Yes"
-msgstr ""
+msgstr "je'u"
 
 msgctxt "sNO_SMILEY"
 msgid "No"
-msgstr ""
+msgstr "je'u nai"
 
 msgctxt "sHANDSHAKE_SMILEY"
 msgid "Handshake"
@@ -3365,7 +3366,7 @@ msgstr "la .skaip."
 
 msgctxt "sHEART_SMILEY"
 msgid "Heart"
-msgstr ""
+msgstr "risna"
 
 msgctxt "sBROKENHEART_SMILEY"
 msgid "Broken heart"
@@ -3381,59 +3382,59 @@ msgstr ""
 
 msgctxt "sRAINING_SMILEY"
 msgid "Raining"
-msgstr ""
+msgstr "carvi"
 
 msgctxt "sSUN_SMILEY"
 msgid "Sun"
-msgstr ""
+msgstr "solri"
 
 msgctxt "sTIME_SMILEY"
 msgid "Time"
-msgstr ""
+msgstr "tcika"
 
 msgctxt "sMUSIC_SMILEY"
 msgid "Music"
-msgstr ""
+msgstr "zgike"
 
 msgctxt "sMOVIE_SMILEY"
 msgid "Movie"
-msgstr ""
+msgstr "skina"
 
 msgctxt "sPHONE_SMILEY"
 msgid "Phone"
-msgstr ""
+msgstr "fonxa"
 
 msgctxt "sCOFFEE_SMILEY"
 msgid "Coffee"
-msgstr ""
+msgstr "ckafi"
 
 msgctxt "sPIZZA_SMILEY"
 msgid "Pizza"
-msgstr ""
+msgstr "pitsa"
 
 msgctxt "sCASH_SMILEY"
 msgid "Cash"
-msgstr ""
+msgstr "marji jdini"
 
 msgctxt "sMUSCLE_SMILEY"
 msgid "Muscle"
-msgstr ""
+msgstr "sluji"
 
 msgctxt "sCAKE_SMILEY"
 msgid "Cake"
-msgstr ""
+msgstr "torta"
 
 msgctxt "sBEER_SMILEY"
 msgid "Beer"
-msgstr ""
+msgstr "birje"
 
 msgctxt "sDRINK_SMILEY"
 msgid "Drink"
-msgstr ""
+msgstr "pinxe"
 
 msgctxt "sDANCING_SMILEY"
 msgid "Dancing"
-msgstr ""
+msgstr "dansu"
 
 msgctxt "sNINJA_SMILEY"
 msgid "Ninja"
@@ -3441,7 +3442,7 @@ msgstr ""
 
 msgctxt "sSTAR_SMILEY"
 msgid "Star"
-msgstr ""
+msgstr "tarci"
 
 msgctxt "sMOONING_SMILEY"
 msgid "Mooning"
@@ -3449,7 +3450,7 @@ msgstr ""
 
 msgctxt "sFINGER_SMILEY"
 msgid "Finger"
-msgstr ""
+msgstr "degji"
 
 msgctxt "sBANDIT_SMILEY"
 msgid "Bandit"
@@ -3461,7 +3462,7 @@ msgstr ""
 
 msgctxt "sSMOKING_SMILEY"
 msgid "Smoking"
-msgstr ""
+msgstr "damva'u"
 
 msgctxt "sROCK_SMILEY"
 msgid "Rock"
@@ -3481,7 +3482,7 @@ msgstr ""
 
 msgctxt "sBUG_SMILEY"
 msgid "Bug"
-msgstr ""
+msgstr "cinki"
 
 msgctxt "sFUBAR_SMILEY"
 msgid "FUBAR"
@@ -3489,7 +3490,7 @@ msgstr ""
 
 msgctxt "sTMI_SMILEY"
 msgid "Too much information"
-msgstr ""
+msgstr "du'e info"
 
 msgctxt "sSILENT_GUI_WARNING1"
 msgid "Another program is trying to put Skype in Silent Mode."
@@ -3541,19 +3542,19 @@ msgstr ""
 
 msgctxt "sF_CHAT_NOTIFY_BTN_OK"
 msgid "OK"
-msgstr ""
+msgstr "i'a"
 
 msgctxt "sF_CHAT_NOTIFY_BTN_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "co'u"
 
 msgctxt "sF_CHAT_NOTIFY_RB1"
 msgid "Notify me"
-msgstr ""
+msgstr "jai gau djuno fai mi"
 
 msgctxt "sF_CHAT_NOTIFY_RB2"
 msgid "Do not notify me"
-msgstr ""
+msgstr "na jai gau djuno fai mi"
 
 msgctxt "sF_CHAT_NOTIFY_RB3"
 msgid "Notify me only if these words are mentioned:"
@@ -3589,11 +3590,11 @@ msgstr ""
 
 msgctxt "sF_CHAT_PIC_CAPTION"
 msgid "Conversation picture"
-msgstr ""
+msgstr "nu jikca vau pixra"
 
 msgctxt "sF_CHAT_PIC_LB_CAPTION"
 msgid "Conversation picture"
-msgstr ""
+msgstr "nu jikca vau pixra"
 
 msgctxt "sF_CHAT_PIC_LBC_LIBRARY"
 msgid "Picture library"
@@ -3601,11 +3602,11 @@ msgstr ""
 
 msgctxt "sCL_TB_CONFERENCE_LONG"
 msgid "Call the Group"
-msgstr ""
+msgstr "fonjorne lo girzu"
 
 msgctxt "sCHAT_MEMBER_JOINED"
 msgid "%s joined."
-msgstr ""
+msgstr "la'o gy.%s.gy. mo'u jorne"
 
 msgctxt "sCHAT_MEMBER_PROMOTED_TO_ADMIN"
 msgid "%s has been promoted to conversation host."
@@ -3613,7 +3614,7 @@ msgstr ""
 
 msgctxt "sCHAT_MEMBER_APPLIED"
 msgid "%s is waiting to join."
-msgstr ""
+msgstr "la'o zoi.%s.zoi. denpa fo lo ka jorne"
 
 msgctxt "sCHAT_SETPICTURE"
 msgid "%s has changed the conversation picture."
@@ -3645,7 +3646,7 @@ msgstr ""
 
 msgctxt "sCONFIRM_CHAT_REMOVE_MESSAGE_TITLE"
 msgid "Remove message?"
-msgstr ""
+msgstr "e'i pei vimcu lo se benji?"
 
 msgctxt "sCHAT_COPY_LINK"
 msgid "Copy link location"
@@ -3674,17 +3675,17 @@ msgstr ""
 msgctxt "sF_STARTCONF_ADD_NR_INVALID"
 msgid ""
 "The phone number you tried to add was not entered correctly. You must select"
-" the country and then enter the number you wish to add. Example: Select "
-"United Kingdom and enter 020 5555 1212"
+" the country/region and then enter the number you wish to add. Example: "
+"Select United Kingdom and enter 020 5555 1212"
 msgstr ""
 
 msgctxt "sF_USERINFO_FRIENDS"
 msgid "Contacts"
-msgstr ""
+msgstr "se jikca"
 
 msgctxt "sCHAT_STATUSMESSAGE_PWD_REQUIRED"
 msgid "Password required"
-msgstr ""
+msgstr "lo ckiku cu se nitcu"
 
 msgctxt "sCHAT_STATUSMESSAGE_QUEUED"
 msgid "This public IM is full. Please try joining again later."
@@ -3713,7 +3714,7 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_BTN_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sF_CHAT_INFO_BTN_COPYLINK"
 msgid "Copy link to clipboard"
@@ -3721,11 +3722,11 @@ msgstr ""
 
 msgctxt "sF_CHAT_INFO_LB_CREATOR"
 msgid "Creator:"
-msgstr ""
+msgstr "lo finti zo'u"
 
 msgctxt "sF_CHAT_INFO_LB_ADMIN"
 msgid "Administrators:"
-msgstr ""
+msgstr "lo admine zo'u"
 
 msgctxt "sF_CHAT_INFO_LB_RULES"
 msgid "Moderation rules:"
@@ -3764,7 +3765,7 @@ msgstr ""
 
 msgctxt "sCHAT_MENU_REMOVE_MESSAGE"
 msgid "Remove Message"
-msgstr ""
+msgstr "vimcu lo se benji"
 
 msgctxt "sERROR_HINT_VIDEO_11"
 msgid "Cannot show video. The camera may be in use."
@@ -3784,11 +3785,11 @@ msgstr ""
 
 msgctxt "sF_CALL_QLT_BTN_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "co'u"
 
 msgctxt "sF_CALL_QLT_BTN_FINISH"
 msgid "Finish"
-msgstr ""
+msgstr "mo'u"
 
 msgctxt "sF_CALL_QLT_BTN_SEND_FEEDBACK"
 msgid "Send feedback"
@@ -3824,15 +3825,15 @@ msgstr ""
 
 msgctxt "sCHAT_PASSWORD_LABEL"
 msgid "Password:"
-msgstr ""
+msgstr "lo ckiku zo'u"
 
 msgctxt "sACL_DISCONNECT"
 msgid "Disconnect"
-msgstr ""
+msgstr "gau co'u jorne"
 
 msgctxt "sACL_DISCONNECTING"
 msgid "Disconnecting"
-msgstr ""
+msgstr "ca'o co'u jorne"
 
 msgctxt "sF_OPTIONS_CB_TYPING"
 msgid "Show when I am typing"
@@ -3872,7 +3873,7 @@ msgstr ""
 
 msgctxt "sF_OPTIONS_LBC_MESSAGES"
 msgid "Alerts & messages"
-msgstr ""
+msgstr "lo notci ce lo se benji"
 
 msgctxt "sF_OPTIONS_LBC_ALERTS"
 msgid "<b>Alerts and messages:</b> Useful information and help about Skype"
@@ -3924,7 +3925,7 @@ msgstr ""
 
 msgctxt "sF_IMAGE_CONTENT_DELETE"
 msgid "Delete"
-msgstr ""
+msgstr "vimcu"
 
 msgctxt "sF_INVALID_IMAGE_CONTENT_TITLE"
 msgid "Image file corrupted"
@@ -4573,15 +4574,15 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sZAPBUTTON_CLOSEONWHITE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sZAPBUTTON_CLOSEONBLUE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sZAPBUTTON_CONVERSATIONSSKYPE"
 msgid "Skype"
@@ -5321,7 +5322,7 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_CLOSEWINDOW"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sZAPBUTTON_CM_RESUME"
 msgid "Resume call"
@@ -5342,6 +5343,14 @@ msgstr ""
 msgctxt "sZAPBUTTON_DONE"
 msgid "Done"
 msgstr "mu'o"
+
+msgctxt "sZAPBUTTON_COPYLINK"
+msgid "Copy link"
+msgstr ""
+
+msgctxt "sZAPBUTTON_EMAILLINK"
+msgid "Email"
+msgstr ""
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
 msgid ""
@@ -5826,7 +5835,7 @@ msgstr ""
 
 msgctxt "sMAINMENU_SKYPE_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sMAINMENU_CONTACTS"
 msgid "Contacts"
@@ -6251,7 +6260,7 @@ msgstr ""
 
 msgctxt "sF_CALLQUALITY_BTN_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_WAITING"
 msgid "Waiting"
@@ -6302,7 +6311,7 @@ msgstr ""
 
 msgctxt "sINFORM_DB_CORRUPT"
 msgid "Database error. Please close Skype and sign in again."
-msgstr ""
+msgstr "datni sorcu se srera i e'o jai gau ganlo fai la skaip gi'e ba bo za'u re'u pilno lo jaspu"
 
 msgctxt "sCHAT_DRAGFILE_DIALOG"
 msgid "Send file to %s"
@@ -6345,7 +6354,7 @@ msgid "View all %d new conversations"
 msgstr ""
 
 msgctxt "sMAINMENU_VIEW_SINGLE_WINDOW_MODE"
-msgid "Default View"
+msgid "Single Window View"
 msgstr ""
 
 msgctxt "sMAINMENU_VIEW_MULTI_WINDOW_MODE"
@@ -6722,7 +6731,7 @@ msgid "pt"
 msgstr ""
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
-msgid "Open a new window when I receive a new message in Compact view"
+msgid "Open a new window when I receive a new message in Split Window View"
 msgstr ""
 
 msgctxt "sF_CALL_QLT_LBL_AUDIO_PROBLEMS"
@@ -6960,7 +6969,7 @@ msgstr ""
 
 msgctxt "sPROFILE_AVATAR_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sPROFILE_AVATAR_MIN"
 msgid "Minimize"
@@ -8393,7 +8402,7 @@ msgstr ""
 
 msgctxt "sNO_WEBCAM_FORM_BTN_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sLIVE_ADD_PEOPLE_SEARCH_HINT_TEXT"
 msgid "Enter contact or phone number"
@@ -8579,7 +8588,7 @@ msgstr ""
 
 msgctxt "sPREM_VIDEO_CANCEL"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sSEND_MSG_DLG_CAPTION"
 msgid "Send them an upgrade link"
@@ -8776,7 +8785,7 @@ msgstr ""
 
 msgctxt "sHISTORY_CLOSE_HINT"
 msgid "Close %s"
-msgstr ""
+msgstr "gau ganlo lo %s"
 
 msgctxt "sCQ_MSG_NET_SLOW_FOR_VIDEO_TITLE"
 msgid "The connection between you is too slow for good video."
@@ -9477,7 +9486,7 @@ msgstr "canai"
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_CAPTION"
 msgid "Close this window"
-msgstr ""
+msgstr "lo canko gau ganlo"
 
 msgctxt "sAVATAR_CAPTURE_CONFIRMATION_TEXT"
 msgid ""
@@ -9727,7 +9736,7 @@ msgstr ""
 
 msgctxt "sGETTING_STARTED_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sGETTING_STARTED_SET_PICTURE_TITLE"
 msgid "Set your profile picture"
@@ -9916,7 +9925,7 @@ msgid ""
 msgstr ""
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
-msgid "&Send contact details"
+msgid "&Send"
 msgstr ""
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
@@ -9935,7 +9944,7 @@ msgstr "lacpu lo se jikca vreji fa'a ti"
 
 msgctxt "sFAVORITES_CLOSE_BUTTON_HINT"
 msgid "Close"
-msgstr "co'u zgana"
+msgstr "gau ganlo"
 
 msgctxt "sFAVORITES_RENAME_BUTTON_HINT"
 msgid "Rename"
@@ -10057,7 +10066,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sSKYPEWIFI_NOCREDIT_HEADER"
 msgid "Skype WiFi is available here"
@@ -10329,7 +10338,7 @@ msgstr ""
 
 msgctxt "sSKYPEWIFI_FAQ_BUTTON_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sDELETE_THIS_VOICEMAIL_HINT"
 msgid "Delete this voice message"
@@ -10392,7 +10401,7 @@ msgstr ""
 
 msgctxt "sADD_CONTACT_PANEL_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sADD_CONTACT_PANEL_SEARCH_HINT"
 msgid "Name, Skype Name or email"
@@ -10411,8 +10420,8 @@ msgid "Type a message here"
 msgstr "ko ciska lo notci ti"
 
 msgctxt "sCHAT_SEND_SMS"
-msgid "Send SMS"
-msgstr "benji SMS"
+msgid "Type an SMS here"
+msgstr ""
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -10585,7 +10594,7 @@ msgid "Messenger"
 msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
-msgid "Lync"
+msgid "Skype for Business"
 msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
@@ -10605,7 +10614,7 @@ msgid "via <a href=\"x\">Messenger</a>"
 msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
-msgid "via <a href=\"x\">Lync</a>"
+msgid "via <a href=\"x\">Skype for Business</a>"
 msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
@@ -10625,7 +10634,7 @@ msgid "Switch to Messenger"
 msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_HINT_LYNC"
-msgid "Switch to Lync"
+msgid "Switch to Skype for Business"
 msgstr ""
 
 msgctxt "sCHANNEL_SWITCHER_COST_HINT"
@@ -10769,7 +10778,7 @@ msgid "Message type"
 msgstr ""
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
-msgid "select country"
+msgid "select country or region"
 msgstr ""
 
 msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
@@ -10848,7 +10857,7 @@ msgstr ""
 
 msgctxt "sTOPUP_GENERIC_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sTOPUP_CONT_ERROR"
 msgid ""
@@ -10868,22 +10877,23 @@ msgstr ""
 
 msgctxt "sTOPUP_CONN_ERROR_BUTTON"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sMAINMENU_CONVERSATION_CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sLYNC_CAPTION"
-msgid "Lync"
+msgid "Skype for Business"
 msgstr ""
 
 msgctxt "sCONTACT_GROUP_LYNC"
-msgid "Lync"
+msgid "Skype for Business"
 msgstr ""
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
-msgid "%s is offline on Lync. <a href=\"skype:%s?sms\">Send SMS.</a>"
+msgid ""
+"%s is offline on Skype for Business. <a href=\"skype:%s?sms\">Send SMS.</a>"
 msgstr ""
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
@@ -11019,7 +11029,7 @@ msgid "Send video message"
 msgstr ""
 
 msgctxt "sCALL_LYNC"
-msgid "Lync"
+msgid "Skype for Business"
 msgstr ""
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
@@ -11277,7 +11287,7 @@ msgid "All Messenger contacts"
 msgstr ""
 
 msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
-msgid "All Lync contacts"
+msgid "All Skype for Business contacts"
 msgstr ""
 
 msgctxt "sACC_CALL_POPUP_NAME"
@@ -11569,7 +11579,7 @@ msgid "Chat via Messenger, switch message type"
 msgstr ""
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
-msgid "Chat via Lync, switch message type"
+msgid "Chat via Skype for Business, switch message type"
 msgstr ""
 
 msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
@@ -11699,27 +11709,27 @@ msgid "Messenger contact on Do Not Disturb"
 msgstr ""
 
 msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
-msgid "This person has not shared their details with you. Lync"
+msgid "This person has not shared their details with you. Skype for Business"
 msgstr ""
 
 msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
-msgid "Lync contact Blocked"
+msgid "Skype for Business contact Blocked"
 msgstr ""
 
 msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
-msgid "Lync contact Offline"
+msgid "Skype for Business contact Offline"
 msgstr ""
 
 msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
-msgid "Lync contact Online"
+msgid "Skype for Business contact Online"
 msgstr ""
 
 msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
-msgid "Lync contact Away"
+msgid "Skype for Business contact Away"
 msgstr ""
 
 msgctxt "sACC_NAME_STATUS_DND_LYNC"
-msgid "Lync contact on Do Not Disturb"
+msgid "Skype for Business contact on Do Not Disturb"
 msgstr ""
 
 msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
@@ -11731,7 +11741,7 @@ msgid "Call Facebook"
 msgstr ""
 
 msgctxt "sCALL_POPUP_CALL_LYNC"
-msgid "Call Lync"
+msgid "Call Skype for Business"
 msgstr ""
 
 msgctxt "sCALL_POPUP_CALL_SKYPE"
@@ -12036,7 +12046,7 @@ msgstr ""
 
 msgctxt "sCONFIRM_FILE_TRANSFER_CANCEL"
 msgid "Close"
-msgstr ""
+msgstr "gau ganlo"
 
 msgctxt "sF_OPTIONS_CALLFORWARDING_ONE_INFO"
 msgid ""
@@ -12144,7 +12154,7 @@ msgid "Messenger > %s"
 msgstr ""
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
-msgid "Lync > %s"
+msgid "Skype for Business > %s"
 msgstr ""
 
 msgctxt "sCHAT_PROFILE_ONE_PERSON"
@@ -12304,7 +12314,7 @@ msgid "%d participants"
 msgstr ""
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
-msgid "Show images in conversations"
+msgid "Show images and other media previews"
 msgstr ""
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
@@ -12768,7 +12778,7 @@ msgid "Show message previews in the sidebar"
 msgstr ""
 
 msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
-msgid "Simple List View"
+msgid "Compact Sidebar View"
 msgstr ""
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
@@ -13007,10 +13017,441 @@ msgctxt "sCALL_PHONES_EMERGENCY_COUNTRYPICKERLABEL"
 msgid "Your Country/Region:"
 msgstr ""
 
+msgctxt "sCALL_PHONES_CREDIT_TITLE"
+msgid "Your Skype Credit"
+msgstr ""
+
+msgctxt "sCALL_PHONES_RATES_MIN"
+msgid "Call %0:s from %1:s/min"
+msgstr ""
+
+msgctxt "sCALL_PHONES_RATES_MIN_PAYG"
+msgid "Pay As You Go rates to %0:s from %1:s/min"
+msgstr ""
+
+msgctxt "sCALL_PHONES_RATES_MONTH"
+msgid "Call from %s/month"
+msgstr ""
+
+msgctxt "sCALL_PHONES_ADD_CREDIT"
+msgid "<a href=\"%s\">Add Skype Credit</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_REQUEST_CREDIT"
+msgid "<a href=\"%s\">Request more credit</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_REQUEST_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request a subscription</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_REQUEST_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Request another subscription</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_GET_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get a subscription</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_GET_ANOTHER_SUBSCRIPTION"
+msgid "<a href=\"%s\">Get another subscription</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_SUBSCRIPTIONS_TITLE"
+msgid "Subscriptions"
+msgstr ""
+
+msgctxt "sCALL_PHONES_NO_SUBSCRIPTIONS"
+msgid "You have no subscriptions"
+msgstr ""
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION"
+msgid "You have 1 subscription"
+msgstr ""
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS"
+msgid "You have %d subscriptions"
+msgstr ""
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRED"
+msgid "Subscription expired - <a href=\"%s\">Renew</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRED"
+msgid "Subscriptions expired - <a href=\"%s\">Renew</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRING"
+msgid "Subscription expiring soon - <a href=\"%s\">Renew</a>"
+msgstr ""
+
+msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRING"
+msgid "Subscriptions expiring soon - <a href=\"%s\">Renew</a>"
+msgstr ""
+
 msgctxt "sSEND_MEDIA_MENU_HINT"
 msgid "Send contacts and media"
 msgstr ""
 
 msgctxt "sCHAT_AD_PLACEHOLDER_TEXT"
 msgid "Advertisement"
+msgstr ""
+
+msgctxt "sSHARE_MENU_SEND_PIC_OR_FILE"
+msgid "Send photos and files..."
+msgstr ""
+
+msgctxt "sFILETRANSFER_SHOWALL"
+msgid "Show all"
+msgstr ""
+
+msgctxt "sFILETRANSFER_SHOWLESS"
+msgid "Show less"
+msgstr ""
+
+msgctxt "sCONVERSATIONINFO_TITLE"
+msgid "Group profile"
+msgstr ""
+
+msgctxt "sCONTACTINFO_TITLE"
+msgid "Contact profile"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON"
+msgid "Show all conversations"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF"
+msgid "Show unread conversations"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_ON_EMPTY"
+msgid "No unread messages"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_OFF_EMPTY"
+msgid "No messages"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_ON"
+msgid "Unread"
+msgstr ""
+
+msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_OFF"
+msgid "All"
+msgstr ""
+
+msgctxt "sCHAT_MEDIADOC_LEGACY"
+msgid "To view this shared photo, go to: %1"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_FILE"
+msgid "Cancel file"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN"
+msgid "Open"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_FILE"
+msgid "Open File"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_FILE"
+msgid "Download file"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_COLLAPSE"
+msgid "Collapse"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_EXPAND"
+msgid "Expand"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_IMAGE"
+msgid "Cancel image"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_IMAGE"
+msgid "Open image"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_IMAGE"
+msgid "Download image"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACT_TILE_ADD"
+msgid "Add contact"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACT_TILE_CHAT"
+msgid "Open chat"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACT_TILE_PROFILE"
+msgid "View profile"
+msgstr ""
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE_OPEN"
+msgid "Open video message"
+msgstr ""
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR"
+msgid "Progress bar"
+msgstr ""
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr ""
+
+msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_SAVE"
+msgid "Save"
+msgstr ""
+
+msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_CANCEL"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sACC_NAME_FILE_TRANSFER"
+msgid "From %0:s, file transfer, sent on %1:s"
+msgstr ""
+
+msgctxt "sACC_NAME_CONTACT_TRANSFER"
+msgid "From %0:s, contacts, sent on %1:s"
+msgstr ""
+
+msgctxt "sSHARE_MENU_SEND_PIC"
+msgid "Photos"
+msgstr ""
+
+msgctxt "sF_OPTIONS_CB_SHOW_LARGE_EMOTS"
+msgid "Show large emoticons"
+msgstr ""
+
+msgctxt "sOPTIONS_COMPACT_CHAT"
+msgid "Compact Chat View"
+msgstr ""
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_CANCEL"
+msgid "Cancel media"
+msgstr ""
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE_OPEN"
+msgid "Open media"
+msgstr ""
+
+msgctxt "sPSTN_RES_13430"
+msgid ""
+"You will not be able to call landlines or mobiles in India from Skype when "
+"you are inside India. <a href=\"https://support.skype.com/en/faq/FA34487"
+"/why-can-i-no-longer-make-calls-to-india-from-india\">Learn more.</a>"
+msgstr ""
+
+msgctxt "sEMOTICON_ROSTER_NONE_SELECTED"
+msgid "Choose an emoticon"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TITLE"
+msgid "Receive files automatically"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_CAPTION"
+msgid "Receive files automatically"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_TEXT"
+msgid ""
+"You will now automatically receive files sent from contacts on Skype. You "
+"can change this option or choose a different destination folder in settings."
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_YES"
+msgid "Allow"
+msgstr ""
+
+msgctxt "sFILETRANSFER_AUTOACCEPT_NO"
+msgid "No, thanks"
+msgstr ""
+
+msgctxt "sCHAT_PROFILE_OTHERS_CAN_JOIN"
+msgid "%s, anyone can join"
+msgstr ""
+
+msgctxt "sCHAT_INVITE_OTHERS_MESSAGE"
+msgid "<a href=\"%s\">Invite others to join</a>"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_CONVERSATION_JOIN_LABEL"
+msgid "Share this link with anyone to bring them into the Space:"
+msgstr ""
+
+msgctxt "sHUDDLE_EMAIL_SUBJECT"
+msgid "Join me in my Skype Space"
+msgstr ""
+
+msgctxt "sHUDDLE_EMAIL_BODYTEXT"
+msgid ""
+"Hi there,'+#13#10+#13#10+'I''ve made a Skype Space for us to chat, share and"
+" collaborate.'+#13#10+#13#10+'Join the Space by clicking the "
+"link:'+#13#10+'%s'+#13#10+#13#10+'*Don''t have Skype yet? Download it before"
+" you can join http://www.skype.com"
+msgstr ""
+
+msgctxt "sHUDDLE_POPUP_JOIN_CHECK"
+msgid "Allow others to join with a link"
+msgstr ""
+
+msgctxt "sHUDDLE_POPUP_JOIN_LABEL"
+msgid "Others can join with a link"
+msgstr ""
+
+msgctxt "sHUDDLE_POPUP_JOIN_LINKS"
+msgid "<a href=\"copy\">Copy link</a>%s<a href=\"email\">Email</a>"
+msgstr ""
+
+msgctxt "sCONFIRM_DEFAULT_CHECK"
+msgid ""
+"Would you like to select which Skype related actions this program should "
+"handle by default?"
+msgstr ""
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_TITLE"
+msgid "%s for Windows desktop"
+msgstr ""
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_YES"
+msgid "Yes"
+msgstr ""
+
+msgctxt "sCONFIRM_DEFAULT_CHECK_NO"
+msgid "No"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_OPEN"
+msgid "Open"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_VIEW"
+msgid "View"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_PLAY"
+msgid "Play"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_JOIN"
+msgid "Join"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_DOWNLOAD"
+msgid "Download"
+msgstr ""
+
+msgctxt "sMEDIA_FALLBACK_ACTION_START"
+msgid "Start"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_SINGLE"
+msgid "Shared a Flik"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FLIK_MULTI"
+msgid "%s shared a Flik"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_SINGLE"
+msgid "Shared a media message"
+msgstr ""
+
+msgctxt "sMESGPREVIEW_POSTED_FALLBACK_MULTI"
+msgid "%s shared a media message"
+msgstr ""
+
+msgctxt "sACC_NAME_MEDIA_MESSAGE"
+msgid "From %0:s, new media, sent on %1:s"
+msgstr ""
+
+msgctxt "sACC_NAME_TILE_OPEN_URL"
+msgid "Open URL"
+msgstr ""
+
+msgctxt "sACC_NAME_FLIK_OPEN"
+msgid "Open Skype Flik"
+msgstr ""
+
+msgctxt "sACC_NAME_FLIK_MESSAGE"
+msgid "From %0:s, Skype Flik, sent on %1:s"
+msgstr ""
+
+msgctxt "sFLIK_PLAY"
+msgid "Play Skype Flik"
+msgstr ""
+
+msgctxt "sFLIK_OPEN_LINK"
+msgid "Open Skype Flik Link"
+msgstr ""
+
+msgctxt "sAPP_TOOLBAR_HOME"
+msgid "Home"
+msgstr ""
+
+msgctxt "sAPP_TOOLBAR_CALL"
+msgid "Call"
+msgstr ""
+
+msgctxt "sAPP_TOOLBAR_NEW"
+msgid "New"
+msgstr ""
+
+msgctxt "sAPP_TOOLBAR_NEW_TOOLTIP"
+msgid "New conversation"
+msgstr ""
+
+msgctxt "sMAINMENU_LOGGING"
+msgid "Turn on logging"
+msgstr ""
+
+msgctxt "sCOM_RESTART_HEADER"
+msgid "Restart required"
+msgstr ""
+
+msgctxt "sCOM_RESTART_MESSAGE"
+msgid "Restart Skype for your changes to take effect."
+msgstr ""
+
+msgctxt "sMAIN_MENU_SELF_HOST_FEEDBACK"
+msgid "Self-host feedback"
+msgstr ""
+
+msgctxt "sCONTACT_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr ""
+
+msgctxt "sACC_NAME_SELECTED_GROUP_SUGGESTED_CONTACTS"
+msgid "Suggested contacts"
+msgstr ""
+
+msgctxt "sOPTIONS_WIKI_MARKUP"
+msgid "Show advanced text formatting"
+msgstr ""
+
+msgctxt "sEMPTY_GROUP_HUDDLE"
+msgid "%s's Space"
+msgstr ""
+
+msgctxt "sAC_SEND_REQ_SC"
+msgid "%s is an address book contact."
+msgstr ""
+
+msgctxt "sZAPBUTTON_SEND_REQ_SC"
+msgid "Connect on Skype"
+msgstr ""
+
+msgctxt "sSTATUS_UNKNOWN2_SC"
+msgid "Not connected on Skype yet"
 msgstr ""

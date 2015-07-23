@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Skype Translation Project\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2015-05-16 18:31:59+0100\n"
-"PO-Revision-Date: 2015-05-16 20:51+0000\n"
+"PO-Revision-Date: 2015-07-15 08:32+0000\n"
 "Last-Translator: dvarfy <dvarfy@gmail.com>\n"
 "Language-Team: Belarusian (http://www.transifex.com/projects/p/skype-translation-project/language/be/)\n"
 "MIME-Version: 1.0\n"
@@ -267,7 +267,7 @@ msgstr "Дадаткова"
 
 msgctxt "sF_OPTIONS_LB_1"
 msgid "When I double-click on a contact start a call"
-msgstr "Пачаць тэлефонную размову падвойнай пстрычкай мышкі па кантакце"
+msgstr "Званіць па двайным пстрыку па кантакце"
 
 msgctxt "sF_OPTIONS_CB_1"
 msgid "Start Skype when I start Windows"
@@ -275,7 +275,7 @@ msgstr "Запускаць Skype разам з Windows"
 
 msgctxt "sF_OPTIONS_BUTTON_2"
 msgid "Add contact details to your profile"
-msgstr "Дадаць кантактныя дадзеныя ў свой прафайл"
+msgstr "Дадаць кантактныя дадзеныя ў свой профіль"
 
 msgctxt "sF_OPTIONS_CB_10"
 msgid "Answer incoming calls automatically"
@@ -349,11 +349,11 @@ msgstr "Званок у рэжыме чакання"
 
 msgctxt "sAVATAR_MENUITEM_HOLD"
 msgid "Put Call on Hold"
-msgstr "Паставіць размову ў рэжым чакання"
+msgstr "Паставіць званок у рэжым чакання"
 
 msgctxt "sAVATAR_MENUITEM_RESUME"
 msgid "Resume Call"
-msgstr "Аднавіць размову"
+msgstr "Працягнуць званок"
 
 msgctxt "sCALL_CONFIRM_HOLD_ON_ANSWER"
 msgid "Answer incoming call from %s and put %s on hold?"
@@ -373,7 +373,7 @@ msgstr "Закрыць"
 
 msgctxt "sF_OPTIONS_TCB1"
 msgid "resuming call"
-msgstr "аднаўляем размову"
+msgstr "працягваем званок"
 
 msgctxt "sF_OPTIONS_TCB2"
 msgid "Show timestamp next to instant messages"
@@ -5738,7 +5738,7 @@ msgstr "Яшчэ не дастаўлена."
 
 msgctxt "sFLOW_CALL_MISSED_IN"
 msgid "Missed call from %s."
-msgstr "Прапушчаныя званкі ад %s"
+msgstr "Прапушчаны званок ад %s"
 
 msgctxt "sFLOW_CALL_WITH_IN"
 msgid "Call from %s, duration %s."
@@ -6409,7 +6409,7 @@ msgstr "Змяніць нумар"
 
 msgctxt "sCONTACT_PROFILE_ADD_PHONE"
 msgid "Add a number to this profile"
-msgstr "Дадаць нумар да гэтага прафайла"
+msgstr "Дадаць нумар да гэтага профілю"
 
 msgctxt "sNOTIFY_API_AUTHORIZATION"
 msgid "%s wants to use Skype"
@@ -6734,7 +6734,7 @@ msgstr "п"
 
 msgctxt "sOPTIONS_CHAT_OPEN_COMPACT_MODE"
 msgid "Open a new window when I receive a new message in Split Window View"
-msgstr ""
+msgstr "Адкрываць новае акно, калі прыходзіць новае паведамленне"
 
 msgctxt "sF_CALL_QLT_LBL_AUDIO_PROBLEMS"
 msgid "Audio problems"
@@ -7115,11 +7115,11 @@ msgstr "Экспарт спіса кантактаў..."
 
 msgctxt "sACC_SHOW_CONVERSATION_PROFILE"
 msgid "Display conversation profile"
-msgstr "Паказаць прафайл размовы"
+msgstr "Паказаць профіль размовы"
 
 msgctxt "sACC_HIDE_CONVERSATION_PROFILE"
 msgid "Hide conversation profile"
-msgstr "Схаваць прафайл размовы"
+msgstr "Схаваць профіль размовы"
 
 msgctxt "sINVITE_HEADING1"
 msgid "Add <b>%s</b> to your contacts"
@@ -8861,7 +8861,7 @@ msgstr "Дадаць у спіс кантактаў..."
 
 msgctxt "sACCOUNT_PANEL_ONE_SUBSCRIPTION"
 msgid "1 subscription"
-msgstr "Падпіска на адзін план"
+msgstr "1 падпіска"
 
 msgctxt "sMYSELFPROFILE_SKYPEIN_LINK"
 msgid "Get a Skype Number"
@@ -8873,7 +8873,7 @@ msgstr "Дадаць грошы на рахунак"
 
 msgctxt "sMYSELF_PROFILE_SUBSCRIPTION_LINK"
 msgid "Get a subscription"
-msgstr "Падпісацца на план"
+msgstr "Атрымаць падпіску"
 
 msgctxt "sMYSELF_PROFILE_HAS_VOICEMAIL_LINK"
 msgid "Voice messaging is available"
@@ -9182,7 +9182,7 @@ msgctxt "sF_CALL_FAILURE_TEXT1"
 msgid ""
 "You need Skype Credit or a subscription to call landlines and mobiles from "
 "Skype. Call anywhere in the world at the same low rates, day or night."
-msgstr "Для званкоў на стацыянарныя і мабільныя тэлефоны праз Skype вам патрэбна мець грошы на рахунку Skype ці падпіску на план. Тэлефануйце ў любую краіну свету па нязменна нізкіх тарыфах."
+msgstr "Для званкоў на стацыянарныя і мабільныя тэлефоны праз Skype вам патрэбна мець грошы на рахунку Skype ці падпіску. Тэлефануйце ў любую краіну свету па нязменна нізкіх тарыфах."
 
 msgctxt "sF_CALL_FAILURE_TEXT2"
 msgid "Show rates to"
@@ -9248,13 +9248,13 @@ msgctxt "sCALLPHONES_TBYB_INFO"
 msgid ""
 "Your first call is free, and up to 10 minutes. To call phones anytime, get "
 "some Skype Credit or a subscription. Skype-to-Skype calls are always free."
-msgstr "Ваш першы званок працягласцю да 10 хв. – бясплатны. Каб у любы час мець магчымасць патэлефанаваць на звычайныя тэлефоны, вам патрэбна мець грошы на рахунку Skype ці падпіску на план. Званкі паміж абанентамі Skype заўсёды былі і будуць бясплатнымі."
+msgstr "Ваш першы званок працягласцю да 10 хв. – бясплатны. Каб у любы час мець магчымасць патэлефанаваць на звычайныя тэлефоны, вам патрэбна мець грошы на рахунку Skype ці падпіску. Званкі паміж абанентамі Skype заўсёды былі і будуць бясплатнымі."
 
 msgctxt "sCALLPHONES_CONN_FEE_WARNING"
 msgid ""
 "A small <a href=\"skype:?go#connectionfee\">connection fee</a> applies to "
 "Pay As You Go calls only."
-msgstr "Невялікая <a href=\"skype:?go#connectionfee\">плата за злучэнне</a> спаганяецца толькі за званкі без падпіскі на план."
+msgstr "Невялікая <a href=\"skype:?go#connectionfee\">плата за злучэнне</a> спаганяецца толькі за званкі без падпіскі."
 
 msgctxt "sCALLPHONES_RATES_INC_VAT"
 msgid "(%s/min incl. VAT)"
@@ -9928,7 +9928,7 @@ msgstr "Вы жадаеце даслаць гэтыя дэталі кантак�
 
 msgctxt "sSEND_CONTACTS_BUTTON_CAPTION"
 msgid "&Send"
-msgstr ""
+msgstr "&Даслаць"
 
 msgctxt "sCALL_FAILED_TOO_MANY_IDENTITIES"
 msgid ""
@@ -10423,7 +10423,7 @@ msgstr "Увядзіце сюды паведамленне"
 
 msgctxt "sCHAT_SEND_SMS"
 msgid "Type an SMS here"
-msgstr ""
+msgstr "Напішыце SMS тут"
 
 msgctxt "sSEND_SMS_REPLYTO_HINT"
 msgid "Change where you receive SMS replies."
@@ -10585,7 +10585,7 @@ msgstr "SMS"
 
 msgctxt "sCHAT_MESSAGING_UNAVAILABLE"
 msgid "Messaging unavailable."
-msgstr "Падтрымка чата адсутнічае."
+msgstr "Паведамленні недаступны."
 
 msgctxt "sCHANNEL_SWITCHER_FACEBOOK"
 msgid "Facebook"
@@ -10597,7 +10597,7 @@ msgstr "Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_LYNC"
 msgid "Skype for Business"
-msgstr ""
+msgstr "Skype для Бізнеса"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_SKYPE"
 msgid "via <a href=\"x\">Skype</a>"
@@ -10617,7 +10617,7 @@ msgstr "праз <a href=\"x\">Messenger</a>"
 
 msgctxt "sCHANNEL_SWITCHER_VIA_LYNC"
 msgid "via <a href=\"x\">Skype for Business</a>"
-msgstr ""
+msgstr "праз <a href=\"x\">Skype для Бізнеса</a>"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_SKYPE"
 msgid "Switch to Skype"
@@ -10637,7 +10637,7 @@ msgstr "Пераключыцца на Messenger"
 
 msgctxt "sCHANNEL_SWITCHER_HINT_LYNC"
 msgid "Switch to Skype for Business"
-msgstr ""
+msgstr "Пераключыцца на  Skype для Бізнеса"
 
 msgctxt "sCHANNEL_SWITCHER_COST_HINT"
 msgid "Cost of SMS"
@@ -10723,7 +10723,7 @@ msgstr "• Тэлефануйце на стацыянарныя і мабіль
 
 msgctxt "sMYINFO_SUBSCRIPTIONS"
 msgid "Subscriptions"
-msgstr "Падпіскі на планы"
+msgstr "Падпіскі"
 
 msgctxt "sMYINFO_ONE_SUBSCRIPTION"
 msgid "1 subscription<br/><a href=\"%s\">Manage subscriptions</a>"
@@ -10737,7 +10737,7 @@ msgctxt "sMYINFO_GET_SUBSCRIPTION"
 msgid ""
 "Call a lot? Save a lot...<br/>• Lowest calling rates<br/>• No long-term "
 "commitments<br/><a href=\"%s\">Get a subscription</a>"
-msgstr "Шмат тэлефануеце? Ёсць магчымасць ашчадзіць!<br/>• Самыя нізкія тарыфы на званкі<br/>• Адсутнасць доўгатэрміновых абавязкаў<br/><a href=\"%s\">Падпісацца на план</a>"
+msgstr "Шмат тэлефануеце? Ёсць магчымасць ашчадзіць!<br/>• Самыя нізкія тарыфы на званкі<br/>• Адсутнасць доўгатэрміновых абавязкаў<br/><a href=\"%s\">Атрымаць падпіску</a>"
 
 msgctxt "sMYINFO_MY_ACCOUNT"
 msgid "Manage my account"
@@ -10781,7 +10781,7 @@ msgstr "Тып паведамлення"
 
 msgctxt "sACC_FLAG_DROP_DOWN_SELECT_COUNTRY_HINT"
 msgid "select country or region"
-msgstr ""
+msgstr "Абярыце краіну ці рэгіён"
 
 msgctxt "sACC_CONTACT_PHONE_EDIT_SELECT_TYPE_HINT"
 msgid "select type of number"
@@ -10793,11 +10793,11 @@ msgstr "увядзіце нумар"
 
 msgctxt "sSHOW_FULL_PROFILE"
 msgid "Show full profile"
-msgstr "Паказаць падрабязны прафайл"
+msgstr "Паказаць падрабязны профіль"
 
 msgctxt "sHIDE_FULL_PROFILE"
 msgid "Hide full profile"
-msgstr "Схаваць падрабязны прафайл"
+msgstr "Схаваць падрабязны профіль"
 
 msgctxt "sPROFILE_ACCOUNTS"
 msgid "Accounts"
@@ -10805,7 +10805,7 @@ msgstr "Уліковыя запісы"
 
 msgctxt "sPROFILE_MANAGE"
 msgid "Manage"
-msgstr "Кіраванне"
+msgstr "Наладзіць"
 
 msgctxt "sTOPUP_ADD_SKYPE_CREDIT"
 msgid "Add Skype Credit"
@@ -10887,16 +10887,16 @@ msgstr "Закрыць"
 
 msgctxt "sLYNC_CAPTION"
 msgid "Skype for Business"
-msgstr ""
+msgstr "Skype для Бізнеса"
 
 msgctxt "sCONTACT_GROUP_LYNC"
 msgid "Skype for Business"
-msgstr ""
+msgstr "Skype для Бізнеса"
 
 msgctxt "sCHAT_LYNC_CONTACT_OFFLINE"
 msgid ""
 "%s is offline on Skype for Business. <a href=\"skype:%s?sms\">Send SMS.</a>"
-msgstr ""
+msgstr "%s па-за сеткай Skype для Бізнеса. <a href=\"skype:%s?sms\">Даслаць SMS.</a>"
 
 msgctxt "sCHAT_NOT_AVAILABLE_MYSELF_OFFLINE"
 msgid "You are currently offline and unable to chat"
@@ -11032,7 +11032,7 @@ msgstr "Даслаць відэапаведамленне"
 
 msgctxt "sCALL_LYNC"
 msgid "Skype for Business"
-msgstr ""
+msgstr "Skype для Бізнеса"
 
 msgctxt "sADD_PHONES_FORM_ADD_NUMBER_HINT"
 msgid "Add number"
@@ -11290,7 +11290,7 @@ msgstr "Усе кантакты Messenger"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_LYNC_CONTACTS"
 msgid "All Skype for Business contacts"
-msgstr ""
+msgstr "Усе кантакты Skype для Бізнеса"
 
 msgctxt "sACC_CALL_POPUP_NAME"
 msgid "Call options"
@@ -11390,7 +11390,7 @@ msgstr "Папоўніць рахунак Skype"
 
 msgctxt "sCALLPHONES_GET_SUBSCR_LNK"
 msgid "Get another subscription"
-msgstr "Падпісацца на яшчэ адзін план"
+msgstr "Атрымаць яшчэ адну падпіску"
 
 msgctxt "sCALLPHONES_VIEW_SUBSCR_LNK"
 msgid "View your subscription(s)"
@@ -11402,7 +11402,7 @@ msgstr "Аднавіць"
 
 msgctxt "sCALLPHONES_GET_1ST_SUBSCR_LNK"
 msgid "Get a subscription"
-msgstr "Падпісацца на план"
+msgstr "Атрымаць падпіску"
 
 msgctxt "sCALLPHONES_PRO_CREDIT_INFO"
 msgid "Request more credit"
@@ -11410,7 +11410,7 @@ msgstr "Запытаць грошы на рахунак Skype"
 
 msgctxt "sCALLPHONES_PRO_SUBSCR_REQUEST"
 msgid "Request a subscription"
-msgstr "Запытаць падпіску на план"
+msgstr "Запытаць падпіску"
 
 msgctxt "sSMS_NO_CREDIT"
 msgid ""
@@ -11582,7 +11582,7 @@ msgstr "Чат праз Messenger, змяніць тып паведамленн�
 
 msgctxt "sACC_NAME_CHAT_CHANNEL_SWITCHER_LYNC"
 msgid "Chat via Skype for Business, switch message type"
-msgstr ""
+msgstr "Чат праз Skype для Бізнеса, змяніць тып паведамленняў"
 
 msgctxt "sF_VOICEMAIL_OPTIONS_INFO_CALL_FORWARDING"
 msgid ""
@@ -11712,27 +11712,27 @@ msgstr "Кантакт Messenger Не турбаваць"
 
 msgctxt "sACC_NAME_STATUS_PENDING_LYNC"
 msgid "This person has not shared their details with you. Skype for Business"
-msgstr ""
+msgstr "Гэты карыстальнік пакуль не даў вам свае дадзеныя. Skype для Бізнеса"
 
 msgctxt "sACC_NAME_STATUS_BLOCKED_LYNC"
 msgid "Skype for Business contact Blocked"
-msgstr ""
+msgstr "Кантакт Skype для Бізнеса заблакаваны"
 
 msgctxt "sACC_NAME_STATUS_OFFLINE_LYNC"
 msgid "Skype for Business contact Offline"
-msgstr ""
+msgstr "Кантакт Skype для Бізнеса па-за сеткай"
 
 msgctxt "sACC_NAME_STATUS_ONLINE_LYNC"
 msgid "Skype for Business contact Online"
-msgstr ""
+msgstr "Кантакт Skype для Бізнеса ў сетцы"
 
 msgctxt "sACC_NAME_STATUS_AWAY_LYNC"
 msgid "Skype for Business contact Away"
-msgstr ""
+msgstr "Кантакт Skype для Бізнеса не на месцы"
 
 msgctxt "sACC_NAME_STATUS_DND_LYNC"
 msgid "Skype for Business contact on Do Not Disturb"
-msgstr ""
+msgstr "Кантакт Skype для Бізнеса у статусе Не турбаваць"
 
 msgctxt "sF_OPTIONS_ASSOCIATE_WITH_TEL"
 msgid "Use Skype to call tel: links on the web"
@@ -11744,7 +11744,7 @@ msgstr "Пазваніць праз Facebook"
 
 msgctxt "sCALL_POPUP_CALL_LYNC"
 msgid "Call Skype for Business"
-msgstr ""
+msgstr "Званіць праз Skype для Бізнеса"
 
 msgctxt "sCALL_POPUP_CALL_SKYPE"
 msgid "Call Skype"
@@ -12157,7 +12157,7 @@ msgstr "Messenger > %s"
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
 msgid "Skype for Business > %s"
-msgstr ""
+msgstr "Skype для Бізнеса > %s"
 
 msgctxt "sCHAT_PROFILE_ONE_PERSON"
 msgid "%d person"
@@ -12317,7 +12317,7 @@ msgstr "%d удзельнікаў"
 
 msgctxt "sF_OPTIONS_CB_SHOW_INLINE_IMAGES"
 msgid "Show images and other media previews"
-msgstr ""
+msgstr "Паказваць выявы і мініацюры іншых медыяфайлаў "
 
 msgctxt "sFILETRANSFER_STATUS_TEXT_SUCCESSFUL_ASYNC"
 msgid "Sent"
@@ -12781,7 +12781,7 @@ msgstr "Паказваць часткі паведамленняў у бакав
 
 msgctxt "sMAINMENU_VIEW_SIMPLE_LIST"
 msgid "Compact Sidebar View"
-msgstr ""
+msgstr "Кампактны выгляд бакавой панелі"
 
 msgctxt "sMAIN_MENU_INTERNAL_FEEDBACK"
 msgid "Give Feedback"
@@ -13021,75 +13021,75 @@ msgstr "Ваша краіна/рэгіён:"
 
 msgctxt "sCALL_PHONES_CREDIT_TITLE"
 msgid "Your Skype Credit"
-msgstr ""
+msgstr "Ваш баланс Skype"
 
 msgctxt "sCALL_PHONES_RATES_MIN"
 msgid "Call %0:s from %1:s/min"
-msgstr ""
+msgstr "Званок %0:s ад %1:s/хвіл"
 
 msgctxt "sCALL_PHONES_RATES_MIN_PAYG"
 msgid "Pay As You Go rates to %0:s from %1:s/min"
-msgstr ""
+msgstr "Аплата па факту ў %0:s ад %1:s/хвіл"
 
 msgctxt "sCALL_PHONES_RATES_MONTH"
 msgid "Call from %s/month"
-msgstr ""
+msgstr "Званок ад %s/месяц"
 
 msgctxt "sCALL_PHONES_ADD_CREDIT"
 msgid "<a href=\"%s\">Add Skype Credit</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Пакласці грошы на рахунак Skype</a>"
 
 msgctxt "sCALL_PHONES_REQUEST_CREDIT"
 msgid "<a href=\"%s\">Request more credit</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Запытаць грошай на рахунак</a>"
 
 msgctxt "sCALL_PHONES_REQUEST_SUBSCRIPTION"
 msgid "<a href=\"%s\">Request a subscription</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Запытаць падпіску</a>"
 
 msgctxt "sCALL_PHONES_REQUEST_ANOTHER_SUBSCRIPTION"
 msgid "<a href=\"%s\">Request another subscription</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Запытаць яшчэ адну падпіску</a>"
 
 msgctxt "sCALL_PHONES_GET_SUBSCRIPTION"
 msgid "<a href=\"%s\">Get a subscription</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Атрымаць падпіску</a>"
 
 msgctxt "sCALL_PHONES_GET_ANOTHER_SUBSCRIPTION"
 msgid "<a href=\"%s\">Get another subscription</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Атрымаць яшчэ адну падпіску</a>"
 
 msgctxt "sCALL_PHONES_SUBSCRIPTIONS_TITLE"
 msgid "Subscriptions"
-msgstr ""
+msgstr "Падпіскі"
 
 msgctxt "sCALL_PHONES_NO_SUBSCRIPTIONS"
 msgid "You have no subscriptions"
-msgstr ""
+msgstr "У вас няма падпісак"
 
 msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION"
 msgid "You have 1 subscription"
-msgstr ""
+msgstr "У вас 1 падпіска"
 
 msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS"
 msgid "You have %d subscriptions"
-msgstr ""
+msgstr "Падпісак: %d "
 
 msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRED"
 msgid "Subscription expired - <a href=\"%s\">Renew</a>"
-msgstr ""
+msgstr "Падпіска скончылася - <a href=\"%s\">Аднавіць</a>"
 
 msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRED"
 msgid "Subscriptions expired - <a href=\"%s\">Renew</a>"
-msgstr ""
+msgstr "Падпіскі скончыліся - <a href=\"%s\">Аднавіць</a>"
 
 msgctxt "sCALL_PHONES_ONE_SUBSCRIPTION_EXPIRING"
 msgid "Subscription expiring soon - <a href=\"%s\">Renew</a>"
-msgstr ""
+msgstr "Падпіска хутка скончыцца - <a href=\"%s\">Аднавіць</a>"
 
 msgctxt "sCALL_PHONES_MANY_SUBSCRIPTIONS_EXPIRING"
 msgid "Subscriptions expiring soon - <a href=\"%s\">Renew</a>"
-msgstr ""
+msgstr "Падпіскі хутка скончацца - <a href=\"%s\">Аднавіць</a>"
 
 msgctxt "sSEND_MEDIA_MENU_HINT"
 msgid "Send contacts and media"
@@ -13101,200 +13101,200 @@ msgstr "Рэклама"
 
 msgctxt "sSHARE_MENU_SEND_PIC_OR_FILE"
 msgid "Send photos and files..."
-msgstr ""
+msgstr "Даслаць выявы ці файлы..."
 
 msgctxt "sFILETRANSFER_SHOWALL"
 msgid "Show all"
-msgstr ""
+msgstr "Паказаць усе"
 
 msgctxt "sFILETRANSFER_SHOWLESS"
 msgid "Show less"
-msgstr ""
+msgstr "Згануць"
 
 msgctxt "sCONVERSATIONINFO_TITLE"
 msgid "Group profile"
-msgstr ""
+msgstr "Профіль групы"
 
 msgctxt "sCONTACTINFO_TITLE"
 msgid "Contact profile"
-msgstr ""
+msgstr "Профіль кантакта"
 
 msgctxt "sUNREAD_MESSAGE_FILTER_ON"
 msgid "Show all conversations"
-msgstr ""
+msgstr "Паказаць усе размовы"
 
 msgctxt "sUNREAD_MESSAGE_FILTER_OFF"
 msgid "Show unread conversations"
-msgstr ""
+msgstr "Паказаць непрачытаныя размовы"
 
 msgctxt "sUNREAD_MESSAGE_FILTER_ON_EMPTY"
 msgid "No unread messages"
-msgstr ""
+msgstr "Нямя непрачытаных паведамленняў"
 
 msgctxt "sUNREAD_MESSAGE_FILTER_OFF_EMPTY"
 msgid "No messages"
-msgstr ""
+msgstr "Няма паведамленняў"
 
 msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_ON"
 msgid "Unread"
-msgstr ""
+msgstr "Непрачытанае"
 
 msgctxt "sUNREAD_MESSAGE_FILTER_CAPTION_OFF"
 msgid "All"
-msgstr ""
+msgstr "Усе"
 
 msgctxt "sCHAT_MEDIADOC_LEGACY"
 msgid "To view this shared photo, go to: %1"
-msgstr ""
+msgstr "Каб праглядзець гэтае фота, перайдзіце: %1"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_FILE"
 msgid "Cancel file"
-msgstr ""
+msgstr "Скасаваць файл"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_OPEN"
 msgid "Open"
-msgstr ""
+msgstr "Адкрыць"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_FILE"
 msgid "Open File"
-msgstr ""
+msgstr "Адкрыць файл"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_FILE"
 msgid "Download file"
-msgstr ""
+msgstr "Спампаваць файл"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_COLLAPSE"
 msgid "Collapse"
-msgstr ""
+msgstr "Згарнуць"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_EXPAND"
 msgid "Expand"
-msgstr ""
+msgstr "Разгарнуць"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_CANCEL_IMAGE"
 msgid "Cancel image"
-msgstr ""
+msgstr "Скасаваць выяву"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_OPEN_IMAGE"
 msgid "Open image"
-msgstr ""
+msgstr "Адкрыць выяву"
 
 msgctxt "sACC_NAME_TRANSFER_TILE_SAVE_IMAGE"
 msgid "Download image"
-msgstr ""
+msgstr "Спампаваць выяву"
 
 msgctxt "sACC_NAME_CONTACT_TILE_ADD"
 msgid "Add contact"
-msgstr ""
+msgstr "Дадаць кантакт"
 
 msgctxt "sACC_NAME_CONTACT_TILE_CHAT"
 msgid "Open chat"
-msgstr ""
+msgstr "Адкрыць чат"
 
 msgctxt "sACC_NAME_CONTACT_TILE_PROFILE"
 msgid "View profile"
-msgstr ""
+msgstr "Праглядзець профіль"
 
 msgctxt "sACC_NAME_VIDEO_MESSAGE_OPEN"
 msgid "Open video message"
-msgstr ""
+msgstr "Адкрыць відэапаведамленне"
 
 msgctxt "sHINT_CIRCULAR_PROGRESS_BAR"
 msgid "Progress bar"
-msgstr ""
+msgstr "Індыкатар працэсу"
 
 msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "Захаваць"
 
 msgctxt "sHINT_CIRCULAR_PROGRESS_BAR_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасаваць"
 
 msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_SAVE"
 msgid "Save"
-msgstr ""
+msgstr "Захаваць"
 
 msgctxt "sACC_NAME_CIRCULAR_PROGRESS_BAR_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасаваць"
 
 msgctxt "sACC_NAME_FILE_TRANSFER"
 msgid "From %0:s, file transfer, sent on %1:s"
-msgstr ""
+msgstr "Ад %0:s, перадача файлаў, даслана %1:s"
 
 msgctxt "sACC_NAME_CONTACT_TRANSFER"
 msgid "From %0:s, contacts, sent on %1:s"
-msgstr ""
+msgstr "Ад %0:s, кантактаў, даслана %1:s"
 
 msgctxt "sSHARE_MENU_SEND_PIC"
 msgid "Photos"
-msgstr ""
+msgstr "Фота"
 
 msgctxt "sF_OPTIONS_CB_SHOW_LARGE_EMOTS"
 msgid "Show large emoticons"
-msgstr ""
+msgstr "Паказваць вялікія смайлікі"
 
 msgctxt "sOPTIONS_COMPACT_CHAT"
 msgid "Compact Chat View"
-msgstr ""
+msgstr "Кампактны выгляд акна чата"
 
 msgctxt "sACC_NAME_MEDIA_MESSAGE_CANCEL"
 msgid "Cancel media"
-msgstr ""
+msgstr "Скасаваць медыя"
 
 msgctxt "sACC_NAME_MEDIA_MESSAGE_OPEN"
 msgid "Open media"
-msgstr ""
+msgstr "Адкрыць медыя"
 
 msgctxt "sPSTN_RES_13430"
 msgid ""
 "You will not be able to call landlines or mobiles in India from Skype when "
 "you are inside India. <a href=\"https://support.skype.com/en/faq/FA34487"
 "/why-can-i-no-longer-make-calls-to-india-from-india\">Learn more.</a>"
-msgstr ""
+msgstr "Вы не можаце званіць праз Skype на гарадскія ці мабільныя тэлефоны Індыі, калі вы знаходзецеся на тэрыторыі Індыі. <a href=\"https://support.skype.com/en/faq/FA34487/why-can-i-no-longer-make-calls-to-india-from-india\">Даведацца больш.</a>"
 
 msgctxt "sEMOTICON_ROSTER_NONE_SELECTED"
 msgid "Choose an emoticon"
-msgstr ""
+msgstr "Абярыце смайлік"
 
 msgctxt "sFILETRANSFER_AUTOACCEPT_TITLE"
 msgid "Receive files automatically"
-msgstr ""
+msgstr "Аўтаматычна атрымліваць фалы"
 
 msgctxt "sFILETRANSFER_AUTOACCEPT_CAPTION"
 msgid "Receive files automatically"
-msgstr ""
+msgstr "Аўтаматычна атрымліваць фалы"
 
 msgctxt "sFILETRANSFER_AUTOACCEPT_TEXT"
 msgid ""
 "You will now automatically receive files sent from contacts on Skype. You "
 "can change this option or choose a different destination folder in settings."
-msgstr ""
+msgstr "Цяпер вы будзеце аўтаматычна атрымліваць файлы ад вашых Skype-кантактаў. Вы можаце змяніць гэта ці абраць іншы каталог для атрыманых файлаў у наладах."
 
 msgctxt "sFILETRANSFER_AUTOACCEPT_YES"
 msgid "Allow"
-msgstr ""
+msgstr "Дазволіць"
 
 msgctxt "sFILETRANSFER_AUTOACCEPT_NO"
 msgid "No, thanks"
-msgstr ""
+msgstr "Не"
 
 msgctxt "sCHAT_PROFILE_OTHERS_CAN_JOIN"
 msgid "%s, anyone can join"
-msgstr ""
+msgstr "%s, усе могуць далучыцца"
 
 msgctxt "sCHAT_INVITE_OTHERS_MESSAGE"
 msgid "<a href=\"%s\">Invite others to join</a>"
-msgstr ""
+msgstr "<a href=\"%s\">запрасіць іншых</a>"
 
 msgctxt "sF_CHAT_INFO_CONVERSATION_JOIN_LABEL"
 msgid "Share this link with anyone to bring them into the Space:"
-msgstr ""
+msgstr "Падзяліцеся гэтай спасылкай з людзьмі каб яны далучыліся да размовы:"
 
 msgctxt "sHUDDLE_EMAIL_SUBJECT"
 msgid "Join me in my Skype Space"
-msgstr ""
+msgstr "Далучыцеся да маей Skype размовы"
 
 msgctxt "sHUDDLE_EMAIL_BODYTEXT"
 msgid ""
@@ -13302,158 +13302,158 @@ msgid ""
 " collaborate.'+#13#10+#13#10+'Join the Space by clicking the "
 "link:'+#13#10+'%s'+#13#10+#13#10+'*Don''t have Skype yet? Download it before"
 " you can join http://www.skype.com"
-msgstr ""
+msgstr "Вітаю,'+#13#10+#13#10+'Я стварыў размову ў Skype у якой мы можам перапісвацца, дзяліцца файламі і г.д.'+#13#10+#13#10+'Далучыся да размовы, пстрыкнуўшы на спасылку:'+#13#10+'%s'+#13#10+#13#10+'*Не ўсталяваны Skype? Спампуй, перад тым як далучыцца http://www.skype.com"
 
 msgctxt "sHUDDLE_POPUP_JOIN_CHECK"
 msgid "Allow others to join with a link"
-msgstr ""
+msgstr "Дазволіць іншым далучацца па спасылцы"
 
 msgctxt "sHUDDLE_POPUP_JOIN_LABEL"
 msgid "Others can join with a link"
-msgstr ""
+msgstr "Іншыя могуць далучацца па спасылцы"
 
 msgctxt "sHUDDLE_POPUP_JOIN_LINKS"
 msgid "<a href=\"copy\">Copy link</a>%s<a href=\"email\">Email</a>"
-msgstr ""
+msgstr "<a href=\"copy\">Спакіяваць спасылку</a>%s<a href=\"email\">Email</a>"
 
 msgctxt "sCONFIRM_DEFAULT_CHECK"
 msgid ""
 "Would you like to select which Skype related actions this program should "
 "handle by default?"
-msgstr ""
+msgstr "Ці хаціце абраць якія дзеянні, звязаныя са Skype па змаўчанні павінна апрацоўваць гэта праграмма?"
 
 msgctxt "sCONFIRM_DEFAULT_CHECK_TITLE"
 msgid "%s for Windows desktop"
-msgstr ""
+msgstr "%s для Windows"
 
 msgctxt "sCONFIRM_DEFAULT_CHECK_YES"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 msgctxt "sCONFIRM_DEFAULT_CHECK_NO"
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 msgctxt "sMEDIA_FALLBACK_ACTION_OPEN"
 msgid "Open"
-msgstr ""
+msgstr "Адкрыць"
 
 msgctxt "sMEDIA_FALLBACK_ACTION_VIEW"
 msgid "View"
-msgstr ""
+msgstr "Праглядзець"
 
 msgctxt "sMEDIA_FALLBACK_ACTION_PLAY"
 msgid "Play"
-msgstr ""
+msgstr "Граць"
 
 msgctxt "sMEDIA_FALLBACK_ACTION_JOIN"
 msgid "Join"
-msgstr ""
+msgstr "Далучыцца"
 
 msgctxt "sMEDIA_FALLBACK_ACTION_DOWNLOAD"
 msgid "Download"
-msgstr ""
+msgstr "Спампаваць"
 
 msgctxt "sMEDIA_FALLBACK_ACTION_START"
 msgid "Start"
-msgstr ""
+msgstr "Пачаць"
 
 msgctxt "sMESGPREVIEW_POSTED_FLIK_SINGLE"
 msgid "Shared a Flik"
-msgstr ""
+msgstr "Дасылае Flik"
 
 msgctxt "sMESGPREVIEW_POSTED_FLIK_MULTI"
 msgid "%s shared a Flik"
-msgstr ""
+msgstr "%s даслаў Flik"
 
 msgctxt "sMESGPREVIEW_POSTED_FALLBACK_SINGLE"
 msgid "Shared a media message"
-msgstr ""
+msgstr "Дасылае медыяпаведамленне"
 
 msgctxt "sMESGPREVIEW_POSTED_FALLBACK_MULTI"
 msgid "%s shared a media message"
-msgstr ""
+msgstr "%s дасылае медыяпаведамленне"
 
 msgctxt "sACC_NAME_MEDIA_MESSAGE"
 msgid "From %0:s, new media, sent on %1:s"
-msgstr ""
+msgstr "Ад %0:s, новы медыяфайл, даслана %1:s"
 
 msgctxt "sACC_NAME_TILE_OPEN_URL"
 msgid "Open URL"
-msgstr ""
+msgstr "Адкрыць спасылку"
 
 msgctxt "sACC_NAME_FLIK_OPEN"
 msgid "Open Skype Flik"
-msgstr ""
+msgstr "Адкрыць Skype Flik"
 
 msgctxt "sACC_NAME_FLIK_MESSAGE"
 msgid "From %0:s, Skype Flik, sent on %1:s"
-msgstr ""
+msgstr "Ад %0:s, Skype Flik, даслана %1:s"
 
 msgctxt "sFLIK_PLAY"
 msgid "Play Skype Flik"
-msgstr ""
+msgstr "Граць Skype Flik"
 
 msgctxt "sFLIK_OPEN_LINK"
 msgid "Open Skype Flik Link"
-msgstr ""
+msgstr "Адкрыць спасылку на Skype Flik"
 
 msgctxt "sAPP_TOOLBAR_HOME"
 msgid "Home"
-msgstr ""
+msgstr "Галоўная старонка"
 
 msgctxt "sAPP_TOOLBAR_CALL"
 msgid "Call"
-msgstr ""
+msgstr "Пазваніць"
 
 msgctxt "sAPP_TOOLBAR_NEW"
 msgid "New"
-msgstr ""
+msgstr "Дадаць"
 
 msgctxt "sAPP_TOOLBAR_NEW_TOOLTIP"
 msgid "New conversation"
-msgstr ""
+msgstr "Новая размова"
 
 msgctxt "sMAINMENU_LOGGING"
 msgid "Turn on logging"
-msgstr ""
+msgstr "Уключыць лагіяванне"
 
 msgctxt "sCOM_RESTART_HEADER"
 msgid "Restart required"
-msgstr ""
+msgstr "Патрэбен перазапуск праграмы"
 
 msgctxt "sCOM_RESTART_MESSAGE"
 msgid "Restart Skype for your changes to take effect."
-msgstr ""
+msgstr "Каб змены прымяніліся, перазапусціце Skype."
 
 msgctxt "sMAIN_MENU_SELF_HOST_FEEDBACK"
 msgid "Self-host feedback"
-msgstr ""
+msgstr "Водгук"
 
 msgctxt "sCONTACT_GROUP_SUGGESTED_CONTACTS"
 msgid "Suggested contacts"
-msgstr ""
+msgstr "Прапанаваныя кантакты"
 
 msgctxt "sACC_NAME_SELECTED_GROUP_SUGGESTED_CONTACTS"
 msgid "Suggested contacts"
-msgstr ""
+msgstr "Прапанаваныя кантакты"
 
 msgctxt "sOPTIONS_WIKI_MARKUP"
 msgid "Show advanced text formatting"
-msgstr ""
+msgstr "Паказваць пашыранае фарматаванне тэксту"
 
 msgctxt "sEMPTY_GROUP_HUDDLE"
 msgid "%s's Space"
-msgstr ""
+msgstr "Размова карыстальніка %s"
 
 msgctxt "sAC_SEND_REQ_SC"
 msgid "%s is an address book contact."
-msgstr ""
+msgstr "%s ужо ў кантактах."
 
 msgctxt "sZAPBUTTON_SEND_REQ_SC"
 msgid "Connect on Skype"
-msgstr ""
+msgstr "Далучыцца ў Skype"
 
 msgctxt "sSTATUS_UNKNOWN2_SC"
 msgid "Not connected on Skype yet"
-msgstr ""
+msgstr "Яшчэ не злучаны ў Skype"
