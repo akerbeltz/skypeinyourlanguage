@@ -94,52 +94,44 @@
     <message>
         <source>Patents Pending</source>
         <comment>sF_ABOUT_COPYRIGHT_1_2</comment>
-        <translation type="unfinished"/>
+        <translation>Пададзеныя на патэнты заяўкі</translation>
     </message>
     <message>
         <source>The Skype name, associated trademarks and logos and the &quot;S&quot; logo are trademarks of Skype or related entities.</source>
         <comment>sF_ABOUT_COPYRIGHT_1_3</comment>
-        <translation type="unfinished"/>
+        <translation>Назва Skype і адпаведныя таварныя знакі і эмблемы, а таксама лагатып &quot;S&quot; зарэгістраваныя таварныя знакі кампаніі Skype.</translation>
     </message>
     <message>
-        <source>Copyright 2003-2013 Skype and/or Microsoft</source>
+        <source>© 2014 Skype and/or Microsoft</source>
         <comment>sF_ABOUT_COPYRIGHT_1_1</comment>
-        <translation type="unfinished"/>
+        <translation>© 2014 Skype і/ці Microsoft</translation>
     </message>
 </context>
 <context>
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation>Дадаць удзельніка</translation>
-    </message>
-    <message>
-        <source>Add, send and share...</source>
-        <translation type="unfinished"/>
+        <translation>Дадаць удзельнікаў</translation>
     </message>
     <message>
         <source>End call</source>
         <translation>Скончыць званок</translation>
     </message>
     <message>
-        <source>Show chat</source>
-        <translation>Паказаць чат</translation>
-    </message>
-    <message>
         <source>Hide dial pad</source>
-        <translation type="unfinished"/>
+        <translation>Схаваць наборныя кнопкі</translation>
     </message>
     <message>
         <source>Show dial pad</source>
-        <translation type="unfinished"/>
+        <translation>Паказаць наборныя кнопкі</translation>
     </message>
     <message>
         <source>Unmute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>Разблакавацб мікрафон</translation>
     </message>
     <message>
         <source>Mute your microphone</source>
-        <translation type="unfinished"/>
+        <translation>Закрыць мікрафон</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
@@ -155,314 +147,858 @@
     </message>
     <message>
         <source>Turn on video</source>
-        <translation type="unfinished"/>
+        <translation>Уключыць відэа</translation>
     </message>
     <message>
         <source>Send File...</source>
-        <translation type="unfinished"/>
+        <translation>Даслаць файл...</translation>
     </message>
     <message>
         <source>Send Contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Даслаць кантакты...</translation>
     </message>
     <message>
         <source>Stop sharing</source>
-        <translation type="unfinished"/>
+        <translation>Спыніць трансляцыю</translation>
     </message>
     <message>
         <source>Share screens</source>
-        <translation type="unfinished"/>
+        <translation>Трансляваць свой экран</translation>
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click this button to resume the call.</source>
-        <translation type="unfinished"/>
+        <translation>Далучыць людзей да гэтага званка</translation>
     </message>
     <message>
         <source>Share Selection</source>
-        <translation type="unfinished"/>
+        <translation>Падзяліцца абраным</translation>
+    </message>
+    <message>
+        <source>Add participants, send files and more...</source>
+        <translation>Дадавайце ўдзельнікаў, дасылайце файлы і рабіце шмат іншага...</translation>
+    </message>
+    <message>
+        <source>Show IM</source>
+        <translation>Паказаць чат</translation>
+    </message>
+    <message>
+        <source>Resume call</source>
+        <translation>Аднавіць званок</translation>
     </message>
 </context>
 <context>
     <name>CallView</name>
     <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>Пазваніць праз %1</translation>
     </message>
     <message>
         <source>Call Technical Info</source>
         <comment>Window title</comment>
-        <translation type="unfinished"/>
+        <translation>Тэхнічныя звесткі Званку</translation>
     </message>
     <message>
         <source>Held remotely</source>
-        <translation type="unfinished"/>
+        <translation>Праходзіць удалённа</translation>
     </message>
     <message>
         <source>Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>Званок у рэжыме чакання</translation>
     </message>
 </context>
 <context>
     <name>Calls</name>
     <message>
-        <source>Answer Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reject Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ignore Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hold Call</source>
-        <translation type="unfinished"/>
+        <translation>Пазваніць праз %1</translation>
     </message>
     <message>
         <source>Resume Call</source>
-        <translation type="unfinished"/>
+        <translation>Аднавіць званок</translation>
     </message>
     <message>
         <source>Hangup</source>
-        <translation type="unfinished"/>
+        <translation>Скончыць</translation>
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation type="unfinished"/>
+        <translation>Запрасіць да канферэнц-званка</translation>
     </message>
     <message>
         <source>Call %1</source>
-        <translation type="unfinished"/>
+        <translation>Пазваніць %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Працягласць: %1</translation>
     </message>
     <message>
         <source>Ca&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>Зва&amp;нок</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Do not add</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Contacts in your list</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Contacts to call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type a number to call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Connecting...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Problem with Audio Capture</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Problem with Audio Playback</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call Failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ringing...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Скасаваць</translation>
     </message>
     <message>
         <source>Call Finished</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call Missed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call Refused</source>
-        <translation type="unfinished"/>
+        <translation>Званок Скончаны</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Занята</translation>
     </message>
     <message>
         <source>Call Dropped</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calling rates</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>and %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is calling you</source>
-        <translation type="unfinished"/>
+        <translation>Званок Скінуты</translation>
     </message>
     <message>
         <source>An unknown contact is calling you</source>
-        <translation type="unfinished"/>
+        <translation>Званіць невядомы кантакт</translation>
     </message>
     <message>
         <source>Page %1</source>
-        <translation type="unfinished"/>
+        <translation>Старонка %1</translation>
     </message>
     <message>
         <source>%1 per minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 за хвіліну</translation>
     </message>
     <message>
         <source>Insufficient Credit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid Number</source>
-        <translation type="unfinished"/>
+        <translation>Не хапае грошай</translation>
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Пазваніць на тэлефон ці даслаць SMS</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>Пазваніць</translation>
     </message>
     <message>
         <source>Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Даслаць SMS</translation>
     </message>
     <message>
         <source>Skype Call</source>
-        <translation type="unfinished"/>
+        <translation>Skype-званок</translation>
     </message>
     <message>
         <source>Transfer to...</source>
-        <translation type="unfinished"/>
+        <translation>Пераадрасаваць...</translation>
     </message>
     <message>
         <source>If you call %1 your current call will be put on hold.</source>
-        <translation type="unfinished"/>
+        <translation>Калі вы патэлефануеце %1, ваш цяперашні званок будзе пастаўлены на ўтрыманне.</translation>
     </message>
     <message>
         <source>You can only have one call at a time.</source>
-        <translation type="unfinished"/>
+        <translation>Немагчыма весці некалькі званкоў адначасова.</translation>
     </message>
     <message>
         <source>Estimated cost: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Voice Message Greeting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Voice Message Recording</source>
-        <translation type="unfinished"/>
+        <translation>Прыкладны кошт: %1</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation type="unfinished"/>
+        <translation>Не атрымалася злучыцца</translation>
     </message>
     <message>
         <source>Problem with legacy client</source>
-        <translation type="unfinished"/>
+        <translation>Праблемы са старой версіяй кліенту</translation>
     </message>
     <message>
         <source>Join call</source>
-        <translation type="unfinished"/>
+        <translation>Далучыцца</translation>
     </message>
     <message>
         <source>End call</source>
-        <translation type="unfinished"/>
+        <translation>Скончыць званок</translation>
     </message>
     <message>
         <source>Place a Call</source>
-        <translation type="unfinished"/>
+        <translation>Пазваніць</translation>
     </message>
     <message>
         <source>Join Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hang up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invite to Conference call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You are receiving a conference call from %1 %2</source>
-        <translation type="unfinished"/>
+        <translation>Далучыцца</translation>
     </message>
     <message>
         <source>Join Conference Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start Conference Call with Selected Contacts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invite Selected Contacts to Conference Call</source>
-        <translation type="unfinished"/>
+        <translation>Далучыцца да канферэнц-званка</translation>
     </message>
     <message>
         <source>If you call %1 this voice message will be cancelled.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start a conference call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Conference call topic (optional):</source>
-        <translation type="unfinished"/>
+        <translation>Калі вы патэлефануеце %1, гэта галасавое паведамленне будзе скасавана.</translation>
     </message>
     <message>
         <source>Covered by subscription</source>
-        <translation type="unfinished"/>
+        <translation>Пакрываецца падпіскай</translation>
     </message>
     <message>
-        <source>End call with this person</source>
-        <translation type="unfinished"/>
+        <source>Playing voice message greeting</source>
+        <translation>Прайграванне вітання галасавой пошты</translation>
+    </message>
+    <message>
+        <source>Recording my voice message greeting</source>
+        <translation>Запісваем вітанне маёй галасавой пошты</translation>
+    </message>
+    <message>
+        <source>Problem with recording device</source>
+        <translation>Праблема з прыладай запісвання гуку</translation>
+    </message>
+    <message>
+        <source>Problem with playback device</source>
+        <translation>Праблема з прыладай прайгравання гуку</translation>
+    </message>
+    <message>
+        <source>Invalid phone number</source>
+        <translation>Памылковы нумар тэлефона</translation>
+    </message>
+    <message>
+        <source>No answer</source>
+        <translation>Няма адказу</translation>
+    </message>
+    <message>
+        <source>Sorry, call failed</source>
+        <translation>Нажаль, патэлефанаваць не атрымалася</translation>
+    </message>
+    <message>
+        <source>Calling...</source>
+        <translation>Тэлефануем</translation>
+    </message>
+    <message>
+        <source>Enter number</source>
+        <translation>Увядзіце нумар</translation>
+    </message>
+    <message>
+        <source>See all rates</source>
+        <translation>Пабачыць усе цэны</translation>
+    </message>
+    <message>
+        <source>Answer</source>
+        <translation>Адказаць</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>Адхіліць</translation>
+    </message>
+    <message>
+        <source>Invite to group call</source>
+        <translation>Запрасіць да канферэнц-званка</translation>
+    </message>
+    <message>
+        <source>%1 calling</source>
+        <translation>%1 тэлефануе</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Ігнараваць</translation>
+    </message>
+    <message>
+        <source>Put Call on Hold</source>
+        <translation>Паставіць званок у рэжым чакання</translation>
+    </message>
+    <message>
+        <source>Answering this call will put your active call on hold.</source>
+        <comment>sCALLALERT_CALLEXISTS_NO_OR</comment>
+        <translation>Прыём гэтага званка перавядзе бягучы званок на ўтрыманне.</translation>
+    </message>
+    <message>
+        <source>End Call</source>
+        <translation>Скончыць званок</translation>
+    </message>
+    <message>
+        <source>Call the Group</source>
+        <translation>Пазваніць групе</translation>
+    </message>
+    <message>
+        <source>Start a group call</source>
+        <translation>Пачаць канферэнц-званок</translation>
+    </message>
+    <message>
+        <source>Group call topic (optional):</source>
+        <translation>Тэма групавога званка (дадаткова):</translation>
+    </message>
+    <message>
+        <source>&amp;Select</source>
+        <translation>&amp;Абраць</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>&amp;Выдаліць</translation>
+    </message>
+    <message>
+        <source>Choose contacts</source>
+        <translation>Выбар кантактаў</translation>
+    </message>
+    <message>
+        <source>People in this group</source>
+        <translation>Удзельнікі гэтай групы</translation>
+    </message>
+    <message>
+        <source>Voice message sent</source>
+        <translation>Галасавое паведамленне даслана</translation>
     </message>
 </context>
 <context>
-    <name>Chat</name>
+    <name>Chats</name>
+    <message>
+        <source>Chats</source>
+        <translation>Чаты</translation>
+    </message>
+    <message>
+        <source>ChatToolbar</source>
+        <translation>Панэль Чата</translation>
+    </message>
+    <message>
+        <source>Chat window control toolbar</source>
+        <translation>Панэль кіравання акна чата</translation>
+    </message>
+    <message>
+        <source>Unbookmark Chat</source>
+        <translation>Выдаліць чат з закладак</translation>
+    </message>
+    <message>
+        <source>Bookmark Chat</source>
+        <translation>Дадаць чат у закладкі</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Скасаваць</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>&amp;Дадаць</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>&amp;Выдаліць</translation>
+    </message>
+    <message>
+        <source>Choose contacts</source>
+        <translation>Выбар кантактаў</translation>
+    </message>
+    <message>
+        <source>Adding users failed</source>
+        <translation>Не атрымалася дадаць карыстальніка</translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t add some users to the chat.</source>
+        <translation>Не атрымалася дадаць некаторых карыстальнікаў да чата.</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation>Знайсці</translation>
+    </message>
+    <message>
+        <source>%1 / %2</source>
+        <comment>Progress / Total</comment>
+        <translation>%1 / %2</translation>
+    </message>
+    <message>
+        <source>Click here to hide members of this chat</source>
+        <translation>Націсніце сюды каб схаваць удзельнікаў чата</translation>
+    </message>
+    <message>
+        <source>Click here to show members of this chat</source>
+        <translation>Націсніце сюды каб убачыць удзельнікаў чата</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <comment>sF_INFORM_DEFAULT_CAPTION</comment>
+        <translation>Інфармацыя</translation>
+    </message>
+    <message>
+        <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
+        <translation>Не можам знайсці &quot;%1&quot; у гэтым чаце (магчыма, варта спачатку адлюстраваць усе папярэднія паведамленні)</translation>
+    </message>
+    <message>
+        <source>Chat with %1</source>
+        <translation>Чат з %1</translation>
+    </message>
+    <message>
+        <source>%1 new members were added to the chat</source>
+        <translation>Дададзена новых удзельнікаў чата: %1</translation>
+    </message>
+    <message>
+        <source>Open Link</source>
+        <translation>Адкрыць спасылку</translation>
+    </message>
+    <message>
+        <source>Copy Link Location</source>
+        <translation>Скапіяваць спасылку</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation>Задаць тэму</translation>
+    </message>
+    <message>
+        <source>Set Picture</source>
+        <translation>Выбраць выяву</translation>
+    </message>
+    <message>
+        <source>Remove Picture</source>
+        <translation>Выдаліць выяву</translation>
+    </message>
+    <message>
+        <source>The selected image file could not be set as a chat picture.
+Please use a different image file!</source>
+        <translation>Абраны файл не можа быць аватаркай чата
+Калі ласка, абярыце іншую выяву!</translation>
+    </message>
+    <message>
+        <source>Loading Image failure!</source>
+        <translation>Памылка пры запампоўцы выявы!</translation>
+    </message>
+    <message>
+        <source>File could not be loaded.
+ Please try a different a file and also make sure that file has read permission.</source>
+        <translation>Не атрымалася запампаваць файл.
+Калі ласка, паспрабуйце іншы файлы і ўдасканальцеся, што ў файла стаіць дазвол на чатанне.</translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation>Выявы</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>Усе файлы</translation>
+    </message>
+    <message>
+        <source>Please select a file.</source>
+        <translation>Калі ласка, выберыце файл.</translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation>Вылучыць усё</translation>
+    </message>
+    <message>
+        <source>Find Again</source>
+        <translation>Шукаць яшчэ раз</translation>
+    </message>
+    <message>
+        <source>Edit Message</source>
+        <translation>Рэдагаваць паведамленне</translation>
+    </message>
+    <message>
+        <source>Remove Message</source>
+        <translation>Выдаліць паведамленне</translation>
+    </message>
+    <message>
+        <source>Right click here to set/unset the chat picture.</source>
+        <translation>Пстрыкніце сюды каб абраць/убраць аватарку чата</translation>
+    </message>
+    <message>
+        <source>Quote message</source>
+        <translation>Цытаваць паведамленне</translation>
+    </message>
+    <message>
+        <source>%1 - Skype™ Chat</source>
+        <translation>%1 - Skype™ Чат</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to call?</source>
+        <translation>Вы ўпэўнены, што жадаеце пазваніць?</translation>
+    </message>
+    <message>
+        <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
+        <translation>Вы збіраецеся пазваніць %1 удзельнікам гэтага чата. Вы ўпэўнены, што хаціце працягнуць?</translation>
+    </message>
+    <message>
+        <source>Favorites</source>
+        <translation>Абраныя</translation>
+    </message>
+    <message>
+        <source>Recent</source>
+        <translation>Апошнія</translation>
+    </message>
+    <message>
+        <source>Call Phones</source>
+        <translation>Патэлефанаваць на нумар</translation>
+    </message>
+    <message>
+        <source>Remove from Favorites</source>
+        <translation>Выдаліць з абранага</translation>
+    </message>
+    <message>
+        <source>Add to Favorites</source>
+        <translation>Дадаць да абранага</translation>
+    </message>
+    <message>
+        <source>Pop-in chat</source>
+        <comment>This command will attach the separate chat window back to the combined/default view of chats. Opposite of Pop-out chat</comment>
+        <translation>Чат у адным акне</translation>
+    </message>
+    <message>
+        <source>Pop-out chat</source>
+        <comment>This will open the chosen chat in a separate window</comment>
+        <translation>Чаты ў розных вокнах</translation>
+    </message>
+    <message>
+        <source>Hide chat</source>
+        <translation>Схаваць чат</translation>
+    </message>
+    <message>
+        <source>Add people</source>
+        <translation>Дадайце ўдзельнікаў</translation>
+    </message>
+    <message>
+        <source>Chat options</source>
+        <translation>Налады чата</translation>
+    </message>
+    <message>
+        <source>SMS</source>
+        <translation>SMS</translation>
+    </message>
+    <message>
+        <source>Remove from Bookmarks</source>
+        <translation>Выдаліць с закладак</translation>
+    </message>
+    <message>
+        <source>Add to Bookmarks</source>
+        <translation>Дадаць у закладкі</translation>
+    </message>
+    <message>
+        <source>Call to %1, no answer.</source>
+        <translation>Абанент %1 не адказвае.</translation>
+    </message>
+    <message>
+        <source>Missed call from %1.</source>
+        <translation>Прапушчаны званок ад %1.</translation>
+    </message>
+    <message>
+        <source>Call to %1, busy.</source>
+        <translation>Званок да %1, заняты.</translation>
+    </message>
+    <message>
+        <source>Call from %1, busy.</source>
+        <translation>Званок ад %1, заняты.</translation>
+    </message>
+    <message>
+        <source>Call to %1, duration %2.</source>
+        <translation>Званок %1, працягласць %2.</translation>
+    </message>
+    <message>
+        <source>Call from %1, duration %2.</source>
+        <translation>Званок ад %1, працягласць %2.</translation>
+    </message>
+    <message>
+        <source>Place a Call</source>
+        <translation>Пазваніць</translation>
+    </message>
+    <message numerus="yes">
+        <source>Last activity %n year(s) ago</source>
+        <comment>This is a tooltip for the status icon in conversations window</comment>
+        <translation><numerusform>Апошняя актыўнасць: %n год таму</numerusform><numerusform>Апошняя актыўнасць: %n года таму</numerusform><numerusform>Апошняя актыўнасць: %n год таму</numerusform><numerusform>Апошняя актыўнасць: %n год таму</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>Last activity %n month(s) ago</source>
+        <comment>This is a tooltip for the status icon in conversations window</comment>
+        <translation><numerusform>Апошняя актыўнасць: %n месяц таму</numerusform><numerusform>Апошняя актыўнасць: %n месяца таму</numerusform><numerusform>Апошняя актыўнасць: %n месяцаў таму</numerusform><numerusform>Апошняя актыўнасць: %n месяц таму</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>Last activity %n week(s) ago</source>
+        <comment>This is a tooltip for the status icon in conversations window</comment>
+        <translation><numerusform>Апошняя актыўнасць: %n тыдзень таму</numerusform><numerusform>Апошняя актыўнасць: %n тыдня таму</numerusform><numerusform>Апошняя актыўнасць: %n тыдняў таму</numerusform><numerusform>Апошняя актыўнасць: %n тыдняў таму</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>Last activity %n day(s) ago</source>
+        <comment>This is a tooltip for the status icon in conversations window</comment>
+        <translation><numerusform>Апошняя актыўнасць: %n дзень таму</numerusform><numerusform>Апошняя актыўнасць: %n дня таму</numerusform><numerusform>Апошняя актыўнасць: %n дзён таму</numerusform><numerusform>Апошняя актыўнасць: %n дзён таму</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>Last activity %n hour(s) ago</source>
+        <comment>This is a tooltip for the status icon in conversations window</comment>
+        <translation><numerusform>Апошняя актыўнасць: %n гадзіну таму</numerusform><numerusform>Апошняя актыўнасць: %n гадзіны таму</numerusform><numerusform>Апошняя актыўнасць: %n гадзін таму</numerusform><numerusform>Апошняя актыўнасць: %n гадзін таму</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>Last activity %n minute(s) ago</source>
+        <comment>This is a tooltip for the status icon in conversations window</comment>
+        <translation><numerusform>Апошняя актыўнасць: %n хвіліна таму</numerusform><numerusform>Апошняя актыўнасць: %n хвіліны таму</numerusform><numerusform>Апошняя актыўнасць: %n хвілін таму</numerusform><numerusform>Апошняя актыўнасць: %n хвілін таму</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>Last activity %n second(s) ago</source>
+        <comment>This is a tooltip for the status icon in conversations window</comment>
+        <translation><numerusform>Апошняя актыўнасць: %n секунда таму</numerusform><numerusform>Апошняя актыўнасць: %n секунды таму</numerusform><numerusform>Апошняя актыўнасць: %n секунд таму</numerusform><numerusform>Апошняя актыўнасць: %n секунд таму</numerusform></translation>
+    </message>
+    <message>
+        <source>[%1]%2 - %3</source>
+        <comment>%1 is the number of unread conversations, %2 is the display name of the conversation, %3 is 'Skype™'</comment>
+        <translation>[%1]%2 - %3</translation>
+    </message>
+    <message>
+        <source>%1 - %2</source>
+        <comment>%1 is the display name of the conversation, %2 is 'Skype™'</comment>
+        <translation>%1 - %2</translation>
+    </message>
+    <message>
+        <source>[%1]%2</source>
+        <comment>%1 is the number of unread conversations, %2 is 'Skype™'</comment>
+        <translation>[%1]%2</translation>
+    </message>
+    <message>
+        <source>Add participants and send files</source>
+        <translation>Дадавайце ўдзельнікаў і дасылайце файлы</translation>
+    </message>
+    <message>
+        <source>Show messages from</source>
+        <translation>Паказаць паведамленні за</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>Учора</translation>
+    </message>
+    <message>
+        <source>7 days</source>
+        <translation>7 дзён</translation>
+    </message>
+    <message>
+        <source>14 days</source>
+        <translation>14 дзён</translation>
+    </message>
+    <message>
+        <source>30 days</source>
+        <translation>30 дзён</translation>
+    </message>
+    <message>
+        <source>6 months</source>
+        <translation>6 месяцаў</translation>
+    </message>
+    <message>
+        <source>1 year</source>
+        <translation>1 год</translation>
+    </message>
+    <message>
+        <source>From beginning</source>
+        <translation>З самага пачатку</translation>
+    </message>
+    <message>
+        <source>From older chat</source>
+        <translation>З былога чата</translation>
+    </message>
+    <message>
+        <source>Insert emoticon</source>
+        <translation>Уставіць смайлік</translation>
+    </message>
+    <message>
+        <source>Send a message</source>
+        <comment>sCHAT_SEND_MESSAGE</comment>
+        <translation>Даслаць паведамленне</translation>
+    </message>
+    <message>
+        <source>Find text in this chat</source>
+        <translation>Знайсці тэкст у гэтым чаце</translation>
+    </message>
+    <message>
+        <source>Send file...</source>
+        <translation>Даслаць файл...</translation>
+    </message>
+    <message>
+        <source>Add people...</source>
+        <translation>Дадаць людзей...</translation>
+    </message>
+    <message>
+        <source>Messaging unavailable.</source>
+        <comment>sCHAT_MESSAGING_UNAVAILABLE</comment>
+        <translation>Паведамленні недаступны.</translation>
+    </message>
+    <message>
+        <source>This chat has been updated to a new version. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Go to the new chat&lt;/a&gt;.</source>
+        <comment>sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_INPUT</comment>
+        <translation>Чат быў абноўлены да новай версіі. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Перайсці ў новы чат&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>Send SMS</source>
+        <comment>sCHAT_SEND_SMS</comment>
+        <translation>Даслаць SMS</translation>
+    </message>
+    <message>
+        <source>Leave chat</source>
+        <translation>Выйсці з чата</translation>
+    </message>
+    <message>
+        <source>Loading image error</source>
+        <translation>Памылка пры запампоўцы выявы</translation>
+    </message>
+    <message>
+        <source>Failed to convert the selected image to a proper format for Skype.
+Please select a different image file.</source>
+        <translation>Не атрымалася канвертаваць абраную выяву пад фармат Skype
+Калі ласка, абярыце іншы файл.</translation>
+    </message>
+    <message>
+        <source>Image size error</source>
+        <translation>Памылка пемера выявы</translation>
+    </message>
+    <message>
+        <source>The image file you have selected is too large.
+Please use a smaller size image.</source>
+        <translation>Абраны файл выявы занадта вялікі.
+Калі ласка, абярыце выяву паменьш.</translation>
+    </message>
+    <message>
+        <source>Skype internal error</source>
+        <translation>Унутраная памылка Skype</translation>
+    </message>
+    <message>
+        <source>Leave this group</source>
+        <translation>Пакінуць групу</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to leave this group?</source>
+        <translation>Вы ўпэўнены, што хаціце пакінуць гэту групу?</translation>
+    </message>
+    <message>
+        <source>%1 joined.</source>
+        <translation>%1 далучыўся.</translation>
+    </message>
+    <message>
+        <source>%1 added %2.</source>
+        <translation>%1 дадаў %2.</translation>
+    </message>
+    <message>
+        <source>%1 needs to update Skype to participate in this chat. Help by sending them to Skype.com/downloads. Learn more about new group chat.</source>
+        <comment>sCHAT_LEGACY_MEMBER_ADDED_SINGLE</comment>
+        <translation>Карыстальнікам %1 трэба абнавіць Skype каб удзельнічаць у чаце. Дапамажыце і накіруйце яго на Skype.com/downloads. Даведайцеся больш пра новый групавы чат.</translation>
+    </message>
+    <message>
+        <source>%1 need to update Skype to participate in this chat. Help by sending them to Skype.com/downloads. Learn more about new group chat.</source>
+        <comment>sCHAT_LEGACY_MEMBER_ADDED_PLURAL</comment>
+        <translation>Карыстальніку %1 трэба абнавіць Skype каб удзельнічаць у чаце. Дапамажыце і накіруйце яго на Skype.com/downloads. Даведайцеся больш пра новый групавы чат.</translation>
+    </message>
+    <message>
+        <source>%1 can now participate in this chat.</source>
+        <comment>sCHAT_LEGACY_MEMBER_UPGRADED</comment>
+        <translation>%1 цяпер можа ўдзельнічаць у гэтым чаце.</translation>
+    </message>
+    <message>
+        <source>%1 has left.</source>
+        <translation>%1 выйшаў</translation>
+    </message>
+    <message>
+        <source>%1 created a group chat with %2.</source>
+        <translation>%1 стварыў групавую размову з %2.</translation>
+    </message>
+    <message>
+        <source>%1 created a group chat.</source>
+        <translation>%1 стварыў групавую размову.</translation>
+    </message>
+    <message>
+        <source>%1 has changed the chat topic to &quot;%2&quot;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 has changed the chat picture.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 started a call.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;b&gt;It&apos;s %1&apos;s birthday today.&lt;/b&gt; Forgot the card? Make it up with a &lt;a href=&quot;%2&quot;&gt;Skype Gift Card&lt;/a&gt;.</source>
+        <comment>sCHAT_HAS_BIRTHDAY</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Group call, duration %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 blocked %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 removed %2 from this chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 sent file %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 sent files %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 sent you a voice message.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 sent a voice message.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot find more occurrences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 and %2 are typing...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 is typing...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edited by %1 at %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edited at %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Message removed by you.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Message removed by %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Message removed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not delivered yet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No recent messages.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Copy Selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter a topic for the chat</source>
+        <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send IM</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 joined</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 has left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 has changed the chat topic to %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This chat has been updated to a new version. You need to get the latest Skype to participate in it.</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>sent file</source>
         <translation type="unfinished"/>
@@ -472,563 +1008,28 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open Chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>%1 user(s)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>No recent messages.</source>
+        <source>Add to group call</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%1 and %2 are writing...</source>
+        <source>&amp;Select</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%1 is writing...</source>
+        <source>People in this group</source>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Chats</name>
     <message>
-        <source>Chats</source>
+        <source>Call group</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>ChatToolbar</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Chat window control toolbar</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start Chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Open Chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unbookmark Chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bookmark Chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start Chat with Selected Contacts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add to Chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Choose contacts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Chat participants</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Adding users failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Couldn&apos;t add some users to the chat.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Load previous history from the chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Leave Chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last 24 Hours</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last 7 Days</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last 14 Days</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last 30 Days</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Forever</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Emoticons</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 / %2</source>
-        <comment>Progress / Total</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>If you leave this chat, you will no longer receive any new messages from the chat.  Are you really sure you want to leave the chat?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to hide members of this chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to show members of this chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>invited %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>has changed the chat topic to &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>kicked %1 from the chat.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Information</source>
-        <comment>sF_INFORM_DEFAULT_CAPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot find &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot find more occurences of &quot;%1&quot; in chat (you might want to show all previous messages first)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double-click here to set chat topic.</source>
-        <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double-click here to set chat topic</source>
-        <comment>sF_MULTICHAT_EDITTOPIC_HINT_2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Chat with %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has joined the chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 new members were added to the chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has left the chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has set the topic to %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy Selected Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Open Link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy Link Location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Set Topic</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Set Picture</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove Picture</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loading Image Error!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Failed to convert the selected image to a proper format for Skype!
-Please select a different image file.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Image Size Error!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The image file you have selected is too large!
-Please use a smaller size image!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Internal Error!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The selected image file could not be set as a chat picture.
-Please use a different image file!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loading Image failure!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>File could not be loaded.
- Please try a different a file and also make sure that file has read permission.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>joined the chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>left the chat (%1).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>has changed the chat guidelines to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Images</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>All Files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please select a file.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This message has been removed by you.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This message has been removed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Select All</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Find Again</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Edit Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Right click here to set/unset the chat picture.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rename Group</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delete Group</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This message has been edited by %1 at %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This message has been edited at %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This message has been removed by %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Declined to be added</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsubscribed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown reason</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Quote message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This person is using a version of Skype that doesn&apos;t support group chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Only people who have accepted contact request can be added</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 - Skype™ Chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last 6 Months</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last Year</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure you want to call?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You are about to make a call to %1 members of this chat. Are you sure you want to call?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure you want to leave this chat?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>has changed the chat picture.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Favorites</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recent</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call Phones</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 - %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove from Favorites</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add to Favorites</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pop-in chat</source>
-        <comment>This command will attach the separate chat window back to the combined/default view of chats. Opposite of Pop-out chat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pop-out chat</source>
-        <comment>This will open the chosen chat in a separate window</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide chat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add participants, send files and more</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Send Files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add people</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Chat options</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>SMS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove from Bookmarks</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add to Bookmarks</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>created a group chat with (%1).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>created a group chat.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has a birthday.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call to %1, no answer.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Missed call from %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call to %1, busy.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call from %1, busy.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call to %1, duration %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call from %1, duration %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>blocked %1 from the chat.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>sent file %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>sent files %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>sent you a voice message.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>sent a voice message.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Place a Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message numerus="yes">
-        <source>Last activity %n year(s) ago</source>
-        <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>Last activity %n month(s) ago</source>
-        <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>Last activity %n week(s) ago</source>
-        <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>Last activity %n day(s) ago</source>
-        <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>Last activity %n hour(s) ago</source>
-        <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>Last activity %n minute(s) ago</source>
-        <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>Last activity %n second(s) ago</source>
-        <comment>This is a tooltip for the status icon in conversations window</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
-    </message>
-    <message>
-        <source>Conference call, duration %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add to Conference Call</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call participants</source>
+        <source>Show group chat</source>
+        <comment>sCHAT_SPAWNED_CONF_LINK</comment>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1119,11 +1120,11 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Report abuse from this person</source>
+        <source>You can also report abuse from this user. &lt;a href=&quot;%1&quot;&gt;Learn more&lt;/a&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>You can also report abuse from this user. &lt;a href=&quot;%1&quot;&gt;Learn more&lt;/a&gt;</source>
+        <source>Report abuse</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1134,27 +1135,7 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Say Hello to %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Type a short message to introduce yourself to %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please allow me to see when you are online</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source> Call %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source> Start a chat with %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source> View the profile of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1166,19 +1147,11 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Ignore Contact Request</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Ignore the contact request</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Contact Request</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Accept Contact Request</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1195,6 +1168,34 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Accept contact request and add contact to your contact list</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Accept</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hi %1, I&apos;d like to add you as a contact. %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send %1 a contact request</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Call %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start a chat with %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View the profile of %1</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1233,14 +1234,6 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to view this contact&apos;s profile.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Profile Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>This contact is configured for video conferencing.</source>
         <translation type="unfinished"/>
     </message>
@@ -1273,39 +1266,7 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Last Seen: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Edit Contact</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Contact Groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add to Contact List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Block Contact</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure you wish to delete %1 from your contact list?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure you wish to block %1?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delete Selected Contacts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure you wish to delete the selected users from your contact list?</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1373,11 +1334,11 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Country:</source>
+        <source>Country/Region:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Region:</source>
+        <source>State/Province:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1414,10 +1375,6 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Clear Birthday</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>-- Unspecified --</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1472,10 +1429,6 @@ Please use a different image file!</source>
         <source>Undisclosed number</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Echo Test Service</source>
-        <translation type="unfinished"/>
-    </message>
     <message numerus="yes">
         <source>%n contact(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
@@ -1490,10 +1443,6 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Choose Avatar Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1523,27 +1472,11 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock This User</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Block This User</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Are you sure you wish to unblock %1?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Pending contact request</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Are you sure you wish to delete the selected group?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Send SMS</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1560,10 +1493,6 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Create Group</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enter name for new group</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1584,20 +1513,6 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Edit Labels...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Block this user</source>
-        <comment>This is a window title</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unblock this user</source>
-        <comment>This is a window title</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last Seen:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1638,6 +1553,97 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Other Phone:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skype Test Call</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last seen: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Contact Lists</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add to Contacts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock This Person...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block This Person...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove %1 from Contacts?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This person has not shared their details with you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Contacts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>Remove %n selected contact(s)?</source>
+        <comment>Confirmation dialog's main text when removing contacts</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <source>View %1 profile</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block this person</source>
+        <comment>This is a window title</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Are you sure you want to block %1?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show more options for this contact</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Write SMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter name for new list</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last seen:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>-- Not specified --</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock this person</source>
+        <comment>This is a window title</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Choose profile picture</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1694,8 +1700,8 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>City, Country</source>
-        <comment>Result Table Header: City, Country</comment>
+        <source>Location</source>
+        <comment>Result Table Header: Location</comment>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1762,6 +1768,22 @@ Please use a different image file!</source>
         <source>Search Again</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Search by name, Skype name or email</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skype Name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No results for %1</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>Controls</name>
@@ -1800,11 +1822,11 @@ Please use a different image file!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>To start using Skype, you must agree to the Terms of Use.</source>
+        <source>Terms of Use</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Terms of Use</source>
+        <source>Before we start, you must agree to the &lt;a href=&quot;%1&quot;&gt;Skype Terms of Use&lt;/a&gt; and &lt;a href=&quot;%2&quot;&gt;Skype Privacy Policy&lt;/a&gt;.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2144,6 +2166,30 @@ Please use a different image file!</source>
         <source>Voice messages</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>This is an example of a voice message event popup.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New message from %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Message from %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SMS received %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SMS sent %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>File Transfer</name>
@@ -2249,16 +2295,6 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>%1 recipients</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 - %2 (%3) - %4</source>
-        <comment>Sub-transfer partner skypename, progress, speed and finish ETA</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 - %2 (%3) - %4</source>
-        <comment>Top transfer partner skypename or recipient/file count, progress, speed and finish ETA</comment>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2515,6 +2551,20 @@ Please use a different image file!</source>
         <source>If you cancel now you will not receive these files.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>If you cancel now the other party will not receive these files.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3) - %4</source>
+        <comment>Sub-transfer partner Display Name, progress, speed and finish ETA</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3) - %4</source>
+        <comment>Top transfer partner Display Name or recipient/file count, progress, speed and finish ETA</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>FindDialog</name>
@@ -2730,23 +2780,11 @@ Please try again later.</source>
         <source>Connect with Skype WiFi</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Failed to log in. Check your Skype Name or password</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>Main Window</name>
     <message>
-        <source>Click here to change your status</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Click here to personalise your mood and profile</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to change your avatar</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2755,10 +2793,6 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype Credit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Visit account page</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2803,31 +2837,11 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click here to show contact list</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Show History</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Mark All Viewed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to hide new events</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to show new events</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to show event history</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click here to show contacts</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2979,22 +2993,6 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Skype number expires in %1 days</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Buy a Skype number</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Skype number</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Skype Voice Messaging</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Start a &amp;Conference Call...</source>
         <translation type="unfinished"/>
     </message>
@@ -3016,6 +3014,158 @@ Please try again later.</source>
         <source>Subscriptions</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Get Premium</source>
+        <comment>This appears in case of account not having any premium video subscription</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Manage Premium</source>
+        <comment>This appears in case of account having a premium video subscription</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Lync Contacts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1, select to change status</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Contact list is empty or all groups are hidden</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search for a contact in the Skype Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>%n new event(s). Click here to show contacts</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_SHOW_CONTACTS</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <source>Click here to show contacts</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_NO_NEW_EVENTS_SHOW_CONTACTS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>%n new event(s). Click here to hide new event(s)</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_HIDE_NEW_EVENTS</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n new event(s). Click here to show new event(s)</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_HAS_NEW_EVENTS_SHOW_NEW_EVENTS</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <source>Click here to show event history</source>
+        <comment>sEVENTS_BUTTON_TOOLTIP_NO_NEW_EVENTS_SHOW_HISTORY</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Contacts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>C&amp;hats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check for &amp;Updates...</source>
+        <comment>sSKYPEMENU_UPDATES</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add Contact</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search Skype Directory...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save a Phone Number...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sort Contacts by</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Status</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Contacts Who</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Are Offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Are Offline with Call Forwarding</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Haven&apos;t Shared Contact Details</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Premium account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You already have the latest version of Skype installed.</source>
+        <comment>sF_UPGRADE_UPTODATE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check for updates</source>
+        <comment>sF_UPGRADE_HEADER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We are currently not able to check if there&apos;s a new update available. Please try a little later.</source>
+        <comment>sF_UPGRADE_CHECK_FAILED</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 Skype Credit. Click here to check your account features.</source>
+        <comment>sSKYPE_CREDIT_BUTTON_ACCESSIBLE_TEXT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skype Number expires in %1 days</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Buy a Skype Number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click here to change your profile picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skype Number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Voice Messaging</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Visit My account page</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>Options</name>
@@ -3029,10 +3179,6 @@ Please try again later.</source>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3380,10 +3526,6 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Select your country</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Type your mobile number</source>
         <translation type="unfinished"/>
     </message>
@@ -3512,15 +3654,94 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Allow calls to my Skype number(s) from...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>You&apos;ll need Skype Credit or a subscription to forward calls. Calls forwarded to a phone number will be charged at &lt;a href=&quot;normalrates&quot;&gt;our rates&lt;/a&gt; for calling phones and mobiles or may be included as part of your subscription.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Skype watermark during calls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide files I&apos;ve sent on other devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IM</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Display built-in system pop-up notification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You need &apos;notify-send&apos; binary in your path to use this option; on Debian/Ubuntu distributions you can install &apos;libnotify-bin&apos; package.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter the code</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select your country/region</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hotkeys</source>
+        <comment>sF_OPTIONS_PAGE_KEYBOARD</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set up keyboard shortcuts for frequently used functions</source>
+        <comment>sF_OPTIONS_LBC_HOTKEYS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable keyboard shortcuts</source>
+        <comment>sF_OPTIONS_TCB11</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Active</source>
+        <comment>sF_OPTIONS_HK_STATUS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Action</source>
+        <comment>sF_OPTIONS_HK_ACTION</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hotkey</source>
+        <comment>sF_OPTIONS_HK_HOTKEY</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Answer call</source>
+        <comment>sHOTKEY_ANSWER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ignore call</source>
+        <comment>sHOTKEY_IGNORE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hang up</source>
+        <comment>sHOTKEY_HANGUP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Focus Skype</source>
+        <comment>sHOTKEY_FOCUS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow calls to my Skype Number(s) from...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go to your system settings to change the shortcuts.</source>
+        <comment>sF_OPTIONS_HK_INFO_LABEL</comment>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3582,6 +3803,10 @@ Please try again later.</source>
         <source>** Add to conference call by name/number</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Change search options</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>Screensharing</name>
@@ -3641,10 +3866,6 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Contacts in your list</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Contacts to send</source>
         <translation type="unfinished"/>
     </message>
@@ -3669,10 +3890,6 @@ Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Accept</source>
         <translation type="unfinished"/>
     </message>
@@ -3694,6 +3911,14 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send Contacts to Selected Contacts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Select</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Choose contacts</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3855,10 +4080,6 @@ Please try again later.</source>
 <context>
     <name>Sms</name>
     <message>
-        <source>This message is not delivered yet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Delivery failed.</source>
         <translation type="unfinished"/>
     </message>
@@ -3888,10 +4109,6 @@ Please try again later.</source>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Send SMS</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3981,6 +4198,18 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send SMS Message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not delivered yet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Write SMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Buy Skype Credit</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4108,10 +4337,6 @@ Personalize your voice message greeting, save messages to listen to again, and l
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Learn more about Skype voice messaging</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Listen to this voice message</source>
         <translation type="unfinished"/>
     </message>
@@ -4121,6 +4346,10 @@ Personalize your voice message greeting, save messages to listen to again, and l
     </message>
     <message>
         <source>Enable voice messaging</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Learn more about voice messaging</source>
         <translation type="unfinished"/>
     </message>
 </context>

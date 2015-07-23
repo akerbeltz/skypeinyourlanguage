@@ -64,11 +64,11 @@
     </message>
     <message>
         <source>Enable networked TCP socket</source>
-        <translation>TCP şəbəkə mənbəyinı qoş</translation>
+        <translation>TCP şəbəkə mənbəyini qoş</translation>
     </message>
     <message>
         <source>Bus:</source>
-        <translation>Hərəkət:</translation>
+        <translation>Bus:</translation>
     </message>
     <message>
         <source>Allowing access to Skype API over network is insecure. Do it only&lt;br&gt;in well-controlled environments and never over the internet.&lt;br&gt;Skype does not make any security guarantee if you enable networked&lt;br&gt;TCP socket, as the communication channel is unencrypted clear text.</source>
@@ -89,12 +89,12 @@
     <message>
         <source>Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>sF_ABOUT_WARNING_2</comment>
-        <translation>Bu proqramın qanunsuz olaraq surətinin çıxarılması və yayılması və ya onun hər hansı bir hissəsinin yayılması, sərt mülki və cinayət cəzalarına səbəb ola bilər və qanunun bütün sərtliyi ilə təqib ediləcək</translation>
+        <translation>Bu proqramın qanunsuz nüsxələnməsi və yayılması və ya onun hər hansı bir hissəsinin yayılması, sərt mülki və cinayət cəzalarına səbəb ola bilər və qanunun bütün sərtliyilə təqib ediləcək.</translation>
     </message>
     <message>
         <source>Patents Pending</source>
         <comment>sF_ABOUT_COPYRIGHT_1_2</comment>
-        <translation>Xüsusi İstisna Hüquqlu Sənəd (Patent) Gözləyir</translation>
+        <translation>Səlahiyyətnamələr (Patentlər) Gözləyir</translation>
     </message>
     <message>
         <source>The Skype name, associated trademarks and logos and the &quot;S&quot; logo are trademarks of Skype or related entities.</source>
@@ -111,7 +111,7 @@
     <name>CallControlBar</name>
     <message>
         <source>Add participants</source>
-        <translation>İştirakçılar əlavə et</translation>
+        <translation>İştirakçılar əlavəsi</translation>
     </message>
     <message>
         <source>End call</source>
@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>Add People to This Call</source>
-        <translation>Bu Zəngə İştirakçı Əlavə Et</translation>
+        <translation>Bu Zəngə İstifadəçi Əlavəsi</translation>
     </message>
     <message>
         <source>Share Selection</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>Resume call</source>
-        <translation>Zəngi bərpa et</translation>
+        <translation>Zəngin bərpası</translation>
     </message>
 </context>
 <context>
@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>Held remotely</source>
-        <translation>Məsafədən təşkil et</translation>
+        <translation>Məsafədən təşkil etmə</translation>
     </message>
     <message>
         <source>Call on Hold</source>
@@ -214,7 +214,7 @@
     </message>
     <message>
         <source>Resume Call</source>
-        <translation>Zəngi Bərpa Et </translation>
+        <translation>Zəngin Bərpası </translation>
     </message>
     <message>
         <source>Hangup</source>
@@ -222,7 +222,7 @@
     </message>
     <message>
         <source>Invite to Conference</source>
-        <translation>Toplantıya Dəvət Et</translation>
+        <translation>Toplantıya Dəvət</translation>
     </message>
     <message>
         <source>Call %1</source>
@@ -346,11 +346,11 @@
     </message>
     <message>
         <source>Problem with recording device</source>
-        <translation>Səsyazma cihazıyla nasazlıq</translation>
+        <translation>Səsyazma cihazında nasazlıq</translation>
     </message>
     <message>
         <source>Problem with playback device</source>
-        <translation>Səsləndirmə cihazyla nasazlıq</translation>
+        <translation>Səsləndirmə cihazında nasazlıq</translation>
     </message>
     <message>
         <source>Invalid phone number</source>
@@ -362,7 +362,7 @@
     </message>
     <message>
         <source>Sorry, call failed</source>
-        <translation>Üzr istəyirik, zəng uğursuz</translation>
+        <translation>Təəssüf, zəng uğursuz</translation>
     </message>
     <message>
         <source>Calling...</source>
@@ -386,7 +386,7 @@
     </message>
     <message>
         <source>Invite to group call</source>
-        <translation>Dəstə zənginə dəvət et</translation>
+        <translation>Dəstə zənginə dəvət</translation>
     </message>
     <message>
         <source>%1 calling</source>
@@ -528,7 +528,7 @@
     </message>
     <message>
         <source>Copy Link Location</source>
-        <translation>Keçid İstinadının Surətini Çıxar</translation>
+        <translation>Keçidi Nüsxələ</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -545,7 +545,7 @@
     <message>
         <source>The selected image file could not be set as a chat picture.
 Please use a different image file!</source>
-        <translation>Seçilmiş şəkil söhbət təsviri kimi istifadə oluna bilməz. Fərqli bir şəkil istifadə edin!</translation>
+        <translation>Seçilmiş rəsim söhbət təsviri kimi istifadə oluna bilməz. Fərqli bir rəsim istifadə edin!</translation>
     </message>
     <message>
         <source>Loading Image failure!</source>
@@ -641,7 +641,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add people</source>
-        <translation>Adamlar əlavə et</translation>
+        <translation>Adamlar əlavəsi</translation>
     </message>
     <message>
         <source>Chat options</source>
@@ -779,7 +779,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Insert emoticon</source>
-        <translation>Cizgili ifadə əlavə et</translation>
+        <translation>Cizgili ifadə əlavəsi</translation>
     </message>
     <message>
         <source>Send a message</source>
@@ -796,7 +796,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add people...</source>
-        <translation>Insanlar əlavə et...</translation>
+        <translation>Adamlar əlavəsi...</translation>
     </message>
     <message>
         <source>Messaging unavailable.</source>
@@ -806,7 +806,7 @@ Please use a different image file!</source>
     <message>
         <source>This chat has been updated to a new version. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Go to the new chat&lt;/a&gt;.</source>
         <comment>sMSNP24_UPGRADE_MESSAGE_IN_P2P_FOR_MSNP_USER_INPUT</comment>
-        <translation>Bu söhbət növü yeniləndi. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Yeni söhbətə keçin&lt;/a&gt;.</translation>
+        <translation>Bu söhbət buraxılışı yeniləndi. &lt;a href=&quot;skype:?chat&amp;id=%1&quot;&gt;Yeni söhbətə keçin&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Send SMS</source>
@@ -833,7 +833,7 @@ Please select a different image file.</source>
     <message>
         <source>The image file you have selected is too large.
 Please use a smaller size image.</source>
-        <translation>Seçdiyiniz şəkil faylı çox böyükdür. Xahiş edirik, kiçik ölçülü şəkil istifadə edin.</translation>
+        <translation>Seçdiyiniz rəsim faylı çox böyükdür. Xahiş edirik, kiçik ölçülü rəsim istifadə edin.</translation>
     </message>
     <message>
         <source>Skype internal error</source>
@@ -853,7 +853,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>%1 added %2.</source>
-        <translation>%1, %2 əlavə edib.</translation>
+        <translation>%2, %1 tərəfindən əlavə edildi.</translation>
     </message>
     <message>
         <source>%1 needs to update Skype to participate in this chat. Help by sending them to Skype.com/downloads. Learn more about new group chat.</source>
@@ -897,7 +897,7 @@ Please use a smaller size image.</source>
     <message>
         <source>&lt;b&gt;It&apos;s %1&apos;s birthday today.&lt;/b&gt; Forgot the card? Make it up with a &lt;a href=&quot;%2&quot;&gt;Skype Gift Card&lt;/a&gt;.</source>
         <comment>sCHAT_HAS_BIRTHDAY</comment>
-        <translation>&lt;b&gt;%1 adlı şəxsin bugün ad günüdür.&lt;/b&gt; Kartı xatırmarsız? Bununla edirlər &lt;a href=&quot;%2&quot;&gt;Skype Hədiyyə Kartları&lt;/a&gt;.</translation>
+        <translation>&lt;b&gt;%1 bugün ad günüdür.&lt;/b&gt; Kartı unutdunuz? Bununla edirlər &lt;a href=&quot;%2&quot;&gt;Skype Hədiyyə Kartları&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Group call, duration %1.</source>
@@ -969,7 +969,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Copy Selection</source>
-        <translation>Seçimin Surətini Çıxar</translation>
+        <translation>Seçimi Nüsxələ</translation>
     </message>
     <message>
         <source>Enter a topic for the chat</source>
@@ -994,7 +994,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>This chat has been updated to a new version. You need to get the latest Skype to participate in it.</source>
-        <translation>Bu söhbətin yeni növü qurulub. İştirak etmək üçün, sizə son Skype lazımdır.</translation>
+        <translation>Bu söhbətin yeni buraxılışı qurulub. İştirak etmək üçün, sizə son Skype lazımdır.</translation>
     </message>
     <message>
         <source>sent file</source>
@@ -1018,7 +1018,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>People in this group</source>
-        <translation>Bu dəstədəki insanlar</translation>
+        <translation>Bu dəstədəki adamlar</translation>
     </message>
     <message>
         <source>Call group</source>
@@ -1062,7 +1062,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ləğv et</translation>
+        <translation>Ləğv Et</translation>
     </message>
     <message>
         <source>Update</source>
@@ -1193,7 +1193,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>View the profile of %1</source>
-        <translation>Şəxsi səhifəsinə bax: %1</translation>
+        <translation>%1 fərdi səhifəsinə bax</translation>
     </message>
 </context>
 <context>
@@ -1228,7 +1228,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>View Profile</source>
-        <translation>Şəxsi Səhifəsinə Bax</translation>
+        <translation>Fərdi Səhifəsinə Bax</translation>
     </message>
     <message>
         <source>This contact is configured for video conferencing.</source>
@@ -1256,7 +1256,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Edit Profile</source>
-        <translation>Şəxsi Səhifəyə Düzəliş</translation>
+        <translation>Fərdi Səhifəyə Düzəliş</translation>
     </message>
     <message>
         <source>Undisclosed Number</source>
@@ -1272,7 +1272,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Profile for %1</source>
-        <translation>Şəxsi Səhifə: %1</translation>
+        <translation>%1 Fərdi Səhifəsi</translation>
     </message>
     <message>
         <source>Contact Information</source>
@@ -1284,7 +1284,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation>Tam Ad:</translation>
+        <translation>Tam Adı:</translation>
     </message>
     <message>
         <source>E-mail:</source>
@@ -1432,7 +1432,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>This contact has a birthday today.</source>
-        <translation>Bu əlaqənin bu gün ad günüdür.</translation>
+        <translation>Bu əlaqənin bugün ad günüdür.</translation>
     </message>
     <message>
         <source>This contact is currently using a mobile device.</source>
@@ -1472,7 +1472,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Are you sure you wish to unblock %1?</source>
-        <translation>%1 adlı şəxsi qadağdan çıxarmaq istəyənizə əminsiniz?</translation>
+        <translation>%1 qadağasını ləğv etmək istəyənizə əminsiniz?</translation>
     </message>
     <message>
         <source>Are you sure you wish to delete the selected group?</source>
@@ -1520,7 +1520,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Add more email addresses</source>
-        <translation>Daha çox e-poçt ünvanları əlavə et</translation>
+        <translation>Daha çox e-poçt ünvanları əlavəsi</translation>
     </message>
     <message>
         <source>Offline with voice messaging</source>
@@ -1532,15 +1532,15 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Online (on a mobile device)</source>
-        <translation>Şəbəkədə (mobil qurğuda)</translation>
+        <translation>Şəbəkədə (mobil cihazda)</translation>
     </message>
     <message>
         <source>Away (on a mobile device)</source>
-        <translation>Yerində Deyil (mobil qurğuda)</translation>
+        <translation>Yerində Deyil (mobil cihazda)</translation>
     </message>
     <message>
         <source>Do Not Disturb (on a mobile device)</source>
-        <translation>Narahat Etməyin (mobil qurğuda)</translation>
+        <translation>Narahat Etməyin (mobil cihazda)</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1548,7 +1548,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Add phone number</source>
-        <translation>Telefon nömrəsi əlavə et</translation>
+        <translation>Telefon nömrəsi əlavəsi</translation>
     </message>
     <message>
         <source>Other Phone:</source>
@@ -1601,7 +1601,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>View %1 profile</source>
-        <translation>%1 adlı istifadəçinin şəxsi səhifəsinə bax </translation>
+        <translation>%1 fərdi səhifəsinə bax </translation>
     </message>
     <message>
         <source>Block this person</source>
@@ -1610,7 +1610,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Are you sure you want to block %1?</source>
-        <translation>%1 adlı şəxsi qadağan etmək istəyinizə əminsiniz?</translation>
+        <translation>%1 qadağan etmək istəyinizə əminsiniz?</translation>
     </message>
     <message>
         <source>Show more options for this contact</source>
@@ -1643,14 +1643,14 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Choose profile picture</source>
-        <translation>Şəxsi səhifə şəkli seçin</translation>
+        <translation>Fərdi səhifə şəkli seçin</translation>
     </message>
 </context>
 <context>
     <name>Contact Search</name>
     <message>
         <source>Add Contact</source>
-        <translation>Əlaqə Əlavə Et</translation>
+        <translation>Əlaqə Əlavəsi</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1721,7 +1721,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Add Number</source>
-        <translation>Nömrə Əlavə Et</translation>
+        <translation>Nömrə Əlavəsi</translation>
     </message>
     <message>
         <source>Cancel Search</source>
@@ -1733,7 +1733,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Add a Skype contact using their Skype Name</source>
-        <translation>Skype Adını istifadə edərək Skype əlaqəsi əlavə et</translation>
+        <translation>Skype Adını istifadə edərək Skype əlaqəsi əlavəsi</translation>
     </message>
     <message>
         <source>Add a phone number as a contact</source>
@@ -1953,7 +1953,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Outgoing Call Ringing</source>
-        <translation>Çıxan Zəng</translation>
+        <translation>Gedən Zəng</translation>
     </message>
     <message>
         <source>Call Answered</source>
@@ -2352,7 +2352,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Accept File</source>
-        <translation>Fayl Qəbul Et</translation>
+        <translation>Fayl Qəbulu</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -2364,7 +2364,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Bağla</translation>
+        <translation>Ləğv Et</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -2613,7 +2613,7 @@ Please use a smaller size image.</source>
     <message>
         <source>Cance&amp;l</source>
         <comment>sF_OPTIONS_BUTTON_CANCEL</comment>
-        <translation>Ləğv&amp;et</translation>
+        <translation>Ləğ&amp;v Et</translation>
     </message>
     <message>
         <source>Find Text</source>
@@ -2785,7 +2785,7 @@ Please try again later.</source>
     <name>Main Window</name>
     <message>
         <source>Click here to personalise your mood and profile</source>
-        <translation>Əhval-ruhiyyənizi və şəxsi səhifənizi fərdiləşdirmək üçün buraya basın</translation>
+        <translation>Əhvalınızı və fərdi səhifənizi şəxsiləşdirmək üçün buraya basın</translation>
     </message>
     <message>
         <source>Type your mood message in this box</source>
@@ -2793,7 +2793,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Skype Credit</source>
-        <translation>Skype Etimad</translation>
+        <translation>Skype Hesabı</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -2822,7 +2822,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>%1 Skype Credit available</source>
-        <translation>%1 Mövcud Skype Etimad</translation>
+        <translation>%1 Mövcud Skype Hesabı</translation>
     </message>
     <message>
         <source>%1 People Online</source>
@@ -2830,7 +2830,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Images</source>
-        <translation>Təsvirlər</translation>
+        <translation>Rəsimlər</translation>
     </message>
     <message>
         <source>Show Contacts</source>
@@ -2850,7 +2850,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sign &amp;Out</source>
-        <translation>Şəxsi Səhifədən &amp;Çıxış</translation>
+        <translation>Fərdi Səhifədən &amp;Çıxış</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -2954,7 +2954,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Change &amp;Status</source>
-        <translation>Vəziyyətini &amp;Dəyiş</translation>
+        <translation>&amp;Vəziyyətini Dəyiş</translation>
     </message>
     <message>
         <source>Search Directory</source>
@@ -2994,7 +2994,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Start a &amp;Conference Call...</source>
-        <translation>Toplantı &amp;Zənginə Başla...</translation>
+        <translation>&amp;Toplantı Zənginə Başla...</translation>
     </message>
     <message>
         <source>Get a subscription</source>
@@ -3076,11 +3076,11 @@ Please try again later.</source>
     <message>
         <source>Check for &amp;Updates...</source>
         <comment>sSKYPEMENU_UPDATES</comment>
-        <translation>Yeniləmə &amp;Yoxlanışı...</translation>
+        <translation>&amp;Yeniləmə Yoxlanışı...</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation>Əlaqə Əlavə Et</translation>
+        <translation>Əlaqə Əlavəsi</translation>
     </message>
     <message>
         <source>Search Skype Directory...</source>
@@ -3112,11 +3112,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Are Offline with Call Forwarding</source>
-        <translation>Şəbəkədə Deyil Zəng Yönəldilməsilə </translation>
+        <translation>Şəbəkədə Deyil Zəng Yönəldilmə Mövcuddur</translation>
     </message>
     <message>
         <source>Haven&apos;t Shared Contact Details</source>
-        <translation>Ətraflı Paylaşılmayan Əlaqə</translation>
+        <translation>Ətraflı Bölüşülməyən Əlaqə</translation>
     </message>
     <message>
         <source>Premium account</source>
@@ -3140,7 +3140,7 @@ Please try again later.</source>
     <message>
         <source>%1 Skype Credit. Click here to check your account features.</source>
         <comment>sSKYPE_CREDIT_BUTTON_ACCESSIBLE_TEXT</comment>
-        <translation>%1 Skype Kredit. Hesab xassələrini yoxlamaq üçün buraya basın.</translation>
+        <translation>%1 Skype Hesabı. Hesab xassələrini yoxlamaq üçün buraya basın.</translation>
     </message>
     <message>
         <source>Skype Number expires in %1 days</source>
@@ -3187,11 +3187,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Sound Devices</source>
-        <translation>Ses Cihazlar</translation>
+        <translation>Səs Cihazları</translation>
     </message>
     <message>
         <source>Video Devices</source>
-        <translation>Video Cihazlar</translation>
+        <translation>Görüntü Cihazları</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -3215,7 +3215,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>When I double-click on a Contact or use the address field</source>
-        <translation>Əlaqə üzərinə cüt basın və ya ünvan sahəsini istifadə edin</translation>
+        <translation>Əlaqə üzərinə cüt toxunun və ya ünvan sahəsini istifadə edin</translation>
     </message>
     <message>
         <source>Start a call</source>
@@ -3255,7 +3255,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>only numbers of my Contacts</source>
-        <translation>yalnız mənim Əlaqələr nömrələrimdən</translation>
+        <translation>yalnız Əlaqələrimdən</translation>
     </message>
     <message>
         <source>Forever</source>
@@ -3327,7 +3327,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>The file is not accessible.</source>
-        <translation>Fayl əlçatan deyil.</translation>
+        <translation>Fayl mövcud deyil.</translation>
     </message>
     <message>
         <source>Reset to Default Sound</source>
@@ -3415,7 +3415,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Allow Skype to automatically adjust my mixer levels</source>
-        <translation>Skype birbaşa olaraq səs səviyyəsini nizamlasın </translation>
+        <translation>Skype birbaşa səs səviyyəsini nizamlasın </translation>
     </message>
     <message>
         <source>nobody</source>
@@ -3423,11 +3423,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Automatically receive video from...</source>
-        <translation>Birbaşa görüntü qəbul et...</translation>
+        <translation>Birbaşa görüntü qəbulu...</translation>
     </message>
     <message>
         <source>Show that I have video to...</source>
-        <translation>Mənim görüntümü göstər...</translation>
+        <translation>Görüntümün nümayişi...</translation>
     </message>
     <message>
         <source>Skype</source>
@@ -3447,7 +3447,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Use port</source>
-        <translation>Limanı istifadə et</translation>
+        <translation>Limanın istifadəsi</translation>
     </message>
     <message>
         <source>for incoming connections</source>
@@ -3459,15 +3459,15 @@ Please try again later.</source>
     </message>
     <message>
         <source>HTTPS Proxy</source>
-        <translation>HTTPS Şəbəkə Təmsilçisi (proksi)</translation>
+        <translation>HTTPS Şəbəkə Təmsilçisi (Proksi)</translation>
     </message>
     <message>
         <source>SOCKS Proxy</source>
-        <translation>SOCKS Şəbəkə Təmsilçisi (proksi)</translation>
+        <translation>SOCKS Şəbəkə Təmsilçisi (Proksi)</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation>Əsas Qəbuledici</translation>
+        <translation>Qəbuledici (Host)</translation>
     </message>
     <message>
         <source>Port</source>
@@ -3487,7 +3487,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Allow my contacts to see the number of contacts I have.</source>
-        <translation>Əlaqələrimə əlaqələr sayımı görməyə icazə ver.</translation>
+        <translation>Əlaqələrimə əlaqələr siyahımı görməyə icazə.</translation>
     </message>
     <message>
         <source>Show when others are typing</source>
@@ -3591,7 +3591,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Enable Skype WiFi</source>
-        <translation>Skype WiFi-ı Tətbiq Et</translation>
+        <translation>Skype WiFi Tətbiqi</translation>
     </message>
     <message>
         <source>Call forwarding options</source>
@@ -3619,11 +3619,11 @@ Please try again later.</source>
     </message>
     <message>
         <source>Pressing Enter will...</source>
-        <translation>&apos;Enter&apos; düyməsinə basdıqda...</translation>
+        <translation>Enter düyməsinə basdıqda...</translation>
     </message>
     <message>
         <source>Insert line break</source>
-        <translation>Sətir başlığı əlavə et</translation>
+        <translation>Sətir başlığı əlavəsi</translation>
     </message>
     <message>
         <source>Send chat message</source>
@@ -3675,7 +3675,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>You need &apos;notify-send&apos; binary in your path to use this option; on Debian/Ubuntu distributions you can install &apos;libnotify-bin&apos; package.</source>
-        <translation>Sizə bu xüsussiyətdən istifadə üçün ikili istiqamət &quot;bildir-göndər&quot; lazımdır; Debian/Ubuntu bölüşdürmələrini &quot;istiqamətli bildiriş-qutu&quot; bağlamasında quraşdıra bilərsiniz.</translation>
+        <translation>Sizə bu xüsussiyətdən istifadə üçün ikili istiqamət &quot;bildir-göndər&quot; lazımdır; Debian/Ubuntu bölüşdürmələrini &quot;bildiriş-qutusu&quot; bağlamasında quraşdıra bilərsiniz.</translation>
     </message>
     <message>
         <source>Enter the code</source>
@@ -3698,7 +3698,7 @@ Please try again later.</source>
     <message>
         <source>Enable keyboard shortcuts</source>
         <comment>sF_OPTIONS_TCB11</comment>
-        <translation>Düymələr uyğunluğunu tətbiq et</translation>
+        <translation>Düymələr uyğunluğu tətbiqi</translation>
     </message>
     <message>
         <source>Active</source>
@@ -3708,7 +3708,7 @@ Please try again later.</source>
     <message>
         <source>Action</source>
         <comment>sF_OPTIONS_HK_ACTION</comment>
-        <translation>Fəaliyyət</translation>
+        <translation>Hərəkət</translation>
     </message>
     <message>
         <source>Hotkey</source>
@@ -3718,7 +3718,7 @@ Please try again later.</source>
     <message>
         <source>Answer call</source>
         <comment>sHOTKEY_ANSWER</comment>
-        <translation>Zəngi qəbul et</translation>
+        <translation>Zəngin qəbulu</translation>
     </message>
     <message>
         <source>Ignore call</source>
@@ -3737,12 +3737,12 @@ Please try again later.</source>
     </message>
     <message>
         <source>Allow calls to my Skype Number(s) from...</source>
-        <translation>Skype Nömrəmə zənglərə icazə ver...</translation>
+        <translation>Skype Nömrəmə zənglərə icazə...</translation>
     </message>
     <message>
         <source>Go to your system settings to change the shortcuts.</source>
         <comment>sF_OPTIONS_HK_INFO_LABEL</comment>
-        <translation>Qısa yollarını dəyişdirmək üçün quruluş tənzimlərinə keçin.</translation>
+        <translation>Cəld çağırışları dəyişdirmək üçün quruluş tənzimlərinə keçin.</translation>
     </message>
 </context>
 <context>
@@ -3891,7 +3891,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Qəbul et</translation>
+        <translation>Qəbul</translation>
     </message>
     <message>
         <source>Do not accept</source>
@@ -3962,7 +3962,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Ləğv et</translation>
+        <translation>&amp;Ləğv Et</translation>
     </message>
 </context>
 <context>
@@ -3982,7 +3982,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Connect with Skype WiFi</source>
-        <translation>Skype WiFi-la Bağlantı</translation>
+        <translation>Skype WiFi Bağlantısı</translation>
     </message>
     <message>
         <source>Connect to this hotspot for free internet access with %1 ¹.</source>
@@ -4074,7 +4074,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>This WiFi hotspot supports Skype WiFi - the easy way to get online.&lt;br /&gt;Simply pay per minute with Skype Credit.&lt;br /&gt;&lt;br /&gt;Unfortunately you don&apos;t have enough credit to use Skype WiFi today.&lt;br /&gt;&lt;br /&gt;You can buy credit from skype.com. When you&apos;re next online, visit skype.com/go/skypecredit to find out more.</source>
-        <translation>Bu WiFi giriş nöqtəsi Skype WiFi dəstəkləyir - şəbəkəyə qoşulmaq üçün asan yol.&lt;br /&gt;Sadəcə Skype Hesabla dəqiqəyə görə ödənilir.&lt;br /&gt;&lt;br /&gt;Təəssüf ki, bu gün Skype WiFi istifadə etmək üçün kifayət qədər vəsait yoxdur.&lt;br /&gt;&lt;br /&gt;skype.com səhifəsində vəsait yerləşdirə bilərsiz.Növbəti şəbəkədə olduğunuzda, daha çox öyrənmək üçün skype.com/go/skypecredit səhifəsini ziyarət edin.</translation>
+        <translation>Bu WiFi giriş nöqtəsi Skype WiFi dəstəkləyir - şəbəkəyə qoşulmaq üçün asan yol.&lt;br /&gt;Sadəcə Skype Hesabla dəqiqəyə görə ödənilir.&lt;br /&gt;&lt;br /&gt;Təəssüf ki, bu gün Skype WiFi istifadə etmək üçün kifayət qədər vəsait yoxdur.&lt;br /&gt;&lt;br /&gt;skype.com səhifəsində vəsait yerləşdirə bilərsiz. Növbəti şəbəkədə olduğunuzda, daha çox öyrənmək üçün skype.com/go/skypecredit səhifəsini ziyarət edin.</translation>
     </message>
 </context>
 <context>
@@ -4121,7 +4121,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>No credit to pay for SMS.</source>
-        <translation>SMS ödənişi üçün, heç bir vəsait yoxdur.</translation>
+        <translation>SMS ödənişi üçün, vəsait yoxdur.</translation>
     </message>
     <message>
         <source>Invalid confirmation code.</source>
@@ -4137,7 +4137,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Node is blocked.</source>
-        <translation>Düyün yasaqdır.</translation>
+        <translation>Qovşaq yasaqdır.</translation>
     </message>
     <message>
         <source>No user id capability.</source>
@@ -4228,7 +4228,7 @@ Please try again later.</source>
     <name>Video</name>
     <message>
         <source>Skype Full-Screen Video</source>
-        <translation>Skype Tam Ekran Video</translation>
+        <translation>Skype Görüntü Tam Ekranda</translation>
     </message>
     <message>
         <source>%1 would like to start a video call with you</source>
@@ -4268,7 +4268,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Restore Default Greeting</source>
-        <translation>Sabit Salamlamanı Bərpa Et</translation>
+        <translation>Sabit Salamlamanın Bərpası</translation>
     </message>
     <message>
         <source>Duration: %1 seconds</source>

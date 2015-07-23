@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>Call Phones or Send SMS</source>
-        <translation type="unfinished"/>
+        <translation>Ligar para Telefones ou Envie SMS</translation>
     </message>
     <message>
         <source>Call</source>
@@ -374,7 +374,7 @@
     </message>
     <message>
         <source>See all rates</source>
-        <translation type="unfinished"/>
+        <translation>Veja todas as taxas</translation>
     </message>
     <message>
         <source>Answer</source>
@@ -394,16 +394,16 @@
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Put Call on Hold</source>
-        <translation type="unfinished"/>
+        <translation>Colocar Chamada em Espera</translation>
     </message>
     <message>
         <source>Answering this call will put your active call on hold.</source>
         <comment>sCALLALERT_CALLEXISTS_NO_OR</comment>
-        <translation type="unfinished"/>
+        <translation>Atender esta chamada colocará a chamada ativa em espera</translation>
     </message>
     <message>
         <source>End Call</source>
@@ -415,11 +415,12 @@
     </message>
     <message>
         <source>Start a group call</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar uma chamada em grupo
+</translation>
     </message>
     <message>
         <source>Group call topic (optional):</source>
-        <translation type="unfinished"/>
+        <translation>Tópico de chamada em grupo (opcional): </translation>
     </message>
     <message>
         <source>&amp;Select</source>
@@ -427,30 +428,30 @@
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Remover</translation>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation type="unfinished"/>
+        <translation>Escolher contatos</translation>
     </message>
     <message>
         <source>People in this group</source>
-        <translation type="unfinished"/>
+        <translation>Pessoas neste grupo</translation>
     </message>
     <message>
         <source>Voice message sent</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de voz enviada</translation>
     </message>
 </context>
 <context>
     <name>Chats</name>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Chats</translation>
     </message>
     <message>
         <source>ChatToolbar</source>
-        <translation type="unfinished"/>
+        <translation>Barra de ferramentas do chat</translation>
     </message>
     <message>
         <source>Chat window control toolbar</source>
@@ -466,19 +467,19 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adicionar</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Remover</translation>
     </message>
     <message>
         <source>Choose contacts</source>
-        <translation type="unfinished"/>
+        <translation>Escolher contatos</translation>
     </message>
     <message>
         <source>Adding users failed</source>
@@ -486,7 +487,7 @@
     </message>
     <message>
         <source>Couldn&apos;t add some users to the chat.</source>
-        <translation type="unfinished"/>
+        <translation>Não foi possível adicionar alguns usuários ao chat.</translation>
     </message>
     <message>
         <source>Find</source>

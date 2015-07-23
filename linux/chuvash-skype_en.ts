@@ -738,7 +738,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Add participants and send files</source>
-        <translation type="unfinished"/>
+        <translation>Çынсене хуш тата файлсене яр </translation>
     </message>
     <message>
         <source>Show messages from</source>
@@ -818,7 +818,7 @@ Please use a different image file!</source>
     </message>
     <message>
         <source>Loading image error</source>
-        <translation type="unfinished"/>
+        <translation>Ӳкерчĕк уçласа илнинчи йăнăш</translation>
     </message>
     <message>
         <source>Failed to convert the selected image to a proper format for Skype.
@@ -1523,7 +1523,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Offline with voice messaging</source>
-        <translation type="unfinished"/>
+        <translation>Тетелте мар, сасӑ ҫырӑвне пултарнипе</translation>
     </message>
     <message>
         <source>Offline with call forwarding</source>
@@ -1583,7 +1583,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>This person has not shared their details with you</source>
-        <translation type="unfinished"/>
+        <translation>Ку çын хăйĕн çыхăну вак-тĕвекне санпа пайлашман.</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -1621,7 +1621,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Enter name for new list</source>
-        <translation type="unfinished"/>
+        <translation>Çĕнĕ списока çыхăнăва ятла</translation>
     </message>
     <message>
         <source>Last seen:</source>
@@ -2178,11 +2178,11 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>SMS received %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 СМС килчĕ </translation>
     </message>
     <message>
         <source>SMS sent %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 СМС ярса панă </translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -2217,15 +2217,15 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Could not read from the file</source>
-        <translation type="unfinished"/>
+        <translation>файлнине те вуламан</translation>
     </message>
     <message>
         <source>Could not write to the file</source>
-        <translation type="unfinished"/>
+        <translation>файлнине те çырман</translation>
     </message>
     <message>
         <source>%1 could not write the file</source>
-        <translation type="unfinished"/>
+        <translation> %1 файлнине те çырман</translation>
     </message>
     <message>
         <source>%1 has been offline for too long</source>
@@ -2249,7 +2249,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Completed - Received from %1</source>
-        <translation type="unfinished"/>
+        <translation>Пулнă - %1 илни панă</translation>
     </message>
     <message>
         <source>Failed - %1</source>
@@ -2265,7 +2265,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Completed - Sent to %1</source>
-        <translation type="unfinished"/>
+        <translation>Пулнă - %1 ярса панă</translation>
     </message>
     <message>
         <source>Status Unknown</source>
@@ -2403,7 +2403,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Auto-Accept Files</source>
-        <translation type="unfinished"/>
+        <translation>Пермаях файлсине йышăн</translation>
     </message>
     <message>
         <source>Sending your file is being relayed. Click this icon to find out what this means.</source>
@@ -2556,12 +2556,12 @@ Please use a smaller size image.</source>
     <message>
         <source>%1 - %2 (%3) - %4</source>
         <comment>Sub-transfer partner Display Name, progress, speed and finish ETA</comment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2 (%3) - %4</translation>
     </message>
     <message>
         <source>%1 - %2 (%3) - %4</source>
         <comment>Top transfer partner Display Name or recipient/file count, progress, speed and finish ETA</comment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2 (%3) - %4</translation>
     </message>
 </context>
 <context>
@@ -2719,7 +2719,7 @@ Please use a smaller size image.</source>
     </message>
     <message>
         <source>Click here to change your password</source>
-        <translation type="unfinished"/>
+        <translation>Санăн кĕме сăмаха улăштарма пулсан кунта пус</translation>
     </message>
     <message>
         <source>Changing Password...</source>
@@ -3006,7 +3006,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Messenger Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Messengerti ҫыхӑнусем</translation>
     </message>
     <message>
         <source>Subscriptions</source>
@@ -3024,7 +3024,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Lync Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Lyncri ҫыхӑнусем</translation>
     </message>
     <message>
         <source>%1, select to change status</source>
@@ -3082,7 +3082,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Search Skype Directory...</source>
-        <translation type="unfinished"/>
+        <translation>Скайп директори шыра...</translation>
     </message>
     <message>
         <source>Save a Phone Number...</source>
@@ -3118,7 +3118,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Premium account</source>
-        <translation type="unfinished"/>
+        <translation>Чи сумлă ятлăх</translation>
     </message>
     <message>
         <source>You already have the latest version of Skype installed.</source>
@@ -3329,7 +3329,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Reset to Default Sound</source>
-        <translation type="unfinished"/>
+        <translation>Сасăлă яланхиллисем ларт</translation>
     </message>
     <message>
         <source>Display pop-up notification</source>
@@ -3621,7 +3621,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Insert line break</source>
-        <translation type="unfinished"/>
+        <translation>йӗрке татнине кӗрт</translation>
     </message>
     <message>
         <source>Send chat message</source>
@@ -3665,7 +3665,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>IM</source>
-        <translation type="unfinished"/>
+        <translation>АÇ</translation>
     </message>
     <message>
         <source>Display built-in system pop-up notification</source>
@@ -3691,12 +3691,12 @@ Please try again later.</source>
     <message>
         <source>Set up keyboard shortcuts for frequently used functions</source>
         <comment>sF_OPTIONS_LBC_HOTKEYS</comment>
-        <translation type="unfinished"/>
+        <translation>Тӑтӑшах усӑ куракан функцисем валли пускӑч ҫыхӑнӑвесене майлаштар</translation>
     </message>
     <message>
         <source>Enable keyboard shortcuts</source>
         <comment>sF_OPTIONS_TCB11</comment>
-        <translation type="unfinished"/>
+        <translation>Пускăч хăмми витĕр çулсене пултар</translation>
     </message>
     <message>
         <source>Active</source>
@@ -3735,7 +3735,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Allow calls to my Skype Number(s) from...</source>
-        <translation type="unfinished"/>
+        <translation>Ман Скайпри нумӗр(сем) ҫине кам шӑнкравлама пултарать...</translation>
     </message>
     <message>
         <source>Go to your system settings to change the shortcuts.</source>
@@ -3909,7 +3909,7 @@ Please try again later.</source>
     </message>
     <message>
         <source>Send Contacts to Selected Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Суйланă çыхăнусем валли çыхăнусене ярса панă</translation>
     </message>
     <message>
         <source>&amp;Select</source>
@@ -4226,7 +4226,7 @@ Please try again later.</source>
     <name>Video</name>
     <message>
         <source>Skype Full-Screen Video</source>
-        <translation type="unfinished"/>
+        <translation>Скайп тулли виҫеллӗ курав</translation>
     </message>
     <message>
         <source>%1 would like to start a video call with you</source>
@@ -4322,7 +4322,7 @@ when I am in a call</source>
     </message>
     <message>
         <source>Start recording a voice message if...</source>
-        <translation type="unfinished"/>
+        <translation>Сасӑ ҫырӑвне хӑш чух ӳкермелле...</translation>
     </message>
     <message>
         <source>Never miss another call with voice messages</source>
