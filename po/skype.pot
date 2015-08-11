@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SkypeInYourLang\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2015-05-16 18:31:59+0100\n"
+"POT-Creation-Date: 2015-08-11 08:12:10-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4465,6 +4465,62 @@ msgctxt "sZAPBUTTON_DIALPAD"
 msgid "Dial pad"
 msgstr ""
 
+msgctxt "sZAPBUTTON_DIALPAD_0"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_1"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_2"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_3"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_4"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_5"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_6"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_7"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_8"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_9"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_ASTERIX"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_HASH"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_SMS"
+msgid " "
+msgstr ""
+
+msgctxt "sZAPBUTTON_DIALPAD_CALL"
+msgid " "
+msgstr ""
+
 msgctxt "sZAPBUTTON_DIALNUMBER"
 msgid "Dial this phone number"
 msgstr ""
@@ -4911,6 +4967,26 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
+msgstr ""
+
+msgctxt "sZAPBUTTON_PICKEREMOTICON"
+msgid "Emoticon"
+msgstr ""
+
+msgctxt "sZAPBUTTON_PICKERFLIK"
+msgid "Moji"
+msgstr ""
+
+msgctxt "sZAPBUTTON_PICKERNEXT"
+msgid "Next"
+msgstr ""
+
+msgctxt "sZAPBUTTON_PICKERPREV"
+msgid "Previous"
+msgstr ""
+
+msgctxt "sZAPBUTTON_PICKERRECENT"
+msgid "Recent"
 msgstr ""
 
 msgctxt "sZAPBUTTON_PLUS"
@@ -11830,11 +11906,11 @@ msgid "Creator settings"
 msgstr ""
 
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_HISTORY"
-msgid "Make chat history available to new joiners"
+msgid "Make chat history available to everyone"
 msgstr ""
 
 msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOIN"
-msgid "Allow people to join this group"
+msgid "Make a link for people to join"
 msgstr ""
 
 msgctxt "sF_CHAT_INFO_ADMIN_SETTINGS"
@@ -12197,6 +12273,10 @@ msgctxt "sDIALPAD_MAIN_HASH"
 msgid "#"
 msgstr ""
 
+msgctxt "sDIALPAD_AUX_1"
+msgid " "
+msgstr ""
+
 msgctxt "sDIALPAD_AUX_2"
 msgid "ABC"
 msgstr ""
@@ -12229,8 +12309,16 @@ msgctxt "sDIALPAD_AUX_9"
 msgid "WXYZ"
 msgstr ""
 
+msgctxt "sDIALPAD_AUX_ASTERISK"
+msgid " "
+msgstr ""
+
 msgctxt "sDIALPAD_AUX_0"
 msgid "+"
+msgstr ""
+
+msgctxt "sDIALPAD_AUX_HASH"
+msgid " "
 msgstr ""
 
 msgctxt "sDIALPAD_COUNTRY_SELECTOR"
@@ -12510,7 +12598,7 @@ msgid "From %0:s, contacts, sent on %1:s"
 msgstr ""
 
 msgctxt "sSHARE_MENU_SEND_PIC"
-msgid "Photos"
+msgid "Send photo..."
 msgstr ""
 
 msgctxt "sF_OPTIONS_CB_SHOW_LARGE_EMOTS"
@@ -12566,15 +12654,15 @@ msgid "<a href=\"%s\">Invite others to join</a>"
 msgstr ""
 
 msgctxt "sF_CHAT_INFO_CONVERSATION_JOIN_LABEL"
-msgid "Share this link with anyone to bring them into the Space:"
+msgid "Share this link with anyone to bring them into the group:"
 msgstr ""
 
 msgctxt "sHUDDLE_EMAIL_SUBJECT"
-msgid "Join me in my Skype Space"
+msgid "Join my group on Skype"
 msgstr ""
 
-msgctxt "sHUDDLE_EMAIL_BODYTEXT"
-msgid "Hi there,'+#13#10+#13#10+'I''ve made a Skype Space for us to chat, share and collaborate.'+#13#10+#13#10+'Join the Space by clicking the link:'+#13#10+'%s'+#13#10+#13#10+'*Don''t have Skype yet? Download it before you can join http://www.skype.com"
+msgctxt "sHUDDLE_EMAIL_BODY"
+msgid "Hi there,%b%bI've made a group on Skype for us to chat, share and collaborate.%b%bJoin it by clicking the link:%b%s%b%b*Don't have Skype yet? Download it before you join http://www.skype.com"
 msgstr ""
 
 msgctxt "sHUDDLE_POPUP_JOIN_CHECK"
@@ -12585,12 +12673,16 @@ msgctxt "sHUDDLE_POPUP_JOIN_LABEL"
 msgid "Others can join with a link"
 msgstr ""
 
+msgctxt "sHUDDLE_POPUP_JOIN_LABEL_ADMIN"
+msgid "Anyone else? Turn on \"%s\" from the  <a href=\"x\">group profile</a> to get a link you can share."
+msgstr ""
+
 msgctxt "sHUDDLE_POPUP_JOIN_LINKS"
 msgid "<a href=\"copy\">Copy link</a>%s<a href=\"email\">Email</a>"
 msgstr ""
 
 msgctxt "sCONFIRM_DEFAULT_CHECK"
-msgid "Would you like to select which Skype related actions this program should handle by default?"
+msgid "Would you like calls and Skype links to always open with Skype for Windows desktop? If so, click <b>Yes</b> and on the following screen <b>Select All</b> and <b>Save</b>."
 msgstr ""
 
 msgctxt "sCONFIRM_DEFAULT_CHECK_TITLE"
@@ -12630,11 +12722,11 @@ msgid "Start"
 msgstr ""
 
 msgctxt "sMESGPREVIEW_POSTED_FLIK_SINGLE"
-msgid "Shared a Flik"
+msgid "Shared a Moji"
 msgstr ""
 
 msgctxt "sMESGPREVIEW_POSTED_FLIK_MULTI"
-msgid "%s shared a Flik"
+msgid "%s shared a Moji"
 msgstr ""
 
 msgctxt "sMESGPREVIEW_POSTED_FALLBACK_SINGLE"
@@ -12654,19 +12746,19 @@ msgid "Open URL"
 msgstr ""
 
 msgctxt "sACC_NAME_FLIK_OPEN"
-msgid "Open Skype Flik"
+msgid "Open Moji"
 msgstr ""
 
 msgctxt "sACC_NAME_FLIK_MESSAGE"
-msgid "From %0:s, Skype Flik, sent on %1:s"
+msgid "From %0:s, Moji, sent on %1:s"
 msgstr ""
 
 msgctxt "sFLIK_PLAY"
-msgid "Play Skype Flik"
+msgid "Play Moji"
 msgstr ""
 
 msgctxt "sFLIK_OPEN_LINK"
-msgid "Open Skype Flik Link"
+msgid "Open Moji Link"
 msgstr ""
 
 msgctxt "sAPP_TOOLBAR_HOME"
@@ -12678,11 +12770,11 @@ msgid "Call"
 msgstr ""
 
 msgctxt "sAPP_TOOLBAR_NEW"
-msgid "New"
+msgid "Group"
 msgstr ""
 
 msgctxt "sAPP_TOOLBAR_NEW_TOOLTIP"
-msgid "New conversation"
+msgid "Create a new group for you and your friends"
 msgstr ""
 
 msgctxt "sMAINMENU_LOGGING"
@@ -12714,7 +12806,7 @@ msgid "Show advanced text formatting"
 msgstr ""
 
 msgctxt "sEMPTY_GROUP_HUDDLE"
-msgid "%s's Space"
+msgid "%s's group"
 msgstr ""
 
 msgctxt "sAC_SEND_REQ_SC"
@@ -12727,5 +12819,125 @@ msgstr ""
 
 msgctxt "sSTATUS_UNKNOWN2_SC"
 msgid "Not connected on Skype yet"
+msgstr ""
+
+msgctxt "sF_OPTIONS_LBC_CONTACTS"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "SF_OPTIONS_CONTACTS_CAPTION"
+msgid "<b>Contacts</b>"
+msgstr ""
+
+msgctxt "SF_OPTIONS_CONTACTS_AUTOADD_FRIENDS"
+msgid "Automatically add friends"
+msgstr ""
+
+msgctxt "SF_OPTIONS_CONTACTS_USE_ADDRESS_BOOK_CHECK"
+msgid "Use my address books"
+msgstr ""
+
+msgctxt "SF_OPTIONS_CONTACTS_USE_ADDRESS_BOOK_BODY"
+msgid "Skype will check your address books and automatically add people you know to your Skype contact list."
+msgstr ""
+
+msgctxt "SF_OPTIONS_CONTACTS_USE_ADDRESS_BOOK_BODY_NOPNV"
+msgid "*You need to have a verified number to be discoverable."
+msgstr ""
+
+msgctxt "SF_OPTIONS_CONTACTS_USE_ADDRESS_BOOK_LINK"
+msgid "<a href=\"%s\">Manage address books</a>"
+msgstr ""
+
+msgctxt "SF_OPTIONS_CONTACTS_NOUSE_ADDRESS_BOOK_CHECK"
+msgid "Don't use my address books"
+msgstr ""
+
+msgctxt "SF_OPTIONS_CONTACTS_NOUSE_ADDRESS_BOOK_BODY"
+msgid "You will need to manually find and add new contacts."
+msgstr ""
+
+msgctxt "sLIVE_CONNECTING"
+msgid "Connecting..."
+msgstr ""
+
+msgctxt "sLIVE_RINGING"
+msgid "Ringing..."
+msgstr ""
+
+msgctxt "sPARTICIPANT_CALL_STATE_CONNECTING"
+msgid "Connecting"
+msgstr ""
+
+msgctxt "sANGER_SMILEY"
+msgid "Anger"
+msgstr ""
+
+msgctxt "sDISGUST_SMILEY"
+msgid "Disgust"
+msgstr ""
+
+msgctxt "sFEAR_SMILEY"
+msgid "Fear"
+msgstr ""
+
+msgctxt "sJOY_SMILEY"
+msgid "Joy"
+msgstr ""
+
+msgctxt "sSADNESS_SMILEY"
+msgid "Sadness"
+msgstr ""
+
+msgctxt "sUNTITLED_SPACE"
+msgid "Untitled group"
+msgstr ""
+
+msgctxt "sBUDDYMENU_COPY_JOIN_URL"
+msgid "Copy link"
+msgstr ""
+
+msgctxt "sPICKER_EMOTICON_BUTTON_HINT"
+msgid "Emoticons"
+msgstr ""
+
+msgctxt "sPICKER_FLIK_BUTTON_HINT"
+msgid "Mojis"
+msgstr ""
+
+msgctxt "sFLIK_CONTENT_REMOVED"
+msgid "This content has been removed"
+msgstr ""
+
+msgctxt "sFLIK_CONTENT_EXPIRED"
+msgid "This content has expired"
+msgstr ""
+
+msgctxt "sMAINMENU_CONTACTS_NEW_SPACE"
+msgid "Create New Group..."
+msgstr ""
+
+msgctxt "sPARTICIPANT_REMOVE_FROM_SPACE"
+msgid "Remove person from this group"
+msgstr ""
+
+msgctxt "sCONV_BOOKMARK_SPACE"
+msgid "Save group to your Contacts"
+msgstr ""
+
+msgctxt "sF_SPACE_TOPIC_CHANGED"
+msgid "%s has renamed this group to \"%s\""
+msgstr ""
+
+msgctxt "sFLIK_ROSTER_NONE_SELECTED"
+msgid "Choose a Moji"
+msgstr ""
+
+msgctxt "sACC_NAME_FLIK_TITLE_LOADING"
+msgid "Moji loading..."
+msgstr ""
+
+msgctxt "sACC_NAME_FLIK_TITLE_LOADED"
+msgid "Click to send this Moji"
 msgstr ""
 
