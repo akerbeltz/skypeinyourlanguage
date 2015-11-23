@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SkypeInYourLang\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2015-08-11 08:12:10-0500\n"
+"POT-Creation-Date: 2015-11-23 23:05:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3322,7 +3322,7 @@ msgid "Beer"
 msgstr ""
 
 msgctxt "sDRINK_SMILEY"
-msgid "Drink"
+msgid "drink"
 msgstr ""
 
 msgctxt "sDANCING_SMILEY"
@@ -4777,7 +4777,15 @@ msgctxt "sZAPBUTTON_MESSAGESMILE"
 msgid "Choose emoticon"
 msgstr ""
 
+msgctxt "sZAPBUTTON_MESSAGESMILEUNREAD"
+msgid "Choose emoticon"
+msgstr ""
+
 msgctxt "sZAPBUTTON_MESSAGEFROWN"
+msgid "Choose emoticon"
+msgstr ""
+
+msgctxt "sZAPBUTTON_MESSAGEFROWNUNREAD"
 msgid "Choose emoticon"
 msgstr ""
 
@@ -4807,6 +4815,10 @@ msgstr ""
 
 msgctxt "sZAPBUTTON_NEXT"
 msgid "Next"
+msgstr ""
+
+msgctxt "sZAPBUTTON_OK"
+msgid "OK"
 msgstr ""
 
 msgctxt "sZAPBUTTON_OKUSEDEVICE"
@@ -4969,24 +4981,12 @@ msgctxt "sZAPBUTTON_REMOVECONTACTS"
 msgid "Remove"
 msgstr ""
 
-msgctxt "sZAPBUTTON_PICKEREMOTICON"
-msgid "Emoticon"
-msgstr ""
-
-msgctxt "sZAPBUTTON_PICKERFLIK"
-msgid "Moji"
-msgstr ""
-
 msgctxt "sZAPBUTTON_PICKERNEXT"
 msgid "Next"
 msgstr ""
 
 msgctxt "sZAPBUTTON_PICKERPREV"
 msgid "Previous"
-msgstr ""
-
-msgctxt "sZAPBUTTON_PICKERRECENT"
-msgid "Recent"
 msgstr ""
 
 msgctxt "sZAPBUTTON_PLUS"
@@ -5270,11 +5270,43 @@ msgid "Done"
 msgstr ""
 
 msgctxt "sZAPBUTTON_COPYLINK"
-msgid "Copy link"
+msgid "copy link"
 msgstr ""
 
 msgctxt "sZAPBUTTON_EMAILLINK"
-msgid "Email"
+msgid "email"
+msgstr ""
+
+msgctxt "sZAPBUTTON_TOGGLETRANSLATOR"
+msgid "Toggle Translator"
+msgstr ""
+
+msgctxt "sZAPBUTTON_TRANSLATOROPTIONS"
+msgid "Options"
+msgstr ""
+
+msgctxt "sZAPBUTTON_TOGGLEON"
+msgid "On"
+msgstr ""
+
+msgctxt "sZAPBUTTON_TOGGLEOFF"
+msgid "Off"
+msgstr ""
+
+msgctxt "sZAPBUTTON_HEARTMARKON"
+msgid "On"
+msgstr ""
+
+msgctxt "sZAPBUTTON_HEARTMARKOFF"
+msgid "Off"
+msgstr ""
+
+msgctxt "sZAPBUTTON_CONTINUELOGIN"
+msgid "Continue"
+msgstr ""
+
+msgctxt "sZAPBUTTON_RETRYLOGIN"
+msgid "Retry"
 msgstr ""
 
 msgctxt "sF_USERENTRY_DB_FAILURE"
@@ -7122,7 +7154,7 @@ msgid "Heartbeat (Skype Status)"
 msgstr ""
 
 msgctxt "sINSERTSMILEY"
-msgid "Insert emoticon"
+msgid "Insert emoticon or Moji"
 msgstr ""
 
 msgctxt "sSAVE_GROUP_LABEL"
@@ -8730,7 +8762,7 @@ msgid "Call from %s (%s), duration %s."
 msgstr ""
 
 msgctxt "sCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
-msgid "Select no more than %d participants to be able to start a call"
+msgid "Group voice calling is available to groups with %d participants or less."
 msgstr ""
 
 msgctxt "sOPTIONS_AD_POLICY"
@@ -11418,7 +11450,7 @@ msgid "In order to receive video from everyone in this call, %s and other partic
 msgstr ""
 
 msgctxt "sCONFIRM_FILE_TRANSFER_OK"
-msgid "Ok"
+msgid "OK"
 msgstr ""
 
 msgctxt "sCONFIRM_FILE_TRANSFER_CANCEL"
@@ -11522,19 +11554,19 @@ msgid "Messenger > %s"
 msgstr ""
 
 msgctxt "sPROFILE_LYNC_PRESENCE"
-msgid "Skype for Business > %s"
+msgid "Skype for Business >%s"
 msgstr ""
 
 msgctxt "sCHAT_PROFILE_ONE_PERSON"
-msgid "%d person"
+msgid "%d participant"
 msgstr ""
 
 msgctxt "sCHAT_PROFILE_MANY_PERSONS"
-msgid "%d people"
+msgid "%d participants"
 msgstr ""
 
 msgctxt "sCHAT_PROFILE_ZERO_PERSONS"
-msgid "0 people"
+msgid "0 participants"
 msgstr ""
 
 msgctxt "sCHAT_PROFILE_AVATAR_ACC_NAME"
@@ -12090,7 +12122,7 @@ msgid "SMS sent to <a href=\"x\">%d people</a>"
 msgstr ""
 
 msgctxt "sVIDEOCALL_BTN_TOO_MANY_PARTICIPANTS_HINT"
-msgid "Select no more than %d participants to be able to start a video call"
+msgid "Group video calling is available to groups with %d participants or less."
 msgstr ""
 
 msgctxt "sVIDEOCALL_BTN_SO_CONTACT_HINT"
@@ -12273,10 +12305,6 @@ msgctxt "sDIALPAD_MAIN_HASH"
 msgid "#"
 msgstr ""
 
-msgctxt "sDIALPAD_AUX_1"
-msgid " "
-msgstr ""
-
 msgctxt "sDIALPAD_AUX_2"
 msgid "ABC"
 msgstr ""
@@ -12309,16 +12337,8 @@ msgctxt "sDIALPAD_AUX_9"
 msgid "WXYZ"
 msgstr ""
 
-msgctxt "sDIALPAD_AUX_ASTERISK"
-msgid " "
-msgstr ""
-
 msgctxt "sDIALPAD_AUX_0"
 msgid "+"
-msgstr ""
-
-msgctxt "sDIALPAD_AUX_HASH"
-msgid " "
 msgstr ""
 
 msgctxt "sDIALPAD_COUNTRY_SELECTOR"
@@ -12670,15 +12690,15 @@ msgid "Allow others to join with a link"
 msgstr ""
 
 msgctxt "sHUDDLE_POPUP_JOIN_LABEL"
-msgid "Others can join with a link"
+msgid "Anyone else? Send them a link"
 msgstr ""
 
 msgctxt "sHUDDLE_POPUP_JOIN_LABEL_ADMIN"
-msgid "Anyone else? Turn on \"%s\" from the  <a href=\"x\">group profile</a> to get a link you can share."
+msgid "Turn on \"%s\" from the <a href=\"x\">profile</a> to get a link you can share."
 msgstr ""
 
 msgctxt "sHUDDLE_POPUP_JOIN_LINKS"
-msgid "<a href=\"copy\">Copy link</a>%s<a href=\"email\">Email</a>"
+msgid "<a href=\"copy\">copy link</a>%s<a href=\"email\">email</a>"
 msgstr ""
 
 msgctxt "sCONFIRM_DEFAULT_CHECK"
@@ -12770,11 +12790,11 @@ msgid "Call"
 msgstr ""
 
 msgctxt "sAPP_TOOLBAR_NEW"
-msgid "Group"
+msgid "New"
 msgstr ""
 
 msgctxt "sAPP_TOOLBAR_NEW_TOOLTIP"
-msgid "Create a new group for you and your friends"
+msgid "Create a new conversation that anyone can join."
 msgstr ""
 
 msgctxt "sMAINMENU_LOGGING"
@@ -12890,7 +12910,7 @@ msgid "Sadness"
 msgstr ""
 
 msgctxt "sUNTITLED_SPACE"
-msgid "Untitled group"
+msgid "Untitled conversation"
 msgstr ""
 
 msgctxt "sBUDDYMENU_COPY_JOIN_URL"
@@ -12914,19 +12934,19 @@ msgid "This content has expired"
 msgstr ""
 
 msgctxt "sMAINMENU_CONTACTS_NEW_SPACE"
-msgid "Create New Group..."
+msgid "Create New Conversation..."
 msgstr ""
 
 msgctxt "sPARTICIPANT_REMOVE_FROM_SPACE"
-msgid "Remove person from this group"
+msgid "Remove person from this conversation"
 msgstr ""
 
 msgctxt "sCONV_BOOKMARK_SPACE"
-msgid "Save group to your Contacts"
+msgid "Save conversation to your Contacts"
 msgstr ""
 
 msgctxt "sF_SPACE_TOPIC_CHANGED"
-msgid "%s has renamed this group to \"%s\""
+msgid "%s has renamed this conversation to \"%s\""
 msgstr ""
 
 msgctxt "sFLIK_ROSTER_NONE_SELECTED"
@@ -12939,5 +12959,849 @@ msgstr ""
 
 msgctxt "sACC_NAME_FLIK_TITLE_LOADED"
 msgid "Click to send this Moji"
+msgstr ""
+
+msgctxt "sF_OPTIONS_LBC_DISCOVERABILITY"
+msgid "How people find me"
+msgstr ""
+
+msgctxt "SF_OPTIONS_DISCOVERABILITY_CAPTION"
+msgid "<b>How people find me</b>"
+msgstr ""
+
+msgctxt "sF_OPTIONS_DISCOVERABILITY_DESC"
+msgid "These contact details can be used to find you on Skype."
+msgstr ""
+
+msgctxt "sFLIK_MESSAGE_TEXT"
+msgid "%s - Moji"
+msgstr ""
+
+msgctxt "sCHAT_MEMBER_EXPIRED"
+msgid "The guest account for %s has expired."
+msgstr ""
+
+msgctxt "sCHAT_NEW_SPACE_TITLE"
+msgid "Your conversation is all set up"
+msgstr ""
+
+msgctxt "sCHAT_NEW_SPACE_DESC"
+msgid "Share photos, messages and much more with everyone here or invite even more people by sharing this link with them."
+msgstr ""
+
+msgctxt "sCHAT_NEW_SPACE_RENAME_TITLE"
+msgid "Rename conversation"
+msgstr ""
+
+msgctxt "sCHAT_NEW_SPACE_RENAME_DESC"
+msgid "Make your conversation unique"
+msgstr ""
+
+msgctxt "sCHAT_NEW_SPACE_CONFIG_TITLE"
+msgid "Settings"
+msgstr ""
+
+msgctxt "sCHAT_NEW_SPACE_CONFIG_DESC"
+msgid "Manage your conversation"
+msgstr ""
+
+msgctxt "sACC_NAME_ADD_CONTACTS_LIST"
+msgid "Add participants to conversation list"
+msgstr ""
+
+msgctxt "sADD_CONTACTS_CONTACTS"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "sADD_CONTACTS_JUMP_TO_CONVERSATION"
+msgid "Jump to conversation"
+msgstr ""
+
+msgctxt "sADD_CONTACTS_ADD"
+msgid "Add"
+msgstr ""
+
+msgctxt "sF_CHAT_INFO_CREATOR_SETTINGS_JOINABLE"
+msgid "Make a link for anyone to join"
+msgstr ""
+
+msgctxt "sPROFILE_GUEST_CONTACT_MOD"
+msgid "%s (Guest)"
+msgstr ""
+
+msgctxt "sFLIK_INTRO_TEXT"
+msgid "Introducing Moji -<br />little videos that express a lot."
+msgstr ""
+
+msgctxt "sPICKER_RECENT_BUTTON_HINT"
+msgid "Recent"
+msgstr ""
+
+msgctxt "sPICKER_RECENT_EMPTY_TEXT"
+msgid "Recently used<br />emoticons and Mojis<br />will appear here."
+msgstr ""
+
+msgctxt "sHUDDLE_POPUP_JOIN_TITLE_ADMIN"
+msgid "Anyone else?"
+msgstr ""
+
+msgctxt "sADD_CONTACTS_CREATE"
+msgid "Create group"
+msgstr ""
+
+msgctxt "sHUDDLE_POPUP_JOIN_LINKS_COPIED"
+msgid "<span class=\"%s\">copied</span>%s<a href=\"email\">email</a>"
+msgstr ""
+
+msgctxt "sACC_NAME_AC_CONVERSATION_LIST_ITEM"
+msgid "%s, select to go to existing conversation"
+msgstr ""
+
+msgctxt "sPICKER_FEATURED_CAPTION"
+msgid "Featured"
+msgstr ""
+
+msgctxt "sPICKER_EMOTICON_CAPTION"
+msgid "Emoticons"
+msgstr ""
+
+msgctxt "sPICKER_FLIK_CAPTION"
+msgid "Mojis"
+msgstr ""
+
+msgctxt "sPICKER_RECENT_EMPTY_TEXT_2"
+msgid "Recently used items<br />will appear here."
+msgstr ""
+
+msgctxt "sMAINMENU_HELP_EULA"
+msgid "Terms of Use"
+msgstr ""
+
+msgctxt "sSKYPE_DISABLED_LOCALE_TITLE"
+msgid "Skype is not available"
+msgstr ""
+
+msgctxt "sSKYPE_DISABLED_LOCALE_MESSAGE"
+msgid "Sorry, Skype is not available in your country or region."
+msgstr ""
+
+msgctxt "sCALLING_DISABLED_LOCALE"
+msgid "Sorry, you cannot make calls in your country or region."
+msgstr ""
+
+msgctxt "sPSTN_DISABLED_LOCALE"
+msgid "Sorry, you cannot make calls to mobiles or landlines in your country or region."
+msgstr ""
+
+msgctxt "sCONTACTLIST_FIND_IN_ADDRESSBOOK"
+msgid "<a href=\"%s\">Automatically find people in your address book</a>"
+msgstr ""
+
+msgctxt "sTRANSLATOR_ME_CAPTION"
+msgid "I speak"
+msgstr ""
+
+msgctxt "sTRANSLATOR_OTHER_CAPTION"
+msgid "%s speaks"
+msgstr ""
+
+msgctxt "sTRANSLATOR_PREVIEW"
+msgid "Translator preview"
+msgstr ""
+
+msgctxt "sOPTIONS_TRANSLATOR_ENABLED"
+msgid "Enable Skype Translator"
+msgstr ""
+
+msgctxt "sF_OPTIONS_PAGE_TRANSLATOR"
+msgid "Skype Translator"
+msgstr ""
+
+msgctxt "sF_OPTIONS_LBC_TRANSLATOR"
+msgid "<b>Skype Translator:</b> Enable Skype Translator"
+msgstr ""
+
+msgctxt "sTRANSLATOR_DISCOVERY_MESSAGE"
+msgid "Speak with anyone. Now you can translate calls and messages."
+msgstr ""
+
+msgctxt "sCHAT_POPUP_TRANSLATE_TO"
+msgid "See Translation"
+msgstr ""
+
+msgctxt "sCHAT_POPUP_TRANSLATE_ORG"
+msgid "See Original"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ar"
+msgid "Arabic"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_bg"
+msgid "Bulgarian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_bs"
+msgid "Bosnian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ca"
+msgid "Catalan"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_cs"
+msgid "Czech"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_cy"
+msgid "Welsh"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_da"
+msgid "Danish"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_de"
+msgid "German"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_el"
+msgid "Greek"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_en"
+msgid "English"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_es"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_et"
+msgid "Estonian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_fa"
+msgid "Persian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_fi"
+msgid "Finnish"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_fr"
+msgid "French"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_he"
+msgid "Hebrew"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_hi"
+msgid "Hindi"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_hr"
+msgid "Croatian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ht"
+msgid "Haitian Creole"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_hu"
+msgid "Hungarian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_id"
+msgid "Indonesian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_it"
+msgid "Italian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ja"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ko"
+msgid "Korean"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_lt"
+msgid "Lithuanian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_lv"
+msgid "Latvian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ms"
+msgid "Malay"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_mt"
+msgid "Maltese"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_mww"
+msgid "Hmong Daw"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_nb"
+msgid "Norwegian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_nl"
+msgid "Dutch"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_otq"
+msgid "Querétaro Otomi"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_pl"
+msgid "Polish"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_pt"
+msgid "Portuguese"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ro"
+msgid "Romanian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ru"
+msgid "Russian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_sk"
+msgid "Slovak"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_sl"
+msgid "Slovenian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_sr_latn"
+msgid "Serbian (Latin)"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_sr_cyrl"
+msgid "Serbian (Cyrillic)"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_sv"
+msgid "Swedish"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_th"
+msgid "Thai"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_tlh"
+msgid "Klingon"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_tr"
+msgid "Turkish"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_uk"
+msgid "Ukrainian"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_ur"
+msgid "Urdu"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_vi"
+msgid "Vietnamese"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_yua"
+msgid "Yucatec Maya"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_zh_hans"
+msgid "Chinese (Han (Simplified variant))"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_zh_hant"
+msgid "Chinese (Han (Traditional variant))"
+msgstr ""
+
+msgctxt "sTRANSLATOR_LANG_zh_latn"
+msgid "Chinese (Latin)"
+msgstr ""
+
+msgctxt "sTRANSLATOR_DISCLOSURE"
+msgid "Hi. This call is being translated by Skype.  If you continue, the call will be recorded and may be used to improve Skype and Microsoft services."
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSLATOR_OPTIONS"
+msgid "Translator Options"
+msgstr ""
+
+msgctxt "sTRANSLATOR_OPTIONS_HINT"
+msgid "Translator Options"
+msgstr ""
+
+msgctxt "sTRANSLATOR_MY_LANG_CAPTION"
+msgid "Me"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSLATOR_CHAT_ICON"
+msgid "Translated chat enabled"
+msgstr ""
+
+msgctxt "sTRANSLATOR_CHAT_ICON_HINT"
+msgid "Translated chat enabled"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSLATOR_CALL_ICON"
+msgid "Translated call enabled"
+msgstr ""
+
+msgctxt "sTRANSLATOR_CALL_ICON_HINT"
+msgid "Translated call enabled"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSLATOR_VIDEO_ICON"
+msgid "Translated video call enabled"
+msgstr ""
+
+msgctxt "sTRANSLATOR_VIDEO_ICON_HINT"
+msgid "Translated video call enabled"
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSLATOR_ON_BUTTON"
+msgid "Skype Translator, switched on."
+msgstr ""
+
+msgctxt "sACC_NAME_TRANSLATOR_OFF_BUTTON"
+msgid "Skype Translator, switched off."
+msgstr ""
+
+msgctxt "sTRANSLATOR_BUTTON_HINT"
+msgid "Skype Translator"
+msgstr ""
+
+msgctxt "sTRANSLATING_ENTRY_CONTROL"
+msgid "Translating..."
+msgstr ""
+
+msgctxt "sACC_TRANSLATOR_LANGUAGE_POPUP_NAME"
+msgid "Translator language popup"
+msgstr ""
+
+msgctxt "sACC_TRANSLATOR_LANGUAGE_COMBO_NAME"
+msgid "Translator language combo box"
+msgstr ""
+
+msgctxt "sF_OPTIONS_NOTIF_MASTER"
+msgid "Enable Skype for Windows desktop notifications"
+msgstr ""
+
+msgctxt "sF_OPTIONS_NOTIF_MASTER_WARNING"
+msgid "When notifications are turned off, you will not receive any call or message notifications from Skype for Windows desktop."
+msgstr ""
+
+msgctxt "sF_OPTIONS_NOTIF_SOUNDS_DISABLED"
+msgid "Some of your sound settings are not being shown as your notifications are turned off."
+msgstr ""
+
+msgctxt "sMOVEMBER_SMILEY"
+msgid "Movember"
+msgstr ""
+
+msgctxt "sOK_SMILEY"
+msgid "OK"
+msgstr ""
+
+msgctxt "sFISTBUMP_SMILEY"
+msgid "Fist bump"
+msgstr ""
+
+msgctxt "sPRAYING_SMILEY"
+msgid "Praying"
+msgstr ""
+
+msgctxt "sPOKE_SMILEY"
+msgid "Poke"
+msgstr ""
+
+msgctxt "sVICTORY_SMILEY"
+msgid "Victory sign"
+msgstr ""
+
+msgctxt "sHANDS_IN_AIR_SMILEY"
+msgid "Hands celebrating"
+msgstr ""
+
+msgctxt "sMAN_SMILEY"
+msgid "Man"
+msgstr ""
+
+msgctxt "sWOMAN_SMILEY"
+msgid "Woman"
+msgstr ""
+
+msgctxt "sGOTTARUN_SMILEY"
+msgid "Got to run"
+msgstr ""
+
+msgctxt "sSTOP_SMILEY"
+msgid "Stop"
+msgstr ""
+
+msgctxt "sMONKEY_SMILEY"
+msgid "Monkey"
+msgstr ""
+
+msgctxt "sSNAIL_SMILEY"
+msgid "Snail"
+msgstr ""
+
+msgctxt "sGOODLUCK_SMILEY"
+msgid "Good luck"
+msgstr ""
+
+msgctxt "sISLAND_SMILEY"
+msgid "Island"
+msgstr ""
+
+msgctxt "sUMBRELLA_SMILEY"
+msgid "Umbrella"
+msgstr ""
+
+msgctxt "sRAINBOW_SMILEY"
+msgid "Rainbow"
+msgstr ""
+
+msgctxt "sCANYOUTALK_SMILEY"
+msgid "Can you talk?"
+msgstr ""
+
+msgctxt "sCAMERA_SMILEY"
+msgid "Camera"
+msgstr ""
+
+msgctxt "sPLANE_SMILEY"
+msgid "Plane"
+msgstr ""
+
+msgctxt "sCAR_SMILEY"
+msgid "Car"
+msgstr ""
+
+msgctxt "sCOMPUTER_SMILEY"
+msgid "Computer"
+msgstr ""
+
+msgctxt "sBRB_SMILEY"
+msgid "Be right back"
+msgstr ""
+
+msgctxt "sGAMES_SMILEY"
+msgid "Games"
+msgstr ""
+
+msgctxt "sGIFT_SMILEY"
+msgid "Gift"
+msgstr ""
+
+msgctxt "sHOLDOn_SMILEY"
+msgid "Hold on"
+msgstr ""
+
+msgctxt "sLETSMEET_SMILEY"
+msgid "Let's meet"
+msgstr ""
+
+msgctxt "sCONFIDENTIAL_SMILEY"
+msgid "Confidential"
+msgstr ""
+
+msgctxt "sBOMB_SMILEY"
+msgid "Bomb"
+msgstr ""
+
+msgctxt "sWHATSGOINGON_SMILEY"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "sWIN10_SMILEY"
+msgid "Windows 10"
+msgstr ""
+
+msgctxt "sLEARN_SMILEY"
+msgid "Global Learning"
+msgstr ""
+
+msgctxt "sACCESS_SMILEY"
+msgid "Access"
+msgstr ""
+
+msgctxt "sBING_SMILEY"
+msgid "Bing"
+msgstr ""
+
+msgctxt "sEXCEL_SMILEY"
+msgid "Excel"
+msgstr ""
+
+msgctxt "sINTERNETEXPLORER_SMILEY"
+msgid "Internet Explorer"
+msgstr ""
+
+msgctxt "sMICROSOFT_SMILEY"
+msgid "Microsoft"
+msgstr ""
+
+msgctxt "sONEDRIVE_SMILEY"
+msgid "OneDrive"
+msgstr ""
+
+msgctxt "sONENOTE_SMILEY"
+msgid "Onenote"
+msgstr ""
+
+msgctxt "sOUTLOOK_SMILEY"
+msgid "Outlook"
+msgstr ""
+
+msgctxt "sPOWERPOINT_SMILEY"
+msgid "Powerpoint"
+msgstr ""
+
+msgctxt "sPUBLISHER_SMILEY"
+msgid "Publisher"
+msgstr ""
+
+msgctxt "sSHAREPOINT_SMILEY"
+msgid "Sharepoint"
+msgstr ""
+
+msgctxt "sSKYPEBIZ_SMILEY"
+msgid "Skype for Business"
+msgstr ""
+
+msgctxt "sWORD_SMILEY"
+msgid "Word"
+msgstr ""
+
+msgctxt "sXBOX_SMILEY"
+msgid "Xbox"
+msgstr ""
+
+msgctxt "sTOGGLE_ON"
+msgid "On"
+msgstr ""
+
+msgctxt "sTOGGLE_OFF"
+msgid "Off"
+msgstr ""
+
+msgctxt "sHINT_CREATENEWGROUP"
+msgid "Create new group"
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_UPLOAD_FAILED_TOOBIG"
+msgid "Not sent - File is larger than %s."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_UPLOAD_FAILED_MALWARE"
+msgid "Not sent - Virus detected."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_UPLOAD_FAILED_NO_INTERNET"
+msgid "Waiting for internet connection..."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_UPLOAD_WAITING"
+msgid "Waiting..."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_UPLOAD_FAILED"
+msgid "There was a problem sending this file."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_UPLOAD_FAILED_UNSAFE"
+msgid "Sent a potentially unsafe file."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_UPLOAD_SCANNING"
+msgid "Checking for viruses..."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_UPLOAD_SENT"
+msgid "Sent"
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_DOWNLOAD_FAILED_EXPIRED"
+msgid "This file is no longer available."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_DOWNLOAD_FAILED_RESTART"
+msgid "Restart"
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_DOWNLOAD_FAILED"
+msgid "There was a problem receiving this file."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_DOWNLOAD_FAILED_UNSAFE"
+msgid "This file could potentially be unsafe."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_DOWNLOAD_FAILED_MALWARE"
+msgid "Cannot download, virus detected."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_DOWNLOAD_FAILED_NO_INTERNET"
+msgid "Waiting for internet connection..."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_FAILED"
+msgid "'There was a problem sending this file."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_CANCEL"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_RETRY"
+msgid "Retry"
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_LEGACY"
+msgid "To view this shared file, go to: %2 %3 %1"
+msgstr ""
+
+msgctxt "sSSO_CONTINUE_AS"
+msgid "Continue as"
+msgstr ""
+
+msgctxt "sSSO_ANOTHER_ACCOUNT"
+msgid "Use another account"
+msgstr ""
+
+msgctxt "sSSO_NEXT_TOOLTIP"
+msgid "Continue"
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_CANCELLED"
+msgid "Cancelled"
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_LEARNMORE_INFO"
+msgid "Shared files are removed from Skype after %d days. To keep a file for longer, be sure to save it to your computer."
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_LEARNMORE_EXPIRED"
+msgid "Expired File"
+msgstr ""
+
+msgctxt "sCLOUD_FILETRANSFER_LEARNMORE"
+msgid "Learn more"
+msgstr ""
+
+msgctxt "sCLOUD_VIDEOMESSAGE_LEGACY"
+msgid "To view this video message, go to: %2 %3 %1"
+msgstr ""
+
+msgctxt "sCLOUD_VIDEOMESSAGE_UPLOAD_FAILED"
+msgid "There was a problem sending this video."
+msgstr ""
+
+msgctxt "sCLOUD_VIDEOMESSAGE_DOWNLOAD_FAILED"
+msgid "There was a problem receiving this video."
+msgstr ""
+
+msgctxt "sCLOUD_VIDEOMESSAGE_DOWNLOAD_FAILED_EXPIRED"
+msgid "This video is no longer available."
+msgstr ""
+
+msgctxt "sCLOUD_VIDEOMESSAGE_LEARNMORE_INFO"
+msgid "Shared videos are removed from Skype after %d days. To keep a video for longer, be sure to save it to your computer."
+msgstr ""
+
+msgctxt "sCLOUD_VIDEOMESSAGE_LEARNMORE_EXPIRED"
+msgid "Expired Video"
+msgstr ""
+
+msgctxt "sCONTACT_MOOD_ON_SKYPE"
+msgid "On Skype"
+msgstr ""
+
+msgctxt "sACC_NAME_VIDEO_MESSAGE_CANCEL"
+msgid "Cancel video message"
+msgstr ""
+
+msgctxt "sHEARTMARK_ME"
+msgid "You love this"
+msgstr ""
+
+msgctxt "sHEARTMARK_OTHER"
+msgid "%s loves this"
+msgstr ""
+
+msgctxt "sHEARTMARK_OTHERS"
+msgid "<a href=\"x\">%d people</a> love this"
+msgstr ""
+
+msgctxt "sHEARTMARK_ME_AND_OTHER"
+msgid "You and %s love this"
+msgstr ""
+
+msgctxt "sHEARTMARK_ME_AND_OTHERS"
+msgid "You and <a href=\"x\">%d people</a> love this"
+msgstr ""
+
+msgctxt "sLOGIN_ERROR_NO_INTERNET"
+msgid "Sorry, we couldn't connect to Skype."
+msgstr ""
+
+msgctxt "sLOGIN_ERROR_NO_INTERNET_LINE2"
+msgid "Please check your internet connection and try again."
+msgstr ""
+
+msgctxt "sLOGIN_RETRY_BUTTON"
+msgid "Retry"
+msgstr ""
+
+msgctxt "sNGC_UPDATE_SKYPE_MESSAGE_1"
+msgid "%s needs to update Skype before they can join this call."
+msgstr ""
+
+msgctxt "sNGC_UPDATE_SKYPE_MESSAGE_2"
+msgid "%s and %s need to update Skype before they can join this call."
+msgstr ""
+
+msgctxt "sNGC_UPDATE_SKYPE_MESSAGE_3"
+msgid "%s, %s and %s need to update Skype before they can join this call."
+msgstr ""
+
+msgctxt "sSEARCH_DISCOVERY_MESSAGE"
+msgid "Search by email, phone, name or Skype Name"
+msgstr ""
+
+msgctxt "sNGC_UPDATE_SKYPE_MESSAGE"
+msgid "Some people need to update Skype before they can join this call."
+msgstr ""
+
+msgctxt "sNGC_SS_UPDATE_SKYPE_MESSAGE"
+msgid "Some people need to update Skype before they can see your screen."
+msgstr ""
+
+msgctxt "sNGC_SS_UPDATE_SKYPE_MESSAGE_1"
+msgid "%s needs to update Skype before they can see your screen."
+msgstr ""
+
+msgctxt "sNGC_SS_UPDATE_SKYPE_MESSAGE_2"
+msgid "%s and %s need to update Skype before they can see your screen."
 msgstr ""
 
